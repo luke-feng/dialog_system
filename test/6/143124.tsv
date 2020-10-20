@@ -1,0 +1,6 @@
+2006-03-30T17:21:00.000Z	speedo_		g' day everybody
+2006-03-30T17:22:00.000Z	speedo_		i can't read  mpeg and avi files with totem
+2006-03-30T17:22:00.000Z	speedo_		so i downloaded vlc
+2006-03-30T17:22:00.000Z	Jhair	speedo_	totem with gstreamer or totem-xine?
+2006-03-30T17:24:00.000Z	Jhair	speedo_	I would install totem-xine, mplayer or vlc, the default totem uses gstreamer which is bloated and buggy
+2006-03-30T17:24:00.000Z	Jhair	speedo_	totem-xine is there for a reason

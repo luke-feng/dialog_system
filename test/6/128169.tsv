@@ -1,0 +1,6 @@
+2005-12-26T09:43:00.000Z	dwalton59		can I get apt off the debian disk?
+2005-12-26T09:43:00.000Z	gnube	dwalton59	which debian disk and yes.
+2005-12-26T09:44:00.000Z	gnube	dwalton59	apt is the advanced package manager, it is a debian tool. So it exists on the debian disk.
+2005-12-26T09:46:00.000Z	dwalton59	gnube	dos that mean that i can not installl form the debian disk
+2005-12-26T09:46:00.000Z	gnube	dwalton59	You can install from the debian disk if you want, sure.
+2005-12-26T09:47:00.000Z	gnube	dwalton59	You will be installing debians version of apt-get not ubunut's if that makes any difference to you.

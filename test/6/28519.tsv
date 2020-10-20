@@ -1,0 +1,6 @@
+2009-11-06T17:36:00.000Z	uzi_		Is there Java Media Framework available for Ubuntu?
+2009-11-06T17:37:00.000Z	ActionParsnip	uzi_	http://www.linuxquestions.org/questions/linux-software-2/how-to-install-java-media-framework-jmf-on-ubuntu-522362/
+2009-11-06T17:38:00.000Z	uzi_	ActionParsnip	Do you know if there deb pkg available?
+2009-11-06T17:39:00.000Z	uzi_	ActionParsnip	just searched ubuntu rep, but no result.
+2009-11-06T17:39:00.000Z	ActionParsnip	uzi_	not sure, think yuo have to use the zip
+2009-11-06T17:39:00.000Z	ActionParsnip	uzi_	could try: https://launchpad.net/ubuntu/+ppas

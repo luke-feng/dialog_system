@@ -1,0 +1,6 @@
+2010-03-17T21:58:00.000Z	deostroll		hi hw do u get all those fluidy shearing effects when u drag a window n all in karmc desktop?
+2010-03-17T21:59:00.000Z	deostroll		is compiz something i hve to additionally install?
+2010-03-17T21:59:00.000Z	soreau	deostroll	compiz is already installed
+2010-03-17T22:00:00.000Z	soreau	deostroll	To get wobbly windows, simply set Extra in sys>prefs>appearance>visual effects tab
+2010-03-17T22:02:00.000Z	deostroll	soreau	: in the visual effects when i click on extra, it searches for drivers, n then finally says cannot be loaded...y is this so?
+2010-03-17T22:02:00.000Z	soreau	deostroll	Can you come to #compiz and pastein the output of compiz from your terminal to pastebin.com?

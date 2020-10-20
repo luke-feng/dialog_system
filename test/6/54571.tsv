@@ -1,0 +1,6 @@
+2008-07-14T08:42:00.000Z	ionstorm6		stupid ubuntu hardware dirver thing its conflicting with ndiswrapper
+2008-07-14T08:43:00.000Z	wols_	ionstorm6	however the stupid thing is ndiswrapper. don't use it
+2008-07-14T08:44:00.000Z	ionstorm6	wols_	without ndiswrapper no wifi
+2008-07-14T08:45:00.000Z	wols_	ionstorm6	what wlan chip?
+2008-07-14T08:46:00.000Z	ionstorm6	wols_	ive got no idea what model
+2008-07-14T08:46:00.000Z	wols_	ionstorm6	lspci

@@ -1,0 +1,6 @@
+2010-06-08T17:22:00.000Z	babu__		hi to all.....when i saved the page from indiabix.com,and again open it from my harddisk,it shows empty...........wat's the reason
+2010-06-08T17:24:00.000Z	Dr_Willis	babu__	 look at the contents of the actual file you saved. Could be mnost of the page was from some javascript/extras that didtnt get saved
+2010-09-02T16:58:00.000Z	Dr_Willis	babu__	 'books'  is vague.. theres plenty of free books out there on line
+2010-09-17T21:47:00.000Z	Dr_Willis	babu__	 clarify whats not working about it.
+2010-09-17T21:50:00.000Z	Dr_Willis	babu__	 so you use file -> open  and select a file.. and what happens?
+2010-09-17T21:55:00.000Z	Dr_Willis	babu__	 run evince from a terminal, try to open somthing, look for error messages.

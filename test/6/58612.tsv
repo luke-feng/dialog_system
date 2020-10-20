@@ -1,0 +1,6 @@
+2008-05-06T23:45:00.000Z	xborgy		and it shows 2 floppys too
+2008-05-06T23:45:00.000Z	xborgy		link to the /media
+2008-05-06T23:46:00.000Z	xborgy		this is what it does for me defult when i place a cd in the drive it mounts it to desktop ICON drive and inside /mdeia
+2008-05-06T23:48:00.000Z	fde	xborgy	They are FHS standards... /mnt for hard drives, /media for temporary devices... you don't HAVE to abide by them, but generally the OS will.
+2008-05-06T23:48:00.000Z	xborgy		yes i noticed that but it didnt automount my 2 RAID drives had to do it manually
+2008-05-06T23:49:00.000Z	xborgy	fde	thanks, and DJones thanks you!

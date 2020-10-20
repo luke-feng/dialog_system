@@ -1,0 +1,6 @@
+2010-03-20T05:34:00.000Z	BittyWitty		Hi
+2010-03-20T05:34:00.000Z	BittyWitty		You guys have been helpful in here before and I am not very good with this stuff so I was wondering if you'd help me again. :|
+2010-03-20T05:34:00.000Z	BittyWitty		I am trying to find all files that have a certain extension (say .jpg)
+2010-03-20T05:35:00.000Z	BittyWitty		I did a cd / to go all the way to root, then ls -R i know traverses subfolders
+2010-03-20T05:35:00.000Z	BittyWitty		but when I do ls -R *.jpg it doesn't work :S
+2010-03-20T05:35:00.000Z	trism	BittyWitty	find . -name *.jpg -print;

@@ -1,0 +1,6 @@
+2010-09-03T02:42:00.000Z	digitalfiz		i think compiz crashed is there a way to restart it without restarting ubuntu
+2010-09-03T02:42:00.000Z	VCoolio	digitalfiz	try 'compiz --replace'
+2010-09-03T02:43:00.000Z	digitalfiz	VCoolio	that worked
+2010-09-03T02:43:00.000Z	digitalfiz		ty
+2010-09-03T02:43:00.000Z	digitalfiz	VCoolio	do you know where i would look to see why it crashed
+2010-09-03T02:44:00.000Z	VCoolio	digitalfiz	some log, /var/log/something, maybe xorg.log, don't know if compiz keeps its own

@@ -1,0 +1,6 @@
+2009-05-09T04:24:00.000Z	hwilde		hello what is the minimal entry in /etc/hosts.allow ?
+2009-05-09T04:24:00.000Z	Kareeser	hwilde	empty.
+2009-05-09T04:24:00.000Z	hwilde	Kareeser	to explicitly allow myself...
+2009-05-09T04:24:00.000Z	Kareeser	hwilde	actually, technically, no, there are comments.
+2009-05-09T04:25:00.000Z	hwilde	Kareeser	the minimum Useful hosts.allow
+2009-05-09T04:25:00.000Z	Kareeser	hwilde	ah, nevermind, sorry. Mine's just empty. What did you need it for?

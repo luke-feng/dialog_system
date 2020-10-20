@@ -1,0 +1,6 @@
+2012-08-04T17:41:00.000Z	zachP		Hi all, new here & to Linux based systems. Just installed Ubuntu Server 12.04 for a home server project. Need help as command line seems to not respond. Thanks
+2012-08-04T17:43:00.000Z	zachP		I am in the command line, I just installed a text editor (vim-nox) per a tutorial I am following. The last thing it printed was "Idconfig deferred processing now taking place. Current status: 61 updates [-4]" but that was a couple hours ago. Now I can't shut down, restart, run ifconfig or anything.
+2012-08-04T17:43:00.000Z	zachP		actually sorry I need to run this command: vi /etc/network/interfaces
+2012-08-04T17:44:00.000Z	zachP		I tried those. Doesn't work :(
+2012-08-04T17:44:00.000Z	yeats	zachP	when it doesn't work, what happens? is there an error message?
+2012-08-04T17:45:00.000Z	yeats	zachP	Ctrl-C

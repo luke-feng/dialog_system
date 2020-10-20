@@ -1,0 +1,6 @@
+2009-03-26T17:35:00.000Z	Guest8517		can someone help me please.
+2009-03-26T17:36:00.000Z	Guest8517		ping to lan does respont and ping to wan didnt respont. what i have wrong?
+2009-03-26T17:37:00.000Z	ActionParsnip	Guest8517	are you pinging names or IP addresses?
+2009-03-26T17:38:00.000Z	ActionParsnip	Guest8517	can you traceroute to the ip?
+2009-03-26T17:39:00.000Z	ActionParsnip	Guest8517	where does the trace stop?
+2009-03-26T17:40:00.000Z	ActionParsnip	Guest8517	as long as there are 2 distinct networks (one for outside one for inside) you should be ok

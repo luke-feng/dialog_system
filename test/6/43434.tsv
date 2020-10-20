@@ -1,0 +1,6 @@
+2009-01-28T23:25:00.000Z	Seigo		Hi @ all
+2009-01-28T23:25:00.000Z	Seigo		can plz someone tell me, how I can untar a tra-Archive with the Shell?
+2009-01-28T23:26:00.000Z	Reddler	Seigo	tar -xvf FILE.tar ?
+2009-01-28T23:27:00.000Z	Seigo	Reddler	thx. how can I choose the destination where I want to untar to?
+2009-01-28T23:28:00.000Z	Reddler	Seigo	Perhaps "tar -xvf FILE PATH/"
+2009-01-28T23:28:00.000Z	Reddler	Seigo	or be where you want to unpack it and do "tar -xvf PATH/TO/FILE.TAR"

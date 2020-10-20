@@ -1,0 +1,6 @@
+2010-04-23T14:03:00.000Z	daniel_tp		hi, i use a gnome panel applet to show me the cpu usage, also want memory usage? any suggestions? whats the applet name?
+2010-04-23T14:04:00.000Z	strings_	daniel_tp	you can config the applet to show memory too
+2010-04-23T14:05:00.000Z	daniel_tp	strings_	i tried that... there is no such option for this applet
+2010-04-23T14:05:00.000Z	daniel_tp	strings_	i use CPU Frequency Scaling Monitor 2.28.0
+2010-04-23T14:06:00.000Z	strings_	daniel_tp	ah try the system monitor applet
+2010-04-23T14:07:00.000Z	daniel_tp	strings_	a yes thanks, didn't see that one

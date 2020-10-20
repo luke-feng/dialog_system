@@ -1,0 +1,6 @@
+2010-05-04T16:49:00.000Z	john_b		hello
+2010-05-04T16:50:00.000Z	john_b		trying out 10.04 and mouse quits working, will still move but not select windows or toolbar items
+2010-05-04T16:52:00.000Z	_Narc_	john_b	: Do you use a usb mouse ? I had problems like this in Karmic, try to plug your mouse in PS/2 and see.
+2010-05-04T16:53:00.000Z	john_b		narc_: i use usb mouse - the only choice i have - newer pc - had no problems with 9.10
+2010-05-04T16:56:00.000Z	_Narc_	john_b	: Sorry, I don't know then. Plugging it with a USB to PS/2 adapter solved it for me. Maybe it's not the same bug. Your mouse still moves but you can't click buttons and windows, right ?
+2010-05-04T16:57:00.000Z	john_b	_Narc_	: Correct, it works, comes and goes, very annoying, I think it may be related to udev

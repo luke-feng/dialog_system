@@ -1,0 +1,6 @@
+2008-11-27T15:38:00.000Z	TecR0c		hello, i have having troubles pinging my vista laptop from my linux desktop ?
+2008-11-27T15:39:00.000Z	SmokeyD	TecR0c	do you have windows firewall enabled?
+2008-11-27T15:40:00.000Z	TecR0c	SmokeyD	yes i do
+2008-11-27T15:41:00.000Z	SmokeyD	TecR0c	that could be the problem. Windows firewall could block the pings
+2008-11-27T15:41:00.000Z	TecR0c	SmokeyD	Ok, give me one sec and will test it again.
+2008-11-27T15:46:00.000Z	TecR0c	SmokeyD	Ok, eveything seems to be fine now Thanks.

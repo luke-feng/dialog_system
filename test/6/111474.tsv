@@ -1,0 +1,6 @@
+2006-07-10T09:47:00.000Z	euclid_1		how can I view .wmv movies with VLC?
+2006-07-10T09:47:00.000Z	jrib	euclid_1	if they are wmv9 you can only view them in vlc if you recompile
+2006-07-10T09:47:00.000Z	euclid_1	jrib	I need to compile the VLC source code?
+2006-07-10T09:48:00.000Z	jrib	euclid_1	no, you don't need to.  xine or mplayer play wmv9 fine with w32codecs
+2006-07-10T09:48:00.000Z	euclid_1	jrib	Can you help me get the codecs?
+2006-07-10T09:51:00.000Z	jrib	euclid_1	you need to go to the url ubotu said before

@@ -1,0 +1,6 @@
+2007-09-15T14:45:00.000Z	dashfield		Does anyone have any idea why mysql would fail to stop using "/etc/init.d/mysql stop"? It works roughly half the time, but fails the rest.
+2007-09-15T05:30:00.000Z	dashfield		Does anyone know why stopping mysql would fail? Using "/etc/init.d/mysql stop"
+2007-09-15T05:32:00.000Z	h1st0	dashfield	you should still be able to stop it with sudo /etc/init.d/mysql stop
+2007-09-15T05:33:00.000Z	dashfield	h1st0	Oh I can do that. :) The problem is that when cron runs the command it doesn't work. This is bad, because I have to stop the daemon before backing up the database regularly.
+2007-09-15T05:34:00.000Z	h1st0	dashfield	why is cron running the command?
+2007-09-15T05:36:00.000Z	dashfield	h1st0	I have a bash script. All it does is stop mysql, run rsync, then start it again. This is to backup the databases and other files. Only when cron tries to stop mysql it comes back as "Failed"

@@ -1,0 +1,6 @@
+2006-09-08T12:55:00.000Z	robin_sz		hi girls ... over the years I have put up with the hoops i have to jump through to install Java on debian. Is it any different ie easier on Ubuntu?
+2006-09-08T12:55:00.000Z	robin_sz		well, I live in hope.
+2006-09-08T12:56:00.000Z	gnomefreak	robin_sz	sudo apt-get install sun-java5-jre too many hoops for you?
+2006-09-08T12:57:00.000Z	robin_sz	gnomefreak	sounds easy enough ... somewhat easier than im used to!
+2006-09-08T12:57:00.000Z	gnomefreak	robin_sz	make sure multiverse repo is enabled and go for it
+2006-09-08T12:58:00.000Z	gnomefreak	robin_sz	sun-java5-plugin installs plugin -bin -jre

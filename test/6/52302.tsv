@@ -1,0 +1,6 @@
+2008-08-23T00:11:00.000Z	blackZero		I have made alias for "vim" so thats no an issue
+2008-08-23T00:12:00.000Z	guntbert	blackZero	in vi type  :syntax on
+2008-08-23T00:13:00.000Z	blackZero	guntbert	iwaterball: no that command doesnt work
+2008-08-23T00:34:00.000Z	guntbert	blackZero	what happens when you call vi with -g? "vi -g"
+2008-08-23T00:34:00.000Z	blackZero	guntbert	VIM gui opens up
+2008-08-23T00:35:00.000Z	guntbert	blackZero	and now open your file please

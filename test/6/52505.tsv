@@ -1,0 +1,6 @@
+2008-10-12T17:29:00.000Z	P3X-018		Is there a PDF viewer that can manage print services like printing several pages on 1 A4 paper, like adobe's pdf viewer can?
+2008-10-12T17:30:00.000Z	P3X-018		I can't seem to accomplish this through KPDF or Evince.
+2008-10-12T17:30:00.000Z	LjL	P3X-018	actually that's part of CUPS itself i believe, so yes you can do it...
+2008-10-12T17:30:00.000Z	P3X-018	LjL	How?
+2008-10-12T17:31:00.000Z	P3X-018	LjL	: wait never mind.
+2008-10-12T17:31:00.000Z	LjL	P3X-018	KPDF: File / Print / Proprieties / General / Pages per sheet

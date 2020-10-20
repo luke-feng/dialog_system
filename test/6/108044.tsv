@@ -1,0 +1,6 @@
+2007-11-27T11:00:00.000Z	ID_EGO_		I think i figured it out
+2007-11-27T11:00:00.000Z	ID_EGO_		Adding –rsync-path=’sudo /usr/local/bin/rsync’ after the -avz options fixes this and ownerships are transferred.
+2007-11-27T11:01:00.000Z	ID_EGO_		need to test it out, i hope i dont break something
+2007-11-27T11:02:00.000Z	ID_EGO_		does anyone know of a good program for ubuntu server that will help out with SSH script kiddies
+2007-11-27T11:02:00.000Z	ID_EGO_		my server is attacked 24/7
+2007-11-27T11:04:00.000Z	StoneNote	ID_EGO_	apt-get install denyhosts

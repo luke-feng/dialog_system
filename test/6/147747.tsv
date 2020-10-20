@@ -1,0 +1,6 @@
+2005-05-23T13:52:00.000Z	ekCo		hmmg
+2005-05-23T13:52:00.000Z	ekCo		glxgears is running at 10fps
+2005-05-23T13:52:00.000Z	ekCo		drivers are up to date?
+2005-05-23T13:52:00.000Z	ekCo		how can reinstall the drivers?
+2005-05-23T13:54:00.000Z	mandingo	ekCo	/etc/X11/xorg.cong
+2005-05-23T13:54:00.000Z	mandingo	ekCo	/etc/X11/xorg.conf

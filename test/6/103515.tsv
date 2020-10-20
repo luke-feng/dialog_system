@@ -1,0 +1,6 @@
+2010-07-10T03:56:00.000Z	GuerreroPorVeni		Anyone can help me with ubuntu 10.04 install?  I just finished Inatlling it , and when it says Installation Complete i hit restart now, and it came out a lad of errors , black screen with many errors, what should i do? I installed it from livecd ubuntu 10.04 32bits
+2010-07-10T03:57:00.000Z	GuerreroPorVeni		ok but do i restart it with the restart button or do i type /quit in the   command line.?
+2010-07-10T03:58:00.000Z	GuerreroPorVeni		ok i am restarting will tell you what happens next one sec :D
+2010-07-10T04:00:00.000Z	GuerreroPorVeni		ok seems i restarted and its working fine atm,  why would it give me so many errors anyways? will i have further problems?
+2010-07-10T04:01:00.000Z	GuerreroPorVeni		[QUESTION]  Any command i can write in terminal to know exactly what model of ATI video card I have in Ubuntu 10.04 ?  Thanks in advance!
+2010-07-10T04:02:00.000Z	oka	GuerreroPorVeni	try lspci

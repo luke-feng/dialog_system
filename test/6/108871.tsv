@@ -1,0 +1,6 @@
+2009-07-03T01:10:00.000Z	threethirty		In my conky config im catting a text file (its a todo list) but i cant get it to show more than 10 lines, here is my current config http://linuxcranks.pastebin.com/m2bd1910f anyone have any ideas?
+2009-07-03T01:11:00.000Z	Dr_Willis	threethirty	 check the conky homepage/configs - they got examples of doing that stuff..  you may need to set the  min/max sizes of the 'conky' window manually
+2009-07-03T01:11:00.000Z	Dr_Willis	threethirty	 my conky configs --> http://drop.io/dr_willis
+2009-07-03T01:11:00.000Z	threethirty	Dr_Willis	ty
+2009-07-03T01:11:00.000Z	Dr_Willis	threethirty	 i do a similer thing with log files.
+2009-07-03T01:16:00.000Z	threethirty	Dr_Willis	my old conky config fit the whole screen and i just removed some of the sections, shouldnt the window size still be the same (and how are you starting multiple conkies?)

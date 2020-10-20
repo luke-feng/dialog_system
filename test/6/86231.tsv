@@ -1,0 +1,6 @@
+2007-05-24T11:45:00.000Z	Akuma_		how do i reinstall grub after installing WinXP?
+2007-05-24T11:45:00.000Z	Fivetwentysix	Akuma_	windows xp doesn't delete grub
+2007-05-24T11:45:00.000Z	Fivetwentysix		Just go into bios and make sure you boot from your Linux partition
+2007-05-24T11:45:00.000Z	Fivetwentysix		Oh really?
+2007-05-24T11:45:00.000Z	Akuma_	Fivetwentysix	i did this time
+2007-05-24T11:46:00.000Z	Akuma_	Fivetwentysix	or if its not deleted, at least the BIOS doesn't seem to call it

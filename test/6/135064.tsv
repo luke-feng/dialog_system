@@ -1,0 +1,6 @@
+2006-08-01T15:56:00.000Z	cius		is it okay to have gcc-4.0 and gcc-3.4 installed side-by-side?
+2006-08-01T15:56:00.000Z	mwe	cius	yes
+2006-08-01T15:56:00.000Z	mwe	cius	usually you then use export CC=gcc-3.4 to use 3.4
+2006-08-01T15:57:00.000Z	cius	mwe	so I can export CC=gcc-4.0 later on to go back?
+2006-08-01T15:58:00.000Z	mwe	cius	it's not nesesarry
+2006-08-01T15:58:00.000Z	mwe	cius	unless it's the same session in the same console

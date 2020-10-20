@@ -1,0 +1,6 @@
+2007-05-02T12:09:00.000Z	sevy		can anyone help with ClamTK, its saying i need to be root to install updates
+2007-05-02T12:11:00.000Z	sevy		dont know, how do i check?
+2007-05-02T12:12:00.000Z	sevy		ok
+2007-05-02T12:13:00.000Z	sevy		silly quesiton but how do i get into console?
+2007-05-02T12:14:00.000Z	soundray	sevy	Ctrl-Alt-F1 (Alt-F7 to get back)
+2007-05-02T12:17:00.000Z	soundray	sevy	'sudo apt-get install clam...' or 'sudo -i' if you want a shell with root rights

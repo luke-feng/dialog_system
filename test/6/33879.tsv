@@ -1,0 +1,6 @@
+2009-07-23T10:08:00.000Z	uknow		can any one help me install with display problems
+2009-07-23T10:08:00.000Z	mazda01__	uknow	what kind of display problems?
+2009-07-23T11:15:00.000Z	mazda01__	uknow	for what hardware?
+2009-07-23T11:17:00.000Z	mazda01__	uknow	what is the exact module name? that's what you put for the driver in your xorg.conf file under the device section. there's a gui app for jaunty. i think it gtkconfig or something like that.
+2009-07-23T11:18:00.000Z	mazda01__	uknow	run sudo displayconfig-gtk and you should be able to chose your graphics driver in there I think
+2009-07-23T11:22:00.000Z	mazda01__	uknow	you have to run sudo aptitude install displayconfig-gtk then if it's not installed.

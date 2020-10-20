@@ -1,0 +1,6 @@
+2006-06-28T09:34:00.000Z	ehtotam		hello
+2006-06-28T09:35:00.000Z	ehtotam		anyone here know much about boot managers?
+2006-06-28T09:36:00.000Z	mikere	ehtotam	ive hand edited lilo before but not grub
+2006-06-28T09:36:00.000Z	ehtotam	mikere	well I'm having trouble with my boot manager for windows
+2006-06-28T09:37:00.000Z	ehtotam		I have an oversized drive which I use a boot manager for
+2006-06-28T09:37:00.000Z	mikere	ehtotam	at some time in the distant past I edited that too - but can't recall all the conventions.  Pretty sure I looked up the wierd naming spec they used on the MS web site

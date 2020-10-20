@@ -1,0 +1,6 @@
+2004-12-08T07:39:00.000Z	dad_		hi fellas
+2004-12-08T07:39:00.000Z	LinuxJones	dad_	hiya
+2004-12-08T08:05:00.000Z	LinuxJones	dad_	you have no sound at all ?
+2004-12-08T08:07:00.000Z	LinuxJones	dad_	you can goto real and download their latest media player.
+2004-12-08T08:09:00.000Z	LinuxJones	dad_	you can just install it to your users directory, then adjust the file associations to point to the app in your home dir.
+2004-12-08T08:17:00.000Z	LinuxJones	dad_	you need to goto console and chmod 770 filename.bin

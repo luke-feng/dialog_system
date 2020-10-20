@@ -1,0 +1,6 @@
+2006-09-22T10:38:00.000Z	lostboyz		oh  i see i had to add the multiverse repositories
+2006-09-22T10:38:00.000Z	lostboyz		thanks for the help
+2006-09-22T10:40:00.000Z	lostboyz		has anyone gotten yahoo messenger with voice to work on ubuntu?
+2006-09-22T10:41:00.000Z	lostboyz		after i install the msttfonts how do i adde them to the system? i don't see them here
+2006-09-22T10:41:00.000Z	lostboyz		in firefox
+2006-09-22T10:42:00.000Z	trappist	lostboyz	did you apt-get install msttcorefonts?

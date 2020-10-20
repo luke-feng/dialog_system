@@ -1,0 +1,6 @@
+2008-12-13T00:50:00.000Z	zelhar		Guys,I DON'T have: "System → Administration → Network" (I have ubuntu 8.10 and also kubunutu and xubuntu installed) where is it and how can I change my computer name and network name
+2008-12-13T00:51:00.000Z	recon69	zelhar	do you have System->Preferences->Main menu"?
+2008-12-13T01:14:00.000Z	recon69	zelhar	do you have "System->Preferences->Main Menu"?
+2008-12-13T01:15:00.000Z	recon69	zelhar	and have you look to see if Network  menu item is in there?
+2008-12-13T01:18:00.000Z	recon69	zelhar	what version of ubuntu? your menus are different to mine 8.04
+2008-12-13T01:21:00.000Z	recon69	zelhar	have you tried editing  /etc/hostname and /etc/hosts then, can help with the menus and they must be different in 8.10

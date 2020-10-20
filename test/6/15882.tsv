@@ -1,0 +1,6 @@
+2011-10-10T05:31:00.000Z	meek		hey can anyone help me, i cant open jave jnlp files, i keep getting this error http://pastebin.com/X6C1AfR1
+2011-10-10T05:31:00.000Z	yagoo	meek	i think u need the java starter package.. it's probably called webstart or something..
+2011-10-10T05:32:00.000Z	yagoo	meek	apt-cache search pam|grep -i ring
+2011-10-10T05:33:00.000Z	yagoo	meek	it searched for a package ..
+2011-10-10T05:33:00.000Z	yagoo	meek	u want libpam-gnome-keyring ?
+2011-10-10T05:39:00.000Z	yagoo	meek	try google- "jnlp linux site:sun.com" (currently those links timing out on me)

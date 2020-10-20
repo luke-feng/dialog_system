@@ -1,0 +1,6 @@
+2010-01-24T02:14:00.000Z	duckx0r		where is the default local mail storage in ubuntu?
+2010-01-24T02:15:00.000Z	Pelo	duckx0r	for what ? stuff for evolution is stored in the /home folder,  for the other kind of mail,  /var/mail ...
+2010-01-24T02:16:00.000Z	duckx0r	Pelo	I sent an e-mail to my user and I can get it using the mail command, but there are no files in my /var/mail/$USER folder
+2010-01-24T02:16:00.000Z	Pelo	duckx0r	/home/username/.mail maybe ?
+2010-01-24T02:16:00.000Z	Pelo	duckx0r	I don'T realy have a clue sorry
+2010-01-24T02:17:00.000Z	duckx0r	Pelo	yeah I thought maybe something like that too, but it's not there either. thanks though

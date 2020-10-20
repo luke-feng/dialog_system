@@ -1,0 +1,6 @@
+2011-09-02T20:33:00.000Z	LocoenelCoco		buy more bandwith
+2011-09-02T20:33:00.000Z	LocoenelCoco		hahahaha
+2011-09-02T20:34:00.000Z	LocoenelCoco		iread on wiki i think that to erase the packages installers u need to "apptitude purge packg" but this doesnt works
+2011-09-02T20:34:00.000Z	LocoenelCoco		the installer still exists
+2011-09-02T20:35:00.000Z	Polah	LocoenelCoco	remove unintalls the package, purge uninstalls the package and removes dpkg configuration files for it. You need to use apt-get clean to clean up .deb files stored by apt in /var/cache/apt, or sudo rm to delete the mone by one
+2011-09-02T20:35:00.000Z	LocoenelCoco	Polah	got it ty

@@ -1,0 +1,6 @@
+2007-05-09T10:22:00.000Z	milage	merc1286	you should be able to right click the empty space on your hard disk and select "new"
+2007-05-09T10:22:00.000Z	milage		for a new partition
+2007-05-09T10:23:00.000Z	merc1286		Junaca: I click the install button on the desktop after booting from the CD. When I get to the parition step, I choose manual. At that point, the Prepare Partitions screen comes up, and it shows my windows HD with a size of 100gb, and 43gb used as dev/sda1. dev/sda2 says it is free space but only 8mb
+2007-05-09T10:24:00.000Z	milage	merc1286	it sounds like that hard disk doesn't have unallocated space left, is that right?
+2007-05-09T10:27:00.000Z	merc1286	milage	as it says, it is 100gb, and there is 45 free
+2007-05-09T10:27:00.000Z	merc1286	milage	so there is plenty of free space

@@ -1,0 +1,6 @@
+2011-02-28T11:33:00.000Z	nRy		can someone help me please? I have two extra hard drives hooked up to my Ubuntu 10.10 server OS system. However each time I reboot the server the drives do not show up in the directory /mnt/...
+2011-02-28T11:34:00.000Z	nRy		someone set this up for me and I can't figure it out right now but need to get these drives to be visable before I can go to sleep
+2011-02-28T11:35:00.000Z	ardchoille	nRy	you need to add them to your fstab
+2011-02-28T11:35:00.000Z	nRy	ubottu	the drives are already formatted, but just do not show up in /mnt after reboot
+2011-02-28T11:35:00.000Z	nRy		how do I do that?
+2011-02-28T11:35:00.000Z	ardchoille	nRy	 See https://help.ubuntu.com/community/Fstab

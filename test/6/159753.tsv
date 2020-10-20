@@ -1,0 +1,6 @@
+2005-01-19T16:55:00.000Z	elvirolo		hi all!
+2005-01-19T16:56:00.000Z	elvirolo		I installed Entrance (E's display manager) and I'd like to make it default (instead of KDM)
+2005-01-19T16:56:00.000Z	elvirolo		could anyone help me do that?
+2005-01-19T16:56:00.000Z	elvirolo		?
+2005-01-19T16:56:00.000Z	jcspray	elvirolo	"apt-get remove kdm"?
+2005-01-19T16:57:00.000Z	elvirolo	jcspray	yes, but would this make entrance the default display manager ? i fear not

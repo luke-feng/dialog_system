@@ -1,0 +1,6 @@
+2012-08-13T17:04:00.000Z	Calahan		Hi! For some strange reason when i login with ssh motd is displayed twice? Any ideas how to fix this?
+2012-08-13T17:05:00.000Z	Dr_Willis	Calahan	 if you make a file called .hushlogin it shouldent show at all.
+2012-08-13T17:12:00.000Z	Dr_Willis	Calahan	could be your .bashrc or somthing is starting a second login shell
+2012-08-14T21:02:00.000Z	Calahan	Dr_Willis	i mean i want it to be fixed to user login name is that possible?
+2012-08-14T21:03:00.000Z	Dr_Willis	Calahan	thought thats how they normslly work. identd is simthing i find useless these days
+2012-08-16T00:14:00.000Z	Dr_Willis	Calahan	rsync and cron

@@ -1,0 +1,6 @@
+2006-09-21T07:38:00.000Z	M_A_K		Anybody know why my ipod is now mounting as read only all of a sudden?
+2006-09-21T07:38:00.000Z	stefg	M_A_K	check dmesg for 'file system panic'-messages...
+2006-09-21T07:39:00.000Z	M_A_K	stefg	: ok, thanks I will check
+2006-09-21T07:42:00.000Z	M_A_K	stefg	: ok, i get TONS of lockd : failed to monitor 192.168.6.30  messages.  That is a server in our room (file server).
+2006-09-21T07:43:00.000Z	stefg	M_A_K	but that has nothing to do with your ipod... i suspect that the filesystem on the iPod might be corrupt
+2006-09-28T11:41:00.000Z	stefg	M_A_K	right

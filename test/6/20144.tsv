@@ -1,0 +1,6 @@
+2012-05-10T19:04:00.000Z	peppermint_		my wireless internet isn't working, where do I start?
+2012-05-10T19:04:00.000Z	peppermint_		lshw says it is unclaimed
+2012-05-10T19:05:00.000Z	guest123	peppermint_	> you are kde or gnome ?
+2012-05-10T19:06:00.000Z	peppermint_	guest123	gnome
+2012-05-10T19:07:00.000Z	peppermint_	guest123	0b:00.0 Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection (rev 02)
+2012-05-10T19:11:00.000Z	peppermint_	guest123	peppermint@peppermint ~ $ sudo service network-manager status

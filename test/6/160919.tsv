@@ -1,0 +1,6 @@
+2007-10-06T09:23:00.000Z	esoterik		>omegaweapon does it hang at scanning devices?
+2007-10-06T09:24:00.000Z	esoterik		i had the same issue, it was a bad mbr on the disk, had to format it with lilo instead of grub using the alternate live cd
+2007-10-06T09:26:00.000Z	esoterik		sorry not live, its a text based alternate installer
+2007-10-06T09:26:00.000Z	esoterik		thats the only format that worked for me to get it readable
+2007-10-06T09:27:00.000Z	esoterik		john did you try Geany?
+2007-10-06T09:27:00.000Z	j0hn	esoterik	I'll look into it

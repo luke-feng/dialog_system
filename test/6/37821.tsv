@@ -1,0 +1,6 @@
+2009-05-25T03:29:00.000Z	koshari1	amseidler	partimage will do it but its more wuited for backing/restoring whole partitions
+2009-05-25T03:30:00.000Z	koshari1	amseidler	as kalmi said use the ubuntu live disc to copy individual files,
+2009-05-25T03:38:00.000Z	koshari1	amseidler	open gparted and see what partition, filesystem they are then mount it
+2009-05-25T03:38:00.000Z	koshari1	amseidler	or alternatively use fdisk -l
+2009-05-25T03:39:00.000Z	amseidler	koshari1	Ok, it's already mounted
+2009-05-25T03:39:00.000Z	koshari1	amseidler	then just use nautilus to browse it

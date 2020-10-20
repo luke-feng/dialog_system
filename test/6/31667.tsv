@@ -1,0 +1,6 @@
+2009-09-12T17:45:00.000Z	akshay		i need help regarding c++
+2009-09-12T17:45:00.000Z	akshay		in ubuntu
+2009-09-12T17:46:00.000Z	twright	akshay	what do you want to know?
+2009-09-12T17:47:00.000Z	twright	akshay	for that you need to compile it so first try installing build-essential
+2009-09-12T17:49:00.000Z	twright	akshay	search for it in synaptics (in the administration menu)
+2009-09-12T17:49:00.000Z	twright	akshay	you might want to try an IDE such as netbeans

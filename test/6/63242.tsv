@@ -1,0 +1,6 @@
+2008-10-13T22:29:00.000Z	jester7		does anybody here use VMWare server on ubuntu server?
+2008-10-13T22:30:00.000Z	jester7		wow, excellent.  my question is, if i were to install ubuntu server, with no gui of course, and vmware server, should i be able to host a Windows XP guest without a problem?
+2008-10-13T22:31:00.000Z	kitche	jester7	yes you just need a client
+2008-10-13T22:31:00.000Z	jester7	kitche	would it run without the client, meaning, could i just leave it running on the server and connect maybe via RDP or simply access it through the ntwork?
+2008-10-13T22:32:00.000Z	kitche	jester7	depends on what you installed as a client really
+2008-10-13T22:33:00.000Z	jester7	kitche	not sure what you mean

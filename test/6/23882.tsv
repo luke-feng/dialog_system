@@ -1,0 +1,6 @@
+2010-03-04T09:34:00.000Z	ActionParsnip	brjann	just rename ~/.mozilla and you wil cover all
+2010-03-04T09:34:00.000Z	brjann	ActionParsnip	hm, good point
+2010-03-04T09:35:00.000Z	brjann	ActionParsnip	wait, but what if he uses thunderbird or something? isn't that stored in .mozilla too?
+2010-03-04T09:35:00.000Z	ActionParsnip	brjann	i think so, i dont use either
+2010-03-04T09:36:00.000Z	ActionParsnip	brjann	ahh, then renaming the mozilla folder is bad
+2010-03-04T09:36:00.000Z	ActionParsnip	brjann	but will be ok to just test

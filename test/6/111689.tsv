@@ -1,0 +1,6 @@
+2007-12-14T01:45:00.000Z	casey_		yeah the volume slider on my laptop is set to "headphones" instead of "pcm" how can i change that
+2007-12-14T01:46:00.000Z	casey_		anyone know about my problem?
+2007-12-14T01:47:00.000Z	casey_		my volume slider on the laptop messes with "headphones" and not the pcm channel
+2007-12-14T01:47:00.000Z	casey_		i did, but when i move the voume slider it messes with headphones, it needs to mess with pcm
+2007-12-14T01:47:00.000Z	Cabbage	casey_	Right-click the volume slider.
+2007-12-14T01:48:00.000Z	Cabbage	casey_	Should be a properties dialog you can set which channel to mess with.

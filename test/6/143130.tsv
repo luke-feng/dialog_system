@@ -1,0 +1,6 @@
+2005-07-08T13:38:00.000Z	tman_	synthetic_	 In your Xorg.conf your mouse may need to be configured using /dev/psaux.  Is that the case?
+2005-07-08T13:39:00.000Z	synthetic_	tman_	i'm not sure...where do i look for that?  sorry, i've only been on linux for two days
+2005-07-08T13:40:00.000Z	tman_		are you in X (gui)?
+2005-07-08T13:40:00.000Z	synthetic_		yes
+2005-07-08T13:43:00.000Z	synthetic_	tman_	i'm using x
+2005-07-08T13:44:00.000Z	tman_	synthetic_	 hit alt-F1, then navigate to the System Tools --> Terminal.  Select terminal

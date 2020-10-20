@@ -1,0 +1,6 @@
+2008-11-03T14:52:00.000Z	wallan		volume is very low in my new ibex install - anyone have the answer?
+2008-11-03T14:52:00.000Z	Johnm	wallan	yeah. open up the "foward" mixer in your mixer settings. turn that one up too ;)
+2008-11-03T14:54:00.000Z	wallan	Johnm	don't see a 'foward' mixer... i'll enable everything and see what happens
+2008-11-03T14:55:00.000Z	wallan	Johnm	it was 'surrond' for me. thanks a lot! :)
+2008-11-03T14:55:00.000Z	Johnm	wallan	yeah it might be something else, but I found master wasn't controlling all output channels since one of the "child" channels was set lower anyway.
+2008-11-03T14:55:00.000Z	Johnm	wallan	np :)

@@ -1,0 +1,6 @@
+2010-11-15T02:34:00.000Z	sroy2		If I'm running 8.10 and want to install a package that only comes in 8.04 9.10 and 10.10 which should I choose?
+2010-11-15T02:34:00.000Z	ikonia	sroy2	none
+2010-11-15T02:34:00.000Z	ikonia	sroy2	what do you want to install
+2010-11-15T02:34:00.000Z	sroy2		nessus
+2010-11-15T02:34:00.000Z	ikonia	sroy2	8.10 is end of life and unsupported, you should upgrade to a suported version
+2010-11-15T02:35:00.000Z	sroy2	ikonia	hmmm... ok, I'll see what I can do- I've never upgraded to a new release/kernel before

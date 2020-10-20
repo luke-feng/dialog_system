@@ -1,0 +1,6 @@
+2010-05-14T12:14:00.000Z	AbuBadr		anyone can help?
+2010-05-14T12:14:00.000Z	AbuBadr		how to install bin files?
+2010-05-14T12:16:00.000Z	onetinsoldier	AbuBadr	hi. first you need to make sure the .bin file is set to executable permission. if you do an 'ls -l <file>' command it will show whether it is or not
+2010-05-14T12:17:00.000Z	onetinsoldier	AbuBadr	then you run it like this....  ./<file>
+2010-05-14T12:18:00.000Z	onetinsoldier	AbuBadr	if you have to make it executable, the command to do that is... chmod +x <file>
+2010-05-16T00:26:00.000Z	onetinsoldier	AbuBadr	don't know. i only know there is a packaged named 'fancontrol'

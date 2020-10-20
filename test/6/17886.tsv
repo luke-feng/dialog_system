@@ -1,0 +1,6 @@
+2010-08-24T07:08:00.000Z	dschuett		how do you know if iptables is running or not?
+2010-08-24T07:08:00.000Z	dschuett		in ubuntu 10.04
+2010-08-24T07:10:00.000Z	test34	dschuett	it is part of the kernel so it is always running.. but you need to create rules to have an effective firewall
+2010-08-24T07:12:00.000Z	dschuett	test34	i have done this: http://pastebin.com/NriN99jL Everyting is working besides being able to reach the internet from the client pc
+2010-08-24T07:12:00.000Z	dschuett		any ideas of what i might be missing
+2010-08-24T07:13:00.000Z	test34	dschuett	sorry gotta go

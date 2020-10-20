@@ -1,0 +1,6 @@
+2011-10-17T02:27:00.000Z	FoolsRun		Okay, I can't figure this out. Since upgrading to Oneiric, my Unity top bar is white and many theme icons are incorrect or just not there. Anyone seen this/know how to fix/resolve it?
+2011-10-17T02:27:00.000Z	rhizmoe	FoolsRun	installing gnome-panel fixed missing icons for me. i don't know if it reinstalled anything, though.
+2011-10-17T02:29:00.000Z	FoolsRun	rhizmoe	gnome-panel appears to be installed already. There's a bunch of weird theme stuff happening to me, like my terminal backgrounds are plain gray rather than transparent
+2011-10-17T03:05:00.000Z	rhizmoe	FoolsRun	hmm, i selected gdm over lightdm...maybe something there? maybe just reinstall unity too
+2011-10-17T03:05:00.000Z	FoolsRun	rhizmoe	I'll try gdm; that's a good idea
+2011-10-17T03:05:00.000Z	FoolsRun	rhizmoe	I've already reinstalled Unity

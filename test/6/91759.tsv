@@ -1,0 +1,6 @@
+2007-05-04T09:04:00.000Z	Slick_		hey guys, I've just bought and installed a 500GB drive for all of my documents, downloads, music etc.  it's running as a master on an IDE channel, whereas my primary drive which I want to install ubuntu on is the primary on a sata channel.  I want to format the new 50GB drive as a ext3, and I'm using Gparted atm, however it's asking if I want it as a primary or extended partition, which one should I choose?
+2007-05-04T09:04:00.000Z	Slick_		I dont plan to have any partitions
+2007-05-04T09:04:00.000Z	fryfrog	Slick_	primary if you only plan on havving 1-3 parititions on the disk
+2007-05-04T09:04:00.000Z	fryfrog		er, 1-4
+2007-05-04T09:04:00.000Z	fryfrog		er, you have to have *1* partition :p
+2007-05-04T09:05:00.000Z	Slick_	fryfrog	yeah I meant I want 1, so it doesn't matter if I format it as primary, but dont install ubuntu on it?

@@ -1,0 +1,6 @@
+2012-05-06T06:32:00.000Z	Hariezg		how to uninstall program on xubuntu 11.10?
+2012-05-06T06:32:00.000Z	EvilResistance	Hariezg	 which program are you trying to uninstall?
+2012-05-06T06:33:00.000Z	Hariezg	EvilResistance	uninstall gnumeric
+2012-05-06T06:35:00.000Z	EvilResistance	Hariezg	 try this in the terminal: sudo apt-get remove gnumeric
+2012-05-06T06:35:00.000Z	EvilResistance	Hariezg	 or use Synaptic or something to remove that software, i'm not certain Software Center has an uninstall button (then again i dont use it)
+2012-05-06T06:36:00.000Z	Hariezg	EvilResistance	thanks! i'm will try

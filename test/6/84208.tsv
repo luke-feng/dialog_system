@@ -1,0 +1,6 @@
+2007-07-11T09:53:00.000Z	Spark		i don't see why i don't have any ide devices in /dev
+2007-07-11T09:53:00.000Z	Spark		it's ridiculous
+2007-07-11T09:53:00.000Z	xTaJMoX	Spark	sda or hda are ide devices
+2007-07-11T09:54:00.000Z	Spark	xTaJMoX	sda are there, just not hda
+2007-07-11T09:58:00.000Z	Spark	xTaJMoX	i just dist-upgraded that's all
+2007-07-11T10:01:00.000Z	Spark	xTaJMoX	so it is the same as update-manager?

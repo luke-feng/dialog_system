@@ -1,0 +1,6 @@
+2008-12-04T02:43:00.000Z	rlt	cdg52	see the next message from that bug, https://bugs.launchpad.net/ubuntu/+source/nvidia-graphics-drivers-173/+bug/287470/comments/10 . The one you linked is instructions for Ubuntu devs, not you :)
+2008-12-04T02:45:00.000Z	cdg52	rlt	thats not a solution, If someone explained I could apply it, from what I understand i download the file from https://launchpad.net/ubuntu/intrepid/+source/nvidia-graphics-drivers-177/177.80-0ubuntu3 and use the dif agaisnt it but im not sure how
+2008-12-04T02:46:00.000Z	rlt	cdg52	The message you linked was ~albertomilone asking for a Stable Release Update to the nvidia drivers, and providing links to the changes he wants making to the package
+2008-12-04T02:46:00.000Z	rlt	cdg52	The message I linked was someone saying that those changes had been accepted into intrepid-proposed and giving you instructions on how to get them.
+2008-12-04T02:47:00.000Z	cdg52	rlt	I did read your link but I did not find how
+2008-12-04T02:47:00.000Z	cdg52	rlt	never mind

@@ -1,0 +1,6 @@
+2009-04-24T06:54:00.000Z	Z3ro3X		I put 9.04 on a Dell Inspiron 1420 notebook with (as far as I know) all Intel chipsets including video.  My problem is Compiz no longer works when it did in 8.10.  Andy idea why?
+2009-04-24T06:55:00.000Z	LurkersA	Z3ro3X	I believe compiz is disabled because of an error
+2009-04-24T06:55:00.000Z	Z3ro3X	LurkersA	How do I check that?
+2009-04-24T06:56:00.000Z	LurkersA	Z3ro3X	https://wiki.ubuntu.com/JauntyJackalope/ReleaseNotes#Display%20freezes%20with%20Intel%20graphics%20cards
+2009-04-24T06:58:00.000Z	Z3ro3X	LurkersA	Thanks!
+2009-04-24T06:58:00.000Z	LurkersA	Z3ro3X	No Problems

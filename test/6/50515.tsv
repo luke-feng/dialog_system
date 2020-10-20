@@ -1,0 +1,6 @@
+2008-10-19T08:55:00.000Z	BlackGA		Can anyone help me installing ATI drivers? I have tried, and tried...
+2008-10-19T08:56:00.000Z	csilk	BlackGA	i run ati, what card you got?
+2008-10-19T08:57:00.000Z	csilk	BlackGA	 I'm assuming ubuntu didnt find the driver for you then?
+2008-10-19T08:58:00.000Z	csilk	BlackGA	 ahh, it appears the driver i was going to link you to only supports as far back as the radeon 9500
+2008-10-19T09:00:00.000Z	csilk	BlackGA	 that dirver doesnt support anything before the 9500
+2008-10-19T09:02:00.000Z	csilk	BlackGA	  http://packages.ubuntu.com/hardy/xorg-driver-fglrx

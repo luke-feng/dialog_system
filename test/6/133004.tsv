@@ -1,0 +1,6 @@
+2006-04-08T06:00:00.000Z	axisys		how do i play something in /dev/dsp.. i tried like this cat file.mp3 > /dev/dsp and all I get is noise
+2006-04-08T06:00:00.000Z	axisys		but i can play it with mplayer just fine
+2006-04-08T06:00:00.000Z	axisys		same noise with /dev/audio
+2006-04-08T06:01:00.000Z	Stormx2	axisys	Yeah, cat'll just read the contents of the mp3 to the soundcard, not decode it
+2006-04-08T06:01:00.000Z	axisys	Stormx2	i c
+2006-10-27T16:12:00.000Z	axisys	Stormx2	yep.. this last one they did a great job

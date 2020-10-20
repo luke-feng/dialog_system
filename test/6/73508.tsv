@@ -1,0 +1,6 @@
+2007-11-27T02:34:00.000Z	lesjaw	pike_	how about nvidia? can u help me please..
+2007-11-27T02:35:00.000Z	pike_	lesjaw	what card?
+2007-11-27T02:36:00.000Z	lesjaw	pike_	nvidia 8800GT
+2007-11-27T02:36:00.000Z	lesjaw	pike_	i have download and installed then restart GDM, it works, but everytime i reboot, ubuntu keep using the vesa..
+2007-11-27T02:39:00.000Z	pike_	lesjaw	grep Driver /etc/X11/xorg.conf says nvidia but after reboot vesa is present instead?
+2007-11-27T02:40:00.000Z	lesjaw	pike_	yes..before ubuntu login appears there's a message said that ubuntu can't detect my card, then it used the vesa driver

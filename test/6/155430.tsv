@@ -1,0 +1,6 @@
+2005-02-10T14:28:00.000Z	Quest-Master		Can someone link me to an ATI driver installation guide for Ubuntu?
+2005-02-10T14:28:00.000Z	Quest-Master		For my friend, again
+2005-02-10T14:29:00.000Z	LarstiQ	Quest-Master	if he has a 9200 or less, just the standard X driver will do, otherwise, fgrlx from restricted I think
+2005-02-10T14:29:00.000Z	LarstiQ	Quest-Master	or what ephic said :)
+2005-02-10T14:31:00.000Z	Quest-Master	LarstiQ	What should he do after install fgrlx?
+2005-02-10T14:32:00.000Z	LarstiQ	Quest-Master	make sure that driver is used in your X config, and then it should just work

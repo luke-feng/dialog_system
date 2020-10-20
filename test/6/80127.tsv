@@ -1,0 +1,6 @@
+2007-08-27T08:49:00.000Z	barbie		hi, how to know what is my default playback device. festival is givin me this error... Linux: can't open /dev/dsp
+2007-08-27T08:50:00.000Z	nbkr	barbie	tried /dev/audo ?
+2007-08-27T08:51:00.000Z	barbie	nbkr	actually there is a device in /dev as /dev/adsp but how to specify it to festival?
+2007-08-27T08:54:00.000Z	nbkr	barbie	Festival has a configuration file. Maybe you can set it there. I can't find the documentation at present.
+2007-08-27T08:59:00.000Z	barbie	nbkr	at ubuntuforum i got the solution.... i need alsa-oss and oss-compat
+2007-08-27T09:00:00.000Z	nbkr	barbie	np

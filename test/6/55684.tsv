@@ -1,0 +1,6 @@
+2008-06-20T03:38:00.000Z	shiv1285		Hello Everybody?
+2008-06-20T03:39:00.000Z	shiv1285		I have a question if somebody can help me
+2008-06-20T03:41:00.000Z	shiv1285		my sound is not working properly for some of the video formats, it works fine if i am running flash player video but there is no sound if i play a wmv video.Any ideassss?????
+2008-06-20T03:42:00.000Z	apophis_ch	shiv1285	 you use totem to play other videos? do you have multiple soundcards ? Internal and USB?
+2008-06-20T03:49:00.000Z	apophis_ch	shiv1285	had a similar problem today, maybe its just a missing audio-codec. Can you select a audio-stream in the menu: Audio?
+2008-06-20T03:52:00.000Z	apophis_ch	shiv1285	its called "languages"

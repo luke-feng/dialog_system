@@ -1,0 +1,6 @@
+2006-04-25T08:13:00.000Z	nemik		how would i fix "FAILED TO INITIALIZE HAL!" in gnome; i can only enter gnome using failsafe....
+2006-04-25T08:14:00.000Z	Warbo	nemik	Does your regular bootup work? I've only had that message when running /etc/init.d/gdm start from a single user mode
+2006-04-25T08:15:00.000Z	nemik		warbo: no, regular bootup just displays background then goes back then takes me back to gdm; over and over again
+2006-04-25T08:16:00.000Z	Warbo	nemik	Well if you use the recovery mode bootup and start GNOME you will get that message about HAL. The recovery mode doesn't start a load of services (that's the point of recovery mode) including the hotplug/HAL daemon
+2006-04-25T08:17:00.000Z	nemik	Warbo	also i'm on dapper if that helps any. but why won't it go in and is just kicking me back to gdm?
+2006-04-25T08:18:00.000Z	Warbo	nemik	Well sometimes in Dapper GDM crashes on me and I get a message "trying another program" and I get a more basic login screen. Your problem sounds more like something going wrong with gnome startup. There is a file /home/username/.gnome2/gnome-session (I think) which has any extra startup programs. Disable those if there are any.

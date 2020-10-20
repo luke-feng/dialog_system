@@ -1,0 +1,6 @@
+2008-02-21T00:35:00.000Z	sandos_		ah ok
+2008-02-21T00:36:00.000Z	sandos_		so can anybody with a AMD X2 check their specific kernel package on 7.04 ?
+2008-02-21T00:36:00.000Z	sandos_		I just cannot find a package that will enable my second core... :(
+2008-02-21T00:37:00.000Z	sandos_		ok, it seems generic "is the one"
+2008-02-21T00:37:00.000Z	erUSUL	sandos_	the generic kernel does support smp
+2008-02-21T00:37:00.000Z	sandos_	erUSUL	yeah, I notived that just now

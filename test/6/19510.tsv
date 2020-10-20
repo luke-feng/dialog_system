@@ -1,0 +1,6 @@
+2010-06-27T01:03:00.000Z	Dark_Star1		Is it possible to hide a user on gnome's login screen or possibly set it so that user names aren't shown but rather typed
+2010-06-27T01:04:00.000Z	lietu	Dark_Star1	I'm sure both are possible, have you checked the system menus? ... have you tried google?
+2010-06-27T01:05:00.000Z	Dark_Star1	lietu	The Administration => login screen interface menu is limited
+2010-06-27T01:09:00.000Z	lietu	Dark_Star1	http://projects.gnome.org/gdm/docs/2.18/gdmsetupusage.html
+2010-06-27T01:09:00.000Z	lietu	Dark_Star1	is that the one you have tested?
+2010-06-27T01:09:00.000Z	Dark_Star1	lietu	I'm just using the standard one that comes with Lucid

@@ -1,0 +1,6 @@
+2009-07-13T14:52:00.000Z	Dekko		Hello good people! :) How can I find out which version of Compiz is installed on my Jaunty Jackalope and if there is an update to be had?
+2009-07-13T14:54:00.000Z	Dekko		Thing is I can not get RealVNC server to update the screen if I use Compiz. If I switch it off then it works.
+2009-07-13T14:55:00.000Z	moymoy	Dekko	age old compiz bug... VNC works by detecting breakage in the screen so that it doesn't send images that are redundant to save bandwidth, but compiz doesn't play nice with it
+2009-07-13T14:57:00.000Z	moymoy	Dekko	nope, there isn't a way to do it i'm afraid... the only work around is to use another vnc client or disable breakage
+2009-07-13T14:57:00.000Z	moymoy	Dekko	but i don't really use VNC .. i prefer to use ssh with X forwarding
+2009-07-13T14:58:00.000Z	Dekko	moymoy	I run RealVNC on Windows, OSX and now Linux box, so would like same system on all machines. :)

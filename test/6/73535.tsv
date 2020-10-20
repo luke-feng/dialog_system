@@ -1,0 +1,6 @@
+2007-11-26T09:03:00.000Z	SantaHatesRetard		my ubuntu feisty keeps periodically locking up completely. Nothing im doing seems to be causing it as it locks up even while being gone. memtest passed 3 passes with no errors. PSU voltages look great and are very stable. What is the next step to discover why this PC keeps locking?
+2007-11-26T09:04:00.000Z	IndyGunFreak	SantaHatesRetard	there was an error with the Nvidia driver that was causing that on a specific card, but i don't remember exactly
+2007-11-26T09:05:00.000Z	IndyGunFreak	SantaHatesRetard	you could try that
+2007-11-26T09:06:00.000Z	IndyGunFreak	SantaHatesRetard	maybe.. one would think
+2007-11-26T09:07:00.000Z	SantaHatesRetard	IndyGunFreak	thanks. :)
+2007-11-26T09:07:00.000Z	IndyGunFreak	SantaHatesRetard	your CPU fan, etc, is all working?

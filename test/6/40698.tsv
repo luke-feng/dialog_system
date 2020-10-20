@@ -1,0 +1,6 @@
+2010-11-26T14:32:00.000Z	due		"any file in bin"? /bin, /usr/bin? Regardless, that doesn't even make any sense, as it's a sudden cesation of accepting certain inputs, not a permanent thing (if I wasn't clear on it earlier).
+2010-11-26T14:33:00.000Z	s3r3n1t7	due	Have you checked top and dmesg?
+2010-11-26T14:34:00.000Z	due	s3r3n1t7	There's nothing in dmesg recently, though top would be a good idea. Unfortunately, I can't make it do it--it sometimes happens after a few hours of uptime every other day, and then never at all.
+2010-11-26T14:36:00.000Z	due	s3r3n1t7	Thank you though, I hadn't thought about it being a suuddenly-started program eating input... I'll be looking into that.
+2010-11-26T14:36:00.000Z	s3r3n1t7	due	no problem. Hope you find it
+2010-11-26T14:36:00.000Z	due	s3r3n1t7	Me too. Easily fixed at the time, but it's rather annoying and interrupts my workflow. :)

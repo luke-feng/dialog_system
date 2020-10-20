@@ -1,0 +1,6 @@
+2011-04-07T23:11:00.000Z	PowerTux		Can I see in the log of squidGuard what site the user tried to access when denied ?
+2011-04-07T23:12:00.000Z	acicula	PowerTux	that some kind of filtering proxy at home? then yse
+2011-04-07T23:13:00.000Z	PowerTux	acicula	only squid
+2011-04-07T23:16:00.000Z	acicula	PowerTux	well that is a proxy server, so yeah it'll see it
+2011-04-07T23:17:00.000Z	PowerTux	acicula	i can see only the redirect page from squidGuard, and i see it on /var/log/squid/access.log
+2011-04-07T23:18:00.000Z	acicula	PowerTux	i dont know anything about squidGuard or what you mean by a redirect page. If you run a proxy server on your network like squid and its set to log requests then you can view whatever it is set to log

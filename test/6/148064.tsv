@@ -1,0 +1,6 @@
+2006-09-21T11:59:00.000Z	Kragnerac		Hello, does anyone know how to run Windows natively on Ubuntu?
+2006-09-21T11:59:00.000Z	nat_	Kragnerac	vmware
+2006-09-21T11:59:00.000Z	nat_		how to burn copy dvds with ubuntu ?
+2006-09-21T12:00:00.000Z	nat_		anyone ?
+2006-09-21T12:00:00.000Z	Kragnerac	erUSUL	nat_, Bonez56: Well, I have a Windows partition on my HD. Can I get VMware to use that partition or do I have to create a Virtual Machine?
+2006-09-21T12:01:00.000Z	nat_	Kragnerac	yes mount them with samba

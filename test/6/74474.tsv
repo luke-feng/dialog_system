@@ -1,0 +1,6 @@
+2007-12-10T19:24:00.000Z	praveer_fedora		why doesnt :colorscheme work on ubuntu?
+2007-12-10T19:24:00.000Z	praveer_fedora		Sorr, :colorscheme on vim
+2007-12-10T19:25:00.000Z	_ruben	praveer_fedora	sudo apt-get install vim (the default (vim-tiny) is rather limited)
+2007-12-10T19:25:00.000Z	praveer_fedora	_ruben	ok thank you
+2007-12-10T19:37:00.000Z	praveer_fedora	_ruben	even after installing vim though colorscheme is working but the colors of the text arent changing, like this http://img80.imageshack.us/my.php?image=screenshotdg3.png
+2007-12-10T19:38:00.000Z	praveer_fedora	_ruben	how do I make the colors appear even in the script/program?

@@ -1,0 +1,6 @@
+2011-11-22T11:38:00.000Z	dkog		I'm not getting this... Here's a concrete example.  I just installed 'redis-server' package.  It created an entry i n /etc/init.d/redis-server.  How would I enable/disable this on startup?
+2011-11-22T11:38:00.000Z	dkog		Hi-WiFive
+2011-11-22T11:39:00.000Z	zykotick9	dkog	also check if it has an entry in /etc/init/
+2011-11-22T11:39:00.000Z	zykotick9	dkog	that means it's not using upstart but the old school sysv
+2011-11-22T11:41:00.000Z	zykotick9	dkog	can you not use chkconfig?
+2011-11-22T11:46:00.000Z	zykotick9	dkog	ubuntu removed service management a while ago - it still exists in other distros

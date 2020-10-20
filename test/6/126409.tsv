@@ -1,0 +1,6 @@
+2006-01-21T17:40:00.000Z	km0		so I have no IDE
+2006-01-21T17:41:00.000Z	km0		I know I need to mod /etc/network
+2006-01-21T17:41:00.000Z	km0		but do I need th lo device in there I dont; recalling seing tone on other systems
+2006-01-21T06:52:00.000Z	km0		I ahve installed sshd well openssh server but I can;t see how to start it
+2006-01-21T06:52:00.000Z	km0		I looked for /etc/init.d/sshd -start but no joy
+2006-01-21T06:54:00.000Z	kondi_	km0	you can start it used /etc/init.d/ssh restart

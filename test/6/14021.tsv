@@ -1,0 +1,6 @@
+2011-02-23T19:57:00.000Z	WeThePeople		how would i uninstall lubuntu-desktop
+2011-02-23T19:57:00.000Z	ruan	WeThePeople	sudo apt-get remove lubuntu-desktop?
+2011-03-30T22:38:00.000Z	ruan	WeThePeople	sudo mount [/dev/sdX] [/mnt/point]
+2011-03-30T22:40:00.000Z	WeThePeople	ruan	what would be a good mount point
+2011-03-30T23:13:00.000Z	ruan	WeThePeople	umount
+2011-04-02T20:14:00.000Z	ruan	WeThePeople	use system > preferences > main menu

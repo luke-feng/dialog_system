@@ -1,0 +1,6 @@
+2005-09-10T16:04:00.000Z	setite		hey seveas there is a thread abotu my card... its a warty thread.. but i dont understand the solution
+2005-09-10T16:04:00.000Z	setite		Nice. Just followed the ubuntu howto with a new kernel, edited /etc/modules to include ndiswrapper, and everything works smoothly.
+2005-09-10T16:04:00.000Z	setite		Thanks for the help!
+2005-09-10T16:05:00.000Z	setite		any idea what he means...
+2005-09-10T16:05:00.000Z	BROKEN_LADDER	setite	you mean new kernel as in how new?
+2005-09-10T16:05:00.000Z	BROKEN_LADDER	setite	i just upgraded my kernel from 2.6.10 to 2.6.11.  should i have to do those steps?

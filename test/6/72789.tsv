@@ -1,0 +1,6 @@
+2010-02-03T18:59:00.000Z	amigojapan		hi, howcome I cant kill this process?
+2010-02-03T18:59:00.000Z	amigojapan		a@saasapprtore:~$ sudo kill 20206
+2010-02-03T18:59:00.000Z	amigojapan		a@saasapprtore:~$ ps -u amigojapan
+2010-02-03T18:59:00.000Z	amigojapan		  PID TTY          TIME CMD
+2010-02-03T18:59:00.000Z	amigojapan		20206 pts/8    00:00:00 bash
+2010-02-03T18:59:00.000Z	FloodBot1	amigojapan	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

@@ -1,0 +1,6 @@
+2007-01-29T09:22:00.000Z	brokenegg		can anyone help me, after login screen (name/password) all I get is a frozen screen, I try to restart x and I sometimes see an error message stating that there is no such device /dev/wacom. To fix this I try to 1. stop gnome, then 2. reconfigure x-server but this is not working anymore, and the reconfigure doesn't even go thru, it spits me out warning that a cusome config file is being overwritten, help???
+2007-01-29T09:23:00.000Z	shatrat	brokenegg	you could go in and edit your /etc/X11/xorg.conf manually and comment out or remove the wacom stuff.  I believe those are for tablet PCs?
+2007-01-29T09:24:00.000Z	brokenegg	shatrat	I thought of that, but how would I do that from the command line?
+2007-01-29T09:25:00.000Z	shatrat	brokenegg	"nano /etc/X11/xorg.conf"
+2007-01-29T10:10:00.000Z	shatrat	brokenegg	well, you could "sudo apt-get remove --purge something " "sudo apt-get install something"  but that usually will not change the user settings, fi that is the problem
+2007-01-29T11:17:00.000Z	shatrat	brokenegg	did you try changing session to gnome failsafe?

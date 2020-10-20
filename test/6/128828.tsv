@@ -1,0 +1,6 @@
+2006-01-02T17:05:00.000Z	freysteinn		I have a problem with the Gnome panels. Does anybody know how I can fix this problem? (http://bugzilla.ubuntu.com/show_bug.cgi?id=20833)
+2006-01-02T13:43:00.000Z	freysteinn		Can someboddy tell me if there is a simple solution for this problem? http://bugzilla.ubuntu.com/show_bug.cgi?id=20833
+2006-01-02T13:44:00.000Z	freysteinn		And if I markt it for the right package?
+2006-01-02T13:45:00.000Z	skon	freysteinn	try locking the toolbar
+2006-01-02T13:46:00.000Z	freysteinn	skon	How do I lock it?
+2006-01-02T13:50:00.000Z	freysteinn	skon	It would be nice to have a lock option for the toolbar.

@@ -1,0 +1,6 @@
+2008-03-06T07:17:00.000Z	posr		does Geforce 9600 works on ubuntu? how about drivers?
+2008-03-06T07:18:00.000Z	TrustNoOne	posr	does nvidia support site have drivers for linux on that card? if not, you can try to install the nvidia restricted drivers on ubuntu and see if that works
+2008-03-06T07:18:00.000Z	posr	TrustNoOne	ok thanks
+2008-03-06T07:18:00.000Z	posr		great
+2008-03-06T07:18:00.000Z	posr		i try
+2008-03-06T07:20:00.000Z	TrustNoOne	posr	the nvidia site does have linux drivers for the 9600 GT card, but personally I would try the nvidia restricted drivers that come with ubuntu first, if that doesnt work, then try the one on nvidia support site

@@ -1,0 +1,6 @@
+2009-10-30T08:30:00.000Z	JonathanEllis		I am installing Karmic desktop and I have got as far as the partitioner. I intend to select the option to use the largest continuous free space as I want to dual boot with windows (yes, I know!). Will this option automatically generate an appropriately sized swap partition or should I specify the partitions manually?
+2009-10-30T08:31:00.000Z	MightyTweek	JonathanEllis	no, you need to tell it to only use as much as the drive as you want it to
+2009-10-30T08:33:00.000Z	JonathanEllis	MightyTweek	You mean it wont generate a swap partition? It will just fill up the free space with my root partition?
+2009-10-30T08:33:00.000Z	MightyTweek	JonathanEllis	I believe that's correct
+2009-10-30T08:34:00.000Z	JonathanEllis	MightyTweek	Thanks. For a machine with only 1GB of RAM what is a sensible size for the swap partition?
+2009-10-30T08:35:00.000Z	MightyTweek	JonathanEllis	I think the installer creates swap as a file rather than a separate partition now, don't quote me on that though

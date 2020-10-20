@@ -1,0 +1,6 @@
+2010-01-02T07:27:00.000Z	m0se5		My dual monitors only work in gnome. How do I make them work using xfce or kde? Ubuntu 9.10 using an ATI Radeon X1300/X1550 Series graphics card.
+2010-01-02T07:28:00.000Z	Samus_Aran	m0se5	you could do it manually by editing your xorg.conf file
+2010-01-02T07:29:00.000Z	m0se5	Samus_Aran	I'm understood that xorg.conf isn't used anymore in Ubuntu 9.10
+2010-01-02T07:30:00.000Z	m0se5	Samus_Aran	anything I save in there doesn't seem to affect anything.
+2010-01-02T07:30:00.000Z	Samus_Aran	m0se5	that is incorrect.  xorg.conf can't go away so long as Xorg is not psychic.  it tries to automagically do things, when it fails, you use the config
+2010-01-02T07:31:00.000Z	Samus_Aran	m0se5	you could try opening up the Gnome setting app from XFCE4 or KDE

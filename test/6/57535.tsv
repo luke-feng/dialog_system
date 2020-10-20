@@ -1,0 +1,6 @@
+2008-05-19T10:35:00.000Z	lnxidiot		ok, can I have help with cdrecord on ubuntu-server for the 100th time?
+2008-05-19T10:36:00.000Z	lnxidiot		ok I try cdrecord -v -pam dev=ATAPI:0,2,0 ./image.iso and it says wdom can't see the cd and /dev/hda is mounted
+2008-05-19T10:37:00.000Z	lnxidiot		what am I doing wrong?
+2008-05-19T10:38:00.000Z	astro76	lnxidiot	well after all your offtopicness no wonder he jumped the gun, calm down
+2008-05-19T10:45:00.000Z	astro76	lnxidiot	if no one knows the answer to your question no one will answer, try asking again every 10 minutes or so
+2008-05-19T10:46:00.000Z	lnxidiot	astro76	that is what Iam doing

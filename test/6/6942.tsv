@@ -1,0 +1,6 @@
+2011-08-18T22:59:00.000Z	wildbat	Tygre	check boot squence ? may be you booted the wrong drive if they are on .?
+2011-08-18T22:59:00.000Z	Tygre	wildbat	 grub works fine when these 'extra' drives are not powered up
+2011-08-18T23:00:00.000Z	Tygre		they don't have any essential OS files on them
+2011-08-18T23:00:00.000Z	Tygre		when they are on, i don't even get an option to choose an OS, just an error "no such device" followed by a long string of letters and numbers
+2011-08-18T23:01:00.000Z	wildbat	Tygre	it is still possible to have grub install on the usb and you yet boot them in BIOS
+2011-08-18T23:01:00.000Z	Tygre	wildbat	\I'll check real quick.

@@ -1,0 +1,6 @@
+2006-03-25T13:45:00.000Z	sovieticool		hy all
+2006-03-25T13:45:00.000Z	dli__	sovieticool	but no more russian, english only
+2006-03-25T13:47:00.000Z	dli__	sovieticool	are you in the audio group?
+2006-03-25T13:54:00.000Z	dli__	sovieticool	are you in the audio group? sudo grep audio /etc/group
+2006-03-25T13:55:00.000Z	dli__	sovieticool	gpasswd -a sovieticool audio
+2006-03-25T13:55:00.000Z	dli__	sovieticool	logout and login again to allow the new group to take effects

@@ -1,0 +1,6 @@
+2012-08-28T08:06:00.000Z	Zeptis		95517: 'broken pipe' is an error returned by X11, if that's any help in narrowing it down.
+2012-08-28T08:08:00.000Z	Guest95517	Zeptis	and it only happened after an update, which I don't think the fellow had room for when he ran it
+2012-08-28T08:09:00.000Z	Guest95517	Zeptis	I'm on a xubuntu 12.04 livecd right now, on the box in question
+2012-08-28T08:11:00.000Z	Guest95517	Zeptis	I installed xubuntu on his box off this livecd
+2012-08-28T08:16:00.000Z	Guest95517	Zeptis	I'm trying to leave the Vista partition alone, so I Guess I keep shifting things about until I get the unallocated space next to sda5...  Dunno if that will work yet.
+2012-08-28T08:19:00.000Z	Guest95517	Zeptis	there were alread four priamry partitons.  I guess that was shooting me in the foot.  The vista partition being secretly corrupted (rather like politicians, no?) was something that has been shooting me in the other foot that I just didn't know yet.

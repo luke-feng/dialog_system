@@ -1,0 +1,6 @@
+2007-05-12T06:52:00.000Z	nolimitsoya		having been away from ubuntu personaly for a while, but in the process of installing it for a friend: what outstanding problems exist for the 64bit version/would it be safe to install it for a non techsavvy user, or would they run into any serious trouble? (think media, surfing etc...)
+2007-05-12T06:52:00.000Z	nolimitsoya		*its
+2007-05-12T06:53:00.000Z	kirkunit	nolimitsoya	It's not easy to get the Flash plugin running on 64bit Ubuntu.
+2007-05-12T06:54:00.000Z	nolimitsoya	kirkunit	Slart, ok, so flash is a no go... thats unfortunate, but perhaps acceptable. anything else to be aware of?
+2007-05-12T06:55:00.000Z	nolimitsoya		ok, 32bit it is then :)
+2007-05-12T06:55:00.000Z	kirkunit	nolimitsoya	yes, and there's NSPluginWrapper: http://freshmeat.net/projects/nspluginwrapper/

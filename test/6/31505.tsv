@@ -1,0 +1,6 @@
+2010-02-24T12:27:00.000Z	idyle		Hello, World! I've done everything including blacklist pcspkr to get my system to not beep on shutdown, but it still does!!! I've isolated the annoying beep to the shutdown command itself -- does anyone know how to suppress this sound or maybe trigger a more pleasant one?
+2010-02-24T12:29:00.000Z	sporkboy	idyle	I saw that a lot in fresh jackalope installs, and it didn't go away until I upgraded to koala.
+2010-02-24T12:30:00.000Z	idyle	sporkboy	yeah I'm running karmic
+2010-02-24T12:30:00.000Z	idyle	sporkboy	lots of stuff got fixed with the newer kernels, but this still happens and it drives me nuts
+2010-02-24T12:30:00.000Z	sporkboy	idyle	is it like the multiple beep (almost a ringing)?
+2010-02-24T12:31:00.000Z	idyle	sporkboy	nope, just SUPER LOUD system beep that makes your ears implode and sink into your head

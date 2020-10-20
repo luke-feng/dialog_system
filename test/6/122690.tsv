@@ -1,0 +1,6 @@
+2006-10-28T11:12:00.000Z	LeaChim		does anyone know why edgy's broken the wg311 netgear wireless card?
+2006-10-28T11:13:00.000Z	LeaChim		does anyone know why edgy no longer creates the /dev/sda* device files?
+2006-10-28T11:14:00.000Z	pike_	LeaChim	they decided to port vold from solaris and go with that node structure now its under /dev/dsk/234234234235023/23452353450234 depending on the device
+2006-10-28T11:14:00.000Z	LeaChim	pike_	so i can just change the entry in fstab to point to it, and i get my disk back right?
+2006-10-28T11:15:00.000Z	pike_	LeaChim	well i was kidding about the above.  but yeah just update fstab
+2006-10-28T11:16:00.000Z	LeaChim	pike_	any idea how edgy also broke wireless and graphics, and now freezes at boot without nolapic? why all the regressions - did no-one test edgy at all?

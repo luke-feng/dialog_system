@@ -1,0 +1,6 @@
+2006-11-12T14:27:00.000Z	Boglizk		Where did Firefox 2.0 install itself?
+2006-11-12T14:28:00.000Z	Boglizk		i doubt it, i'm sure you can put them anywhere...
+2006-11-12T14:28:00.000Z	splintax	Boglizk	/usr/lib i think? either way you should be able to run "firefox" on the terminal.
+2006-11-12T14:29:00.000Z	Boglizk	splintax	Yeah, funny thing... firefox 1.5.2 pops up
+2006-11-12T14:30:00.000Z	splintax	Boglizk	can you actually open ff 1.5.2? maybe it installed into the old dir or something?
+2006-11-12T14:30:00.000Z	Boglizk	splintax	It works with ./firefox in usr/lib

@@ -1,0 +1,6 @@
+2007-12-27T14:22:00.000Z	jago		how do i open new tabs in x-chat?
+2007-12-27T14:24:00.000Z	malnilion	jago	XChat>New>pick a tab
+2007-12-27T14:25:00.000Z	malnilion	jago	what xchat are you running?
+2007-12-27T14:26:00.000Z	malnilion	jago	you're probably running xchat-gnome
+2007-12-27T14:26:00.000Z	malnilion	jago	what I'd do is open up Synaptic, enable your universe repository, and install the regular old xchat package rather than xchat-gnome
+2007-12-27T14:28:00.000Z	malnilion	jago	no problem, took me a few minutes to figure that one out first time I tried Ubuntu :)

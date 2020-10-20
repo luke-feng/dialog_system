@@ -1,0 +1,6 @@
+2006-07-12T06:11:00.000Z	da_putzler		roshan: are you sharing your internet ok?
+2006-07-12T06:12:00.000Z	da_putzler		roshan: and you used bridging ?? do you have a guide or site please#
+2006-07-12T06:12:00.000Z	da_putzler		I have a cable modem
+2006-07-12T06:14:00.000Z	da_putzler		roshan: when I had XP installed, I set the wireless card to a static ip, set it to ad-hoc and shared internet and file access over card... I cant seem to do this on ubuntu
+2006-07-12T06:15:00.000Z	da_putzler		roshan: ubuntu has full internet access through lan0 which is connected straight to the cable modem... my wireless card is ra0
+2006-07-12T06:16:00.000Z	hyperstream	da_putzler	i got the same issue

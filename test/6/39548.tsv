@@ -1,0 +1,6 @@
+2011-07-12T02:52:00.000Z	Ingsoc		Hello Ubuntu, I am trying to edit a txt file over a ssh connection. What is the easiest way to save it as UTF-8?
+2011-07-12T02:53:00.000Z	qin	Ingsoc	iconv
+2011-07-12T02:54:00.000Z	Ingsoc	qin	Thanks mate!
+2011-07-12T02:54:00.000Z	qin	Ingsoc	Also dpkg-reconfigure locales is usefull for servers
+2011-07-12T02:54:00.000Z	qin	Ingsoc	as locale command
+2011-07-12T02:55:00.000Z	Ingsoc	qin	I think iconv was what I wa trying to remember. I am just trying to edit one config file on for a minecraft server. Thanks again for the tips!

@@ -1,0 +1,6 @@
+2010-11-13T13:42:00.000Z	StuartPB		"sed -i.bak 's;#!/usr/bin/env python2;#!/usr/bin/env python;' *" why is this command trying to edit directories
+2010-11-13T13:43:00.000Z	znull	StuartPB	"sed -i.bak 's;#!/usr/bin/env python2;#!/usr/bin/env python;' *.php"
+2010-11-13T13:43:00.000Z	znull	StuartPB	: or *.whatever
+2010-11-13T13:44:00.000Z	StuartPB	znull	in this case it's *.nothing and there's no dot
+2010-11-13T13:44:00.000Z	StuartPB		looks like I'm going to have to edit ALL 6 SCRIPTS by hand, whine whine what a pain
+2010-11-13T13:45:00.000Z	znull	StuartPB	: test -d ^^

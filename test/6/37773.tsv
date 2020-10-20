@@ -1,0 +1,6 @@
+2010-04-04T08:50:00.000Z	Ganymede		hmm...i have a 3.8 GB physical memory and 2 GB swapfile...is it normal that my computer would become nearly completely unresponsive when physical memory is full, swap is 800 MB full, 1.2 GB free? i only got it responsive again by killing a 1.4 GB process
+2010-04-04T08:51:00.000Z	rww	Ganymede	Yes. Using swap on a hard disk as memory is slow.
+2010-04-04T08:52:00.000Z	Ganymede	rww	slow, yes...but take 2 minutes to log in via SSH and get to the prompt? that kind of slow? takes 30 seconds for any letter i type in to be echod back on SSH?
+2010-04-04T08:53:00.000Z	rww	Ganymede	That sounds a little on the slow end of slow, but yeah, possibly. It depends on what else was using the hard disk, and various other things.
+2010-04-04T09:26:00.000Z	Ganymede	rww	well thanks for the advice
+2010-04-27T15:25:00.000Z	rww	Ganymede	nobody reads the topic.

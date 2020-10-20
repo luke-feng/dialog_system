@@ -1,0 +1,6 @@
+2009-05-11T07:45:00.000Z	o_	yowshi	tune2fs -c0 -i4w  (== 4 weeks)
+2009-05-11T07:45:00.000Z	yowshi	o_	huh what the heck ios that?
+2009-05-11T07:49:00.000Z	yowshi	o_	 Jack_Sparrow that command just spits out the short help thing for tune2fs
+2009-05-11T07:50:00.000Z	o_	yowshi	you should append the device name, i/e /dev/sda1
+2009-05-11T07:51:00.000Z	yowshi	o_	 Jack_Sparrow yoshi@yoshi-ubuntu:~$ tune2fs -c0 -i4w /dev/sdb1
+2009-05-11T07:52:00.000Z	o_	yowshi	sudo tune2fs

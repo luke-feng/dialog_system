@@ -1,0 +1,6 @@
+2005-06-18T11:30:00.000Z	Opppz		My ps2 mouse don't work.. I change xorg.conf.. and reboot.. but.. nothing! What can I do?
+2005-06-18T11:32:00.000Z	Opppz		My ps2 mouse don't work.. I change xorg.conf.. and reboot.. but.. nothing! What can I do?
+2005-06-18T11:34:00.000Z	Opppz		My ps2 mouse don't work.. I change xorg.conf.. and reboot.. but.. nothing! What can I do?
+2005-06-18T11:35:00.000Z	Opppz		I change the "/dev/input/mice"  to " /dev/psaux" and nothing
+2005-06-18T11:35:00.000Z	Opppz		ps2 mouse... very old!! hehehe
+2005-06-18T11:36:00.000Z	nalioth	Opppz	if someone knows the ansnwer to your question, they will answer

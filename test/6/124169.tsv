@@ -1,0 +1,6 @@
+2006-07-13T10:20:00.000Z	BeOSMrX		I need some help. I'd like to run a command and keep on making it repeat after it's done, like in a loop until I cancel it
+2006-07-13T10:21:00.000Z	dr_willis_	BeOSMrX	 what kind of command?
+2006-07-13T10:21:00.000Z	BeOSMrX		like a terminal command, like wget and then make it re-start after it's done
+2006-07-13T10:22:00.000Z	BeOSMrX		or maybe if the file be saved to 'dev/null' or something to make it not be saved, just downloaded if you know what I mean
+2006-07-13T10:22:00.000Z	dr_willis_	BeOSMrX	 Hmm...  could use some simple bash script to do that.. not sure WHY you would want to... :)
+2006-07-13T10:22:00.000Z	BeOSMrX	dr_willis_	yes, I'd like to test my download speed

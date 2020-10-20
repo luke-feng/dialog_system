@@ -1,0 +1,6 @@
+2011-10-01T16:40:00.000Z	han_		hi, im trying to change the device that grub is installed on. cant find anything online. does anyone know how to do this?
+2011-10-01T16:42:00.000Z	han_		sidewinder1, i have 3 hdds, but my asus bios lets me boot only from one of them..in the ubuntu installation i installed grub on sda1 but i can only boot from sdb..so when i boot my pc, i have to pick sda1 manually. that's why i want to reinstall grub on sda1 so that grub loads automatically
+2011-10-01T16:44:00.000Z	chroot	han_	is your machine old?
+2011-10-01T16:44:00.000Z	han_	chroot	not really..core2duo 9550
+2011-10-01T16:45:00.000Z	han_	chroot	+ ASUS p5q deluxe..
+2011-10-01T16:47:00.000Z	chroot	han_	i got a way , if you install  ubuntu  server , it will let you chose which place you want to install grub , maybe , it will works

@@ -1,0 +1,6 @@
+2007-10-21T11:24:00.000Z	Jban		Hey guys, I have an USB Audio Laptop question: My Logitech USB Headset is recognised in Ubuntu7.10, and I have the Sound Device selected as my USB Headset in Sound Options.... but my YouTube videos and like my DVD movie playing now, all put sound through the laptop speakers.  Skype / Pidgin however, use the headset.  help?
+2007-10-21T11:24:00.000Z	zparta	Jban	change the system default output in alsa config most likely
+2007-10-21T11:25:00.000Z	Jban	zparta	What do you mean? Is that an option not in the Sound Options? Because I already have the device as USB Headset
+2007-10-21T11:26:00.000Z	Jban	zparta	How do I edit the config?
+2007-10-21T11:27:00.000Z	zparta	Jban	no idea in ubuntu sorry
+2007-10-21T11:27:00.000Z	zparta	Jban	i have only done such customizations in gentoo

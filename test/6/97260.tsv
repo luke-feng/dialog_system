@@ -1,0 +1,6 @@
+2007-07-05T09:28:00.000Z	linux_user400354		just recently my computer with linux started to open games in a small area surrounded by black instead of taking the entire screen. what is causing this and how can it be fixed?
+2007-07-05T09:30:00.000Z	elpargo	linux_user400354	you need to be more specific what game? which technology it uses, did you upgraded those packages recently?
+2007-07-05T09:31:00.000Z	linux_user400354	elpargo	recently i added another monitor for dual monitors. i disabled the second monitor before playing the game though.
+2007-07-05T09:31:00.000Z	linux_user400354	elpargo	im using the nvidia driver
+2007-07-05T09:32:00.000Z	linux_user400354	elpargo	all games ive tried so far such as quake 4
+2007-07-05T09:34:00.000Z	elpargo	linux_user400354	ahh then that's the problem you X still thinks it has two monitors, you need to setup two different configurations one for having 1 monitor another for the second, the reason you didn't knew this is because ubuntu probably made your first config without you even noticing

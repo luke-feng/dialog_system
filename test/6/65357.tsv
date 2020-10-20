@@ -1,0 +1,6 @@
+2008-05-02T00:33:00.000Z	Gary_inNYC		can someone please tell me what the purpose of tracker file indexing is, when I have no problems searching for data files that are logically organized?
+2008-05-02T00:33:00.000Z	thefish	Gary_inNYC	its for searcvhing inside files as well
+2008-05-02T00:34:00.000Z	thefish	Gary_inNYC	eg, someone told you in an IM session their address etc
+2008-05-02T00:34:00.000Z	thefish	Gary_inNYC	inside docs as well, it can be useful if you ask it specific enough questions
+2008-05-02T00:35:00.000Z	thefish	Gary_inNYC	it can be, but i dont know if thats implemented, there is stuff you can do with extended attrs
+2008-05-02T00:36:00.000Z	Gary_inNYC	thefish	kk thanks for the information  :)  was actually debating whether or not to keep it running in the background as it starts itself on by default

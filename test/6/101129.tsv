@@ -1,0 +1,6 @@
+2007-05-11T13:06:00.000Z	eg_linux		ubuntulog: but i have a problem coz i didn,t make a root password when i,m installing ubuntu
+2007-05-11T13:06:00.000Z	Flannel	eg_linux	Ubuntu doesn't use the root password, that's normal.
+2007-05-11T13:07:00.000Z	eg_linux	Flannel	so how can i install ubuntu?
+2007-05-11T13:07:00.000Z	Flannel	eg_linux	Ubuntu uses sudo instead of a root account, `sudo [stuff] ` to run stuff as super user
+2007-05-11T13:08:00.000Z	eg_linux	Flannel	how can i type this : deb http://archive.canonical.com/ubuntu dapper-commercial main    ?
+2007-05-11T13:09:00.000Z	Flannel	eg_linux	you want to add that to your sources.list, so you'll open a text editor with sudo, and then edit it.  sudo nano /etc/apt/sources.list or gksu gedit /etc/apt/sources.list

@@ -1,0 +1,6 @@
+2010-10-29T01:36:00.000Z	imanc		hey - I have an app (gedit) that I can't kill
+2010-10-29T01:36:00.000Z	imanc		i have tried kill -9 over and over but it's still in mem
+2010-10-29T01:36:00.000Z	imanc		any ideas how to kill its ass?
+2010-10-29T01:37:00.000Z	tripelb	imanc	there 's a ps command that will tell you the process number that is running.  I forgot exactly ps -something
+2010-10-29T01:37:00.000Z	imanc	tripelb	yeh: ps aux | grep gedit
+2010-10-29T01:50:00.000Z	tripelb	imanc	thanks. took a bit joe_ was a kid and I talked to him about learning linux and shell commands as a next step and that hackers are master programmers.

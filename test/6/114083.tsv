@@ -1,0 +1,6 @@
+2009-02-12T17:26:00.000Z	ravious		anyone with any information on the new xorg and its xorg.conf file?
+2009-02-12T17:27:00.000Z	jrib	ravious	erm, you probably want to start at: wiki.ubuntu.com/X
+2009-02-12T17:29:00.000Z	jrib	ravious	did you read the parent site I linked you to?
+2009-02-12T17:32:00.000Z	jrib	ravious	adding additional displays has not changed by the way.  That's still done in xorg.conf.  The input devices have been handed off to HAL and you configure that with fdi files (if you want to turn this off, grep man xorg.conf for HAL)
+2009-02-12T17:35:00.000Z	jrib	ravious	pastebin
+2009-02-12T17:36:00.000Z	jrib	ravious	/etc/X11/xorg.conf and /var/log/Xorg.0.log from a failed start

@@ -1,0 +1,6 @@
+2006-09-20T15:25:00.000Z	Shadow_mil		ok.. Ill need help... how do I complile mplayer with wincodecs?
+2006-09-20T15:26:00.000Z	Shadow_mil		ok.. Ill need help... how do I complile mplayer with wincodecs?
+2006-09-20T15:27:00.000Z	Shadow_mil		I need to play wma files
+2006-09-20T15:27:00.000Z	Shadow_mil		so I need wincodecs
+2006-09-20T15:27:00.000Z	rootpt	Shadow_mil	apt-get install buil-essential
+2006-09-20T15:28:00.000Z	rootpt	Shadow_mil	better this way -> sudo apt-get install build-essential

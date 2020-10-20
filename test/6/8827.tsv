@@ -1,0 +1,6 @@
+2012-06-16T07:24:00.000Z	Kevin__H		I'm still getting problems with "unable to locate package", I added lines to /etc/apt/sources.list  and I did sudo apt-get update
+2012-06-16T07:24:00.000Z	Kevin__H		Is there anything I can do to automatically update and fix my repository problems?
+2012-06-16T07:24:00.000Z	Kevin__H		openbox
+2012-06-16T07:24:00.000Z	Kevin__H		and java
+2012-06-16T07:25:00.000Z	Kevin__H		sudo apt-get install openbox (this results in unable to find package)
+2012-06-16T07:26:00.000Z	gry	Kevin__H	apt-get update, first

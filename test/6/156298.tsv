@@ -1,0 +1,6 @@
+2006-06-14T14:44:00.000Z	darkgamer20		is there a guide to optimize ubuntu?
+2006-06-14T14:44:00.000Z	MarcN	darkgamer20	how do you want to optimize it?
+2006-06-14T14:45:00.000Z	darkgamer20	MarcN	like i wanna make it faster
+2006-06-14T14:46:00.000Z	darkgamer20	MarcN	you know any guides?
+2006-06-14T14:46:00.000Z	MarcN	darkgamer20	what is too slow for you?  browsing? web serving? compiling?  Basically shut off or remove any unused services, say mysql, postgres, exim, imap, that you may have running.
+2006-06-14T14:47:00.000Z	MarcN	darkgamer20	and add more memory ;-)

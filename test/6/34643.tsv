@@ -1,0 +1,6 @@
+2009-08-31T18:49:00.000Z	thinkertinker		hi my friend configured his laptop to conect internet via a proxy network(in a wi-fi network)but now he has direct connection..his Apt is not working ..PLease tell which .conf file was edited to set proxy for network..
+2009-08-31T18:51:00.000Z	erUSUL	thinkertinker	System>Preferences>Network Proxy ? System>Preferences>Network configuration ?
+2009-08-31T18:56:00.000Z	thinkertinker	erUSUL	but he has configured them by editing some .conf file doesn't remember which..his firefox is connected but not other applications
+2009-08-31T18:57:00.000Z	erUSUL	thinkertinker	ahhh ok then it should be /etc/apt/apt.conf or something in /etc/apt/apt.conf.d/*
+2009-08-31T19:01:00.000Z	thinkertinker	erUSUL	we had to authenticate via a wi fi network so he added his username and password too in that file.. any new guesses??
+2009-08-31T19:03:00.000Z	erUSUL	thinkertinker	... wpa_supplicant.conf ? /etc/dhcp3/dhclient.conf ? dunno...

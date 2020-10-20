@@ -1,0 +1,6 @@
+2009-07-24T00:10:00.000Z	c0m3awn		If anyone ever have problems with keymappings in console type sudo loadkeys us
+2009-07-24T00:12:00.000Z	c0m3awn		Ok here is my question: How do I edit a file in the console other than vi and or emacs?
+2009-07-24T00:12:00.000Z	adam7	c0m3awn	use nano
+2009-07-24T00:15:00.000Z	c0m3awn	adam7	and syslq78 thank you and what are the differences between those three editors?
+2009-07-24T00:15:00.000Z	adam7	c0m3awn	vim is hard to use, nano is easy, and I've never used emacs
+2009-07-24T00:16:00.000Z	adam7	c0m3awn	but vim and emacs are also more powerful than nano

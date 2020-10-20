@@ -1,0 +1,6 @@
+2007-08-13T12:02:00.000Z	andrew_		Is there any way to actually run TV out on an ATI card w/o fglrx?  Or should I just by an nVidia card and be done with it?
+2007-08-13T12:04:00.000Z	phun1	andrew_	as far as the fglrx drivers go, they work alright, why would you not want to use them?
+2007-08-13T12:04:00.000Z	andrew_	phun1	 I'm on a 9200.  And they don't work too well in that case.
+2007-08-13T12:05:00.000Z	andrew_	phun1	 Not to mention the fglrx drivers are so bad that Xorg on a 9200 goes 15x faster than fglrx on a 9800.
+2007-08-13T12:07:00.000Z	andrew_	phun1	 correction, the statistic was that a 7500 goes 15x faster than an X1400.  Which is even worse.
+2007-08-13T12:08:00.000Z	andrew_	phun1	 Hopefully this should explain my lack of support for fglrx.

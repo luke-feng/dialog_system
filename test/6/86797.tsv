@@ -1,0 +1,6 @@
+2007-05-16T14:05:00.000Z	JammasterJay		Using Dapper, can someone reccomend a 'search tool' so i can find various files and programs which i install?
+2007-05-16T14:06:00.000Z	JammasterJay		thx
+2007-05-16T14:06:00.000Z	wxq2378	JammasterJay	there is "find" and "locate". you can also get a list of installed files from deb packages if you're speaking of that
+2007-05-16T14:09:00.000Z	wxq2378	JammasterJay	select the package you installed and push the "properties" button. there is an installed files tab
+2007-05-16T14:12:00.000Z	JammasterJay	wxq2378	so i click on properties, i see the directory where a program is 'installed', like beagle for example: /usr/lib/beagle....so i go there and type 'beagle'?
+2007-05-16T14:15:00.000Z	wxq2378	JammasterJay	well most programs install many files. the binaries usually to /usr/bin and you can type the command in any path you want. or in the dialog in alt-F2. finding the menu entry might be more tricky. look for a .menu file. the install apps in the applications menu tells you the menu location after installing

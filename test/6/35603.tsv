@@ -1,0 +1,6 @@
+2010-04-14T17:10:00.000Z	Raydiation		how can i manipulate the grub params on boot?
+2010-04-14T17:10:00.000Z	Raydiation		i know i can press e to edit
+2010-04-14T17:10:00.000Z	Raydiation		but how can i save the changes?
+2010-04-14T17:10:00.000Z	joaopinto	Raydiation	you can't save changes from the boot loader
+2010-04-14T17:11:00.000Z	joaopinto		to do permanent changes you need to change grub config on the filesystem
+2010-04-14T17:11:00.000Z	Raydiation	joaopinto	ye, i mean how can i boot this

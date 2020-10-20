@@ -1,0 +1,6 @@
+2009-03-20T07:13:00.000Z	Belboz99		Hey all, trying to use the 64-bit Java Plugin downloaded from Sun, but in the plugins directory there is only a folder called "desktop" with a PNG and one other file, no plugins at all, any ideas?
+2009-03-20T07:15:00.000Z	Belboz99		-:/usr/java/jre1.6.0_12/plugin$ ls -l ... desktop ...  ls -l desktop ... sun_java.desktop  sun_java.png
+2009-03-20T07:16:00.000Z	Belboz99		that's what I'm getting, just a stupid png and shortcut in a desktop folder, no plugins in the "plugin" directory within the extracted jre directory created by the run file
+2009-03-20T07:17:00.000Z	Belboz99		is anyone reading my messages?
+2009-03-20T07:18:00.000Z	Belboz99		or is this ignore Belboz99 day?
+2009-03-20T07:18:00.000Z	skinnymg1	Belboz99	i feel the same way

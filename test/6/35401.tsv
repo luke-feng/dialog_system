@@ -1,0 +1,6 @@
+2010-05-01T16:37:00.000Z	viki		after upgrade to lucid, looks i have 15 broken packages. can anybody help how to fix? list is here http://ubuntu.pastebin.com/1r06czZj
+2010-05-01T16:38:00.000Z	om26er	viki	disable all ppas first then sudo apt-get update;sudo apt-get dist-upgrade dont confirm it just pastebin what you see after dist-upgrade
+2010-05-01T16:41:00.000Z	viki	om26er	ppa's are disabled automatically during the upgrade. apt-get update and apt-get dist-upgrade has already been done
+2010-05-01T16:41:00.000Z	om26er	viki	and still a problem?
+2010-05-01T16:41:00.000Z	viki	om26er	yes
+2010-05-01T16:41:00.000Z	om26er	viki	sudo apt-get install chromium-browser what does that show?

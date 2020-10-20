@@ -1,0 +1,6 @@
+2010-11-19T21:16:00.000Z	vilhelm		I removed vsftpd configuration files because I had lost the originals. Then I removed the package and reinstalled it, believing that I'd get the orig conf files back. I didn't. Next move?
+2010-11-19T21:18:00.000Z	juk	vilhelm	/etc/init/vsftpd.conf
+2010-11-19T21:18:00.000Z	juk	vilhelm	or check in /etc/vsftpd.conf
+2010-11-19T21:21:00.000Z	juk	vilhelm	apt-get remove vsftpd --purge
+2010-11-19T21:23:00.000Z	vilhelm	juk	thank you so mich
+2010-11-19T21:23:00.000Z	juk	vilhelm	no problem

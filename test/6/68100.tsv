@@ -1,0 +1,6 @@
+2011-04-02T00:27:00.000Z	truepurple		PING av.com (68.180.206.184) 56(84) bytes of data.
+2011-04-02T00:27:00.000Z	truepurple		64 bytes from av.com (68.180.206.184): icmp_req=1 ttl=54 time=142 ms
+2011-04-02T00:27:00.000Z	truepurple		--- av.com ping statistics ---
+2011-04-02T00:27:00.000Z	truepurple		1 packets transmitted, 1 received, 0% packet loss, time 0ms
+2011-04-02T00:27:00.000Z	truepurple		rtt min/avg/max/mdev = 142.415/142.415/142.415/0.000 ms
+2011-04-02T00:27:00.000Z	FloodBot2	truepurple	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

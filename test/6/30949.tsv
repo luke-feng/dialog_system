@@ -1,0 +1,6 @@
+2012-08-02T22:33:00.000Z	theadmin		So I was installing Flash (via flashplugin-installer) and my connection went meh during doing so. I removed the package, but now at every boot I get a notification saying "data for flashplugin-installer failed to download, please reinstall the package" or something. How to fix?
+2012-08-02T22:33:00.000Z	chuck_	theadmin	did you do a purge when you removed it?
+2012-08-02T22:34:00.000Z	theadmin	chuck_	Doh...
+2012-08-02T22:34:00.000Z	theadmin	chuck_	Sorry, not used to APT
+2012-08-02T22:34:00.000Z	chuck_	theadmin	try that out
+2012-08-02T22:34:00.000Z	theadmin	chuck_	Will do

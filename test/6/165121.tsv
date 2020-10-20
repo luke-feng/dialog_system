@@ -1,0 +1,6 @@
+2011-01-01T16:17:00.000Z	krogers0001		how do i boot directly into the command line?
+2011-01-01T16:18:00.000Z	krogers0001		ubuxubu are you talking to me?
+2011-01-01T16:20:00.000Z	krogers0001		i'm using ubuntu 10.04 and i would like to boot into the command line can someone help?
+2011-01-01T16:21:00.000Z	krogers0001		and thanks for telling about irssi i love it
+2011-01-01T16:21:00.000Z	Dr_Willis	krogers0001	 use the 'text' option at teh grub menu. edit the boot line. replace 'quiet splash' with 'text'
+2011-01-01T16:23:00.000Z	Dr_Willis	krogers0001	 the grub menu normally has a  normal boot  option, and below that a 'recovery' option.

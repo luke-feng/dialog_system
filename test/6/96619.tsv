@@ -1,0 +1,6 @@
+2011-03-07T23:45:00.000Z	antonius		sudo: /etc/sudoers is owned by uid 1001, should be 0
+2011-03-07T23:45:00.000Z	antonius		sudo: no valid sudoers sources found, quitting
+2011-03-07T23:45:00.000Z	antonius		any ideas fols?
+2011-03-07T23:45:00.000Z	antonius		\*folks
+2011-03-07T23:46:00.000Z	Pici	antonius	That sounds like you didn't use visudo to modify /etc/sudoers .
+2011-03-07T23:51:00.000Z	Pici	antonius	Have you modified /etc/sudoers recently?

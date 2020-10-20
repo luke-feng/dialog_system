@@ -1,0 +1,6 @@
+2008-03-24T07:45:00.000Z	zachwlewis		Where is the default runlevel stored in Ubuntu 7.10?
+2008-03-24T07:46:00.000Z	Dr_willis	zachwlewis	 ubuntu dosent really use runlevels like other disrtos do.
+2008-03-24T07:47:00.000Z	Dr_willis	zachwlewis	 so basicially it saying 'close X' :)
+2008-03-24T07:47:00.000Z	Dr_willis	zachwlewis	 sudo /etc/init.d/gdm stop - WE do not advise using the nvidia or ati video driver installers... good luck.
+2008-03-24T07:48:00.000Z	Dr_willis	zachwlewis	 i use the ones that restricted-manager installed here.
+2008-03-24T07:48:00.000Z	Dr_willis	zachwlewis	 had no problems with them. But others have i hear.

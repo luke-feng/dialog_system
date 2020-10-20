@@ -1,0 +1,6 @@
+2008-11-02T22:05:00.000Z	vexeu		can anyone help me quick
+2008-11-02T22:05:00.000Z	vexeu		i want to up xp on one of my hdd and ubuntu is on the my first hdd
+2008-11-02T22:06:00.000Z	vexeu		if i just got install on other hdd will the install of xp wipe grub boot record?
+2008-11-02T22:06:00.000Z	MnemonicPunk	vexeu	Are you using multiple HDDs or just multiple partitions on ine disk?
+2008-11-02T22:07:00.000Z	MnemonicPunk	vexeu	Should be no problem, Windows usually installs its bootloader on the MBR of the disk you put it on.
+2008-11-02T22:08:00.000Z	MnemonicPunk	vexeu	Even if it does f*ck up your Boot Manager (Grub) you can reinstall that from a LiveCD easily. So make sure you have a LiveCD handy for the worst case.

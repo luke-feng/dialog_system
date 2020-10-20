@@ -1,0 +1,6 @@
+2008-02-28T06:14:00.000Z	Nick-O		i was wanting to experiment with some other linux distros and was wondering how to quintuple (?) boot. i have ubuntu and vista currently and would like to add gentoo, fedora and opensuse (all x64). will grub work for all of these and how do i configure grub inside ubuntu to see all of the os's
+2008-02-28T06:16:00.000Z	Nick-O		i was wanting to experiment with some other linux distros and was wondering how to quintuple (?) boot. i have ubuntu and vista currently and would like to add gentoo, fedora and opensuse (all x64). will grub work for all of these and how do i configure grub inside ubuntu to see all of the os's
+2008-02-28T06:17:00.000Z	Nick-O		anyone have ideas?
+2008-02-28T06:17:00.000Z	Nick-O		anythign not intuitive otherwise i'll just do it
+2008-02-28T06:18:00.000Z	Nick-O		yeah, but i've got that set up. so i shoudl be good. thanks
+2008-02-28T06:18:00.000Z	prince_jammys	Nick-O	you could try to install inside ubuntu and chroot into it? maybe

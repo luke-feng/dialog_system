@@ -1,0 +1,6 @@
+2007-11-23T10:58:00.000Z	ojk007		can someone help me, i cannot boot into my windows partition. Grub give me error 12. I have tried every partition all get error 12 for the standard windows grub entry.
+2007-11-23T10:58:00.000Z	ojk007		should i have any partition flags set?
+2007-11-23T11:00:00.000Z	ojk007		no i cannot BOOT it. Grub gives me Error 12. I can view the Partition, cant boot into it
+2007-11-23T11:02:00.000Z	ojk007		can someone help me, i cannot BOOT into my windows partition. Grub give me error 12. I have tried every partition all get error 12 for the standard windows grub entry.
+2007-11-23T11:03:00.000Z	Soskel	ojk007	easy fix.. 1 sec
+2007-11-23T11:04:00.000Z	Soskel	ojk007	http://ubuntuforums.org/showthread.php?t=224351

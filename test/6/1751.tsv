@@ -1,0 +1,6 @@
+2012-06-12T09:51:00.000Z	fishbait_		why am i getting waiting for netowrk configuration during boot?
+2012-06-12T09:51:00.000Z	iceroot	fishbait_	because you have a networkconfig in /etc/network/interfaces which cant be started at boot (mostly wifi)
+2012-06-12T09:52:00.000Z	fishbait_	iceroot	i'm on static ip on a wired interface
+2012-06-12T09:52:00.000Z	iceroot	fishbait_	maybe the interface is not up at that time
+2012-06-12T09:52:00.000Z	iceroot	fishbait_	if you are using a gui, try to remove the config from that file and use networkmanager instead
+2012-06-12T09:58:00.000Z	iceroot	fishbait_	dont but dns there

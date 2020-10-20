@@ -1,0 +1,6 @@
+2006-06-11T09:19:00.000Z	meheren		when using sudo is it possible to specify the password via an argument?
+2006-06-11T09:20:00.000Z	meheren		for example im about to compile a huge amount of packages from source and i need to use sudo command to do the make install
+2006-06-11T09:21:00.000Z	meheren		kieranDoa, yes but then when the programs are installed will they have proper permissions?
+2006-06-11T09:21:00.000Z	kieranDOA	meheren	true, they should have, but im not sure.
+2006-06-11T09:22:00.000Z	meheren	kieranDOA	ok then ill take my chances with superuser
+2006-06-12T09:30:00.000Z	kieranDOA	meheren	You need gcc.

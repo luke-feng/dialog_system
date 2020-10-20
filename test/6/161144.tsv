@@ -1,0 +1,6 @@
+2005-06-07T08:40:00.000Z	Shinaku		Does Ubuntu come with the SSHD running by default?
+2005-06-07T08:40:00.000Z	thoreauputic	Shinaku	no
+2005-06-07T08:40:00.000Z	thoreauputic	Shinaku	sudo apt-get install openssh-server
+2005-06-07T10:26:00.000Z	thoreauputic	Shinaku	is the URL pingable ?
+2005-06-07T10:26:00.000Z	thoreauputic	Shinaku	so the server is down, obviously
+2005-06-07T10:27:00.000Z	thoreauputic	Shinaku	if you can't ping it...

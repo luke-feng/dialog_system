@@ -1,0 +1,6 @@
+2007-12-08T18:18:00.000Z	bjwebb		x is using a lot of cpu
+2007-12-08T18:20:00.000Z	bjwebb		how do i check what packages have been updated recently?
+2007-12-08T18:21:00.000Z	andrew_mcardle	bjwebb	you can open synaptic and view the history
+2007-12-08T18:21:00.000Z	bjwebb	andrew_mcardle	don't use synaptic
+2007-12-08T18:21:00.000Z	bjwebb		i was thinking cli actually
+2007-12-08T18:22:00.000Z	andrew_mcardle	bjwebb	perhaps apt has a history function, check the man page

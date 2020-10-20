@@ -1,0 +1,6 @@
+2007-03-02T14:10:00.000Z	ZeZu		wow, i just screwd myself amazingly hard, ... i meant to mount my dev partition and delete, and somehow mounted the wrong partition and deleted my / partition, can i repair this easily or should i just reinstall ?
+2007-03-02T14:10:00.000Z	ZeZu		seems it actually managed to del all of /bin so i'm left with nothing
+2007-03-02T14:11:00.000Z	darkcommon	ZeZu	WOW!!!
+2007-03-02T14:11:00.000Z	ZeZu		i still have an image of bash in memory i can use ;)
+2007-03-02T14:11:00.000Z	darkcommon		ZeZu... you are crazy... YOU DELETED THE "/" PART.
+2007-03-02T14:11:00.000Z	ZeZu	darkcommon	it was mounted as /lfs

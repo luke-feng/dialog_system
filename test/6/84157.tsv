@@ -1,0 +1,6 @@
+2007-06-20T07:00:00.000Z	jdstrand		you need the './' to specify your current directory
+2007-06-20T07:00:00.000Z	IndyGunFreak	jdstrand	i already got him past that
+2007-06-20T07:00:00.000Z	IndyGunFreak		he's trying to install cups now.
+2007-06-20T07:00:00.000Z	IndyGunFreak		or was...
+2007-06-20T07:01:00.000Z	jdstrand	IndyGunFreak	I saw that, but didn't see the PATH issue.  maybe it slipped by...
+2007-06-20T07:02:00.000Z	IndyGunFreak	jdstrand	yeah, he kept telling me he was on his desktop, but i knew better, so i told him to move the deb file to his home folder and run it, and it worked.

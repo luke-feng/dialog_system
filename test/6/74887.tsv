@@ -1,0 +1,6 @@
+2008-04-30T21:13:00.000Z	nsx		ntfs is less prone to fragmentation and corruption than fat
+2008-04-30T21:13:00.000Z	nsx		there are two good reasons
+2008-04-30T21:14:00.000Z	nsx		ntfs also has user security
+2008-04-30T21:14:00.000Z	nsx		I'm not sure what that means.  in every file system there are tradeoffs made.
+2008-04-30T21:14:00.000Z	nsx		there's an ext3 driver for windows
+2008-04-30T21:15:00.000Z	iclebyte	nsx	not by default tho?

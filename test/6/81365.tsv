@@ -1,0 +1,6 @@
+2007-09-01T15:41:00.000Z	TheMafia		will someone point me to a good howto on encrypiting an entire /home dir with feisty?  I have been trying to get encfs and fuse and the pam module with no luck
+2007-09-01T15:41:00.000Z	RoboticTao	TheMafia	Use truecrypt
+2007-09-01T15:42:00.000Z	TheMafia	RoboticTao	I will look into it, I didn' tthink it would do a /home directory very seamlessly?
+2007-09-01T15:42:00.000Z	RoboticTao	TheMafia	If you want you can encrypt a entire drive or just a partition
+2007-09-01T15:43:00.000Z	RoboticTao	TheMafia	It's fairly versatile
+2007-09-01T15:43:00.000Z	TheMafia	RoboticTao	an entire directory, my ~ is not on a seperate partition

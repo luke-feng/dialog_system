@@ -1,0 +1,6 @@
+2009-11-28T09:02:00.000Z	lfaraone		By default, it seems apt-mirror only handes one arch. How do I make it download amd64 and i386?
+2009-11-28T09:03:00.000Z	Snausages	lfaraone	I dunno if you can...  but then, just about every computer I've seen is conveniently also just one architecture, so I think i'm missing the problem?
+2009-11-28T09:04:00.000Z	lfaraone	Snausages	I'm running a apt mirror for a lab.
+2009-11-28T09:04:00.000Z	lfaraone	Snausages	we have  multiple archs.
+2009-11-28T09:04:00.000Z	lfaraone	Snausages	moreover, we often have i386 chroots on amd64 workstations.
+2009-11-28T09:04:00.000Z	Snausages	lfaraone	gotcha.  I don't know how to get around that, but thanks for the details

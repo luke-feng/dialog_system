@@ -1,0 +1,6 @@
+2011-11-23T22:48:00.000Z	Jragon		How do I mount my windows drivE#?
+2011-11-23T22:49:00.000Z	Jragon		Sorry, how can I mount my windows partition
+2011-11-23T22:49:00.000Z	Jragon		It's in sda1
+2011-11-23T22:51:00.000Z	pikaciu	Jragon	it doesn't show in Nautilus side bar ?
+2011-11-23T22:54:00.000Z	pikaciu	Jragon	 you have to mount it in /mnt
+2011-11-23T23:07:00.000Z	pikaciu	Jragon	what's the output of sudo fdisk -l?

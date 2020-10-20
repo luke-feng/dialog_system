@@ -1,0 +1,6 @@
+2007-10-20T01:44:00.000Z	Tominator		hi! I just install gutsy server on my little home-server and I am trying to get my wlan working. On Edgy my Ralink 2500 Card had the interface "ra0" now there are wlan0 and waster0,,, ist wlan0 the equivalent for ra0 now?
+2007-10-20T01:45:00.000Z	Tominator		*installed
+2007-10-20T01:45:00.000Z	bofh80	Tominator	i seem to find the adapters name choice varies lol, so yes wlan0 is an equivient. if you are not sure you can use dmesg to see what's being assigned to what
+2007-10-20T01:54:00.000Z	Tominator	bofh80	what du you mean?
+2007-10-20T01:55:00.000Z	Tominator	bofh80	are you looking for software which is able to use your special keys?
+2007-10-20T01:56:00.000Z	bofh80	Tominator	no i hate those things. but we can't be sure until we find out what in ubuntu is launching the applications. something HAS to be controlling it, it's already installed and running, we just need to find it's config

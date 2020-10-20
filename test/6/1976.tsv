@@ -1,0 +1,6 @@
+2012-05-29T00:09:00.000Z	D[4]ni	Slackline	that happened to me once too. are you using wine?
+2012-05-29T00:09:00.000Z	Slackline	D[4]ni	yhes
+2012-05-29T00:10:00.000Z	D[4]ni	Slackline	some windows program probably used the DwmExtendFrameIntoClientArea api - logging out and in again and stopping using the application that calls that should help
+2012-05-29T00:11:00.000Z	Slackline	D[4]ni	which app woult that be ?
+2012-05-29T00:11:00.000Z	D[4]ni	Slackline	i don't know, what do you run in wine?
+2012-05-29T00:12:00.000Z	Slackline	D[4]ni	this is happening when I start up, nothing is being started up with wine ,

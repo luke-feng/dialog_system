@@ -1,0 +1,6 @@
+2010-08-13T10:05:00.000Z	st__		is it normal for xorg to use CPU?
+2010-08-13T10:06:00.000Z	ZykoticK9	st__	of course.  you could try disabling compiz if your currently running it.  X is Xorg or the GUI environment.
+2010-11-16T03:24:00.000Z	ZykoticK9	st__	technically /tmp is "common" and world writable.  I don't think that's what you where asking though.
+2010-11-16T03:24:00.000Z	st__	ZykoticK9	i couldn't make /tmp contents survive reboot :(
+2010-11-22T07:18:00.000Z	ZykoticK9	st__	you can't, try using "sudo apt-get -f install" to fix
+2010-11-22T07:19:00.000Z	ZykoticK9	st__	because it's broken/not working most likely

@@ -1,0 +1,6 @@
+2005-03-20T12:05:00.000Z	echostorm		hey all.
+2005-03-20T12:06:00.000Z	echostorm		first time linux user (actually 2nd tried debian yesterday) i was curious of 2 things... one my screensize is like uber small ...any way to set it to 800x600? oh and also, how can i find out what kernal i have?>
+2005-03-20T12:07:00.000Z	dead|shell	echostorm	have you used the termina at all
+2005-03-20T12:09:00.000Z	dead|shell	echostorm	scroll down until you see monitor config stuff http://www.angelfire.com/empire/ofburntsouls/x.html
+2005-03-20T12:12:00.000Z	dead|shell	echostorm	as far as your kernel info try the command uname
+2005-03-20T12:20:00.000Z	dead|shell	echostorm	on that site i showed you i have instructions for a new kernel as well

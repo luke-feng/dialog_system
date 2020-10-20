@@ -1,0 +1,6 @@
+2005-04-14T08:32:00.000Z	buerste		hi still got a little problem with chrooting
+2005-04-14T08:33:00.000Z	buerste		cant access my cdrom in chroot
+2005-04-14T08:33:00.000Z	buerste		this is the fstab file: /dev/hda        /media/cdrom0   udf,iso9660 ro,user,noauto  0       0
+2005-04-14T08:33:00.000Z	buerste		./media/cdrom    /var/chroot/media/cdrom none    bind            0       0
+2005-04-14T08:33:00.000Z	buerste		(without the dot)
+2005-04-14T08:34:00.000Z	Myrtti	buerste	hint: / /media/cdrom

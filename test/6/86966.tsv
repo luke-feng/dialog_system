@@ -1,0 +1,6 @@
+2007-05-10T16:43:00.000Z	TP8192		DOES ANYONE KNOW HOW TO MAKE UBUNTU LIVECD RECOGNIZE MY USB KEY...?
+2007-05-10T16:44:00.000Z	TP8192		PLZ?
+2007-05-10T16:44:00.000Z	TP8192		someone...?
+2007-05-10T16:45:00.000Z	bododo	TP8192	try mound /dev/sda1 /mnt/flash
+2007-05-10T16:45:00.000Z	TP8192	bododo	it doesn't let me mount 'cause I have no sa access.
+2007-05-10T16:46:00.000Z	TP8192	bododo	which leads me to another question... how can I get sa access in LiveCD?

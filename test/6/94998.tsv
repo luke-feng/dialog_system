@@ -1,0 +1,6 @@
+2007-03-06T17:19:00.000Z	techie		gyaresu.. Chinese? ni hao
+2007-03-06T17:20:00.000Z	techie		any of you guys know the best way to run window programs in ubutnu edgy?
+2007-03-06T17:21:00.000Z	techie		I already mounted windows and can read all but not execute programs...
+2007-03-06T17:21:00.000Z	techie		how do i know whether wine is already installed in my system or is that part of ubuntu 6.10?
+2007-03-06T17:22:00.000Z	Xif	techie	it's not a part of Edgy
+2007-03-06T17:22:00.000Z	Xif	techie	apt-cache policy wine

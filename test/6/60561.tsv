@@ -1,0 +1,6 @@
+2008-05-28T07:37:00.000Z	m_newton		HOw do i get VLC to repeat, IS THERE A SHORTCUT???
+2008-05-28T07:38:00.000Z	m_newton		Anyone??   anyone know how to get VLC to repeat, IS THERE A SHORTCUT???
+2008-05-28T07:40:00.000Z	harriseldon	m_newton	here are some shortcut keys http://www.keyxl.com/aaa448e/236/VLC-keyboard-shortcuts.htm
+2008-05-28T07:46:00.000Z	harriseldon	m_newton	http://ubuntuforums.org/showthread.php?t=311228
+2008-05-28T07:51:00.000Z	harriseldon	m_newton	what do you mean configure internet?
+2008-05-28T07:54:00.000Z	harriseldon	m_newton	then you may need to edit /etc/network/interfaces with wireless details so that it can work on startup

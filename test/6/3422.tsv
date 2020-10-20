@@ -1,0 +1,6 @@
+2012-03-03T03:43:00.000Z	FavLedesma		Can anyone help me out with dual booting Win7 and Ubuntu via usb? Im getting the notorious black screen upon boot up. :(
+2012-03-03T03:43:00.000Z	lilVaratep	FavLedesma	which version of ubuntu are you trying to install?
+2012-03-03T03:43:00.000Z	lilVaratep	FavLedesma	you have the USB installer and used it right?
+2012-03-03T03:44:00.000Z	lilVaratep	FavLedesma	boot to recovery and sudo dpkg --configure -a
+2012-03-03T03:46:00.000Z	lilVaratep	FavLedesma	when do you get black screen? After boot?
+2012-03-03T03:46:00.000Z	lilVaratep	FavLedesma	Try this: http://www.linuxquestions.org/questions/ubuntu-63/ubuntu-11-10-black-screen-after-boot-screen-908044/

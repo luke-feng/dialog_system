@@ -1,0 +1,6 @@
+2012-04-09T14:16:00.000Z	hidensoft		how i can run a command in background ?
+2012-04-09T14:17:00.000Z	lukibeni	hidensoft	just type "&" at the end of the command
+2012-04-09T14:18:00.000Z	hidensoft	lukibeni	hm , its showing output ,  i don't wanna see any output
+2012-04-09T14:20:00.000Z	lukibeni	hidensoft	> /dev/null ?
+2012-04-09T14:21:00.000Z	hidensoft	lukibeni	i got some output but not all
+2012-04-09T14:24:00.000Z	hidensoft	lukibeni	nohup ;) tnx

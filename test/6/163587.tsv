@@ -1,0 +1,6 @@
+2005-03-17T10:14:00.000Z	xoxoxo		my ubuntu (4.10) boot up so slow. anybody can recommend me how to refine system to speed things up?
+2005-03-17T10:15:00.000Z	xoxoxo		i already remove unneeded script from /etc/init.d, but that doesnt help much
+2005-03-17T10:16:00.000Z	xoxoxo		ok i meant i removed things in rc3.d
+2005-03-17T10:17:00.000Z	xoxoxo		i wonder if upgrading to hoary will help ?
+2005-03-17T10:18:00.000Z	LinuxJones	xoxoxo	debian uses runlevel 2 by default
+2005-03-17T10:18:00.000Z	LinuxJones	xoxoxo	err Ubuntu

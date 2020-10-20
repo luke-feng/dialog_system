@@ -1,0 +1,6 @@
+2006-06-07T07:25:00.000Z	Abnix		\o:  what the crap happened to my firefox?  middle-click to paste a link no longer works...
+2006-06-07T07:27:00.000Z	soundray	Abnix	just configure it. And please help keep this channel G-rated.
+2006-06-07T07:30:00.000Z	Abnix	soundray	I'm curious, where is this configuration at?  I'm not seeing it in the Edt/Preferences dialog box
+2006-06-07T07:31:00.000Z	soundray	Abnix	go to about:config, filter for middle, set middlemouse.contentLoadURL to true
+2007-02-04T15:41:00.000Z	soundray	Abnix	try 'sudo rm /var/cache/apt/archives/lock'
+2007-02-04T15:42:00.000Z	soundray	Abnix	if a package manager crashes, it can leave its lock file behind in that dir

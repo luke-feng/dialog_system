@@ -1,0 +1,6 @@
+2008-07-23T06:33:00.000Z	Zoem		I am watching network traffic on wireshark, and see a lot of dns requests originating from my computer to an IP address it can't reach, for locations I've never heard of. Any ideas how to track down what is causing this?
+2008-07-23T06:35:00.000Z	Zoem		I am watching network traffic on wireshark, and see a lot of dns requests originating from my computer to an IP address it can't reach, for locations I've never heard of. Any ideas how to track down what is causing this?
+2008-07-23T06:35:00.000Z	anteaya	Zoem	i found this link to be an interesting read: http://blog.gnist.org/article.php?story=HollidayCracking
+2008-07-23T06:35:00.000Z	Zoem	anteaya	thanks I'll have a look
+2008-07-23T06:35:00.000Z	anteaya	Zoem	HTH
+2008-07-23T06:46:00.000Z	Zoem	anteaya	that doesn't look quite like what I am seeing. Fun read though ^_^

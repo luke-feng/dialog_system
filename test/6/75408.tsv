@@ -1,0 +1,6 @@
+2007-10-20T23:01:00.000Z	BlitzRed		libboost-filesystem1.33.1 how do i install it?
+2007-10-20T23:01:00.000Z	scguy318	BlitzRed	sudo apt-get install libboost-filesystem1.33.1?
+2007-10-20T23:01:00.000Z	BlitzRed	scguy318	tried already, didnt work
+2007-10-20T23:01:00.000Z	scguy318		!info libboost-filesystem
+2007-10-20T23:02:00.000Z	scguy318		!info libboost-filesystem*
+2007-10-20T23:02:00.000Z	scguy318	BlitzRed	sudo apt-get install libboost-filesystem-dev

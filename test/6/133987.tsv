@@ -1,0 +1,6 @@
+2006-01-27T16:56:00.000Z	aodzen		help please - X won't start
+2006-01-27T16:56:00.000Z	gnomefreak	aodzen	startx
+2006-01-27T16:57:00.000Z	gnomefreak	aodzen	what version of ubuntu?
+2006-01-27T16:58:00.000Z	gnomefreak	aodzen	5.10 or 6.04
+2006-01-27T16:58:00.000Z	gnomefreak	aodzen	from prompt run sudo dpkg-reconfigure xserver-xorg and make sure everything is correct
+2006-01-27T16:59:00.000Z	gnomefreak	aodzen	yes

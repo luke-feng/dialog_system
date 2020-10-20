@@ -1,0 +1,6 @@
+2007-09-19T14:53:00.000Z	koer		how can i specify how much RAM my videocard has ?
+2007-09-19T14:55:00.000Z	koer		how can i boost my fps in a videogame , tehy are too low ( geforce 7800)
+2007-09-19T14:55:00.000Z	koer		2-10 fps :(
+2007-09-19T14:55:00.000Z	Ademan	koer	what game? there are million different reasons it could be happening, and 3 million more if you're using wine
+2007-09-19T14:56:00.000Z	Ademan	koer	have you installed the driver for your card?
+2007-09-19T14:56:00.000Z	Ademan	koer	can you make a paste at http://www.rafb.net/paste of the output of glxinfo ?

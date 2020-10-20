@@ -1,0 +1,6 @@
+2008-08-04T21:15:00.000Z	Pinas_		somone any idea whats wrong with my computer ??
+2008-08-04T21:16:00.000Z	soundray	Pinas_	the problem sits at the keyboard. Safe diagnosis in the majority of cases ;)
+2008-08-04T21:16:00.000Z	Pinas_		oh Banshee
+2008-08-04T21:17:00.000Z	Pinas_	soundray	i think that you a right, but i really dont know whats wrong. I start Banshee Musik Player an everything works fine. I Close Banshee and start it again and nothing works any more
+2008-08-04T21:18:00.000Z	soundray	Pinas_	run tail -f /var/log/syslog  and see if any logged events are associated with closing and reopening banshee
+2008-08-04T21:20:00.000Z	Pinas_	soundray	i am alredy cheking the logs and i always get this error: Aug  4 18:15:35 Workoholic pulseaudio[6436]: module-alsa-sink.c: Error opening PCM device front:0: Device or resource busy

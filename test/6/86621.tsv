@@ -1,0 +1,6 @@
+2009-07-12T01:16:00.000Z	iamalion		ok, so last night i installed a couple theme packages. a few mins after that, ubuntu froze.  I rebooted and it keeps freezing....    So today I went through recoverey, and all that stuff, but it still freezes.  if i open a window that has multiple secions, if i click in one, it traps my mouse and wont let me click on anything else, whether in the program window or the panels... i end up having to alt+f4 the program to regain mouse....
+2009-07-12T01:16:00.000Z	iamalion		any ideas?   I removed the packages that i installed last night
+2009-07-12T01:16:00.000Z	iamalion		:l
+2009-07-12T01:17:00.000Z	iamalion		anyone know
+2009-07-12T01:19:00.000Z	K99Brain	iamalion	if you rename the hidden folders .gnome2 .gconf .gnome2_private you should be able to reset your desktop to default
+2009-07-12T01:20:00.000Z	K99Brain	iamalion	also .config

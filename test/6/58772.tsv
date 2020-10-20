@@ -1,0 +1,6 @@
+2012-08-13T21:55:00.000Z	FrozenFire		Anyone know of a non-FUSE-based method for interfacing with Rackspace Cloud Files, to download files directly?
+2012-08-13T21:55:00.000Z	Psi-Jack	FrozenFire	Rackspace support can help you with that.
+2012-08-13T21:57:00.000Z	FrozenFire	Psi-Jack	Unlikely. I have a fair understanding of the whole process, and have mucked around with cloudfuse. I'm just hoping someone knows of an application that's available for Linux that handles it.
+2012-08-13T21:57:00.000Z	FrozenFire		Not sure if there's something in the main repos that I just can't find.
+2012-08-13T21:57:00.000Z	Psi-Jack	FrozenFire	You'd be surprised, but it's really their job more so.
+2012-08-13T21:57:00.000Z	Psi-Jack	FrozenFire	Beings that the company I work for currently uses their services and all. :p

@@ -1,0 +1,6 @@
+2007-11-15T19:45:00.000Z	Sergo		hi
+2007-11-15T19:45:00.000Z	Sergo		can anyone help me with eggdrop?
+2007-11-15T19:46:00.000Z	Pici	Sergo	try #eggdrop
+2007-11-15T19:46:00.000Z	Pici	Sergo	hold on then
+2007-11-15T19:47:00.000Z	Pici	Sergo	/usr/share/doc/eggdrop-data/examples/eggdrop.conf.gz
+2007-11-15T19:48:00.000Z	Pici	Sergo	or apt-file show eggdrop | grep conf

@@ -1,0 +1,6 @@
+2011-04-07T06:21:00.000Z	fr00g		I need help. I had Lucid and Compiz was working fine, but when I upgraded to Maverick, it doesn't work anymore. why?
+2011-04-07T06:23:00.000Z	fr00g		It says that it can't
+2011-04-07T06:23:00.000Z	fr00g		"Visual effects could not be enabled" or something
+2011-04-07T06:23:00.000Z	shcherbak	fr00g	Do you have properiary driver? menu > Admin > Hardware Drivers
+2011-04-07T06:24:00.000Z	shcherbak	fr00g	Do you have any listed to install?
+2011-04-07T06:26:00.000Z	shcherbak	fr00g	Check your video card (type) and pass through google. It will tell you what open driver you can use to get most of your card. Some card dropping from support.

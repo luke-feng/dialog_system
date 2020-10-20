@@ -1,0 +1,6 @@
+2005-02-27T17:37:00.000Z	tritium	mjt	drasko you should check out ifrename
+2005-02-27T17:38:00.000Z	mjt	tritium	no thanks ;-P
+2005-02-27T17:38:00.000Z	tritium	mjt	how come?
+2005-02-27T17:40:00.000Z	mjt	tritium	well, there are many other ways to rename interfaces too.  But in this case i just don't see a reason for renaming (aka additional complications) -- just let ethercard be eth0 and usb modem be eth1, and be done with that ;)
+2005-02-27T17:44:00.000Z	tritium	mjt	you already blacklisted it?
+2005-02-27T17:45:00.000Z	tritium	mjt	ignore last msg

@@ -1,0 +1,6 @@
+2006-09-13T07:05:00.000Z	IneedHelp		what will default swap be?
+2006-09-13T07:06:00.000Z	IneedHelp		I have 2GB of ram so I dont think I really need swap...
+2006-09-13T07:06:00.000Z	jazzrocker	IneedHelp	you need swap
+2006-09-13T07:07:00.000Z	jazzrocker	IneedHelp	it's required. you don't have to make it the full size of your ram but making it about equal is a good idea
+2006-09-13T07:07:00.000Z	jazzrocker	IneedHelp	and if you've got 2G of ram i'm guessing your hard disk can spare an extra 2G for swap
+2006-09-13T07:08:00.000Z	jazzrocker	IneedHelp	well there you go

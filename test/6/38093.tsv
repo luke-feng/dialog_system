@@ -1,0 +1,6 @@
+2009-05-15T04:15:00.000Z	leOn		hmm .. linux-backports-modules-2.6.28-11-generic provides updated version for the iwlagn firmware
+2009-05-15T04:16:00.000Z	leOn		and also the 802.11 stack
+2009-05-15T04:16:00.000Z	jtaji	leOn	you probably want to install linux-backports-modules-jaunty though, so it stays up to date
+2009-05-15T04:17:00.000Z	leOn	jtaji	better go for the meta package .. understood
+2009-05-15T04:17:00.000Z	jtaji	leOn	yeah it has solved problems on my thinkpad since intrepid
+2009-05-15T04:18:00.000Z	leOn	jtaji	on a thinkpad too

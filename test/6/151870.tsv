@@ -1,0 +1,6 @@
+2007-09-13T12:42:00.000Z	pack		[nrx] , you should read http://catb.org/~esr/faqs/smart-questions.html. What's your dns issue?
+2007-09-13T12:42:00.000Z	[nrx] 	pack	DNS seems to be broken. nslookup in console works fine, in firefox it doesn'.
+2007-09-13T12:43:00.000Z	[nrx] 	pack	apt-get resolves all hosts to 1.0.0.0
+2007-09-13T12:44:00.000Z	[nrx] 	pack	im running apt-get from console. i was saying that in firefox, i.e. www.google.co.uk doesn't work. IP addresses work fine though. In console, nslookup can resolve perfectl, but apt-get can not
+2007-09-13T12:49:00.000Z	[nrx] 	pack	i don't have an nscd in /etc/init.d
+2007-09-13T12:50:00.000Z	[nrx] 	pack	i have connection problems in general. At the office, this laptop is fine. Here, at home, i've got all kinds of issues

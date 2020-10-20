@@ -1,0 +1,6 @@
+2006-08-24T10:55:00.000Z	ADminS		!backup
+2006-08-24T10:56:00.000Z	eyequeue	ADminS	i personally recommmend duplicity, but investigate for your own needs
+2006-08-24T10:57:00.000Z	ADminS	eyequeue	thx but i want to backup homeuser only
+2006-08-24T11:00:00.000Z	eyequeue	ADminS	i "duplicity scp://remotehost/backups/home /home/me" regularly
+2006-08-24T11:02:00.000Z	eyequeue	ADminS	"duplicity scp://remotehost/backups/home /home/me" is my commandline method
+2006-08-24T11:03:00.000Z	eyequeue	ADminS	"duplicity scp://remotehost/backups/home /home" would grab all your users

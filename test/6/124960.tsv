@@ -1,0 +1,6 @@
+2006-02-24T14:50:00.000Z	Gnumannen		how do I change the locale values (eg. LC_ALL)? Running server and textbased and I need to change it for GCC to work.
+2006-02-24T14:51:00.000Z	ecarroll	Gnumannen	locale
+2006-02-24T14:51:00.000Z	Gnumannen	ecarroll	that just tell me the values, I am not able to cahnge them.
+2006-02-24T14:53:00.000Z	Gnumannen	ecarroll	aren't they stored in a file somewhere?
+2006-02-24T14:54:00.000Z	ecarroll	Gnumannen	man locale-gen
+2006-02-24T14:54:00.000Z	Gnumannen	ecarroll	okey

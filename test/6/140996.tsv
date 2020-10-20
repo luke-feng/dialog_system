@@ -1,0 +1,6 @@
+2006-11-20T13:06:00.000Z	shodanjr_gr		hm..
+2006-11-20T13:06:00.000Z	shodanjr_gr		is there a way to quickly install all the l.A.M.P. stuff at once?
+2006-11-20T13:07:00.000Z	shodanjr_gr		via synaptic?
+2006-11-20T13:07:00.000Z	shodanjr_gr		hm...
+2006-11-20T13:08:00.000Z	shodanjr_gr		so sudo apt-get apache2 php5-mysql libapache2-mod-php5 mysql-server should do it, right?
+2006-11-20T13:08:00.000Z	paradizelost	shodanjr_gr	sudo apt-get install apache mysql php5

@@ -1,0 +1,6 @@
+2008-07-02T16:25:00.000Z	sCOTTo		!printers
+2008-07-02T16:27:00.000Z	sCOTTo		ok i got a support question.
+2008-07-02T16:27:00.000Z	sCOTTo		please help me~!
+2008-07-02T16:29:00.000Z	sCOTTo		bugger
+2008-07-02T16:30:00.000Z	koshari	sCOTTo	you still need the printers drivers on the machine initiating the print, the print server simply forwards the request to the printer.
+2008-07-02T16:30:00.000Z	sCOTTo	koshari	even a test page from the server itself wont print

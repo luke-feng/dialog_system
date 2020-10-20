@@ -1,0 +1,6 @@
+2009-10-26T22:29:00.000Z	ubuntunewbie		my ubuntu kernel corrupted
+2009-10-26T22:29:00.000Z	ubuntunewbie		after I choose recovery , everything including my wallpaper and character became square like above
+2009-10-26T22:30:00.000Z	ubuntunewbie		please help thank you
+2009-10-26T22:30:00.000Z	MixMix	ubuntunewbie	what does cat /var/lib/locales/supported.d/local give you?
+2009-10-26T22:40:00.000Z	ubuntunewbie	MixMix	it gives me en_US.UTF-8
+2009-10-26T22:41:00.000Z	ubuntunewbie	MixMix	it gives me en_US.UTF-8

@@ -1,0 +1,6 @@
+2006-04-20T08:37:00.000Z	prospero2005		I'm thinking about doing an apt-get dist-upgrade to dapper for xgl. Any thoughts?
+2006-04-20T08:37:00.000Z	nickrud	prospero2005	xgl is not a good enough reason to upgrade
+2006-04-20T08:38:00.000Z	prospero2005	nickrud	I have a dual-head setup. Think xgl will work with it?
+2006-04-20T08:39:00.000Z	nickrud	prospero2005	I really have no idea. When I realized that the window manager for xgl was crippled, I gave it up.
+2006-04-20T08:40:00.000Z	prospero2005	nickrud	crippled?
+2006-04-20T08:41:00.000Z	nickrud	prospero2005	it's only a proof of concept, there's a lot of things that a window manager should handle, like shortcuts, etc that this iteration does not have

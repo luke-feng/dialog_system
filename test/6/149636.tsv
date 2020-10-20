@@ -1,0 +1,6 @@
+2005-04-28T15:36:00.000Z	camcorder		shavnir: if you're using only ascii no
+2005-04-28T15:37:00.000Z	camcorder		shavnir: well just try w/o it, if you have problems w/ filenames you can alwasy umount and  remount
+2005-04-28T15:39:00.000Z	camcorder		shavnir: ' o user,umask=000'
+2005-04-28T15:40:00.000Z	camcorder		shavnir: there should not be 'o' there
+2005-04-28T15:40:00.000Z	liable	camcorder	for the commandline entry?
+2005-04-28T15:40:00.000Z	camcorder	liable	for command line entry it should be -o

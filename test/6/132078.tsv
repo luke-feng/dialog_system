@@ -1,0 +1,6 @@
+2007-03-27T15:21:00.000Z	harry__		Which provides better Linux support on their cards: nVidia or ATI?
+2007-03-27T15:22:00.000Z	harry__		do you know of a 'web sight' where I could compare benchmarks for different video cards?
+2007-03-27T15:22:00.000Z	LjL	harry__	for full 3D acceleration you need to use proprietary (not open source) drivers on both Nvidia and most ATI, though for some ATI the open source drivers does 3D well. but as the proprietary drivers go, the Nvidia ones are consistently said to be much better
+2007-03-27T15:23:00.000Z	LjL	harry__	google for "GLOBS", which is a 3D card benchmarking utility for Linux. its site has quite a few reference data
+2007-03-27T15:37:00.000Z	LjL	harry__	doubt it
+2007-03-27T15:51:00.000Z	LjL	harry__	yes

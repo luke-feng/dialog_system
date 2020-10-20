@@ -1,0 +1,6 @@
+2009-12-13T14:58:00.000Z	Ahri		i've written a daemon, and an init script for it. when i use the init script it correctly executes the daemon, however as the daemon does not background itself the init script just hangs (until said damon is killed). what is the solution to this problem?
+2009-12-13T14:58:00.000Z	relentless	Ahri	did you fork it?
+2009-12-13T14:59:00.000Z	Ahri	relentless	the init script does not fork it, no. it's using start-stop-daemon to call the daemon
+2009-12-13T14:59:00.000Z	relentless	Ahri	try putting an & after callign to daemon or rewriting the script to fork
+2009-12-13T15:00:00.000Z	Ahri	relentless	ok, do you mean that the daemon should for itself?
+2009-12-13T15:01:00.000Z	relentless	Ahri	just at the end of the command you use to call the daemon

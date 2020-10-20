@@ -1,0 +1,6 @@
+2011-10-19T16:56:00.000Z	melle		Hi all, trying to figure out if ubuntu server is a good option for us to use... Could anyone tell me what version of Qt is running on the lastest download? Google didn't provide me with an results...
+2011-10-19T16:57:00.000Z	Pici	melle	Since there are so many qt packages, Your best bet is to search on http://packages.ubuntu.com or within http://launchpad.net/ubuntu/   (both 3 and 4 are available)
+2011-10-19T16:58:00.000Z	melle	Pici	thx, will do!
+2011-10-19T17:05:00.000Z	melle	Pici	Looking at: http://packages.ubuntu.com/oneiric/qt4-qmake can i conclude that 4.7.4 is the current version in ubuntu?
+2011-10-19T17:08:00.000Z	Pici	melle	That looks to be the case to me.  The latest LTS release still only has 4.6 though.  http://paste.ubuntu.com/713175/
+2011-10-19T17:08:00.000Z	melle	Pici	thx!

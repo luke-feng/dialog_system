@@ -1,0 +1,6 @@
+2012-11-08T05:47:00.000Z	kickingvegas		hi folks, here using 12.04 dual boot with win7. If I upgrade to win8, will it mess with my ubuntu install?
+2012-11-08T05:49:00.000Z	cowsquad	kickingvegas	yes it will delete everything
+2012-11-08T05:49:00.000Z	kickingvegas	cowsquad	!
+2012-11-08T05:49:00.000Z	kickingvegas		really?
+2012-11-08T05:49:00.000Z	cowsquad		is windows your primary OS, or ubunt
+2012-11-08T05:51:00.000Z	kickingvegas	cowsquad	ubuntu; right now have it in a weird config where grub loads by default; can get to win7 when I escape during BIOS/EFI loading then boot win7

@@ -1,0 +1,6 @@
+2011-03-31T09:37:00.000Z	littlestbear		(DaPenguin): is emas better than vim?
+2011-03-31T09:38:00.000Z	littlestbear		(DaPenguin): been using vim for quit a while , i heard emacs more visual
+2011-03-31T09:38:00.000Z	littlestbear		same here lol
+2011-03-31T09:38:00.000Z	littlestbear		(zee313): which one? bash?
+2011-03-31T09:39:00.000Z	littlestbear		(rodhash): somewhere in init.d/ i think
+2011-03-31T09:40:00.000Z	rodhash	littlestbear	I tried /etc/init.d/ssh stop too... kill -9 as well.. then sshd gets a new PID.. in other words, upstart bring it up again

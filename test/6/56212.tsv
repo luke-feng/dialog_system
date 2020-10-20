@@ -1,0 +1,6 @@
+2008-06-15T23:25:00.000Z	pub		is it possible to open .rar files in linux ?
+2008-06-15T23:25:00.000Z	pub		just install winrar.?
+2008-06-15T23:26:00.000Z	LtL	pub	install rar, i forget the package name
+2008-06-15T23:26:00.000Z	pub	LtL	via apt-get?
+2008-06-15T23:27:00.000Z	LtL	pub	install rar, in the non-free repo
+2008-06-15T23:27:00.000Z	LtL	pub	yes apt-get install rar

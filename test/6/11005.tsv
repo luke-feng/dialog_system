@@ -1,0 +1,6 @@
+2011-03-26T17:49:00.000Z	fernandofat		hi all
+2011-03-26T17:50:00.000Z	fernandofat		I just wrecked Ubuntu 10.10 video driver so it boots only to command line
+2011-03-26T17:52:00.000Z	fernandofat		how can I restore previous good video driver configuration for ubuntu 10.10?
+2011-03-26T17:53:00.000Z	ruan	fernandofat	try regenerating xorg.conf
+2011-03-26T17:53:00.000Z	ruan	fernandofat	if it exists
+2011-03-26T17:53:00.000Z	fernandofat	ruan	okay I will give it a try

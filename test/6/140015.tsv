@@ -1,0 +1,6 @@
+2005-12-06T13:34:00.000Z	meck		why not just dd?
+2005-12-06T13:34:00.000Z	meck		no tarring, no mirroring
+2005-12-06T13:34:00.000Z	meck		dd if=/dev/hda of=/dev/hdb
+2005-12-06T13:35:00.000Z	meck		if both drives are the same capacity, etc
+2005-12-06T13:35:00.000Z	barongas	meck	nope, the target is bigger
+2005-12-06T13:36:00.000Z	barongas	meck	I'll try the dd way first and see...

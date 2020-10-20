@@ -1,0 +1,6 @@
+2012-03-08T23:57:00.000Z	benbloom_		is there a software based reason my ps/2 mouse would stop working? how can i troubleshoot it?
+2012-03-08T23:59:00.000Z	benbloom_		tried that recon_lap
+2012-03-08T23:59:00.000Z	dr_willis	benbloom_	 it worked then stopped as you were using it? or how exactly?
+2012-03-09T00:07:00.000Z	benbloom_	dr_willis	It had been working. then it stopped. i didn't change any configuration (that i know of)
+2012-03-09T00:09:00.000Z	benbloom_	dr_willis	thing is, I need to use a KVM switch with PS/2 between computers
+2012-03-09T00:09:00.000Z	dr_willis	benbloom_	 try the mouse without the kvm. those things are notarious for causing issues...

@@ -1,0 +1,6 @@
+2011-12-16T02:26:00.000Z	jon23d		can somebody help me get SSL set up for local virtual hosts?  I am having a lot of trouble getting it to work.
+2011-12-16T02:27:00.000Z	jrbass	jon23d	it was a pain for me too
+2011-12-16T02:27:00.000Z	jon23d	jrbass	do you have a resource that you could recommend?
+2011-12-16T02:28:00.000Z	jrbass	jon23d	i used this tut > https://help.ubuntu.com/community/forum/server/apache2/SSL
+2011-12-16T02:30:00.000Z	jon23d	jrbass	but what if I want to use multiple named virtual hosts?
+2011-12-16T02:32:00.000Z	jrbass	jon23d	im guessing you would direct each vhost to a dif cert file

@@ -1,0 +1,6 @@
+2009-05-11T00:13:00.000Z	shadow98		is there anyway to save a file if im not root...i have made changes to this file that i don't want to loose....
+2009-05-11T00:13:00.000Z	Slart	shadow98	save it in your home folder
+2009-05-11T00:13:00.000Z	Slart	shadow98	then move it as root to the right place
+2009-05-11T00:13:00.000Z	shadow98	Slart	how do you tell it where to save it...im used to just doing :x!
+2009-05-11T00:14:00.000Z	Slart	shadow98	oh.. in vim.. isn't there a built-in help function? vim always scared me.. never quite got the hang of it
+2009-05-11T00:16:00.000Z	Slart	shadow98	can't you press :? to get help?

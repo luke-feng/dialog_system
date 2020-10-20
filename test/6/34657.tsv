@@ -1,0 +1,6 @@
+2009-09-24T05:57:00.000Z	queso_		What is the standard console-based web browser that comes with Ubuntu? I can't remember the command. :/
+2009-09-24T05:57:00.000Z	prince_jammys	queso_	www-browser  links to whatever it is.
+2009-09-24T05:59:00.000Z	prince_jammys	queso_	and the links will take you all the way to /etc/alternatives/www-browser, which over here links to 'lynx'
+2009-09-24T05:59:00.000Z	queso_	prince_jammys	great, thx :)
+2009-09-24T06:00:00.000Z	queso_	prince_jammys	 aah, w3m was the command I was looking for
+2009-09-24T06:00:00.000Z	prince_jammys	queso_	i may have set it to lynx myself. I don't know if lynx was the default.

@@ -1,0 +1,6 @@
+2010-02-09T01:57:00.000Z	kad__		hey need to ask! i have ubuntu 9.10 where is xorg.conf ? before versions there were xorg.conf!
+2010-02-09T01:57:00.000Z	toastedmilk	kad__	/etc/X11/xorg.conf
+2010-02-09T01:58:00.000Z	toastedmilk	kad__	although 9.10 might not have it
+2010-02-09T01:58:00.000Z	kad__	toastedmilk	 i search no xorg.conf
+2010-02-09T01:58:00.000Z	toastedmilk	kad__	check the 9.10 release notes
+2010-02-09T01:58:00.000Z	kad__	toastedmilk	 how i can edit the config then ?

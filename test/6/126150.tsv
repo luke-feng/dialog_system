@@ -1,0 +1,6 @@
+2006-08-07T14:06:00.000Z	barongas		I'm looking to mount a .bin file that has no .cue file...
+2006-08-07T14:06:00.000Z	barongas		I know I've done it before but I can't remember
+2006-08-07T14:06:00.000Z	burhan	barongas	use bchunk
+2006-08-07T14:07:00.000Z	barongas	burhan	 doesn't bchunk require a .cue?
+2006-08-07T14:07:00.000Z	burhan	barongas	I think it works with or without one, not sure. Worth a try though :)
+2006-08-07T14:08:00.000Z	barongas	burhan	just gives me the --help

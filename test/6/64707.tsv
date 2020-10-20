@@ -1,0 +1,6 @@
+2010-04-06T02:46:00.000Z	FriedrichMan		hey there.... I kept trying to configure my laptop so it gets a static ip
+2010-04-06T02:46:00.000Z	FriedrichMan		I changed my /etc/network/interfaces
+2010-04-06T02:47:00.000Z	FriedrichMan		now when I #etc/init.d/networking restart ... I get a FAIL message
+2010-04-06T02:47:00.000Z	FriedrichMan		WHat's up with that?
+2010-04-06T02:47:00.000Z	FriedrichMan		says something like couldn't read interfaces file
+2010-04-06T02:47:00.000Z	maginot	FriedrichMan	so I can't help you.

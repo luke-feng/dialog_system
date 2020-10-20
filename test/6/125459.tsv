@@ -1,0 +1,6 @@
+2006-02-19T14:40:00.000Z	GTX-		Guys on vnc4server, why cant I see my desktop only a console?
+2006-02-19T14:40:00.000Z	GTX-		Who knows somethng about vnc here?
+2006-02-19T14:40:00.000Z	GTX-		vnc4server
+2006-02-19T14:41:00.000Z	GTX-		Guys, what should I use to remotly see my desktop linux  to linux ( I need something like vnc )
+2006-02-19T14:42:00.000Z	Creeture	GTX-	There's an extension to VNC that allows :0 to serve as a VNC server. xfb0server I think it's called.
+2006-02-19T14:44:00.000Z	Creeture	GTX-	Don't listen to me. _jason was correct. Just System / Preferences / Remote Desktop and turn it on.

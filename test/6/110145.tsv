@@ -1,0 +1,6 @@
+2006-10-19T12:38:00.000Z	shuan		anyone know why i get this message
+2006-10-19T12:38:00.000Z	shuan		E: Could not open lock file /var/lib/dpkg/lock - open (13 Permission denied)
+2006-10-19T12:38:00.000Z	shuan		E: Unable to lock the administration directory (/var/lib/dpkg/), are you root?
+2006-10-19T12:38:00.000Z	shuan		if i dont paste then do u want me to type a long thing?
+2006-10-19T12:38:00.000Z	TheGateKeeper	shuan	you got adept open when trying to use apt-get?
+2006-10-19T12:39:00.000Z	TheGateKeeper	shuan	or use apt-get without sudo?

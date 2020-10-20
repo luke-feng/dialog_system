@@ -1,0 +1,6 @@
+2005-03-23T15:37:00.000Z	fc9k		can anyone help me?
+2005-03-23T15:37:00.000Z	fc9k		i have ubuntu running on a p3 system.  i pulled the gfx card earlier and replaced it with a tnt2.  when i turned it on again, X wouldnt start
+2005-03-23T15:37:00.000Z	fc9k		any ideas of where to go from here?
+2005-03-23T15:38:00.000Z	LinuxJones	fc9k	set your video driver to vesa in your config file
+2005-03-23T15:39:00.000Z	LinuxJones	fc9k	sudo gedit /etc/X11/XF86Config-4
+2005-03-23T15:39:00.000Z	LinuxJones	fc9k	sorry nano  /etc/X11/XF86Config-4

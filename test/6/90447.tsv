@@ -1,0 +1,6 @@
+2007-04-12T15:51:00.000Z	frojnd		how do I check what hardware do I have ?
+2007-04-12T15:52:00.000Z	frojnd		how do I check what hardware do I have ?
+2007-04-12T15:53:00.000Z	chili555	frojnd	sudo lshw?
+2007-04-12T15:53:00.000Z	chili555	frojnd	or sudo lspci -v
+2007-04-12T15:56:00.000Z	frojnd	chili555	hm, cant see how fast memmory i have...
+2007-04-12T15:56:00.000Z	chili555	frojnd	FSB and all? no clue.

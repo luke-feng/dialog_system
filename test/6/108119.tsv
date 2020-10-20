@@ -1,0 +1,6 @@
+2006-08-27T09:37:00.000Z	theneb		lo all, can I install Ubuntu Dapper off my install of gentoo?
+2006-08-27T09:38:00.000Z	ladydoor	theneb	like, on top of it?
+2006-08-27T09:38:00.000Z	ladydoor	theneb	oh, ok. you need to make a / partition for ubuntu
+2006-08-27T09:38:00.000Z	ladydoor	theneb	you do have a separate /home partition, right?
+2006-08-27T09:40:00.000Z	ladydoor	theneb	it's on the desktop
+2006-08-27T09:42:00.000Z	ladydoor	theneb	you probably need one of the specialty install cds then, instead of the desktop livecd

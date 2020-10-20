@@ -1,0 +1,6 @@
+2010-12-19T15:49:00.000Z	databits		"
+2010-12-19T15:49:00.000Z	databits		how do I go about opening "wine" once I have the package installed ?
+2010-12-19T15:50:00.000Z	Ileden	databits	it should be in the menu, and from command line you can run it with "wine <file>"
+2010-12-19T15:51:00.000Z	Ileden	databits	I don't think there's much for running wine by itself, though, as it's an emulator you should be running some program with wine, instead of just wine itself.
+2010-12-19T15:52:00.000Z	Ileden	databits	I think it also associates itself with .exe, so if you try opening and .exe with file manager, it probably runs it with wine automatically
+2010-12-19T15:52:00.000Z	Ileden	databits	for example, if you want to install something with "setup.exe", just find that file and run it, or either run from the command line "wine setup.exe"

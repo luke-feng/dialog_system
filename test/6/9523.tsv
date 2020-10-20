@@ -1,0 +1,6 @@
+2011-05-15T15:55:00.000Z	fsmythe		I have installed Wubi, But cannot boot ubuntu
+2011-05-15T15:55:00.000Z	fsmythe		What can i do?
+2011-05-15T15:56:00.000Z	mrdeb	fsmythe	install from bootup
+2011-05-15T15:56:00.000Z	fsmythe	mrdeb	I don't understand?
+2011-05-15T15:57:00.000Z	mrdeb	fsmythe	when you boot the computer up, you can hit a key to boot from the usb disk or drive, select it, then install there, outside of windows
+2011-05-15T15:58:00.000Z	fsmythe	mrdeb	I have already installed it?

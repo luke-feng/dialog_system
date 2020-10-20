@@ -1,0 +1,6 @@
+2006-06-22T08:16:00.000Z	linux_user		Benner enable file sharing on each file you need to share
+2006-06-22T08:17:00.000Z	linux_user		Benner : permissions
+2006-06-22T08:18:00.000Z	linux_user		Benner that is one way, from root, chroot commands are much faster and more flexible
+2006-06-22T08:18:00.000Z	linux_user		or is it chown, i forget heh
+2006-06-22T08:19:00.000Z	linux_user		Benner: chown is the command line way
+2006-06-22T08:19:00.000Z	Bennner	linux_user	i want to share /media/Mp3 what is the cmd line?

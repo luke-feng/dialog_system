@@ -1,0 +1,6 @@
+2012-05-09T19:19:00.000Z	tizzo		anyone have any idea what would make apt-get update take like … 10 or 20 minutes?
+2012-05-09T19:19:00.000Z	tizzo		(it's not failing this time (so far) but taking FOREVER)
+2012-05-09T19:19:00.000Z	tizzo		and I have like 20 Mb down right now...
+2012-05-09T19:19:00.000Z	auronandace	tizzo	slow network?
+2012-05-09T19:20:00.000Z	tizzo	auronandace	not for the rest of the internet
+2012-05-09T19:20:00.000Z	auronandace	tizzo	overloaded mirror?

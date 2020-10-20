@@ -1,0 +1,6 @@
+2011-08-15T21:03:00.000Z	Dexo		hey, is there any way to dualboot ubuntu desktop and ubuntu server?
+2011-08-15T21:05:00.000Z	Dexo		pici: ok? does that mean i cant dual boot them?
+2011-08-15T21:06:00.000Z	IdleOne	Dexo	you can host your game server at the same time as running the desktop, all with the same single Ubuntu install.
+2011-08-15T21:07:00.000Z	Dexo	IdleOne	but i dont want desktop lagging the server. it uses resources
+2011-08-15T21:08:00.000Z	IdleOne	Dexo	you can only boot one instance of Ubuntu at a time. Yes, you could install both server and Desktop on different partitions but you would only be able to boot to one of those and use it.
+2011-08-15T21:08:00.000Z	Dexo	IdleOne	yes i know that

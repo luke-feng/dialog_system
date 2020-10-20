@@ -1,0 +1,6 @@
+2011-11-28T16:50:00.000Z	gappie		how do you change the network settings in ubuntu server?
+2011-11-28T16:51:00.000Z	MonkeyDust	gappie	 /etc/resolvconf/
+2011-11-28T16:51:00.000Z	MonkeyDust	gappie	 /etc/resolv.conf
+2011-11-28T16:51:00.000Z	MonkeyDust	gappie	 why do want a server if you don't know the basics of networking?
+2011-11-28T17:38:00.000Z	MonkeyDust	gappie	 you forgot 'install'
+2011-11-28T18:43:00.000Z	MonkeyDust	gappie	 apt-cache policy ssh

@@ -1,0 +1,6 @@
+2005-04-10T07:27:00.000Z	fissy		which version of ubuntu are you using kpeterson?
+2005-04-10T07:28:00.000Z	kpeterson	fissy	I am using hoary
+2005-04-10T07:29:00.000Z	fissy	kpeterson	yep
+2005-04-10T07:30:00.000Z	kpeterson	fissy	randy_345 HillTop hopefully this works, thanks guys
+2005-04-10T07:31:00.000Z	fissy	kpeterson	the line needs to look like this: Modes           "1280x1024" "1024x768" "800x600" "720x350" "640x480"
+2005-04-10T07:31:00.000Z	kpeterson	fissy	I think that line is right, but my monitor section is different from what I saw when i booted the live version, so im gonna try to edit that

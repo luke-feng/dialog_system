@@ -1,0 +1,6 @@
+2006-05-11T08:59:00.000Z	akruup		hi all
+2006-05-11T09:01:00.000Z	akruup		im having trouble installing ubuntu, could anyone please help me?
+2006-05-11T09:02:00.000Z	akruup		i have installed it on my desktop, but when starts up my monitor goes blank
+2006-05-11T09:03:00.000Z	Dr_Willis	akruup	 lcd or crt monitor?
+2006-05-11T09:05:00.000Z	Dr_Willis	akruup	 and is this monitor using lcd for its display? or a big honking Glass tube also known as a "CRT"?
+2006-05-11T09:07:00.000Z	Dr_Willis	akruup	 Its higlly possible you just need to boot to the console and reconfigure your X server and set up some lower resolution.

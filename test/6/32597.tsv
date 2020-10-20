@@ -1,0 +1,6 @@
+2009-08-18T04:09:00.000Z	nosek_	IdleOne	ok, I made a copy of menu.lst on my Desktop
+2009-08-18T04:02:00.000Z	nosek_	IdleOne	http://paste.ubuntu.com/254792/ how can I make, so it will also boot from NTFS partition?
+2009-08-18T04:05:00.000Z	nosek_	IdleOne	just how to add it... I have never worked on linux b4...
+2009-08-18T04:08:00.000Z	nosek_	IdleOne	ok, I made a copy of menu.lst on my Desktop
+2009-08-18T04:09:00.000Z	IdleOne	nosek_	can you pastebin it please so we can see if windows is listed
+2009-08-18T04:15:00.000Z	IdleOne	nosek_	in other words line 39 to 42 inclusive revove the # http://paste.ubuntu.com/254797/ thank you Dr_Willis

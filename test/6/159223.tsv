@@ -1,0 +1,6 @@
+2012-11-11T23:19:00.000Z	rickb		hey can i ask a generic linux question?
+2012-11-11T23:20:00.000Z	rickb		can someone tell me the string i'd have to use to rename files with a  _1 before hte file extension? i want to make something like FL123TS_1.jpg to just FL123TS.jpg
+2012-11-11T23:20:00.000Z	rickb		:3
+2012-11-11T23:21:00.000Z	rickb		ah ok
+2012-11-11T23:22:00.000Z	rickb		server
+2012-11-11T23:23:00.000Z	dr_willis	rickb	 i tend to use 'qmv' from the rename-utils package. but its a bit more complex then what you need. but its handy

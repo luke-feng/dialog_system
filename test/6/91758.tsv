@@ -1,0 +1,6 @@
+2007-04-09T14:06:00.000Z	Fizzbane		How do i check how much free space i have on my hd? with all the partitions?
+2007-04-09T14:07:00.000Z	Fizzbane		How do i check to see how big my swap partition is?
+2007-04-09T14:08:00.000Z	Fizzbane		[uplink]  ask about beryl in #ubuntu-effects
+2007-04-09T14:08:00.000Z	velko	Fizzbane	free
+2007-04-09T14:09:00.000Z	velko	Fizzbane	cfdisk /dev/hda
+2007-04-09T14:09:00.000Z	Fizzbane	velko	thanks

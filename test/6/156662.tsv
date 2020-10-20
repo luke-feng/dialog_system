@@ -1,0 +1,6 @@
+2005-06-20T14:33:00.000Z	philuk86		does anyone know if mono will be included in the next release of ubuntu in the main repository?
+2005-06-20T14:33:00.000Z	Seveas	philuk86	it will
+2005-06-20T14:33:00.000Z	Seveas	philuk86	including beagle & tomboy
+2005-06-23T15:38:00.000Z	Seveas	philuk86	apt-get -b source [packagename] 
+2005-06-23T15:39:00.000Z	Seveas	philuk86	or if you have the sources: simply type dpkg-buildpackage in the sourcedir (the dir tat contains a debian/ subdir)
+2005-06-23T15:40:00.000Z	philuk86	Seveas	thanks mate

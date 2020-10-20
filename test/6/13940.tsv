@@ -1,0 +1,6 @@
+2012-07-05T00:12:00.000Z	JW__		Where might be a good resource to go to find more information on running batch parallel jobs on an SMP server?
+2012-07-05T00:14:00.000Z	JW__		It would be nice if there was some package that you could install that would simply analyze your system and remove Unity for you without messing up the dependencies.  Is there such a thing?
+2012-07-05T00:15:00.000Z	JW__		What is xubuntu?
+2012-07-05T00:15:00.000Z	schnuffle1	JW__	https://wiki.archlinux.org/index.php/TORQUE might be of interest
+2012-07-05T00:16:00.000Z	schnuffle1	JW__	http://debianclusters.org/index.php/Resource_Manager:_Torque
+2012-07-05T00:19:00.000Z	schnuffle1	JW__	how is a job in your env defined compilation maybe distcc could or is it more sort of compute jobs?

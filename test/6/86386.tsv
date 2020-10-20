@@ -1,0 +1,6 @@
+2007-05-26T10:22:00.000Z	non|linear	nj786	i can't help, but do you have that blue HP printing thing on your computer (i think it's stock)
+2007-05-26T10:24:00.000Z	non|linear	nj786	somehwere is a blue icon with a white "HP" on it, that is installed with feisty.... i've noticed it several times cause i have a hp laserjet but haven't tried it yet.  also, synaptic has a fwe hp drivers
+2007-05-26T10:24:00.000Z	non|linear	nj786	i'll look foer that blue thing
+2007-05-26T10:25:00.000Z	non|linear	nj786	ok it's black, not blue, but here's the command, no quotes "h -c 'STARTED_FROM_MENU=yes /usr/bin/hp-toolbox' "
+2007-05-26T10:26:00.000Z	non|linear	nj786	that's the menu command BTYW
+2007-05-26T10:29:00.000Z	non|linear	nj786	what that HP thing any useful?

@@ -1,0 +1,6 @@
+2009-09-25T02:26:00.000Z	mgv2		hi, does anyone can help me with what to do when i get "Run it as root" in the terminal?
+2009-09-25T02:26:00.000Z	boscop	mgv2	sudo or what do you mean?
+2009-09-25T02:27:00.000Z	mgv2	boscop	do i need to type sudo before "airmon-ng stop ath0"?
+2009-09-25T02:27:00.000Z	boscop	mgv2	yes
+2009-09-25T02:28:00.000Z	mgv2	boscop	i will try
+2009-09-25T02:29:00.000Z	mgv2	boscop	thank you

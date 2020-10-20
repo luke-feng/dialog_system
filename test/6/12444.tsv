@@ -1,0 +1,6 @@
+2011-02-02T21:10:00.000Z	BluesKaj	alaex	using alive cd is still the easiest way to install ubuntu , wubi is for learning , create a partition for you ubuntu install with live cd and install , ...make sure theres some airspace under your laptop for cooling if you overheating probs
+2011-02-02T21:12:00.000Z	alaex	BluesKaj	I have Ubuntu on a USB stick
+2011-02-02T21:12:00.000Z	alaex		I managed to format
+2011-02-02T21:12:00.000Z	BluesKaj		!usb | alaex
+2011-02-02T21:12:00.000Z	alaex	BluesKaj	I ran install Ubuntu, but it remains at "Ready when you are" .
+2011-02-02T21:13:00.000Z	alaex	BluesKaj	and ubi-usersetup dosen't work

@@ -1,0 +1,6 @@
+2011-07-26T07:49:00.000Z	qin	maalac	Do reconnection to power unfrezze system? Can you make "snapshot" form logs of this happening?
+2011-07-26T07:50:00.000Z	maalac	qin	no, i have to complete power down
+2011-07-26T07:51:00.000Z	qin	maalac	What version of pm-util do you have right nwo?
+2011-07-26T07:52:00.000Z	maalac	qin	current version : pm-utils 1.4.-1-3
+2011-07-26T07:53:00.000Z	qin	maalac	So, you said that it worked with 1.3, right?
+2011-07-26T08:57:00.000Z	maalac	qin	it work after removing pm-utils completely

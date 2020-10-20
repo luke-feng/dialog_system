@@ -1,0 +1,6 @@
+2009-02-11T01:01:00.000Z	Assid		i dont need the actual line match
+2009-02-11T01:02:00.000Z	^hashbang^	Assid	what was the command you ran? what are you tryin to do?
+2009-02-11T01:03:00.000Z	Assid	^hashbang^	emails are lost.. i need to find the relevant fileswith for the email
+2009-02-11T01:03:00.000Z	^hashbang^	Assid	ah yes... ok
+2009-02-11T01:56:00.000Z	Assid	^hashbang^	if i plan to use something like find . |xargs -i assid   , and the folders have spaces etc.. how do i makje this work?
+2009-02-11T01:57:00.000Z	^hashbang^	Assid	what Matir: said =)

@@ -1,0 +1,6 @@
+2006-06-09T10:22:00.000Z	lploisirs		hello
+2006-06-09T10:22:00.000Z	lploisirs		I have a little question
+2006-06-09T10:22:00.000Z	lploisirs		I want to install the nvidia driver but for that I have to stop the x server
+2006-06-09T10:22:00.000Z	lploisirs		when I do a kill X, X stop and immediatly restart
+2006-06-09T10:22:00.000Z	onkarshinde	lploisirs	who says so?
+2006-06-09T10:23:00.000Z	lploisirs	onkarshinde	THe Nvidia driver said that I have to stop it, I will try ctrl+alt+backpsace

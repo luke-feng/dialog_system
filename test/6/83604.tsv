@@ -1,0 +1,6 @@
+2007-10-18T23:14:00.000Z	adante		hi, i'm trying to use update manager to upgrade, previously i tried this but didn't have enough space to boot, now when i run update-manager and click upgrade it locks up - or at least hasn't been responding for hte past 20m
+2007-10-18T23:15:00.000Z	Jordan_U	adante	Any error?
+2007-10-18T23:15:00.000Z	adante	Jordan_U	nah, the update manager has just frozen
+2010-09-01T07:47:00.000Z	Jordan_U	adante	Easiest way is "sudo apt-get remove compiz"
+2010-09-01T07:48:00.000Z	adante	Jordan_U	thanks... any idea if it is possible to disable it, not remove ?
+2010-09-01T07:55:00.000Z	Jordan_U	adante	There is also a gconf key for setting the default window manager.

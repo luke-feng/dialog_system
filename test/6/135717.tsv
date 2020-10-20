@@ -1,0 +1,6 @@
+2006-05-01T07:03:00.000Z	_Dez		how do i run xfce4 i already installed it
+2006-05-01T07:03:00.000Z	soundray	_Dez	select the appropriate session at the login screen
+2006-05-01T07:07:00.000Z	soundray	_Dez	if you haven't got gdm, log in on the text console and try startx
+2006-05-01T07:14:00.000Z	soundray	_Dez	add them to /etc/modules
+2006-05-01T07:14:00.000Z	soundray	_Dez	not dhclient...
+2006-05-01T07:15:00.000Z	soundray	_Dez	no, just ndiswrapper

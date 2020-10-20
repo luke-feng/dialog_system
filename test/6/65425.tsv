@@ -1,0 +1,6 @@
+2008-08-29T04:36:00.000Z	histo	bofh80	aptitude
+2008-08-29T04:38:00.000Z	bofh80	histo	aptitude?? instead of synaptic? WHY? :P
+2008-08-29T04:39:00.000Z	histo	bofh80	much better handling of orphaned packages
+2008-08-29T04:40:00.000Z	bofh80	histo	oh i see. that's brilliant to know. hell that was the only thing that was p***ing me off :)
+2008-08-29T04:40:00.000Z	histo	bofh80	yeah just sudo aptitude install instead of apt-get.
+2008-08-29T04:41:00.000Z	histo	bofh80	thats just what I choose

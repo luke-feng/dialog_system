@@ -1,0 +1,6 @@
+2012-02-11T23:32:00.000Z	acicula	mongy	it may have to do with the routes, you can probably tick the vpn to not be the default gateway. which means you will have to specify which ip's/netbklocks are routed through the vpn
+2012-02-11T23:34:00.000Z	mongy	acicula	I kind of need it to be used as default gateway.  In windows its used as default as well.  I guess it's not doable in my situation.  thx
+2012-02-11T23:35:00.000Z	acicula	mongy	if it is your default gateway then it should break any current connections you have
+2012-02-11T23:36:00.000Z	mongy	acicula	I guessed it would, but it doesnt affect them in windows, no idea why
+2012-02-11T23:36:00.000Z	acicula	mongy	either windows tracks the connection, or it does not set the default gateway properly
+2012-02-11T23:37:00.000Z	mongy	acicula	I thought it wasnt working properly in windows, but then I checked whatismyip and did other tests, it was default.

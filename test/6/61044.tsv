@@ -1,0 +1,6 @@
+2008-10-07T03:39:00.000Z	smacfarl		hi. I am downloading the 8.10 iso. If I install it will it act like an upgrade or will it force me to wipe everything out?
+2008-10-07T03:40:00.000Z	smacfarl		any takers?
+2008-10-07T03:41:00.000Z	jamesish	smacfarl	It'll offer to destroy everything by default. Why not just repin your sources.list and use apt-get upgrade?
+2008-10-07T03:42:00.000Z	smacfarl	jamesish	how do I repin sources.list?
+2008-10-07T03:43:00.000Z	jamesish	smacfarl	do some research, silly.
+2008-10-07T03:44:00.000Z	smacfarl	jamesish	under what repin? I am new to upgrades. I went from 7.10 8.04 after the 8.04 final.

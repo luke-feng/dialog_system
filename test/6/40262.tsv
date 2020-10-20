@@ -1,0 +1,6 @@
+2010-04-02T04:19:00.000Z	graelb		Hi there... is there any way to convert an ubuntu 32bit version to 64 bit?
+2010-04-02T04:19:00.000Z	iceroot	graelb	no
+2010-04-02T04:20:00.000Z	graelb	iceroot	Bummer. Why is that? i realize linux isn't windows, but how can windows upgrade to 64bit, keeping all the same software?
+2010-04-02T04:22:00.000Z	iceroot	graelb	because there are no upgrade-paths, of  course you can build an 64bit system
+2010-04-02T04:22:00.000Z	iceroot	graelb	but reinstalling is much much faster
+2010-04-02T04:22:00.000Z	graelb	iceroot	gotcha, thanks for the quick response =)

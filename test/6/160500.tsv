@@ -1,0 +1,6 @@
+2005-02-10T10:47:00.000Z	hypa7ia		hey, is sound broken in hoary? i've run into problems with an ac97 card and an emu10k card
+2005-02-10T10:48:00.000Z	giard	hypa7ia	sound needs to get fixed... it looks like the alsa settings aren't being set automatically
+2005-02-10T10:48:00.000Z	hypa7ia	giard	sounds about right
+2005-02-10T10:48:00.000Z	giard	hypa7ia	if you go to the mixer and change it from oss to alsa and back, you might have some luck
+2005-02-10T10:51:00.000Z	hypa7ia	giard	mine's an asus laptop
+2005-02-10T10:51:00.000Z	giard	hypa7ia	there is some issue with certain asus mobo's

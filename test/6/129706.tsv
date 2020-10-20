@@ -1,0 +1,6 @@
+2006-01-19T11:57:00.000Z	mike100		guys, if I'm right, if speedy has no shadow password file, then this is insecure.
+2006-01-19T11:57:00.000Z	mike100		doesn't shadow store the salt rather than an encoded for of the password?
+2006-01-19T11:57:00.000Z	mike100		encoded form, not encoded for, I mean
+2006-01-19T11:58:00.000Z	mwe	mike100	shadow stores the encrypted passwords like normal passwd but only root can read the encrypted passwords
+2006-01-19T11:59:00.000Z	mike100	mwe	danke, gracias
+2006-01-19T12:07:00.000Z	mwe	mike100	I get that as well

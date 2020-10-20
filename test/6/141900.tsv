@@ -1,0 +1,6 @@
+2007-10-20T00:56:00.000Z	KeithWeisshar		why am i experinging long wait at 82% of installation while scanning the mirror
+2007-10-20T00:57:00.000Z	KeithWeisshar		my ubuntu install got stuck at scanning the mirror
+2007-10-20T00:57:00.000Z	KeithWeisshar		i'm installing into virtualbox
+2007-10-20T00:57:00.000Z	fjleon	KeithWeisshar	it doesn't get stuck, just wait for 5-10 minutes
+2007-10-20T00:58:00.000Z	fjleon	KeithWeisshar	maybe the mirror it used was slow, install without internet connection
+2007-10-20T00:59:00.000Z	fjleon	KeithWeisshar	yank out the net cable.

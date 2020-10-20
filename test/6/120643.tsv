@@ -1,0 +1,6 @@
+2009-06-23T07:06:00.000Z	bobo		How do I get my grub folder back, I deleted it
+2009-06-23T07:07:00.000Z	usr13	bobo	You deleted /boot/grub/  ?
+2009-06-23T07:07:00.000Z	bobo		yes out of stupidity, dont ask. just, how do I get it back
+2009-06-23T07:08:00.000Z	usr13	bobo	I don't know ha ha that's the first time I've seen that one.
+2009-06-23T07:08:00.000Z	bobo	usr13	thanks...
+2009-06-23T07:09:00.000Z	usr13	bobo	You might try dpkg-reconfigure grub

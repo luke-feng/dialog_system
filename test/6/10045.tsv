@@ -1,0 +1,6 @@
+2011-04-28T02:42:00.000Z	romio0		how can i turn my pc to a ftp server? some friends of mine want to download some datas from my pC?
+2011-04-28T02:43:00.000Z	Hex_101	romio0	port forwarding, install webmin and ProFTPd, and it works out of the box for new users
+2011-04-28T02:43:00.000Z	Hex_101	romio0	or even set up a ssh account dedicated for sFTP
+2011-04-28T02:45:00.000Z	romio0	Hex_101	what if i want to install a ftp server on my computer? something like ftp.myIPaddress:21
+2011-04-28T02:45:00.000Z	Hex_101	romio0	do you know about domains etc
+2011-04-28T02:49:00.000Z	Hex_101	romio0	Apache

@@ -1,0 +1,6 @@
+2010-02-24T21:16:00.000Z	merethan		Hi all. I just updated my Ubuntu Studio 9.10 with a bunch of critical patches, and now the initrd cannot mount the root anymore, because it cannot find the UUID.
+2010-02-24T21:16:00.000Z	Nitsuga	merethan	are you in a live-cd?
+2010-02-24T21:18:00.000Z	Nitsuga	merethan	blakkheim: It's not a silly choice. By using UUIDs you can't mount a workng partition
+2010-02-24T21:23:00.000Z	merethan	Nitsuga	using blkid I found out my /dev/sda1 UUID, and it perfectly correlates with the command supplied to my initrd
+2010-02-24T21:23:00.000Z	merethan	Nitsuga	I can even mount it manually using the initramfs
+2010-02-24T21:45:00.000Z	merethan	Nitsuga	by using /dev/sda1 instead of a UUID my Ubuntu Studio does boot. Which is weird as the UUID was correct according to blkid. Any idea what might cause this?

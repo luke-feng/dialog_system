@@ -1,0 +1,6 @@
+2011-04-15T23:44:00.000Z	rumpe1	Strife892	is the wlan-hardware-switch activated? else check output of "rfkill list"
+2011-04-15T23:45:00.000Z	Strife892	rumpe1	The light on the button is orange. Always orange.
+2011-04-15T23:45:00.000Z	Strife892	rumpe1	0: phy0: Wireless LAN
+2011-04-15T23:46:00.000Z	rumpe1	Strife892	there you are... its hard blocked. Reboot, try to activate it in BIOS ...
+2011-04-15T23:46:00.000Z	Strife892	rumpe1	I looked in the BIOS setup already. There is no option there. Pressing the switch button doesn't work either.
+2011-04-15T23:47:00.000Z	rumpe1	Strife892	i also have a laptop with similar issue. shut down comletely. the start ubuntu and check, if it is still hard locked.

@@ -1,0 +1,6 @@
+2007-07-28T13:33:00.000Z	PF|Ubuntu		Ok Ive got one of my HDs mounted but it's permissions are listed as root. I did sudo chown -hR brandon:brandon /media/disk, but it didnt change the permissions. What do I need to do?
+2007-07-28T13:34:00.000Z	PF|Ubuntu		no
+2007-07-28T13:34:00.000Z	PF|Ubuntu		reiser
+2007-07-28T13:36:00.000Z	PF|Ubuntu		it's mounted read/write
+2007-07-28T13:36:00.000Z	PF|Ubuntu		I put it in the fstab earlier
+2007-07-28T13:38:00.000Z	IntuitiveNipple	PF|Ubuntu	the user is set by the "mount" options you use when issuing the mount command manually, or when fstab is read, so check your fstab and also read the mount manual

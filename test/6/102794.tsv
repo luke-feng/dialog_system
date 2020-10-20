@@ -1,0 +1,6 @@
+2010-10-20T22:35:00.000Z	NRemorse		how can i use dpkg to install/reinstall aptitude if it is corrupted or failing?
+2010-10-20T22:36:00.000Z	NRemorse		ill try it
+2010-10-20T22:38:00.000Z	NRemorse		ok, i reinstalled aptitude with apt-get remove aptitude && apt-get install aptitude and now aptitude works fine
+2010-10-20T22:38:00.000Z	NRemorse		but apt-get still doesn't work it says: E: Invalid operation safe-upgrade
+2010-10-20T22:39:00.000Z	NRemorse		well no...aptitude works but apt-get still isn't
+2010-10-20T22:39:00.000Z	Jordan_U	NRemorse	"safe-upgrade" is an option to aptitude, not apt. "apt-get upgrade" is basically the same (actually a bit more conservative than aptitude's 'safe-upgrade').

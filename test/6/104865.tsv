@@ -1,0 +1,6 @@
+2008-07-04T01:34:00.000Z	nagyv		hello! I have an ibm T61, and its ThinkVantage button is not recognized by xev. What can I do with it?
+2008-07-04T01:35:00.000Z	Fryguy--	nagyv	are either of these helpful: http://www.thinkwiki.org/wiki/Installing_Ubuntu_7.04_(Feisty_Fawn)_on_a_ThinkPad_T61    http://forum.notebookreview.com/showthread.php?t=241821
+2008-07-04T01:36:00.000Z	nagyv	Fryguy--	nope, I don't want to use ThinkVantage at boot time, but I would like to assign a custom command to it (aka XF86LaunchA)
+2008-07-04T01:37:00.000Z	Fryguy--	nagyv	no ide athen
+2008-07-07T13:16:00.000Z	Fryguy--	nagyv	create a file in /etc/firefox-3/ called firefoxrc and put FIREFOX_DSP=aoss and then sudo apt-get install alsa-oss and restart firefox
+2008-07-07T13:16:00.000Z	nagyv	Fryguy--	thanks

@@ -1,0 +1,6 @@
+2005-05-10T13:14:00.000Z	pztak		is there a way to set it up so that when i receive new mail in evolution, it will have something like "X new email messages" in the top launch bar?
+2005-05-10T13:16:00.000Z	nickrud	pztak	I don't think so
+2005-05-10T13:17:00.000Z	pztak	nickrud	what's the D-BUS thing about then?
+2005-05-10T13:19:00.000Z	nickrud	pztak	I'm no programmer :)   roughly, it's a way for process to notify each other about various changes
+2005-05-10T13:22:00.000Z	nickrud	pztak	I've been using evolution since it was beta, and I'm still waiting :)
+2005-05-10T13:22:00.000Z	pztak	nickrud	damn.. that's a pretty basic/important feature, i'd say

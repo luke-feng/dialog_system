@@ -1,0 +1,6 @@
+2008-05-31T09:59:00.000Z	swedekid		ok I'm trying to set up xp with virtual box and I started it and got this error
+2008-05-31T09:59:00.000Z	swedekid		http://paste.ubuntu.com/15924/
+2008-05-31T10:01:00.000Z	swedekid		how do i do that?
+2008-05-31T10:02:00.000Z	ricket	swedekid	or just run this and reboot: sudo usermod -G vboxusers -a [your username]
+2008-05-31T10:24:00.000Z	ricket	swedekid	yes but you have to enable it (pick ALSA :) )
+2008-05-31T10:26:00.000Z	ricket	swedekid	when you find the sound options, which aren't hard to find, change from disabled to alsa (not oss). you'll see when you get there

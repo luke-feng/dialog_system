@@ -1,0 +1,6 @@
+2010-10-17T19:00:00.000Z	mamece2		how can i reinstall internet controllers? this is very much slow and when i run a live cd internets normal
+2010-10-17T19:01:00.000Z	onaogh	mamece2	how u are certain that it is the network stacks that is slowing your internet ?
+2010-10-17T19:06:00.000Z	onaogh	mamece2	?
+2010-10-17T19:08:00.000Z	onaogh	mamece2	?
+2010-10-17T19:13:00.000Z	mamece2	onaogh	its not the network because when i run a live cd internet has its normal speed
+2010-10-17T19:14:00.000Z	onaogh	mamece2	try to bring network intereface down and up again

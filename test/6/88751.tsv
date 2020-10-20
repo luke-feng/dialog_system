@@ -1,0 +1,6 @@
+2008-11-20T02:02:00.000Z	SpriteSODA		wicd?
+2008-11-20T02:02:00.000Z	SpriteSODA		if i try wicd
+2008-11-20T02:02:00.000Z	SpriteSODA		should i uninstall the drivers i installed with ndiswrapper?
+2008-11-20T02:04:00.000Z	binMonkey	SpriteSODA	wicd just handles the network.  you need thhe drivers to make the wireless card work.
+2008-11-20T02:04:00.000Z	binMonkey	SpriteSODA	is your wireless working now?
+2008-11-20T02:07:00.000Z	binMonkey	SpriteSODA	errr.  i don't know.  wait a while till someone who REALLY  knows about wireless answers you.  it could be the driver or it could be the network application.

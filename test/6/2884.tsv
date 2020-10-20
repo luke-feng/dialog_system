@@ -1,0 +1,6 @@
+2012-04-25T20:27:00.000Z	myhero_		i hve a script...how to run it ?
+2012-04-25T20:28:00.000Z	myhero_		how to run a script in ubuntu ?
+2012-04-25T20:28:00.000Z	myhero_		how to run a script in ubuntu or terminal ?
+2012-04-25T20:29:00.000Z	escott	myhero_	chmod +x ./path/to/script.sh; ./path/to/script.sh
+2012-04-25T20:30:00.000Z	myhero_	escott	path is where the script is situated or the path to folder where i want run the script? also y this same path/..../script.sh command 2 times ?
+2012-04-25T20:33:00.000Z	escott	myhero_	the first command chmod is to make the the program executable

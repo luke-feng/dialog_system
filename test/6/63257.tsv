@@ -1,0 +1,6 @@
+2008-04-27T04:12:00.000Z	PhilcoBill		How do you get root access?
+2008-04-27T04:12:00.000Z	IndyGunFreak	PhilcoBill	sudo
+2008-04-27T04:13:00.000Z	PhilcoBill	IndyGunFreak	I need to change permissions on a HDD.  The GUI will not allow root access
+2008-04-27T04:13:00.000Z	IndyGunFreak	PhilcoBill	the you need to chmod it.
+2008-04-27T04:13:00.000Z	PhilcoBill	IndyGunFreak	tried it
+2008-04-27T04:13:00.000Z	IndyGunFreak	PhilcoBill	then you're doing something wrong

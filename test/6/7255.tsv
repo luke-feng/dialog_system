@@ -1,0 +1,6 @@
+2012-05-03T14:09:00.000Z	richtroye		I guess I'll just remember Alt-F8 for my own personal use
+2012-05-03T14:10:00.000Z	richtroye		Oh by the way, I'm an xchat developer, and I have a patch I'd like to test on 12.4.  Can someone point me to a cookbook on how to get and build a ubuntu source package, so that I can know and perhaps install the build prerequisites for xchat?
+2012-05-03T14:11:00.000Z	alankila	richtroye	apt-get build-dep xchat should get you started
+2012-05-03T14:11:00.000Z	richtroye		thansk AlanBell
+2012-05-03T14:12:00.000Z	alankila		the debian packages are typically build by some invocation like "fakeroot debian/rules binary-arch" at the package root
+2012-05-03T14:12:00.000Z	richtroye	alankila	 Wow, that's pretty nifty!

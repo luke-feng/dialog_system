@@ -1,0 +1,6 @@
+2005-09-09T07:39:00.000Z	disasm	Smegzor	your name reminds me of smeagol for some reason ;-)
+2005-09-09T07:42:00.000Z	disasm	Smegzor	any firewall?
+2005-09-09T07:42:00.000Z	disasm	Smegzor	oh, and can the ubuntu box see the network?
+2005-09-09T07:47:00.000Z	Smegzor	disasm	yes ubuntu can see the network
+2005-09-09T07:48:00.000Z	disasm	Smegzor	what are you trying to see on the ubuntu box? you trying to ping, or actually access a service (file share/web server/mail server/etc)
+2005-09-09T08:14:00.000Z	disasm	Smegzor	i've had problems with cups on ubuntu before, i think last time I just installed it from source...

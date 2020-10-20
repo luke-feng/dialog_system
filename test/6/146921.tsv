@@ -1,0 +1,6 @@
+2009-11-26T12:41:00.000Z	night1ne		GPG error: http://packages.medibuntu.org karmic Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 2EBC26B60C5A2783GPG error: http://packages.medibuntu.org jaunty Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 2EBC26B60C5A2783Failed to fetch
+2009-11-26T12:41:00.000Z	night1ne		http://www.medibuntu.org/sources.list.d/$(lsb_release/dists/-cs).list/\/binary-i386/Packages.gz  404  Not Found
+2009-11-26T12:41:00.000Z	night1ne		Failed to fetch http://www.medibuntu.org/sources.list.d/$(lsb_release/dists/-cs).list/--output-document=/etc/apt/sources.list.d/medibuntu.list/binary-i386/Packages.gz  404  Not Found
+2009-11-26T12:42:00.000Z	night1ne		o.O
+2009-11-26T12:42:00.000Z	night1ne		Does this thing work yet?
+2009-11-26T12:43:00.000Z	Madpilot	night1ne	you're on IRC in #ubuntu, so something's working :)

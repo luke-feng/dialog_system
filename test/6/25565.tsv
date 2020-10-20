@@ -1,0 +1,6 @@
+2010-01-26T21:04:00.000Z	NateW		in terminal i get "gpg: skipped "Nate Wiebe <nate@natewiebe.com>": secret key not available" how would i fix that?
+2010-01-26T21:05:00.000Z	erUSUL	NateW	context ? what where you doing ?
+2010-01-26T21:05:00.000Z	NateW	erUSUL	building a source package.. it happens when creating the .dsc file
+2010-01-26T21:05:00.000Z	erUSUL	NateW	what was the command you used ?
+2010-01-26T21:05:00.000Z	NateW		debuild -S
+2010-01-26T21:06:00.000Z	erUSUL	NateW	ask in #ubuntu-motu; probably you just need to generate your gpg keys

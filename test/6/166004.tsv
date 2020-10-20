@@ -1,0 +1,6 @@
+2005-04-03T14:20:00.000Z	Bazzi		It's like driving me nuts here.
+2005-04-03T14:20:00.000Z	Bazzi		I cannot get that damn thing to compile
+2005-04-03T14:20:00.000Z	Bazzi		yep
+2005-04-03T14:20:00.000Z	Kamion	Bazzi	linux-headers-* packages, I imagine
+2005-04-03T14:21:00.000Z	Kamion	Bazzi	you'll need e.g. linux-headers-2.6.10-5-386
+2005-04-03T14:22:00.000Z	Kamion	Bazzi	linux-headers-2.6.10-5 is a common package to save space

@@ -1,0 +1,6 @@
+2008-11-07T23:17:00.000Z	Owner		he is having the same problem as i am
+2008-11-07T23:17:00.000Z	Owner		i restrore grub and then it wont load windows
+2008-11-07T23:18:00.000Z	chuckmoney	Owner	then after you restore grub add windows back to /boot/grub/menu.lst
+2008-11-07T23:19:00.000Z	chuckmoney	Owner	edit it with a text editor.  use something like gedit or nano.  but be VERY CAREFUL if you're not comfortable with it, else you will lose grub and have to restore it again.
+2008-11-07T23:20:00.000Z	chuckmoney	Owner	also, as erUSUL would tell you, if you have windows listed on the boot menu, your problem is most likely not in menu.lst.
+2008-11-07T23:20:00.000Z	chuckmoney	Owner	editing menu.lst will only help if it's not listed there

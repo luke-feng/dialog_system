@@ -1,0 +1,6 @@
+2008-01-18T23:01:00.000Z	BarbaraSalesch		hello. Is it possible for instance i am running Gutsy ... and i would like to change my repos to Dapper and then:-->  /home/myfolder # aptitude update $$ aptitude download <package>   then change my repos back to Gutsy and # aptitude update .... the download option doesnt install , only downloads the packages.... would this mess up my system ?
+2008-01-18T23:03:00.000Z	MrObvious	BarbaraSalesch	Why?
+2008-01-18T23:04:00.000Z	BarbaraSalesch	MrObvious	i want to download some packages and deps
+2008-01-18T23:04:00.000Z	MrObvious	BarbaraSalesch	Which packages? I would advise against what you're trying to do.
+2008-01-18T23:06:00.000Z	BarbaraSalesch	MrObvious	some from multiverse... why would you advise against this task ?
+2008-01-18T23:06:00.000Z	MrObvious	BarbaraSalesch	Because it'll likely break your system. If it's in multiverse just enable it in your sources.list

@@ -1,0 +1,6 @@
+2006-04-01T15:41:00.000Z	JackRazz		does dapper-drake use XFree 3.3 or 4.x series...I'm trying to set up ubuntu under vmware to use my intellimouse
+2006-04-01T15:41:00.000Z	JackRazz		which config should i be editing
+2006-04-01T15:41:00.000Z	crimsun	JackRazz	neither. X.Org 7.0
+2006-04-01T15:42:00.000Z	JackRazz		hey crimsun so i should be editing x.org?
+2006-04-01T15:42:00.000Z	JackRazz		xorg.config
+2006-04-01T15:43:00.000Z	JackRazz	crimsun	should I edit Xorg.config???

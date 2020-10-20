@@ -1,0 +1,6 @@
+2007-09-11T06:04:00.000Z	Kinjin		Can anyone tell how I can get my sound out of all of my speakers only this front 2 are working.
+2007-09-11T06:06:00.000Z	Kinjin		ahh sorry its a creative soundblaster audigy SE
+2007-09-11T06:07:00.000Z	gnutron	Kinjin	- right click on the volume > properties, somewhere in there you can toggle front/center/side etc.
+2007-09-11T06:09:00.000Z	gnutron	Kinjin	- right click on the volume > open controls > preferences, somewhere in there you can toggle front/center/side etc.
+2007-09-11T06:10:00.000Z	gnutron	Kinjin	- right click on the volume > open volume control > edit  preferences.
+2007-09-11T06:11:00.000Z	gnutron	Kinjin	- mess around with your mixer, alsa stuff.

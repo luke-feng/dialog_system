@@ -1,0 +1,6 @@
+2010-02-27T19:32:00.000Z	trinity		hi everyone i would aks whats purpose of upgrading my kernel? i use karmic with kernel 2.6.31.14 there is newer one from synaptic 2.6.31.14 or from kernel.org 2.33  so should i stay with my naktive kernel or should i update and if update then i would like to know why ?
+2010-02-27T19:34:00.000Z	erUSUL	trinity	you should accept kernel updates via security repos
+2010-02-27T19:34:00.000Z	erUSUL	trinity	if it is a security upgrade yes
+2010-02-27T19:35:00.000Z	erUSUL	trinity	becouse it fixes a security bug
+2010-02-27T19:35:00.000Z	erUSUL	trinity	for the third time; yes
+2010-02-27T19:37:00.000Z	erUSUL	trinity	15:35 < erUSUL> trinity: becouse it fixes a security bug

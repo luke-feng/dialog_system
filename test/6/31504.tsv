@@ -1,0 +1,6 @@
+2009-09-17T01:57:00.000Z	Guest72633		if i try and login to my domain profile i get a "windows could not locate the roaming profile and is logging you on with a tempory profile instead, changes to this profile will not be saved when you logoff" message and it just creates a new temp profile for me
+2009-09-17T01:58:00.000Z	Guest72633		i can map network drives on the PDC but i cant logon to the PDC
+2009-09-17T01:58:00.000Z	Guest72633		anyone any ideas?
+2009-09-17T01:58:00.000Z	ActionParsnip	Guest72633	if you edit /etc/smaba/sm.conf   you can add shares easy
+2009-09-17T01:58:00.000Z	ActionParsnip		smb.conf
+2009-09-17T01:58:00.000Z	Guest72633	ActionParsnip	thanks, i know how to add shares, i just cant login to samba as a pdc

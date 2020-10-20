@@ -1,0 +1,6 @@
+2007-07-25T08:36:00.000Z	giandrea		hello
+2007-07-25T08:36:00.000Z	giandrea		how can I disable su for a certain user?
+2007-07-25T08:36:00.000Z	giandrea		if I can...
+2007-07-25T08:38:00.000Z	giandrea		no, I need it for the main user that is not root
+2007-07-25T08:38:00.000Z	giandrea		but how can I tell in which group this user is?
+2007-07-25T08:38:00.000Z	erUSUL	giandrea	how disable su? what do you mean by that?

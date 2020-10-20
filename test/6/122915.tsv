@@ -1,0 +1,6 @@
+2008-03-07T05:12:00.000Z	Neuling		how can I stop the jumping of the letters in the entry box, while typing?
+2008-03-07T05:12:00.000Z	soundray	Neuling	what entry box is that?
+2008-05-09T20:03:00.000Z	soundray	Neuling	you can't convert without deleting all your data off the partition, if that's what you're asking
+2008-05-09T20:04:00.000Z	Neuling	soundray	well have some files on my disk gparted gives an error message that it cannot convert because drive is not formated so should i do a backup of my files format drive and then convert
+2008-05-09T20:04:00.000Z	soundray	Neuling	but you can change a partition on a drive without modifying the other partitions.
+2008-05-09T20:05:00.000Z	soundray	Neuling	not sure I understand... shall we meet in #ubuntu-de and speak German?

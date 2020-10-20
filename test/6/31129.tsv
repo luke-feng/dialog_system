@@ -1,0 +1,6 @@
+2010-04-28T16:22:00.000Z	mataks		how to remove the other kernel in my grub list.. everytime i boot i have 4 kernels which im not using it anymore..  how to remove them totally?
+2010-04-28T16:23:00.000Z	theadmin	mataks	dpkg -l | grep 'linux-image', find the unneeded packages and sudo apt-get purge em
+2010-04-28T16:24:00.000Z	theadmin	mataks	Perform the same for 'linux-headers'
+2010-04-28T16:25:00.000Z	mataks	theadmin	i have 5 linux image. . what's the command to purge them?
+2010-06-23T17:45:00.000Z	theadmin	mataks	Permissions?
+2010-06-23T17:46:00.000Z	mataks	theadmin	how to access it? i am root

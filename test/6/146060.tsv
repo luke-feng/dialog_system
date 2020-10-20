@@ -1,0 +1,6 @@
+2005-06-13T15:09:00.000Z	christos		hello, i open fonts:/// but i can't copy anything in there - perhaps because i m not root
+2005-06-13T15:11:00.000Z	christos		guys fonts:///
+2005-06-13T15:11:00.000Z	christos		i can't write in it
+2005-06-13T15:12:00.000Z	linukso	christos	no, thats correct, but put your personal fonts in ~/.fonts
+2005-06-13T15:16:00.000Z	christos	linukso	thanx a lot it worked
+2005-06-13T15:17:00.000Z	linukso	christos	np!

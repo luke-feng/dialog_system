@@ -1,0 +1,6 @@
+2005-01-21T10:02:00.000Z	medep		can you install kde on ubuntu?
+2005-01-21T10:03:00.000Z	medep		what exactly does that mean
+2005-01-21T10:05:00.000Z	medep		ok well i tried apt-get install kde and it wouldnt do it
+2005-01-21T10:06:00.000Z	Crane	medep	rty apt-get install kde-desktop
+2005-01-21T10:07:00.000Z	Crane	medep	I believe if you us apt or synaoptic it will
+2005-01-21T10:09:00.000Z	Crane	medep	can you use synaptic?

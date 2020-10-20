@@ -1,0 +1,6 @@
+2008-07-17T01:48:00.000Z	smith		does ubuntu 32-bit support 4 gb?
+2008-07-17T01:48:00.000Z	smith		slart:  under 4g?
+2008-07-17T01:49:00.000Z	smith		can I just use 64-bit, or are there still problems
+2008-07-17T01:49:00.000Z	smith		slart, ok thanks
+2008-07-17T01:50:00.000Z	smith		slart:  are there hardware compatability differences between 32bit and 64bit?
+2008-07-17T01:51:00.000Z	hateball	smith	You can use the server kernel, it's PAE enabled. Unless you need 3D driver support etc out of the box. Or build your own kernel I guess

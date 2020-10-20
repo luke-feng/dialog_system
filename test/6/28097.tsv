@@ -1,0 +1,6 @@
+2010-10-05T22:28:00.000Z	alecjw		hi, i'm looking for a CD encoder which will output tagged FLAC files along with CUE or TOC files. doesnt nescassarily need to be graphical. any suggestions?
+2010-10-05T22:28:00.000Z	alecjw		*cd ripper
+2010-10-05T22:29:00.000Z	alecjw		sound-juicer does tags but no TOC, cdrdao does toc but no tags, cdparanoia does neither...
+2010-10-05T22:30:00.000Z	WhiteDawn	alecjw	rythmbox should do that for you, comes with ubuntu
+2010-10-05T22:30:00.000Z	alecjw	WhiteDawn	does it do TOCs? erUSUL, i thought about that, but then i need to manually enter all the tags dont i?
+2010-10-05T22:31:00.000Z	WhiteDawn	alecjw	no sorry, just flac ripping :/

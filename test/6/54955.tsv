@@ -1,0 +1,6 @@
+2008-07-14T02:21:00.000Z	unop		!fr | claudoaldo
+2008-07-14T02:22:00.000Z	unop		!ot | LisaAaweb
+2008-07-14T02:24:00.000Z	jchaoul	unop	any idea?
+2008-07-14T02:25:00.000Z	unop	jchaoul	try without -o loop
+2008-07-14T02:29:00.000Z	jchaoul	unop	I did, dmesg gives me unable to find HFS+ superblock
+2008-07-14T02:30:00.000Z	jchaoul	unop	without -o lopp ot bombs and suggests -o loop

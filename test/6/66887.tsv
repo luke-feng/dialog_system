@@ -1,0 +1,6 @@
+2011-07-12T09:20:00.000Z	sb1		is there anyone who can help me with this : i want to restart mysql in uck-remaster and add new database
+2011-07-12T09:20:00.000Z	sb1		how to stop system level mysql and restart it in uck-remaster
+2011-07-12T09:20:00.000Z	sb1		and add new database
+2011-07-12T09:20:00.000Z	ActionParsnip	sb1	could add a script to run at boot
+2011-07-12T09:22:00.000Z	ActionParsnip	sb1	have you tried my suggestion?
+2011-07-12T09:24:00.000Z	ActionParsnip	sb1	if you get a boot, do you have a list of commands you can run to make the system do as you desire?

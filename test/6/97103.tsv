@@ -1,0 +1,6 @@
+2007-12-17T06:54:00.000Z	madman91		hey guys
+2007-12-17T06:54:00.000Z	madman91		is there a good universal linux audio converter? cli or gui whatever
+2007-12-17T06:54:00.000Z	juano__	madman91	audacious has a filewriter output plugin that converts almost any format... i recommend
+2007-12-17T06:55:00.000Z	juano__	madman91	or you have "soundconverter" but i don't think it supports much formats
+2007-12-17T06:55:00.000Z	juano__	madman91	soundconverter , try that one
+2007-12-17T06:56:00.000Z	juano__	madman91	i suggest you see the preferences before converting... for bitrate, quality , etc

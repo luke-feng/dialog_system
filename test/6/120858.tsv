@@ -1,0 +1,6 @@
+2006-04-13T11:29:00.000Z	ompaul	darkram	>> sudo apt-get install build-essential gcc-3.4 << should help that a little
+2006-04-13T11:30:00.000Z	ompaul	darkram	to read about darkram read this for ubuntu howto https://wiki.ubuntu.com/BinaryDriverHowto/Nvidia
+2006-04-13T11:31:00.000Z	darkram	ompaul	I tried that, then I was trying the manual instructions for replacing the video drivers on the site.
+2006-04-13T11:32:00.000Z	ompaul	darkram	well the few times I have worked with binary drivers that page just worked for me
+2006-04-13T11:32:00.000Z	ompaul	darkram	there is more than one driver
+2006-04-13T11:36:00.000Z	ompaul	darkram	I *strongly* suggest you go over that page again from top to bottom it should get you going, or you are the only person for whom it is not working and see what xfcefreak says - it is vital when you do the >>sudo dpk-reconfigure xserver-xorg<< you choose the correct nvidia-glx and then you restart X

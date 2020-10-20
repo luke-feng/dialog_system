@@ -1,0 +1,6 @@
+2008-11-02T15:15:00.000Z	berinder		i have problems with my logitech mx500 after upgrade 8.04 -> 8.10. Now my mousewheel scrolls horizontally instead of vertically. Anyone got any pointers as to where to look? (Pun intended...)
+2008-11-02T15:17:00.000Z	ziroday	berinder	can you pastebin your /etc/X11/xorg.conf please
+2008-11-02T15:20:00.000Z	berinder	ziroday	this is the current xorg.conf: http://paste.ubuntu.com/66142/
+2008-11-02T15:22:00.000Z	ziroday	berinder	try changing the line  Option  "ZAxisMapping"  "6 7" to  Option  "ZAxisMapping"  "5 6"
+2008-11-02T15:24:00.000Z	berinder	ziroday	ok, logging out... :)
+2008-11-02T15:30:00.000Z	berinder	ziroday	No help by changing that... still no vertical scroll. If i do a dpkg-reconfigure i still get the same behaviour with the scroll, although there is no mouse-part at all in the xorg.conf

@@ -1,0 +1,6 @@
+2008-12-16T16:22:00.000Z	syberjj		Can anyone tell me how to get ubuntu to see windows fileshares? i freaking hate samba right now....
+2008-12-16T16:23:00.000Z	allsystemsarego	syberjj	Places-Connect to server?
+2008-12-16T16:25:00.000Z	syberjj	allsystemsarego	- i want to see all computers from a workgroup using places>network. only way i got this to work was by installing webmin and configuring samba through there to join the workgroup i wanted it to join. all other sorts of workgroup change (including manual edit of smb.conf > "workgroup = WORKGROUP" didnt work.
+2008-12-16T16:26:00.000Z	syberjj	allsystemsarego	- and i realy dont want to isntall webmin again
+2008-12-16T16:29:00.000Z	allsystemsarego	syberjj	not sure if I can help
+2008-12-16T16:29:00.000Z	syberjj	allsystemsarego	- k thx anyway

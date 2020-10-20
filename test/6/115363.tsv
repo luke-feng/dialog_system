@@ -1,0 +1,6 @@
+2007-03-07T10:49:00.000Z	arooni		when i install 'qsynatpics' i can do vertical scrolling .... but it makes my touchpad SOOO SLOW, and i 'm maxed in speed in preferences => mouse;   anyway to make my touchpad faster?
+2007-03-07T10:50:00.000Z	arooni		how can i view wmv files in firefox?
+2007-03-07T10:50:00.000Z	deep	arooni	 vlc plugin ;)
+2007-03-07T10:50:00.000Z	arooni	deep	how do i get that?
+2007-03-07T10:50:00.000Z	deep	arooni	 apt-cache search mozilla | grep vlc
+2007-03-07T10:51:00.000Z	deep	arooni	then, ofc, sudo apt-get install <package-name> :)

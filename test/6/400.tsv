@@ -1,0 +1,6 @@
+2012-11-11T12:36:00.000Z	aaas		why isn't my compile script aware of my headers in /usr/src/linux-header
+2012-11-11T12:36:00.000Z	dougbb	aaas	probably lack of a -I
+2012-11-11T12:37:00.000Z	aaas	dougbb	if I only have a makefile (no configure) using cmake any idea what I would modivy
+2012-11-11T12:38:00.000Z	dougbb	aaas	no idea, I hate cmake :)
+2012-11-17T11:15:00.000Z	dougbb	aaas	does 'sudo service jack restart' help?
+2012-11-17T11:16:00.000Z	aaas	dougbb	jack isn't a init service... killing and restarting jack doesn't help, but the strange thing is that i close down jack before and after sleep so I don't think it's necessarily jack related... something happens with alsa or pulseaudio..not sure

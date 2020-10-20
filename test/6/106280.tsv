@@ -1,0 +1,6 @@
+2008-07-16T13:51:00.000Z	phimic		hi someone here who uses xen with ubuntu
+2008-07-16T13:52:00.000Z	phimic		someone in here uses xen with ubuntu
+2008-07-16T13:54:00.000Z	phimic		i installed the latest xen-kernel and reboot, but my system is not coming up anymore, i use linux software raid
+2008-07-16T13:55:00.000Z	phimic		the last messages are: md0 stopped
+2008-07-16T13:55:00.000Z	phimic		and md1 stopped
+2008-07-16T13:55:00.000Z	wols_	phimic	there are messages before

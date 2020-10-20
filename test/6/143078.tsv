@@ -1,0 +1,6 @@
+2006-01-17T16:16:00.000Z	acid2		Hey, I use a widescreen monitor with a max res of 1440x900, but gnome max'es too 1280x768
+2006-01-17T16:16:00.000Z	acid2		Any ideas?
+2006-01-17T16:17:00.000Z	mwe	acid2	see /msg from ubotu
+2006-01-17T16:17:00.000Z	acid2	mwe	ta
+2006-01-17T16:18:00.000Z	mwe	acid2	you need to go over the wiki
+2006-01-17T16:18:00.000Z	mwe	acid2	you need to fill in the HorizSync and VertRefresh

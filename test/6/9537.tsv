@@ -1,0 +1,6 @@
+2011-08-01T20:40:00.000Z	gamingdroid		Any specific reasons why I should go 32bit instead of 64bit on Ubuntu Server 11.04 for a webserver?
+2011-08-01T20:41:00.000Z	maco	gamingdroid	32bit hardware?
+2011-08-01T20:41:00.000Z	gamingdroid	maco	I'm using linode.com and they offer 32 and 64 -bit.
+2011-08-01T20:43:00.000Z	maco	gamingdroid	yes
+2011-08-01T20:43:00.000Z	maco	gamingdroid	32bit without PAE supports up to 4GB of RAM. with PAE, some huge number, and with 64bit an even huger number
+2011-08-01T20:43:00.000Z	maco	gamingdroid	though with PAE each process can still only use up to 4gb

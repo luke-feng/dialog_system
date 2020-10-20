@@ -1,0 +1,6 @@
+2006-03-10T08:54:00.000Z	iG-Shoot-Me		Im thinking of installing ubuntu on my computer..  I already have a free partition... If something goes wrong and fucks up, is there a chance my files get deleted?
+2006-03-10T08:56:00.000Z	iG-Shoot-Me		I dont understand that..  Boots and swap and stuff
+2006-03-10T08:56:00.000Z	iG-Shoot-Me		Im setting up a dual boot.. thats just done auto for you, if you select it right?
+2006-03-10T08:57:00.000Z	iG-Shoot-Me		If something DOES go wrong, I will still have windows and all the rest of my programs & Files?
+2006-03-10T08:57:00.000Z	Kr4t05	iG-Shoot-Me	When you install, it will load GRUB for you, yes.
+2006-03-10T08:57:00.000Z	Kr4t05	iG-Shoot-Me	If you don't over-write your Windows Partition.

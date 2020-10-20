@@ -1,0 +1,6 @@
+2009-08-21T05:21:00.000Z	Irishmanluke		oh wow
+2009-08-21T05:22:00.000Z	Irishmanluke		let's see how to ignore join/part messages from #ubuntu in irssi lol
+2009-08-21T05:22:00.000Z	lstarnes	Irishmanluke	try /ignore #ubuntu joins parts quits nicks
+2009-08-21T05:24:00.000Z	Irishmanluke	lstarnes	thank you much appreciated
+2009-08-21T05:25:00.000Z	lstarnes	Irishmanluke	I strongly recommend not using it
+2009-08-21T05:25:00.000Z	lstarnes	Irishmanluke	it's annoying when someone who you're helping suddenly leaves or changes nicks and you can't see it

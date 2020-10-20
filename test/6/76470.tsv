@@ -1,0 +1,6 @@
+2007-11-01T06:00:00.000Z	MatthewAlan		hey, what is the program uninstall code for wine?
+2007-11-01T06:01:00.000Z	MatthewAlan		to uninstall Wine, what do i type in terminal
+2007-11-01T06:02:00.000Z	MatthewAlan		I get:
+2007-11-01T06:02:00.000Z	MatthewAlan		E: Could not get lock /var/lib/dpkg/lock - open (11 Resource temporarily unavailable)
+2007-11-01T06:02:00.000Z	MatthewAlan		E: Unable to lock the administration directory (/var/lib/dpkg/), is another process using it?
+2007-11-01T06:02:00.000Z	Kirt	MatthewAlan	sudo apt-get remove wine

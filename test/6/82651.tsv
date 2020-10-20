@@ -1,0 +1,6 @@
+2007-09-10T11:43:00.000Z	bittin		Hi
+2007-09-10T11:43:00.000Z	bittin		can i restore a installation?
+2007-09-10T11:43:00.000Z	bittin		becouse i tested gutsy and my comp diden't liked it
+2007-09-10T11:44:00.000Z	nickrud	bittin	no, downgrade == reinstallation
+2007-09-10T11:44:00.000Z	bittin	nickrud	i have to much settings and so on :(
+2007-09-10T11:45:00.000Z	nickrud	bittin	save your /home directory, that will save the nearly all your settings. If you did some in /etc/, save those

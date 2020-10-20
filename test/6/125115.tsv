@@ -1,0 +1,6 @@
+2006-03-11T16:26:00.000Z	munti78		using ssh what is the best way to edit a text file on remote server?
+2006-03-11T16:27:00.000Z	munti78		anyone?
+2006-03-11T16:27:00.000Z	crimsun	munti78	"best"?
+2006-03-11T16:28:00.000Z	crimsun	munti78	if you use ssh, your cli editors are a good start, like vim, emacs, joe, nano, etc.
+2006-03-11T16:28:00.000Z	munti78	crimsun	or, can I edit a textfile in a terminal while working with ssh and on remote server
+2006-03-11T16:29:00.000Z	munti78	crimsun	thanks

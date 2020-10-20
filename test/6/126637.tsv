@@ -1,0 +1,6 @@
+2006-12-23T17:12:00.000Z	dibblego		you open it on your router
+2006-12-23T17:12:00.000Z	LaserLine	dibblego	we're not going through the router
+2006-12-23T17:12:00.000Z	dibblego	LaserLine	then just start the application - it opens the port
+2006-12-23T17:13:00.000Z	LaserLine	dibblego	what if it's an application that we're coding
+2006-12-23T17:13:00.000Z	dibblego	LaserLine	run it
+2006-12-23T17:13:00.000Z	dibblego	LaserLine	whatever language you're using allows you to open a listening TCP port

@@ -1,0 +1,6 @@
+2011-06-11T08:54:00.000Z	Magic-Fx		Hey everyone... Can someone please tell me what might cause a laptop (compaq presario 2250) to stall at the following screen while trying to boot from a freshly burnt ubuntu 10.04 netbook iso... http://www.magiceffects.geek.nz/pics/ubuntufail.jpg
+2011-06-11T08:55:00.000Z	ZykoticK9	Magic-Fx	if you press a key does something happen?
+2011-06-11T08:56:00.000Z	ZykoticK9	Magic-Fx	try rebooting and as SOON as you see that screen press a key (hopefully you'll get a menu with boot options)
+2011-06-11T08:56:00.000Z	ZykoticK9	Magic-Fx	space maybe?  i don't think it matters (could be wrong)
+2011-06-11T08:59:00.000Z	ZykoticK9	Magic-Fx	i'd recommend you start by trying F6 and setting nomodeset and see if that boots correctly
+2011-06-11T09:00:00.000Z	ZykoticK9	Magic-Fx	cool

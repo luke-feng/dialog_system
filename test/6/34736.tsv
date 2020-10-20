@@ -1,0 +1,6 @@
+2009-07-01T20:50:00.000Z	gzojw		what is the uname -a for ubuntu 9.04 ?
+2009-07-01T20:50:00.000Z	gzojw		is 2.6.28-3 correct?  because my ubuntu does not see suddenly ext4 partitions
+2009-07-01T20:51:00.000Z	Thingymebob	gzojw	I'm on 2.6.28-13
+2009-07-01T20:51:00.000Z	gzojw	Thingymebob	 can you pastebin me your /etc/fstab ?
+2009-07-01T20:54:00.000Z	Thingymebob	gzojw	http://paste.ubuntu.com/207591/ not sur what help it will be for some mad reason I decided to use JFS
+2009-07-01T20:59:00.000Z	Thingymebob	gzojw	if its a fresh install, try again with ext3, I'm not sure all the ext4 issues are resolved yet

@@ -1,0 +1,6 @@
+2009-02-27T09:32:00.000Z	d_rugs420		anyone know why my xchat sounds dont work but i have audio other places?
+2009-02-27T09:33:00.000Z	d_rugs420		even when i click play on a sound file in the xchat sound preferences i have no sound
+2009-02-27T09:34:00.000Z	glenrock	d_rugs420	if you start xchat from a terminal window, then do the play sound thing, do any errors appear in the terminal
+2009-02-27T09:35:00.000Z	d_rugs420	glenrock	IndyGunFreak, i dont know how to do either one
+2009-02-27T09:36:00.000Z	glenrock	d_rugs420	for 'Beep',  put this where it says sound file, then click play:   /usr/share/sounds/purple/alert.wav
+2009-02-27T09:37:00.000Z	d_rugs420	glenrock	got "cannot read sound file"

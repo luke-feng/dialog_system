@@ -1,0 +1,6 @@
+2012-01-27T07:42:00.000Z	auk		How can I safely have my system ignore file writes to my Solid State Drive?     Would Dev/Null really do?   I want to direct anything for .xsession-errors      to /dev/null (if it's safe to)               Because this file keeps getting as fat as 112GBs of space real quick!
+2012-01-27T07:43:00.000Z	auk		Well, not ignore, but prevent any writing regarding to .xsession-errors. As it harms my SSD.
+2012-01-27T07:44:00.000Z	auk		This is what a small bit of that file looks like: http://pastebin.com/raw.php?i=b9eXt7Lv
+2012-01-27T07:45:00.000Z	auk		SSD writing is the biggest problem.
+2012-01-27T07:45:00.000Z	auk		Especially regarding to that logfile. I want to disable that log feature all together.
+2012-01-27T07:47:00.000Z	bobo37773	auk	Do you have more than one drive on the machine?

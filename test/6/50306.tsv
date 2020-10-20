@@ -1,0 +1,6 @@
+2008-09-23T22:11:00.000Z	rizzo		how do I install a .deb file?
+2008-09-23T22:12:00.000Z	airtonic	rizzo	double click it
+2008-09-23T22:12:00.000Z	rizzo		ah
+2008-09-23T22:12:00.000Z	rizzo	airtonic	thanks, didn't think of that.  I was assuming cli
+2008-09-23T22:12:00.000Z	rizzo		this works
+2008-09-23T22:13:00.000Z	airtonic	rizzo	you can also use : sudo dpkg -i deb-file-name

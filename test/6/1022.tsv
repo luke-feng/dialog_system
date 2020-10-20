@@ -1,0 +1,6 @@
+2012-08-24T19:15:00.000Z	chrisjlee	ActionParsnip	12.04 - how do you find the chip?
+2012-08-24T19:16:00.000Z	ActionParsnip	chrisjlee	what is the output of: wget -O alsa-info.sh http://www.alsa-project.org/alsa-info.sh && chmod +x ./alsa-info.sh && ./alsa-info.sh
+2012-08-24T19:17:00.000Z	chrisjlee	ActionParsnip	http://www.alsa-project.org/db/?f=de7e2bfb645f4fa5c2687ad6742d7ccdfb8fe6ec
+2012-08-24T19:19:00.000Z	ActionParsnip	chrisjlee	if you run:  alsamixer   are all levels cranked and unmuted?
+2012-08-24T19:20:00.000Z	ActionParsnip	chrisjlee	sure, there is a PPA
+2012-08-24T19:21:00.000Z	ActionParsnip	chrisjlee	sudo add-apt-repository ppa:ubuntu-audio-dev/ppa; sudo apt-get update;sudo apt-get dist-upgrade; sudo apt-get --reinstall install linux-sound-base alsa-base alsa-utils; killall pulseaudio; rm -r ~/.pulse*     wait 10 seconds then reboot

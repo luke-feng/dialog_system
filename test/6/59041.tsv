@@ -1,0 +1,6 @@
+2008-08-26T22:42:00.000Z	cottima		hello, is there a channel for HP printers?
+2008-08-26T22:43:00.000Z	fde	cottima	HP printers should be very well supported in latest Ubuntu releases... what is the issue?
+2008-08-26T22:44:00.000Z	cottima	fde	my laserjet 1020 is installed, but when I do a test print... nothing.  I remember a year and a half ago that I would have to push a "driver" to the printer (/dev/usb0 or something).
+2008-08-26T22:46:00.000Z	fde	cottima	http://www.openprinting.org/show_printer.cgi?recnum=HP-LaserJet_1020
+2008-08-26T22:50:00.000Z	cottima	fde	I think the dpi needs changed, but do I have to do this: "cat /usr/share/foo2zjs/firmware/sihp1020.dl > /dev/usb/lp0" even in ubuntu with the hplip package?
+2008-08-26T22:50:00.000Z	fde	cottima	that's what it says  :/

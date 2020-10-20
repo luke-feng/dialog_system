@@ -1,0 +1,6 @@
+2006-01-10T17:55:00.000Z	nagyv		Hello! I have a problem with my pcmcia wireless card. It is recognized in the Network Settings, but I can not enable it. Before it was working properly, and I don't know about anything special, that could harm it. Could someone help me, how to find out the source of the problem?
+2006-01-10T06:05:00.000Z	nagyv		Hello! I have a problem with my pcmcia wireless card. It is recognized in the Network Settings, but I can not enable it. Before it was working properly, and I don't know about anything special, that could harm it. Could someone help me, how to find out the source of the problem?
+2006-01-10T06:05:00.000Z	caglar	nagyv	try ifconfig and tell us if it shows your card
+2006-01-10T06:06:00.000Z	caglar		Carl did you try firefox?
+2006-01-10T06:09:00.000Z	nagyv	caglar	it does
+2006-01-10T06:10:00.000Z	nagyv	caglar	I have received this: ra0       Link encap:Ethernet  HWaddr 00:08:A1:81:05:F5

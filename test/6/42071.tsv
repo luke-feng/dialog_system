@@ -1,0 +1,6 @@
+2009-02-25T23:36:00.000Z	din_os		﻿if I put a <afile> inside /home/<auser>/Desktop with [chown root:root <afile>] and [chmod 700 <afile>] it is still erasable by <auser>. WHY?
+2009-02-25T23:37:00.000Z	din_os		[note] <auser> != root
+2009-02-25T23:39:00.000Z	rob```	din_os	try: sudo touch ~/Desktop/test; rm ~/Desktop/test
+2009-02-25T23:40:00.000Z	rob```	din_os	it seems to be correct behaviour :>
+2009-02-25T23:41:00.000Z	din_os	rob```	your command is exactly what I do
+2009-02-25T23:41:00.000Z	din_os	rob```	Titan8990: is there a way to make a read only file on one's desktop?

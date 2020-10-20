@@ -1,0 +1,6 @@
+2007-02-23T16:29:00.000Z	Squee		Is there any way to enumerate samba shares and rights on linux?
+2007-02-23T16:29:00.000Z	Arafangion	Squee	What do you mean by "enumerate"?
+2007-02-23T16:29:00.000Z	Squee	Arafangion	look up what shares are available for me to write to and read from
+2007-02-23T16:30:00.000Z	Arafangion	Squee	I've never needed to do so - not for a long time, but you could try: smbclient -L computername
+2007-02-23T16:31:00.000Z	Squee	Arafangion	Yea, but I need to do it for about 70 - 100 computers
+2007-02-23T16:31:00.000Z	Arafangion	Squee	Try looking for an smb browser or something, try apt-cache browse | grep smb or something

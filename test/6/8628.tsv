@@ -1,0 +1,6 @@
+2011-09-07T18:52:00.000Z	dddbmt		What is the best way to install XVID?
+2011-09-07T18:54:00.000Z	dr_willis	dddbmt	 why do  you thunk you need that? the xvid codex us installed by default i belive
+2011-09-07T18:58:00.000Z	dddbmt	dr_willis	I get a "your computer configuration isn't correct" warning when trying to watch a video embedded in HTML with Chromium. But due to the Windows XP IE styled "install missing plugin" bar at the top - I might revaluate once more ;)
+2011-10-27T13:33:00.000Z	dr_willis	dddbmt	 check out the indicator-applets list on askubuntu.com
+2011-10-27T13:34:00.000Z	dddbmt	dr_willis	I asume you mean http://askubuntu.com/questions/30334/list-of-application-indicators ?
+2011-10-27T13:35:00.000Z	dr_willis	dddbmt	 big list of them. many not in the repos.

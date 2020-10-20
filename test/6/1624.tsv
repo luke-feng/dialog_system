@@ -1,0 +1,6 @@
+2012-07-11T03:04:00.000Z	surge		Sanfour -- stop sending that onjoin msg
+2012-07-11T03:04:00.000Z	surge		I'm looking for a way to create a script that will execute an ethtool command every time a ubuntu 11.04 server boots up -- any ideas?
+2012-07-11T03:04:00.000Z	surge		it needs to be run after the network has been loaded
+2012-07-11T03:05:00.000Z	surge		yay...^ gone!
+2012-07-11T03:06:00.000Z	bulletmark	surge	just add the ethtool command at the end of /etc/rc.local
+2012-07-11T03:13:00.000Z	bulletmark	surge	It's where I run ethtool at bootup. Works for me.

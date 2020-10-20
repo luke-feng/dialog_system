@@ -1,0 +1,6 @@
+2006-09-15T07:57:00.000Z	Flannel	nadia007	no
+2006-09-15T07:58:00.000Z	nadia007	Flannel	I can't seem to update my indexes when I run sudo apt-get update on my server.  All repositories work except for the Ubuntu 6.06 LTS (binary)
+2006-09-15T07:59:00.000Z	Flannel	nadia007	er, which other repositories?
+2006-09-15T08:01:00.000Z	nadia007	Flannel	I can update all supported repositories... it's the community maintained that err out on me.
+2006-09-15T08:20:00.000Z	Flannel	nadia007	pastebin your sources, if you're still in need of help ;)
+2006-09-15T08:21:00.000Z	nadia007	Flannel	thx... might just do that...

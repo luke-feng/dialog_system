@@ -1,0 +1,6 @@
+2009-01-20T23:34:00.000Z	plytheman		ytoox
+2009-01-20T23:34:00.000Z	plytheman		oops
+2009-01-20T23:35:00.000Z	plytheman		can someone help me with some permissions issues?  I'm running a .sh to install Neverwinter Nights and it won't let me write to where it has to be installed
+2009-01-20T23:36:00.000Z	plytheman		I set the folder privleges to all read/write
+2009-01-20T23:36:00.000Z	plytheman		but no luck
+2009-01-20T23:36:00.000Z	BCampbell	plytheman	running as root?  try "sudo sh <script>"

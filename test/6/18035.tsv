@@ -1,0 +1,6 @@
+2011-01-08T09:17:00.000Z	arkanabar		could somebody suggest a simple app to turn create .wav files using my microphone?
+2011-01-08T09:17:00.000Z	Diamondcite	arkanabar	Sounds recorder which comes with Ubuntu?
+2011-01-08T09:19:00.000Z	Diamondcite	arkanabar	"gnome-sound-recorder"
+2011-01-08T09:19:00.000Z	Diamondcite	arkanabar	You can also try the command line utility 'arecord' which is ALSA's recording utility.
+2011-01-08T09:22:00.000Z	arkanabar	Diamondcite	tyvm.  I'll look into both of those.  either of them have push-to-talk?
+2011-01-08T09:23:00.000Z	Diamondcite	arkanabar	arecord starts recording as soon as the app runs, gnome-sound-recorder has a record button.

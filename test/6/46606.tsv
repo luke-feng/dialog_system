@@ -1,0 +1,6 @@
+2008-11-30T12:46:00.000Z	gomathi_369		Hi all, is there some programming languages like visual basic 6.0, in linux ? which is easy to create softwares ???
+2008-11-30T12:47:00.000Z	gomathi_369		but that is a scripting language. i need some GUI Application Developement languages ???
+2008-11-30T12:48:00.000Z	adam7_	gomathi_369	pygtk
+2008-11-30T12:56:00.000Z	adam7_	gomathi_369	are you sure this software isn't in the repositories?
+2008-11-30T12:58:00.000Z	adam7_	gomathi_369	go to system -> tools -> administration, and see if the software you want to install is listed there, if it is ,just  double click it and press apply
+2008-11-30T13:00:00.000Z	adam7_	gomathi_369	just find the apache2 package in the package manager and install it

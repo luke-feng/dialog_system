@@ -1,0 +1,6 @@
+2011-08-11T00:33:00.000Z	afief		I just did sudo rm /initrd.img* by mistake, how bad is this? can I recover the files?
+2011-08-11T00:35:00.000Z	Galvatron	afief	Try reinstalling kernel.
+2011-08-11T00:36:00.000Z	afief	Galvatron	how do I do that?
+2011-08-11T00:38:00.000Z	Galvatron	afief	Go to Synaptic, tyle "linux", sort by instlled/not installed (first column) find installed packages with "linux headers" and "linux image" in their names and finally mark them for reinstallation.
+2011-08-11T00:43:00.000Z	afief	Galvatron	Thanks a million! it was recovered! I started to freak out because I need my laptop to run these days and don't have time to fiddle with stuff
+2011-08-11T00:44:00.000Z	afief	Galvatron	can invite you to a beer and pizza?

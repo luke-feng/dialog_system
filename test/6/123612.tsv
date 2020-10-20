@@ -1,0 +1,6 @@
+2006-03-17T11:48:00.000Z	fade_		ahh, man chmod
+2006-03-17T11:48:00.000Z	rukuartic	fade_	If you want to do a dir, you probably want to change all the files in it too. if you use chmod -R XXX ./directory, it'll change the perms of every file in the directory
+2006-03-17T11:51:00.000Z	rukuartic	fade_	Can you see/access the file? Or are you trying to write to it?
+2006-03-17T11:51:00.000Z	rukuartic	fade_	If its an ntfs file system, you can't write to it.
+2006-03-17T11:51:00.000Z	fade_	rukuartic	i know, i just try to set normal access
+2006-03-17T12:01:00.000Z	rukuartic	fade_	are you in /dev or /mnt or /media?

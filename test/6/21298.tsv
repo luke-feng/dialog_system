@@ -1,0 +1,6 @@
+2010-05-07T09:29:00.000Z	wildbat_laptop		anyone know how do i make a dev like /dev/zero? let say /dev/one?
+2010-05-07T09:30:00.000Z	maco	wildbat_laptop	write a kernel module
+2010-05-07T09:30:00.000Z	wildbat_laptop	maco	any tips or link to such info?
+2010-05-07T09:30:00.000Z	maco	wildbat_laptop	the book Linux Device Drivers 3 is released under creative commons
+2010-05-07T09:32:00.000Z	wildbat_laptop	maco	got it ^^ thanks ~
+2010-05-07T09:35:00.000Z	maco	wildbat_laptop	by the way that book is written from the 2.6.8 perspective so a few years old. Essential Linux Device Drivers is a more current (but afaik, not free) book

@@ -1,0 +1,6 @@
+2005-10-05T16:29:00.000Z	signbarn		how do i change the permissions on my external firewire partitions that ubuntu auto mounts for me?
+2005-10-05T16:29:00.000Z	signbarn		i want to share the partitions on the network
+2005-10-05T16:30:00.000Z	esac_	signbarn	try "man mount" and "man fstab". look for the uid, gid, or umask options for filesystems
+2005-10-05T16:31:00.000Z	signbarn	esac_	what do i do with this information when i get it?
+2005-10-05T16:32:00.000Z	esac_	signbarn	modify your fstab with those options
+2005-10-05T16:32:00.000Z	signbarn	esac_	the firewire drive stuff isn't in my /etc/fstab

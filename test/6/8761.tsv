@@ -1,0 +1,6 @@
+2012-08-08T22:03:00.000Z	calzifer		if i install something from software center, does it install the package with aptitude or apt-get?
+2012-08-08T22:05:00.000Z	MonkeyDust	calzifer	 with apt, advanced package tool
+2012-08-08T22:06:00.000Z	MonkeyDust	calzifer	 apt-get and aptitude are 2 different ways to use apt
+2012-08-08T22:07:00.000Z	calzifer	MonkeyDust	i know, but i dont know which one i should use
+2012-08-08T22:09:00.000Z	MonkeyDust	calzifer	 in the terminal, better use apt-get, software center is simply a third way to use apt, synaptic a fourth
+2012-08-08T22:12:00.000Z	calzifer	MonkeyDust	ok, thank you for the information

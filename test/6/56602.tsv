@@ -1,0 +1,6 @@
+2008-06-25T02:24:00.000Z	unavailable		now if i can only find out >> how do i *change* the number of lines that terminal remembers <> like when i scroll up it only remembers x of lines of text so if the program (wine) outputs lots of text, i can only read half of it
+2008-06-25T02:24:00.000Z	steph	unavailable	try storing your command with $~  command >logfile.log
+2008-06-25T02:25:00.000Z	unavailable	steph	so i should be able to   !$  wine c:\\program\ files\\e-sword\\e_sword > logfile.log   ??
+2008-06-25T02:28:00.000Z	unavailable	steph	mmm it seems it did not create logfile.log
+2008-06-25T02:28:00.000Z	steph	unavailable	if the log doesn't show anything, try command 2> logfile
+2008-06-25T02:31:00.000Z	steph	unavailable	does it work ?

@@ -1,0 +1,6 @@
+2011-04-28T22:58:00.000Z	binoy		how do i ssh into a computer behind nat?
+2011-04-28T22:59:00.000Z	escott	binoy	you need to forward the ssh port in your router
+2011-04-28T22:59:00.000Z	binoy	escott	i have no access to router
+2011-04-28T22:59:00.000Z	escott	binoy	then you cant do it
+2011-04-28T23:00:00.000Z	binoy		oops
+2011-04-28T23:00:00.000Z	escott	binoy	thats not entirely true, you would have to have someone on the target machine start a connection to the outside though, so for all intents and purposes its not possible

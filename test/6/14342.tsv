@@ -1,0 +1,6 @@
+2010-12-29T10:41:00.000Z	jon8		is there such a command that allows me to 'watch' a file, as it is being changed, like a log file.. so whenever something writes to a log file, i can see it on my screen
+2010-12-29T10:41:00.000Z	rww	jon8	^^^
+2010-12-29T10:42:00.000Z	jon8	rww	thank you :)
+2011-01-16T08:51:00.000Z	rww	jon8	Not much. Same underlying system, server doesn't boot to a GUI, and the server installation CD includes server-related package (apache, sshd, etc.) instead of Desktop ones (GNOME, etc.)
+2011-01-16T08:52:00.000Z	rww	jon8	I'd stick with desktop.
+2011-01-16T08:52:00.000Z	jon8	rww	thats kind of what i'm thinking

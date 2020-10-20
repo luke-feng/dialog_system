@@ -1,0 +1,6 @@
+2007-11-22T18:22:00.000Z	coderipper		i'm just getting old.
+2007-11-22T18:23:00.000Z	coderipper		i've been getting those cards for about a year now.
+2007-11-22T18:23:00.000Z	coderipper		:)
+2007-11-22T18:25:00.000Z	coderipper		there is no root account by default.
+2007-11-22T18:25:00.000Z	coderipper		you should be able to 'sudo su', however.
+2007-11-22T18:26:00.000Z	Tidus	coderipper	sudo -i grants a root shell

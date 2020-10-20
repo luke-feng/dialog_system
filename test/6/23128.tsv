@@ -1,0 +1,6 @@
+2010-03-22T06:29:00.000Z	rodrigo3n		I have hidden the menubar of the terminal window
+2010-03-22T06:29:00.000Z	rodrigo3n		can it be shown again?
+2010-03-22T06:30:00.000Z	acovrig	rodrigo3n	"gnome-terimal --show-menubar"
+2010-03-22T06:30:00.000Z	rodrigo3n	acovrig	thnaks
+2010-03-22T06:30:00.000Z	rodrigo3n	acovrig	thanks
+2010-03-22T06:33:00.000Z	acovrig	rodrigo3n	`ps -A|grep "program you are looking for"` for a specific program, say if you are looking for a pid

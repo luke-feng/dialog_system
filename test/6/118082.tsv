@@ -1,0 +1,6 @@
+2008-03-04T08:13:00.000Z	sarixe		hi, i have an old canon powershot A40, whose folders i want to browse.  however, when i connect the camera and turn it on, there is merely a message displayed that gives me the choice to import photos.  the camera doesn't even show up in nautilus.  how do i get it to do that?
+2008-03-04T08:14:00.000Z	Frogzoo	sarixe	gthumb ?
+2008-03-04T08:14:00.000Z	sarixe	Frogzoo	: it doesn't show up
+2008-03-04T08:16:00.000Z	sarixe	Frogzoo	: it shows up as a camera, but not as a folder
+2008-03-04T08:16:00.000Z	Frogzoo	sarixe	cool, now file -> import
+2008-03-04T08:17:00.000Z	sarixe	Frogzoo	: that's not my goal.  i need to ultimately be able to format the card in the camera.  it doesn't seem to be mounted, or bound to any /dev device

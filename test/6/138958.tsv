@@ -1,0 +1,6 @@
+2006-07-23T07:18:00.000Z	cwillu		hmm... can't seem to install build-essential
+2006-07-23T07:19:00.000Z	cwillu		I'm having trouble getting my repositories updated, or at least installing build-essential;  any help?
+2006-07-23T07:21:00.000Z	cwillu		ca.archive... and us.archive fail
+2006-07-23T07:21:00.000Z	cwillu		146.137.96.7
+2006-07-23T07:21:00.000Z	cwillu		ah, thanks
+2006-07-23T07:21:00.000Z	oneseventeen	cwillu	hank78, me too, and I've taken out all us.archive references in sources.list

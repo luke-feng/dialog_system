@@ -1,0 +1,6 @@
+2010-09-08T01:57:00.000Z	foxbunny		anyone? how do I point subdomain.localhost -> www.someothersite.com ?
+2010-09-08T01:59:00.000Z	mneptok	foxbunny	you want an immediate redirect. create an index.html on the sub with that.
+2010-09-08T02:00:00.000Z	foxbunny	mneptok	I need a transparent proxy-type thing, no redirect
+2010-09-08T02:00:00.000Z	foxbunny	mneptok	doing some javascript thing, and same-origin crap is giving me headache
+2010-09-08T02:00:00.000Z	mneptok	foxbunny	so set up DNS to have that domain point at the IP of the other.
+2010-09-08T02:01:00.000Z	foxbunny	mneptok	how do I do that?

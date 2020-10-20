@@ -1,0 +1,6 @@
+2011-02-02T15:18:00.000Z	Ugunsmuris		 what could be the problem if after installing utidylib in synaptic python can't import tidylib ?
+2011-02-02T15:20:00.000Z	Ugunsmuris		hello repeating myself  -- what could be the problem if after installing utidylib in synaptic python can't import tidylib ?
+2011-02-02T15:22:00.000Z	fdsaseemslegit	Ugunsmuris	 Possibly the Python version you have installed. or you do not have the HTML Tidy  Library installed http://tidy.sourceforge.net/
+2011-02-02T15:24:00.000Z	Ugunsmuris	fdsaseemslegit	i installed tidy with synaptic also
+2011-02-02T15:25:00.000Z	Ugunsmuris	fdsaseemslegit	and the cvs is not work
+2011-02-02T15:25:00.000Z	fdsaseemslegit	Ugunsmuris	Have you been here?  http://utidylib.berlios.de/

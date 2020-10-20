@@ -1,0 +1,6 @@
+2009-10-15T03:31:00.000Z	fccf	aaroninfidel	lspci will list your pci devices, including your sound card
+2009-10-15T03:37:00.000Z	aaroninfidel	fccf	where can I get lspci?
+2009-10-15T03:37:00.000Z	fccf	aaroninfidel	type lspci into a terminal .. that's an L by the way
+2009-10-15T03:38:00.000Z	aaroninfidel	fccf	thank you.
+2009-10-15T03:40:00.000Z	fccf	aaroninfidel	you problem may lie in the fact that you are running the server version.. your soundcard may not be compiled into the kernel module .. reccommend using the desktop live cd and see if sound works there ... another issue are VIA cards (some work, some just don't)
+2009-10-15T03:57:00.000Z	fccf	aaroninfidel	I am quite certain that you should be running a Desktop kernel ... running the server kernel will just give you headaches

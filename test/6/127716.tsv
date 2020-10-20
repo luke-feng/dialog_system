@@ -1,0 +1,6 @@
+2006-01-08T07:36:00.000Z	silverpower		All the boot stanzas are simply gone.
+2006-01-08T07:38:00.000Z	thegladiator	silverpower	shud help you I guess . i amnot much aware about this...
+2006-01-08T10:12:00.000Z	silverpower	thegladiator	How big is your swap file?
+2006-01-08T10:15:00.000Z	silverpower	thegladiator	I would say your actual module is what's leading you into the Land of Random Segfaults and Kernel Panics.
+2006-01-08T10:15:00.000Z	thegladiator	silverpower	whats the fix you would suggest ?
+2006-01-08T10:16:00.000Z	silverpower	thegladiator	Replace your memory. That's all you *can* do.

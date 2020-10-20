@@ -1,0 +1,6 @@
+2010-05-10T10:35:00.000Z	flanque		hi
+2010-05-10T10:36:00.000Z	flanque		trying to do fresh install of 10.04 and i get a black screen shortly after the red dots
+2010-05-10T10:36:00.000Z	flanque		how can i fix that?
+2010-05-10T10:36:00.000Z	actionParsnip	flanque	did you MD5 test the ISO you  downloaded?
+2010-05-10T10:36:00.000Z	actionParsnip	flanque	did you burn is slowly?
+2010-05-10T10:37:00.000Z	actionParsnip	flanque	you could try disabling unnecessary hardware in bios for the duration of the install

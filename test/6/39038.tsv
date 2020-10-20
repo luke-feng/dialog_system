@@ -1,0 +1,6 @@
+2011-05-05T17:18:00.000Z	deffcon		can someone tell me howto compile on natty i get glibc-static devel message
+2011-05-05T17:19:00.000Z	deffcon		**** The following packages were not installed correctly ****
+2011-05-05T17:19:00.000Z	deffcon		glibc-static
+2011-05-05T17:19:00.000Z	deffcon		********
+2011-05-05T17:19:00.000Z	deffcon		make: *** [squashfs] Fout 1
+2011-05-05T17:19:00.000Z	celthunder	deffcon	install them?

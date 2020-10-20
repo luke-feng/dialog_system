@@ -1,0 +1,6 @@
+2009-03-07T08:24:00.000Z	darrik		hello, i kinda need some help with my internet. I am using a usb dongle for internet and am using my drivers from windows via ndswrapper. I seem to browse and surf on firefox fine, but updating and adding/removing programs is either really slow or kinda "hiccups" speed.
+2009-03-07T08:24:00.000Z	darrik		Also ima using 8.10
+2009-03-07T08:24:00.000Z	turtle_	darrik	whhy ndiswrapper?
+2009-03-07T08:25:00.000Z	turtle_	darrik	which card you have?
+2009-03-07T08:27:00.000Z	turtle_	darrik	read above, sorry
+2009-03-07T08:28:00.000Z	turtle_	darrik	probably the glitchy many paths and uncertainties going through ndiswrapper and different file systems!

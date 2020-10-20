@@ -1,0 +1,6 @@
+2010-11-07T08:27:00.000Z	urssi		any comcast users here?
+2010-11-07T08:28:00.000Z	urssi		can someone inside of comcast telnet to <non-existent> domain and post/msg me the resolution?
+2010-11-07T08:28:00.000Z	urssi		does it resolve to akamai ?
+2010-11-07T08:30:00.000Z	sync3times	urssi	comcast has a helper which sends you to their search pages for non-exisstant domains.   You can opt out, theoretically
+2010-11-07T08:31:00.000Z	urssi	bribroder	I was curious about telnet in particular, not browser searches ("domain-helper")
+2010-11-07T08:31:00.000Z	sync3times	urssi	  could not resolve.

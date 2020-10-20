@@ -1,0 +1,6 @@
+2010-10-24T03:28:00.000Z	evilaim		Question: How do I give a user more permissions.  He needs to be able to chmod /var/www
+2010-10-24T03:28:00.000Z	evilaim		/var/www is owned by root
+2010-10-24T03:29:00.000Z	evilaim		umm
+2010-10-24T03:29:00.000Z	evilaim		shouldn't that be groupadd tekky admin?
+2010-10-24T03:29:00.000Z	evilaim		or something
+2010-10-24T03:29:00.000Z	crawler	evilaim	add him to group www-data maybe

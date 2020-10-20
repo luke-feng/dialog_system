@@ -1,0 +1,6 @@
+2010-05-19T12:46:00.000Z	noren		lemme me try that and then come back here,
+2010-05-19T12:46:00.000Z	noren		exit
+2010-05-19T12:47:00.000Z	a3ist	noren	 To pass the i915.modeset=1 parameter you'd press E at the grub menu, and add that to the same line as "quiet" and "splash"
+2010-05-19T12:53:00.000Z	a3ist	noren	 Just a sec and I'll paste the right line to modify
+2010-05-19T12:54:00.000Z	noren	a3ist	ok waiting
+2010-05-19T12:54:00.000Z	a3ist	noren	in the file "/etc/default/grub", change this line: GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"

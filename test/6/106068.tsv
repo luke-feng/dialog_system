@@ -1,0 +1,6 @@
+2008-01-03T14:32:00.000Z	tonyyarusso		anyone know a way that I could define a system alias such that when I type in "wp" in my browser, it actually goes to en.wikipedia.org ?
+2008-01-03T14:33:00.000Z	wols	tonyyarusso	put it in /etc/hosts or something
+2008-01-03T14:33:00.000Z	tonyyarusso	wols	how?  I tried what I thought would work in there, but nothing changed
+2008-01-03T14:37:00.000Z	wols	tonyyarusso	then you need to run your own DNS server with a cusom CNAME for "wp"
+2008-01-03T14:38:00.000Z	tonyyarusso	wols	I suppose I could do that.
+2008-01-03T14:38:00.000Z	tonyyarusso	wols	BIND, or is something else more appropriate?

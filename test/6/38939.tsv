@@ -1,0 +1,6 @@
+2009-05-09T04:36:00.000Z	Huufarted		Question about scripts.  Shell scripts need to be executed with './' for security purposes.  Is there a way to set a specific directory and have it in your path so the shell will allow you to execute any scripts in there without requiring ./?
+2009-05-09T04:37:00.000Z	h2g2bob	Huufarted	use PATH="/home/user/whatever:$PATH" ; export PATH
+2009-05-09T04:38:00.000Z	Huufarted	h2g2bob	will that allow any scripts in that directory to execute without having to specify the path?
+2009-05-09T04:39:00.000Z	h2g2bob	Huufarted	yep, for the current bash session only. It will search that folder before /bin and /usr/bin as normal. To make it permanent add those lines to ~/.bashrc
+2009-05-09T04:40:00.000Z	h2g2bob	Huufarted	hbekel suggests using PATH="$PATH:/home/user/whatever" so you look in /bin and /usr/bin first
+2009-05-09T04:40:00.000Z	Huufarted	h2g2bob	aye I'm doing that.  :)  Thanks a bunch.

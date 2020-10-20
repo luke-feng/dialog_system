@@ -1,0 +1,6 @@
+2007-03-23T07:15:00.000Z	binary0		trying to compile an application, i now get this error :-
+2007-03-23T07:15:00.000Z	binary0		checking for C compiler default output file name... configure: error: C compiler cannot create executables
+2007-03-23T07:16:00.000Z	binary0		any idea ?
+2007-03-23T07:16:00.000Z	rasputnik	binary0	do an 'apt-get install build-essential'
+2007-03-23T07:17:00.000Z	rasputnik	binary0	you'll still need some extra packages - depends what you will be linking against
+2007-03-23T07:17:00.000Z	binary0	rasputnik	ok, lemme get that install done then i'll check whats next

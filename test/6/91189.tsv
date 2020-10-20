@@ -1,0 +1,6 @@
+2007-04-09T11:54:00.000Z	nexes		Does anyone know the line needed to recompile the latest nvidia drivers for your kernel in Edgy?
+2007-04-09T11:54:00.000Z	nexes		I can't get to a browser..
+2007-04-09T11:55:00.000Z	maikol	nexes	are you using the nvidia installer from the nvidia site?
+2007-04-09T11:55:00.000Z	nexes	maikol	Yes, I am.
+2007-04-09T11:55:00.000Z	maikol	nexes	sh NVIDIA*
+2007-04-09T11:55:00.000Z	maikol	nexes	or whatever the package name is

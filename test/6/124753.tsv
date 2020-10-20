@@ -1,0 +1,6 @@
+2006-02-26T12:52:00.000Z	soma		i cant install libssl-dev, cause it depends on an older version of libssl, any clues how i can override it?
+2006-02-26T12:53:00.000Z	soma		anyone know how i can force an apt-get install, if it says broken dependency?
+2006-02-26T12:54:00.000Z	LjL	soma	you can't, afaik
+2006-02-26T12:54:00.000Z	soma	LjL	argh! :)
+2006-02-26T12:54:00.000Z	LjL	soma	you can only use dpkg to install the stuff manually
+2006-02-26T12:54:00.000Z	LjL	soma	but then, next time apt-get (or aptitude) runs, it will try to remove it

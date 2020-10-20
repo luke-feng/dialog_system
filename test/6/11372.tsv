@@ -1,0 +1,6 @@
+2011-06-26T03:07:00.000Z	jingo255		I made a separate partition, can I do a full install with wubi?
+2011-06-26T03:07:00.000Z	jingo255		the cd does not work
+2011-06-26T03:07:00.000Z	jingo255		I tried usb stick, it doesn't work
+2011-06-26T03:07:00.000Z	mrdeb	jingo255	it works
+2011-06-26T03:08:00.000Z	mrdeb	jingo255	you are not selecting the right boot
+2011-06-26T03:08:00.000Z	mrdeb	jingo255	you have to select either usb or harddrive usb from boot menu

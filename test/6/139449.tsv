@@ -1,0 +1,6 @@
+2005-08-31T12:23:00.000Z	bikram_		MySQL packages are installed but I am not being able to use mysql. Why?
+2005-08-31T12:24:00.000Z	NoUse	bikram_	have you started the server?
+2005-08-31T12:25:00.000Z	bikram_		i don't know where to look for that.
+2005-08-31T12:27:00.000Z	NoUse	bikram_	make sure you have the server installed apt-get install mysql-server
+2005-08-31T12:27:00.000Z	bikram_		Hey NoUse: I'm trying for that,
+2005-08-31T12:28:00.000Z	bikram_	NoUse	could not install, the error message:-

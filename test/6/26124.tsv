@@ -1,0 +1,6 @@
+2009-12-26T06:20:00.000Z	and_		chmod -R 777 "archive"  does the trick for me :)
+2009-12-26T06:21:00.000Z	and_		hehe true,  specially not on a multiuser machine
+2009-12-26T06:22:00.000Z	and_		ifconfig eth? down    (for disable?)
+2009-12-26T06:22:00.000Z	dalton_football	and_	that to me?
+2009-12-26T06:24:00.000Z	and_	dalton_football	 you could try it :)  and -  "ifconfig eth? up"  for enable I think
+2009-12-26T06:26:00.000Z	and_	dalton_football	write iwlist scan  to get some quick info about wireless networks in area :)

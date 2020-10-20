@@ -1,0 +1,6 @@
+2006-10-07T16:25:00.000Z	Razor--		Very important question does anyone know of anyway to get Dreamweaver on Ubuntu 6.06
+2006-10-07T16:25:00.000Z	Razor--		so no
+2006-10-07T16:25:00.000Z	Razor--		is that a no
+2006-10-07T05:18:00.000Z	Razor--		whats the sudo command for vewing folders
+2006-10-07T05:18:00.000Z	jrib	Razor--	what are you trying to do?
+2006-10-07T05:19:00.000Z	jrib	Razor--	ls -a   let's you view hidden directories

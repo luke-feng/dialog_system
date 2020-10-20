@@ -1,0 +1,6 @@
+2007-02-06T09:16:00.000Z	imac_dude		hi what is the command that can show you the key-id or somesuch of any key that is pressed?
+2007-02-06T09:16:00.000Z	imac_dude		it keeps doin it for like 30 seconds until it times out coz it takes over the keyboard
+2007-02-06T09:16:00.000Z	xtknight	imac_dude	xev
+2007-02-06T09:17:00.000Z	imac_dude	xtknight	thnx that works
+2007-02-06T09:19:00.000Z	imac_dude		also... is there a command that lists available keyboard layouts in X?
+2007-02-06T09:19:00.000Z	xtknight	imac_dude	well `sudo dpkg-reconfigure xserver-xorg  ` will give you the choices

@@ -1,0 +1,6 @@
+2011-07-23T00:26:00.000Z	RobinJ		what the shit?
+2011-07-23T00:26:00.000Z	RobinJ		ubuntu just froze.... how can i flter all those useless crap out of my dmesg logs?
+2011-07-23T00:26:00.000Z	RobinJ		i need to see what caused the error, not things about my wireless
+2011-07-23T00:27:00.000Z	RobinJ		Phoenix6780: GUI or terminal, doesnt matter
+2011-07-23T00:27:00.000Z	edbian	RobinJ	It puts most recent stuff at the bottom of dmesg.  There is a time stamp next to it.  The freeze is probably the most recent thing.
+2011-07-23T00:28:00.000Z	edbian	RobinJ	They're second from when the computer started.

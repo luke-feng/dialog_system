@@ -1,0 +1,6 @@
+2008-10-29T00:20:00.000Z	zanberdo		so, I will ask again as a fair piece of time has past: anyone run into a problem after upgrading to kernel 2.6.24-21 loading nvidia-glx drivers?
+2008-10-29T00:21:00.000Z	bremb1	zanberdo	none problem here. what's happening?
+2008-10-29T00:22:00.000Z	zanberdo	bremb1	it seems that the nvidia driver is not loading.  I've checked Xorg.0.log for errors but can't find any.  When I boot back to 2.6.24-19 the nvidia drivers load as expected.  NOTE: I installed from apt nvidia-glx-new
+2008-10-29T00:25:00.000Z	bremb1	zanberdo	I am as well using GeForce 7600 Go
+2008-10-29T00:25:00.000Z	zanberdo	bremb1	and you have not trouble with the upgrade to -21?
+2008-10-29T00:26:00.000Z	zanberdo	bremb1	s/not/had no/

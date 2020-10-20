@@ -1,0 +1,6 @@
+2010-04-30T14:03:00.000Z	AngryKoala		hi all, how does one choose what service starts first when booting?
+2010-04-30T14:05:00.000Z	AngryKoala		How do I know what services start first when booting?
+2010-04-30T14:06:00.000Z	joaopinto	AngryKoala	/etc/init and /etc/rc*
+2010-04-30T14:06:00.000Z	AngryKoala	joaopinto	and that has the order in which they boot?
+2010-04-30T14:06:00.000Z	joaopinto	AngryKoala	the order is hard to identify, you need to check the scripts
+2010-04-30T14:07:00.000Z	AngryKoala	joaopinto	alright, will do, thanks

@@ -1,0 +1,6 @@
+2011-08-24T16:00:00.000Z	farciarz84		I have network audio reciever, I can cotroll it fully with many andorid app using Upnp or DLNA. Is there some ubuntu music player that has also these posibility?
+2011-08-24T16:00:00.000Z	farciarz84		from my phone it's simple I choose mp3 to play and my network reciever is able to play iy
+2011-08-24T16:01:00.000Z	farciarz84		in ubuntu I cannot find such tool, windows has wmp 7 mac has itunes
+2011-08-24T16:03:00.000Z	syrinx_priest	farciarz84	Rhythmbox has a plugin called Coherence that lets you use DLNA, but I haven't tried it.
+2011-08-24T16:03:00.000Z	syrinx_priest	farciarz84	http://coherence.beebits.net/wiki/RhythmBox
+2011-08-24T16:04:00.000Z	farciarz84	syrinx_priest	used to try with cohoerence without result

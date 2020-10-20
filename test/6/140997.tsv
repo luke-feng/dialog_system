@@ -1,0 +1,6 @@
+2006-05-27T09:23:00.000Z	paradizelost		hey all, anyone know how to run a command as a user other than root on boot up?
+2006-05-27T09:24:00.000Z	paradizelost		#ubuntu+1
+2006-05-27T09:24:00.000Z	Ng	paradizelost	each user can have their own "crontab" (commands that get run by cron) and you can specify a date/time of "@reboot" and it will get run when the machine boots as the user that owns the crontab
+2006-05-27T09:24:00.000Z	Ng	paradizelost	(to edit a user's crontab, run "crontab -e" as that user and have a read of man crontab)
+2006-05-27T09:25:00.000Z	paradizelost	Ng	so instead of the * * * * * * stuff, i just put @reboot?
+2006-05-27T09:25:00.000Z	Ng	paradizelost	pretty much, yeah :)

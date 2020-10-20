@@ -1,0 +1,6 @@
+2004-10-29T11:42:00.000Z	Despair		hmm, ubuntu isn't automagically setting the mtrr for the framebuffer here.
+2004-10-29T11:42:00.000Z	aaronwaite	Despair	what SHOULD we be seeing in /proc/mtrr?
+2004-10-29T11:42:00.000Z	Despair	aaronwaite	varies with the card. basically, at least one for the main memory range (usually write-back)
+2004-10-29T11:44:00.000Z	Despair	aaronwaite	yep, I suspect yours are right, given the greater speed you are reporting.
+2004-10-29T11:48:00.000Z	Despair	aaronwaite	8x card & motherboard, perfectly stable here. I was just pointing out that the safe defaults cover all systems, and don't have exceptions for the ones that do work right.
+2004-10-29T11:51:00.000Z	aaronwaite	Despair	good. thanks! 

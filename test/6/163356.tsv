@@ -1,0 +1,6 @@
+2004-10-12T11:52:00.000Z	FX|Laptop		Hidy Ho
+2004-10-12T11:52:00.000Z	FX|Laptop		Wondering if anyone could give me a hand with mounting my pen drive.
+2004-10-12T11:52:00.000Z	FX|Laptop		this is the line I have in my fstab......
+2004-10-12T11:52:00.000Z	FX|Laptop		yes.
+2004-10-12T11:52:00.000Z	FX|Laptop		/dev/sda  /mnt/usbstick  vfat  noauto,user  0  0
+2004-10-12T11:52:00.000Z	tberman	FX|Laptop	you shouldnt need a line in your fstab

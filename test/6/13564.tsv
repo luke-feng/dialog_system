@@ -1,0 +1,6 @@
+2012-01-05T11:49:00.000Z	y-chrmsm-adam		is there something like eix in ubuntu?
+2012-01-05T11:49:00.000Z	y-chrmsm-adam		apt-cache seems crippled, does'nt have colors nor does it show which packages are installed
+2012-01-05T11:50:00.000Z	y-chrmsm-adam		given a particular query include installed info in the results, just like eix
+2012-01-05T11:52:00.000Z	y-chrmsm-adam		no, something like 'eix ffmpeg' and the results include all the info
+2012-01-05T11:53:00.000Z	y-chrmsm-adam		find out which package is installed with a query just like eix
+2012-01-05T11:53:00.000Z	Chipzzz	y-chrmsm-adam	aptitude may do what you want

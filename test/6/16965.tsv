@@ -1,0 +1,6 @@
+2010-09-19T03:30:00.000Z	robinbowes		Where's the firewall (iptables) configured in 8.0.4 ?
+2010-09-19T03:31:00.000Z	erUSUL	robinbowes	but the firewall is disabled by default
+2010-09-19T03:32:00.000Z	robinbowes	erUSUL	thx, btw
+2010-09-19T03:33:00.000Z	erUSUL	robinbowes	https://help.ubuntu.com/community/IptablesHowTo#Saving%20iptables
+2010-09-19T03:33:00.000Z	robinbowes	erUSUL	OK, so this stuff is not configured by default?
+2010-09-19T03:34:00.000Z	erUSUL	robinbowes	iptables save restore ? no. afaics

@@ -1,0 +1,6 @@
+2006-12-24T11:36:00.000Z	nekohayo		is it possible to create a root user, but with a different name for security purposes on a server?
+2006-12-24T11:37:00.000Z	`rich	nekohayo	yeah, any user with a UID of 0 has full root powers iirc
+2006-12-24T11:39:00.000Z	`rich	nekohayo	that's what I'm talking about. Any user with a UID of 0 is essentially a duplicate root.
+2006-12-24T11:40:00.000Z	`rich	nekohayo	do you basically want to rename root to make it harder for someone to brute force their way in?
+2006-12-24T11:41:00.000Z	nekohayo	`rich	precisely
+2006-12-24T11:44:00.000Z	`rich	nekohayo	to do what you want, you'd have to disable the original root account somehow as well as create the new one. _that_ bit would break stuff.

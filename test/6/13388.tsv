@@ -1,0 +1,6 @@
+2011-08-19T20:30:00.000Z	rns		anyonw know how I can install this?  I have successfully downloaded the package with wget and uncompressed it.. Now what? http://packages.ubuntu.com/source/lucid/msttcorefonts
+2011-08-19T20:31:00.000Z	llutz	rns	"sudo dpkg -i filename.deb"
+2011-08-19T20:34:00.000Z	llutz	rns	btw, why do you want those ms-ttfs on a server?
+2011-08-19T20:35:00.000Z	llutz	rns	if you really need that package, ask your admin to install it
+2011-10-19T23:28:00.000Z	llutz	rns	cp . ..
+2011-10-30T17:31:00.000Z	rns	llutz	are there any known problems or hassles with the 64-bit version vs the 32-bit version?

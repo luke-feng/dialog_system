@@ -1,0 +1,6 @@
+2007-05-02T12:03:00.000Z	wakeup_		Floating point exception (core dumped) <- does anyone one know what this mean? i get this while trying to start teamspeak and mumble
+2007-05-02T12:03:00.000Z	dougsko	wakeup_	the program crashed and the core dump is a file that shows what was in memory when it crashed
+2007-05-02T12:03:00.000Z	wakeup_	dougsko	where can i find it?
+2007-05-02T12:04:00.000Z	dougsko	wakeup_	its probably in the same directory you called the program from
+2007-05-02T12:04:00.000Z	wakeup_		thx
+2007-05-02T12:04:00.000Z	dougsko	wakeup_	you can always search for it too. itll be called, file_that_crashed.core

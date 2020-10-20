@@ -1,0 +1,6 @@
+2006-10-23T16:26:00.000Z	Seveas		then apt-get install ubuntu-desktop
+2006-10-23T16:26:00.000Z	Seveas		then apt-get dist-upgrade
+2006-10-23T16:26:00.000Z	ianmacgregor	Seveas	What do each of those commands do?
+2006-10-23T16:27:00.000Z	Seveas	ianmacgregor	try to configure half installd packages, fix dependency errors, install ubuntu0desktop to be sure, do a dist-upgrade
+2006-10-23T16:27:00.000Z	ianmacgregor	Seveas	Ahh, thank you
+2006-10-23T13:45:00.000Z	ianmacgregor	Seveas	hahaha

@@ -1,0 +1,6 @@
+2011-03-27T06:28:00.000Z	tbruff13_		hey how do i make the vlc interface go away while im watching a movie
+2011-03-27T06:28:00.000Z	Us3r_Unfriendly	tbruff13_	dd
+2011-03-27T06:30:00.000Z	Us3r_Unfriendly	tbruff13_	dd isn't exactly what you need.  your going to want to rip a dvd and put the .avi to a flashdrive with handbrake but you'll need libdvdcss2 from medibuntu
+2011-03-27T06:31:00.000Z	Us3r_Unfriendly	tbruff13_	are you talking about what is the best converter/ripper?
+2011-03-27T06:32:00.000Z	Us3r_Unfriendly	tbruff13_	with libdvdcss2 install you can use dd to convert a dvd to a iso if that's what your talking about
+2011-03-27T06:36:00.000Z	Us3r_Unfriendly	tbruff13_	handbrake is a 3rd party app.  download it from their website.  they do have a .deb for ubuntu

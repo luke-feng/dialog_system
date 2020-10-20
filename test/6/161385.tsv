@@ -1,0 +1,6 @@
+2005-05-14T05:59:00.000Z	leonel		when  apt-get update  I get this error :
+2005-05-14T05:59:00.000Z	leonel		W: GPG error: http://security.ubuntu.com hoary-security Release: The following signatures were invalid: BADSIG 40976EAF437D05B5 Ubuntu Archive Automatic Signing Key <ftpmaster@ubuntu.com>
+2005-05-14T05:59:00.000Z	leonel		any idea ?
+2005-05-14T06:00:00.000Z	thoreauputic	leonel	known issue, being worked on I hear
+2005-05-14T06:00:00.000Z	leonel	Seveas	thoreauputic  thanks
+2005-05-14T06:00:00.000Z	thoreauputic	leonel	the archive servers have a problem I guess

@@ -1,0 +1,6 @@
+2005-10-26T15:16:00.000Z	`NTR		hello
+2005-10-26T15:17:00.000Z	`NTR		can any1 help a n00b plz ?
+2005-10-26T15:18:00.000Z	`NTR		ok :)
+2005-10-26T15:19:00.000Z	`NTR		when i try 2 install ubuntu i get past all the partition bit, then on the next bit, sumthing about the base, i get this error " The debootstrap programe exited with an error (return value 23) "
+2005-10-26T15:19:00.000Z	Seveas	`NTR	check the md5sum of your iso and cd
+2005-10-26T15:22:00.000Z	Seveas	`NTR	https://wiki.ubuntu.com/VerifyIsoHowto?highlight=%28md5sum%29

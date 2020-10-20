@@ -1,0 +1,6 @@
+2006-01-01T11:43:00.000Z	Ralken		whats the command to delet a directory I tryed "sudo rmdir /myfile/" and it said the directory was not empty
+2006-01-01T11:44:00.000Z	bob_4_a_day	Ralken	use with caution
+2006-01-01T11:46:00.000Z	Ralken	bob_4_a_day	 yea I know I can totally erase everything in my directory lol
+2006-01-01T11:46:00.000Z	bob_4_a_day		with the sudo prepended on the whole system (all mounted drives) Ralken
+2006-01-01T11:47:00.000Z	Ralken	bob_4_a_day	thanks I deleted what I needed to
+2006-01-01T11:48:00.000Z	Ralken	bob_4_a_day	 I should not have used root to put it there in the first place lol

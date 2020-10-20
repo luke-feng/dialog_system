@@ -1,0 +1,6 @@
+2010-03-15T20:00:00.000Z	shiley		how to config the network in Ubuntu server thru clear text file?
+2010-03-15T20:00:00.000Z	shiley		i skipped the network setup on the DVD install, and now i am using ifconfig in rc.local
+2010-03-15T20:01:00.000Z	shiley		mhall119| work, thanks
+2010-03-15T20:01:00.000Z	shiley		but cannot find such a file..:(
+2010-03-15T20:01:00.000Z	psusi	shiley	man interfaces for how to write one, then you can just use ifup/ifdown to activate and deactivate the interface(s) using those parameters
+2010-03-15T20:02:00.000Z	shiley	psusi	ok , i will try it

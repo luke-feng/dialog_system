@@ -1,0 +1,6 @@
+2011-04-17T15:40:00.000Z	MeglaW		hi, i just installed the latest iso on a laptop, and i want to stress the shit out of it like running stress (that apt cant find) or some variant of 3dmark that windows offers
+2011-04-17T15:40:00.000Z	MeglaW		pls help
+2011-04-17T15:41:00.000Z	Dr_Willis	MeglaW	 thers benchmark apps in teh repos.. or at some web sites ive seen.
+2011-04-19T16:30:00.000Z	Dr_Willis	MeglaW	 one way. rename /etc/grub.d/30_os-prober to be a lower #. like 09_os-prober
+2011-04-19T16:30:00.000Z	Dr_Willis	MeglaW	 then rerun update-grub
+2011-04-19T16:30:00.000Z	Dr_Willis	MeglaW	 the grub2 docs mention other ways

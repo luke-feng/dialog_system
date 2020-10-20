@@ -1,0 +1,6 @@
+2006-11-16T17:55:00.000Z	FantasticFoo		what do you do if you get a kernel panic at bootup, and an error saying "unable to mount root fs on unknown block (8,3)" after upgrading to edgy?
+2006-11-16T17:55:00.000Z	FantasticFoo		it'd be kind of nice if i could boot up.
+2006-11-16T17:55:00.000Z	lupine_85	FantasticFoo	try the next kernel down in the list
+2006-11-16T17:55:00.000Z	FantasticFoo	lupine_85	what "list"?
+2006-11-16T17:55:00.000Z	lupine_85		grub
+2006-11-16T17:56:00.000Z	FantasticFoo	lupine_85	i don't have grub

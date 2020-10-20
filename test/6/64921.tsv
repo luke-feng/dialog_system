@@ -1,0 +1,6 @@
+2008-12-28T22:24:00.000Z	gizmo		how to run perl script using terimna?
+2008-12-28T22:24:00.000Z	gizmo		*terminal
+2008-12-28T22:24:00.000Z	unop_	gizmo	chmod +x /path/to/script;  /path/to/script
+2008-12-28T22:25:00.000Z	gizmo	unop_	idont understand about chmod
+2008-12-28T22:25:00.000Z	gizmo		where can i learn it
+2008-12-28T22:25:00.000Z	unop_	gizmo	the manpage perhaps.  man chmod

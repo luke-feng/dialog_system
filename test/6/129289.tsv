@@ -1,0 +1,6 @@
+2006-07-12T05:09:00.000Z	klees		is there a command that clears obselete downloaded apt-get files???
+2006-07-12T05:10:00.000Z	klees		apt-get autoclean??
+2006-07-12T05:10:00.000Z	dli	klees	apt-get clean
+2006-07-12T05:11:00.000Z	dli	klees	yes, all in /var/cache/apt/archives/
+2006-07-14T06:59:00.000Z	dli	klees	sudo ifconfig -a
+2006-07-18T08:57:00.000Z	dli	klees	netstat -na|less

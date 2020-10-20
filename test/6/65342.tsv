@@ -1,0 +1,6 @@
+2008-10-16T18:31:00.000Z	amorphous		hey! I'd like to know if there's a problem with hardy regarding permissions in nautilus. I can 'ls' files from a terminal fine, but can't see tham in nutilus. Does anyone here know why?
+2008-10-16T18:31:00.000Z	jrib	amorphous	try hitting "reload"
+2008-10-16T18:32:00.000Z	amorphous		ok...
+2008-10-16T18:32:00.000Z	amorphous		Hmmm....
+2008-10-16T18:33:00.000Z	amorphous	jrib	LjL Ahh... strange - i can see them now :/ --- could it be that there is sometimes a delay?
+2008-10-16T18:34:00.000Z	amorphous	jrib	LjL I tried Refresh a few times, but no joy. I was trying ti use a ilnk though (soft to dir).. They appeared after I went to the target dir, then were avail via the link. That make sense?

@@ -1,0 +1,6 @@
+2010-09-01T12:34:00.000Z	Ubuntu-monitor		how can I setup two monitors for my Ubuntu, one is laptop the other is LCD
+2010-09-01T12:36:00.000Z	pfifo	Ubuntu-monitor	System -> Prefs -> Monitor
+2010-09-01T12:38:00.000Z	Ubuntu-monitor	pfifo	I am using 8.04, dont see monitors there
+2010-09-01T12:39:00.000Z	pfifo	Ubuntu-monitor	upgrade to 10.04 OR write your own xorg.conf
+2010-09-01T12:39:00.000Z	Ubuntu-monitor	pfifo	10.04 ate all my stuffs, first mouse, then wifi then nvidia
+2010-09-01T12:40:00.000Z	pfifo	Ubuntu-monitor	writing your own xorg.conf is complicated, but there are pleny of resources on google and you can also view the manual by typing 'man xorg.conf' into a terminal

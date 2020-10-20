@@ -1,0 +1,6 @@
+2008-07-18T10:04:00.000Z	_xyz		how do you remove a directory that isnt empty?
+2008-07-18T10:05:00.000Z	_xyz		ok
+2008-07-18T10:05:00.000Z	_xyz		ok
+2008-07-18T10:07:00.000Z	_xyz		﻿Viking667, what does 'ls -al /your/dir' do besides list the files?
+2008-07-18T10:08:00.000Z	_xyz		viking667, so i need to delete them one by one thru terminal?
+2008-07-18T10:08:00.000Z	giacom1	_xyz	under the command line, do rm -r

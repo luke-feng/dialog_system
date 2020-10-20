@@ -1,0 +1,6 @@
+2007-02-23T09:39:00.000Z	psygrass		hi guys.....newbie question... i have a dell computer and as u probably know that it comes with two hidden partitions of the hard drive for utilities and dell pc restore.... i want to install ubuntu dual boot with windows but i am afraid that ubuntu would format or resize the utility partition...and i don't want to lose them. i mean i want to install it on my windows partition. so how can i be sure of that?
+2007-02-23T09:39:00.000Z	ikonia_	psygrass	don't touch the partitions in the partition tool in ubuntu and it will be fine
+2007-02-23T09:40:00.000Z	ikonia_	psygrass	no - seloect the correct partion information and you'll be fine
+2007-02-23T09:42:00.000Z	ikonia_	psygrass	try using the alternative CD as it may be easier than trying to get it working
+2007-02-23T09:43:00.000Z	ikonia_	psygrass	do that
+2007-02-23T09:44:00.000Z	ikonia_	psygrass	yup

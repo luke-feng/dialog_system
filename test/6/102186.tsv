@@ -1,0 +1,6 @@
+2007-04-25T12:58:00.000Z	morrolan		hi, how can I take down the network and bring it back up again from the CLI?
+2007-04-25T12:58:00.000Z	h1st0	morrolan	sudo ifdown eth0
+2007-04-25T12:59:00.000Z	h1st0	morrolan	and then ifup it.
+2007-04-25T12:59:00.000Z	morrolan	h1st0	figured out why it won't come back up - i've renamed the iptables file
+2007-04-25T13:00:00.000Z	morrolan	h1st0	how can I remove all IPTABLES rules?  iptables -F doesn't work?
+2007-04-25T13:00:00.000Z	h1st0	morrolan	dunno i've never used iptables

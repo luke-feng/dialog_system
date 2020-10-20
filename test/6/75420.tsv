@@ -1,0 +1,6 @@
+2007-10-29T09:04:00.000Z	Greencookie		aticontrol
+2007-10-29T09:04:00.000Z	Greencookie		oops
+2007-10-29T09:04:00.000Z	Greencookie		!ati
+2007-10-29T09:05:00.000Z	Greencookie		How do I remove amarok from synaptic manager?
+2007-10-29T09:06:00.000Z	Zippy2	Greencookie	apt-get remove --purge amarok
+2007-10-29T09:07:00.000Z	Greencookie	Zippy2	thanks a lot. I'm purging:)

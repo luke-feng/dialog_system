@@ -1,0 +1,6 @@
+2012-11-19T00:47:00.000Z	ejo		Anyone know why my server is mentioning 12.10 is an available new release even though I set "Prompt=lts" in /etc/update-manager/release-upgrades?  Is it just normal that new releases are mentioned when you ssh into a machine in spite of the setting in that file?
+2012-11-19T00:48:00.000Z	SwedeMike	ejo	no, that is not normal.
+2012-11-19T00:49:00.000Z	ejo	SwedeMike	thank you... additional info = I just upgraded the machine in question from 11.04 > 11.10 > 12.04 and then rebooted.  I have not done anything else.  The contents of /etc/update-manager/release-upgrades are just the original/default contents.
+2012-11-19T00:49:00.000Z	ejo		Any suggestion what I ought to do?
+2012-11-19T00:50:00.000Z	SwedeMike	ejo	could be it's some kind of left-over from when it thought you wanted to upgrade to new releases, and when you changed to lts only it didn't update the login banner.
+2012-11-19T00:50:00.000Z	SwedeMike	ejo	well, don't do anything.

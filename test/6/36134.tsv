@@ -1,0 +1,6 @@
+2009-08-31T22:29:00.000Z	linuxninja	cdavis	What are you trying to do? I use usb serial cable for cisco devices. works fine for me
+2009-08-31T22:23:00.000Z	linuxninja	cdavis	Use a USB serial adapter.
+2009-08-31T22:24:00.000Z	cdavis	linuxninja	I have had problems with USB serial adapters before. I was hoping to avoid any non-plug and play device
+2009-08-31T22:34:00.000Z	cdavis	linuxninja	I am trying to connect to a 2800 series. Is the device typically /dev/ttyUSB0 ?
+2009-08-31T22:35:00.000Z	cdavis	linuxninja	I got it, thanks
+2009-08-31T22:35:00.000Z	linuxninja	cdavis	Yup! That's it. I think it depends on how many USB devices you have plugged in

@@ -1,0 +1,6 @@
+2008-02-10T19:18:00.000Z	Whisper		i get an error message that i have to little space free on /boot/ when im trying to upgrade
+2008-02-10T19:18:00.000Z	Whisper		what to do=
+2008-02-10T19:18:00.000Z	Whisper		?
+2008-02-10T19:18:00.000Z	Wibble-	Whisper	Remove some un-used kernels from /boot/ ?
+2008-02-10T19:19:00.000Z	Whisper	Wibble-	how do i know wich one i use?
+2008-02-10T19:19:00.000Z	Wibble-	Whisper	You are currently using the kernel described by typing "uname -a" in a terminal window

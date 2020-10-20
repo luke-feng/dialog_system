@@ -1,0 +1,6 @@
+2007-06-12T08:58:00.000Z	ubunt1		hey where i can edit the host
+2007-06-12T08:58:00.000Z	awilcox	ubunt1	what host?
+2007-06-12T08:59:00.000Z	ubunt1	awilcox	host files
+2007-06-12T09:00:00.000Z	awilcox	ubunt1	vim /etc/hosts?
+2007-06-12T09:00:00.000Z	awilcox	ubunt1	nano /etc/hosts ?
+2007-06-12T09:00:00.000Z	ubunt1	awilcox	i change it and again display incorrect

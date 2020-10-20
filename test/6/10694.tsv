@@ -1,0 +1,6 @@
+2012-06-29T02:37:00.000Z	karthee_		Hi I am getting the error ' Could not connect to ceng-lrepo-lp1:80' while trying to install anything. can I get some help on this ?
+2012-06-29T02:38:00.000Z	ActionParsnip	karthee_	do you use a proxy for web access
+2012-06-29T02:39:00.000Z	karthee_	ActionParsnip	No I don't use proxy for web accesss. But the system is in our company and I guess there is an internal mirror
+2012-06-29T02:39:00.000Z	karthee_	ActionParsnip	not sure how to check it
+2012-06-29T02:40:00.000Z	karthee_	ActionParsnip	http://pastebin.com/bwhATbmk
+2012-06-29T02:40:00.000Z	ActionParsnip	karthee_	if you edit /etc/apt/apt.conf   is the proxy listed there. Also if you you run:  echo $http_proxy; echo $ftp_proxy    does it output anythig?

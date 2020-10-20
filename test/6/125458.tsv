@@ -1,0 +1,6 @@
+2007-02-08T08:16:00.000Z	aa_		hi
+2007-02-08T08:16:00.000Z	aa_		hi, which kernel do I want -generic, or -386 ? It is a pentium dual core, and -generic is doing fine. Just the NVidia driver installation recommends needs -386 kernel.
+2007-02-08T08:16:00.000Z	erUSUL	aa_	generic is fine
+2007-02-08T08:17:00.000Z	aa_	erUSUL	but nvidia driver wants to put -386 on here
+2007-05-26T09:08:00.000Z	erUSUL	aa_	udev, you can try to make an udev rule that assigns a permanent name for your device
+2007-05-26T09:08:00.000Z	aa_	erUSUL	Frogzoo great thanks

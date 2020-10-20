@@ -1,0 +1,6 @@
+2011-06-19T03:07:00.000Z	danny		Hey, I think my help thread on ubuntu forums may have died (the guys hasn't responded in a number of hours). Can someone take a look please? the url is ubuntuforums.org/showthread.php?p=10954391#post10954391
+2011-06-19T03:09:00.000Z	danny		Does anyone have time to check out my thread or should I try a different channel?
+2011-06-19T03:10:00.000Z	danny		Pfifo: yes
+2011-06-19T03:10:00.000Z	Diamondcite	danny	You did the modprobe incorrectly
+2011-06-19T03:10:00.000Z	danny	Diamondcite	oh, how do I do it then?
+2011-06-19T03:10:00.000Z	Diamondcite	danny	Try "sudo modprobe rtl8187"

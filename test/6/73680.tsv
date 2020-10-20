@@ -1,0 +1,6 @@
+2010-08-08T08:06:00.000Z	sdondley		i'm using remote desktop viewer. I can move the remote desktop's mouse cursor but clicks and keyboard events don't register
+2010-08-08T08:07:00.000Z	sdondley		"allow others to control your desktop" is checked off
+2010-08-08T08:08:00.000Z	sdondley		it is checked on
+2010-08-08T08:08:00.000Z	sdondley		"checked off" = on
+2010-08-08T08:10:00.000Z	bastid_raZor	sdondley	from what i've read compiz doesn't play very well with vnc/remote desktop viewer. on the remote box turn compiz off by typing in terminal: metacity --replace   :see if this makes any difference.
+2010-08-08T08:12:00.000Z	sdondley	bastid_raZor	thanks, will give it a shot

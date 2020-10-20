@@ -1,0 +1,6 @@
+2010-08-26T05:08:00.000Z	cromag		is there anyway to "trick" ubuntu into NOT care if a screen is attached ?
+2010-08-26T05:08:00.000Z	mneptok	cromag	what do you mean "care?"
+2010-08-26T05:09:00.000Z	cromag	mneptok	i want to be able to unplug the screen and still run x just as normal.
+2010-08-26T05:10:00.000Z	mneptok		!caps | JoeTheGuest
+2010-08-26T05:12:00.000Z	cromag		will that kill the configuration files to ?
+2010-08-26T05:13:00.000Z	cromag	mneptok	did you have a thought or just currious ? :)

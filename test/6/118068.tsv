@@ -1,0 +1,6 @@
+2006-06-12T09:35:00.000Z	Awesome-o2000		how do I get out of the gui? I tried /etc/init.d/gdm stop and it didnt seem to affect anything...
+2006-06-12T09:36:00.000Z	frying_fish	Awesome-o2000	ctrl+alt+f1 will take you to a terminal
+2006-06-12T09:38:00.000Z	frying_fish	Awesome-o2000	are you doing "sudo /etc/init.d/gdm stop"
+2006-06-12T09:38:00.000Z	Awesome-o2000	frying_fish	yes - I am a gentoo user
+2006-06-12T09:39:00.000Z	Awesome-o2000	frying_fish	im trying out the new ubuntu - I seem to have run into a pretty serious issue - I remember this used to be easy but gnome is rather stubborn
+2006-06-12T09:40:00.000Z	frying_fish	Awesome-o2000	right, so what is the problem then, and sudo /etc/init.d/gdm stop (from a console, not an xterm) should be enough to stop gdm

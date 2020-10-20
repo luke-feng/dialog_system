@@ -1,0 +1,6 @@
+2009-02-15T10:41:00.000Z	gotobedsleepyhea		tony_ you need to get one of the cards listed here - http://www.linuxtv.org/wiki/index.php/DVB-T_PCI_Cards
+2009-02-15T10:43:00.000Z	gotobedsleepyhea		not usually
+2009-02-15T10:43:00.000Z	gotobedsleepyhea		i have a nova 500 t that works ok
+2009-02-15T10:44:00.000Z	tony__	gotobedsleepyhea	It shows up in lspci as using the same driver that is supported on the DVB-T200 that is listed on that page...
+2009-02-15T10:44:00.000Z	tony__	gotobedsleepyhea	Kernel driver in use: saa7134
+2009-02-15T10:45:00.000Z	tony__	gotobedsleepyhea	I'm not aware of how to do that...

@@ -1,0 +1,6 @@
+2009-05-05T16:45:00.000Z	rdw200169		you don't need to reboot to fix the mbr, or anything like that.  the trick, is to know what device you want to put it on.  for example, when you run the live cd, the HDD is given a name which may not not be the same as the one it is during the normal boot.  things get tricky here, but not too bad.
+2009-05-05T16:46:00.000Z	rdw200169		so, for example, if your regular hdd is called /dev/sda in the live cd, you would run $ grub-install /dev/sda
+2009-05-05T16:46:00.000Z	advance	rdw200169	 Nah no you wouldn't
+2009-05-05T16:46:00.000Z	rdw200169		or, on the other hand, if its /dev/sdb or /dev/hda or whatever, the $ grub-install still works.  the key is that you can use /dev/ names instead of the name from the device map, which makes things quite a bit easier in the long run
+2009-05-05T16:48:00.000Z	advance	rdw200169	 Dude you have to specify what partition on what hardrive it is on once in the GRUB menu http://apcmag.com/how_to_dualboot_vista_with_linux_linux_is_already_installed.htm?page=6
+2009-05-05T16:51:00.000Z	rdw200169	advance	i'm referring to this: http://www.gnu.org/software/grub/manual/html_node/Installing-GRUB-using-grub_002dinstall.html

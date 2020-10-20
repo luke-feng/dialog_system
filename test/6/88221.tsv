@@ -1,0 +1,6 @@
+2009-05-02T18:32:00.000Z	chocobanana		does anyone have any idea why does Jaunty load Gnome with blurry fonts with compiz enabled? The only workaround I found is temporary and it involves turning off desktop effects and re-enabling right after. The problem is that this fix won't survive a reboot. Any clues?
+2009-05-02T18:33:00.000Z	ripps	chocobanana	maybe you have the blur plugin enabled? Look around compizconfig-settings-manager
+2009-05-02T18:34:00.000Z	ripps		!who | Binarycortex
+2009-05-02T18:34:00.000Z	chocobanana	ripps	the blur plugin is turned off. If I turn off desktop effects and turn back on then it displays fonts as it should.
+2009-05-02T18:34:00.000Z	chocobanana	ripps	without changing anything in compiz settings
+2009-05-02T18:35:00.000Z	ripps	chocobanana	your's is new to me, try filing a bug report on it.

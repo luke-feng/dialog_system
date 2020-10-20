@@ -1,0 +1,6 @@
+2011-11-08T21:59:00.000Z	LucaBiolcati		how can you open a file.o??
+2011-11-08T21:59:00.000Z	phlak_user	LucaBiolcati	its an object file its one step before an executable
+2011-11-08T22:01:00.000Z	LucaBiolcati		with gcc can I go from file.o to an executable?
+2011-11-08T22:01:00.000Z	phlak_user	LucaBiolcati	yes
+2011-11-08T22:02:00.000Z	LucaBiolcati	phlak_user	How?
+2011-11-08T22:03:00.000Z	phlak_user	LucaBiolcati	look here -> http://pages.cs.wisc.edu/~beechung/ref/gcc-intro.html

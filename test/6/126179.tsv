@@ -1,0 +1,6 @@
+2006-04-20T15:40:00.000Z	beta_m		anybody?... where is %PATH% set during the startup ?
+2006-04-20T10:57:00.000Z	beta_m		i want to change PATH variable for every user on the computer, not just to the current one. How do i do that, i have already tried to add it to the /etc/profiles, but that didn't do the trick
+2006-04-20T10:58:00.000Z	slavik	beta_m	in etc/profiles is the way to do it ... I wouldn't suggest changing it completely though
+2006-04-20T10:59:00.000Z	slavik	beta_m	how did you add it?
+2006-04-20T11:01:00.000Z	slavik	beta_m	dunno then, sorry
+2006-04-20T11:02:00.000Z	slavik	beta_m	yes

@@ -1,0 +1,6 @@
+2008-07-31T02:40:00.000Z	ubuntu_live		is ntfs-3g's write support still considered experimental? (i mean i'm not banking anything mission critical on it...)
+2008-07-31T02:40:00.000Z	serkan`c	ubuntu_live	it is pretty stable
+2008-07-31T02:41:00.000Z	ubuntu_live	serkan`c	thanks, do you know if there's a "preferred" way of enabling it in the livecd? I need to back some data up before i reformat
+2008-07-31T02:42:00.000Z	serkan`c	ubuntu_live	imho you can install ntfs-3g via live cd
+2008-07-31T02:42:00.000Z	ubuntu_live	serkan`c	i believe ntfs-3g is installed by default, but write support is disabled by default
+2008-07-31T02:43:00.000Z	serkan`c	ubuntu_live	than just shoot the ntfs-config and give the support :)

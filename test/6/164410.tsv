@@ -1,0 +1,6 @@
+2005-01-26T14:56:00.000Z	tritium		Has anyone tried enabling suspend to RAM or disk with a Dell C840 yet?
+2005-01-26T14:57:00.000Z	Tomcat_	tritium	Check the PMTesting Wikipage
+2005-01-26T14:58:00.000Z	tritium	Tomcat_	I did.  Nobody's reported so yet.
+2005-01-26T14:58:00.000Z	Tomcat_	tritium	It contains a Warty kernel + some better ACPI scripts to make suspend to ram and disk possible... not sure if it works on the Dell C840 though.
+2005-01-26T14:58:00.000Z	Tomcat_		Ah... okay.
+2005-01-26T14:58:00.000Z	tritium	Tomcat_	mjg59 posted this yesterday: http://www.ubuntulinux.org/wiki/HoaryPM

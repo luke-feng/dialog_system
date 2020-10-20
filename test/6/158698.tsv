@@ -1,0 +1,6 @@
+2006-12-12T09:23:00.000Z	burnhamd		can someone tell me how to get nvidia drivers that will let me play unreal tournment 2004 with my gefore 6600
+2006-12-12T09:25:00.000Z	burnhamd		thankya
+2006-12-12T09:27:00.000Z	burnhamd		ok so how do i add repositories to apt-get from the comand line again?
+2006-12-12T09:27:00.000Z	FunnyLookinHat	burnhamd	you add them by editing the file /etc/apt/sources.list
+2006-12-12T09:28:00.000Z	FunnyLookinHat	burnhamd	sudo gedit /etc/apt/sources.list
+2006-12-12T09:28:00.000Z	FunnyLookinHat	burnhamd	you could use pico as well

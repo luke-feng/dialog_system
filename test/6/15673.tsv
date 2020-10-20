@@ -1,0 +1,6 @@
+2011-05-02T17:46:00.000Z	m4k		I have my SVN server in windows server and the network runs on DHCP how I can checkout with pc name .... ubuntu is not able to connect with PC name
+2011-05-02T17:47:00.000Z	GeorgeJ	m4k	I think you need samba to resolve windows machine names
+2011-05-02T17:47:00.000Z	GeorgeJ	m4k	Do you have connectivity with the machine, does ping work?
+2011-05-02T17:47:00.000Z	m4k	GeorgeJ	i can ping with ip but not machine name
+2011-05-02T17:48:00.000Z	GeorgeJ	m4k	Either add a line in /etc/hosts to add an allias to that machine as ActionParsnip suggested or isntall samba.
+2011-05-02T17:50:00.000Z	GeorgeJ	m4k	See http://www.samba.org/samba/docs/man/manpages-3/nmbd.8.html

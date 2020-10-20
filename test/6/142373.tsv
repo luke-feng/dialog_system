@@ -1,0 +1,6 @@
+2006-11-08T08:33:00.000Z	bossjock77		I'm sure it's a resolution problem of some kind... can I change the default resolution at the command line?
+2006-11-08T08:34:00.000Z	gyaresu	bossjock77	you can. /etc/X11/xorg.conf (be sure to backup first)
+2006-11-08T08:41:00.000Z	gyaresu	bossjock77	cool commands: man, locate (updatedb), apropos
+2006-11-08T08:47:00.000Z	gyaresu	bossjock77	nvidia card with two digital outs?
+2006-11-08T08:52:00.000Z	gyaresu	bossjock77	'sudo vi /etc/X11/xorg.conf'
+2006-11-08T08:52:00.000Z	gyaresu	bossjock77	backup first.

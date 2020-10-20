@@ -1,0 +1,6 @@
+2008-01-19T05:43:00.000Z	^pipe^		hi there
+2008-01-19T05:44:00.000Z	^pipe^		i'm having an error trying to open vlc, can anybody help me?
+2008-01-19T05:44:00.000Z	h1st0	^pipe^	how did you install it?
+2008-01-19T05:45:00.000Z	h1st0	^pipe^	update the system to get the new xorg
+2008-01-19T05:45:00.000Z	h1st0	^pipe^	and how did you install vlc?
+2008-01-19T05:46:00.000Z	h1st0	^pipe^	there was a bug in xorg packages earlier that ruined some java apps

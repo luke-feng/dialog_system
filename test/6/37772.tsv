@@ -1,0 +1,6 @@
+2010-02-01T07:49:00.000Z	Roasted		Found on the forum how to install 3.6. Installed the ppa. upgraded. closed firefox. opened it. help - about firefox - 3.5.7. LOL?
+2010-02-01T07:50:00.000Z	Roasted		Is there an official PPA for 3.6 so I can stop using these BS suggestions Im finding on random sites?
+2010-02-01T07:51:00.000Z	Ganymede	Roasted	there's the mozilla daily PPA but it's not truly the released package for ff 3.6.0
+2010-02-01T07:51:00.000Z	Roasted	Ganymede	well, I kind of want 3.6...
+2010-02-01T07:52:00.000Z	Roasted		GAHHHHHHHHHHHHHh
+2010-02-01T07:52:00.000Z	Ganymede	Roasted	i don't think you'll find a PPA for it...what i did was just download the tarball for mozilla's official site and untar it into your homedir, but then it's no longer handled by the package manager and i couldn't get flash to work with it...but it's the best you can do since the only PPA i know of is daily builds

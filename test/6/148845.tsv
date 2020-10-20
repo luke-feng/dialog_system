@@ -1,0 +1,6 @@
+2006-11-26T14:17:00.000Z	kyawzin		Can anybody help me with MAC address hardcoding?
+2006-11-26T14:18:00.000Z	kyawzin		I can change the MAC address by running " ifconfig eth0 hw ether 01:02:03:04:05:06" like that
+2006-11-26T14:18:00.000Z	kyawzin		but
+2006-11-26T14:18:00.000Z	kyawzin		I got to run that command everytime after I boot the system
+2006-11-26T14:19:00.000Z	kyawzin		I want to hardcoded the change in MAC address so that I don't need to run the command every time
+2006-11-26T14:19:00.000Z	Kingsqueak	kyawzin	you understand that doing that may cause you trouble right?  aside from that /etc/network/interfaces should take 'ether' as an argument, check 'man interfaces'

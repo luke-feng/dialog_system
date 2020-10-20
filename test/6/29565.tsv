@@ -1,0 +1,6 @@
+2009-10-24T03:52:00.000Z	X7		which cd on the website is the live-cd the alternate cd??
+2009-10-24T03:53:00.000Z	X7		!livecd
+2009-10-24T03:54:00.000Z	X7		whats the command to find info on a dvd/cd-drive in linux?
+2009-10-24T03:54:00.000Z	X7		lspci doesn't show it
+2009-10-24T03:55:00.000Z	bastid_raZor	X7	sudo lshw | grep CD
+2009-10-24T03:55:00.000Z	X7	bastid_raZor	thanks

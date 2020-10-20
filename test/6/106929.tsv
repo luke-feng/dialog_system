@@ -1,0 +1,6 @@
+2006-09-22T14:43:00.000Z	Lynoure		sorry, not going to dig for it anymore... bit bored now
+2006-09-22T14:44:00.000Z	botxj	Lynoure	you lazy son of a gun
+2006-09-22T14:47:00.000Z	Lynoure	botxj	sounds like an error in the xfree config but that you knew already I bet
+2006-09-22T14:47:00.000Z	Lynoure	botxj	check the log, what's there?
+2006-09-22T14:49:00.000Z	botxj	Lynoure	 where do they keep the logs?
+2006-09-22T14:50:00.000Z	Lynoure	botxj	/var/log/Xorg*

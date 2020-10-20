@@ -1,0 +1,6 @@
+2010-09-13T19:41:00.000Z	hcook		howdy
+2010-09-13T19:41:00.000Z	hcook		In 9.10 I used to have a section in Compiz Settings Manager called (I think) "Deform Cube" that let me make the cube into a cylinder and do reflections and things like that. On this new 10.04 box I don't see it...is that a separate package? Or did those options get moved to a different section?
+2010-09-13T19:42:00.000Z	Paddy_NI	hcook	its in the compiz plugins extras package
+2010-09-13T19:43:00.000Z	Paddy_NI	hcook	package name is "compiz-fusion-plugins-extra"
+2010-09-13T19:52:00.000Z	hcook	Paddy_NI	cool thanks
+2010-09-13T19:54:00.000Z	Paddy_NI	hcook	no probs

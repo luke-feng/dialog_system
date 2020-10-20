@@ -1,0 +1,6 @@
+2007-12-18T22:29:00.000Z	mgim		No change
+2007-12-18T22:30:00.000Z	mgim		Interestingly, when I boot up it doesn't seem to be taking my xorg.conf settings
+2007-12-18T22:30:00.000Z	mgim		I got the default VESA driver and a plug and play.. looks like some failsafes
+2007-12-18T22:31:00.000Z	Baltazaar	mgim	 then delete the defult profiles. Have only une Xorg.conf
+2007-12-18T22:32:00.000Z	mgim	Baltazaar	there is just one xorg.conf..
+2007-12-18T22:34:00.000Z	Baltazaar	mgim	 try man Xorg.conf

@@ -1,0 +1,6 @@
+2006-06-11T09:10:00.000Z	burepe2		Is there someway to search channel history or history of a chat with one person?
+2006-06-11T09:11:00.000Z	burepe2		This guy told me a package I need and I got dropped from the channel and now he's gone
+2006-06-11T09:11:00.000Z	gavagai	burepe2	depends on your IRC client
+2006-06-11T09:11:00.000Z	gavagai	burepe2	mine can do:  /lastlog keyword
+2006-06-11T09:11:00.000Z	gavagai	burepe2	it's all on your end, you can't query the server for that
+2006-06-11T09:13:00.000Z	gavagai	burepe2	you can set up your irc client to log everything if you want, and delete the logs after X number of days

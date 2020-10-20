@@ -1,0 +1,6 @@
+2007-01-15T16:43:00.000Z	Math^		hello, is there some way to making a link to a ftp with name+passwd using lftp?
+2007-01-15T16:44:00.000Z	adaptr	Math^	by "link", do you mean a permanent one ?
+2007-01-15T16:45:00.000Z	Math^	adaptr	I mean, when i type in console something like: ftp.site.com I dont have to type a name and passwd everytime
+2007-01-15T16:46:00.000Z	adaptr	Math^	I would advise you to use SSH for remote connections, as that is much more secure.. SSH comes with a secure copy program (scp) that works just like normal copy
+2007-01-15T16:46:00.000Z	adaptr	Math^	there are several ways to avoid having to enter authentication data with SSH
+2007-01-15T16:47:00.000Z	adaptr	Math^	and you want to do that remotely ? then you need SSH

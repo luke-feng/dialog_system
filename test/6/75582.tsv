@@ -1,0 +1,6 @@
+2007-11-17T00:18:00.000Z	zkjellberg		Hello, simple question: Is there a way to force .txt files to open with Text Editor instead of having the prompt to choose?
+2007-11-17T00:18:00.000Z	stefano	zkjellberg	this should be in the nautilus preferences
+2007-11-17T00:19:00.000Z	zkjellberg	stefano	How would I access such?
+2007-11-17T00:19:00.000Z	stefano	zkjellberg	open up nautilus and go to "edit" -> "preferences" (or something like that) i cant tell you exactly where the setting is, because i have a localized version
+2007-11-17T00:21:00.000Z	zkjellberg	stefano	That worked, thankyou.
+2007-11-17T00:21:00.000Z	stefano	zkjellberg	it's under nautilus > edit > preferences > behaviour > executable text files > view executalbe text files when they are opened

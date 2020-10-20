@@ -1,0 +1,6 @@
+2009-10-09T02:13:00.000Z	fccf	O__o	have you gone to system>preferences>sound and selected the device as your recording and conferenceing sound device?
+2009-10-09T02:14:00.000Z	O__o	fccf	?
+2009-10-09T02:14:00.000Z	O__o	fccf	sound capture = ALSA
+2009-10-09T02:16:00.000Z	fccf	O__o	sound capture = ALSA will use the default from your sound card ... you need to figure out the hardware device ... also check in Volume Control and go to the file menu and do Change Device and see if you see the logitech in there
+2009-10-09T02:17:00.000Z	O__o	fccf	???
+2009-10-09T02:19:00.000Z	fccf	O__o	I cannot help you if you cannot follow directions

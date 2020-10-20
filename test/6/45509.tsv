@@ -1,0 +1,6 @@
+2010-09-28T15:19:00.000Z	pLr	mungustas	forget about screen for now, what do u want to do?
+2010-09-28T15:24:00.000Z	pLr	mungustas	you can also try ssh server apt-get install pkg \| tee -a filename, you would see the output from the client
+2010-09-28T15:25:00.000Z	pLr	mungustas	but catching error codes is tricky you should read about it
+2010-09-28T15:25:00.000Z	pLr	mungustas	looks like &2>3 or something
+2010-09-28T15:30:00.000Z	pLr	mungustas	thats good, but put || echo "OMG its so bad" > /var/log/howit..
+2010-09-28T15:31:00.000Z	mungustas	pLr	have a version of how to encapsulate this stuff in screen ? :)

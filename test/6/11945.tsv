@@ -1,0 +1,6 @@
+2011-07-12T04:56:00.000Z	Osmodivs		Hello. Why even after i deleted a program in Ubuntu Software Center or Synaptic, there are still folders of that program in /home/.program?
+2011-07-12T04:57:00.000Z	Osmodivs		Some of them are 150MB+
+2011-07-12T04:57:00.000Z	Daekdroom	Osmodivs	because Ubuntu Software Center and Synaptic don't purge programs by default.
+2011-07-12T04:59:00.000Z	Osmodivs	Daekdroom	So, What should I do?
+2011-07-12T04:59:00.000Z	Daekdroom	Osmodivs	delete those folders manually.
+2011-07-12T05:00:00.000Z	Osmodivs	Daekdroom	Ok, thx

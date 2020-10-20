@@ -1,0 +1,6 @@
+2012-09-14T04:43:00.000Z	Troy^		is there a openssh setting to allow external connections?
+2012-09-14T04:43:00.000Z	wifioregon	Troy^	 You have to port forward if you have a router to do it
+2012-09-14T04:44:00.000Z	wifioregon	Troy^	 Go into your router settings and set up forwarding for port 22
+2012-09-14T04:44:00.000Z	Troy^	wifioregon	yea it's down but i can't seem to use my own external ip address to connect to it.. and i'm not using port 22
+2012-09-14T04:44:00.000Z	Troy^	wifioregon	yes it's forwarded
+2012-09-14T04:44:00.000Z	wifioregon	Troy^	 When you scan your external IP with nmap, does it show the SSH port as open?

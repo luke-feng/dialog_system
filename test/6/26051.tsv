@@ -1,0 +1,6 @@
+2010-04-04T17:40:00.000Z	geekyogi		I'm looking for .WMV file player
+2010-04-04T17:41:00.000Z	brontosaurusrex	geekyogi	anything mplayer based should play some of those
+2010-04-04T17:41:00.000Z	geekyogi	brontosaurusrex	nope.. Mplayer, VLC, Gnome player, xine, Real player.. tried all
+2010-04-04T17:42:00.000Z	brontosaurusrex	geekyogi	then it may be some DRMed file
+2010-04-04T17:43:00.000Z	geekyogi	brontosaurusrex	nope.. its not able to play any wmv file..
+2010-04-04T18:02:00.000Z	brontosaurusrex	geekyogi	linux video converters will fail if a. weird codec or b. drm, so your best luck would be to try to convert on some windows box

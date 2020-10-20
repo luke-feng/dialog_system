@@ -1,0 +1,6 @@
+2009-05-20T01:09:00.000Z	system404		anyone know how to unban urself from a channel
+2009-05-20T01:10:00.000Z	LjL	system404	ask in #freenode or in #ubuntu-irc if it's an ubuntu channel
+2009-05-20T02:57:00.000Z	LjL	system404	you cannot simply "hide your IP", you need something that proxies you through another connection to achieve that. Tor is a possibility.
+2009-05-20T02:58:00.000Z	system404	LjL	howd do i go about setting that up
+2009-05-20T02:58:00.000Z	LjL	system404	https://help.ubuntu.com/community/TOR
+2009-05-20T02:58:00.000Z	LjL	system404	but keep in mind this sort of thing will intrinsically risk resulting in slowing down your connection.

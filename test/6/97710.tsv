@@ -1,0 +1,6 @@
+2007-03-25T08:32:00.000Z	StanRex		(back)
+2007-03-25T08:32:00.000Z	StanRex		apparently, feisty has a better support of raid0 than edgy
+2007-03-25T08:32:00.000Z	StanRex		would it be suicide for someone who never installed linux to try to install the feisty beta?
+2007-03-25T08:33:00.000Z	xtknight	StanRex	hardly, its' not like it's a volatile chemical substance
+2007-03-25T08:33:00.000Z	xtknight	StanRex	but the responsibility is with you ultimately
+2007-03-25T08:34:00.000Z	xtknight	StanRex	well there was a bug in the partition manager a while ago where it wiped every partition on your system, but that has long been fixed.  i dont think that was feisty anyway but that's the most serious bug ive ever heard

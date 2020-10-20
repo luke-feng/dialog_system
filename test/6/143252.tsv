@@ -1,0 +1,6 @@
+2006-08-12T13:57:00.000Z	wweasel		I'm having a very odd problem.  GRUB has started taking forever to load, and then Splashy doesn't load, and linux pauses for about 45 seconds at certain points in the startup.  This happens only the first time I start up my computer, not if I reboot, which sounds insane but is true.  Anyone?
+2006-08-12T13:58:00.000Z	Dabian	wweasel	are you sure?  Forever is actually quite a long time ...
+2006-08-12T13:58:00.000Z	wweasel	Dabian	By forever, I mean bootup is taking approx 4 minutes whereas it used to take 30 seconds.
+2006-08-12T13:58:00.000Z	Dabian	wweasel	Oh!  Thats *FAR* from forever ... forever is like .. well, forever, you know?
+2006-08-12T13:59:00.000Z	Dabian	wweasel	but we're getting off topic now .. thanks for specifying.
+2006-08-12T14:00:00.000Z	Dabian	wweasel	if you have a stetoscope ... you can listen to the harddrive while you boot.

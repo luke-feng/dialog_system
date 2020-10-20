@@ -1,0 +1,6 @@
+2011-09-11T20:22:00.000Z	w30	scarleo	I just saw a comment that EFI boot systems have a problem with usb stick booting. Have you got a EFI or a bios boot?
+2011-09-11T20:23:00.000Z	scarleo	w30	Bios. I heard something about sectors and not makeing the partition start at sector (or block) 1. Is that true and is there any ionformation about that?
+2011-09-11T20:24:00.000Z	w30	scarleo	I cannot enlighten you any more as to what to do, sorry
+2011-09-11T20:27:00.000Z	w30	scarleo	I have used usb-creator to make flash drives bootable with Ubuntu iso's
+2011-09-11T20:28:00.000Z	scarleo	w30	I'll try that as well
+2011-09-11T20:30:00.000Z	w30	scarleo	advantage is that you can dedicate 4 gig to config persistance across reboots

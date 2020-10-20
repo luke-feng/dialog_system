@@ -1,0 +1,6 @@
+2005-04-23T07:39:00.000Z	joemo12		can someone help me correctly setup my hitachi 753 refresh rates, i need help step by step
+2005-04-23T07:40:00.000Z	joemo12		so none if you know how to change refresh rates? :(
+2005-04-23T07:40:00.000Z	Jimbob	joemo12	System->Preferences->Screen Resolution
+2005-04-23T07:41:00.000Z	Jimbob	joemo12	Go find the specs (horizontal and vertical refresh rates) for the monitor, then run "sudo dpkg-reconfigure xserver-xorg"
+2005-04-23T07:42:00.000Z	Jimbob	joemo12	Then log out and hit "CTRL+ALT+Backspace" from the login screen.
+2005-04-23T07:42:00.000Z	Jimbob	joemo12	When it asks you for the monitor config style, select 'advanced'

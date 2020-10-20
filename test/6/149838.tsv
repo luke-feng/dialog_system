@@ -1,0 +1,6 @@
+2008-08-03T08:09:00.000Z	mi1		any help
+2008-08-03T08:10:00.000Z	nickrud	mi1	get the driver from fs-driver.org
+2008-08-03T08:10:00.000Z	nickrud	mi1	yes, ubuntu uses a different file system than windows. You need to add the driver for it to XP
+2008-08-03T08:12:00.000Z	nickrud	mi1	yes, it does matter. Windows simply can't read the linux filesystem without an extra driver
+2008-08-03T08:16:00.000Z	nickrud	mi1	yes. You should read that page completely, so you know it's limitations. Me, I generally only read from ntfs in linux, and from ext in windows. Try never to write to either from either
+2008-08-03T08:17:00.000Z	nickrud	mi1	its much safer now than it used to be, I'm just very conservative

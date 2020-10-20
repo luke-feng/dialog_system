@@ -1,0 +1,6 @@
+2012-03-18T15:41:00.000Z	Onkeltem		Hi all. I want to create multiboot USB pendrive. What would you recommend for that? I'm on Ubuntu. I want to create a USB pendrive with different operating systems, tools, tests etc
+2012-03-18T15:42:00.000Z	apple_cat	Onkeltem	I'm not sure, but I think Grub (the bootloader) would work for selecting the different boot options
+2012-03-18T15:45:00.000Z	Onkeltem	apple_cat	well, I'm sure there is some ready-to-use solutions
+2012-03-18T15:51:00.000Z	apple_cat	Onkeltem	Might be a bit advanced, but this does look cool http://www.panticz.de/MultiBootUSB
+2012-03-18T16:04:00.000Z	Onkeltem	apple_cat	looks good!
+2012-03-18T16:04:00.000Z	Onkeltem	apple_cat	thanks )

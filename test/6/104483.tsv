@@ -1,0 +1,6 @@
+2006-10-31T11:31:00.000Z	ianmacgregor		/dev/hdb1       /mnt/hdb1               ext3    defaults,errors=remount-ro 0       2
+2006-10-31T10:59:00.000Z	ianmacgregor		Sometimes I reboot and a disk check is run on both of my drives. How can I run that check manually?
+2006-10-31T10:59:00.000Z	teledyn	ianmacgregor	what filesystem?
+2006-10-31T11:00:00.000Z	ianmacgregor	teledyn	ext3
+2006-10-31T11:00:00.000Z	teledyn	ianmacgregor	fsck.ext3  or ext3fsck
+2006-11-03T11:07:00.000Z	teledyn	ianmacgregor	i guessed that much.  still, i'm not sure which specific package

@@ -1,0 +1,6 @@
+2009-05-06T07:25:00.000Z	CmdPrmtMdnss		hey all i have a question...if someone could help that would be great
+2009-05-06T07:26:00.000Z	CmdPrmtMdnss		i split a 6gb file using the split command....now when i try to rejoin using the cat command I get an error at 4gb saying file too large
+2009-05-06T07:27:00.000Z	Dr_Willis	CmdPrmtMdnss	 you tryint to join them on a fat32 parittion/filesystem?
+2009-05-06T07:27:00.000Z	Dr_Willis	CmdPrmtMdnss	 i though fat32 had a limit on filesized
+2009-05-06T07:28:00.000Z	Dr_Willis	CmdPrmtMdnss	 at least I think fat32 has a 4gb limit.
+2009-05-06T07:29:00.000Z	Dr_Willis	CmdPrmtMdnss	 there ya go.. cant make a file larger then  4gb

@@ -1,0 +1,6 @@
+2008-06-02T09:32:00.000Z	janice8954		c"could not resolve 'us.archive.ubuntu.com'
+2008-06-02T09:32:00.000Z	janice8954		err http:/us.archive.ubuntu.com'
+2008-06-02T09:32:00.000Z	janice8954		failed to fetchy http://us.archiine.ubuntu.com/ubuntu/pool/main/f/fast-user-switch-applet/fast-user-sweitch-applet_2.22.0-0ubuntu2_i286.deb could not resolve us.archive.ubuntu.com'
+2008-06-02T09:32:00.000Z	janice8954		falied to fetch (another long url)
+2008-06-02T09:32:00.000Z	janice8954		E: Unable to fetch some archives, maybe run apt-get update or try --fix-missing?
+2008-06-02T09:32:00.000Z	FloodBot3	janice8954	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

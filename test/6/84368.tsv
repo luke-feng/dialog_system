@@ -1,0 +1,6 @@
+2007-07-05T15:13:00.000Z	LunatikBunnie		hay guys.
+2007-07-05T15:14:00.000Z	LunatikBunnie		i've just installed ubuntu, do i need to do anything post-install?
+2007-07-05T15:15:00.000Z	varka	LunatikBunnie	updates and then maybe something mentioned here http://ubuntuguide.org/wiki/Ubuntu:Feisty
+2007-07-05T15:15:00.000Z	varka	LunatikBunnie	you have to install vmware-tools
+2007-07-05T15:16:00.000Z	LunatikBunnie	varka	: i'm still updating my ubuntu, there's this guide i'm following that tells me to get vmware-player AFTER i finish the update and uninstalling VMWare.
+2007-07-05T15:26:00.000Z	varka	LunatikBunnie	there is no 3d acceleration if running a guest in vmWARE

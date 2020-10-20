@@ -1,0 +1,6 @@
+2006-11-02T06:17:00.000Z	karl		hi, I just dist-upgraded from dapper to edgy, it all looked good, nice new fonts, everything still worked, then I rebooted.  Now my x server is broken, as well as my wireless.  apt-get dist-upgrade again just says that a bunc of packages have been "held back" included xserver-xorg-core. any ideas?
+2006-11-02T06:17:00.000Z	v3l0ct	karl	manually install xserver-xorg
+2006-11-02T06:18:00.000Z	karl	v3l0ct	pardon?
+2006-11-02T06:20:00.000Z	karl	v3l0ct	oh, gotcha, apt-get install xserver-xorg-core works by itself.
+2006-11-02T06:20:00.000Z	v3l0ct	karl	:)
+2006-11-02T06:21:00.000Z	v3l0ct	karl	also follow LJL's suggestion

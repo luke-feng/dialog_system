@@ -1,0 +1,6 @@
+2009-06-13T17:52:00.000Z	ewsubach		can anyone tell me why I get no output on this?: echo "abbbcdefg" | grep "[b]+"
+2009-06-13T17:53:00.000Z	waltzingalong	ewsubach	because the string [b]+ is not found in the string abbbcdefg
+2009-06-13T17:54:00.000Z	ewsubach	waltzingalong	it's a regular expression
+2009-06-13T17:54:00.000Z	waltzingalong	ewsubach	does grep know that?
+2009-06-13T17:55:00.000Z	waltzingalong	ewsubach	man grep. there you need -E to specify by extended regex
+2009-06-13T17:56:00.000Z	ewsubach	waltzingalong	how is + an extended operator? * works fine

@@ -1,0 +1,6 @@
+2009-12-19T08:36:00.000Z	pspfreak		hey guys, whenever I install ubuntu, the login manager seems to not work. I checked the intigrity of the disk also. It has happened every single install, even trying 3 cds
+2009-12-19T08:37:00.000Z	dragon	pspfreak	what do you mean by "not work"?
+2009-12-19T08:38:00.000Z	dragon	pspfreak	Are you able to switch the vt? Ctrl+Alt+F1
+2009-12-19T08:39:00.000Z	dragon	pspfreak	there's no unlock on login screen.
+2009-12-19T08:40:00.000Z	dragon	pspfreak	there's an auto-login option
+2009-12-19T08:41:00.000Z	dragon	pspfreak	it should show an unlock dialog box. If it doesn't discuss it in #ubuntu-bugs and then file a bug.

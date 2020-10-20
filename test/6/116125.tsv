@@ -1,0 +1,6 @@
+2007-06-23T05:56:00.000Z	Shadou		my computer doesnt come up to the Ubuntu Login screen how do i login?
+2007-06-23T05:56:00.000Z	Shadou		i can get to a console
+2007-06-23T05:57:00.000Z	Pelo	Shadou	 sudo dpkg-reconfigure xserver-xorg , should reset the stuff that autostarts X
+2007-06-23T05:57:00.000Z	Pelo	Shadou	 no garanty
+2007-06-23T06:04:00.000Z	Pelo	Shadou	 reinstall ubuntu
+2007-06-23T06:04:00.000Z	Pelo	Shadou	try the forum

@@ -1,0 +1,6 @@
+2010-06-27T00:14:00.000Z	hareldvd		Can I take a snapshot of the desktop when I point to a system menu item?
+2010-06-27T00:15:00.000Z	Dr_Willis	hareldvd	  I think ive seen it done with some tools that have a 'delay setting' that can wait a few sec then take a snap shot.  but i cant recall the name of the tools.
+2010-07-14T23:46:00.000Z	Dr_Willis	hareldvd	 depends on how far down the list windows is.. Or you can use the 'saved' feature of grub2 and select windows  by 'name'
+2010-07-14T23:47:00.000Z	Dr_Willis	hareldvd	 see http://ubuntuforums.org/showthread.php?t=1195275
+2010-07-14T23:48:00.000Z	Dr_Willis	hareldvd	 look at where it mentions --> GRUB_DEFAULT=saved
+2010-07-14T23:58:00.000Z	hareldvd	Dr_Willis	 ActionParsnip, Terrible delay, Seems that after that many kernel upgrades (3) the list of OSs stabilizes to 3x2 kernels. Can I count on that?

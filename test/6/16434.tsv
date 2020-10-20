@@ -1,0 +1,6 @@
+2010-10-06T04:13:00.000Z	uLinux		when i type "fdisk -l" it shows nothing
+2010-10-06T04:13:00.000Z	itmustbejj_	uLinux	same here
+2010-10-06T04:14:00.000Z	uLinux	itmustbejj_	try with sudo
+2010-10-06T04:14:00.000Z	uLinux	itmustbejj_	sudo fdisk -l workds
+2010-10-06T04:15:00.000Z	itmustbejj_	uLinux	I don't even think my sd reader is being detected, I only have sd1,2, and 5 whether or not the reader is plugged in
+2010-10-06T04:16:00.000Z	uLinux	itmustbejj_	 ok dunno

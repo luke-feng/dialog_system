@@ -1,0 +1,6 @@
+2012-05-07T03:56:00.000Z	`prixon		how come sometimes there are "leftovers" and sometimes there aren't?
+2012-05-07T03:58:00.000Z	`prixon		Gparted = unintelligent?
+2012-05-07T03:58:00.000Z	`prixon		oh
+2012-05-07T03:59:00.000Z	`prixon		if I intend on creating a / filesystem partition and a home partition, do they both exist in an extended partition?
+2012-05-07T04:00:00.000Z	todd_	`prixon	/boot can not be in an extended partition does that help?
+2012-05-07T04:02:00.000Z	`prixon	todd_	sorry, it doesn't help

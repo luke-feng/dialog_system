@@ -1,0 +1,6 @@
+2010-11-14T17:21:00.000Z	anna-karin		How do I set wine to 256 colors?
+2010-11-14T17:21:00.000Z	anna-karin		The program that I'm trying to run is complaining that it's more then 256 colors
+2010-11-14T17:22:00.000Z	Dr_Willis	anna-karin	 perhaps via the winecfg tool.
+2010-11-14T17:22:00.000Z	anna-karin	Dr_Willis	yeah, but I can't find it...
+2010-11-14T17:22:00.000Z	anna-karin		The setting that is
+2010-11-14T17:22:00.000Z	Dr_Willis	anna-karin	 check teh wine app database, and the #winehq channel perhaps

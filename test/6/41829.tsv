@@ -1,0 +1,6 @@
+2009-10-15T10:23:00.000Z	ekontsevoy		Hm... this is new to me: when I hit ctrl+alt+F2 I get into a fancy screen session instead of a plain shell. Where is this configured?
+2009-10-15T10:23:00.000Z	ekontsevoy		(I'm on Karmic)
+2009-10-15T10:24:00.000Z	ZykoticK9	ekontsevoy	ctrl+alt and F1-F12 will take you to the virtual consoles: F7 is usually where X starts - this way you can actually have multiple X sessions running at once as well as the multiple text console F1-F6 -- have fun!
+2009-10-15T10:25:00.000Z	ekontsevoy	ZykoticK9	Thank you, I am quite familiar with consoles, I am just surprised to see screen there. I don't want it, because I run screen via ssh on my servers, and screen inside of screen is painful, so I am looking how to turn this off.
+2009-10-15T10:25:00.000Z	ekontsevoy	ZykoticK9	in other words I want plain consoles by default as before (I have upgraded from 8.04)
+2009-10-15T10:26:00.000Z	ZykoticK9	ekontsevoy	in that case just exit the screen session :) - but i don't know how it works in Karmic - so you might wanna checkout #ubuntu+1

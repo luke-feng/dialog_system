@@ -1,0 +1,6 @@
+2010-02-18T00:50:00.000Z	ciscbrain		I've mapped caps to control using xmodmap ctrl:nocaps, but Control+Shift+Tab doesn't work
+2010-02-18T00:50:00.000Z	ciscbrain		works on the real control, but not using CapsLoock
+2010-02-18T00:51:00.000Z	ciscbrain		is there another way to remap caps to control without using xmodmap?
+2010-02-18T00:52:00.000Z	llutz	ciscbrain	setxkbmap -option ctrl:nocaps
+2010-02-18T00:52:00.000Z	ciscbrain	llutz	yes, I've done that; but the "previous tab" shorcut doesn't work with CapsLock, only with "real" Control keys
+2010-02-18T00:54:00.000Z	ciscbrain	llutz	I suppose not

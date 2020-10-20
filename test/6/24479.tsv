@@ -1,0 +1,6 @@
+2011-01-29T23:09:00.000Z	sweet		is that possible to create server and client in one machine using shell script..
+2011-01-29T23:11:00.000Z	sweet		no one
+2011-01-29T23:13:00.000Z	sweet		telnet is good command for connecting local host...is that any software in ubuntu like vnc viewer in window
+2011-01-29T23:14:00.000Z	sweet		so i can view other machine from my machine
+2011-01-29T23:15:00.000Z	J_C	sweet	vncviewer
+2011-01-29T23:48:00.000Z	J_C	sweet	you may be better off on one of the programming channels, C or C++

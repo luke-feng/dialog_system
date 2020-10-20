@@ -1,0 +1,6 @@
+2010-06-09T22:14:00.000Z	oerb		yes
+2010-06-09T22:14:00.000Z	papertigers	oerb	is there a way to force a restripe
+2010-06-09T22:15:00.000Z	papertigers		i worry about the write hole
+2010-06-09T22:17:00.000Z	oerb		papertiger mdadm --assemble /dev/mdX /dev/sdaX /dev/sdbX --force
+2010-06-09T22:17:00.000Z	papertigers	oerb	how does that work
+2010-06-09T22:20:00.000Z	oerb	papertigers	reasambles two media of 3 media after a contorler brake in a Raid 5

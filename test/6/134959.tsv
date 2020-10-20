@@ -1,0 +1,6 @@
+2010-03-18T21:58:00.000Z	CRAY-4Linux		hey guys, where's beta
+2010-03-18T21:59:00.000Z	CRAY-4Linux		its not on the server yet
+2010-03-18T21:59:00.000Z	CRAY-4Linux		beta1 that is
+2010-03-18T21:59:00.000Z	igama	CRAY-4Linux	just relax or download the daily build ;)
+2010-03-18T22:00:00.000Z	igama	CRAY-4Linux	its still beta, but so far its stable for me
+2010-03-18T22:01:00.000Z	igama	CRAY-4Linux	if you update daily ( sudo apt-get update ) you already have the latest version / beta

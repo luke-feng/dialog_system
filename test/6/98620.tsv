@@ -1,0 +1,6 @@
+2007-03-10T09:52:00.000Z	voidmage		what i would try is rebooting to recovery mode and fscking
+2007-03-10T09:52:00.000Z	voidmage		anyone else think that's a good idea?
+2007-03-10T09:53:00.000Z	vox754	voidmage	I think Linux does fsck automatically everytime there is a crash, or dirty unmounting
+2007-03-10T09:56:00.000Z	vox754	voidmage	At least I think my machine does a fsck every 30 mounts, it says so on startup.
+2007-03-10T09:56:00.000Z	voidmage	vox754	yeah, default settings are fsck eveyr 30 mounts
+2007-03-10T10:45:00.000Z	voidmage	vox754	I'd run make as a normal use

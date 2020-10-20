@@ -1,0 +1,6 @@
+2012-05-11T05:36:00.000Z	arvind		Hi, I was trying to upgrade my system from 10.04 to 12.04.  I manually changed the entries in sources.list and did aptitude update, now when I run aptitude dist-upgrade, lot of packages are being held back back because they depend on others, what do I do?
+2012-05-11T05:36:00.000Z	xangua	arvind	don't ever do something like that -  I manually changed the entries in sources.list
+2012-05-11T05:37:00.000Z	arvind	xangua	ok, but what do I do now?
+2012-05-11T05:37:00.000Z	xangua	arvind	i would recoment back up your data and make a clean install
+2012-05-11T05:38:00.000Z	xangua	arvind	let's go to the time machine ;)
+2012-05-11T05:39:00.000Z	arvind	xangua	thanks :) Floyd42

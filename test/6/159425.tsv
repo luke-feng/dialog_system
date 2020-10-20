@@ -1,0 +1,6 @@
+2012-03-05T19:46:00.000Z	sprung		hi there. I have successfully installed xrdp so i can log into my desktop using my android phone. The problem is I want to use my phone like a remote control, and if i pick a movie it tries to play the movie on the phone remote desktop rather that the desktop of the ubuntu system, where the tv is plugged in. How can I get the video to play on the local session, not the remote session?
+2012-03-05T19:47:00.000Z	sprung		is that what i need?
+2012-03-05T19:47:00.000Z	sprung		ok
+2012-03-05T19:47:00.000Z	sprung		i will try it
+2012-03-05T19:47:00.000Z	dr_willis	sprung	 check out gmote for android or other upnp servers for the pc
+2012-03-05T19:48:00.000Z	dr_willis	sprung	vlc and xbmc also have remote control features

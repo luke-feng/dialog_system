@@ -1,0 +1,6 @@
+2005-04-15T10:24:00.000Z	Dreamer3		ok, what's the most appropriate way to stop GDM from loading at startup?
+2005-04-15T10:25:00.000Z	Dreamer3		i'm thinking of just deleting /etc/init.d/gdm since i could get it back later be reinstalling gdb
+2005-04-15T10:25:00.000Z	Dreamer3		gdm
+2005-04-15T10:25:00.000Z	Dreamer3		any thoughts?
+2005-04-15T10:25:00.000Z	Dreamer3		can the entries in the runlevel folders be renamed instead of deleted?
+2005-04-15T10:25:00.000Z	resiak	Dreamer3	Yes.

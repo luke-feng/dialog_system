@@ -1,0 +1,6 @@
+2011-12-18T09:30:00.000Z	dio525i		i'm trying to launch gui apps remotely from an ssh tunnel ... server is lubuntu client is ubuntu... does anyone know what i need to do to allow remotely launching gui apps from lubuntu?
+2011-12-18T09:31:00.000Z	dio525i		dennis, i've never done it before ...
+2011-12-18T09:33:00.000Z	dio525i		the command that i used "ssh -C -X user@my.se.rv.er gnome-terminal"
+2011-12-18T09:34:00.000Z	edbian	dio525i	sometimes it takes a long time to get the gui on the client, especially over the internet
+2011-12-18T09:34:00.000Z	edbian	dio525i	It appears to be not working (with no errors) but if you give it like 2 minutes it will work
+2011-12-18T09:35:00.000Z	edbian	dio525i	sure

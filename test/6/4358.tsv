@@ -1,0 +1,6 @@
+2012-01-20T07:24:00.000Z	johtso		Hmm, I'm running a simple development server on localhost.. and for some reason it's seeing all incoming GETs as POSTS.. is there some way to see what's going on? I have wireshark running, but I'm not sure how to interpret it..
+2012-01-20T07:25:00.000Z	psusi	johtso	how to interpret it?  well does it show a GET command or a POST command?
+2012-01-20T07:26:00.000Z	johtso	psusi	it shows TCP packets
+2012-01-20T07:26:00.000Z	psusi	johtso	right click and there's an option to assemble the tcp stream or something and show you the text
+2012-01-20T07:32:00.000Z	johtso	psusi	hmm, I am seeing a GET request.. and the server responding with a 405 method not allowed
+2012-01-20T07:32:00.000Z	psusi	johtso	ok...

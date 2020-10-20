@@ -1,0 +1,6 @@
+2005-12-11T13:07:00.000Z	dpupp		speaking of customizing screens, is it possible to customize the screen where things display as: loading this.....OK (what is the name of that screen?)
+2005-12-11T13:09:00.000Z	dabaR	dpupp	the gnome splash screen that loads the panel, desktop and that?
+2005-12-11T13:10:00.000Z	dpupp	dabaR	not sure... its the one that comes after grub...
+2005-12-11T13:11:00.000Z	dabaR	dpupp	oh, that one is very new, not much customization can be done yet, and I dont know how it can be done.
+2005-12-11T13:12:00.000Z	dabaR	dpupp	you would edit the /boot/grub/menu.lst file.
+2005-12-11T13:18:00.000Z	dabaR	dpupp	right click on one in the file manager window(nautilus) and select properties. under the open with tab, selecct the program you want.

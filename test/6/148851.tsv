@@ -1,0 +1,6 @@
+2006-11-27T17:59:00.000Z	Discerer		Is it possible to have ubuntu and winxp on the same physical disk+
+2006-11-27T06:00:00.000Z	Discerer		Doesn't that mess up the *nix/win filesystems?
+2006-11-27T06:00:00.000Z	Discerer		thanks bruenig
+2006-11-27T06:01:00.000Z	Kingsqueak	Discerer	I would get the Win partition shrunk and setup first, not using the Ubuntu installer
+2006-11-27T06:02:00.000Z	Kingsqueak	Discerer	use a win util to shrink it down and make room for Ubuntu, reboot , be sure Win is cool, then do the install and put Ubuntu in the partition you made
+2006-11-27T06:03:00.000Z	Kingsqueak	Discerer	the reason, occasionally the parted utility that is used to shrink the partitions will foul up the boot record of the windows install, it's easier to get that all sorted out first then have to repair it after IMO

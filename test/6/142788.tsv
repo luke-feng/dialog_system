@@ -1,0 +1,6 @@
+2005-07-28T16:27:00.000Z	flyingpenguin900		Is there some sort of nvidia command that edits the Xorg.conf?
+2005-07-28T16:28:00.000Z	flyingpenguin900		Was I supposed to remove ati drivers before installing Nvidia drivers?
+2005-07-28T16:28:00.000Z	ColonelKernel	flyingpenguin900	use nano and its not an nvidia command - if yorue xorg.conf got overwritten it means there was a problem loading your driver and it overwrote your xorg.conf with a safe default and backed your old one up to xorg.conf.backup
+2005-07-28T16:28:00.000Z	ColonelKernel	flyingpenguin900	yes.
+2005-07-28T16:29:00.000Z	flyingpenguin900	ColonelKernel	how would I remove the ati drivers?
+2005-07-28T16:29:00.000Z	ColonelKernel	flyingpenguin900	I dont know

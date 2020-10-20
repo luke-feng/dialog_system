@@ -1,0 +1,6 @@
+2012-01-25T23:07:00.000Z	Bisu[Shield]		why is the swapmemory and memory in ubuntu the same size?
+2012-01-25T23:07:00.000Z	Bisu[Shield]		i would think swap memory can me any size limited to the size of disk
+2012-01-25T23:07:00.000Z	Bisu[Shield]		adjusting for latency using swap memory
+2012-01-25T23:08:00.000Z	Bisu[Shield]		my disk is 600Gb
+2012-01-25T23:09:00.000Z	Bisu[Shield]		I understand that, can i increase the size of that partition and is that recommended?
+2012-01-25T23:09:00.000Z	lagbox	Bisu[Shield]	if you want to ... but swap doesn't get used as much as you think

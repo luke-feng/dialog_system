@@ -1,0 +1,6 @@
+2011-04-10T13:01:00.000Z	researcher123		is there a channel for remastersys?
+2011-04-10T13:03:00.000Z	atlef	researcher123	#remastersys
+2011-04-10T13:03:00.000Z	researcher123	atlef	thanbks
+2011-04-25T21:37:00.000Z	atlef	researcher123	so why don't you do what is says? "sudo apt-get install virtualbox-ose-dkms" and then "sudo modprobe vboxdrv"
+2011-04-25T21:37:00.000Z	researcher123	atlef	I did but no use
+2011-04-25T21:38:00.000Z	atlef	researcher123	hm, ok

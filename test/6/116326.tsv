@@ -1,0 +1,6 @@
+2007-02-12T07:55:00.000Z	EdgEy		sudo diff -r /media/hdb5/videos/music/ /home/edgey/music/
+2007-02-12T07:55:00.000Z	EdgEy		is that the correct way to find differences between 2 folders?
+2007-02-12T07:56:00.000Z	EdgEy		nautilus tells me there are different amounts of files, when i just copied the folder ..
+2007-02-12T07:56:00.000Z	EdgEy		i need to make sure before i delete the old folder
+2007-02-12T07:56:00.000Z	Pelo	EdgEy	 check for hidden files
+2007-03-20T06:36:00.000Z	Pelo	EdgEy	 cron

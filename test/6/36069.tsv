@@ -1,0 +1,6 @@
+2009-06-06T20:32:00.000Z	boss_mc	edbian	it deletes everything in the active directory
+2009-06-06T20:32:00.000Z	boss_mc	edbian	not the whole filesystem (unless you're accidentally in the wrong folder!)
+2009-07-25T05:46:00.000Z	boss_mc	edbian	sounds about right :-)
+2009-08-17T02:54:00.000Z	boss_mc	edbian	compiz by default uses gconf to store its settings, and has some settings in gconf that aren't in the ccsm
+2009-08-17T02:54:00.000Z	edbian	boss_mc	Really?  I never knew that!
+2009-08-17T02:54:00.000Z	boss_mc	edbian	you can move it in advanced i think (to flat file)...

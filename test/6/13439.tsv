@@ -1,0 +1,6 @@
+2011-01-16T19:20:00.000Z	angieanni		hi again..how can j instal a file tar.gz ?
+2011-01-16T19:20:00.000Z	jrib	angieanni	you avoid doing so.  What program do you want to install exactly?
+2011-01-16T19:22:00.000Z	angieanni	jrib	fmtools-1.0.2
+2011-01-16T19:22:00.000Z	jrib	angieanni	do you know about APT?
+2011-01-16T19:22:00.000Z	angieanni	jrib	not much
+2011-01-16T19:23:00.000Z	jrib	angieanni	to install software on ubuntu you should always use the repositories either using apt-get on the command line or a gui frontend like synaptic or Add/Remove Programs.  I'll have ubottu send you more info about this.  For example, to install fmtools, you can do in the terminal: sudo apt-get install fmtools

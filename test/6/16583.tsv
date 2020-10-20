@@ -1,0 +1,6 @@
+2011-07-03T05:20:00.000Z	bsmith093		wget suddenly isnt working, says bad port number localhost:4001
+2011-07-03T05:20:00.000Z	jink	bsmith093	Did you prepend a protocol, like http:// ?
+2011-07-03T05:21:00.000Z	bsmith093	jink	yes
+2011-07-03T05:22:00.000Z	jink	bsmith093	So, it's just wget http://localhost:4001/ ?
+2011-07-03T05:25:00.000Z	jink	bsmith093	Oh, some weird proxy configged?
+2011-07-03T05:26:00.000Z	bsmith093	jink	probably but i never did  anything with proxies

@@ -1,0 +1,6 @@
+2005-10-08T10:43:00.000Z	Denski		sir i have ymessenger1.0.4. can i install it other than GAIM?
+2005-10-08T10:44:00.000Z	Denski		ymessenger is .deb
+2005-10-08T10:44:00.000Z	ompaul	Denski	it is suggested that you should not, it is suggested that it is broken
+2005-10-08T10:49:00.000Z	ompaul	Denski	tjhat is not how you deal with a distro, what you do is 'sudo apt-get install gaim' and it gives you the version for your system
+2005-10-08T10:57:00.000Z	ompaul	Denski	for what?
+2005-10-08T10:59:00.000Z	ompaul	Denski	you install av software if you are providing mail services for windows clients, but Linux to Linux not needed

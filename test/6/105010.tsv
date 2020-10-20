@@ -1,0 +1,6 @@
+2006-10-13T06:18:00.000Z	i_is_two		is there an sftp client on the ubuntu live cd?
+2006-10-13T06:18:00.000Z	i_is_two		i am using it now and would like to use sftp
+2006-10-13T06:19:00.000Z	Vuen	i_is_two	there sure is. if not just install ssh
+2006-10-13T06:22:00.000Z	Vuen	i_is_two	sudo apt-get install ssh, or just use synaptic
+2006-10-13T06:31:00.000Z	Vuen	i_is_two	apt-get install ssh
+2006-10-13T06:31:00.000Z	i_is_two	Vuen	i did that whats the command to get a file is it just get?

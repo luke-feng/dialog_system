@@ -1,0 +1,6 @@
+2011-04-02T15:59:00.000Z	eveningsky2		if I remove grub, how would i boot into recovery mode?
+2011-04-02T15:59:00.000Z	ikonia	eveningsky2	you don't
+2011-04-02T16:00:00.000Z	ikonia	eveningsky2	you are unable to boot at that point
+2011-04-02T16:00:00.000Z	eveningsky2	ubuntu	studio doesn't even install grub with lvm partitions. it boots just fine.
+2011-04-02T16:01:00.000Z	ikonia	eveningsky2	it does
+2011-04-02T16:01:00.000Z	ikonia	eveningsky2	it uses grub to boot

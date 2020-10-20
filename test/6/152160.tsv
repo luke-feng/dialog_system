@@ -1,0 +1,6 @@
+2010-11-17T22:23:00.000Z	mansoluvlucid		linuzo:HDMI sound is working fine for me.I'm on ubuntu 10.04 Lucid.:D:os
+2010-11-17T22:24:00.000Z	linuzo	mansoluvlucid	Whats the driver do you know off hand
+2010-11-17T22:24:00.000Z	linuzo	mansoluvlucid	ati? nvidia?
+2010-11-17T22:25:00.000Z	linuzo	mansoluvlucid	Did you have to do anything to tweak it? I'm on fedora right now but can't seem to get audio for some reason
+2010-11-17T22:30:00.000Z	linuzo	mansoluvlucid	NVIDIA nforce drivers are used for HDMI output..
+2010-11-17T22:31:00.000Z	linuzo	mansoluvlucid	00:07.0 Audio device: nVidia Corporation MCP72XE/MCP72P/MCP78U/MCP78S High Definition Audio (rev a1)

@@ -1,0 +1,6 @@
+2010-04-30T05:40:00.000Z	collier_s		Hi, i'm running Ubuntu 8.04.2  shouldn't i be able to run the update manager and upgrade to 10.04 ?
+2010-04-30T05:42:00.000Z	kjele	collier_s	https://help.ubuntu.com/community/LucidUpgrades
+2010-04-30T05:44:00.000Z	collier_s	kjele	update manager kicks off, but says it's up2date and the upgrade button is greyed out.  Could it be because i'm running ubuntu moblin edition on a dell mini?
+2010-04-30T05:45:00.000Z	kjele	collier_s	Try another mirror
+2010-04-30T05:45:00.000Z	collier_s	kjele	ok, i'll look through docs and figure that out.  thx
+2010-04-30T06:20:00.000Z	collier_s	kjele	does this look like a valid entry in the sources.list file?  deb http://us.archive.ubuntu.com/pub/ubuntu/ lucid main universe multiverse restricted

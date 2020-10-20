@@ -1,0 +1,6 @@
+2006-01-07T15:08:00.000Z	ThePyromaniac		hey, if i have ubuntu one one HDD and want to move it to a HDD that already has Windows installed, how can i do this?
+2006-01-07T15:08:00.000Z	ThePyromaniac		on*
+2006-01-07T15:09:00.000Z	ThePyromaniac		i have to clean install or can i use some partition program to do it
+2006-01-07T15:09:00.000Z	psusi	ThePyromaniac	could you be more specific?  do you want to keep windows and share the drive?  or screw windows and you just want to copy your ubuntu install from your old drive to a new one?
+2006-01-07T15:12:00.000Z	psusi	ThePyromaniac	the easiest way is to just reinstall ubuntu on the smaller drive... it should automatically shrink the windows partition and use the free space, then blow away the ubuntu partition on the big drive
+2006-01-07T15:12:00.000Z	ThePyromaniac	psusi	ok, if it doesnt work im gonna come on via live cd and kick your ass :p

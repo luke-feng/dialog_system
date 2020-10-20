@@ -1,0 +1,6 @@
+2009-02-03T05:43:00.000Z	the6step		all: can I download firefox 3.0 for ubuntu gutsy?
+2009-02-03T05:43:00.000Z	therealnanotube	the6step	yes, look up ubuntuzilla, it will do it for you all automatic-like.
+2009-02-03T05:47:00.000Z	the6step	therealnanotube	after I install it, where would I find ubuntuzilla?
+2009-02-03T05:47:00.000Z	therealnanotube	the6step	it goes into /usr/local/bin, so should be in your path by default. just open a terminal, and type the ubuntuzilla.py command to install firefox
+2009-02-03T05:50:00.000Z	the6step	therealnanotube	**** I installed it in spanish.... so 2 questions.... first can I reinstall, and 2nd, what is the correct language code that I want?
+2009-02-03T05:50:00.000Z	therealnanotube	the6step	yes, you can reinstall, and the us english is "en-US" :)

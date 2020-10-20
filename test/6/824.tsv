@@ -1,0 +1,6 @@
+2012-09-13T17:31:00.000Z	Cong		what's the rubbish-bins' size limit? and how do I change it?
+2012-09-13T17:33:00.000Z	Cong		I deleted someone files and they aren't there anymore.
+2012-09-13T17:34:00.000Z	Cong		I sent them to the rubbish bin and there was only one big file left. That made me think there must be a limit.
+2012-09-13T17:35:00.000Z	Cong		I'm very sure I deleted them and they were sent to the rubbish bin.
+2012-09-13T17:36:00.000Z	LorSamPau_w_	Cong	gksudo nautilus '/root/.Trash/'
+2012-09-13T17:36:00.000Z	LorSamPau_w_	Cong	make sure that there is no hidden files in the trash

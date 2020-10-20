@@ -1,0 +1,6 @@
+2007-12-05T17:03:00.000Z	mikebeecham		What is the best remote desktop software I can get hold of for Linux?
+2007-12-05T17:03:00.000Z	mikebeecham		I am using GRDesktop, but this is quite laggy
+2007-12-05T17:05:00.000Z	mikebeecham		Could some people let me know what they use as remote desktop clients on Ubuntu...I am using grdesktop, but it can be quite laggy
+2007-12-05T17:07:00.000Z	tho1	mikebeecham	run rdesktop from the command line
+2007-12-05T17:07:00.000Z	tho1	mikebeecham	 if you want remote desktop that is
+2007-12-05T17:10:00.000Z	tho1	mikebeecham	Install openssh on windows xp and run rdesktop through an ssh tunnel...much more secure

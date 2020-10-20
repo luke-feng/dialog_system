@@ -1,0 +1,6 @@
+2011-01-26T10:18:00.000Z	k_sze		err
+2011-01-26T10:18:00.000Z	k_sze		I skipped the server stack installation dialog by mistake.
+2011-01-26T10:18:00.000Z	k_sze		Is it possible to access it again after the installation of Ubuntu is finished?
+2011-01-26T10:19:00.000Z	k_sze		(I mean the dialog that let's you select LAMP, mail server, dns server, openssh server, etc.)
+2011-01-26T10:20:00.000Z	sangprabo	k_sze	yes, you could install them later
+2011-01-26T10:20:00.000Z	k_sze	sangprabo	you don't mean installing the stack components one by one, right?

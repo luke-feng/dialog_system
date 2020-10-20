@@ -1,0 +1,6 @@
+2007-06-17T05:02:00.000Z	confusednoob		how do i tell which kernal is being booted by default?
+2007-06-17T05:03:00.000Z	predaeus	confusednoob	the first entry in menu.list is booted by default
+2007-06-17T05:05:00.000Z	predaeus	confusednoob	go to /boot/grub and make a copy of menu.lst like "sudo cp menu.lst menu.lst.bak" then open menu.lst  like "gksudo gedit menu.lst"   then look for the entry "default" on top of the file it says 0 by default, read the explanatory text above it and change it to what you like.
+2007-06-17T05:16:00.000Z	confusednoob	predaeus	 so basically the kernal listed at the top of the grub menu (esc at boot) is default?
+2007-06-17T05:17:00.000Z	predaeus	confusednoob	since the default entry to be booted is 0, yes
+2007-06-17T05:20:00.000Z	predaeus	confusednoob	to see what kernel you are running, run "dmesg | head" or "uname -r" etc

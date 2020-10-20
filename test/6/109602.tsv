@@ -1,0 +1,6 @@
+2006-09-05T10:17:00.000Z	aSt3raL		hello, is there a way to send the audio output of my laptop to the speakers hooked up to another computer?
+2006-09-05T10:18:00.000Z	aSt3raL		can alsa send output to another computer?
+2006-09-05T10:19:00.000Z	aSt3raL		instead of using my computers soundcard i want it to use another compuer on the networks soundcard
+2006-09-05T10:20:00.000Z	printk	aSt3raL	easiest way would be to stream it
+2006-09-05T10:20:00.000Z	printk	aSt3raL	check your message from ubotu
+2006-09-05T10:21:00.000Z	printk	aSt3raL	well then write a protocol and RFC and device and app on how to do that, don't think that exists :)

@@ -1,0 +1,6 @@
+2011-10-19T11:35:00.000Z	Morgz		I've tried a bunch of settings for a static IP, Network manager - manual , interfaces file, resolv.conf - I have no trouble setting my IP, but cannot reach the router unless ip is automatic. Am I missing something obvious
+2011-10-19T11:37:00.000Z	llutz_	Morgz	you have to set ip, netmask, gateway, dns
+2011-10-19T11:38:00.000Z	llutz_	Morgz	make sure not to use an IP from router dhcp-pool
+2011-10-19T11:45:00.000Z	llutz_	Morgz	open wifi-network, no encryption?
+2011-10-19T11:46:00.000Z	llutz_	Morgz	you have to setup wpa_suplicant or something if you don't use networkmanager
+2011-10-19T11:46:00.000Z	llutz_	Morgz	you've setup IP but not the underlaying wifi-stuff

@@ -1,0 +1,6 @@
+2012-05-10T05:55:00.000Z	KingKatari		is there a way in ubuntu server 12.04 to have a graphical package manager
+2012-05-10T05:55:00.000Z	jrib	KingKatari	sure, install one
+2012-05-10T05:56:00.000Z	jrib	KingKatari	why do you want a graphical package manager?
+2012-05-10T05:57:00.000Z	jrib	KingKatari	why not use command-line tools like apt-get, apt-cache, and dpkg?
+2012-05-10T05:59:00.000Z	jrib	KingKatari	dpkg -l '*mysql*' | grep '^ii'    would show installed packages with 'mysql' in the name
+2012-05-11T22:53:00.000Z	jrib	KingKatari	getent passwd

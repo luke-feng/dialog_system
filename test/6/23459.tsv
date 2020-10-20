@@ -1,0 +1,6 @@
+2011-08-14T08:37:00.000Z	needhelp1		you can use grep to search a txt file for a specific word, right?
+2011-08-14T08:38:00.000Z	thunsucker	needhelp1	grep cat *
+2011-08-14T08:38:00.000Z	needhelp1	thunsucker	so if im searching file.txt for all words of "test" i would do ..
+2011-08-14T08:40:00.000Z	thunsucker	needhelp1	no
+2011-08-14T08:40:00.000Z	thunsucker	needhelp1	cd into the directory of the files you want to search, type: sudo grep cat *
+2011-08-14T08:40:00.000Z	thunsucker	needhelp1	that will search all files in that directory to see if they have the word cat in them

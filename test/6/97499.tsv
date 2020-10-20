@@ -1,0 +1,6 @@
+2009-02-17T13:16:00.000Z	kurt		hi, i want to use the jaunty-kernel with my intrepid (my wireless lan regularly crashes my system). what do i have to do?
+2009-02-17T13:17:00.000Z	kurt		isn't there a backport?
+2009-02-17T13:17:00.000Z	IntuitiveNipple	kurt	You can download the kernel packages separately and install them using dpkg -i
+2009-02-17T13:17:00.000Z	IntuitiveNipple	kurt	You'd also need to add entries to the GRUB menu of course
+2009-02-17T13:20:00.000Z	IntuitiveNipple	kurt	usually the first thing to do is gather logs and other information about the problem and creating a bug-report on launchpad.net
+2009-02-17T13:23:00.000Z	IntuitiveNipple	kurt	https://wiki.ubuntu.com/KernelTeamBugPolicies

@@ -1,0 +1,6 @@
+2006-06-08T11:02:00.000Z	Geoffrey2		when the time comes that I'm ready to dedicate a larger part of the hard drive to Ubuntu, would I be better off just blowing away the present partitions and starting over with a new install?
+2006-06-08T10:33:00.000Z	Geoffrey2		I just did a complete reinstall of ubuntu, and I'm noticing that I can't access some of the packages that I could previously, but as far as I can tell, I have all the available sources selected
+2006-06-08T10:33:00.000Z	apokryphos	Geoffrey2	example?
+2006-06-10T15:56:00.000Z	apokryphos	Geoffrey2	yes, if they're enabled
+2006-06-10T15:58:00.000Z	Geoffrey2	apokryphos	ok, so there'd be no particular need to go in and manually edit the source file?
+2006-06-12T13:36:00.000Z	apokryphos	Geoffrey2	check the FAQ

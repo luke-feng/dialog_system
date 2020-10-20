@@ -1,0 +1,6 @@
+2010-07-27T06:14:00.000Z	c00lryguy		Can someone help me out? When I install the Ubuntu 10.04 Minimal CD, it tells em to restart the computer after it's done installing, so I restart and pop out the CD and I'm pretty sure it boots because it just sits there with a cursor blinking
+2010-07-27T06:15:00.000Z	cypher-neo	c00lryguy	What type of computer did you install it to?
+2010-07-27T06:16:00.000Z	c00lryguy	cypher-neo	its a desktop pc.. it can install the regular ubuntu just fine with no problems
+2010-07-27T06:16:00.000Z	cypher-neo	c00lryguy	I had that happen once when I installed Ubuntu on a Mac. Just curious.
+2010-07-27T06:16:00.000Z	c00lryguy		but with ubuntu minimal CD, it just hangs at a blank screen after bootingh
+2010-07-27T06:18:00.000Z	cypher-neo	c00lryguy	Hmm. When you boot you might try accessing GRUB and configuring the way it boots.

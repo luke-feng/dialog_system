@@ -1,0 +1,6 @@
+2012-06-12T21:06:00.000Z	zein		Is there a channel for absolute beginners?
+2012-06-12T21:06:00.000Z	zein		I might be in the wrong place.
+2012-06-12T21:07:00.000Z	zein		Ok, escott mentioned using the live cd for enlarging a partition I wish to use for Ubuntu 12.04.  As I already have the OS installed, would I have to install it, and where does GParted come into play if at all?
+2012-06-12T21:07:00.000Z	zein		I meant, if I would have to uninstall Ubuntu and reinstall.  Don't have to?
+2012-06-12T21:08:00.000Z	thiebaude1	zein	after making changes to your partition exit out of the live cd
+2012-06-12T21:10:00.000Z	thiebaude1	zein	whatever size you want to have

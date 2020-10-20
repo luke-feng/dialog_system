@@ -1,0 +1,6 @@
+2007-06-21T15:02:00.000Z	Jerry32		has anyone here successfully setup a samba share with xboxmediacenter (or a windows machine) and ubuntu? or any kind of share for that matter?
+2007-06-21T15:04:00.000Z	Flannel	Jerry32	you checkout the samba page on the wiki?
+2007-06-21T15:05:00.000Z	Flannel	Jerry32	well, ftp is doable, if you can't get samba to work.
+2007-06-21T15:06:00.000Z	Flannel	Jerry32	Make an FTP user, make his home folder your windows drive.
+2007-06-21T15:08:00.000Z	Flannel	Jerry32	in users and groups (system > admin > users and groups) make a new user (name it whatever) and set his homedir to whereever your widnows drive is mounted
+2007-06-21T15:10:00.000Z	Flannel	Jerry32	if you copy your ubuntu line in fstab (if you only have one ubuntu drive, remove the ,errors=remount-ro, so it just says 'default') that should be fine for yourwindows drive

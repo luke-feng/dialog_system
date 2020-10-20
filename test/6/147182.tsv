@@ -1,0 +1,6 @@
+2006-11-04T09:12:00.000Z	beowulf-afk		Also understand Gnome is the default gui, been using kde mostly, hows the gnome aspect? alot different?
+2006-11-04T09:13:00.000Z	beowulf-afk		cool, one last question though, hows the package selections? I like graphics and web work
+2006-11-04T09:14:00.000Z	Madpilot	beowulf-afk	there's something like 17,000 packages in Ubuntu's repos, you'll probably be able to find what you need :)
+2006-11-04T09:16:00.000Z	Madpilot	beowulf-afk	not many;  you might want to still run the 32bit version of Ubuntu on it, there are some issues w/ the full 64bit version (no Flash, for example. The problems are mostly with the non-Free stuff, though)
+2006-11-04T09:20:00.000Z	Madpilot	beowulf-afk	ext3 is the Ubuntu installer's default, anyway
+2006-11-04T09:46:00.000Z	Madpilot	beowulf-afk	very. Just right-click on the ISO & select Burn To Disc, assuming you're in Ubuntu.

@@ -1,0 +1,6 @@
+2010-05-12T01:36:00.000Z	Icehawk		I have all of my music collection stored on my server in a publicly-facing directory. Are there any easily installed programs that will allow me to create a form of online "radio" or something else that will let me play my music directly from a browser?
+2010-05-12T01:36:00.000Z	Icehawk		!ask | mahmod
+2010-05-12T01:37:00.000Z	mneptok	Icehawk	do you want to listen from outside the local network?
+2010-05-12T01:37:00.000Z	Icehawk	mneptok	Yes, outside the local network. ie I'd like to be able to go to http://music.myserver.com or http://www.myserver.com:9000 or whatever
+2010-05-12T01:38:00.000Z	mneptok	Icehawk	look at Ampache
+2010-05-12T01:38:00.000Z	Icehawk	mneptok	Will Ampache play from the browser, or just let you download?

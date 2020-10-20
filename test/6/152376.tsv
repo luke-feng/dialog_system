@@ -1,0 +1,6 @@
+2005-07-06T16:02:00.000Z	joseph		SO, I am having trouble with my soundcard. XMMS won't play because it says the resource is busy. I do an fuser and get /dev/snd/pcmC0D0p:    6783m    What is that?
+2005-07-06T16:02:00.000Z	khermans	joseph	try disabling the sound server
+2005-07-06T16:02:00.000Z	joseph	khermans	how? kill that job?
+2005-07-06T16:03:00.000Z	khermans	joseph	System -> Preferences -> Sound
+2005-07-06T16:04:00.000Z	khermans	joseph	try my sggestion
+2005-07-06T16:05:00.000Z	joseph	khermans	ok, but I have no sound clicks or system sounds coming out now... but ok.

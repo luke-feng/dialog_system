@@ -1,0 +1,6 @@
+2006-07-31T16:00:00.000Z	DanielSC		I'm new to ubuntu.. I tried to install it yesterday... should it start X after the installation? I only get a console and I dont know how to install other packages
+2006-07-31T16:00:00.000Z	sehute	DanielSC	sudo aptitude install xubuntu-desktop
+2006-07-31T16:00:00.000Z	sehute	DanielSC	that is one possibility
+2006-07-31T16:01:00.000Z	DanielSC	sehute	thanks that's what I needed ;)
+2006-07-31T16:02:00.000Z	sehute	DanielSC	if the gui doesn't start, type /etc/init.d/gdm restart
+2006-07-31T16:02:00.000Z	sehute	DanielSC	listen to Flannel :)

@@ -1,0 +1,6 @@
+2005-05-27T10:39:00.000Z	nalioth	mjr	"slow as hell" belongs to "pear pc"
+2005-05-27T10:40:00.000Z	mjr	nalioth	oh yes, there's that too :)
+2005-05-27T10:42:00.000Z	nalioth	mjr	unforntunately, the devs at "Cherry OS" havent released their overclocked (10x system speed) PPC emu <snort>
+2005-06-16T06:13:00.000Z	nalioth	mjr	mkfs.vfat is destructive, i presume?
+2005-06-16T06:13:00.000Z	mjr	nalioth	yes, it is
+2005-06-20T07:46:00.000Z	mjr	nalioth	ntfs writing and ntfs resizing are somewhat different things though

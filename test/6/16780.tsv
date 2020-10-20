@@ -1,0 +1,6 @@
+2010-10-12T10:39:00.000Z	ganeshran		hi is it possible to mount a windows drive inside an ubuntu VM?
+2010-10-12T10:40:00.000Z	noisewaterphd	ganeshran	ive never had it actually work
+2010-10-12T10:40:00.000Z	ganeshran	noisewaterphd	hmm do you know any workaround?
+2010-10-12T10:41:00.000Z	noisewaterphd	ganeshran	there are also tools to convert your real windows drive/partition to a virtual machine, but I have also never gotten it to work
+2010-10-12T10:42:00.000Z	ganeshran		If not mounting, is it possible to share drives between guest ubuntu and host windows?
+2010-10-12T10:42:00.000Z	noisewaterphd	ganeshran	virtualbox, and vmware are both supposed to be able to do both of those things, si I ould try your luck first, and then worry about it if it doesnt work for you

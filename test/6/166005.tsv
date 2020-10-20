@@ -1,0 +1,6 @@
+2004-10-09T10:05:00.000Z	dropster		another question, the Xwindow system header files 
+2004-10-09T10:05:00.000Z	dropster		where 2 get ?
+2004-10-09T10:06:00.000Z	dropster		ive looked in synaptics under Development but cant see it anywhere
+2004-10-09T10:06:00.000Z	Kamion	dropster	it's not on the CD, you'll need to have the archive.ubuntulinux.org main repository enabled
+2004-10-09T10:08:00.000Z	Kamion	dropster	Preferences -> Repositories in synaptic I think, sorry my Ubuntu systems are busy doing installer testing right now
+2004-10-09T10:11:00.000Z	Kamion	dropster	what is the line in /etc/apt/sources.list?

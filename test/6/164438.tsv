@@ -1,0 +1,6 @@
+2005-01-17T12:16:00.000Z	trukulo		anyone using pbuilder on ubuntu?
+2005-01-17T12:16:00.000Z	trukulo		i have errors with passwd and lilo packages
+2005-01-17T12:17:00.000Z	lamont	trukulo	I know I'm using sbuild on ubuntu, quite a bit...
+2005-01-17T12:18:00.000Z	trukulo	lamont	don't know sbuild, i like pbuilder cause is what debian maintainer guide recommends
+2005-01-17T12:19:00.000Z	lamont	trukulo	never used pbuilder...
+2005-01-17T12:20:00.000Z	lamont	trukulo	all the buildd's use sbuild, so that's what I learned and use

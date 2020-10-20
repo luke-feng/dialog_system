@@ -1,0 +1,6 @@
+2008-10-29T00:25:00.000Z	Elswyyr		Hello, could someone help me with partitioning my hard drive?
+2008-10-29T00:26:00.000Z	zanberdo	Elswyyr	general rule: use two parts: one for swap at RAM x2 and one for /.  Anything else requires you to know more about your system usage than you might wish to be bothered with.
+2008-10-29T00:27:00.000Z	Elswyyr		Well, the problem is that i can't resize my windows partition no matter what i try
+2008-10-29T00:28:00.000Z	zanberdo	Elswyyr	have you tried burning a liveCD of qparted and used it to resize your windows part?
+2008-10-29T00:29:00.000Z	Elswyyr	zanberdo	No i haven't, i'll try
+2008-10-29T00:29:00.000Z	zanberdo	Elswyyr	ok, do this. google qparted and download the livecd ISO.  Burn that to a CD and then boot to it.  Use the default options and you will be presented with an interface that will let you resize your existing partitions

@@ -1,0 +1,6 @@
+2010-10-26T21:52:00.000Z	ubuntu_problems_		hello
+2010-10-26T21:54:00.000Z	ubuntu_problems_		First of all my english is bad, I break my system installing ubuntu 10.10 and now i am not able to run W7 o Ubuntu, only this live cd. I am trying to do this steps: http://www.ubuntu-inside.me/2009/06/howto-recover-grub2-after-windows.html but when i try fdisk -l it said root@ubuntu:/# sudo fdisk -l
+2010-10-26T21:54:00.000Z	ubuntu_problems_		cannot open /proc/partitions
+2010-10-26T21:56:00.000Z	ubuntu_problems_		can somebody help me? I am using live cd 10.10 AMD 64
+2010-10-26T21:57:00.000Z	rusty149	ubuntu_problems_	if you remove livecd and reboot does windows or ubutnu boot?
+2010-10-26T22:00:00.000Z	rusty149	ubuntu_problems_	http://ubuntuforums.org/showthread.php?t=1195275  see section 13

@@ -1,0 +1,6 @@
+2007-12-10T20:02:00.000Z	Mannequin		hi. I've a question, an easy one, I think. I'm using nicotine+ (a soulseek client) on xubuntu.
+2007-12-10T20:03:00.000Z	Mannequin		I'm not using the one from the repositories, but the latest version, download from its official website.
+2007-12-10T20:03:00.000Z	Mannequin		I've dropped the folder on my desktop and run the program by invoking "python ./nicotine"
+2007-12-10T20:03:00.000Z	Mannequin		now, I want to move the folder of this "standalone" program to a more conventional place on the linux filesystem
+2007-12-10T20:03:00.000Z	Mannequin		so, my question is: where is that place? where should I, by convention, put that folder?
+2007-12-10T20:04:00.000Z	genii	Mannequin	/opt/<progname>

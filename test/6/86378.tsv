@@ -1,0 +1,6 @@
+2007-05-18T09:23:00.000Z	BWolf_		is there a way i can install Kubuntu without reformatting and starting all over
+2007-05-18T09:24:00.000Z	Falados	BWolf_	You may be able to do sudo aptitude install kubuntu-desktop
+2007-05-18T09:24:00.000Z	Falados	BWolf_	But grub will still be installed
+2007-05-18T09:24:00.000Z	Falados	BWolf_	I mean gnome
+2007-05-18T09:25:00.000Z	BWolf_	Falados	will I beable to switch between the two GUI then
+2007-05-18T09:26:00.000Z	Falados	BWolf_	I'm unsure if Kubuntu adds or replaces entries in the GDM =\ Although I'm sure someone must have done it on the forums before, check there for a similar question

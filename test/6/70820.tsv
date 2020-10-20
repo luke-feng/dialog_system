@@ -1,0 +1,6 @@
+2009-04-24T03:29:00.000Z	matt__		I am having an issue with irssi in gnome terminal, some times the screen won't refresh, like I type something in and nothing happens or people are chatting but it doesn't show and then it gets kind of scrambled but as soon as I just click on the screen it goes to normal
+2009-04-24T03:29:00.000Z	soreau	matt__	Which graphics driver?
+2009-04-24T03:30:00.000Z	soreau	matt__	Do you have a compositing window manager running?
+2009-04-24T03:30:00.000Z	soreau	matt__	Like compiz for instance
+2009-04-24T03:31:00.000Z	soreau	matt__	Then you need the latest workarounds plugin from git. It just missed the compiz releases, but let me get you a link
+2009-04-24T03:43:00.000Z	soreau	matt__	Here it is, it's because of a race condition. Read post 8 here from maniac (the compiz developer that programmed the workaround)http://nvnews.net/vbulletin/showthread.php?t=129711

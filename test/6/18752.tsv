@@ -1,0 +1,6 @@
+2010-10-26T10:37:00.000Z	cutout		how can I assigne domains and subdomains on ubuntu? (i.e www.myserver.com and mail.myserver.com) on the same machine?
+2010-10-26T10:38:00.000Z	ilovefairuz	cutout	the same A record (contain the IP address) in your DNS management interface
+2010-10-26T10:39:00.000Z	ilovefairuz	cutout	containing **
+2010-10-26T10:39:00.000Z	cutout	ilovefairuz	so it is not related to ubuntu I can do it from firewall or something?
+2010-10-26T10:40:00.000Z	ilovefairuz	cutout	you *could* divert your DNS management to a DNS server (like bind or dnsmasq) on your ubuntu machine, but for a simple configuration like this, A records are just fine
+2010-10-26T10:41:00.000Z	cutout	ilovefairuz	OK thanks

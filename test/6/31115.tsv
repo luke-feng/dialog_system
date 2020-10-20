@@ -1,0 +1,6 @@
+2011-09-13T22:19:00.000Z	kristopher		Where can I get those release notes, list of all known bugs in 11.10 beta 1
+2011-09-13T22:19:00.000Z	theadmin	kristopher	You were told already, go to #ubuntu+1
+2011-09-15T21:37:00.000Z	theadmin	kristopher	There is a "recovery mode" option in GRUB. Boot there, and then drop to console
+2011-09-15T21:39:00.000Z	theadmin	kristopher	To access the grub menu, hold Shift when grub is loading
+2011-09-15T21:39:00.000Z	theadmin	kristopher	Yes.
+2011-09-15T21:39:00.000Z	theadmin	kristopher	Well, do that right after your bios, before the ubuntu bootscreen

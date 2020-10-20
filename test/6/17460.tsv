@@ -1,0 +1,6 @@
+2010-10-12T01:38:00.000Z	Lancelot		can someone help me with audio? I just upgraded to maverick and everything is dead
+2010-10-12T01:39:00.000Z	glebihan	Lancelot	sorry wrong person
+2010-10-12T02:45:00.000Z	glebihan	Lancelot	what kind of partitions are you talking about ? removable medias or internal drives ?
+2010-10-12T02:45:00.000Z	Lancelot	glebihan	it's all partitions on one physical hard drive
+2010-10-12T02:46:00.000Z	glebihan	Lancelot	then you should not be able to mount them without sudo...
+2010-10-12T02:47:00.000Z	Lancelot	glebihan	I can just mount them though...so something is wrong here

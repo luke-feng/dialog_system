@@ -1,0 +1,6 @@
+2012-04-21T00:37:00.000Z	escott	troubled	what are you trying to do?
+2012-04-21T00:37:00.000Z	troubled	escott	not me, lukebrannon
+2012-04-21T00:41:00.000Z	troubled	escott	i think he's off trying -e ssh now :)
+2012-04-21T00:42:00.000Z	escott	troubled	-e ssh or --rsh='ssh' is the default
+2012-04-21T00:43:00.000Z	troubled	escott	you know, that rings a bell. only since i recall it was rsync proto that was the one I always needed to specify
+2012-04-21T00:47:00.000Z	escott	troubled	right... lukebrannon can you express to us what exactly it is you want to accomplish here?

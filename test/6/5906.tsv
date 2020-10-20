@@ -1,0 +1,6 @@
+2011-10-16T05:39:00.000Z	Pauluntu		anyone know how to get wine 1.3 to have audio for some reason games like wow or oblivion both wich use it have no audio but audio is working
+2011-10-16T05:41:00.000Z	reisio	Pauluntu	1.3.?
+2011-10-16T05:43:00.000Z	Pauluntu	reisio	idk i just installed the wine 1.3 package from the software center today
+2011-10-16T05:43:00.000Z	reisio	Pauluntu	run 'wine --version'
+2011-10-16T05:49:00.000Z	reisio	Pauluntu	well?
+2011-10-16T06:01:00.000Z	reisio	Pauluntu	anyways, make sure you have Wine version 1.3.25 or higher

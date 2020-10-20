@@ -1,0 +1,6 @@
+2011-05-08T10:04:00.000Z	Al_nz1		how do you mount a single disk that was ext 3, raid mirrored?
+2011-05-08T10:04:00.000Z	Al_nz1		i think its showing in fdisk as /dev/sde4
+2011-05-08T10:05:00.000Z	edbian	Al_nz1	If that's really it then sudo mount /dev/sde4 /mnt/   it will be placed in the /mnt folder
+2011-05-08T10:05:00.000Z	edbian	Al_nz1	/mnt is there for mounting stuff in
+2011-05-08T10:07:00.000Z	Al_nz1	edbian	I think i need to use mdadm
+2011-05-08T10:07:00.000Z	edbian	Al_nz1	possibly

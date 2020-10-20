@@ -1,0 +1,6 @@
+2007-05-08T10:51:00.000Z	danh_		i like utorrent under wine
+2007-05-08T10:52:00.000Z	danh_		there is definitely a lot less overhead than running Java+Azeurus
+2007-05-08T10:52:00.000Z	danh_		it has to download files, not look pretty
+2007-05-08T10:53:00.000Z	QuixoticJ	danh_	C, Is there something wrong with the default torrent client that came with ubuntu ? I'm just curious since I'm a new user I'm wondering if I should seek an alternate as well.
+2007-05-08T10:54:00.000Z	danh_	QuixoticJ	I use uTorrent because it makes it easy for me to limit the upstream bandwidth used, specify a folder containing torrent files that will be automatically downloaded, automating stuff, providing a fast dialogue to select which files in a torrent to download, specify ports
+2007-05-08T10:54:00.000Z	danh_	QuixoticJ	and a bunch of other things.  Im sure you can do all of that in rtorrent ktorrent ctorrent bittorrent whatever

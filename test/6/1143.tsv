@@ -1,0 +1,6 @@
+2012-09-18T21:03:00.000Z	discovered		hello, I installed Ubuntu 12.4 on my Dell xps 15 . My Wireless hardware is disabled .... It was worked before but suddenly got disabled.... I don't know how to fix it. Can anyone help me please?
+2012-09-18T21:05:00.000Z	wilee-nilee	discovered	Working before with what OS?  Can you name the card?
+2012-09-18T21:10:00.000Z	discovered	wilee-nilee	It worked with Ubuntu . First i was disconnect from wired network and then i reconnect with wifi(It was connecting automatic too). But suddenly i saw it is disabled .. Not sure why. here is card details: http://pastebin.com/pDXNtdQL
+2012-09-18T21:14:00.000Z	wilee-nilee	discovered	Here is a link post 2 links to a fix supposedly. http://ubuntuforums.org/showthread.php?t=2055471
+2012-09-18T21:21:00.000Z	discovered	wilee-nilee	Dell-wifi is blocked: http://pastebin.com/jDMH053f i tried to unblock it several time with command "sudo rfkill unblock all" but it is still same... Still should i try that?
+2012-09-18T21:22:00.000Z	wilee-nilee	discovered	Not sure enough to say yay or nay, but the fix is a per-session and info to have it put in a file, seems safe to try.

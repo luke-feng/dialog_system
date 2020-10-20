@@ -1,0 +1,6 @@
+2012-03-21T01:22:00.000Z	tom95		is there a dbus interface for changing the global volume?
+2012-03-21T01:24:00.000Z	almoxarife	tom95	how about that nice 'volume' icon ?
+2012-03-21T01:24:00.000Z	tom95	almoxarife	what do you mean?
+2012-03-21T01:25:00.000Z	almoxarife	tom95	I mean the 'icon' associated with 'volume' on the panel
+2012-03-21T01:26:00.000Z	tom95	almoxarife	well, it doesn't allow you to set your volume from a program written in vala for example
+2012-03-21T01:27:00.000Z	almoxarife	tom95	so you are asking 'how do I control volume within a 'vala' created app/script, yes?

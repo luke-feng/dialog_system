@@ -1,0 +1,6 @@
+2007-12-29T13:38:00.000Z	ubuntu_		Hello! I'm using the Live CD right now, and I have a small question about installation...I have Windows already installed, and so I used GParted to create an ext3 partition, a swap partition, and a 10GB fat32 partition for backup stuff. If I let Ubuntu install the bootloader, will I still be able to get into Windows?
+2007-12-29T13:40:00.000Z	imaginator	ubuntu_	yes, you should be able to.  Assuming that the boatloader installer identifies the existing partitions, and creates entries.  Make sure you have backups though beforehand of all of your important Windows data.
+2007-12-29T13:41:00.000Z	ubuntu_	imaginator	Yep, I do :) Let's assume the bootloader didn't...would there be a way to manually do it?
+2007-12-29T13:41:00.000Z	imaginator	ubuntu_	yes by manually adding an entry for grub
+2007-12-29T13:42:00.000Z	imaginator	ubuntu_	once you have ubuntu installed you can run info grub to see how to use and edit the bootloader configuration.
+2007-12-29T13:43:00.000Z	ubuntu_	imaginator	Would there be a way to have Windows remain the "default" OS (so, if you turn on the computer and leave it sitting, it'll eventually load Windows?). I'm trying to get my husband to use Ubuntu, but I need to sneak it in there :)

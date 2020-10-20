@@ -1,0 +1,6 @@
+2008-05-28T01:03:00.000Z	Luhta		how can I find out what device a usb flash stick is that won't mount?
+2008-05-28T01:03:00.000Z	Slart	Luhta	sudo blkid might help you...
+2008-05-28T01:05:00.000Z	Slart	Luhta	dmesg might also contain some clues.. or the syslog... do a "tail -f /var/log/syslog" and remove the drive and insert it again.. see what pops up
+2008-05-28T01:06:00.000Z	Luhta	Slart	well I know it used to be /dev/sdb but I need to erase a partition on it and I refuse to do it without verfying size or something first, also  fdisk won't open ti
+2008-05-28T01:06:00.000Z	Slart	Luhta	do the syslog thing I suggested..
+2008-05-28T01:10:00.000Z	Luhta	Slart	nevermind I think I got  it thanks for the help

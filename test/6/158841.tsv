@@ -1,0 +1,6 @@
+2006-09-16T14:57:00.000Z	epiloc		how do i use netstat to try to connect to a specific port on my machine?
+2006-09-16T14:57:00.000Z	nanomad	epiloc	you must use telnet
+2006-09-16T14:59:00.000Z	nanomad	epiloc	yes
+2006-09-16T15:00:00.000Z	nanomad	epiloc	telnet localhost 400
+2006-09-16T15:05:00.000Z	nanomad	epiloc	maybe it is configured to listen only to local address
+2006-09-16T15:05:00.000Z	nanomad	epiloc	or maybe u have a router

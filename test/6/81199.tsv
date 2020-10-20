@@ -1,0 +1,6 @@
+2008-04-02T06:44:00.000Z	nikrud		to get back apace2.conf  you need to purge and reinstall apache2.2-common
+2008-04-02T06:44:00.000Z	juannicolas	nikrud	how do I do that
+2008-04-02T06:45:00.000Z	juannicolas		!purge
+2008-04-02T06:46:00.000Z	juannicolas		still no apache2.conf file
+2008-04-02T06:46:00.000Z	juannicolas		:(
+2008-04-02T06:46:00.000Z	nikrud	juannicolas	sudo apt-get remove --purge apache2.2-common , then note the packages that will be removed and then apt-get install <that list>

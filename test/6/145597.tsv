@@ -1,0 +1,6 @@
+2005-12-22T16:03:00.000Z	Ophiocus		is there anyway i can force the update packages from the update manager to download to a specific location?
+2005-12-22T16:05:00.000Z	Ophiocus		i want all updates to download to another partition, i am experimenting installing ubuntu on the same machine with diferent install settings and hardware configurations, i figured i could save time if i had all the updates saved to disk so i could simply install them from there instead of downloading them every time
+2005-12-22T16:07:00.000Z	Ophiocus		hmm,. ok how bout locating them downloaded packages and moving them to another place after install, what i want is not to have to download an aditional 51 megs after i reinstall the os
+2005-12-22T16:07:00.000Z	erUSUL	Ophiocus	you can mount the patition under /var/cache/apt/archives/
+2005-12-22T16:08:00.000Z	erUSUL	Ophiocus	in all the systems
+2005-12-22T16:08:00.000Z	erUSUL	Ophiocus	do an ls /var/cache/apt/archives/ and find out ;)

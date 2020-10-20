@@ -1,0 +1,6 @@
+2010-02-26T00:38:00.000Z	Darwin4Ever		Hi, I'm using eeebuntu and would like to scp/putty into that machine, but always get an network error. Any ideas ?
+2010-02-26T00:39:00.000Z	blakkheim	Darwin4Ever	idea: give us the error
+2010-02-26T00:42:00.000Z	blakkheim	Darwin4Ever	it sounds like you need to read an ssh server tutorial
+2010-02-26T00:43:00.000Z	Darwin4Ever	blakkheim	: : my only linux experience is IPCOP, and on that one I didn't have to do anythinh to use it
+2010-02-26T00:44:00.000Z	blakkheim	Darwin4Ever	if you're so new, why do you want to use ssh?
+2010-02-26T00:45:00.000Z	Darwin4Ever	blakkheim	: : because I want to transfer packages (scp) and install them on the box (putty)

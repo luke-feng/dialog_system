@@ -1,0 +1,6 @@
+2006-10-04T05:41:00.000Z	tuxub		i am trying to rsync some stuff from one server to another keeping the permissions but the destination always get the username uid of the rsync login inserted. how can i solve this?
+2006-10-04T05:41:00.000Z	Arafangion	tuxub	What is the command?
+2006-10-04T05:42:00.000Z	Arafangion	tuxub	What about, _anything_ related to preserving permissions?
+2006-10-04T05:43:00.000Z	Arafangion	tuxub	See man rsync, search for "preserve"
+2006-10-04T05:44:00.000Z	Arafangion	tuxub	You're correct, actually.
+2006-10-04T05:49:00.000Z	tuxub	Arafangion	please take a look at http://pastebin.com/799987

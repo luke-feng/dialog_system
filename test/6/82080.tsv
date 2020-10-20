@@ -1,0 +1,6 @@
+2007-07-26T08:02:00.000Z	stefg		!faq | system79
+2007-07-26T08:02:00.000Z	system79	stefg	i cant browse without X starting huh
+2007-07-26T08:02:00.000Z	system79		=.=
+2007-07-26T08:02:00.000Z	stefg		!deluge
+2007-07-26T08:03:00.000Z	stefg	system79	i see. sudo dpkg-reconfigure xserver-xorg
+2007-07-26T08:04:00.000Z	stefg	system79	choose driver 'nv' for a temporary solution, so you get X, the see the Faq how to get the D driver

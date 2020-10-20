@@ -1,0 +1,6 @@
+2011-08-16T15:13:00.000Z	farhad2161		Can i install gcc from ubuntu-server-11 CD?
+2011-08-16T15:13:00.000Z	IdleOne	farhad2161	install build-essential package
+2011-08-16T15:15:00.000Z	farhad2161	IdleOne	how?can u give me the command?
+2011-08-16T15:15:00.000Z	IdleOne	farhad2161	sudo apt-get install build-essential
+2011-08-16T15:16:00.000Z	farhad2161	IdleOne	i wnat to install from cd,this command do nothing
+2011-08-16T15:16:00.000Z	farhad2161	IdleOne	this command try to connetct to internet

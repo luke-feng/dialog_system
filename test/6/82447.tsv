@@ -1,0 +1,6 @@
+2007-11-24T01:55:00.000Z	Creed		Whats the difference between apt-get and aptitude?
+2007-11-24T01:56:00.000Z	_nix_	Creed	apt-get is a command while aptitude is a gui frontend.
+2007-11-24T01:57:00.000Z	Creed	_nix_	aptitude isnt a gui...I can run it from cli
+2007-11-24T01:57:00.000Z	_nix_	Creed	aptitude is a gui frontend built over ncurses.. unless you mean pointing and clicking here..
+2007-11-24T01:57:00.000Z	Creed	_nix_	well graphical ui usually means pointing and clicking :P
+2007-11-24T01:58:00.000Z	_nix_	Creed	oh.. k

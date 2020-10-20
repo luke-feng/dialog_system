@@ -1,0 +1,6 @@
+2007-02-25T13:34:00.000Z	mau		has anybody successfully installed WOW on Edgy?
+2007-02-25T13:34:00.000Z	kelsin	mau	I have, it was just a matter of installing wine 9.30, then copying my windows isntall, I've heard the installer runs fine though
+2007-02-25T13:35:00.000Z	mau	kelsin	that easy huh?
+2007-02-25T13:35:00.000Z	mau		so i can just run the installer if I have wine?
+2007-02-25T13:35:00.000Z	kelsin		yeah, make sure you get wine here: http://www.winehq.org/site/download-deb
+2007-02-25T13:36:00.000Z	kelsin	mau	follow those instrutions, wine past 9.28 I think runs wow without any patches, but if you add that repo you get the newest one, which for me runs War3, Starcraft and WoW right out of the box with no trouble at all

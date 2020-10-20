@@ -1,0 +1,6 @@
+2011-06-29T16:18:00.000Z	`Lynx		hello, i've installed 11.4 with a netinstall image and it won't boot but show me a blinking cursor. similar problem: https://bugs.launchpad.net/ubuntu/+source/debian-installer/+bug/768450
+2011-06-29T16:18:00.000Z	`Lynx		any ideas?
+2011-06-29T16:19:00.000Z	bazhang	`Lynx	beta 2?
+2011-06-29T16:20:00.000Z	bazhang	`Lynx	thats what the bug says
+2011-06-29T16:21:00.000Z	`Lynx	bazhang	it doesnt say anything, it won't boot but show a blinking cursor
+2011-06-29T16:27:00.000Z	bazhang	`Lynx	thats enough

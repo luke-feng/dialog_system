@@ -1,0 +1,6 @@
+2007-08-31T10:08:00.000Z	maestrojed		I am attempting my first install of ubuntu.  I am using the 6.06 LTS.  I go through the six questions and it starts installing but locks up at 0%.  I am now downloading the alternative CD.  Are there any other suggestions?
+2007-08-31T10:09:00.000Z	h1st0	maestrojed	check the cd for errors
+2007-08-31T10:09:00.000Z	h1st0	maestrojed	or it could be hanging when its partitioning the drive?
+2007-08-31T10:12:00.000Z	maestrojed	h1st0	it could be, I choose to format the entire disk
+2007-09-16T12:28:00.000Z	h1st0	maestrojed	most hard ware is detected by the kernel and a module is loaded.  Have you tried lscpi to see if it found the hardware.
+2007-09-16T12:29:00.000Z	h1st0	maestrojed	also look at dmesg

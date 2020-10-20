@@ -1,0 +1,6 @@
+2011-12-28T17:36:00.000Z	keratacon		I did something stupid and rm'ed the contents of /etc/apache2, thinking that if I removed the package and reinstalled it, I'd get a new /etc/apache2 with all the defaults restored.  Turns out that didn't work, and now /etc/apache2 is still empty.  Is there a way to get the apache2 package to rebuild those directories and files?
+2011-12-28T17:37:00.000Z	axtheb	keratacon	did you really purged the package?
+2011-12-28T17:37:00.000Z	keratacon	axtheb	think so, but for reference, how do I do that?
+2011-12-28T17:37:00.000Z	keratacon		(this is a development virtualhost, my ignorance isn't allowed near a real server)
+2011-12-28T17:39:00.000Z	axtheb	keratacon	I whould do purge action in aptitude (underscore key). I dont use graphical tools
+2011-12-28T17:41:00.000Z	keratacon	axtheb	"aptitude purge apache2" followed by "aptitude install apache2" did not regenerate the .conf files

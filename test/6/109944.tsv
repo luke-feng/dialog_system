@@ -1,0 +1,6 @@
+2007-03-30T14:56:00.000Z	flyinghippo		Hello.  I have attempted to reinstall drivers on my new installation of nVidia drivers on Ubuntu, but X will not function after I do.  It would not do this, however, when my card's settings appeared to be erased, and I was stuck with the generic defaults.
+2007-03-30T14:56:00.000Z	flyinghippo		Would anyone know of any useful techniques other than nvidia-xconfig to install nVidia drivers?
+2007-03-30T14:56:00.000Z	bluefox83	flyinghippo	did you ever bother to modprobe nvidia?
+2007-03-30T14:56:00.000Z	flyinghippo	bluefox83	I'm not so familiar with modprobe.
+2007-03-30T14:57:00.000Z	bluefox83	flyinghippo	just "sudo modprobe nvidia"
+2007-03-30T14:59:00.000Z	bluefox83	flyinghippo	it's a bit like installing a lamp but leaving out the bulb..without the driver loaded into the kernel you don't get anywhere

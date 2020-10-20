@@ -1,0 +1,6 @@
+2010-06-13T02:37:00.000Z	jalexbrown		I installed Kubuntu 10.04, and I really ended up not liking KDE.  If I installed Gnome and then uninstalled KDE, would that be okay?  Or do I actually need to uninstall Kubuntu and install Ubuntu?
+2010-06-13T02:38:00.000Z	SlidingHorn	jalexbrown	http://www.psychocats.net/ubuntu/puregnome should help you
+2010-06-13T02:38:00.000Z	SlidingHorn	jalexbrown	before you do what that site says, makesure you sudo apt-get install ubuntu-desktop
+2010-06-13T02:39:00.000Z	SlidingHorn	jalexbrown	then simply: sudo apt-get install ubuntu-desktop and then run the command that that site says
+2010-06-13T02:40:00.000Z	jalexbrown	SlidingHorn	Okay, that's what I'm doing right now.  I just wanted to make sure if wasn't going to mess anything up.
+2010-06-13T02:45:00.000Z	SlidingHorn	jalexbrown	no, you'll have to install a clean version...you can *access* your windows files by mounting the partition, but that's about it

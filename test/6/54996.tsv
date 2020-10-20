@@ -1,0 +1,6 @@
+2008-07-07T18:33:00.000Z	SolidSlash		hey, is there any chance to get rid of app's icons displayed on xfce4-panel's tasks list?
+2008-07-07T18:35:00.000Z	IndyGunFreak	SolidSlash	right click, remove from panel?
+2008-07-07T18:36:00.000Z	SolidSlash	IndyGunFreak	I'm talking about the tasks list
+2008-07-07T18:37:00.000Z	IndyGunFreak	SolidSlash	oh ok, sorry, not used xfce in a while, and i can't remember..
+2008-07-07T18:37:00.000Z	SolidSlash	IndyGunFreak	I guess it's related to gtkrc file of current gtk theme, but I can't find the solution
+2008-07-07T18:38:00.000Z	IndyGunFreak	SolidSlash	it could be, i really don't know/can't remember

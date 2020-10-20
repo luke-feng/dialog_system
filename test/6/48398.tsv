@@ -1,0 +1,6 @@
+2008-11-11T04:12:00.000Z	lakitu		how do i backup partition tables, mbrs, & bootsectors (or ...) from linux, while they're good?
+2008-11-11T04:13:00.000Z	Deadmode	lakitu	i would just google search
+2008-11-11T04:13:00.000Z	lakitu	Deadmode	i was hoping someone with experience could recommend the best program
+2008-11-11T04:14:00.000Z	Deadmode	lakitu	mmm i seee i don't blame you there.  I have no experience with backing up partitions sorry.
+2008-11-11T04:17:00.000Z	Deadmode	lakitu	be sure to transfer that .img though otherwise it's completely useless keeping it on the same disk :P
+2008-11-11T04:17:00.000Z	Deadmode	lakitu	 :P defeats the purpose

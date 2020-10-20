@@ -1,0 +1,6 @@
+2010-07-05T17:58:00.000Z	duli		I've created a new wireless connection in Networkmanager (U 10.04) and have connected my iPhone to it. However, I can't browse from my iPhone. Any clues?
+2010-07-05T17:59:00.000Z	BluesKaj	duli	iphone connected to a laptop ?
+2010-07-05T17:59:00.000Z	duli	BluesKaj	yes, wirelessly
+2010-07-05T18:01:00.000Z	BluesKaj	duli	 then your iphone is not connecting , it's your laptop that has preceence with NM
+2010-07-05T18:03:00.000Z	BluesKaj	duli	are you trying to use the iphone as a gateway ?
+2010-07-05T18:03:00.000Z	duli	BluesKaj	Hum, I remeber one time I created a NM share and other laptops could connect to it with no problem. I think I was using Fedora back then (but that should be irrelevant)...

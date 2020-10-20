@@ -1,0 +1,6 @@
+2010-05-20T06:46:00.000Z	LUCIDementia		I'm trying to do a frugal install (boot ubuntu without a disc) but having some troubles. Anyone here familiar with this process?
+2010-05-20T06:48:00.000Z	LUCIDementia		 UNetbootin,  Universal Netboot Installer . Supposedly can make a bootable installer on the harddrive, but when I try to open the file it asks what application I want to use to open it
+2010-05-20T06:48:00.000Z	LUCIDementia		which baffles me since I thought it's supposed to be installing something
+2010-05-20T06:49:00.000Z	LUCIDementia		no one can seem to get my wireless to work so I was told to reformat my harddrive. I'm trying to do that but I don't have any more CDs, so I was sent this link. Is that not what it does?
+2010-05-20T06:50:00.000Z	dominicdinada	LUCIDementia	how would formatting your hard drive help your wireless problem if you didnt install or configure the drivers to begin with
+2010-05-20T06:51:00.000Z	LUCIDementia	dominicdinada	I tried everything I could find that sounded close to my problem. When nothing worked and #ubuntu couldn't help they said it could be because I screwed something up along the way. I don't know enough to undo this damage so I'm trying to start over

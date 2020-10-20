@@ -1,0 +1,6 @@
+2008-08-20T10:58:00.000Z	Achoth		Hello. I recently tried installing Vista to dual boot with XP & Ubuntu. After the installation I restored GRUB, and can start Vista & Ubuntu. However, when I choose XP, I just get an error message telling me I "can't mount the selected partition". Any ideas?
+2008-08-20T11:00:00.000Z	Forgott3n`	Achoth	I can only assume the location of XP has been changed
+2008-08-20T11:00:00.000Z	Forgott3n`		aka  (hd0,0) to (hd0,1)
+2008-08-20T11:00:00.000Z	Forgott3n`		df -h is your friend :)
+2008-08-20T11:01:00.000Z	Achoth	Forgott3n`	I've tried all diffrent possibillities, I either boot Vista, boot Ubuntu, get "no such partition" message or "can't mount partition" message
+2008-08-20T11:03:00.000Z	Achoth	Forgott3n`	I can also mount the XP partition in Ubuntu, so it's still intact

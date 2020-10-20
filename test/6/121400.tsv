@@ -1,0 +1,6 @@
+2006-05-13T12:22:00.000Z	jtd		what do you guys recommend for doing LaTeX?  what's the correct package set to install for compiling BiBTeX and LaTeX, and is there a good IDE out there for it?
+2006-05-13T12:22:00.000Z	orbin	jtd	latex-bin for latex stuff.  lyx if you want an IDE
+2006-05-13T12:23:00.000Z	jtd	orbin	E: Couldn't find package latex-bin
+2006-05-13T12:24:00.000Z	jtd	orbin	it's actually tetex-*
+2006-05-13T12:24:00.000Z	orbin	jtd	sorry, tetex-bin ... i'm not on my ubuntu machine unforutnately :)
+2006-05-13T12:25:00.000Z	orbin	jtd	yes, i normally double-check. sorry

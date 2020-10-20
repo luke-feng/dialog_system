@@ -1,0 +1,6 @@
+2012-09-19T17:21:00.000Z	slabgrha		mike@ubuntuVM:~$ tar cvf foo.tar this\ is\ a\ test.xml
+2012-09-19T17:21:00.000Z	slabgrha		this is a test.xml
+2012-09-19T17:21:00.000Z	slabgrha		mike@ubuntuVM:~$ tar tvf foo.tar
+2012-09-19T17:21:00.000Z	slabgrha		-rw-rw-r-- mike/mike         0 2012-09-19 08:20 this is a test.xml
+2012-09-19T17:21:00.000Z	slabgrha		?
+2012-09-19T17:21:00.000Z	FloodBot1	slabgrha	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

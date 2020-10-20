@@ -1,0 +1,6 @@
+2011-02-10T17:31:00.000Z	psyklown		how would i go abouts copying an icon set to /usr/share/icons with permissions?
+2011-02-10T17:31:00.000Z	Dr_Willis	psyklown	 sudo cp foo /the/path/to/use
+2011-02-10T17:42:00.000Z	Dr_Willis	psyklown	 im not even sure what you are trying to do.
+2011-02-10T17:43:00.000Z	psyklown	Dr_Willis	just copying these icons that i downloaded to the usr/share/icons directory. i cant extract it there because it says i dont have the proper permissions. i also cant copy paste it there either
+2011-02-10T17:44:00.000Z	Dr_Willis	psyklown	 why are you putting them in there?  icon themnes can go in the users home in the .icons directory I think
+2011-02-10T17:45:00.000Z	Dr_Willis	psyklown	  'sudo cp  fileyouwant /path/to/put/it/to'   is the core of it.. I wouldent be messing with your icons/system dirs untill you understand some more linux basics.. One typo with sudo and you can break things badly

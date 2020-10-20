@@ -1,0 +1,6 @@
+2010-07-06T17:50:00.000Z	Ash___		Could someone please gimmie a hand? I'm trying to save some files from a dead windows box, and i can't mount the harddrive: it's telling me i need to boot into windows and run chkdsk, but obviously i can't. D:
+2010-07-06T17:52:00.000Z	Ash___		anyone?
+2010-07-06T17:53:00.000Z	Ash___		Oh, sorry. I'm running an Ubuntu Live CD and trying to save the files on a dead windows box. The hard drive won't mount, and in the error details I am told to run chkdsk /f in windows, and reboot. I can't do that, though, because the windows install is dead.
+2010-07-06T17:55:00.000Z	Ash___		Is that a bit clearer, bullgard4? :/
+2010-07-06T17:56:00.000Z	abhi_nav	Ash___	I only know that this software used to recoverd data from partitions. I dont know further. see if this helps: http://www.cgsecurity.org/wiki/TestDisk
+2010-07-06T17:57:00.000Z	Ash___	abhi_nav	unfortunately because windows is dead i can't burn any CD's :/

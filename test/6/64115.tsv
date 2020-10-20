@@ -1,0 +1,6 @@
+2008-02-12T00:42:00.000Z	canthony		does anyone know how to fix a few small visual issues i am having
+2008-02-12T00:42:00.000Z	canthony		when gdm loads...it turns the screen white for a breif moment
+2008-02-12T00:42:00.000Z	canthony		how can i make that black
+2008-02-12T00:43:00.000Z	Odd-rationale	canthony	do sudo gedit /etc/gdm/PreSession/Default
+2008-02-12T00:44:00.000Z	Odd-rationale	canthony	Don't know then. Sorry.
+2008-02-12T01:25:00.000Z	canthony	Odd-rationale	i am trying to create a mobile installation system...i plan of downloading the entire hardy repo to an external hd upon release

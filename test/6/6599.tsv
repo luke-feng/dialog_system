@@ -1,0 +1,6 @@
+2011-09-05T18:57:00.000Z	derp52		Hey guys, under additional drivers I installed the NVIDIA driver but it says: "This driver is activated but not currently in use."
+2011-09-05T18:59:00.000Z	DasEi	derp52	log out of x , run nvidia-xconfig
+2011-09-05T18:59:00.000Z	derp52	DasEi	What will that do?
+2011-09-05T19:02:00.000Z	DasEi	derp52	reconfigure your xorg to use the driver
+2011-09-05T19:03:00.000Z	derp52	DasEi	How do I log out of X?
+2011-09-05T19:11:00.000Z	DasEi	derp52	ctrl+alt+F2

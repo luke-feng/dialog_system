@@ -1,0 +1,6 @@
+2011-05-03T07:55:00.000Z	IdleOne		!skype > izinucs
+2011-05-03T07:55:00.000Z	izinucs	IdleOne	thanks
+2011-05-03T07:55:00.000Z	IdleOne	izinucs	there are plugins for skype in the repos but not skype itself
+2011-05-03T07:56:00.000Z	IdleOne	izinucs	rather plugins for pidgin to work with skype...
+2011-05-03T07:57:00.000Z	izinucs	IdleOne	hummm.. the command is the one I tried a few minutes ago and now it works.. sudo apt-get install skype.. seems to be working.. with that installed you mean I can also install the plugins for pidgeon etc right?
+2011-05-03T07:58:00.000Z	IdleOne	izinucs	apt-cache search skype   that will show you the packages I was talking about.

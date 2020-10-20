@@ -1,0 +1,6 @@
+2007-06-21T14:13:00.000Z	crocodile		Taj - I just put on a cpu monitor and you're 100% right... it's idling at 600mhz and maxing at 1600 mhz
+2007-06-21T14:13:00.000Z	crocodile		tajmox rather, not taj
+2007-06-21T14:14:00.000Z	crocodile		tajmox - no I like this :)
+2007-06-21T14:15:00.000Z	crocodile		zagg - I did that and just su root for command line stuffs.  It beats remembering to type sudo every command :P
+2007-06-21T14:16:00.000Z	Flannel	crocodile	`sudo -i` will get you a root shell without the costs of having an enabled root account
+2007-06-21T14:18:00.000Z	Flannel	crocodile	Eh, You think you're using it an awful lot (in the beginning) because you are, but after a few weeks, you'll hardly ever need to sudo for anything.  'Living' with sudo is hardly that big of a deal

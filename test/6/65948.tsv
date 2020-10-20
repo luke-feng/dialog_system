@@ -1,0 +1,6 @@
+2012-08-03T08:36:00.000Z	ActionParsnip	drape	you'll need:  echo "256" | sudo tee container/cpu.shares
+2012-08-03T08:39:00.000Z	drape	ActionParsnip	that worked... ugh, why?
+2012-08-03T08:39:00.000Z	ActionParsnip	drape	permissions
+2012-08-03T08:39:00.000Z	ActionParsnip	drape	sudo doesn't traverse the redirection
+2012-08-03T08:39:00.000Z	ActionParsnip	drape	so you have to echo and pipe to sudo tee to overcome
+2012-08-03T08:40:00.000Z	ActionParsnip	drape	you can run:  sudo -i   first, then the command as you expect and it will work as both halves run as root

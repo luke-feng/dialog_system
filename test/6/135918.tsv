@@ -1,0 +1,6 @@
+2005-12-03T16:38:00.000Z	oxez		What's your /etc/fstab line?
+2005-12-03T16:38:00.000Z	DShepherd	oxez	it doesnt
+2005-12-03T16:38:00.000Z	oxez	DShepherd	?
+2005-12-03T16:38:00.000Z	DShepherd		It doesnt mount on initial install
+2005-12-03T16:39:00.000Z	DShepherd		you have to edit the fstab.. or mount it your self
+2005-12-03T16:39:00.000Z	oxez	DShepherd	oh yes

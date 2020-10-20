@@ -1,0 +1,6 @@
+2012-05-25T00:44:00.000Z	taime		hi, if i install 32 bit with more than 3gb ram, will ubuntu automatically install PAE kernel?
+2012-05-25T00:45:00.000Z	lewellyn	taime	it gave me an smp kernel. haven't checked to see if it does pae. let's find out!
+2012-05-25T00:46:00.000Z	lewellyn	taime	it looks to not be pae :/
+2012-05-25T00:46:00.000Z	lewellyn	taime	it shows 3gb ram total :/
+2012-05-25T00:46:00.000Z	taime	lewellyn	hmm
+2012-05-25T00:47:00.000Z	lewellyn	taime	i also have an E5400 :)

@@ -1,0 +1,6 @@
+2008-06-26T02:23:00.000Z	Felonious		ive yet to see a howto on how to REMOVE grub
+2008-06-26T02:24:00.000Z	Felonious		well Im getting a new PC i want to dedicate to Ubuntu, so I kind of want to take it off of this one
+2008-06-26T02:24:00.000Z	Felonious		but keep my windows on here
+2008-06-26T02:25:00.000Z	Felonious		so fdisk /mbr is what I want?
+2008-06-26T02:25:00.000Z	DanielRM	Felonious	the Super GRUB Disk has the option to restore the Windows bootloader.
+2008-06-26T02:25:00.000Z	DanielRM	Felonious	then it's just a case of wiping the Linux partition in Windows.

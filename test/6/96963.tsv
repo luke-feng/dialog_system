@@ -1,0 +1,6 @@
+2007-04-18T14:33:00.000Z	patzlaff		Anybody can help me /
+2007-04-18T14:33:00.000Z	patzlaff		?
+2007-04-18T14:33:00.000Z	patzlaff		I have one card NVIDIA and when Desktop Effects enable, the screen was blank
+2007-04-18T14:33:00.000Z	jano_	patzlaff	do you have nvidia-glx installed?
+2007-04-18T14:34:00.000Z	jano_	patzlaff	then do first :)
+2007-04-18T14:35:00.000Z	jano_	patzlaff	you will have to reconfigure xorg first...

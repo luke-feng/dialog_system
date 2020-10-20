@@ -1,0 +1,6 @@
+2010-01-01T11:23:00.000Z	wowoto	fiber	use /dev/sdaX  instead of uuid
+2010-01-01T11:24:00.000Z	fiber	wowoto	kmyst: where would you recommend I do this?
+2010-01-01T11:25:00.000Z	wowoto	fiber	maybe in  :   /etc/fstab
+2010-01-01T11:25:00.000Z	fiber	wowoto	nah, it's not getting that far
+2010-01-01T11:25:00.000Z	wowoto	fiber	o ,sorry..
+2010-01-01T11:26:00.000Z	fiber	wowoto	no worries, thanks trying though

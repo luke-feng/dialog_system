@@ -1,0 +1,6 @@
+2006-10-02T13:34:00.000Z	johnsie		Hi... is the a terminal command to get my cpu info?
+2006-10-02T13:35:00.000Z	daxxar	johnsie	cat /proc/cpuinfo
+2006-10-02T13:47:00.000Z	daxxar	johnsie	most irc-clients do that. Usually you just press 'tab' after a few characters, i.e. 'jo<tab>' = johnsie. :-)
+2006-10-02T13:47:00.000Z	daxxar	johnsie	I'm using irssi, which has that feature. (it usually adds : too, but I removed that)
+2006-10-02T13:47:00.000Z	johnsie	daxxar	cool
+2006-10-02T13:48:00.000Z	daxxar	johnsie	np. ;-)

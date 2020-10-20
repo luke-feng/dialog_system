@@ -1,0 +1,6 @@
+2009-06-16T00:22:00.000Z	RandomUser		I have a q6600 Intel Quad core. Should I be downloading the 64 bit version of ubuntu? I can't figure out why the 64bit version says AMD
+2009-06-16T00:24:00.000Z	natschil	RandomUser	if you have a 64 bit processor you can use the 64 bit version
+2009-06-16T00:25:00.000Z	natschil	RandomUser	I think AMD started with 64 bit, so that's why it was originally amd64...
+2009-06-16T00:25:00.000Z	natschil	RandomUser	yes
+2009-06-16T00:26:00.000Z	natschil	RandomUser	I think you can use up to 4 GB of memory with 32 bit as well though...
+2009-06-16T00:28:00.000Z	natschil	RandomUser	I doubt that, as as far as I know it has to be 2^x . iirc it's 4 GB

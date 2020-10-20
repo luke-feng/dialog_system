@@ -1,0 +1,6 @@
+2010-08-17T16:10:00.000Z	younder	tensorpudding	looks like a simple 4 liner here
+2010-09-18T06:12:00.000Z	tensorpudding	younder	i think you need to have execute permissions on every directory along the path to that directory
+2010-09-18T06:14:00.000Z	younder	tensorpudding	Thanks..
+2010-09-18T06:14:00.000Z	tensorpudding	younder	that S really is capitalized there?
+2010-09-18T06:16:00.000Z	younder	tensorpudding	It is capitalized if there is no x
+2010-09-18T06:17:00.000Z	younder	tensorpudding	I Think it is to make it more obvious that it is missing. It is very difficult to see. Certainly chmod has no S option.

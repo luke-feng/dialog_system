@@ -1,0 +1,6 @@
+2005-04-01T10:41:00.000Z	calc		totem-xine seems to work better than totem-gstreamer
+2005-04-01T10:42:00.000Z	calc		broadcom only works with ndiswrapper and only on i386
+2005-04-01T10:43:00.000Z	calc		they are $*%*% and won't release their drivers, docs or anything else for linux
+2005-04-01T10:43:00.000Z	calc		some people are working on writing a broadcom linux driver but at their current pace it will be a few years until its done
+2005-04-01T10:43:00.000Z	john	calc	ubunto have a deb package for ndiswrapper?
+2005-04-01T10:43:00.000Z	calc	john	not sure

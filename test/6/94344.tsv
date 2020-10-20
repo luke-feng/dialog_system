@@ -1,0 +1,6 @@
+2011-02-16T22:23:00.000Z	lima		I updated my ubuntu, now i can't be root anymore
+2011-02-16T22:23:00.000Z	lima		cat: /etc/sudoers: Permission denied
+2011-02-16T22:24:00.000Z	lima		cat: /etc/sudoers: Permission denied
+2011-02-16T22:24:00.000Z	lima		i did
+2011-02-16T22:24:00.000Z	lima		i mean
+2011-02-16T22:26:00.000Z	BluesKaj	lima	sudo visudo ?

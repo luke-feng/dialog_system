@@ -1,0 +1,6 @@
+2007-04-04T11:49:00.000Z	peeks		hello
+2007-04-04T11:49:00.000Z	peeks		i have installed the eclipse package, that comes with JDK, but the libraries doesnt seem installed, how can i get them ?
+2007-04-04T11:49:00.000Z	peeks		for example, the Scanner from the java.util  package is not here
+2007-04-04T11:50:00.000Z	Azzkikr	peeks	install jdk1.5 seperately, i guess
+2007-04-04T11:51:00.000Z	peeks	Azzkikr	which package ? there are lots
+2007-04-04T11:52:00.000Z	Azzkikr	peeks	try this link: http://ubuntuguide.org/wiki/Ubuntu_Edgy#How_to_install_Java_Development_Kit_.28JDK.29_v5.0

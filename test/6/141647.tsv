@@ -1,0 +1,6 @@
+2006-09-04T12:10:00.000Z	bayzider		ok let me exlpain this again im installing x86(im a tester) i need to install it on a blank hard drvie but i only have one how ever on one of my partitions i have a expirered windows(i need to register it)  so im haveing trouble geting it off ym hard drive so can some one help me
+2006-09-04T12:12:00.000Z	bayzider		no this os NEEDS its own drive not partition. i need to go into the live cd and install it from there its no linux its osx i just need to know how to completly whipe my hard drive
+2006-09-04T12:13:00.000Z	bayzider		im not sure how to use that is it just one command and every things gone
+2006-09-04T12:14:00.000Z	bayzider		can some one give me the command
+2006-09-04T12:15:00.000Z	Arafangion	bayzider	The command's name *is* "fdisk", without the quotations.
+2006-09-04T12:19:00.000Z	Arafangion	bayzider	What did you want it to do?

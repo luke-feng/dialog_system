@@ -1,0 +1,6 @@
+2012-07-11T16:55:00.000Z	ramez		Hi guys
+2012-07-11T16:56:00.000Z	ramez		I have dell vostro A860 and i can't install ubuntu 12.04
+2012-07-11T16:56:00.000Z	Kruptein	ramez	with "I can't" do you mean the installation failed or something else?
+2012-07-11T16:59:00.000Z	Kruptein	ramez	sorry, are your boot options correct?
+2012-07-11T17:08:00.000Z	Kruptein	ramez	did you try to see if it boots on another pc/laptop ?
+2012-07-11T17:11:00.000Z	Kruptein	ramez	check this https://help.ubuntu.com/community/BootFromCD

@@ -1,0 +1,6 @@
+2006-10-23T14:18:00.000Z	wikijeff		Is there a way to startx in recovery mode as a user without root privileges?
+2006-10-23T14:19:00.000Z	Dr_willis	wikijeff	 if you are in rescue mode logged in as root. use startx
+2006-10-23T14:20:00.000Z	wikijeff	Dr_willis	is rescue mode the same as recovery mode?
+2006-10-23T14:21:00.000Z	Dr_willis	wikijeff	 its booting to single user mode.. they just use silly names for them
+2006-10-23T14:21:00.000Z	wikijeff	Dr_willis	ok thanks
+2006-10-24T06:11:00.000Z	Dr_willis	wikijeff	 it pays to pay attention. :P

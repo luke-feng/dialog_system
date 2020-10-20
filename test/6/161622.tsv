@@ -1,0 +1,6 @@
+2004-11-02T07:20:00.000Z	elvstone		"Ubuntu includes the best translations available for the Ubuntu desktop software (and you can help to improve those translations!)" <- from ubuntu website.. where can i find a public repository of these translations (specifically the one for the gnome ui)?
+2004-11-02T07:20:00.000Z	|trey|	elvstone	those are in developement afaik
+2004-11-02T07:21:00.000Z	elvstone	|trey|	the translations? i'm aware of that, but aren't the translations in work available somewhere?
+2004-11-02T07:21:00.000Z	|trey|	elvstone	not entirely sure, don't know where...
+2004-11-02T07:21:00.000Z	elvstone	|trey|	i'm interested in fixing some things with the swedish translation (which is OK in standard gnome, but a bit broken on ubuntu).
+2004-11-02T07:22:00.000Z	elvstone	|trey|	it's weird how they say you can help out but they don't have their changes in public anywhere..

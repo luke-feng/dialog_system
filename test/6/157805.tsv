@@ -1,0 +1,6 @@
+2005-01-06T09:44:00.000Z	ArCHoNKoG		alright is there a howto so i can keep ot up today
+2005-01-06T09:44:00.000Z	crimsun	ArCHoNKoG	see the topic
+2005-01-06T10:10:00.000Z	crimsun	ArCHoNKoG	you can check out the cvs version and build it manually, but it lacks features that are in the binary-only version (copy protection support, etc.)
+2005-01-06T11:35:00.000Z	crimsun	ArCHoNKoG	< niran> go to synaptic and add the universe repositories
+2005-01-06T12:22:00.000Z	crimsun	ArCHoNKoG	are both programs set to use esd?
+2005-01-06T12:22:00.000Z	ArCHoNKoG	crimsun	not sure how can i find out

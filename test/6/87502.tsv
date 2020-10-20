@@ -1,0 +1,6 @@
+2007-06-22T08:36:00.000Z	sholden		Hi everyone, I am on a fresh Feisty install on a HP Pavilion zd7000.  After running the computer for a couple minutes, I keep getting Critical Temperature errors and the computer powers down.  I don't think that the computer is actually overheating, but I dont know where to fix this setting.  Does anyone know how I can stop it from doing this?
+2007-06-22T08:37:00.000Z	mat1980	sholden	check the temperature with "acpi -V".
+2007-06-22T08:39:00.000Z	mat1980	sholden	is not very cool
+2007-06-22T08:39:00.000Z	mat1980	sholden	what cpu do you have?
+2007-06-22T08:42:00.000Z	mat1980	sholden	then no cpu frequency scaling ability...
+2007-06-22T08:45:00.000Z	mat1980	sholden	does the fan run?

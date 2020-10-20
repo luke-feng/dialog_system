@@ -1,0 +1,6 @@
+2011-03-10T22:25:00.000Z	plainhao		upgrading my ubuntu hardy to 10.04 via ssh, do i need to worry about it hanging after restart?
+2011-03-10T22:25:00.000Z	plainhao		i don't see a /boot/grub/menu.lst file
+2011-03-10T22:27:00.000Z	rob_p	plainhao	There's always a risk of that sort of thing when you remotely upgrade.  That's why you should have some, "out of band" method to fall back on, should you need...
+2011-03-10T22:28:00.000Z	plainhao	Dr_Willis	what should i do then? this page tells me to specify the lucid version in the grub file: https://help.ubuntu.com/community/LucidUpgrades
+2011-03-10T22:29:00.000Z	plainhao		ok, thanks, Dr_Willis and rob_p, i’ll risk rebooting then
+2011-03-10T22:30:00.000Z	rob_p	plainhao	good luck  :)

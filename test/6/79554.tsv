@@ -1,0 +1,6 @@
+2009-12-13T06:26:00.000Z	Gate		anyone direct me to a decent howto to unencrypt files that were  encrypted by the "encrypt your home directory" option in Ubuntu?
+2009-12-13T06:26:00.000Z	maco	Gate	when you're logged in the directory will be decrypted. then you can copy files out in cleartext
+2009-12-13T06:28:00.000Z	Gate	maco	system is unbootable. I am dumping the files onto another working system and I need to recover the data
+2009-12-13T06:28:00.000Z	maco	Gate	i think you need to copy the whole directory then. im not sure where the key is stored though
+2009-12-13T06:29:00.000Z	Gate		I am copying the whole home folder, thanks. Just trying to hunt down some instructions or a manual that describes how to unencrypt them.
+2009-12-13T06:29:00.000Z	maco	Gate	i think there's a file in there when its not unlocked that says how to open it, isnt there?

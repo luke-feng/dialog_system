@@ -1,0 +1,6 @@
+2011-08-13T09:41:00.000Z	Ir0nman		Hi I need help setting up grub2.  I currently have 3 partitions ubuntu - winxp and - win 7
+2011-08-13T09:42:00.000Z	Ir0nman		winxp was the last install and it broke grub2
+2011-08-13T09:42:00.000Z	Ir0nman		the partitions? yeah i know but its a netbook so i like having multiple options on the go
+2011-08-13T09:43:00.000Z	Ir0nman		ive gotten grub2 back but it doesnt find winxp
+2011-08-13T09:44:00.000Z	Ir0nman		with update-grub
+2011-08-13T09:44:00.000Z	mkaurin	Ir0nman	http://ubuntuforums.org/showthread.php?t=1200513

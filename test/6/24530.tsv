@@ -1,0 +1,6 @@
+2011-04-18T10:59:00.000Z	rhizmoe		what is ubuntu's automounter called? or whatever dynamically mounts my different drives so that they don't always show up.
+2011-04-18T11:00:00.000Z	ohsix	rhizmoe	udisks informs the automounter, try udisks --dump and see if it knows about your volume; you can also use Disk Utility
+2011-04-18T11:04:00.000Z	ohsix	rhizmoe	you don't really get much by putting it in fstab except mounting it at boot, or mounting it somewhere than /media; with nautilus/udisks they'll be mounted on access
+2011-04-18T11:05:00.000Z	rhizmoe	ohsix	thing is, they remount s o  s l o w l y
+2011-04-18T11:05:00.000Z	ohsix	rhizmoe	i had one volume i wanted mounted before i clicked on it, just so i could skip the step, i just told startup applications to mount it
+2011-04-18T11:05:00.000Z	rhizmoe	ohsix	within apps

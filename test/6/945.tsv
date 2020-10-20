@@ -1,0 +1,6 @@
+2012-08-31T14:26:00.000Z	GuestTimmy		Hi guys!
+2012-08-31T14:28:00.000Z	GuestTimmy		General question: has the smb mountpoint been changed in 12.04.1?
+2012-08-31T14:30:00.000Z	andycc	GuestTimmy	wasn't SMB handled by gvfs? The mount point should be under ~/.gvfs/, just like in older releases.
+2012-08-31T14:32:00.000Z	andycc	GuestTimmy	mount, by itself, will give you a list of mount points.
+2012-08-31T14:41:00.000Z	andycc	GuestTimmy	funny how the Windows approach to solving problems works on Ubuntu.
+2012-08-31T14:42:00.000Z	GuestTimmy	andycc	:D

@@ -1,0 +1,6 @@
+2007-05-21T08:49:00.000Z	Pokit		is it possible to play flash in x64 ?
+2007-05-21T08:50:00.000Z	Pokit		Is it possible to play embedded flash in a browser with 64-bit ubuntu?
+2007-05-21T08:50:00.000Z	Pokit		:/
+2007-05-21T08:51:00.000Z	jrib	Pokit	http://www.janvitus.netsons.org/2007/01/15/nspluginwrapper-adobe-flash-player/
+2007-05-21T08:51:00.000Z	jrib	Pokit	(or compile nspluginwrapper yourself (or use a 32bit chroot (see wiki)))
+2007-05-29T07:08:00.000Z	jrib	Pokit	then the script is compiling

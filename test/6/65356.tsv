@@ -1,0 +1,6 @@
+2008-03-12T01:30:00.000Z	Sl4y3r		!java
+2008-03-12T01:30:00.000Z	Sl4y3r		i cant get java to work in firefox
+2008-03-12T01:30:00.000Z	Sl4y3r		any suggestions
+2008-03-12T01:32:00.000Z	Gary_inNYC	Sl4y3r	i have issues with firefox as well... especially with pages such as break.com
+2008-03-12T01:48:00.000Z	Gary_inNYC	Sl4y3r	did you install java from the "ubuntu-restricted-extras" metapackage?
+2008-03-12T01:52:00.000Z	Gary_inNYC	Sl4y3r	for me I got java and various plugins and codecs running from the restricted extras metapackage, although performance in certain pages like break.com is spotty

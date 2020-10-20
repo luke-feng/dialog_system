@@ -1,0 +1,6 @@
+2007-01-24T12:12:00.000Z	mcquaid		anyone good with grub?  i'm been trying for awhile to get windows to boot via grub with no success.
+2007-01-24T12:12:00.000Z	mcquaid		here's what i have in menu.1st
+2007-01-24T12:12:00.000Z	mcquaid		http://www.pastebin.ca/index.php
+2007-01-24T12:12:00.000Z	mcquaid		just the relevant portion
+2007-01-24T12:13:00.000Z	mcquaid		http://www.pastebin.ca/326595
+2007-01-24T12:15:00.000Z	shatrat	mcquaid	Is grub on the same drive as windows?

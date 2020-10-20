@@ -1,0 +1,6 @@
+2005-06-11T07:59:00.000Z	hyso		How do I start X applications as a diferent user of who is logged in gnome?
+2005-06-11T08:00:00.000Z	crouton	hyso	- you mean like root?
+2005-06-11T08:01:00.000Z	hyso	crouton	for example but, in this case it is not root
+2005-06-11T08:01:00.000Z	crouton		hi chislon
+2005-06-11T08:02:00.000Z	crouton	hyso	- you could probably do something like 'sudo user application &'
+2005-06-11T08:02:00.000Z	hyso	crouton	I know how to do sudo and su

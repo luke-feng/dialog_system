@@ -1,0 +1,6 @@
+2007-04-20T06:17:00.000Z	yag4mi		well, with feisty folk who have old nvidia cards are being left out of the beryl loop- but then again, its a pain to have beryl running on lesser powerful graphics cards, irrespective of how cool it looks.
+2007-04-20T06:17:00.000Z	ikonia_	yag4mi	you don't have to use beryl
+2007-04-20T06:17:00.000Z	ikonia_	yag4mi	fesity is nothing to do with your card being too old to run new software
+2007-04-20T06:18:00.000Z	ikonia_	yag4mi	I'd advise against it
+2007-04-20T06:19:00.000Z	ikonia_	yag4mi	try the nvidia-legacy package
+2007-04-20T06:19:00.000Z	ikonia_	yag4mi	it will run, but how well is debatable

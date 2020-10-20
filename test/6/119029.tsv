@@ -1,0 +1,6 @@
+2006-06-24T07:45:00.000Z	LjL		!ntfs
+2006-06-24T07:32:00.000Z	LjL		!kernel
+2006-06-24T07:33:00.000Z	Winkie	LjL	i checked that out but i'm talking something automated, it's a tiny patch which will apply correctly against pretty much every new kernel i suspect, i guess there's no makepkg clone :(
+2006-06-24T07:35:00.000Z	Winkie		it's ace
+2006-06-24T07:35:00.000Z	LjL	Winkie	i haven't compiled a kernel in a long time, and even when i did, i did things manually, sorry :(
+2006-06-24T07:36:00.000Z	Winkie	LjL	no worries, it's one of these bugs that will take ages to be committed

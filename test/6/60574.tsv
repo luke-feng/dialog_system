@@ -1,0 +1,6 @@
+2008-04-12T22:39:00.000Z	Orbixx		Does anyone know of a way I can install Ubuntu from a Windows environment and have the Ubuntu installer completely remove any Windows partition and fully install itself?
+2008-04-12T22:40:00.000Z	Orbixx		Kind of like.
+2008-04-12T22:40:00.000Z	Orbixx		Copy itself into the hard disk as bootable.
+2008-04-12T22:40:00.000Z	Orbixx		And install itself.
+2008-04-12T22:40:00.000Z	ompaul	Orbixx	you start with a blank CD and then install it from that
+2008-04-12T22:40:00.000Z	Orbixx	ompaul	Imagine I have no optical drive.

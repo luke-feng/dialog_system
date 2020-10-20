@@ -1,0 +1,6 @@
+2006-07-19T12:51:00.000Z	ShaunES		Question: I'm booting a livecd and managed to get to another console.
+2006-07-19T12:51:00.000Z	ShaunES		alt-f1 doesn't get me to the main one anymore.
+2006-07-19T12:52:00.000Z	cpk2	ShaunES	try alt f7
+2006-07-19T12:57:00.000Z	cpk2	ShaunES	ctrl C might stop it from spitting out errors and give you a terminal to do something
+2006-07-19T16:12:00.000Z	cpk2	ShaunES	is it dying?
+2006-07-19T16:13:00.000Z	ShaunES	cpk2	using ubuntu-6.06-desktop-powerpc it freezes when starting the sound daemon. Can't stop that.

@@ -1,0 +1,6 @@
+2005-09-27T07:44:00.000Z	Gorth		hey guys!
+2005-09-27T07:44:00.000Z	Gorth		what's a good program for making ISOs?
+2005-09-27T07:44:00.000Z	Gorth		or BINs or whatever
+2005-09-27T07:44:00.000Z	cafuego_	Gorth	mkisofs ?
+2005-09-27T07:47:00.000Z	cafuego_	Gorth	No, you do that using 'dd'.
+2005-09-27T07:47:00.000Z	cafuego_	Gorth	dd if=/dev/hdc of=foo.iso

@@ -1,0 +1,6 @@
+2008-02-11T02:28:00.000Z	fyksen		Hello! I wondered if someone knew how to make windows xp run in ubuntu? In Wmvare? Crossover? paralelle? What is best, and what supports directx?
+2008-02-11T02:30:00.000Z	fyksen		Hello! I wondered if someone knew how to make windows xp run in ubuntu? In Wmvare? Crossover? paralelle? What is best, and what supports directx?
+2008-02-11T02:30:00.000Z	fyksen		okey
+2008-02-11T02:30:00.000Z	fyksen		wmvare supports directx and sound?
+2008-02-11T02:30:00.000Z	ikonia	fyksen	you can only run the OS in a virtualised environment like vmware
+2008-02-11T02:31:00.000Z	ikonia	fyksen	so why say things like "cross-over" which won't run the OS only applications, if you already knew it

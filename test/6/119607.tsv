@@ -1,0 +1,6 @@
+2008-03-11T10:43:00.000Z	Sl4y3r		just wondering if anyone knew why i cant get my desktop resolution to 1600x1200 using nvdia geforce mx 400
+2008-03-11T10:43:00.000Z	Sl4y3r		6.06lts
+2008-03-11T10:44:00.000Z	zl3cat	Sl4y3r	You're sure your monitor supports that ?
+2008-03-11T10:44:00.000Z	zl3cat	Sl4y3r	ok. You enabled 'restricted drivers' ?
+2008-03-11T10:49:00.000Z	zl3cat	Sl4y3r	you should get gutsy (or hold out a little and go right to hardy) .. dapper is pretty old and getting nvidia cards going wasn't as easy as it is in later versions
+2008-03-11T10:50:00.000Z	zl3cat	Sl4y3r	but since you're here.. pop a terminal and type "sudo apt-get install nvidia-glx-legacy" I think..

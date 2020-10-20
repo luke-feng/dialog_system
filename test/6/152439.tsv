@@ -1,0 +1,6 @@
+2005-07-11T14:49:00.000Z	Mestapheles		does the hoary d-i support multiuser partition setup?
+2005-07-11T10:06:00.000Z	Mestapheles		any XFS buffs in?  I know HFS+ support comes with ubuntu.  Does installing ubuntu with XFS retain HFS+ support?
+2005-07-11T10:07:00.000Z	jasoncohen	Mestapheles	ubuntu supports XFS
+2005-07-11T10:09:00.000Z	jasoncohen	Mestapheles	XFS is supported in the manual partitioning mode
+2005-07-11T10:10:00.000Z	jasoncohen	Mestapheles	why are you using XFS? i use it on my mythtv backend because it supports fast deletes of files that are huge (10 GBs)
+2005-07-11T10:11:00.000Z	jasoncohen	Mestapheles	ubuntu's installer basically is a modified version of sarge's installer

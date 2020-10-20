@@ -1,0 +1,6 @@
+2011-05-03T16:34:00.000Z	pvh_sa		hey there, how do i add an item to the menu in ubuntu 11.04 ?
+2011-05-03T16:35:00.000Z	Dr_Willis	pvh_sa	 You mean the left side 'launcher' ?
+2011-05-03T16:36:00.000Z	pvh_sa	Dr_Willis	no, the thing which comes up when i hit the 'windows key' - i've got bacula bat installed, but there's no menu item... so i need to manually create one
+2011-05-03T16:36:00.000Z	Dr_Willis	pvh_sa	 thats dash (i think) you could make a proper whatever.desktop entry for the program and put it with the other system desktop files.
+2011-05-09T17:49:00.000Z	Dr_Willis	pvh_sa	 try running the monitors config tool?
+2011-05-09T17:51:00.000Z	pvh_sa	Dr_Willis	doesn't help. the screen flashes once with the picture that should be there and then goes black again...

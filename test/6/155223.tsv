@@ -1,0 +1,6 @@
+2005-04-10T09:55:00.000Z	z993126		I looked on google for info about usb2 in Linux and came up with a page mentioning EHCI driver for usb2 high-speed support...but Synaptic doesn't list it (with universe/multiverse enabled)...
+2005-04-10T09:57:00.000Z	z993126		I don't know...but I do know the external USB2 drive I plugged in only transfers at full-speed, not high
+2005-04-10T09:57:00.000Z	z993126		try mplayer
+2005-04-10T09:58:00.000Z	z993126		...I need to figure out how to get mplayer to compile with gui though...if you hit 'f' while playing it goes fullscreen but doesn't scale the video
+2005-04-10T10:00:00.000Z	z993126		i think i tried compiling last niht but it said gui wasn't enabled...and i used the --enable-gui switch.
+2005-04-10T10:01:00.000Z	Xappe	z993126	to run with the gui, execute gmplayer

@@ -1,0 +1,6 @@
+2009-05-08T03:12:00.000Z	seventje		ubuntu@ubuntu:/boot$ cat /etc/mtab
+2009-05-08T03:12:00.000Z	seventje		proc /proc proc rw 0 0
+2009-05-08T03:12:00.000Z	seventje		sysfs /sys sysfs rw 0 0
+2009-05-08T03:12:00.000Z	seventje		tmpfs /lib/modules/2.6.28-11-generic/volatile tmpfs rw,mode=0755 0 0
+2009-05-08T03:12:00.000Z	seventje		tmpfs /lib/modules/2.6.28-11-generic/volatile tmpfs rw,mode=0755 0 0
+2009-05-08T03:12:00.000Z	FloodBot2	seventje	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

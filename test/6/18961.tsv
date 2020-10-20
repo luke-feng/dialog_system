@@ -1,0 +1,6 @@
+2011-08-13T21:42:00.000Z	tensorpudding	frank	both ubuntu and osx make it easy to share folders using samba
+2011-08-13T21:42:00.000Z	frank	tensorpudding	 ill look into that
+2011-08-13T21:42:00.000Z	tensorpudding	frank	in ubuntu it's as easy as right-clicking a folder and hitting the share option
+2011-08-13T21:43:00.000Z	tensorpudding	frank	there's lots of options that can be configured by tweaking samba, but the simplest options are available more easily
+2011-08-13T21:43:00.000Z	frank	tensorpudding	 all i need is samba on both ends?
+2011-08-13T21:44:00.000Z	tensorpudding	frank	osx comes with samba, ubuntu you have to install it from the software center

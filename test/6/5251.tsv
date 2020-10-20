@@ -1,0 +1,6 @@
+2011-11-13T10:40:00.000Z	bjrohan		In windows I was using Acronis to back-up/image, worked well as it automagically did it every week early Sunday morning, looking to do the same in Ubuntu that would backup all partitions windows and Linux
+2011-11-13T10:42:00.000Z	bjrohan		thanks pnorman
+2011-11-13T10:44:00.000Z	jbrks	bjrohan	i'm using mdadm software raid.. mdadm software raid setup is not hard with the debian setup.. it takes homework though to know how mdadm works.. i'm sure mdadm works well under ubuntu as well
+2011-11-13T10:47:00.000Z	jbrks	bjrohan	software raid is meant for 1 Operating system on the machine.
+2011-11-13T10:47:00.000Z	jbrks	bjrohan	for multi-Oses you need "real" Raid. And most motherboards are "fake" raid..
+2011-11-13T10:47:00.000Z	bjrohan	jbrks	huh? BTW I am about 3 weeks into using Ubuntu :-)

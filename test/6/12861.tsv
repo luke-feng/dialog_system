@@ -1,0 +1,6 @@
+2012-11-09T15:27:00.000Z	Calinou		having partitioning issues with xubuntu 12.10 (dualboot)
+2012-11-09T15:28:00.000Z	Calinou		I reduced my windows partition by 500GB. I now have a 1450GB windows partition, 500GB unallocated, 50GB recovery partition and 1GB "OEM" partition
+2012-11-09T15:28:00.000Z	Calinou		can't create new partition in the unallocated space from the live CD
+2012-11-09T15:28:00.000Z	Calinou		and the automated partitioning options are "Replace Windows 7 with Xubuntu" and "Something else"
+2012-11-09T15:29:00.000Z	Calinou		(this is an UEFI computer; using 64 bit live cd of course)
+2012-11-09T15:30:00.000Z	k1l	Calinou	if its an uefi device its using gpt instead of mdsos partition table. that is the reason. not everything is gpt capable so far. but since i dont use gpt i cant tell you more about it

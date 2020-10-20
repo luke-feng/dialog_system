@@ -1,0 +1,6 @@
+2010-06-18T06:10:00.000Z	richard_		how do i use guess pc diskpartition program to analyze for lost/hidden partitions?
+2010-06-18T06:10:00.000Z	DasEi	richard_	not at all, you use testdisk
+2010-06-18T06:11:00.000Z	richard_	DasEi	is that a program or a command
+2010-06-18T06:14:00.000Z	DasEi	richard_	sudo apt-get update works ?
+2010-06-18T06:14:00.000Z	DasEi	richard_	sudo apt-get install testdisk
+2010-06-18T06:16:00.000Z	DasEi	richard_	chewing now ?

@@ -1,0 +1,6 @@
+2010-08-23T01:09:00.000Z	MarkRich		Hi, I have a question about Gnome.  Anyone there?
+2010-08-23T01:10:00.000Z	MarkRich		OK, is question visible which I posted a few minutes ago?
+2010-08-23T01:12:00.000Z	MarkRich		OK, here it is:
+2010-08-23T01:12:00.000Z	MarkRich		I’m using Ubuntu 10.4 with Gnome 2.30.2.  I’d like to completely turn off all tooltips.  A bunch of articles I’ve seen mention that just launching gconf-editor & unchecking the tooltips option at apps /panel/global will do it.  But this only stops the ones for the applications at the top panel from appearing.  The ones on the bottom panel, such as for the running applications & for the workspace switcher still appear.  I
+2010-08-23T01:12:00.000Z	MarkRich		’ve tried adding the file ~/.gtk-2.0 with the contents gtk-enable-tooltips = 0 to my home directory & rebooting which didn’t do it.  It’s listed as a gnome-bug #84961 at one site.  And another site mentioned installing compiz & setting the tooltip transparency to zero.  Is this the only way to completely turn off these tooltips for the lower panel?
+2010-08-23T01:12:00.000Z	FloodBot3	MarkRich	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

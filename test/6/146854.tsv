@@ -1,0 +1,6 @@
+2005-05-27T09:57:00.000Z	|JE55E|		I dont know if it would do mov or not
+2005-05-27T09:58:00.000Z	|JE55E|		Anyone else here able to help diagnose a dialup problem with a modem (not winmodem) that is giving error "LCP: timeout sending Config-Requests"?
+2005-05-27T10:00:00.000Z	geneo93	|JE55E|	 try the pppconfig
+2005-05-27T10:01:00.000Z	|JE55E|	geneo93	thats using pppconfig as well
+2005-05-27T10:03:00.000Z	geneo93	|JE55E|	 have you tried kppp
+2005-05-27T10:04:00.000Z	|JE55E|	geneo93	nope, how in ubuntu, do I need to install all the kde crap?

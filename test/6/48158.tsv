@@ -1,0 +1,6 @@
+2008-11-15T02:07:00.000Z	zsquareplusc	soundray	try "find" if you really want to find a file ;-)
+2008-11-15T02:09:00.000Z	soundray	zsquareplusc	apt is wedged since I ran out of space during an update. http://paste.ubuntu.com/72036/
+2008-11-15T02:10:00.000Z	zsquareplusc	soundray	and what was that baout searching the c file?
+2008-11-15T02:10:00.000Z	soundray	zsquareplusc	line 42 -- hwilde suggested I edit that file
+2008-11-15T02:14:00.000Z	zsquareplusc	soundray	well that would not be the path i would take ;-) but i don't know how to fix your problem either. maybe there are unpacked packages that are up to installing. maybe these can be cleaned up
+2008-11-15T02:15:00.000Z	soundray	zsquareplusc	dpkg -l reveals a number of packages marked iW. I'm trying to purge them with dpkg now

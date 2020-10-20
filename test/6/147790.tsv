@@ -1,0 +1,6 @@
+2005-05-22T11:52:00.000Z	sushiboo		 is there no built-in pppoe software inside Ubuntu ?
+2005-05-22T11:54:00.000Z	sushiboo		according to my isp, i connect to the internet by PPPOE. Is there a PPPOE client/software/etc inside Ubuntu (version 5.04) ?
+2005-05-22T11:54:00.000Z	sushiboo		anybody, please help.
+2005-05-22T11:56:00.000Z	netsniper	sushiboo	sudo pppoeconf
+2005-05-22T11:57:00.000Z	sushiboo	netsniper	i mean.
+2005-05-22T12:23:00.000Z	netsniper	sushiboo	it works, i tired it

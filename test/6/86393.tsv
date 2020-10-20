@@ -1,0 +1,6 @@
+2007-05-18T05:28:00.000Z	Shaun_Molder		Can anyone tell me what files I should look at to see if there's anything wrong in them that could be stopping me from loading the gui on the live cd?
+2007-05-18T05:29:00.000Z	macogw	Shaun_Molder	did you try safe graphics mode?
+2007-05-18T05:29:00.000Z	Shaun_Molder	macogw	yes
+2007-05-18T05:29:00.000Z	Shaun_Molder	macogw	Still the same problems.
+2007-05-18T05:31:00.000Z	macogw	Shaun_Molder	try adding noapic to the options on the splash screen...that's what one of my friends had to do for his nvidia card
+2007-05-18T05:45:00.000Z	Shaun_Molder	macogw	The noapic line didn't work. I still got the errors. Is there a certain way I'm supposed to use it?

@@ -1,0 +1,6 @@
+2011-08-07T13:22:00.000Z	wrtiii		I have installed 2 x 160 GB Sata Drives in my server. My intention is to use clonezilla to create an image of the primary drive on the second drive once I have my installation stable but before I attempt anything new.  Is clonezilla the best route for this?  Is there a way to have the drive in the system at all times but have linux not recognize/mount? it as to ensure there is noway that disk
+2011-08-07T13:22:00.000Z	wrtiii		could get corrupted but still have it easily accesible when I boot to clonezilla for either restoring or saving an image?
+2011-08-07T13:23:00.000Z	sudokill	wrtiii	clonezilla is good yes
+2011-08-07T13:23:00.000Z	sudokill	wrtiii	it checks that the image is restorable and has always been good for me
+2011-08-07T13:24:00.000Z	wrtiii	sudokill	thanks, just keep thinking that ubuntu might have it's own app for this sort of thing or somethin, lol
+2011-08-07T13:25:00.000Z	sudokill	wrtiii	i havent tried any others except acronis. i think for pure imaging clonezilla is very good

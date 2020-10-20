@@ -1,0 +1,6 @@
+2005-03-20T14:25:00.000Z	Cius		hello
+2005-03-20T14:25:00.000Z	Cius		new to ubuntu, have a serious error that is keeping from installing.
+2005-03-20T14:26:00.000Z	Cius		I have an old grub install from my experimentation with gentoo.  After installing ubuntu, I reboot and my old grub install tries to boot, but errors occur and i can't get into ubuntu.  Can anyone help?
+2005-03-20T14:27:00.000Z	kingsley_	Cius	Do you see an error message while booting?
+2005-03-20T14:28:00.000Z	Cius	kingsley	it comes up and says Grub loading... then it just pops up and says error 18 or something like that
+2005-03-20T14:28:00.000Z	kingsley_	Cius	I suggest googling for the exact error message.

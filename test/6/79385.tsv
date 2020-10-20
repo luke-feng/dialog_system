@@ -1,0 +1,6 @@
+2008-08-14T02:34:00.000Z	askand		Im looking for a way to sort of mirror my laptop harddrive to my external drive, when I delete something on the computer it gets deleted on the external and when I add something to my computer it is added to the external, and all of this I want to happen when I plugin external..any ideas? :)
+2008-08-14T02:35:00.000Z	Stavros	askand	unison
+2008-08-14T02:36:00.000Z	Stavros	askand	rsync is one way, unison is two-way
+2008-08-14T02:37:00.000Z	askand	Stavros	two-way? so if I add something to the external it is added to my laptop as well?
+2008-08-14T02:37:00.000Z	Stavros	askand	yes
+2008-08-14T02:37:00.000Z	Stavros	askand	it synchronises the most recent files

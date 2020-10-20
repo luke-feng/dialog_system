@@ -1,0 +1,6 @@
+2008-02-10T02:51:00.000Z	MrPiracy		i'm receiving this "X system kbd differ from current GNOME" message, how can i fix it?
+2008-02-10T02:52:00.000Z	ffm	MrPiracy	by changing your xkeymap?
+2008-02-10T02:52:00.000Z	MrPiracy	ffm	where do i change that?
+2008-02-10T02:53:00.000Z	ffm	MrPiracy	"sudo dpkg-configure xorg-x11"
+2008-02-10T02:54:00.000Z	MrPiracy	ffm	dpkg-configure command not found
+2008-02-10T02:55:00.000Z	ffm	MrPiracy	reconfigure

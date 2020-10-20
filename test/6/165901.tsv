@@ -1,0 +1,6 @@
+2004-12-07T08:35:00.000Z	hawk16		sup
+2004-12-07T08:36:00.000Z	hawk16		is it possible to install video card drivers on the live cd?
+2004-12-07T08:36:00.000Z	lamont	hawk16	it should be possible...
+2004-12-07T08:36:00.000Z	lamont	hawk16	however, note that apt's http method is broken on the live CD
+2004-12-07T08:37:00.000Z	lamont	hawk16	and /etc/apt/sources.list is completely useless
+2004-12-07T08:37:00.000Z	lamont	hawk16	that is, what's in it is kinda useless.

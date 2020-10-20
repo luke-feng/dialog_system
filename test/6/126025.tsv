@@ -1,0 +1,6 @@
+2006-06-25T06:07:00.000Z	jackson		hi guys. I'm installing Dapper on a Dell Inspiron 700m and during the package configuration it stops at about 58%. the screen goes blank and two small, white rectangles appear (one in the middle, one on the left) on the screen. it continues to access the drive for a bit and then it stops so I just shut it off. any ideas?
+2006-06-25T06:08:00.000Z	Jowi	jackson	if you are using a cd other than the desktop/live one I would suggest turning off framebuffer to see if that helps.
+2006-06-25T06:09:00.000Z	Jowi	jackson	it might be that the installer still work and display messages, but you wouldn't know. turning off the framebuffer helps most of the time if you get a garbled display.
+2006-06-25T06:09:00.000Z	jackson	Jowi	how do I turn off the framebuffer?
+2006-06-25T06:10:00.000Z	Jowi	jackson	good question. on the older versions of ubuntu you ran "linux debian-installer/framebuffer=false" but on 6.06 I don't know. someone else has an idea?
+2006-06-25T06:12:00.000Z	Jowi	jackson	when you run the install cd you should have some help screens that show you how

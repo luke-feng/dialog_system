@@ -1,0 +1,6 @@
+2007-01-24T10:46:00.000Z	elyon225		Okay, so in an attempt to fix my staticy sound, I removed my PCI sound card and enabled the onboard.  Now, I have NO sound.  I followed the "DebuggingSoundProblems" in the Ubuntu docs and aplay and KMix both show the correct device, but I still have no sound.  Any ideas?
+2007-01-24T10:47:00.000Z	shatrat	elyon225	open up alsamixer in terminal and make sure nothing important is muted, see that it is looking at the proper device?
+2007-01-24T10:48:00.000Z	elyon225	shatrat	Yep... not muted and it shows the right device.
+2007-01-24T10:50:00.000Z	shatrat	elyon225	I wish I could be more use, but sound confuses me too in linux.  Id check out the ubuntuforums.org multimedia forums and do some searching around about your chipset
+2007-01-24T11:00:00.000Z	shatrat	elyon225	try turning the volume down to like 80%
+2007-01-24T11:01:00.000Z	elyon225	shatrat	Hmm... I went all the way down to about 25% and it still is.

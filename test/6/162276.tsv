@@ -1,0 +1,6 @@
+2005-02-10T10:01:00.000Z	raff61		i dont need to build in /dev filesys support in kernel right??
+2005-02-10T10:03:00.000Z	raff61		i dont need to build in /dev filesys support in kernel right??
+2005-02-10T10:04:00.000Z	raff61		just a little hel please... dont need to build in /dev filesys support in kernel right??
+2005-02-10T10:06:00.000Z	raff61		agpgart and DRI compiled in kernel would conflict with nvidia-glx??
+2005-02-10T10:06:00.000Z	raff61		im interested on that maximus
+2005-02-10T10:08:00.000Z	maximaus	raff61	just compile mplayer from source if you don't have it installed and use the FC2 rpm binary for mplayer plugin, install with "alien"n

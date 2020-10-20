@@ -1,0 +1,6 @@
+2008-02-08T07:20:00.000Z	CarlFK		what is the name of the kernel source package to satisfy:  "To successefully compile the driver, kernel source three have to be\ installed and configured to match currently running kernel."
+2008-02-08T07:21:00.000Z	CarlFK		and do I really need the source, or just the headers ?
+2008-02-08T07:21:00.000Z	gyaresu	CarlFK	You need the package 'build-essential' and the same kernel headers as the version you're running
+2008-02-08T07:22:00.000Z	CarlFK	gyaresu	how do I get the same kernel headers  ?
+2008-02-08T07:24:00.000Z	gyaresu	CarlFK	Do an 'apt-cache search headers |grep`uname -r`
+2008-02-08T07:27:00.000Z	CarlFK	gyaresu	thanks.

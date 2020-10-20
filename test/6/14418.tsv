@@ -1,0 +1,6 @@
+2010-12-28T04:16:00.000Z	rallias		If they can use my laptop, they will connect to the internet and potentially give their location away.
+2010-12-28T04:16:00.000Z	mongy	rallias	encrypt it
+2010-12-28T04:17:00.000Z	rallias	mongy	I need to have some programs running without the perpitrator seeing them. If they see the core of the OS, they can remove those programs from running
+2010-12-28T04:18:00.000Z	mongy	rallias	?  an encrypted home does not become unencrypted because they remove ecryptfs
+2010-12-28T04:18:00.000Z	rallias	mongy	Its a different user I'm trying to lock down.
+2010-12-28T04:25:00.000Z	rallias	mongy	Boot from removable storage is password protected.

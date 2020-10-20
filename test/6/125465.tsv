@@ -1,0 +1,6 @@
+2006-09-18T12:00:00.000Z	Ramunas		how can I make my 5 key mouse work right, I can't use those additional buttons now
+2006-09-18T12:02:00.000Z	Yawner	Ramunas	http://www.ubuntuforums.org/showthread.php?t=219894 Try that..
+2006-09-18T12:02:00.000Z	Yawner	Ramunas	I am unsure of your mouse brand, but this is for Logitech
+2006-09-18T12:03:00.000Z	Yawner		Howdy Guys, Having a little disk trouble.. Using qtparted I formatted my second hard disk, which used to house a single Partition on NTFS, It now shows under qtparted as Unknown Type, yet when I retry formatting it again to ext3 I will assign it, but when I hit Commit it wont stay, any ideas? When I formatted the drive it wasnt mounted, the drive isnt on the /etc/fstab file, I have tried mounting it, but I am unsure of the p
+2006-09-18T12:03:00.000Z	Yawner		rocess..
+2006-09-18T12:03:00.000Z	Ramunas	Yawner	thx, I'll try that

@@ -1,0 +1,6 @@
+2009-06-18T03:09:00.000Z	sweetchildofmine		hey guys, using root to echo a different cpufreq governor value will "stay" after re-boots, right?
+2009-06-18T03:10:00.000Z	sweetchildofmine		to the /proc thingy.
+2009-06-18T03:10:00.000Z	ikonia	sweetchildofmine	no
+2009-06-18T03:10:00.000Z	ikonia	sweetchildofmine	it won't stay
+2009-06-18T03:10:00.000Z	ikonia	sweetchildofmine	you need to put that in an init script or in /etc/sysctl.conf
+2009-06-18T03:11:00.000Z	ikonia	sweetchildofmine	it's a text file

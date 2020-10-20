@@ -1,0 +1,6 @@
+2006-09-20T15:23:00.000Z	NET||abuse		hmm, i've installed mysql5 from debs and i see by default it has a user, debian-sys-maint , seems to have alot of access, most commands other than privileges and routines
+2006-09-20T15:23:00.000Z	NET||abuse		what is the point of it?
+2006-09-20T15:23:00.000Z	Empty	NET||abuse	its for dpkg to use
+2006-09-20T15:23:00.000Z	NET||abuse	Empty	oh? why does dpkg need access to data in the databases?
+2006-09-20T15:23:00.000Z	Empty	NET||abuse	should have no remote access and a yourbox-specific PW locked away somewhere IIRC
+2006-09-20T15:24:00.000Z	Empty	NET||abuse	when installing packages with databases

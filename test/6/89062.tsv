@@ -1,0 +1,6 @@
+2009-04-10T04:55:00.000Z	xkucf03		hello
+2009-04-10T04:56:00.000Z	xkucf03		i have something wrong with my lilo: Fatal: device-mapper: only linear boot device supported
+2009-04-10T04:58:00.000Z	xkucf03		now i am unable to boot :(
+2009-04-10T04:58:00.000Z	xkucf03		i can boot from usb disk and access my files
+2009-04-10T04:58:00.000Z	xkucf03		but running lilo command fails with: Fatal: device-mapper: only linear boot device supported
+2009-04-10T04:59:00.000Z	usser	xkucf03	lilo has been largely phased out in favor of grub i doubt you'll find any help on it here

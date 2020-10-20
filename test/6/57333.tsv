@@ -1,0 +1,6 @@
+2008-06-01T22:04:00.000Z	anirudh0	Kuwanger	i could'nt manage to configure ivman..though install's easy..try the automount program
+2008-06-01T22:04:00.000Z	anirudh0	Kuwanger	when you try to access a drive..say ls /mnt/cdrom, the drive will get mounted...config's much easier..forgot the details, google them up
+2008-06-01T22:05:00.000Z	Kuwanger	anirudh0	For me it was easy.  Run as root, run as user, and it just worked.
+2008-06-01T22:05:00.000Z	Kuwanger	anirudh0	But, if I have problems, I'll look into automount.
+2008-06-01T22:06:00.000Z	anirudh0	Kuwanger	oh..good for you..but I was;nt talking about debs
+2008-06-01T22:07:00.000Z	Kuwanger	anirudh0	Uh huh...  What package is automount in?

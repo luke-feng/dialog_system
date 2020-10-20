@@ -1,0 +1,6 @@
+2005-12-15T12:53:00.000Z	ClayG		how do you guys ssh into your machines on the road, what if the public ip changes from the time you leave? any suggestions?
+2005-12-15T12:54:00.000Z	ClayG		is it free?
+2005-12-15T12:54:00.000Z	ClayG		and how does it know what your new ip is?
+2005-12-15T12:55:00.000Z	ClayG		oh i see you have a phone home type app on yer machine
+2005-12-15T12:55:00.000Z	ClayG		nice
+2005-12-15T12:55:00.000Z	Subhuman	ClayG	I use dyndns, either your router can do it or a tracker program

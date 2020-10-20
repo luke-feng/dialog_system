@@ -1,0 +1,6 @@
+2006-06-07T05:11:00.000Z	Matthewv	Subhuman	w32codecs has been deprecated since hoary i believe
+2006-06-07T05:12:00.000Z	Subhuman	Matthewv	what has taken it's place?
+2006-06-07T05:13:00.000Z	Matthewv	Subhuman	nothing i believe.. it was removed because of legal issues, so !restricted lists what to do... but basically it involves installing a stack of gstreamer plugins, or switching to totem-xine and getting some other codecs...
+2006-06-07T05:14:00.000Z	Subhuman	Matthewv	thats what i told him to to, get the xine backend and use w32codecs.
+2006-06-07T05:15:00.000Z	Matthewv	Subhuman	if you want w32codecs it must be downloaded from ftp://ftp.nerim.net/debian-marillat/pool/main/w/w32codecs/w32codecs_20050412-0.4_i386.deb
+2006-06-07T05:16:00.000Z	Subhuman	Matthewv	i have them - itz pyxel wih the problem

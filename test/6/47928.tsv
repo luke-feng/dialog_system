@@ -1,0 +1,6 @@
+2008-11-28T10:24:00.000Z	wos		could someone tell me how to get usb working on virtualbox please?
+2008-11-28T10:25:00.000Z	ejer	wos	https://help.ubuntu.com/community/VirtualBox#USB
+2008-11-28T10:28:00.000Z	wos	ejer	where do i insert the text in that link you gave me?
+2008-11-28T10:29:00.000Z	ejer	wos	it says in there
+2008-11-28T10:30:00.000Z	ejer	wos	restart udev, you may have to reboot, and you have to be in vboxusers group, and you have to have logged out and back in
+2008-11-28T10:31:00.000Z	ejer	wos	the page explains all the steps you must do

@@ -1,0 +1,6 @@
+2008-01-10T10:37:00.000Z	evfan42		hey guys, im trying to setup vmware on gutsy.. im using this tutorial
+2008-01-10T10:37:00.000Z	evfan42		http://ubuntuforums.org/showthread.php?t=84275
+2008-01-10T10:37:00.000Z	evfan42		and im stuck here...
+2008-01-10T10:37:00.000Z	evfan42		michael@michael-desktop:~$ wine qemu-img.exe create -f vmdk WindowsXPPro.vmdk 2G Formating 'WindowsXPPro.vmdk', fmt=vmdk, size=2097152 kB wine: could not load L"c:\\windows\\system32\\qemu-img.exe": Module not found
+2008-01-10T10:37:00.000Z	evfan42		any 1 else setup vmware?
+2008-01-10T10:38:00.000Z	Kasplatt	evfan42	ehh , I've only tried VirtualBox

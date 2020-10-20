@@ -1,0 +1,6 @@
+2010-02-27T10:29:00.000Z	Guest96272		can I run programs from an ntfs file system on linux with wine?
+2010-02-27T10:31:00.000Z	Guest96272		can I run programs from an ntfs file partition in linux?
+2010-02-27T10:31:00.000Z	blakkheim	Guest96272	linux can read and write to ntfs filesystems with ntfs-3g
+2010-02-27T10:32:00.000Z	blakkheim	Guest96272	i'm not sure exactly if that's what you're asking though
+2010-02-27T11:36:00.000Z	blakkheim	Guest96272	what program
+2010-02-27T11:36:00.000Z	blakkheim	Guest96272	/usr/bin/wireshark

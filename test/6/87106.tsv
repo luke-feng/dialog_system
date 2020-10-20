@@ -1,0 +1,6 @@
+2007-07-10T05:23:00.000Z	brainiac		pick ubuntu install will do the rest for you
+2007-07-10T05:24:00.000Z	brainiac		How can I fix this? /usr/lib/transgaming_cedega/gddb.py:19: RuntimeWarning: Python C API version mismatch for module gddb_parser: This Python has API version 1013, module gddb_parser has version 1012.
+2007-07-10T05:26:00.000Z	brainiac		and does the same
+2007-07-10T05:26:00.000Z	brainiac		How can I fix this? /usr/lib/transgaming_cedega/gddb.py:19: RuntimeWarning: Python C API version mismatch for module gddb_parser: This Python has API version 1013, module gddb_parser has version 1012.
+2007-07-10T05:27:00.000Z	pheaver	brainiac	i had that same problem.... google it
+2007-07-10T05:27:00.000Z	brainiac	pheaver	did you solve it?

@@ -1,0 +1,6 @@
+2008-01-31T15:34:00.000Z	LispWarez		yea i was planning on using open office
+2008-01-31T15:34:00.000Z	LispWarez		but still need to run a dos app under ubuntu too
+2008-01-31T15:34:00.000Z	LispWarez		at the same time
+2008-01-31T15:36:00.000Z	LispWarez		which dosbox package would be most suited for ubuntu then?
+2008-01-31T15:37:00.000Z	LispWarez		ok what i need is a linux box (preferably ubuntu) that can open an excel spreadsheet and run a dos app
+2008-01-31T15:38:00.000Z	nemilar	LispWarez	oo.o can handle excel...and dosbox, or wine, or vmware, or qemu, or any host of things can take care of your dos apps

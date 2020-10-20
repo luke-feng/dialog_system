@@ -1,0 +1,6 @@
+2008-01-24T06:32:00.000Z	adub		http://paste.ubuntu-nl.org/53252/   <--- some weird error im trying to winecfg but thats what i get
+2008-01-24T06:32:00.000Z	adub		i know the above is a wine question but there is not really anyone available for help in the wine channel
+2008-01-24T06:33:00.000Z	adub		so if anyone could help me solve the above brain teaser i would appreciate it greatly
+2008-01-24T06:34:00.000Z	Scunizi	adub	first off looks like your ati card isn't running the propriatory drivers.
+2008-01-24T06:35:00.000Z	adub	Scunizi	i am assuming this is the better drivers to run
+2008-01-24T06:37:00.000Z	Scunizi	adub	if you have them installed they aren't configured correctly.. sorry I don't run ati

@@ -1,0 +1,6 @@
+2011-07-26T16:28:00.000Z	hagus		I deleted many of my ubuntu programs by doing sudo apt-get remove python.
+2011-07-26T16:28:00.000Z	hagus		How do I get everything back?
+2011-07-26T16:28:00.000Z	iceroot	hagus	sudo apt-get install pidgnin
+2011-07-26T16:28:00.000Z	hagus		thanks iceroot :)
+2011-07-26T16:28:00.000Z	hagus		phew
+2011-07-26T16:29:00.000Z	hagus	iceroot	- my console seems to have gone as well :(

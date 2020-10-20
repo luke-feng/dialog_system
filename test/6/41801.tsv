@@ -1,0 +1,6 @@
+2011-06-02T03:25:00.000Z	halvor		does anybody know a nice gtk app to convert videos to ipod touch 1g format?
+2011-06-02T03:26:00.000Z	ZykoticK9	halvor	you might want to check out Handbrake (it's not in the default repository however), there is a PPA
+2011-06-02T03:26:00.000Z	halvor	ZykoticK9	tried that...i can't install handbrake
+2011-06-02T03:26:00.000Z	halvor	ZykoticK9	at least not from the ppas i've found so far
+2011-06-02T03:26:00.000Z	ZykoticK9	halvor	sorry i don't have any other suggestions.  Good luck.
+2011-06-02T03:28:00.000Z	halvor	ZykoticK9	maybe it's a bit shameful but i'll try to use the win version of handbrake under wine :)

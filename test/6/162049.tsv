@@ -1,0 +1,6 @@
+2004-11-02T15:32:00.000Z	punkass		what is a good vnc client for ubuntu?
+2004-11-02T15:33:00.000Z	punkass		just something to view a windows vncserver form ubuntu
+2004-11-02T15:34:00.000Z	imnes	punkass	xvncviewer comes installed I think
+2004-11-02T15:35:00.000Z	punkass	imnes	ah thanks :)
+2004-11-02T15:36:00.000Z	punkass	imnes	is it in the menus?
+2004-11-02T15:36:00.000Z	imnes	punkass	no you can do Appolications -> Run and just type in xvncviewer

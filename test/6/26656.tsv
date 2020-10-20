@@ -1,0 +1,6 @@
+2010-05-22T09:59:00.000Z	zjblabs		how I do force mount a dirty ntfs volume? (given that windows is completely hosed and unavaliable to chkdsk it up)
+2010-05-22T09:59:00.000Z	Dr_Willis	zjblabs	 ntfs-3g has some options to force the mount.
+2010-05-22T10:00:00.000Z	zjblabs	Dr_Willis	heh, I've been trying for awhile, happen to know specifically?
+2010-05-22T10:01:00.000Z	Dr_Willis	zjblabs	 check with ntfs-3g --help     - i recall it stating the option iof you tried to mount it via hand.
+2010-05-22T10:06:00.000Z	zjblabs	Dr_Willis	I just did "ntfs-3g /dev/hda1 /mnt/hda1 -o force and it says "Failed to read NTFS $Bitmap: Input output error. NTFS is either INCONSISTENT, or you have hardware fualts, or ...
+2010-05-22T10:08:00.000Z	Dr_Willis	zjblabs	 that sounds... bad. very bad.

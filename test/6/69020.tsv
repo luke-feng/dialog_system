@@ -1,0 +1,6 @@
+2008-01-11T13:19:00.000Z	zenobius		someone remind me the syntax for appneding text to an enviroment variable? is it : echo /usr/local/arm-elf/bin >> $PATH
+2008-01-11T13:20:00.000Z	kirk	zenobius	do like, $a= $astring
+2008-01-11T13:20:00.000Z	kirk	zenobius	do like, $a= "$a"string
+2008-01-11T13:20:00.000Z	zenobius	kirk	cheers mon
+2008-01-11T13:24:00.000Z	zenobius	kirk	doesnt work
+2008-01-11T14:38:00.000Z	zenobius	kirk	to update enviroment variables i needed to use the export command as per https://help.ubuntu.com/community/EnvironmentVariables

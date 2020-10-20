@@ -1,0 +1,6 @@
+2005-12-12T13:53:00.000Z	timmy334		is there a known problem with xorg not working on default installs of Breezy?
+2005-12-12T13:53:00.000Z	timmy334		yes
+2005-12-12T13:53:00.000Z	gnomefreak	timmy334	i have never had a problem but linux does different things with different hardware
+2005-12-12T13:54:00.000Z	timmy334	gnomefreak	yeah. it's just that it works flawlessly on Hoary, but a clean install of Breezy won't do diddly with xorg
+2005-12-12T13:55:00.000Z	timmy334	gnomefreak	did Hoary use xorg or xfree86?
+2005-12-12T13:55:00.000Z	gnomefreak	timmy334	 not sure i didnt use hoary for maor than a week

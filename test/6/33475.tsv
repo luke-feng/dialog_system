@@ -1,0 +1,6 @@
+2009-08-01T18:56:00.000Z	falconic_		Hey guys whats the best Virus scanner for Linux ? I want smthing which is command line and I can invoke it on specific files
+2009-08-01T18:56:00.000Z	falconic_		instead of it running in the background..
+2009-08-01T18:56:00.000Z	grawity	falconic_	None. (Or, if you really need, ClamAV.)
+2009-08-01T18:57:00.000Z	falconic_	grawity	: are there no virus scanner for linux?
+2009-08-01T18:57:00.000Z	grawity	falconic_	ClamAV is one.
+2009-08-01T18:57:00.000Z	grawity	falconic_	But on Linux, viruses are very rare.

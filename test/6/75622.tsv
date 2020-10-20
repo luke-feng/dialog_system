@@ -1,0 +1,6 @@
+2008-03-08T13:03:00.000Z	shishirm1		hi
+2008-03-08T13:04:00.000Z	shishirm1		i am not able to see the gui interface of my ubuntu installation
+2008-03-08T13:04:00.000Z	shishirm1		there is some error in the xserver
+2008-03-08T13:05:00.000Z	shishirm1		please help and tell me how to reinstall xserver
+2008-03-08T13:05:00.000Z	shishirm1		ya it did
+2008-03-08T13:06:00.000Z	zcat[1]	shishirm1	apt-get install ubuntu-desktop probably ..

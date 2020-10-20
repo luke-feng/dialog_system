@@ -1,0 +1,6 @@
+2010-11-17T07:30:00.000Z	B}Ronald_Reagan		How do you boot mac from a usb stick? Booting with c held down doesnt work, nor does option, nor does choosing a boot volume in the system prefs.
+2010-11-17T07:30:00.000Z	antihc3	B}Ronald_Reagan	Hold the option key it will show aval. boot devices
+2010-11-17T07:31:00.000Z	antihc3	B}Ronald_Reagan	if Option does not work then sounds like the device may not be bootable or usb port is not working
+2010-11-17T07:32:00.000Z	antihc3	B}Ronald_Reagan	you can also look in System pref
+2010-11-17T07:32:00.000Z	antihc3	B}Ronald_Reagan	ok helps if i read the full line sorry
+2010-11-17T07:34:00.000Z	antihc3	B}Ronald_Reagan	also note what you have on the boot media.  I once tryed to boot my Mac to an AMD64 Disk that would only Kernel panic. (forgot it was AMD_64bit)

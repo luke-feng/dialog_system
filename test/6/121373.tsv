@@ -1,0 +1,6 @@
+2006-04-10T05:34:00.000Z	rixth		How do I search and replce across multiple text files?
+2006-04-10T05:36:00.000Z	orbin	rixth	maybe make a script that makes repeated sed calls
+2006-04-10T05:37:00.000Z	rixth	orbin	sed?
+2006-04-10T05:38:00.000Z	orbin	rixth	e.g. sudo sed -e 's/"ati"/"fglrx"/' -i /etc/X11/xorg.conf ... that replaces occurrences of ati w/ fglrx in xorg.conf
+2006-04-10T05:38:00.000Z	rixth		Oh cool, thanks!
+2006-04-10T05:39:00.000Z	orbin	rixth	i'm sure someone's written one already.  google

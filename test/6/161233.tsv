@@ -1,0 +1,6 @@
+2005-03-04T09:47:00.000Z	thanatosys		hello everyone
+2005-03-04T09:48:00.000Z	thanatosys		does anyone know how to make aterm and the window go entirely transparent with the exception of the text like in alot of gentoo screenshots? also ive noticed they are all using fluxbox
+2005-03-04T09:49:00.000Z	thoreauputic	thanatosys	aterm -tr +sb
+2005-03-04T09:49:00.000Z	thoreauputic	thanatosys	that loses the scrollbar as well
+2005-03-04T09:50:00.000Z	thoreauputic	thanatosys	you can specify text colour/background  eg  -bg black -fg white and so on
+2005-03-04T09:50:00.000Z	thoreauputic	thanatosys	all the options are in the man page ;)

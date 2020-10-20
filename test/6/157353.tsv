@@ -1,0 +1,6 @@
+2005-02-12T06:59:00.000Z	aToaster		[fglrx]  Maximum main memory to use for locked dma buffers: 929 MBytes.
+2005-02-12T06:59:00.000Z	aToaster		[fglrx]  module loaded - fglrx 3.12.0 [Jul 16 2004]  on minor 0
+2005-02-12T06:59:00.000Z	aToaster		[fglrx:firegl_unlock]  *ERROR* Process 4126 using kernel context 0
+2005-02-12T07:01:00.000Z	mjg59	aToaster	That's not strictly an error
+2005-02-12T07:01:00.000Z	mjg59		(Well, it's an error, but it's not one that should matter too much)
+2005-02-12T07:02:00.000Z	aToaster	mjg59	troll_god: odd then, because everything seems to be in order, but fglrx still says I'm using mesa

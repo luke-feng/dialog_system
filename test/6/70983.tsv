@@ -1,0 +1,6 @@
+2011-05-29T10:45:00.000Z	loke		Hello all. In pre-11.04 Ubuntu, I set up a PPTP VPN connection using the network settings panel. Everything worked (I was connecting to the VPN using the panel-control where I simply selected the network). I later upgraded to 11.04, and now there is no longer any network-panel-control-thingy I can use to connect to the VPN. However, when I check the network settings, my VPN configuration is still there, but the configuration panel gives me no
+2011-05-29T10:45:00.000Z	loke		 way of actually connecting. And yes, this is using Unity.
+2011-05-29T10:45:00.000Z	loke		(if there is a way of getting rid of Unity and get back to the old GNOME, that'd be a good answer too :-) )
+2011-05-29T10:47:00.000Z	lotuspsychje	loke	logout and switch to classic
+2011-05-29T10:47:00.000Z	loke	lotuspsychje	that gives me a black screen. I probably screwed something up. :-(
+2011-05-29T10:48:00.000Z	loke	lotuspsychje	but do you know how to connect to a configured VPN? There should be a tty command that allows me to do it, yes?

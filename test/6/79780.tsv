@@ -1,0 +1,6 @@
+2007-10-15T06:42:00.000Z	dug_	Mookie	what card are you using?  what driver?
+2007-10-15T06:42:00.000Z	dug_	Mookie	what card are you using?  what driver?
+2007-10-15T06:43:00.000Z	dug_	Mookie	what computer model are you using?
+2007-10-15T06:46:00.000Z	dug_	Mookie	I'm not sure what card yours uses, but do you by chance know if you are using the madwifi driver?
+2007-10-15T06:48:00.000Z	dug_	Mookie	you can also run lcpci to see what drivers you are using
+2007-10-15T06:51:00.000Z	dug_	Mookie	I can't find the answer, sorry, but here are some threads that might be related to your issue (one suggests using ndiswrapper & the windows driver instead of ath_pci for example): http://www.google.com/search?source=ig&hl=en&q=ath_pci+ubuntu+gutsy&btnG=Google+Search

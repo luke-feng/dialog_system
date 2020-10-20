@@ -1,0 +1,6 @@
+2005-10-28T06:59:00.000Z	jacobobelbo		hi @all
+2005-10-28T06:59:00.000Z	jacobobelbo		installed ubuntu for the first time, and now i get stucked
+2005-10-28T07:00:00.000Z	jacobobelbo		what is the default root pass ?
+2005-10-28T07:00:00.000Z	jacobobelbo		i don't entered one durring install
+2005-10-28T07:00:00.000Z	pabloesc	jacobobelbo	use sudo in terminal
+2005-10-28T07:00:00.000Z	pabloesc	jacobobelbo	it's the user password You supplied during install

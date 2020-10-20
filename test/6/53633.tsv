@@ -1,0 +1,6 @@
+2009-04-07T12:44:00.000Z	psypher246		i told you intrepid
+2009-04-07T12:44:00.000Z	psypher246		my intrepid install cannot play multimedia
+2009-04-07T12:45:00.000Z	psypher246		ONLY jaunty repo i had was to update proposed packages for libmtp as it was broken in intrepid, those repos have been removed
+2009-04-07T12:46:00.000Z	psypher246		when i try remove  libvorbis0a it want's to uninstall half my machine
+2009-04-07T12:46:00.000Z	psypher246		this was the only solution to the problem
+2009-04-07T12:46:00.000Z	lstarnes	psypher246	libvorbis0a is used by a lot of stuff

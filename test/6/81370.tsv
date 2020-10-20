@@ -1,0 +1,6 @@
+2007-09-13T10:31:00.000Z	ramza3		I need the opengl libraries like "#include <opengl.h>" and include glu and glut.h ...but when search with apt, I get 500 apps, which one do I pick?
+2007-09-13T10:31:00.000Z	pedahzur	ramza3	opengl-dev?
+2007-09-13T10:31:00.000Z	ramza3	pedahzur	nope
+2007-09-13T10:32:00.000Z	pedahzur	ramza3	freeglut3-dev might get you going.
+2007-09-13T10:32:00.000Z	ramza3	pedahzur	or the mesa version?
+2007-09-13T10:33:00.000Z	pedahzur	ramza3	libglut3-dev too

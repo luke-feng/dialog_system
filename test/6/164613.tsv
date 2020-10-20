@@ -1,0 +1,6 @@
+2007-12-28T06:17:00.000Z	aszwet1		Bus 004 Device 012: ID 046d:09c1 Logitech, Inc.
+2007-12-28T06:17:00.000Z	aszwet1		gspca                 680528  0
+2007-12-28T06:17:00.000Z	aszwet1		videodev               29312  2 gspca,uvcvideo
+2007-12-28T06:17:00.000Z	aszwet1		usbcore               138632  10 gspca,usb_storage,libusual,snd_usb_audio,uvcvideo,snd_usb_lib,usbhid,ehci_hcd,uhci_hcd
+2007-12-28T06:17:00.000Z	aszwet1		is what that one said
+2007-12-28T06:17:00.000Z	tritium	aszwet1	please don't paste

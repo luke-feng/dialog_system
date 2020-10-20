@@ -1,0 +1,6 @@
+2009-08-12T18:05:00.000Z	Ethan		hi, how do I find the full path of a command? I am using 'java' but I am not sure which one....
+2009-08-12T18:05:00.000Z	Ethan		locate is quiet verbose
+2009-08-12T18:05:00.000Z	ActionParsnip	Ethan	which java
+2009-08-12T18:05:00.000Z	ActionParsnip	Ethan	works with scripts too
+2009-08-12T18:06:00.000Z	ActionParsnip	Ethan	so you can use (for a pointless example): cp `which java` ~/
+2009-08-12T18:06:00.000Z	ActionParsnip	Ethan	and it will copy whatever is ran when you run java to your home dir, the stuff in the `s will e ran first

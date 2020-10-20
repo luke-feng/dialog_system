@@ -1,0 +1,6 @@
+2010-03-09T11:39:00.000Z	codygman		alright, this is so trivial.. but what am I doing wrong?
+2010-03-09T11:39:00.000Z	codygman		afmlegend@codygman:~/public_html/runningshoesreview.org$ cp reviewsproject reviewsenv
+2010-03-09T11:39:00.000Z	codygman		cp: omitting directory `reviewsproject'
+2010-03-09T11:39:00.000Z	codygman		this command:
+2010-03-09T11:39:00.000Z	codygman		cp reviewsproject reviewsenv
+2010-03-09T11:39:00.000Z	brjann	codygman	you have to tell it you want it to copy directories with the recursive flag, -r

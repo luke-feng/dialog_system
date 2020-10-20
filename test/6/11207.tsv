@@ -1,0 +1,6 @@
+2011-03-18T10:48:00.000Z	tonnez		why is my Core i7 ubuntu server have a i686 kernel?
+2011-03-18T10:48:00.000Z	tonnez		can i convert this?
+2011-03-18T10:49:00.000Z	ejv	tonnez	if it's working you could just enable PAE and not break something that's fixed :p
+2011-03-18T10:50:00.000Z	tonnez	ejv	rrw: 2.6.35-25-generic (SMP) i686
+2011-03-18T10:54:00.000Z	tonnez	ejv	no need to flame the ignorant
+2011-03-18T10:56:00.000Z	tonnez	ejv	wikipedia educated me, you said the following: "i think tonnez doesn't know what PAE is.. lol" and "pae != 64bit" and "...calling a memory allocation extension feature '64bit' is awfully negligent"

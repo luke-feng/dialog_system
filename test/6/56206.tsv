@@ -1,0 +1,6 @@
+2008-06-10T03:48:00.000Z	SonicComKid		Quick simple question guys. I'm installing Ubuntu. At the last step when it asks about installing a boot loader, if I tell it to install the boot loader to the Ubuntu partition, that means as long as that partition is active, it'll boot, right? Meaning I don't have to install it to the master boot record, right?
+2008-06-10T03:49:00.000Z	newbyx86	SonicComKid	are you using any other operating systems?
+2008-06-10T03:49:00.000Z	newbyx86	SonicComKid	If you install to the MBR, and Windows is/was previously installed, the MBR will boot over your Ubuntu partition.
+2008-06-10T03:50:00.000Z	newbyx86	SonicComKid	And btw, when you install Vista, it'll overwrite whatever's on your MBR.
+2008-06-10T03:51:00.000Z	newbyx86	SonicComKid	I don't think so. If there's anything on the MBR it'll boot the MBR first.
+2008-06-10T03:52:00.000Z	newbyx86	SonicComKid	That's weird. XP/Vista's boot loader won't load Ubuntu.

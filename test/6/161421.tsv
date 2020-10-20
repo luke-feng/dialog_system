@@ -1,0 +1,6 @@
+2005-02-02T09:37:00.000Z	linux_galore		fastest distro Ive used so far would be YOPPER.. easiest would be between Ubuntu or SimpyMepis
+2005-02-02T09:39:00.000Z	linux_galore		well I bittorented YOPPER and I got 70-120 k
+2005-02-02T09:40:00.000Z	linux_galore		well yopper doesnt have many packages only about 1000 on the server the rest I just compiled
+2005-02-02T09:41:00.000Z	linux_galore		yeah noticed that myself no auto update daemon on Ubuntu I had to setup a cron job
+2005-02-02T09:41:00.000Z	Zotnix	linux_galore	isn't it RPM based too?
+2005-02-02T09:42:00.000Z	linux_galore	Zotnix	yeah its rpm based but uses apt-rpm and synaptic

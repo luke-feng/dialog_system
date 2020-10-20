@@ -1,0 +1,6 @@
+2011-04-26T02:10:00.000Z	nishttal2		how do i force apt-get to rebuild its installed packages list?
+2011-04-26T02:10:00.000Z	nishttal2		on my system
+2011-04-26T02:12:00.000Z	nishttal2		anyone?
+2011-04-26T02:13:00.000Z	nishttal2		my apt-get installed package list seems to be out of sync
+2011-04-26T02:13:00.000Z	LAcan	nishttal2	use the software centre and avoid those problems in the future
+2011-04-26T02:15:00.000Z	nishttal2	LAcan	this is a server.. i dont have access to the software center

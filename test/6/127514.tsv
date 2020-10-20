@@ -1,0 +1,6 @@
+2011-06-05T19:25:00.000Z	tomek_		how can i get root priviledges?
+2011-06-05T19:25:00.000Z	tomek_		baz:to login into root account
+2011-06-05T19:27:00.000Z	tomek_		how to login as a root?
+2011-06-05T19:28:00.000Z	IdleOne	tomek_	sudo -i
+2011-06-05T19:29:00.000Z	IdleOne	tomek_	be very careful what commands you run while logged in with that
+2011-06-05T19:35:00.000Z	IdleOne	tomek_	it is easier to help if you tell us exactly what you are trying to accomplish

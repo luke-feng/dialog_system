@@ -1,0 +1,6 @@
+2011-03-05T11:24:00.000Z	mutilator		hey all, question, if i did a dd if=/dev/sda1 of=/dev/sdb
+2011-03-05T11:25:00.000Z	mutilator		and i didnt make a partition on sdb so it wasnt copied to sdb1
+2011-03-05T11:25:00.000Z	mutilator		but i can mount /dev/sdb and view files
+2011-03-05T11:25:00.000Z	mutilator		is there a way to make that parition afte the fact
+2011-03-05T11:25:00.000Z	mutilator		grub seems to require a partition to be there
+2011-03-05T11:27:00.000Z	sacarlson	mutilator	you could mount the /dev/sdb  and copy it's contents and move it to the new partitioned location

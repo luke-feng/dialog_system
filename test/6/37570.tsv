@@ -1,0 +1,6 @@
+2009-06-06T02:05:00.000Z	lorph		how do I check how much bandwidth each process is using? Sometimes i get spikes of traffic of about 300 kbs and i want to know why
+2009-06-06T02:05:00.000Z	fccf	lorph	use netstat -ntap
+2009-06-06T02:06:00.000Z	lorph	fccf	is there anything like top?
+2009-06-06T02:07:00.000Z	fccf	lorph	have you tried netstat -ntap
+2009-06-06T02:08:00.000Z	lorph	fccf	yes
+2009-06-06T02:08:00.000Z	fccf	lorph	and that doesn;t do it for you ... you want something realtime? try wireshark

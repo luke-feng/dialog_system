@@ -1,0 +1,6 @@
+2009-06-02T22:52:00.000Z	manpoole		I some how removed my task bar completely for a theme in ubuntu using configuration editor (alt+F2) and now i want it back but cannot remember what setting I changed lol anyone know what it is?
+2009-06-02T22:53:00.000Z	manpoole		yea
+2009-06-02T22:54:00.000Z	manpoole		nope
+2009-06-02T22:54:00.000Z	manpoole		thanks
+2009-06-02T22:54:00.000Z	manpoole		now if i can only make it permanent
+2009-06-02T22:56:00.000Z	chuck_	manpoole	type this in terminal rm -rf ~/.gconf/apps/panel  then reboot panels will be back to default

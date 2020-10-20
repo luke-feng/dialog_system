@@ -1,0 +1,6 @@
+2009-12-05T23:57:00.000Z	Sacho		Does anyone have an idea how I can remove this faulty package? http://pastebin.com/m49ad932a
+2009-12-05T23:58:00.000Z	nulled	Sacho	 sudo apt-get -f install
+2009-12-05T23:58:00.000Z	Sacho	nulled	Gives the same error
+2009-12-06T00:00:00.000Z	nulled	Sacho	sudo apt-get install --force-all <package>
+2009-12-06T00:01:00.000Z	nulled		Sancho:  http://ubuntuforums.org/showthread.php?t=7681
+2009-12-06T00:03:00.000Z	Sacho	nulled	force-all isn't an option on (my) apt-get, and the edit-fix broken packages doesn't seem to change anything. Do you have any idea how I can remove that package manually, or something?

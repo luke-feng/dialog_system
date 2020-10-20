@@ -1,0 +1,6 @@
+2008-06-25T21:06:00.000Z	[newb]Miki		Okey, i have asked it around 30 times, but here it goes again... I have an old laptop with an ATI 7500 mobilty radeon, and not supported by any driver i tried up till now (eg the ENVYNG thingy). This is what i get if i use ﻿glxinfo :name of display: :0.0 display: :0  screen: 0, and if i run GLX gears, I see my processor going from 10 to 100%, so its rendered by my processor, not by my vid. Anybody got an idea?
+2008-06-25T21:08:00.000Z	[newb]Miki		Okey, i have asked it around 40 times, but here it goes again... I have an old laptop with an ATI 7500 mobilty radeon, and not supported by any driver i tried up till now (eg the ENVYNG thingy). This is what i get if i use ﻿glxinfo :name of display: :0.0 display: :0  screen: 0, and if i run GLX gears, I see my processor going from 10 to 100%, so its rendered by my processor, not by my vid. Anybody got an idea?
+2008-06-25T21:08:00.000Z	[newb]Miki		is there really nobody ??? :(
+2008-06-25T21:08:00.000Z	[newb]Miki		in ati nobody is replying
+2008-06-25T21:08:00.000Z	bazhang	[newb]Miki	you can ask it 1000 times, but repeating it like that will not get it answered faster. we see it and will answer when or if we know.
+2008-06-25T21:11:00.000Z	bazhang	[newb]Miki	wait until they do reply. dont repeat every minute or you will asked to leave here.

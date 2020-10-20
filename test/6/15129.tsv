@@ -1,0 +1,6 @@
+2011-06-30T09:09:00.000Z	cpruitt		I'm sure there's a better channel for this so if anyone can direct me that'd be great, but I'm trying to set up an ubuntu box with Apache (first time) and looking at my error log it looks like fcgi keeps telling the server to restart and generating 500 errors.  I'm kinda stuck on how to troubleshoot.
+2011-06-30T09:11:00.000Z	rhin0	cpruitt	I found apache hard to set up for an internal web server for experimentaiton (painful) -- there is another choice - lighttpd -- which can be set up in minutes and implements fastcgi
+2011-06-30T09:12:00.000Z	rhin0		!unity
+2011-06-30T09:13:00.000Z	cpruitt	rhin0	Thanks for the tip.  Given what I've already got invested in this box I'd like to resolve the errors & move forward, but I'll look into lighttpd for future use.  My preference though is Apache+Passenger+Rails
+2011-06-30T09:14:00.000Z	rhin0		lighttpd is a fully featured web server cpruitt but much much smaller than apache and therefore less complex -- it is in use on some big production websites (youtube for instance)
+2011-06-30T09:16:00.000Z	cpruitt	rhin0	Thanks.  I'm mildly familiar with it.  I just have all of my experience with Apache so I'm most familiar with it.  I've just never set it up from scratch.

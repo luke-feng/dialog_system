@@ -1,0 +1,6 @@
+2006-01-09T08:48:00.000Z	sas171		Toma: was !wifi for me?
+2006-01-09T08:48:00.000Z	Toma-	sas171	yeh
+2006-01-09T08:49:00.000Z	sas171	Toma-	but i have no wirelles, i hav dsl modem->lan->eth
+2006-01-09T08:51:00.000Z	Toma-	sas171	looks like its configing eth1 twice
+2006-01-09T08:51:00.000Z	Toma-	sas171	have you tried commenting out "iface eth1 inet dhcp"?
+2006-01-09T08:52:00.000Z	sas171	Toma-	thx, ill try it now

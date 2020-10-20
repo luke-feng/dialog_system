@@ -1,0 +1,6 @@
+2009-12-13T19:14:00.000Z	mine		hi tell me something about the  basic firewall configure
+2009-12-13T19:15:00.000Z	mine		?
+2009-12-13T19:15:00.000Z	DEViUS	mine	its very basic...=S ...be specific
+2009-12-13T19:17:00.000Z	mine	DEViUS	just change it in the file.cfg
+2009-12-13T19:18:00.000Z	DEViUS	mine	sudo apt-get install firestarter
+2009-12-13T19:18:00.000Z	DEViUS	mine	will help u configure ur firewall

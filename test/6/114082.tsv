@@ -1,0 +1,6 @@
+2011-02-12T03:40:00.000Z	TheAnarchist		Got an error, FATAL: Could not load /lib/modules/... (added "..." because there is too much more to type)..... and now it says busybox v1.15.3
+2011-02-12T03:41:00.000Z	TheAnarchist		While installing Netbook remix 10.10 on a NB205 Toshiba
+2011-02-12T03:42:00.000Z	TheAnarchist		While installing Netbook remix 10.10 on a NB205 Toshiba I got an error.... any ideas?
+2011-02-12T03:42:00.000Z	jrib	TheAnarchist	run "check the cd for defects"
+2011-02-12T03:43:00.000Z	jrib	TheAnarchist	there should be an option when you first boot from the install media
+2011-02-12T03:51:00.000Z	jrib	TheAnarchist	there may be some button for "more boot options" or similar

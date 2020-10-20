@@ -1,0 +1,6 @@
+2010-11-26T12:00:00.000Z	anon2		im trying to build a driver and it gives me this error "make: *** [module] Error 1" whats error 1??
+2010-11-26T12:00:00.000Z	ectospasm	anon2	need more info
+2010-11-26T12:01:00.000Z	anon2		http://pastebin.com/eHcheY1A
+2010-11-26T12:02:00.000Z	anon2	ectospasm	http://pastebin.com/eHcheY1A
+2010-11-26T12:04:00.000Z	anon2		could the problem be that the driver doesnt support my kernel?
+2010-11-26T12:09:00.000Z	ectospasm	anon2	That error isn't descriptive at all.  Why are you building a kernel?

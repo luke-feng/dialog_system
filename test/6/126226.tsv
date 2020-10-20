@@ -1,0 +1,6 @@
+2007-12-19T09:03:00.000Z	evan_		id go athlon
+2007-12-19T09:04:00.000Z	evan_		um
+2007-12-19T09:04:00.000Z	evan_		question: how to make deluge the default application for torrent files?
+2007-12-19T09:05:00.000Z	evan_		easy thanks
+2007-12-19T09:06:00.000Z	evan_		how would I go about completely disabling the motherboard speak?  (jeez that thing is annoying)
+2007-12-19T09:07:00.000Z	Fjodor	evan_	sudo rmmod pcspkr

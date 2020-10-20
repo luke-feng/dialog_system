@@ -1,0 +1,6 @@
+2009-08-23T18:23:00.000Z	mtlife		on *:TEXT:*:*: {
+2009-08-23T18:23:00.000Z	mtlife		  if ($highlight($1-)) {
+2009-08-23T18:23:00.000Z	mtlife		    if (($version == 6.31) && (!%tip. [ $+ [ $chan ] ])) {
+2009-08-23T18:23:00.000Z	mtlife		      noop $tip('Tray Tip',$chan , $nick just said $1-, 10)
+2009-08-23T18:23:00.000Z	mtlife		      set -u20 %tip. [ $+ [ $nick ] ] true
+2009-08-23T18:23:00.000Z	FloodBot3	mtlife	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

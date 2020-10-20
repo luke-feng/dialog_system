@@ -1,0 +1,6 @@
+2010-08-31T12:56:00.000Z	CorpusCallosum		hi i have a problem about network-manager i guess, if a command ifconfig -a i can see the wlan0 interface, but it seems disabled. i cannot enabble. ifconfig wlan0 up command gives an "no such file directory" output. i tried to add related lines to network/interface file annd still no succes. any idea ?
+2010-08-31T12:58:00.000Z	sacarlson	CorpusCallosum	you want a static wlan0?  wicd is the manager that seems to work better for me with wifi
+2010-08-31T12:58:00.000Z	CorpusCallosum	sacarlson	no i want dhcp, like normal.
+2010-08-31T12:59:00.000Z	sacarlson	CorpusCallosum	if you want to play on the command line with wlan0 you might want to disable network-manager first.  it seems to try to keep things it's way
+2010-08-31T13:09:00.000Z	sacarlson	CorpusCallosum	maybe time to go with command line one at a time till you get something to work.  like ping your router?
+2010-08-31T13:12:00.000Z	sacarlson	CorpusCallosum	I beleave that is correct just auto lo

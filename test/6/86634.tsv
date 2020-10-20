@@ -1,0 +1,6 @@
+2007-05-14T15:09:00.000Z	brubrub		hi room
+2007-05-14T15:11:00.000Z	brubrub		i have a problem with ssh, when i connect to a server in my pc i read "ssh: Connection refused port 22", anyone can help me?, (Sorry for my english, im spanish :_) )
+2007-05-14T15:12:00.000Z	brubrub		eeeoooo..., anyone can help me please?  :_(
+2007-05-14T15:13:00.000Z	Rebecca	brubrub	is ssh running on it?
+2007-05-14T15:13:00.000Z	brubrub	Rebecca	yes, but can i know if the server is runnning?
+2007-05-14T15:14:00.000Z	Rebecca	brubrub	ps auwx | grep sshd

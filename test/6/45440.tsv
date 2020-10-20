@@ -1,0 +1,6 @@
+2009-02-25T19:08:00.000Z	giaco		hello
+2009-02-25T19:09:00.000Z	giaco		I've launched a cp of a single file of 450gb from one disk to another, I don't have any physical access to the drive so I can't check if it's physically working or not and cp doesn't return any feedback on the process ... what' can I do?
+2009-02-25T19:11:00.000Z	sipior	giaco	ls -l will show you the file size of the file on the other disk. try "watch ls -l <filename>"
+2009-02-25T19:11:00.000Z	giaco	sipior	good idea, let me try
+2009-02-25T19:16:00.000Z	giaco	sipior	I didn't know about the watch utility, it's pretty cool!
+2009-02-25T19:17:00.000Z	sipior	giaco	yeah, watch is pretty handy

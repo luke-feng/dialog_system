@@ -1,0 +1,6 @@
+2007-09-20T10:50:00.000Z	demolitio		god.. it's one thing after another for me today... anyone have any experience with dual monitors using the new ati drivers? ubuntu's just decided it can't see my monitor once it loads to my desktop.
+2007-09-20T10:50:00.000Z	demolitio		my right monitor, that is.
+2007-09-20T10:51:00.000Z	DopplerDeffect	demolitio	I tried to get the fglxr drivers working on slackware sometime and it took manual configuration of the xorg.conf file
+2007-09-20T10:54:00.000Z	DopplerDeffect	demolitio	I don't remember, it was quite a while ago. Jordan_U is right though, you shouldn't have to edit the xorg.conf file manually. Ubuntu is suppossed to be more user friendly than that
+2007-09-20T11:01:00.000Z	DopplerDeffect	demolitio	I remember that on my deskop with an ATi 9800pro, I had to make the choice between dual monitors and openGL support. The drivers (at the time) were simply not capable of both
+2007-09-20T11:02:00.000Z	demolitio	DopplerDeffect	the problem is... I had it working pefectly... then I started to change screen poisitioning;.... after that, it suddenly decided it couldn't connect to it.

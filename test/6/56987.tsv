@@ -1,0 +1,6 @@
+2009-05-03T16:20:00.000Z	acron17		can someone give me a hint how to get the configure line for a binary package in ubuntu?
+2009-05-03T16:20:00.000Z	raylu	acron17	you could try asking in #ubuntu-motu
+2009-05-03T16:20:00.000Z	raylu	acron17	but it may show up somewhere in the files downloaded from "apt-get source package"
+2009-05-03T16:21:00.000Z	acron17	raylu	thanks i'll ask there
+2009-05-03T16:21:00.000Z	acron17	raylu	right. i'm search already there but with no luck till now...
+2009-05-03T16:21:00.000Z	raylu	acron17	oh :(

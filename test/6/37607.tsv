@@ -1,0 +1,6 @@
+2010-06-04T13:00:00.000Z	_newbie4		always need to do this workaround
+2010-06-04T13:01:00.000Z	_newbie4		windows->open media center, restart linux -> watch TV
+2010-06-04T13:01:00.000Z	_newbie4		yes
+2010-06-04T13:01:00.000Z	_newbie4		or to restart?
+2010-06-04T13:03:00.000Z	michaeldobrovits	_newbie4	try lspci and see if the card is reconized
+2010-06-04T13:06:00.000Z	_newbie4	michaeldobrovits	the card is reconized beuse at this moment I'm watching TV with VLC

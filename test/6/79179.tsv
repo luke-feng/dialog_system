@@ -1,0 +1,6 @@
+2009-04-26T21:29:00.000Z	hbx		hey i removed compiz-fusion and got back to my desktop but my windows borders arent back how do i revert it back to the metacity window manager?
+2009-04-26T21:29:00.000Z	mattgyver	hbx	do you have compiz-fusion-icon installed?
+2009-04-26T21:30:00.000Z	mattgyver	hbx	sudo apt-get install fusionicon
+2009-04-26T21:31:00.000Z	mattgyver	hbx	it is fusion-iconn
+2009-04-26T21:31:00.000Z	mattgyver	hbx	fusion-icon*
+2009-04-26T21:33:00.000Z	mattgyver	hbx	please see PM

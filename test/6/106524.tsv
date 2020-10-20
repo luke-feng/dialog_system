@@ -1,0 +1,6 @@
+2009-12-14T11:40:00.000Z	Bardology		I just noticed that /etc/apache2/httpd.conf is empty... is that normal for a new install?
+2009-12-14T11:40:00.000Z	darksector	Bardology	nope
+2009-12-14T11:40:00.000Z	darksector	Bardology	reinstall apache
+2009-12-14T11:41:00.000Z	darksector	Bardology	o crap, yeah its ok
+2009-12-14T11:41:00.000Z	darksector	Bardology	its apache2.conf
+2009-12-14T11:41:00.000Z	darksector	Bardology	sorry

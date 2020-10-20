@@ -1,0 +1,6 @@
+2007-01-22T07:05:00.000Z	incorrect		is it possible to upgrade from an i386 to a 64biy version?
+2007-01-22T07:06:00.000Z	incorrect		shame
+2007-01-22T07:06:00.000Z	syock	incorrect	unless you`re l33t and able to replace every single 32-bit system files with the 64-bit ones
+2007-01-22T07:07:00.000Z	incorrect	syock	ok i wondered if the 32bit kernel would go splat during the upgrade
+2007-01-22T07:09:00.000Z	syock	incorrect	hmm, i dunno. Best bet would be fresh install unless you`re willing to make that kind of discovery which would consume more time...
+2007-01-22T07:09:00.000Z	syock	incorrect	and if you ever succeed, you`ll be honoured by others who`re trying to do the same

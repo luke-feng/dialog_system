@@ -1,0 +1,6 @@
+2008-12-15T03:37:00.000Z	RITN		can anyone on gods earth tell me why i cannot read and write to my dam samba share that is on my nas that i used the wiki to configure correctly after reading it??? (cifs)
+2008-12-15T03:38:00.000Z	Meshezabeel	RITN	your permissions aren't set correctly
+2008-12-15T03:41:00.000Z	Meshezabeel	RITN	if you are connecting through Samba, you very likely have to modify your smb.conf
+2008-12-15T03:41:00.000Z	Meshezabeel	RITN	can you pastebin it?
+2008-12-15T03:58:00.000Z	Meshezabeel	RITN	do both users have same name and password?
+2008-12-15T03:59:00.000Z	Meshezabeel	RITN	do you have simple file sharing turned off on windows?

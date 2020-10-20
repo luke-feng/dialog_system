@@ -1,0 +1,6 @@
+2005-02-24T09:56:00.000Z	Gul3		hello, probably just another newbie question from me, but how do i execute "format c:" in linux?
+2005-02-24T08:33:00.000Z	Gul3		hi, i need a linux iso extractor. is there any?
+2005-02-24T08:34:00.000Z	Gul3		thanks!
+2005-02-24T08:34:00.000Z	Gul3		so it is that easy:)
+2005-02-24T08:36:00.000Z	Gul3		sudo mount -o loop tes3comp.iso -t iso9660 TEST/ leavs me this: mount: could not find any device /dev/loop#
+2005-02-24T08:38:00.000Z	Neil3	Gul3	file roller can view inside iso images afaik

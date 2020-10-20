@@ -1,0 +1,6 @@
+2010-07-19T06:07:00.000Z	lostnhell		Does anyone have any ideas about my question?
+2010-07-19T06:07:00.000Z	blendmaster1024	lostnhell	ask it again, it's off my screen and probably is off everyone else's too
+2010-07-19T06:08:00.000Z	lostnhell	blendmaster1024	is there a way to blacklist grub from installing itself or being checked for autoinstall, including blocking it from distro upgrades?
+2010-07-19T06:09:00.000Z	blendmaster1024	lostnhell	I think so, if I understand you. you compiled grub and want to prevent the package manager from messing with it?
+2010-07-19T06:09:00.000Z	lostnhell	blendmaster1024	I don't want ubuntu to install any bootloader
+2010-07-19T06:10:00.000Z	blendmaster1024	lostnhell	ahh. make sure to back up your boot sector before upgrading the package

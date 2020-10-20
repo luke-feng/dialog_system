@@ -1,0 +1,6 @@
+2006-05-31T07:53:00.000Z	rata		hi
+2006-05-31T07:53:00.000Z	rata		I am setting up a server with ubuntu dapper, and i must change locales (actually it uses utf-8, and i need iso-8859-1). I tried dpkg-reconfigure locales, check that dpkg-reconfigure debconf it is readline. Any idea ? i am not doing things well, isnt it ?
+2006-05-31T07:53:00.000Z	Flannel	rata	#ubuntu+1 for dapper support, until the 1st.
+2006-05-31T07:54:00.000Z	rata	Flannel	ok :). I already asked there, i ask here just in case. Lot of thanks anyway :)
+2006-05-31T07:55:00.000Z	Flannel	rata	you might try searching the forums
+2006-05-31T07:55:00.000Z	rata	Flannel	ok, lot of thanks again :)

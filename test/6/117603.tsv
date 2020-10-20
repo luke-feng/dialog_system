@@ -1,0 +1,6 @@
+2006-06-10T14:36:00.000Z	gdb		What is the dpkg command to determine which packages are partially installed?
+2006-06-10T14:37:00.000Z	gdb		dpkg-configure -a?
+2006-06-10T14:37:00.000Z	nickrud	gdb	dpkg -l | grep ^c
+2006-06-10T14:37:00.000Z	gdb	nickrud	Thank you. :-)
+2006-06-10T14:38:00.000Z	gdb	nickrud	This has been the steepest learning curve coming from an rpm background, learning the dpkg based system.
+2006-06-10T14:38:00.000Z	nickrud	gdb	just new commands, you already know what you need if you are comfortable with rpms

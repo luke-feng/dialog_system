@@ -1,0 +1,6 @@
+2008-10-31T06:07:00.000Z	Elad-		someone installed nvidia driver on 8.10 ?
+2008-10-31T06:08:00.000Z	CITguy08	Elad-	are you trying to install the NVIDIA drivers from their website?
+2008-10-31T06:09:00.000Z	Elad-	CITguy08	yes.. I download it from nvidia.com
+2008-10-31T06:10:00.000Z	CITguy08	Elad-	sudo apt-get install linux-headers-`uname -r` libc6 libc6-dev xorg-dev make
+2008-10-31T06:11:00.000Z	Elad-	CITguy08	I'll try.. sec
+2008-10-31T06:12:00.000Z	CITguy08	Elad-	http://citguy.blogspot.com/2008/10/how-to-install-nvidia-drivers-in-ubuntu.html

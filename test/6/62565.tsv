@@ -1,0 +1,6 @@
+2009-09-20T08:32:00.000Z	zooko		Ah, and it triggered the OOM.  :-)
+2009-09-20T08:33:00.000Z	zooko		I know about tee, I just expected stdout from the write to /proc, which now that I say it sounds pretty dumb...
+2009-09-20T08:34:00.000Z	zooko		Any theories why I don't have a /var/log/syslog?  :-(
+2009-09-20T08:35:00.000Z	zooko		It is on / which is an ext3 on a flashdrive.
+2009-09-20T08:36:00.000Z	DigitalKiwi	zooko	do you use arch or ubuntu or both or what? could swear i saw you in their channel earlier
+2009-09-20T08:37:00.000Z	zooko	DigitalKiwi	I was just working on some Python packaging issues and wanted to know how ArchLinux compiles its python executable.

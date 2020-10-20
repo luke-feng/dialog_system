@@ -1,0 +1,6 @@
+2005-09-29T15:10:00.000Z	test34		how can you change the bootup process so it shows exactly what it is doing while it boots ?
+2005-09-29T15:11:00.000Z	henke	test34	boot without the "quiet" option
+2005-09-29T15:11:00.000Z	test34	henke	where do you remove this option ?
+2005-09-29T15:12:00.000Z	henke	test34	you can edit the boot entry in the menu that shows on boot
+2005-09-29T15:12:00.000Z	test34		thanks henke
+2005-09-29T15:13:00.000Z	henke	test34	I believe that you press 'e' on the entry to edit it

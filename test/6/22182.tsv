@@ -1,0 +1,6 @@
+2011-12-27T10:09:00.000Z	rtaycher		Hi, my left click seems to break after using it for a while and I need to restart the XServer,(on a thinkpad T510) the amount of time it takes to stop working varies, pluggin in a usb mice and the usb mice can't left click either, any suggestions or pointers to threads with similar problems?
+2011-12-27T10:11:00.000Z	rtaycher		mouse problem on kubuntu 11.10
+2011-12-27T10:13:00.000Z	aBound	rtaycher	What's the mouse doing not interactive when you move it?
+2011-12-27T10:16:00.000Z	rtaycher	aBound	what do you mean not interative? It still moves, right clicking still works(right clicking used to stop working a bit of time after left clicking but I haven't seen that recently)
+2011-12-27T10:17:00.000Z	aBound	rtaycher	I think it's a bug in 11.10 given when I used the mouse it would just freeze for 10 seconds and wouldn't react when I moved the mouse
+2011-12-27T10:17:00.000Z	rtaycher	aBound	no it moves fine clicking just stops working till I restart X

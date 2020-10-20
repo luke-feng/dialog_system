@@ -1,0 +1,6 @@
+2008-12-16T22:39:00.000Z	farapa		hi guys
+2008-12-16T22:39:00.000Z	farapa		finally my problems must be something with wireless broadcomm chip (netgear) wifi card and power management
+2008-12-16T22:39:00.000Z	farapa		i got a message also at dmesg "apm overriden by acpi"
+2008-12-16T22:39:00.000Z	farapa		any idea?
+2008-12-16T22:40:00.000Z	erUSUL	farapa	does not look like an error msg just informative apm is ancient standar acpi is newer
+2008-12-16T22:41:00.000Z	farapa	erUSUL	ok but acpi does not show me frequency at guidance power manager. maybe because it is old laptop, old apm works better. it is compaq nx9020 of 2005

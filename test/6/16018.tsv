@@ -1,0 +1,6 @@
+2011-05-06T04:20:00.000Z	trobrock		I need to in a one line command switch to root user and run a command, but that command relys on environment variable from the root user, so generally I have to do 'sudo su' then '/path/to/command'
+2011-05-06T04:21:00.000Z	trobrock		I need to in a one line command switch to root user and run a command, but that command relys on environment variable from the root user, so generally I have to do 'sudo su' then
+2011-05-06T04:21:00.000Z	trobrock		 Official Ubuntu Support Channel | IRC Guidelines: http://goo.gl/cEF1w | IRC info: http://goo.gl/Pgv9o | Pastes to http://goo.gl/ixcN9 | Release Notes: http://goo.gl/tuSzO | Download: http://goo.gl/Ov56
+2011-05-06T04:22:00.000Z	trobrock		oops
+2011-05-06T04:22:00.000Z	KM0201	trobrock	no need to use sudo su... sudo -s or sudo -i probably would suffice
+2011-05-06T04:23:00.000Z	trobrock	KM0201	thanks -i did it

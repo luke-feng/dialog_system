@@ -1,0 +1,6 @@
+2007-11-26T20:58:00.000Z	void^	Mplayernogui	looks like it should work if you just disable the screensaver - recompiling gnome-screensaver seems like a huge waste of time to me.
+2007-11-26T20:59:00.000Z	Mplayernogui	void^	but then my screensaver wouldnt work.. right?
+2007-11-26T20:59:00.000Z	void^	Mplayernogui	you.. actually.. care?
+2007-11-26T21:01:00.000Z	Mplayernogui	void^	yes.. normaly i do.  but.. if i disable the gnome-screensaver by killal gnome-screensaver... will i do that everytime then?
+2007-11-26T21:04:00.000Z	void^	Mplayernogui	you can disable it, or remove the package. of course, if you care you can build a patched package, but if you've never done it before better expect to spend a few hours :]
+2007-11-26T21:07:00.000Z	Mplayernogui	void^	 im trying to patch now :) wish me luck :D

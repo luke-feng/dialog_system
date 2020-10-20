@@ -1,0 +1,6 @@
+2010-11-13T21:50:00.000Z	sda_		buntu
+2010-11-13T21:50:00.000Z	sda_		hi all
+2010-11-13T21:51:00.000Z	sda_		question, can i use only "some pakage" of a PPA? example i want firefox4 but i don't want thunderbird from mozilla dayly
+2010-11-13T21:52:00.000Z	BluesKaj	sda_	there's a Firefox ppa , just search for it on launchpad
+2010-11-13T21:52:00.000Z	sda_	BluesKaj	yes it's https://launchpad.net/~ubuntu-mozilla-daily but they have thunderbird prim and fire3.6 inside too, and i don't want them i want use the standard for this pakage
+2010-11-13T21:53:00.000Z	BluesKaj	sda_	don't use the daily

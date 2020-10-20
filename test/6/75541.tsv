@@ -1,0 +1,6 @@
+2007-11-30T02:53:00.000Z	smultron		can ubuntu read vista ntfs?
+2007-11-30T02:55:00.000Z	ArthurArchnix	smultron	Yes.
+2007-11-30T02:56:00.000Z	smultron	ArthurArchnix	so an Ubuntu LiveCD could probably read/mount a Vista installed hard drive?
+2007-11-30T02:58:00.000Z	ArthurArchnix	smultron	As of Gutsy, it can mount and read. I'm not sure if the live cd gives you write priveleges by default. But yes, so long as you're vista parition isn't encrypted you'll have no trouble mounting and writing using ntfs-3g
+2007-11-30T02:58:00.000Z	smultron	ArthurArchnix	great. thanks for the info :)
+2007-11-30T02:58:00.000Z	ArthurArchnix	smultron	Np. I ran Vista / Ubuntu for a while with a shared ntfs partition. It worked a treat.

@@ -1,0 +1,6 @@
+2007-08-05T12:55:00.000Z	Bobby		Hello, I don't mean to interupt but i am trying to use the update manager in uBuntu to update my os...I have an internet connection (i know), but when it goes to try and perform the updates...it says:     Could not download all repository indexes...then it just quits
+2007-08-05T12:55:00.000Z	Bobby		Any idea why?
+2007-08-05T12:55:00.000Z	khermans	Bobby	behind firewall
+2007-08-05T12:58:00.000Z	khermans	Bobby	possilby, make it nat instead
+2007-08-05T12:59:00.000Z	khermans	Bobby	what does /var/log/aptitude show
+2007-08-05T13:25:00.000Z	khermans	Bobby	a repo for codecs

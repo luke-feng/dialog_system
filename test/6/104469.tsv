@@ -1,0 +1,6 @@
+2006-10-19T16:15:00.000Z	rbrick		hi all
+2006-10-19T16:17:00.000Z	rbrick		guys, i use ntlm aps to go through my univ proxy and it works fine for http and this irc, but whenever i want to update using sudo apt-get update it always give me 407 proxy authentication required error. anyone know how to get around this problem please?
+2006-10-19T16:18:00.000Z	PURESKILLZZZ	rbrick	you have to have yout sources.list set up correctly dfor the packages you want
+2006-10-19T16:20:00.000Z	rbrick	PURESKILLZZZ	- so you meant i have to edit my source list?
+2006-10-19T16:20:00.000Z	PURESKILLZZZ	rbrick	yes becasue you may be using worng set=up .. make sure if its edgy all is edgy or is breezy all is breezy
+2006-10-19T16:21:00.000Z	rbrick	PURESKILLZZZ	- mine is dapper, okay will search around to find out about this thanks :)

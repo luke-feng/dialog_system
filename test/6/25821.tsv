@@ -1,0 +1,6 @@
+2010-01-04T15:55:00.000Z	Xaero252		I was wondering if there is a tool that I can run to display an overlay on top of X containing information like GPU temperature, CPU Temperature, and usage?
+2010-01-04T15:56:00.000Z	Xaero252		I know conky works for the desktop but that doesnt really help me monitor the temperature when I'm doing full-screen rendering or CUDA based calculation
+2010-01-04T15:57:00.000Z	Xaero252		I've tried adding conky to a widget layer in compiz but that just results in conky's "transparency" failing hard
+2010-01-04T15:57:00.000Z	soreau	Xaero252	conky does not play well with compiz
+2010-01-04T15:58:00.000Z	Xaero252	soreau	latest compiz from source seems to play pretty well with conky
+2010-01-04T15:58:00.000Z	soreau	Xaero252	okai

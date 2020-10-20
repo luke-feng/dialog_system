@@ -1,0 +1,6 @@
+2007-02-26T09:06:00.000Z	ayyub		When installing: [17179689.176000]  <0>Kernel panic - not syncing: Fatal exception in interrupt
+2007-02-26T09:06:00.000Z	ayyub		:(
+2007-02-26T09:07:00.000Z	cafuego_	ayyub	That's a crash, a bad one.
+2007-02-26T09:08:00.000Z	cafuego_	ayyub	Probably caused by bad hardware.
+2007-02-26T09:09:00.000Z	ayyub	cafuego_	The previous line begins with <e09da110> agp_put_bridge+0x0/0x20 [agpgart] .... any ideas?
+2007-02-26T09:09:00.000Z	cafuego_	ayyub	agp or video driver

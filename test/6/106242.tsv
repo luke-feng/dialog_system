@@ -1,0 +1,6 @@
+2011-08-03T21:15:00.000Z	d784		any diagnostic software for ubuntu?
+2011-08-03T21:15:00.000Z	d784		hardware
+2011-08-03T21:16:00.000Z	wols_	d784	you need to be more specific
+2011-08-03T21:16:00.000Z	wols_	d784	memtest, memtest86 or memtest+. whatever is in the repos
+2011-08-03T21:17:00.000Z	wols_	d784	you need to run it for hours for it to be of any use. otherwise the results are not very valid
+2011-08-03T21:18:00.000Z	wols_	d784	you run it frm a boot prompt. with NOTHING else running. No ubuntu will run while it works. the machine is fully occupied with the memtest

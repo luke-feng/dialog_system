@@ -1,0 +1,6 @@
+2012-02-01T18:35:00.000Z	silver_hook		I want to upgrade 10.04 → 11.10, do I have to upgrade version by version and if so, do I have to reboot in between updates?
+2012-02-01T18:35:00.000Z	LjL	silver_hook	yes, and yes. maybe it would be better to wait until Precise is out, and upgrade directly to that.
+2012-02-01T18:35:00.000Z	silver_hook		12.04? Why?
+2012-02-01T18:36:00.000Z	silver_hook		Will that be LTS again
+2012-02-01T18:36:00.000Z	LjL	silver_hook	because 12.04 will be LTS like 10.04, so you can upgrade directly to it without going version-by-version
+2012-02-01T18:37:00.000Z	silver_hook	LjL	Thanks for the idea. I guess we'll just wait for these two months :]

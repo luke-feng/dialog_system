@@ -1,0 +1,6 @@
+2009-03-12T04:40:00.000Z	Sertse		When I get an updated app, why do the libs etc also have to upgraded? Particularly when the app doesn't need the updated libs...I guess, I'm asking how make the updated lib a dependent?
+2009-03-12T04:40:00.000Z	Sertse		*why make
+2009-03-12T04:41:00.000Z	Sertse		mstcorefonts?
+2009-03-12T04:42:00.000Z	sebsebseb	Sertse	sure, but does that do Wine as well?
+2009-08-18T20:56:00.000Z	sebsebseb	Sertse	you don't   Konqueror uses KHTML,  Webkit is based on KHTML
+2009-08-18T20:57:00.000Z	sebsebseb	Sertse	Epiphany will use Gecko by default, but it can use Webkit instead by the way

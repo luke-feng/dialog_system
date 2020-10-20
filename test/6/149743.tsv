@@ -1,0 +1,6 @@
+2006-01-05T17:03:00.000Z	epp		is there a program to hook my pda to linux?
+2006-01-05T17:04:00.000Z	epp		does that support ppc?
+2006-01-05T09:19:00.000Z	epp		how would i make esd run on startup?
+2006-01-05T09:20:00.000Z	epp		KyKo... mpg321?
+2006-01-05T09:20:00.000Z	epp		nalioth... whats the files that i add esd to?
+2006-01-05T09:21:00.000Z	nickrud	epp	system->preferences->sound, and tick enable sound server startup

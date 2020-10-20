@@ -1,0 +1,6 @@
+2011-10-09T14:49:00.000Z	ActionPa1snip	none	what is the output of:  uname -a
+2011-10-09T14:52:00.000Z	ActionPa1snip	none	64bit OS
+2011-10-09T14:53:00.000Z	ActionPa1snip	none	then you need the 64bit binary
+2011-10-09T14:55:00.000Z	ActionPa1snip	none	if you can get the 32bit libs and put them in /usr/lib32  you can run it, just gets messy
+2011-10-09T14:58:00.000Z	ActionPa1snip	none	run:  gksudo nautilus    and you can
+2011-10-09T14:58:00.000Z	ActionPa1snip	none	I'd take the easy road and install 32bit

@@ -1,0 +1,6 @@
+2010-09-18T03:31:00.000Z	zcfy		When I run Ubuntu with Gnome, Wicd can connect to the wireless, but when I run Ubuntu with Awesome, Wicd can only do wired. When I try to connect to my wireless network, it says "linksys: Obtaining IP address..." for a while while and then it says "Connection failed: unable to get IP address". Any ideas?
+2010-09-18T03:33:00.000Z	aeon-ltd	zcfy	well, what's gnome loading that awesome/(your xinitrc) isn't loading?
+2010-09-18T03:37:00.000Z	aeon-ltd	zcfy	have you tried xander_'s idea
+2010-09-18T03:42:00.000Z	aeon-ltd	zcfy	try in a terminal, nm-applet
+2010-09-18T03:44:00.000Z	aeon-ltd	zcfy	ok, does wireless work now?
+2010-09-18T03:45:00.000Z	aeon-ltd	zcfy	your welcome, glad i could help

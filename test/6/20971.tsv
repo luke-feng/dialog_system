@@ -1,0 +1,6 @@
+2010-08-10T14:14:00.000Z	Nubulis_Maximus		Hello, I'm trying to copy a directory from my home folder to the file system usr/share directory and every option I try results in a no such file or directory. plz help
+2010-08-10T14:15:00.000Z	Kwpolska	Nubulis_Maximus	sudo cp -rf /home/user/the/interesting/directory /usr/share
+2010-08-10T14:16:00.000Z	Kwpolska	Nubulis_Maximus	see what I said
+2010-08-10T14:16:00.000Z	Nubulis_Maximus	Kwpolska	will try that
+2010-08-10T14:19:00.000Z	Nubulis_Maximus	Kwpolska	not having any luck with that
+2010-08-10T14:19:00.000Z	Nubulis_Maximus	Kwpolska	used command      sudo cp -rf /home/sleeve/aeon  /usr/share

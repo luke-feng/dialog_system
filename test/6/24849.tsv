@@ -1,0 +1,6 @@
+2011-05-01T15:52:00.000Z	scotty^	Trashi	- someone mentioned b4 that there was a Firefox extension to integrate it's menu with Unity - I'm guessing Thunderbird needs something similar.
+2011-05-01T15:53:00.000Z	Trashi	scotty^	and how to install a thunderbird extension without access to the extension/addon manager?
+2011-05-01T15:57:00.000Z	scotty^	Trashi	- hmm.  Good question.  What happens if you double-click on the .xpi file in Nautilus?
+2011-05-01T15:58:00.000Z	scotty^	Trashi	- otherwise maybe booting into Ubuntu Classic and installing it, then booting back into Unity will work.
+2011-05-01T15:58:00.000Z	Trashi	scotty^	the archive manager appears ... i tried to open the xpi file with thunderbird from nautilus, but nothing happens
+2011-05-01T15:59:00.000Z	Trashi	scotty^	yes you are right .. think i'll try that ...

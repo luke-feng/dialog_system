@@ -1,0 +1,6 @@
+2008-10-15T06:06:00.000Z	okidogi		hi,I'm compiling emacs23, and here is it's warning:
+2008-10-15T06:06:00.000Z	okidogi		Assuming /var/mail is really the mail spool directory, you should
+2008-10-15T06:06:00.000Z	okidogi		run lib-src/blessmail /usr/libexec/emacs/23.0.60/i686-pc-linux-gnu/movemail
+2008-10-15T06:06:00.000Z	okidogi		as root, to give movemail appropriate permissions.
+2008-10-15T06:06:00.000Z	okidogi		Do that after running make install.
+2008-10-15T06:06:00.000Z	FloodBot2	okidogi	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

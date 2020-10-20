@@ -1,0 +1,6 @@
+2005-04-05T11:33:00.000Z	sj`		are there kernel headers for 2.6.10-5-686 yet?
+2005-04-05T11:34:00.000Z	michael	sj`	yup, i'm using them
+2005-04-05T11:34:00.000Z	michael	sj`	this is under hoary
+2005-04-05T11:34:00.000Z	sj`	michael	hmm apt-get can't find htem for me, neither can synaptic
+2005-04-05T11:34:00.000Z	sj`		*them
+2005-04-05T11:35:00.000Z	michael	sj`	look for "linux-headers-2.6.10-5-686"

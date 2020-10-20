@@ -1,0 +1,6 @@
+2010-01-06T15:35:00.000Z	kinja-sheep	koichirose	External hard drive?
+2010-01-06T15:35:00.000Z	koichirose	kinja-sheep	yes, it is a sata hard drive in a usb box
+2010-01-06T15:36:00.000Z	kinja-sheep	koichirose	And as for storage (and access by other OSes), you're creating separate partition for that one?
+2010-01-06T15:37:00.000Z	koichirose	kinja-sheep	no. I was thinking a single partition. It'll happen maybe once a year that it will have to be used on non unix oses
+2010-01-06T15:44:00.000Z	kinja-sheep	koichirose	Define professional.  As long as it get the job done, then yes, that's one way to go. There are no "professional tools" -- Just various. You might want rsync, I suppose.
+2010-01-06T15:47:00.000Z	kinja-sheep	koichirose	rsync -avz --progress --human-readable :)

@@ -1,0 +1,6 @@
+2007-05-12T11:02:00.000Z	albert		hi, where (filesystem) are my usb-ports located?
+2007-05-12T11:03:00.000Z	Mookie	albert	If you mounted them, it's usually /proc/bus/usb
+2007-05-12T11:04:00.000Z	albert	Mookie	i need to mount my mp3-player
+2007-05-12T11:04:00.000Z	albert	Mookie	so i need some location for the "mount" command
+2007-05-12T11:04:00.000Z	Mookie	albert	try "sudo mount -t usbfs none /proc/bus/usb"
+2007-05-12T11:05:00.000Z	albert	Mookie	ty

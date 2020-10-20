@@ -1,0 +1,6 @@
+2012-05-10T14:26:00.000Z	rtp2342	shani0610	maybe you want to look at /root
+2012-05-10T14:27:00.000Z	rtp2342	shani0610	seems you were root when running wget
+2012-05-10T14:28:00.000Z	rtp2342	shani0610	of course, normal users are not allowed to read/write the /root directory
+2012-05-10T14:28:00.000Z	rtp2342	shani0610	why did you wget the file as user root anyway?
+2012-05-10T14:30:00.000Z	rtp2342	shani0610	then log in as root again, move the file to your normal user's home dir and chown it to that user
+2012-05-10T14:30:00.000Z	rtp2342	shani0610	mv /root/blah.mp3 /home/user/ ; chown user:user /home/user/blah.mp3

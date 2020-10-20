@@ -1,0 +1,6 @@
+2007-12-28T06:25:00.000Z	adamonline46		How do I install an X server?
+2007-12-28T06:25:00.000Z	macd	adamonline46	only the x server, or do you want a window manager as well?
+2007-12-28T06:26:00.000Z	adamonline46	macd	I just installed enlightenment, the WM, apparently I don't have an X server isntalled 8)  So yeah, just the server...
+2007-12-28T06:26:00.000Z	macd	adamonline46	and you installed e17 from apt? it would automatically install X as well.
+2007-12-28T06:27:00.000Z	adamonline46	macd	I couldn't find E17 package, it was called 'enlightenment'.  That's what I would have figured, too, but when I type 'startx' I get a command not found error, and when I type 'enlightenent' I get an 'X erver not running' error...
+2007-12-28T06:30:00.000Z	adamonline46	macd	Thank you, too

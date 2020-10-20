@@ -1,0 +1,6 @@
+2006-04-26T13:36:00.000Z	stjepan		hi
+2006-04-26T13:37:00.000Z	stjepan		why are there packages named kubuntu-desktop, ubuntu-desktop, xubuntu-desktop?? Why they aren't kde, gnome and xfce?
+2006-04-26T13:38:00.000Z	FlannelKing	stjepan	it includes a whole suite of applications, not JUST gnome/etc/
+2006-04-26T13:39:00.000Z	FlannelKing	stjepan	like, well, Xubuntu doesn't install OOo, and then for KDE you have all the *K* utilities instead of the G ones.
+2006-04-26T13:46:00.000Z	FlannelKing	stjepan	you can, just uninstall everything ;)
+2006-04-26T13:46:00.000Z	FlannelKing	stjepan	or, start with a server install and build up

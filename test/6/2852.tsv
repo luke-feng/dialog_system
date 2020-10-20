@@ -1,0 +1,6 @@
+2012-04-15T20:56:00.000Z	Nik05		hey guys
+2012-04-15T20:56:00.000Z	Nik05		Is there a problem with passwd in Lucid?
+2012-04-15T20:56:00.000Z	Nik05		I wanted to change a password of a user and used sudo
+2012-04-15T20:56:00.000Z	Nik05		it asked for new password x2, and then it hang for 2 minutes
+2012-04-15T20:57:00.000Z	Nik05		after that it said password changed sucessfully
+2012-04-15T20:57:00.000Z	comgen	Nik05	: sudo passwd  = will change roots password not the user just type passwd

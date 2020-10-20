@@ -1,0 +1,6 @@
+2005-11-03T06:50:00.000Z	KurtKraut		How may I listen to Windows Media Services streams ? Like there mms:// URLs... wich program in Ubuntu should I use for that ?
+2005-11-03T06:50:00.000Z	mustard5	KurtKraut	totem
+2005-11-03T06:51:00.000Z	mustard5	KurtKraut	oh..hang on ..I'm not sure about that :)
+2005-11-03T06:58:00.000Z	mustard5	KurtKraut	try mplayer
+2005-11-03T06:59:00.000Z	mustard5	KurtKraut	sounds like you need to enable extra repositories
+2005-11-03T06:59:00.000Z	mustard5	KurtKraut	or search in synaptic

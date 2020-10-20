@@ -1,0 +1,6 @@
+2005-10-07T11:47:00.000Z	foampeice		how do i put each line of a text file if it were a list of packages onto the commandline to be processed by apt-get remove ?
+2005-10-07T11:47:00.000Z	foampeice		buchan: what packages do you need to run sympatico?
+2005-10-07T11:48:00.000Z	foampeice		do any of the package managers show orphans?
+2005-10-07T11:48:00.000Z	Kyral	foampeice	sudo apt-get install debfoster
+2005-10-07T11:48:00.000Z	foampeice	Kyral	debfoster?
+2005-10-07T11:53:00.000Z	Kyral	foampeice	do a sudo debfoster

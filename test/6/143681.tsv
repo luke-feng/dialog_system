@@ -1,0 +1,6 @@
+2005-11-27T08:23:00.000Z	paxmaster		is there a way to see deb file
+2005-11-27T08:23:00.000Z	paxmaster		can I open a deb to it content, \
+2005-11-27T08:24:00.000Z	paxmaster		without installing it
+2005-11-27T08:25:00.000Z	bimberi	paxmaster	dpkg -c file.deb
+2005-11-27T08:25:00.000Z	paxmaster		thx bimberi will try that
+2005-11-27T08:31:00.000Z	paxmaster	bimberi	that what was looking for thx man

@@ -1,0 +1,6 @@
+2005-07-13T12:27:00.000Z	skew		Hi, my office mate and I are getting an MD5Sum error trying to apt-get emacs21. Can anybody help/check?
+2005-07-13T12:28:00.000Z	HappyFool	skew	probably dud repository. change us.archive in /etc/apt/sources.list to archive
+2005-07-13T12:29:00.000Z	HappyFool	skew	did you 'apt-get update' ?
+2005-07-13T12:29:00.000Z	HappyFool	skew	someone else reported problems a few minutes ago
+2005-07-13T12:31:00.000Z	skew	HappyFool	thanks, it installed fine from archive
+2005-07-13T12:31:00.000Z	HappyFool	skew	cool. happy emacsing ;) and ignore those vi heretics!

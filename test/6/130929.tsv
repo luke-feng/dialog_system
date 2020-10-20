@@ -1,0 +1,6 @@
+2007-06-24T15:16:00.000Z	logan		What is best for unzipping .7z files in linux?
+2007-06-24T15:16:00.000Z	kismet	logan	7 zip
+2007-06-24T15:16:00.000Z	kismet	logan	its in the repo as well
+2007-06-24T15:17:00.000Z	kismet	logan	synaptic will put it up too, i think.
+2007-06-24T15:22:00.000Z	kismet	logan	type "whereis wine" in the console
+2007-06-24T15:28:00.000Z	kismet	logan	they are hidden, in Nautilus goto edit -> preferences, check show hidden files

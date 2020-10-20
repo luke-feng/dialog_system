@@ -1,0 +1,6 @@
+2010-08-27T05:28:00.000Z	C_Okie		I found the time and am ready to install Ubuntu and I have windows already installed. But, is there more options with mounting partitions and tricks you can do then what's stated on the help wiki: https://help.ubuntu.com/9.10/switching/installing-partitioning.html? Beyond /root /home and the swap partition, is there more 'tricks' or impllementations you can do then simply having a root a home and a swap partition?
+2010-08-27T05:29:00.000Z	C_Okie		Mounting tricks that are usefull and something to consider that is?
+2010-08-27T05:30:00.000Z	ActionParsnip	C_Okie	thats pretty much all I can recommend, seperate /home partitions are great
+2010-08-27T05:32:00.000Z	C_Okie	ActionParsnip	 oh someone told be to do some researching up on mounting w/ ubuntu... I figured they meant really "researching" and not just what the wiki help says
+2010-08-27T06:00:00.000Z	ActionParsnip	C_Okie	yes, its part of the install. You can resize the ntfs. Make sure your backups are up to date in case of catastrophe
+2010-08-27T06:49:00.000Z	ActionParsnip	C_Okie	always a pleasure

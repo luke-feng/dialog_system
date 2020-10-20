@@ -1,0 +1,6 @@
+2008-11-02T19:44:00.000Z	lordofthepigs		hello! What's the preferred way to download the sources of packages in universe?
+2008-11-02T19:44:00.000Z	jrib	lordofthepigs	apt-get source PACKAGE
+2008-11-02T19:46:00.000Z	lordofthepigs		Cool, thanks to all f you
+2008-11-02T19:47:00.000Z	lordofthepigs		Hmm, and where are those sources unpacked?
+2008-11-02T19:47:00.000Z	jrib	lordofthepigs	current working directory
+2008-11-02T19:48:00.000Z	lordofthepigs	jrib	velko: thanks again

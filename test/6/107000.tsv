@@ -1,0 +1,6 @@
+2010-03-19T01:21:00.000Z	xorl		so anoying, I don't know WHERE apache is getting www-data for I have changed it in every file in /etc I could find envvars, you name it
+2010-03-19T01:21:00.000Z	xorl		one of the processes is STILL called www-data
+2010-03-19T01:22:00.000Z	airtonix	xorl	why are you trying to change the username for apache ?
+2010-03-19T01:22:00.000Z	xorl	airtonix	Security reasons.
+2010-03-19T01:25:00.000Z	airtonix	xorl	see : !enter
+2010-03-19T01:25:00.000Z	xorl	airtonix	...

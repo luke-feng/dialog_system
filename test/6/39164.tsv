@@ -1,0 +1,6 @@
+2009-04-10T14:40:00.000Z	jrq		hi i was wondering if some1 can help me with installing ubuntu or kubuntu
+2009-04-10T14:42:00.000Z	jrq		when i downloaded kubuntu and tried to install it i got this error saying i have a problem with 59 files but when i did the hash check there was no problem
+2009-04-10T14:42:00.000Z	abby_	jrq	did you try it on a dif. machine? also, did you try to burn another copy (I know the hash is OK, but just in case)?
+2009-04-10T14:46:00.000Z	abby_	jrq	dunno, but I remember some people having motherboards which weren't supported by Ubuntu. They tried Suse and it was fine (since they make contracts with mb manufacturers). They had similar errors, I believe. Please do check whether your hardware is supported!
+2009-04-10T14:47:00.000Z	abby_	jrq	Yeah, did you try to turn off acpi? (btw, tnx ziroday)
+2009-04-10T14:48:00.000Z	abby_	jrq	openSuse is another linux distribution. but don't give up on ubuntu yet! :)

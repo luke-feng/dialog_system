@@ -1,0 +1,6 @@
+2011-05-23T00:57:00.000Z	randomuser		I'm looking for a way to disable unity and revert to gnome2, with authority and finality. Anyone know of a guide that will help me make sure I hit all the right spots?
+2011-05-23T00:57:00.000Z	W3ird_N3rd	randomuser	one moment
+2011-05-23T00:58:00.000Z	W3ird_N3rd	randomuser	go to System>Administration>Login window
+2011-05-23T00:58:00.000Z	W3ird_N3rd		and pick Ubuntu classic (or Ubuntu classic (no effects))
+2011-05-23T00:58:00.000Z	randomuser	samithdisal	'ubuntu classic' is 2d unity.  Same bugs, no 3d acceleration
+2011-05-23T00:59:00.000Z	W3ird_N3rd	randomuser	2D unity does not (yet) exist

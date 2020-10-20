@@ -1,0 +1,6 @@
+2007-04-20T10:42:00.000Z	Hasrat_USA	labanux	what's your original problem?
+2007-04-20T10:43:00.000Z	labanux	Hasrat_USA	: my sound card didn't work with alsa..  but it works with OSS
+2007-04-20T10:44:00.000Z	Hasrat_USA	labanux	oh and what's your soundcard?
+2007-04-20T10:44:00.000Z	labanux	Hasrat_USA	: hda intel..
+2007-04-20T10:45:00.000Z	labanux	Hasrat_USA	: eventough it works with OSS, I think it's a nightmare to run any mixer from console..
+2007-04-20T10:45:00.000Z	labanux	Hasrat_USA	: i must using ossmix from command line to adjust or reduce the volume level..

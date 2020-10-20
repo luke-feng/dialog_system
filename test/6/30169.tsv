@@ -1,0 +1,6 @@
+2010-05-01T06:56:00.000Z	_Techie_		i need to initialise the preamp on my soundcard, driver module snd-ca0106.   does anybody know how to do this?
+2010-05-01T06:57:00.000Z	soreau	_Techie_	What makes you think you need to init a preamp?
+2010-05-01T06:58:00.000Z	_Techie_	soreau	whenever i play ANY sound through the card, all i get is white noise (distorting preamp), however i can adjust the volume levels right down to a point where the preamp is no longer distorting the audio excessively, but the quality is still horrible
+2010-05-01T07:00:00.000Z	_Techie_	soreau	also when i bot into windows, it initialises the preamp and if i softreboot into ubuntu it works, but from a cold boot... all i get is distortion
+2010-05-01T07:00:00.000Z	soreau	_Techie_	That sounds horrible. Have you tried disabling pulseaudio already?
+2010-05-01T07:00:00.000Z	_Techie_	soreau	how would one go about doign that?

@@ -1,0 +1,6 @@
+2008-10-03T17:19:00.000Z	coldhitman47		how do i change graphic card config before login into gnome? i can't access the safemode, my keyboard cant be used.
+2008-10-03T17:19:00.000Z	erUSUL	coldhitman47	boot into recovery mode and do 'sudo dpkg-reconfigure -phigh xserver-xorg'
+2008-10-03T17:23:00.000Z	coldhitman47	erUSUL	'sudo dpkg-reconfigure -phigh xserver-xorg' returns 'xserver-xorg postinst warning: overwritting possibly-customized  config... '
+2008-10-03T17:23:00.000Z	erUSUL	coldhitman47	that means it generated a new xorg.conf that was what you wanted; no?
+2008-10-03T17:27:00.000Z	coldhitman47	erUSUL	yea, thanks it saved my eyes from fuzzy screen now.
+2008-10-03T17:27:00.000Z	coldhitman47	erUSUL	i'm having a ATI radeon X300. I install a ATI package from the add/remove, it doesn't work properly.

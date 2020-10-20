@@ -1,0 +1,6 @@
+2012-05-28T00:16:00.000Z	VDZ		Can somebody please help me? I just want to simply execute a command or .sh script at bootup, but no matter what advice I try it just doesn't work
+2012-05-28T00:16:00.000Z	VDZ		<jrib> VDZ: crontab -e, to edit your crontab. Then make a line with "@reboot COMMAND"
+2012-05-28T00:16:00.000Z	VDZ		<VDZ> sudo ps -A | grep vnc still doesn't return anything, and it's refusing VNC connections
+2012-05-28T00:16:00.000Z	VDZ		<VDZ> At the bottom of my crontab -e file is '@reboot tightvncserver -geometry 1200x800'
+2012-05-28T00:16:00.000Z	VDZ		<VDZ> jrib; so what am I doing wrong?
+2012-05-28T00:16:00.000Z	FloodBot1	VDZ	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

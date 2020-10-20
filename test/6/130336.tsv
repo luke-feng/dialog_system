@@ -1,0 +1,6 @@
+2006-11-01T09:07:00.000Z	kelten		How do I see what permissions each file has in a folder?
+2006-11-01T09:08:00.000Z	kelten		Whats the command to find out what distro im running and what version
+2006-11-01T09:09:00.000Z	kelten		It jsut says Linux though
+2006-11-01T09:09:00.000Z	kelten		okay, thanks
+2006-11-01T09:09:00.000Z	sethk	kelten	that tells you info about the kernel, really, nothing else
+2006-11-01T09:09:00.000Z	sethk	kelten	I was talking about uname, not about lsb_....

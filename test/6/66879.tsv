@@ -1,0 +1,6 @@
+2009-08-28T14:41:00.000Z	XQbit		so uhh, my friend's PC shows a message - An automatic fsck of the root filesystem failed. A manual fsck must be performed in maintenance mode. Maintenance shell started.
+2009-08-28T14:41:00.000Z	XQbit		what is he supposed to write then?
+2009-08-28T14:42:00.000Z	ActionParsnip	XQbit	+1 what MenZa suggested
+2009-08-28T14:42:00.000Z	ActionParsnip	XQbit	or boot to recovery root console, you will need to umount the partitions
+2009-08-28T14:42:00.000Z	ActionParsnip	XQbit	its like chkdsk in windows
+2009-08-28T14:45:00.000Z	ActionParsnip	XQbit	i suggest getting one thats generic to Linux rather than simply ubuntu specific, it will prepare you for any distro then

@@ -1,0 +1,6 @@
+2010-05-31T19:50:00.000Z	naples_guy		i have messed up.  I tried to add a user through 'sudo adduser username'  followed by
+2010-05-31T19:50:00.000Z	naples_guy		'sudo passwd pw'
+2010-05-31T19:50:00.000Z	naples_guy		log out, then log in, and it says my home directory does not sseem to exist
+2010-05-31T19:51:00.000Z	naples_guy		Your home directory is listed as '     ' but it does not appear to exist. Do you want to log in with the/root directory as your home directory? it is unlikely anything will work unless you use a failsafe session
+2010-05-31T19:52:00.000Z	sipior	naples_guy	have you tried creating the directory manually, and populating it with the files in /etc/skel?
+2010-05-31T19:52:00.000Z	sipior	naples_guy	also, ensure that the directory owner and permissions match what you want

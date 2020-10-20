@@ -1,0 +1,6 @@
+2005-09-10T06:11:00.000Z	bimberi	astro87	set up resolv.conf the way you want, then "sudo chattr +i /etc/resolv.conf" (makes it immutable)
+2005-09-10T06:11:00.000Z	bimberi	astro87	btw, "-i" removes the attribute
+2005-09-10T06:13:00.000Z	astro87	bimberi	if the file is immutable, it won't be updated?
+2005-09-10T06:13:00.000Z	bimberi	astro87	that's the theory, i've not done it myself, but worth a try :)
+2005-09-10T06:14:00.000Z	astro87	bimberi	thanks, I'll give it a go :)
+2005-09-10T06:14:00.000Z	bimberi	astro87	i tested it myself by trying to "sudo vi" the file and it wouldn't save, so looks promising :)

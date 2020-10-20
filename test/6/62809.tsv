@@ -1,0 +1,6 @@
+2008-03-08T20:44:00.000Z	bloody`		hey guys, my ubuntu on my laptop freezes on me, for no obvious reason, running different apps. it requires me to hold my power button and hardreboot. it is not the ram, ive run memtest for 24 hours
+2008-03-08T20:45:00.000Z	Sinnerman	bloody`	acpi issues? i don't know, i've not had that problem recently, but that might be worth looking into.
+2008-03-08T20:48:00.000Z	Sinnerman	bloody`	like i said, i ain't too sure, but google kernel options, and acpi/noacpi or whatnot. i sort of came across that googling a somewhat slightly different issue. might be worth investigating.
+2008-03-12T22:43:00.000Z	Sinnerman	bloody`	not likely. Moduliz0r yeah, everything's working fine.
+2008-03-12T22:45:00.000Z	Sinnerman	bloody`	lspci didn't turn anything nv-related.
+2008-03-12T22:45:00.000Z	Sinnerman	bloody`	in fact a lot of the devices seem to be using ATI chipsets of one denomination or other.

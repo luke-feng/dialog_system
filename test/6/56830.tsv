@@ -1,0 +1,6 @@
+2008-07-09T09:50:00.000Z	demfrax		anyone know how to get Guild Wars running on ubuntu, I am using Wine 1.1.0 and when I load Guild Wars, screen goes to 800x600 resolution, I get the mouse, but nothing else, no sound, no screen, and I have to manual shutdown and reboot. can someone point me to a guide or explain to me how to fix this please
+2008-07-09T09:51:00.000Z	xxploit	demfrax	have u checking winehq.org appdb about the game?
+2008-07-09T09:51:00.000Z	demfrax	xxploit	yeah they gave me a .php file, yet didnt tell me what to do with it or any instructions on how to make the game work
+2008-07-09T09:52:00.000Z	xxploit	demfrax	guild wars is platinum status so should work flawlessly
+2008-07-09T09:53:00.000Z	demfrax	xxploit	it doesnt though, like I said, I get the cursor, the screen goes 800x600 yet nothing else
+2008-07-09T09:54:00.000Z	xxploit	demfrax	http://wiki.guildwars.com/wiki/Guild_Wars_on_Wine

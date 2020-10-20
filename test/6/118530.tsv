@@ -1,0 +1,6 @@
+2007-09-05T09:22:00.000Z	BBHoss		how do you add a modules to be modprobed at boot in ubuntu
+2007-09-05T09:22:00.000Z	BBHoss		i cant find /etc/rc.modules
+2007-09-05T09:22:00.000Z	ikonia	BBHoss	modprobe runs of the cli
+2007-09-05T09:22:00.000Z	ikonia	BBHoss	/etc/modules.conf
+2007-09-05T09:23:00.000Z	BBHoss	ikonia	is it usually empty?
+2007-09-05T09:23:00.000Z	ikonia	BBHoss	hang on moment

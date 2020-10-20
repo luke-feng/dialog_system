@@ -1,0 +1,6 @@
+2005-02-20T16:14:00.000Z	blah09		i think for that one all you have to do is extract and run from the folder, im not 100% sure though
+2005-02-20T16:16:00.000Z	blah09		whats it called?
+2005-02-20T16:16:00.000Z	blah09		try ./filename
+2005-02-20T16:18:00.000Z	blah09		you dont have to run it as root...
+2005-02-20T16:18:00.000Z	blah09		as root itll go to opt
+2005-02-20T16:19:00.000Z	jatz	blah09	but running the install as a normal user wont allow rw access to /opt, unless theres something different with the way ubuntu is setup?

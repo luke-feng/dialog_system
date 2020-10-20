@@ -1,0 +1,6 @@
+2009-07-28T05:59:00.000Z	smxy		I see that the default runlevel is 2 X is running. What is the non-X runlevel and how do I configure the system to use that instead? (Aside from init at the comand line)
+2009-07-28T05:59:00.000Z	smxy		...2 and X ...
+2009-07-28T06:00:00.000Z	Dr_Willis	smxy	 there is no non-x runlevel. If you dotn want GDM to start disable the GDm service
+2009-07-28T06:00:00.000Z	Dr_Willis	smxy	 ubuntu has gotten away from the runlevels sort of thinking that most other disrtos use.
+2009-07-28T06:01:00.000Z	Dr_Willis	smxy	 use some of the various 'sysv' init tools to mange whats running .
+2009-07-28T06:02:00.000Z	Dr_Willis	smxy	 no idea what 'chkconfig' does.

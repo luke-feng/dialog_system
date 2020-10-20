@@ -1,0 +1,6 @@
+2011-03-04T19:50:00.000Z	llutz_		why do people think jumping around in the filesystem is a good thing? use pathes and avoid having "." in $PATH
+2011-03-04T19:50:00.000Z	xzcvczx	llutz_	who thinks thats a good thing?
+2011-03-04T19:51:00.000Z	xzcvczx	llutz_	fine then..... du -sh /*
+2011-03-04T19:52:00.000Z	llutz_	xzcvczx	imho its bad habit to cd wild around (see psusi why), but unfortunately very common
+2011-03-04T19:56:00.000Z	xzcvczx	llutz_	well then i am a bad user... so sue me
+2011-03-04T19:59:00.000Z	xzcvczx	llutz_	lol that was once and yes i did <DONT DO THIS>rm -rf  /</DON"T DO THIS> accidentally as root

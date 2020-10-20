@@ -1,0 +1,6 @@
+2005-09-30T15:11:00.000Z	angryfix		Is there a way, using the default ssh program to view a file with syntax highlighting. Everytime I ssh into my other computer to edit some PHP files, there is no color when using vim.
+2005-09-30T15:11:00.000Z	hondje	angryfix	:syntax on
+2005-09-30T15:12:00.000Z	angryfix	hondje	perfect! thanks.
+2005-09-30T15:12:00.000Z	hondje	angryfix	No problem :) The setting to have it on my default is on the server you're ssh'd to, so to make it permanant you have to mess with the config there
+2005-09-30T15:13:00.000Z	angryfix	hondje	what about enabling the color background?
+2005-09-30T15:14:00.000Z	hondje	angryfix	I can't remember how to do that...I always just set the syntax to dark bg and forget about it

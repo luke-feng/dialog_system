@@ -1,0 +1,6 @@
+2007-05-19T07:13:00.000Z	wookieferret		I'm back.  Alright.  It is still not shutting off automatically.  Doing the shutdown command yielded absolutely nothing of value besides a computer that, once again, and just like every Linux distribution from Slackware, to Debian, to Gentoo, has failed to shut off the computer automatically.  Is there a way to disable the last portions of the splash screen on shutdown?
+2007-05-19T07:13:00.000Z	InnatechAtHome	wookieferret	have you tried various cheatcodes, like disapling APM or APIC ?
+2007-05-19T07:15:00.000Z	InnatechAtHome	wookieferret	yeah. Try passing the kernel acpi=off
+2007-05-19T07:16:00.000Z	wookieferret	InnatechAtHome	I tried to add 'apm shutdown=1' to /etc/modules earlier as suggested by someone on the ubuntuforums from back when edgy first came out.  But, upon rebooting, I found out that the apm module failed to load and trying to load it using modprobe said it didn't have any devices.
+2007-05-19T07:17:00.000Z	InnatechAtHome	wookieferret	yeah. Different chipsets and motherboards need different cheatcodes. The rabbit hole gets pretty deep. I'd try acpi=off , see if that helps with APM on.
+2007-05-19T07:20:00.000Z	InnatechAtHome	wookieferret	I'd definitely try disabling ACPI on a machine of that vintage. My old XP1800 on a gigabyte MB is very finicky too.

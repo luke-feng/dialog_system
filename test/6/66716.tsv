@@ -1,0 +1,6 @@
+2010-05-07T19:41:00.000Z	fax		hi hi
+2010-05-07T19:42:00.000Z	fax		I installed ubuntu from the CD onto my computers but I can't boot into it (It just gives a black screen and nothing happens) - any ideas what to do
+2010-05-07T19:42:00.000Z	fax		?
+2010-05-07T19:42:00.000Z	ActionParsnip	fax	did you md5 test the iso you downloaded?
+2010-05-07T19:44:00.000Z	ActionParsnip	fax	ok then try some boot options
+2010-05-07T19:48:00.000Z	ActionParsnip	fax	try a lot of combinations of bootoptions. youcan use more than one at a time

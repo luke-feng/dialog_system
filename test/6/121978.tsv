@@ -1,0 +1,6 @@
+2006-12-27T06:08:00.000Z	luckyb57		for 64bit intel which one is prefered to be installed?
+2006-12-27T06:08:00.000Z	luckyb57		64-bit PC (AMD64) desktop CD
+2006-12-27T06:08:00.000Z	luckyb57		or just PC (Intel x86) desktop CD
+2006-12-27T06:09:00.000Z	luckyb57		okay..
+2006-12-27T06:09:00.000Z	POVaddct	luckyb57	if you plan to use binary only things like flashplayer and some win32 codecs, you are better off with i386
+2006-12-27T06:10:00.000Z	POVaddct	luckyb57	because 32bit binary only software won't run on a 64bit kernel

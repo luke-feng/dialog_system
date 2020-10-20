@@ -1,0 +1,6 @@
+2010-01-20T15:36:00.000Z	karhu		im using chatzilla
+2010-01-20T15:36:00.000Z	karhu		i tried to change it thru system/display but it only has very low resolutions
+2010-01-20T15:37:00.000Z	karhu		do i get that from nviadia or somewhere else ?
+2010-01-20T15:37:00.000Z	DJones	karhu	You probably need to go to Hardware Drivers and install the nvidia driver
+2010-01-20T15:38:00.000Z	DJones	karhu	How old is the nvidia tnt card, if its what I think, its quite an old card which might not be supported anymore, I've got an old nvidia geforce 2 which only works with the open source nv driver
+2010-01-20T15:43:00.000Z	DJones	karhu	I'm not sure what to suggest, I can;t install any nvidia drivers because of the age of the card & it not being supported any longer, but the default driver does give me a resolution of 1600x1200

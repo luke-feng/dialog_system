@@ -1,0 +1,6 @@
+2007-04-18T09:43:00.000Z	IGxMyzt		hiya
+2007-04-18T09:43:00.000Z	IGxMyzt		i have a problem installing
+2007-04-18T09:43:00.000Z	IGxMyzt		i've been here before
+2007-04-18T09:45:00.000Z	IGxMyzt		when i installed through an alternate disc, running linux says that x server failed to start, and to reboot after the graphical interface is working, and it reported that i had no screens
+2007-04-18T09:46:00.000Z	IGxMyzt		anyone know what's wrong?
+2007-04-18T09:47:00.000Z	lmungewel\	IGxMyzt	- you probably have a corupt xorg.conf, you could check /var/log/Xorg.0.log to see specifically what the error is....

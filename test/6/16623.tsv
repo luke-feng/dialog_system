@@ -1,0 +1,6 @@
+2012-04-09T13:22:00.000Z	saruji		ok, pulling my hair out, please?! does anyone know where the error log file is in ubuntu for apache?
+2012-04-09T13:22:00.000Z	oCean	saruji	/var/log/apache2/
+2012-04-09T13:22:00.000Z	saruji		thank you oCean
+2012-04-09T13:23:00.000Z	saruji		also does anyone know how to check what version of linux I am running from command prompt?
+2012-04-09T13:23:00.000Z	oCean	saruji	lsb_release -a
+2012-04-09T13:24:00.000Z	saruji	oCean	thank you so much

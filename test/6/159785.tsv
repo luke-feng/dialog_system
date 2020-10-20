@@ -1,0 +1,6 @@
+2006-01-25T11:25:00.000Z	giorgos		is this the #ubuntu channel?
+2006-01-25T11:26:00.000Z	giorgos		i'm trying to install a program and have problem
+2006-01-25T11:27:00.000Z	giorgos		i am running setup.sh via konsole and I get bash: ./SETUP.SH: /bin/sh: bad interpreter: Permission denied
+2006-01-25T11:27:00.000Z	giorgos		i am running setup.sh via konsole and I get          "bash: ./SETUP.SH: /bin/sh: bad interpreter: Permission denied"
+2006-01-25T11:28:00.000Z	giorgos		ok how?
+2006-01-25T11:28:00.000Z	Bader	giorgos	try: chmod +x setup.sh && sh setup.sh

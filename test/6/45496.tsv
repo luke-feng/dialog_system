@@ -1,0 +1,6 @@
+2011-10-24T06:41:00.000Z	maslen		I'm trying to resize an ntfs partition with gparted, and I keep on getting an error 16 - Device busy or in use, even though it was unmounted already. Any ideas /
+2011-10-24T06:42:00.000Z	dr_willis	maslen	 i tend to use a live gparted cd for that task
+2011-10-24T06:43:00.000Z	dr_willis		alt f2   synaptic
+2011-10-24T06:43:00.000Z	maslen	dr_willis	I'd prefer to avoid retarting
+2011-10-24T06:43:00.000Z	dr_willis		? i never said to restart
+2011-10-24T06:44:00.000Z	maslen	dr_willis	How would you propose to use a live cd then?

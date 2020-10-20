@@ -1,0 +1,6 @@
+2009-11-12T06:15:00.000Z	SunlessHalo	Samuli^	(k)ubuntu-restricted-extras *include FGLRX VGA driver*... also carefully with this advise...
+2009-11-12T06:15:00.000Z	SunlessHalo		advice
+2009-11-12T06:16:00.000Z	Samuli^	SunlessHalo	huh... since when has it included  that?
+2009-11-12T06:17:00.000Z	Samuli^		how do you check what packages a meta-package will pull without installing it?
+2009-11-12T06:17:00.000Z	SunlessHalo	Samuli^	afaik pretty long, it gives you an option wether to keep former driver or to install fglrx
+2009-11-12T06:19:00.000Z	Samuli^	SunlessHalo	seems like it doesn't pull fglrx

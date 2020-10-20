@@ -1,0 +1,6 @@
+2007-08-07T08:48:00.000Z	DWSR	twb	What's your problem?
+2007-08-07T08:48:00.000Z	DWSR		!es galpa
+2007-08-07T08:49:00.000Z	DWSR		!es | galpa
+2007-08-07T08:50:00.000Z	twb	r00tintheb0x	I am trying to netboot.  That means you get a PXE-compliant NIC and boot it, which uses DHCP headers next-server and filename to find a bootloader via TFTP, then that loads a kernel and ramdisk over TFTP, and that then loads a read-only NFS export and merges it with a copy-on-write partition using unionfs, then pivot_roots and boots as normal.
+2007-08-07T08:50:00.000Z	twb		This all works and you get the dinky GNOME desktop and so on.
+2007-08-07T08:51:00.000Z	DWSR	twb	You trying to install, or just PXE boot?

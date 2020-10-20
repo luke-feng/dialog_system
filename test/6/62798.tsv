@@ -1,0 +1,6 @@
+2008-02-29T00:36:00.000Z	HaguMe		Hey people, I've an issue with a .lng file with opera @ feisty
+2008-02-29T00:37:00.000Z	HaguMe		Oh... well, sometimes Opera crashes when I go to certain sites
+2008-02-29T00:37:00.000Z	HaguMe		I guess it's because of the language file. Is that possible?
+2008-02-29T00:38:00.000Z	HaguMe		I use 9.50b and the language file is from the 9.26 version
+2008-02-29T00:38:00.000Z	Squawk	HaguMe	do you get anything in /var/log/messages or /var/log/kern.log to suggest what might have hapened?
+2008-02-29T00:41:00.000Z	HaguMe	Squawk	there is nothing related to Opera in the logs

@@ -1,0 +1,6 @@
+2009-11-21T11:39:00.000Z	perscitus		lstarnes.->  crontab is running
+2009-11-21T11:39:00.000Z	perscitus		lstarnes.->  but doesnt work
+2009-11-21T11:41:00.000Z	perscitus		Anyone know how to make crontab work under karmic? It doesnt work on default installs
+2009-11-21T11:42:00.000Z	SeaPhor	perscitus	what exactly are you trying to do?
+2009-11-21T11:43:00.000Z	SeaPhor	perscitus	no,,, what exactly? many things can be done other ways
+2009-11-21T11:47:00.000Z	SeaPhor	perscitus	i have crontab auto-starting scripts, i have other things such as auto-mounting partitiions being done by other things,,, plz explain,,, what are you wanting crontab to do?

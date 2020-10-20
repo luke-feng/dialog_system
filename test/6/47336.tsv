@@ -1,0 +1,6 @@
+2010-02-06T02:52:00.000Z	blakkheim	arand	lol, i think you mean debian
+2010-02-06T02:54:00.000Z	arand	blakkheim	Well ubuntu is a wannabe sometimes.
+2010-02-06T02:54:00.000Z	blakkheim	arand	i agree
+2010-04-02T23:56:00.000Z	arand	blakkheim	Ali_: Why not letting the installer partition it automatically, and fyi you'll probably want a /swap, meaning two partitions
+2010-04-02T23:56:00.000Z	blakkheim	arand	manual partitioning gives more options and you can have a swap file (no need for an extra partition)
+2010-04-02T23:59:00.000Z	arand	blakkheim	Ok, I just figured the simpler the better in this case.

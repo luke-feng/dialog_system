@@ -1,0 +1,6 @@
+2007-10-08T09:40:00.000Z	Theyain		for some reason I keep getting an error window popping up that says "Can't eject volume".
+2007-10-08T09:41:00.000Z	Theyain		for some reason I keep getting an error window popping up that says "Can't eject volume".   Is there anyway I can keep it from doing this?
+2007-10-08T09:42:00.000Z	LinuxJuggalo	Theyain	is it an external drive that you are trying to eject?
+2007-10-08T09:44:00.000Z	Theyain	LinuxJuggalo	No.  I am not trying to eject anything.  And I don't have any external drives.  It just had a hundred of these error windows opened when I got up this morning (I let my comp run all the time.  Everyone in my house has information on it that they access via the network).
+2007-10-08T09:45:00.000Z	Theyain	LinuxJuggalo	You got that?
+2007-10-08T09:46:00.000Z	LinuxJuggalo	Theyain	nope i only get that error message sometimes when unmounting drives the GUI way lol, so instead i do sudo umount /media/drivename

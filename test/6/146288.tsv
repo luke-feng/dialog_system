@@ -1,0 +1,6 @@
+2005-07-13T08:21:00.000Z	ArCHoNKoG		is there a gui c++ compiler ?
+2005-07-13T08:22:00.000Z	reka	ArCHoNKoG	install build-essential
+2005-07-13T08:22:00.000Z	reka		ah, whoops
+2005-07-13T08:22:00.000Z	reka		read over the gui part :)
+2005-07-13T08:24:00.000Z	ArCHoNKoG	reka	how would you use build-essential as a compiler ?
+2005-07-13T08:25:00.000Z	reka	ArCHoNKoG	it provides g++.  i'm not sure what you mean by a gui compiler though.  g++/gcc is invoked via the command line

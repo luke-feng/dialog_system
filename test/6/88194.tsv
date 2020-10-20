@@ -1,0 +1,6 @@
+2007-04-26T13:10:00.000Z	CharlieSu		When i try and mount my ntfs partitions my regular users don't have access to them.. only root.. any ideas?
+2007-04-26T13:10:00.000Z	CharlieSu		Also, before Ubuntu automatically mounted my ntfs partitions and now it doesn't
+2007-04-26T13:10:00.000Z	DX00	CharlieSu	mount with mask 777
+2007-04-26T13:11:00.000Z	CharlieSu	DX00	how? sorry for my stupidity
+2007-04-26T13:11:00.000Z	DX00		how are you mounting?
+2007-04-26T13:15:00.000Z	CharlieSu	DX00	mount -t auto /dev/hda1 hda1/ -o umask=777   Doesn't work

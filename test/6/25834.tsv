@@ -1,0 +1,6 @@
+2011-11-20T22:32:00.000Z	Guest82682		Hi there, I have a problem with epiphany browser. It is very slow: it grays out as it is going to crash but then it comes back. (It might be somewhat related to flash...) Any ideas?
+2011-11-20T22:34:00.000Z	yeats	Guest82682	have you tried running it from the command line to see what messages might be shown?
+2011-11-20T22:34:00.000Z	Guest82682	yeats	could you walk me through how to do that
+2011-11-20T22:35:00.000Z	yeats	Guest82682	close epiphany, then open a terminal (Ctrl-Alt-T) and type 'epiphany'
+2011-11-20T22:36:00.000Z	yeats	Guest82682	when the slowdowns happen, check the terminal to see if there are error messages present
+2011-11-20T22:37:00.000Z	Guest82682	yeats	at this time I could not even start it. the error message is: GLib-GIO-CRITICAL **: time limit reached

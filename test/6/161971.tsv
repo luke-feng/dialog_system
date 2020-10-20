@@ -1,0 +1,6 @@
+2004-10-30T12:32:00.000Z	JStrik1		I seem to remember somebody saying that ubuntu had gstsreamer-ffmpeg available somewhere
+2004-10-30T12:33:00.000Z	Despair	JStrik1	gstreamer0.8-misc
+2004-10-30T12:34:00.000Z	JStrik1	nosilver4u	: I am aware what it is. You are busy dreaming that *any* distro will run it
+2004-10-30T12:34:00.000Z	Despair		(apt-cache search ffmpeg|grep treamer)
+2004-10-30T12:34:00.000Z	JStrik1		Despair : Is that the latest one that was release a couple of days ago?
+2004-10-30T12:35:00.000Z	Despair	JStrik1	no idea. I've only been using ubuntu for a couple of days.

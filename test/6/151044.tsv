@@ -1,0 +1,6 @@
+2005-04-17T08:24:00.000Z	flipy		i can't find universe in my synaptics repositories, how do i add it?
+2005-04-17T08:25:00.000Z	tritium	flipy	http://ubuntuguide.org/#repositories
+2005-04-17T08:26:00.000Z	tritium	flipy	note that the URL I gave you is for Warty.  If you're using Hoary, follow the same procedure, but don't replace "hoary" with "warty", ok?
+2005-04-17T08:35:00.000Z	tritium	flipy	update-rc.d
+2005-04-17T08:38:00.000Z	flipy	tritium	can i query you?
+2005-04-17T08:38:00.000Z	tritium	flipy	sure

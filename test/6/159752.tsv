@@ -1,0 +1,6 @@
+2004-12-24T14:13:00.000Z	xukun		after dist-upgrading hoary would that mean I have xorg or do I need to do some more configuration?
+2004-12-24T14:14:00.000Z	ChibiFS	xukun	- Yes, you need to edit the keyboard driver from keyboard to kbd
+2004-12-24T14:14:00.000Z	ChibiFS		That's it, though.
+2004-12-24T14:15:00.000Z	ChibiFS		Well, they might have changed that in xorg 6.8.1 or something, but 6.8.0 required it.
+2004-12-24T14:15:00.000Z	ChibiFS		Just want him to be safe.
+2004-12-24T14:16:00.000Z	xukun	ChibiFS	edit what? xorg.config( Driver          "keyboard")?

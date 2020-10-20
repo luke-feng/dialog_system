@@ -1,0 +1,6 @@
+2009-02-08T23:43:00.000Z	Artelus		Hello
+2009-02-08T23:45:00.000Z	Artelus		I heard there was a way to install Ubuntu inside windows, is this a good idea?
+2009-02-08T23:45:00.000Z	Artelus		Well, from the Live CD
+2009-02-08T23:45:00.000Z	step21	Artelus	depends on what you want to use it for
+2009-02-08T23:47:00.000Z	step21	Artelus	just harddrive
+2009-02-08T23:49:00.000Z	step21	Artelus	i'd  just use wubi for now ... you can see if drivers etc work w/o risk

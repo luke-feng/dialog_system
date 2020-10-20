@@ -1,0 +1,6 @@
+2010-05-28T18:15:00.000Z	sreeju		when downloading a package from the web it will be tar.bz file.and after untar we get some files...how to install from it?
+2010-05-28T18:15:00.000Z	sreeju		please help
+2010-05-28T18:16:00.000Z	sreeju		any package
+2010-05-28T18:16:00.000Z	sreeju		for eg kmplayer
+2010-05-28T18:16:00.000Z	Gerwin	sreeju	configure, make, make install
+2010-05-28T18:20:00.000Z	Gerwin	sreeju	Most likely the tar files you downloaded contain a file called INSTALL, read that.

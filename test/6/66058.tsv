@@ -1,0 +1,6 @@
+2009-04-28T13:31:00.000Z	aminus		im getting segfault issues
+2009-04-28T13:31:00.000Z	aminus		from a fresh install of 9.04
+2009-04-28T13:31:00.000Z	aminus		can anyone help
+2009-04-28T13:31:00.000Z	ActionParsnip	aminus	are you fully updated
+2009-04-28T13:32:00.000Z	ActionParsnip	aminus	did you md5 check the iso you downloaded asa well as verify the cd you burned was ok
+2009-04-28T13:35:00.000Z	ActionParsnip	aminus	why are you logging on as root?

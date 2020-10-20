@@ -1,0 +1,6 @@
+2006-12-22T07:21:00.000Z	voidmage		When I run lirc and then irw, lircd crashes. I'm using a mceusb2 remote and running lircd as root
+2006-12-22T07:21:00.000Z	voidmage		strace has write(2, "lircd: can\'t open or create /var"..., 47lircd: can't open or create /var/run/lircd.pid
+2006-12-22T07:21:00.000Z	voidmage		open("/var/run/lircd.pid", O_RDWR|O_CREAT, 0644) = -1 EACCES (Permission denied)
+2006-12-22T07:22:00.000Z	voidmage		(that line comes before)
+2006-12-22T07:22:00.000Z	voidmage		any ideas?
+2006-12-22T07:22:00.000Z	lupine_85	voidmage	sudo whatever it is?

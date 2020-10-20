@@ -1,0 +1,6 @@
+2006-06-14T08:18:00.000Z	Arabian		hm, ssh server on ubuntu dapper, how do I get it the most easy way?
+2006-06-14T08:18:00.000Z	frostoftheblack	Arabian	sudo apt-get install openssh-server
+2006-06-14T08:18:00.000Z	Arabian	frostoftheblack	thanks
+2006-06-14T08:19:00.000Z	Arabian	frostoftheblack	then the rest is pretty automatic?
+2006-06-14T08:19:00.000Z	frostoftheblack	Arabian	after that, the daemon sarts running automagically
+2006-06-14T08:19:00.000Z	Arabian	frostoftheblack	fantastic! I love ubuntu

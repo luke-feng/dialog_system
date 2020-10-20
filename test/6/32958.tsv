@@ -1,0 +1,6 @@
+2009-08-10T01:39:00.000Z	Topunit		hi
+2009-08-10T01:39:00.000Z	Topunit		aptitude search '~i'
+2009-08-10T01:41:00.000Z	Topunit		why does sftp only work with root? on other users it says failed to initalize server
+2009-08-10T01:41:00.000Z	jats1	Topunit	I assume it has something to do with your permissions.
+2009-08-10T01:42:00.000Z	Topunit	jats1	how do i change them?
+2009-08-10T01:51:00.000Z	Topunit	jats1	i did, it shows stuff about file permissions, none related to login permmisions

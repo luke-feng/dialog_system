@@ -1,0 +1,6 @@
+2008-07-08T01:07:00.000Z	leeping2007		Hey there, I'm trying to install the Intel fortran compiler for ubuntu.  Can anyone help me get started?
+2008-07-08T01:08:00.000Z	joaopinto	leeping2007	it would be easier to use one of the fortran compilers available on the repositories...
+2008-07-08T01:08:00.000Z	leeping2007	joaopinto	I can't use the compilers on the repositories.  They are unsupported for the program that I am trying to compile
+2008-07-08T01:08:00.000Z	joaopinto	leeping2007	ah ok :\
+2008-07-08T01:13:00.000Z	joaopinto	leeping2007	if you have installed the 64bits ubuntu, you should
+2008-07-08T01:14:00.000Z	leeping2007	joaopinto	thank you :)

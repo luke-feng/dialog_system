@@ -1,0 +1,6 @@
+2007-05-19T13:04:00.000Z	oldude67		!es | Gamaliel
+2007-05-19T12:50:00.000Z	oldude67		how do i install a tar. file?
+2007-05-19T12:51:00.000Z	bruenig	oldude67	a tar file is simply compressed files. You need to extract it "tar xf whatever.tar.*" and then look for README or INSTALL
+2007-05-19T12:56:00.000Z	oldude67	bruenig	is that the same for a bz2 file?
+2007-05-19T12:56:00.000Z	bruenig	oldude67	yes
+2007-07-20T09:05:00.000Z	bruenig	oldude67	pidgin.im?

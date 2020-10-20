@@ -1,0 +1,6 @@
+2009-09-24T18:38:00.000Z	huwaw69		i have a question, how can i identify if ubuntu is using my cdrom/dvdrom in terminal?
+2009-09-24T18:38:00.000Z	mattcen	huwaw69	What do you mean "using" your cd/dvd rom?
+2009-09-24T18:39:00.000Z	huwaw69	mattcen	uhmmm ill rephrase it, how do i identify my cdrom in ubuntu?
+2009-09-24T18:40:00.000Z	mattcen	huwaw69	Identify what type it is, or what device it is mapped to? Usually, whatever device it is, it is accessible via /dev/cdrom
+2009-09-24T18:41:00.000Z	huwaw69	mattcen	i meant uhmmm identify what cdrom name it is or other informations
+2009-09-24T18:45:00.000Z	mattcen	huwaw69	A little bit of information can be found via dmesg, but I'm not sure where else you can find anything...

@@ -1,0 +1,6 @@
+2009-02-08T04:22:00.000Z	ectospasm		I've got a problem with an SMP kernel only seeing one CPU core...  it used to work, I don't know what changed...
+2009-02-08T04:22:00.000Z	ectospasm		uname -a shows it's an SMP kernel
+2009-02-08T04:23:00.000Z	ectospasm		WinXP seems to see all four cores.
+2009-02-08T04:23:00.000Z	tonyyarusso	ectospasm	What version of Ubuntu are you using?  Separate SMP kernels were phased out long ago.
+2009-02-08T04:24:00.000Z	ectospasm	tonyyarusso	8.10
+2009-02-08T04:25:00.000Z	tonyyarusso	ectospasm	ah, nvm - it does still print SMP in uname, even though that's not in the kernel name now.  Carry on.

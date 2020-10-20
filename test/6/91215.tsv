@@ -1,0 +1,6 @@
+2007-03-25T16:30:00.000Z	Peter_Johnsson		does anyone know if the jmicron problem fixed in the latest daily build?
+2007-03-25T16:30:00.000Z	variant	Peter_Johnsson	yes, seems that it works
+2007-03-25T16:33:00.000Z	variant	Peter_Johnsson	please see this bug report: https://launchpad.net/ubuntu/+source/linux-source-2.6.17/+bug/57502
+2007-03-25T16:34:00.000Z	variant	Peter_Johnsson	it may not be included in hte releases yet
+2007-03-25T16:38:00.000Z	Peter_Johnsson	variant	i tried it on the beta which was kernel 2.6.20-12 and it didnt work. i think the relevant launchpad is https://launchpad.net/ubuntu/+source/linux-source-2.6.20/+bug/84964
+2007-03-25T16:41:00.000Z	variant	Peter_Johnsson	well then, you seem to know more about it than me. launchpad is the first place that a fix will appear so untill you see something usefull there there is no point asking here if it's fixed (as you already know that its not)

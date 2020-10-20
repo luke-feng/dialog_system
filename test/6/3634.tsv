@@ -1,0 +1,6 @@
+2012-10-22T04:33:00.000Z	vulcanmummiex		crap I already forgot that link, after I boot my computer will you give me that link again PatrickDickey ?
+2012-10-22T04:35:00.000Z	vulcanmummiex		l3top I may come back and ask you again once I get it booted up is that ok? you guys are helping me keep my computer, I didn't want to give it up for a freaking month
+2012-10-22T04:36:00.000Z	vulcanmummiex		ok thank you guys so much
+2012-10-22T04:37:00.000Z	L3top	vulcanmummiex	^
+2012-10-22T04:39:00.000Z	L3top	vulcanmummiex	I think PatrickDickey does not understand that you cannot boot windows... no that cannot be done from the live disk... we are just using the live disk to rule out a bad drive
+2012-10-22T04:40:00.000Z	L3top	vulcanmummiex	you are going to probably have to boot into a windows disk and fixmbr/fixboot from the recovery console ONCE a bad drive is ruled out.

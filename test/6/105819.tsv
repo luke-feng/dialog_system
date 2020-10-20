@@ -1,0 +1,6 @@
+2007-03-18T15:50:00.000Z	ThinkingMan		So I'm editing fstab, and I noticed ubuntu is using uuids instead of labels like I'm used to (/dev/sda4 for example), is there an advantage to that, and is it cool to still use /dev/sda4 instead of the uuid?
+2007-03-18T15:51:00.000Z	eck	ThinkingMan	personally i prefer labels, but they are pretty similar, there isn't a huge advantage either way
+2007-03-18T15:51:00.000Z	eck	ThinkingMan	the main reason they are used is in case device names change
+2007-03-18T15:51:00.000Z	ThinkingMan	eck	OK, so the short answer is not much and go ahead and use /dev/sda4
+2007-03-18T16:00:00.000Z	eck	ThinkingMan	i think it might be doing it based on things mounted by lable/uuid... you can drag and drop the mountpoint into the sidebar to have it show up though
+2007-03-19T16:02:00.000Z	ThinkingMan	eck	well I've got it mounting from fstab now, I'm wondering if a reboot will re-generate the places menu, if it doesn't I'll manually drag the mount point over

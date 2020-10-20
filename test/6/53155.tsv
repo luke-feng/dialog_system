@@ -1,0 +1,6 @@
+2009-05-11T12:53:00.000Z	jumbers		Is there any easy way to set up a name server in Ubuntu server?
+2009-05-11T12:55:00.000Z	xPhilosx	jumbers	i would suggest reading some internet "theory" before running off to setup a bind9 server--it will help you both configure and successfully run a bind server.  In essence, read a lengthy manual and tutorial on bind that explains *why* things work
+2009-05-11T12:55:00.000Z	xPhilosx	jumbers	that helped me out tremendously when I set mine up in debian
+2009-05-11T12:56:00.000Z	xPhilosx	jumbers	typically you will need to different nameservers with different IP's geologically seperated
+2009-05-11T12:56:00.000Z	jumbers	xPhilosx	I appreciate the suggestion, but I honestly don't have all that much free time. I'd just like to be able to get my DNS up and running smoothly without a whole lot of work
+2009-05-11T12:57:00.000Z	xPhilosx	jumbers	go with the free service buddy, its hard to petrify your PC components

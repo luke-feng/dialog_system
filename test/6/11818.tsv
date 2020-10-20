@@ -1,0 +1,6 @@
+2011-09-23T08:30:00.000Z	Jasonn		anyone know how to make user-specific disk space limits without making partitions in a user friendly way?
+2011-09-23T08:30:00.000Z	Jasonn		anyone know how to make user-specific disk space limits without making partitions in a user friendly way? <-- for ubuntu server, that is
+2011-09-23T08:32:00.000Z	Jasonn		But I want a user-friendly way of doing it
+2011-09-23T08:32:00.000Z	Jasonn		and I am not going into virtualization atm
+2011-09-23T08:34:00.000Z	OerHeks	Jasonn	the package quota should be able to < http://packages.ubuntu.com/natty/quota
+2011-09-23T08:35:00.000Z	Jasonn	OerHeks	on ubuntu server?

@@ -1,0 +1,6 @@
+2010-08-25T03:59:00.000Z	troy		Hi there, I'm using Ubuntu 10.04 and have just installed it on a new laptop, and when playing a DVD the whole laptop freezes up. I've installed restricted extras and libdvdcss, to no avail.
+2010-08-25T04:00:00.000Z	troy		yes
+2010-08-25T04:00:00.000Z	troy		it also does the same thing when i try to rip a dvd with DVD::RIP
+2010-08-25T04:01:00.000Z	coz_	troy	 actually one at a time  or  place   a double    &&  in between each command
+2010-08-25T04:02:00.000Z	coz_	troy	   dont worry about the libdvdread
+2010-08-25T04:02:00.000Z	coz_	troy	 the command with the install sh  will fix that

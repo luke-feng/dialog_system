@@ -1,0 +1,6 @@
+2007-01-10T14:48:00.000Z	kanzie_		how can I reinstall my nvidia-drivers
+2007-01-10T14:48:00.000Z	kanzie_		from terminal
+2007-01-10T14:49:00.000Z	kanzie_		using apt-get
+2007-01-10T14:51:00.000Z	kanzie_		I give up...
+2007-01-10T14:52:00.000Z	kanzie_		nothing left but reinstall everything... this is so unlucky I seriously have to consider this whole linux-deal... if the screensaver is enough to kill the whole system...
+2007-01-10T14:53:00.000Z	pike_	kanzie_	try creating a new user and see if they have same issue

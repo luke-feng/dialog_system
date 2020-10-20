@@ -1,0 +1,6 @@
+2011-12-15T23:46:00.000Z	Socket-		Can anyone recomend me Certificate authority software that can be installed on ubuntu?
+2011-12-15T23:46:00.000Z	yeehaw	Socket-	for what?
+2011-12-15T23:47:00.000Z	yeehaw	Socket-	You can use openssl for generating .csr / key / crt files
+2011-12-15T23:49:00.000Z	Socket-	yeehaw	I am doing this mainly to gain experience with learning certificate authorities.  I heard there was one called dogtag, but its for fedora.  I was hoping i could find out some other i could research that would work on my ubuntu server
+2011-12-15T23:52:00.000Z	yeehaw	Socket-	http://www.openca.org/
+2011-12-15T23:53:00.000Z	yeehaw	Socket-	Looks good on the surface I think

@@ -1,0 +1,6 @@
+2006-10-01T11:03:00.000Z	earthian		hello
+2006-10-01T11:03:00.000Z	earthian		i have read swappines articles on the net.
+2006-10-01T11:04:00.000Z	earthian		got a question: i have 1gig ram and 2gig swap. now 440mb of ram is used and 1.2gigs of swap is used.
+2006-10-01T11:04:00.000Z	earthian		if i set swappiness to 0 would it cause OOM ?
+2006-10-01T11:05:00.000Z	earthian		ups lufis :)
+2006-10-01T11:05:00.000Z	lufis	earthian	Jinx :D

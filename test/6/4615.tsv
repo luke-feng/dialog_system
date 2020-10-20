@@ -1,0 +1,6 @@
+2011-12-29T16:42:00.000Z	sinosoidal_		Hi everyone. Can anyone point me a place in the web where I can find the full specification for a debian package appear correctly in the new ubuntu software center?
+2011-12-29T16:44:00.000Z	iceroot	sinosoidal_	the normal specifications can be found in the debhelper-documentation. there are also additional fields which are (imo) ubuntu-specific like "support" and "images"
+2011-12-29T16:45:00.000Z	iceroot	sinosoidal_	own rules because they are ubuntu-specific
+2011-12-29T16:46:00.000Z	iceroot	sinosoidal_	but they should be found in the debhelper-manpage from ubuntu
+2011-12-29T16:47:00.000Z	iceroot	sinosoidal_	imo debian is not using images yet, maybe have also a look at #ubuntu-devel and #debian (to see the current state)
+2011-12-29T16:49:00.000Z	sinosoidal_	iceroot	really thanks for your help

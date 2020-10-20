@@ -1,0 +1,6 @@
+2009-04-01T22:12:00.000Z	shadymr66		hi allllllllllllllllllllllllllllllllllllllllllllllll
+2009-04-01T22:12:00.000Z	shadymr66		hi there
+2009-04-01T22:13:00.000Z	shadymr66		please any one help me
+2009-04-01T22:13:00.000Z	shadymr66		to adjust my wireless on ubuntu
+2009-04-01T22:13:00.000Z	shadymr66		you you you
+2009-04-01T22:15:00.000Z	lantjie	shadymr66	do iwconfig in your terminal and look what name your wireless card has and then do ifconfig name up

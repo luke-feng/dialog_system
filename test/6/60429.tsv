@@ -1,0 +1,6 @@
+2008-12-17T09:00:00.000Z	D3RGPS31		redlipat yes
+2008-12-17T09:01:00.000Z	D3RGPS31		i accidentally unchecked my ubuntu desktop when using taskel
+2008-12-17T09:02:00.000Z	avis	D3RGPS31	if you can get to a console on that compter, try sudo apt-get install ubuntu-desktop
+2008-12-17T09:02:00.000Z	D3RGPS31	avis	network manager was removed
+2008-12-17T09:03:00.000Z	avis	D3RGPS31	i'm thinking all you need is a /etc/network/interfaces for internet connection
+2008-12-17T09:04:00.000Z	D3RGPS31	avis	i did it before i put the disk in, tasksel didn't warn me that it could uninstall stuff :/

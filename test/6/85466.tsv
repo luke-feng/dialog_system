@@ -1,0 +1,6 @@
+2007-06-12T16:04:00.000Z	mc44	bharat862004	are you logged in as root?
+2007-06-12T16:04:00.000Z	bharat862004	mc44	 yes
+2007-06-12T16:04:00.000Z	mc44	bharat862004	er, why?
+2007-06-12T16:04:00.000Z	mc44	bharat862004	you will need to use /home/username/.mozilla
+2007-06-12T16:05:00.000Z	mc44	bharat862004	its moving your folker, but look, you are logged in as root(which you shouldn't be)  so it won't find your users folder
+2007-06-12T16:05:00.000Z	mc44	bharat862004	either log in as your use, or use /home/username/.mozilla

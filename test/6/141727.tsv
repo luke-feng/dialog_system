@@ -1,0 +1,6 @@
+2012-09-15T23:35:00.000Z	xkill		i need help with networking. i already have some shares on a windows network and can access them just fine from the file manager, but when i am in an application trying to open or save a document i dont know how to open or save from a network location
+2012-09-15T23:37:00.000Z	xkill		smb://monsterplatinum/Users    is the location i will be using most
+2012-09-15T23:37:00.000Z	xkill		thats all i know of where it is
+2012-09-15T23:37:00.000Z	muelli	xkill	it's somewhere in ~/.gvfs2 or so.
+2012-09-15T23:38:00.000Z	muelli	xkill	you check the output of "mount". Or pastebin it and we'll have a look together :)
+2012-09-15T23:40:00.000Z	muelli	xkill	your stuff will be in /home/xubuntu/.gvfs

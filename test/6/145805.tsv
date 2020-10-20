@@ -1,0 +1,6 @@
+2005-07-29T12:53:00.000Z	Brunellus		woohoo, it dualboots
+2005-07-29T12:53:00.000Z	Brunellus		but now I can't get it to find my wlan card
+2005-07-29T12:54:00.000Z	signius	Brunellus	what wireless network card do you have and what chipset is it based on ?
+2005-07-29T12:59:00.000Z	signius	Brunellus	ok it looks like you need to use the madwifi drivers
+2005-07-29T13:19:00.000Z	signius	Brunellus	have you read the docs on madwifi once you download there is a readme and and install doc that tells you how to insta them
+2005-07-29T13:19:00.000Z	signius	Brunellus	its not that bad at all from what i remember i was a real newbie when i go thtem working

@@ -1,0 +1,6 @@
+2009-05-02T22:14:00.000Z	Geine		Hi all, I just convert my file-system to Ext4 -- is it true the old files which created on Ext3 not benefit from new Ext4 ?
+2009-05-02T22:15:00.000Z	Dr_Willis	Geine	 ive never heard that.. and i dont see why that would be true
+2009-05-02T22:16:00.000Z	Geine	Dr_Willis	I see this from the atrical which help me to convert the file system but they not put any more details about this issue
+2009-05-02T22:33:00.000Z	Dr_Willis	Geine	 for linyx filesystems you must have the proper owndership of the files/dirs.. you dont override them with mount options
+2009-05-02T22:33:00.000Z	Dr_Willis	Geine	 or use sudo.. but that then will make the files owned by root.
+2009-05-02T22:34:00.000Z	Dr_Willis	Geine	 do the work with root user permisisons..

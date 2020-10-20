@@ -1,0 +1,6 @@
+2005-06-17T13:48:00.000Z	karljp		anyone know how to set up what gnome-volume-manager starts for "importing photos"
+2005-06-17T13:48:00.000Z	karljp		I don't want gthumb, I want a script of my own.
+2005-06-17T13:48:00.000Z	delire	karljp	use ImageMagick's 'display' with python or similar.
+2005-06-17T13:51:00.000Z	karljp	delire	why would I want "imagemagicks display with python or similar" to run?  I have a script of my own that does exactly what I wanted.
+2005-06-17T13:52:00.000Z	delire	karljp	if you have something that works then good.
+2005-06-17T13:55:00.000Z	karljp	delire	yes, I do.  that's why I mentioned that in my initial query.  Hence my curiosity as to what on earth you were suggesting.  Perhaps reading entire sentences?

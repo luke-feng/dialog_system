@@ -1,0 +1,6 @@
+2008-07-25T15:54:00.000Z	EugenA		hi, if i install opensuse, i cannot play multimedia files by default imeediatly after installation. What about ubuntu?
+2008-07-25T15:54:00.000Z	joaopinto	EugenA	yo can play multimedia files, as long they don't use restricted codecs
+2008-10-31T14:52:00.000Z	joaopinto	EugenA	sudo apt-get install ntp-server
+2008-10-31T14:56:00.000Z	EugenA	joaopinto	should i now configure NTP? i still have wrong time on this system
+2008-10-31T14:56:00.000Z	joaopinto	EugenA	are you sure you have the proper timezone ?
+2008-10-31T14:56:00.000Z	joaopinto	EugenA	have you tried a manual ntpdate prior to install npt ?

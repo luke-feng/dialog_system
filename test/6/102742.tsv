@@ -1,0 +1,6 @@
+2010-06-26T22:58:00.000Z	Eighteens		wow i got ubuntu 10.04 working woo woo, and bitchx
+2010-06-26T22:59:00.000Z	Eighteens		i dont have any hair left, but it feels good to have a computer again... thx ubuntu :)
+2010-06-26T23:00:00.000Z	Eighteens		i cant believe i got it working, i've been trying for months
+2010-06-26T23:01:00.000Z	Eighteens		i always got some error at boot, like some apic timer debug msg, never would install, then it would get half way and not go anymore, and then i was like, let me try a amd 64 old processor, and it worked
+2010-06-26T23:02:00.000Z	Eighteens		my question is, now that i have it working, should i dare try to put windows back on, that will rewrite the MBR correct, and then i will loose this install? or will grub allow me to point back to the os
+2010-06-26T23:04:00.000Z	Jordan_U	Eighteens	Follow this guide to re-install grub after installing windows: http://grub.enbug.org/Grub2LiveCdInstallGuide

@@ -1,0 +1,6 @@
+2010-05-03T03:49:00.000Z	ratatim		I receive this error when I put my flash drive in my notebook: "Error mounting: mount exited with exit code 1: helper failed with:
+2010-05-03T03:49:00.000Z	ratatim		mount: wrong fs type, bad option, bad superblock on /dev/sdb1,
+2010-05-03T03:49:00.000Z	ratatim		       missing codepage or helper program, or other error
+2010-05-03T03:49:00.000Z	ratatim		       In some cases useful info is found in syslog - try
+2010-05-03T03:49:00.000Z	ratatim		       dmesg | tail  or so"
+2010-05-03T03:49:00.000Z	FloodBot4	ratatim	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

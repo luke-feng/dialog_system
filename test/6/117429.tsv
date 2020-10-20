@@ -1,0 +1,6 @@
+2006-06-08T14:49:00.000Z	t-thing		How to disable X starting at boot?
+2006-06-08T14:50:00.000Z	wastrel	t-thing	 sudo update-rc.d gpm remove
+2006-06-08T14:50:00.000Z	t-thing	wastrel	ok, thanks
+2006-06-08T14:50:00.000Z	wastrel	t-thing	 er, that's  gdm  not gpm
+2006-06-08T14:51:00.000Z	t-thing	wastrel	yeah, I kinda realized that too :)
+2006-06-08T14:53:00.000Z	wastrel	t-thing	 you using kde?

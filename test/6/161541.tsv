@@ -1,0 +1,6 @@
+2005-04-19T08:03:00.000Z	declan		Hi.  Does anyone know how hibernate is supposed to work.  Probably it works for some of you.  You press "hibernate" and the computer goes asleep.  Then what.  How are you supposed to revive it.  With the on-off switch? spacebar? return?  some other key combination?  I can't really tell if its working or not, if I don't know how its supposed to be working.  Thanks.
+2005-04-19T08:04:00.000Z	declan		OK.
+2005-04-19T08:04:00.000Z	declan		Hibernate during the summer, sounds a bit wierd
+2005-04-19T08:04:00.000Z	linux_galore	declan	usually hit ESC or what ever is the laptop default revive keyboard short cut is
+2005-04-19T08:06:00.000Z	linux_galore	declan	usually laptops have a key for starting from sleep mode.....it varies though but its all triggered from the bios nothing to do with Linux from the keyboard side of things
+2005-04-19T08:08:00.000Z	linux_galore	declan	have to be carefull not all the distro's have good support for sleep mode on laptops

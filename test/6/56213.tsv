@@ -1,0 +1,6 @@
+2008-06-20T09:20:00.000Z	pub		<Daisuke_Laptop> ; i already attempted to install that
+2008-06-20T09:20:00.000Z	pub		it doesn't work :/
+2008-06-20T09:21:00.000Z	pub		0 upgraded, 0 newly installed, 0 to remove and 47 not upgraded.          how do i ugrade via terminal?
+2008-06-20T09:22:00.000Z	orphean	pub	sudo aptitude safe-upgrade is one method.
+2008-06-20T09:23:00.000Z	pub		alright, thank you orphean ` danbhfive
+2008-06-20T09:31:00.000Z	pub	orphean	` danbhfive         http://www.java.com/en/download/help/testvm.xml

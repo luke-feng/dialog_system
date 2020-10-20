@@ -1,0 +1,6 @@
+2010-04-13T03:36:00.000Z	acicula	Monotoko_	is the home server reacheable from the internet?
+2010-04-13T03:36:00.000Z	Monotoko_	acicula	yeah it is, not by domain though, only IP
+2010-04-13T03:36:00.000Z	acicula	Monotoko_	that makes little difference
+2010-04-13T03:39:00.000Z	acicula	Monotoko_	where are these files dropped, and what user owns them
+2010-04-13T03:40:00.000Z	Monotoko_	acicula	there all over, every single folder i go in, and they are owned by root
+2010-04-13T03:43:00.000Z	acicula	Monotoko_	if you find suspicious files on your internet facing linux box its more likely your machine got compromised then that it contracted a virus

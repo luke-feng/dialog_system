@@ -1,0 +1,6 @@
+2007-05-14T07:33:00.000Z	Srixon		hello, Im having an Error, after changing the users and groups around.. will not let me boot into ubuntu...
+2007-05-14T07:34:00.000Z	Srixon		hello, Im having an Error, after changing the users and groups around.. will not let me boot into ubuntu... Can anyone help me with this?
+2007-05-14T07:35:00.000Z	mister_roboto	Srixon	what exactly did u do?
+2007-05-14T07:36:00.000Z	mister_roboto	Srixon	boot single user and change it back
+2007-05-14T07:37:00.000Z	mister_roboto	Srixon	from the grub menu. and dont do that any more unless u know what ur doing
+2007-05-14T07:38:00.000Z	mister_roboto	Srixon	undo whatever u changed

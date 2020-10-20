@@ -1,0 +1,6 @@
+2006-09-26T13:06:00.000Z	wols_	Descention	lsmod. check for nvidia
+2006-09-26T13:06:00.000Z	wols_	Descention	if it doesn't exist, "modprobe nvidia". and to make it permanent, add "nvidia" to /etc/modules
+2006-09-26T13:07:00.000Z	Descention	wols_	it doesnt say nvidia anywhere
+2006-09-26T13:09:00.000Z	wols_	Descention	then do what I told you
+2006-09-26T13:10:00.000Z	wols_	Descention	have you run "modprobe nvidia" yet?
+2006-09-26T13:10:00.000Z	Descention	wols_	yes, it said module not found

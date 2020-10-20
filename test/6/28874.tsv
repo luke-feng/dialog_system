@@ -1,0 +1,6 @@
+2011-03-05T15:41:00.000Z	telive		hello everybody, after update kernel ,the vmware modules r not loaded default , how can i fix this problem?
+2011-03-05T15:41:00.000Z	ruan	telive	reinstall the vmware modules?
+2011-03-05T15:41:00.000Z	telive	ruan	thanks ,but how ?
+2011-03-05T15:42:00.000Z	ruan	telive	uninstall then install
+2011-03-05T15:42:00.000Z	ruan	telive	the modules
+2011-03-05T15:43:00.000Z	telive	ruan	but the modules work fine , just not loaded by default

@@ -1,0 +1,6 @@
+2008-09-28T07:49:00.000Z	rrowell		is there a way via ssh that i can tunnel a port on the server to a port on the client?
+2008-09-28T07:50:00.000Z	unop	rrowell	 yes, see -L and -R in the ssh manpage
+2008-09-28T07:50:00.000Z	unop		!es > ubuntu_
+2008-09-28T07:55:00.000Z	rrowell	unop	awesome thanks
+2008-09-28T08:07:00.000Z	rrowell	unop	you ever used -R
+2008-09-28T08:07:00.000Z	rrowell	unop	openssh -R that is

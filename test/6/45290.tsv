@@ -1,0 +1,6 @@
+2010-05-01T13:42:00.000Z	Dvyjones		Any idea what to do if I'm running a LiveCD, and when I try to install Ubuntu I get a message that the CD is corrupt? I can't burn another CD as I do not have one available.
+2010-05-01T13:42:00.000Z	ttyX	Dvyjones	go unetbootin
+2010-05-01T13:42:00.000Z	Dvyjones	ttyX	I do not have an USB stick either.
+2010-05-01T13:42:00.000Z	ttyX		well that sux
+2010-05-01T13:43:00.000Z	Dvyjones		Do you think I could download the ISO, mount it and then run the installer from that or something?
+2010-05-01T13:43:00.000Z	ttyX	Dvyjones	network install alternate install cd

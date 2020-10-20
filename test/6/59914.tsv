@@ -1,0 +1,6 @@
+2008-07-13T03:36:00.000Z	Seveas		!enter | makis
+2008-07-13T03:38:00.000Z	Baby_Shambl3s	Seveas	whats the difference between using debfoster or just using command apt-get autoremove/autoclean the same goes for aptitude purge
+2008-07-13T03:39:00.000Z	Seveas	Baby_Shambl3s	apt-get autoremove doesn't remove packages you installed explicitely. With debfoster you choose per package.
+2008-07-13T03:41:00.000Z	Baby_Shambl3s	Seveas	yeha was just reading the webpage hmmm might use it to clean the mono dependencies
+2008-07-13T04:12:00.000Z	Seveas	Baby_Shambl3s	pc with limited functionality. Usually reduced to having only  a webbrowser. Used often in "internet kiosks"
+2008-07-13T05:00:00.000Z	Seveas	Baby_Shambl3s	shutdown -h now / reboot

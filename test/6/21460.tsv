@@ -1,0 +1,6 @@
+2010-05-11T03:56:00.000Z	Narya		how can I make a terminal launcher start on a different workstation?
+2010-05-11T03:56:00.000Z	Narya		like click it on my main workstation, but it runs on the 4th one
+2010-05-11T03:57:00.000Z	Stereocaulon	Narya	you could open an ssh session on the other box to your main work station
+2010-05-11T03:58:00.000Z	Narya	Stereocaulon	VCoolio: I misspoke. Its one computer, but the 4 desktop switchers. Thats what I was talking about
+2010-05-11T04:37:00.000Z	Stereocaulon	Narya	tried to use it, but since my DISPLAY spans two physical screens, i couldn't use it.
+2010-05-11T04:38:00.000Z	Narya	Stereocaulon	Im just wondering if it allows wildcards in it...oh wait, I got it :D

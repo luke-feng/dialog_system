@@ -1,0 +1,6 @@
+2005-07-27T16:06:00.000Z	Cooner750		ok. trying to resize my partition again
+2005-07-27T16:06:00.000Z	Cooner750		preying for no error..
+2005-07-27T16:06:00.000Z	Cooner750		of course. Right when I say it... "Error". Ugh
+2005-07-27T16:07:00.000Z	Cooner750		"Error resizing/moving /dev/sda" or something like that
+2005-07-27T16:09:00.000Z	Cooner750		I wish I could get my HD partitioned.... let me try QTParted
+2005-07-27T16:09:00.000Z	kafeine	Cooner750	gparted is gtk+

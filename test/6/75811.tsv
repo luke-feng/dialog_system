@@ -1,0 +1,6 @@
+2007-10-18T19:13:00.000Z	ugu		 hello. i've installed ubuntu gutsy on 2 pcs yesterday and they both show no splash screen and take a long time to boot, unless I remove the splash and quiet parameters from grub. what could be wrong?
+2007-10-18T19:13:00.000Z	Psi-Jack	ugu	I'm guessing 64-bit editions?
+2007-10-18T19:13:00.000Z	ugu	Psi-Jack	no
+2007-10-18T19:14:00.000Z	Psi-Jack	ugu	No? Hmmm, odd.. Nvidia cards?
+2007-10-18T19:14:00.000Z	ugu	Psi-Jack	ati :)
+2007-10-18T19:14:00.000Z	Psi-Jack	ugu	Ahhh.. There's your problem. ;)

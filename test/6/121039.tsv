@@ -1,0 +1,6 @@
+2007-02-24T12:20:00.000Z	knight		hi whats the difference b/w an ftp mirror and http mirror?
+2007-02-24T12:20:00.000Z	AlexC_	knight	different transport protocols
+2007-02-24T12:20:00.000Z	knight	AlexC_	but are contents same?
+2007-02-24T12:21:00.000Z	AlexC_	knight	depends on the file =) but if they are a 'mirror' then yes, they should be the same
+2007-02-24T12:21:00.000Z	knight	AlexC_	but if not? if they are the real sites?
+2007-02-24T12:22:00.000Z	AlexC_	knight	I don't know if they will be the same ... I don't know what files you're talking about so, one could be 1mb the other could be 100mb - if both links are given on the same site then they are probably the same

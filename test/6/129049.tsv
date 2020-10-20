@@ -1,0 +1,6 @@
+2012-09-16T14:45:00.000Z	Deutopia		e-v-o; if you labeled that ext4 partition casper-rw; delete the casper-rw file
+2012-09-16T14:46:00.000Z	Deutopia		if it is labeled casper-rw you want that
+2012-09-16T14:48:00.000Z	Deutopia		if you want you can right click computer -> manage -> disk management -> delete and resize the fat, but but i would trust linux's gpararted more than i'd trust windows with partitioning a USB
+2012-09-16T14:49:00.000Z	Deutopia		gparted*
+2012-09-16T14:50:00.000Z	Deutopia		so you can use linux in windows if you wanted? (you did not remove that option b4 you started?)
+2012-09-16T14:51:00.000Z	zal	Deutopia	thats called colinux with a virtual x11

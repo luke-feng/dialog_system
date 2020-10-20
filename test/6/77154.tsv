@@ -1,0 +1,6 @@
+2009-02-21T14:07:00.000Z	Musfuut		Is it possible to install two package from disk, while installing the dependant and suggested packages from the web?
+2009-02-21T14:08:00.000Z	Musfuut		packages*
+2009-02-21T14:08:00.000Z	bazhang	Musfuut	why would you want to attempt that
+2009-02-21T14:09:00.000Z	bazhang	Musfuut	you want to mix sources?
+2009-02-21T14:10:00.000Z	bazhang	Musfuut	that will almost certainly lead to bad consequences
+2009-02-21T14:10:00.000Z	bazhang	Musfuut	why not completely upgrade

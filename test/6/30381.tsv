@@ -1,0 +1,6 @@
+2011-03-28T13:56:00.000Z	Pinpon		If i run a script in rcS every runlevel will use it?
+2011-03-28T13:57:00.000Z	Pinpon		no
+2011-03-28T13:57:00.000Z	pfifo	Pinpon	no, rcS is runlevel S, or single user ode
+2011-03-28T13:58:00.000Z	pfifo	Pinpon	yeah
+2011-03-28T13:59:00.000Z	pfifo	Pinpon	thats very true, but im answering your exact question
+2011-03-28T14:01:00.000Z	pfifo	Pinpon	I highly recommend using upstart

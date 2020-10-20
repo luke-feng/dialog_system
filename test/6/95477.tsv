@@ -1,0 +1,6 @@
+2007-01-21T08:50:00.000Z	gibbonsfire4		Can anyone help me find my hard drive
+2007-01-21T08:50:00.000Z	uii1	gibbonsfire4	it's inside your computer next to the motherboard
+2007-01-21T08:51:00.000Z	uii1	gibbonsfire4	:) is it mounted?
+2007-01-21T09:01:00.000Z	uii1	gibbonsfire4	mkdir /harddrive, makes a hard drive folder, it's a reference point for you to access your hard drive (ie. mount point). you can name the folder anything you want and put it virtually anywhere on your comptuer. everytime you want to get to your hard drive you go to that folder
+2007-01-21T09:04:00.000Z	uii1	gibbonsfire4	what happens when you try to mount? and yes - you can edit fstab...
+2007-01-21T09:05:00.000Z	uii1	gibbonsfire4	/dev/hdb       /harddrive              ext3    defaults,errors=remount-ro 0       1

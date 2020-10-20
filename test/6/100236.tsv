@@ -1,0 +1,6 @@
+2008-06-11T20:51:00.000Z	devkev		i solved my ssh problem
+2008-06-11T20:52:00.000Z	devkev		it was bardyr's suggestion to check the firewall
+2008-06-11T20:52:00.000Z	devkev		that was the problem all right
+2008-06-11T20:52:00.000Z	devkev		just quited shorewall and it worked
+2008-06-11T20:52:00.000Z	devkev		thanks guys
+2008-06-11T20:53:00.000Z	genii	devkev	You help him after then ;)

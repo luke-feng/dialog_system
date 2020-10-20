@@ -1,0 +1,6 @@
+2006-04-18T10:16:00.000Z	livingdaylight		guys, how does one delete from /usr/bin for example?
+2006-04-18T10:16:00.000Z	livingdaylight		what is the command for remove or delete?
+2006-04-18T10:17:00.000Z	argent	livingdaylight	`rm <filename>' or `rm -r <dirname>'
+2006-04-18T10:19:00.000Z	livingdaylight	argent	i wanted to remove  realplayer from /usr/bin i think 'rm' worked thx
+2006-04-18T10:19:00.000Z	argent	livingdaylight	you should have used apt-get removed
+2006-04-18T10:19:00.000Z	argent	livingdaylight	you should have used apt-get remove

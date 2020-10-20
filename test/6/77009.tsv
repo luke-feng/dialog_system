@@ -1,0 +1,6 @@
+2007-10-09T12:54:00.000Z	Hilikus		how do i schedule a task in ubuntu so that it gets executed EVEN if the computer was off at the time it was supposed to run?
+2007-10-09T12:55:00.000Z	tonyyarusso	Hilikus	I don't know the details, but iirc anacron is supposed to do that.
+2007-10-09T13:05:00.000Z	Hilikus	tonyyarusso	thats what i thought, but it doesnt run jobs that were created using crontab -e OR gnome-schedule, because they are user jobs, not system jobs, so i need to know whats the right way to schedule jobs so that anacron runs them
+2007-10-09T13:07:00.000Z	tonyyarusso	Hilikus	"When  executed, Anacron reads a list of jobs from a configuration file, normally /etc/anacrontab (see anacrontab(5))."
+2007-10-09T13:08:00.000Z	Hilikus	tonyyarusso	anacrontab from what i can tell will run scripts under /etc/cron.daily cron.weekly, etc, but the USER crontabs are not in /etc since thats a system folder
+2007-10-09T13:09:00.000Z	tonyyarusso	Hilikus	you could arrange some linking systems to make it work.  see the manpage for the details you will have to work with.

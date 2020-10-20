@@ -1,0 +1,6 @@
+2010-01-20T00:38:00.000Z	Samp		so I spanned these two hard drives together with lvm, and I think I've messed up. I can't mount the volume without root permissions and once I do I can't write to the volume without write permissions. Is it ok to delete the filesystem I created that spans the two drives?
+2010-01-20T00:38:00.000Z	ikonia	Samp	you can't mount without root - that's fine, and you can't write without write permission, that's fine too
+2010-01-20T00:39:00.000Z	ikonia	Samp	change the ownership
+2010-01-20T00:47:00.000Z	ikonia	Samp	don't worry about that, - can you please pastebin your /etc/fstab please
+2010-01-20T00:48:00.000Z	ikonia	Samp	ex3 should be ext3
+2010-01-20T01:03:00.000Z	ikonia	Samp	no problem

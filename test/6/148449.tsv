@@ -1,0 +1,6 @@
+2010-03-11T08:05:00.000Z	Guest87763		i'm trying to get in gui gnome... i am running ubuntu 9.10... when i turn the computer on it only goes to a terminal... just before this i tried to connect to my t.v which i have done before and can still do via live flash drive running 9.10
+2010-03-11T08:07:00.000Z	Guest87763		@TxPitou- "cannot connect to server x
+2010-03-11T08:08:00.000Z	Guest87763		@TxPitou-WOW!!!
+2010-03-11T08:09:00.000Z	Guest87763		that far... I can get it up great with live flash drive and even connect to the t.v.
+2010-03-11T08:09:00.000Z	Guest87763		how do i reinstall gnome
+2010-03-11T08:10:00.000Z	anto9us	Guest87763	sudo apt-get install ubuntu-desktop

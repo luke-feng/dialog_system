@@ -1,0 +1,6 @@
+2008-11-17T20:22:00.000Z	Lasivian		is there any easy way to send mails from software that does not have a field for an outgoing smtp password?
+2008-11-17T20:22:00.000Z	Lasivian		ie. I need an open smtp server
+2008-11-17T20:23:00.000Z	nibbler_	Lasivian	setup some mailserver at your box, using smarthost
+2008-11-17T20:23:00.000Z	Lasivian	nibbler_	I tried that with postfix, but I get "relay access denied"
+2008-11-17T20:24:00.000Z	nibbler_	Lasivian	then fix your config ;-)
+2008-11-17T20:24:00.000Z	Lasivian	nibbler_	that's what i'm trying to do

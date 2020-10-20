@@ -1,0 +1,6 @@
+2008-01-02T10:56:00.000Z	corinth		Happy New Year!
+2008-01-02T10:56:00.000Z	corinth		Now, on to business :-P
+2008-01-02T10:56:00.000Z	corinth		I have a friend that just bought a new sound card. How can he get Ubuntu to recognize/use it?
+2008-01-02T10:57:00.000Z	Scunizi	corinth	plug it in and try it.. it might just work
+2008-01-02T10:57:00.000Z	corinth	Scunizi	If it worked out of the box, I wouldn't be here ;-)
+2009-03-26T08:56:00.000Z	Scunizi	corinth	use a pipe between the !<command> and the nick

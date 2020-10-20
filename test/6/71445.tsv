@@ -1,0 +1,6 @@
+2007-12-04T04:29:00.000Z	RuanE_		Another point to note is that it failed trying to access the Mirrors
+2007-12-04T04:29:00.000Z	ompaul	RuanE_	you got some kind of proxy on your network, cos you are sure showing the symptoms of i
+2007-12-04T04:30:00.000Z	RuanE_	ompaul	I will shut off all other machines on the network to eliminate the problem
+2007-12-04T04:32:00.000Z	ompaul	RuanE_	if the firewall only passes info from the proxy server then you got issues - you need to know more about your network than just assuming that is the case, check out the web browser settings on two other machines and look for proxy settings
+2007-12-04T04:34:00.000Z	RuanE_	ompaul	This is a relativley simple home network, it has 4 machines, on none of which have ever needed a proxy server, I can traceroute absolutley fine, and I can see that it just goes straight out of the router, onto the interner
+2007-12-04T04:36:00.000Z	ompaul	RuanE_	and if you turn off all other machines reboot yours - if the problem goes away it is your router that needs to be told to hand out more ips and so forth

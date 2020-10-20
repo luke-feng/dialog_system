@@ -1,0 +1,6 @@
+2009-12-16T16:56:00.000Z	||arifaX		where does network-manager store the connection configuration files?
+2009-12-16T16:57:00.000Z	jpds	||arifaX	~/.gconf/system/networking
+2009-12-16T16:58:00.000Z	||arifaX	jpds	and if I installed network-manager in kde and configured a connection with it where is the file (I needed to look up som info)
+2009-12-16T16:59:00.000Z	jpds	||arifaX	No idea.
+2009-12-16T16:59:00.000Z	||arifaX	jpds	got it /root/.gconf/system/networking
+2009-12-16T17:00:00.000Z	||arifaX	jpds	thanks for your tip

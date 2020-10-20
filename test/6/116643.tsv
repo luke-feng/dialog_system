@@ -1,0 +1,6 @@
+2009-06-16T23:06:00.000Z	om26er		how to completely uninstall firefox
+2009-06-16T23:06:00.000Z	bruce89	om26er	sudo aptitude remove firefox
+2009-06-16T23:10:00.000Z	bruce89	om26er	I've said already
+2009-06-16T23:30:00.000Z	bruce89	om26er	Epiphany
+2009-06-16T23:30:00.000Z	bruce89	om26er	however it currently uses Mozilla's rendering engine, so it may just be as bad
+2009-06-16T23:34:00.000Z	bruce89	om26er	well, anything using WebKit ideally

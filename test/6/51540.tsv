@@ -1,0 +1,6 @@
+2009-03-06T05:41:00.000Z	sprockets		Sigh, could it be that im using the 64 bit version I believe its edgy that is causing this usb headset issue
+2009-03-06T05:41:00.000Z	sprockets		I know the USB headset work i just cant tell it when i want it to work
+2009-03-06T05:43:00.000Z	sprockets		Yeah I use the beta plugin as well, I just cant wrap my head around this problem because it worked flawlessly before I rebooted
+2009-03-06T05:43:00.000Z	sprockets		Oh well lame laptop speakers ftw
+2009-03-06T05:44:00.000Z	dotblank	sprockets	wish I had a usb headset to try
+2009-03-06T05:44:00.000Z	dotblank	sprockets	whats the output of dmesg | tail when you plig in your headset

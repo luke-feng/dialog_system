@@ -1,0 +1,6 @@
+2005-07-16T07:59:00.000Z	ColonelKernel		is there any for for me to specifiy refresh rates for certain resolutions in X?
+2005-07-16T07:59:00.000Z	ColonelKernel		I want to force 1024x768 to be 100
+2005-07-16T07:59:00.000Z	thr1ce	ColonelKernel	set it in xorg.conf
+2005-07-16T08:05:00.000Z	ColonelKernel	thr1ce	I seem to be having problems finding directions on how to do this online - best ive found is to be able to specify a single refresh rate for all resolutions but thats no better.
+2005-07-16T08:12:00.000Z	thr1ce	ColonelKernel	you could always make a new one with xorgconfig
+2005-07-16T08:13:00.000Z	ColonelKernel	thr1ce	I dont think that would help, thats what set up the refresh rates I have now anyways

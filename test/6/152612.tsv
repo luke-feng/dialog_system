@@ -1,0 +1,6 @@
+2006-08-01T16:55:00.000Z	lhds		how to switch rpm to deb?
+2006-08-01T16:55:00.000Z	lhds		gys
+2006-08-01T16:56:00.000Z	lhds		dangerous?
+2006-08-01T16:56:00.000Z	lhds		like itl blow my system?
+2006-08-01T16:56:00.000Z	CarinArr	lhds	well the packages aren't made for the same distribution, so things can go wrong
+2006-08-01T16:58:00.000Z	CarinArr	lhds	if you can't and if you can't find the source (which i'm assuming you won't as it seems to be commercial software) that'd be one of the times you might have to use alien, but you should be aware that there's no guarantee it will work correctly

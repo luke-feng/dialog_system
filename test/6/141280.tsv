@@ -1,0 +1,6 @@
+2006-03-16T14:27:00.000Z	Lorvija		hey.. will dapper bring big changs to wireless network cards & their support? I got breezer laptop with d-link g650 pcmcia card and it's supported and works.. but keeps dropping the connection all the time... any idea if dapper could possibly fix it(newer drivers for example?) or if there is any fix already..
+2006-03-16T14:29:00.000Z	Managu	Lorvija	it's not strictly a ubuntu issue.  Happen to know the chipset for your dlink card?
+2006-03-16T14:31:00.000Z	Managu	Lorvija	You might look for the linux wireless faq.  Upshot is, you can probably get better performance if you're willing to muck around with ndiswrapper
+2006-03-16T14:31:00.000Z	Lorvija	Managu	 hmm okay, gotta check it then. Kinda annoying as the connection drops every 40-60 mins.. :/
+2006-03-16T14:31:00.000Z	Lorvija	Managu	thanks
+2006-03-16T14:31:00.000Z	Managu	Lorvija	np

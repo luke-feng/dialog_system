@@ -1,0 +1,6 @@
+2011-08-19T11:08:00.000Z	amh345		is there anyway to reset my ubuntu password without knowing what the current password is?
+2011-08-19T11:09:00.000Z	amh345		that's all it takes to reset your p/w?  what the heck is the point in having one?
+2011-08-19T11:11:00.000Z	amh345		another quick question.  is there a maximum length password?
+2011-08-19T11:11:00.000Z	amh345		somehow i changed my p/w last night.  i wrote it down and even copy pasted it into ubuntu. but now, it no worky.
+2011-08-19T11:13:00.000Z	amh345		is there a way to change root password while im logged in.  because im currently logged in at the moment via vnc.  for some reason my old pw worked with vnc. but not when authenticating in updates sudo/etc/
+2011-08-19T11:13:00.000Z	zykotick9	amh345	did you change your hostname?

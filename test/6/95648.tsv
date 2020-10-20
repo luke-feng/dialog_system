@@ -1,0 +1,6 @@
+2007-01-18T09:49:00.000Z	bauer77		an anyone help me I was trying to install ATi Radeon Mobility drivers and was told to download automatix2 but all I see is Nvidia drivers, can anyone help?
+2007-01-18T09:50:00.000Z	mzanfardino	bauer77	you should skip Automatix2 and just go straight to ATI and download the drivers.  The combo installer works quite well
+2007-01-18T09:52:00.000Z	mzanfardino	bauer77	one sec
+2007-01-18T09:53:00.000Z	mzanfardino	bauer77	which video card?
+2007-01-18T09:55:00.000Z	mzanfardino	bauer77	goto http://ati.amd.com/support/drivers/linux/linux-radeon.html and select ATI Driver Installer
+2007-01-18T09:59:00.000Z	bauer77	mzanfardino	thanks, I have downloaded the problem but the problem I was having was getting to to run, i am sure I am not using the right commands.

@@ -1,0 +1,6 @@
+2007-05-21T11:18:00.000Z	delaney		if anyone is able to explain why suddnely i get these "declare -x" things when i login I would appreciate the help  http://img412.imageshack.us/my.php?image=untitledjp7.jpg
+2007-05-21T11:18:00.000Z	delaney		^screnshot shows what i mean
+2007-05-21T11:20:00.000Z	atrus	delaney	that's the sort of output that the 'export' command gives without any arguments. do you have "export" in a .bashrc, .bash_profile, .profile, or similar file somewhere?
+2007-05-21T11:20:00.000Z	delaney	atrus	 thats the thing that confuses me. i removed eerything in my home and in my ~root as well
+2007-05-21T11:20:00.000Z	delaney		it still continues to appear
+2007-05-21T11:21:00.000Z	atrus	delaney	you could create a new user and see if it's effected. if it is, it might be in /etc/ somewhere. /etc/profile or similar

@@ -1,0 +1,6 @@
+2011-12-13T06:13:00.000Z	kashyap1		ERROR: function do_configure failed
+2011-12-13T06:13:00.000Z	kashyap1		ERROR: log data follows (/home/m04cde-cw-group_2/gumstix/gumstix-oe/tmp/work/armv5te-angstrom-linux-gnueabi/linux-libc-headers-2.6.20-r7/temp/log.do_configure.4197)
+2011-12-13T06:13:00.000Z	kashyap1		| NOTE: make -e MAKEFLAGS= allnoconfig ARCH=arm
+2011-12-13T06:13:00.000Z	kashyap1		| Makefile:415: *** mixed implicit and normal rules.  Stop.
+2011-12-13T06:13:00.000Z	kashyap1		| FATAL: oe_runmake failed
+2011-12-13T06:13:00.000Z	FloodBot1	kashyap1	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

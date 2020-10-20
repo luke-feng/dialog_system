@@ -1,0 +1,6 @@
+2008-07-07T11:03:00.000Z	stephen		hello
+2008-07-07T11:04:00.000Z	stephen		i just upgraded from ubuntu 7.1 to the newest version and I can no longer use my wireless connection... can anybody help me
+2008-07-07T11:05:00.000Z	stephen		i just upgraded from ubuntu 7.1 to the newest version and I can no longer use my wireless connection... can anybody help me
+2008-07-07T11:05:00.000Z	stephen		has anybody else had problems with there wireless adapters in the new ubuntu
+2008-07-07T11:06:00.000Z	Flannel	stephen	What card do you have, what were you using to connect before? (ndiswrapper?) etc.  We'll need more information
+2008-07-07T11:10:00.000Z	Flannel	stephen	doesn't show up in lspci or lsusb?

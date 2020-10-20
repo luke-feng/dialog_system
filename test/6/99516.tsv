@@ -1,0 +1,6 @@
+2006-12-26T10:52:00.000Z	robbbb		hello all
+2006-12-26T10:52:00.000Z	robbbb		how come when a new window is created it appears top left under the rest?
+2006-12-26T10:52:00.000Z	robbbb		i'm using beryl
+2006-12-26T10:53:00.000Z	robbbb		and it's only just started happening
+2006-12-26T10:53:00.000Z	adaptr	robbbb	because that's how you configured the "Put Window" plugin ?
+2006-12-26T10:53:00.000Z	robbbb	adaptr	it's set to window center

@@ -1,0 +1,6 @@
+2006-01-27T15:43:00.000Z	Karyook		Hello, I only /dev/sda*
+2006-01-27T15:43:00.000Z	Karyook		how can I mount the USB ?
+2006-01-27T15:44:00.000Z	thechris	Karyook	it did not automatically mount the USB device?
+2006-01-27T15:44:00.000Z	Karyook	thechris	no
+2006-01-27T15:45:00.000Z	thechris	Karyook	odd.  have you tried mounting from the CLI?
+2006-01-27T15:45:00.000Z	Karyook	thechris	my harddisk is /dev/sda

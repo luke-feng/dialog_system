@@ -1,0 +1,6 @@
+2010-06-05T14:45:00.000Z	vasez		What is the recommended filesyetm for a media drive with mostly large video files?
+2010-06-05T14:45:00.000Z	Dr_Willis	vasez	 when in doubt stick with ext3/ext4
+2010-06-05T14:45:00.000Z	Dr_Willis	vasez	 unless you have to share with windows.
+2010-06-05T14:46:00.000Z	vasez	Dr_Willis	Thanks, of the two which is more stable?
+2010-06-05T14:46:00.000Z	Dr_Willis	vasez	 proberly wont matter. ext4 in theory is  better.
+2010-06-05T14:48:00.000Z	vasez	Dr_Willis	Thank you, a reading said that fscks are faster on ext4, that wins me over lol

@@ -1,0 +1,6 @@
+2009-07-07T02:58:00.000Z	cornerstone		any idea why my numeric keypad works on login but not after login? I cant get it to work within the OS after the GDM screen is passed
+2009-07-07T02:58:00.000Z	OttifantSir	cornerstone	Not even after pushing NumLock?
+2009-07-07T02:59:00.000Z	cornerstone	OttifantSir	nope, once I get logged in, i cant get it working at all
+2009-07-07T02:59:00.000Z	OttifantSir	cornerstone	Is it a stand-alone keypad for a wireless set?
+2009-07-07T03:00:00.000Z	cornerstone	OttifantSir	got it working, found this:   http://ubuntuforums.org/showpost.php?p=4444700&postcount=5
+2009-07-07T03:00:00.000Z	cornerstone	OttifantSir	thanks for at the very least responding. Good evening..

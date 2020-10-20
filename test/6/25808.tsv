@@ -1,0 +1,6 @@
+2010-01-03T20:51:00.000Z	madPJKfan_		hey, ummm... what's the bash method of starting a program, but returning to the command line - say you want to run gedit or something?
+2010-01-03T20:51:00.000Z	Dr_Willis	madPJKfan_	 command &
+2010-01-03T20:51:00.000Z	madPJKfan_	Dr_Willis	cheers
+2010-01-03T20:52:00.000Z	Dr_Willis	madPJKfan_	 check bash job contoll docs for more details :) and fancy things like ctrl-z and bg/fg commands
+2010-01-03T20:54:00.000Z	madPJKfan_	Dr_Willis	yeah - it is all coming back to me - has been years and years.  Just got beaten tho.  "sudo gedit menu.lst&" produces interesting results
+2010-01-03T21:00:00.000Z	Dr_Willis	madPJKfan_	 proper spaceing is needed in linux.. Unlike DOS. :)

@@ -1,0 +1,6 @@
+2005-09-15T13:21:00.000Z	Nard		hey
+2005-09-15T13:22:00.000Z	darkheart	Nard	Yes.
+2005-09-15T13:22:00.000Z	darkheart	Nard	type 'which perl'
+2005-09-15T13:23:00.000Z	darkheart	Nard	Um..How are you trying to run it? It's an interpreter, you have to feed it a perl file, i.e. 'perl myperlprogram.pl'
+2005-09-15T13:24:00.000Z	darkheart	Nard	Oh I see, some kind of command line that evaluates expressions like ruby has?
+2005-09-15T13:25:00.000Z	darkheart	Nard	Hehe, I dunno. I'm not a perl programmer. But, I'm betting there is somewhere.

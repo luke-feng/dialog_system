@@ -1,0 +1,6 @@
+2007-11-22T03:00:00.000Z	rich1		can anyone help with java?
+2007-11-22T03:00:00.000Z	rich1		hi.  i added icedtea java and made it default to get miro working.  miro worked but java in mozilla browsers didn't.
+2007-11-22T03:00:00.000Z	rich1		i made sun java the default again and removed icedtea java but now applets load verrrrry slowly.  any ideas?
+2007-11-22T03:01:00.000Z	Udmin	rich1	apt-get install sun-java6-plugin
+2007-11-22T03:02:00.000Z	rich1	Udmin	i tried that.  reinsatlled it.  but applets don't work at all in swiftweasel even though java.com says everything is good.
+2007-11-22T03:14:00.000Z	Udmin	rich1	never heard of swiftweasel, must not be officially supported yet

@@ -1,0 +1,6 @@
+2007-01-28T12:31:00.000Z	proqesi		how do I switch my bootloader from lilo to grub? this is on a hoary system
+2007-01-28T12:32:00.000Z	graft	proqesi	just do grub-install and it'll switch
+2007-01-28T12:33:00.000Z	proqesi	graft	when I grub install, it says stage1 not found
+2007-01-28T13:02:00.000Z	graft	proqesi	no, he's fine
+2007-01-28T13:02:00.000Z	graft	proqesi	that's how you get source
+2007-01-28T13:03:00.000Z	graft	proqesi	apt-get source is different from apt-get install

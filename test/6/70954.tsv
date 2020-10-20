@@ -1,0 +1,6 @@
+2007-12-09T20:04:00.000Z	jojopumpkin		Question: I am running Ubuntu 7.04 (installed via Wubi) alongside WindowsXP. I am noticing a terribly slow read/write speed on my internal and external HDs while using Ubuntu. I transferred 1gb of photos from my external HD to my /home folder and it took 11 minutes. In Windows it takes about 20 seconds, if that. If I were to simply install Ubuntu as the only OS on my system, would that help? Would reformatting my external with NTFS-g3 too
+2007-12-09T20:05:00.000Z	qaldune	jojopumpkin	if you really want to use ubuntu, you'd better install it normally, not using wubi
+2007-12-09T20:06:00.000Z	jojopumpkin	qaldune	Will that increase my read/write speeds? Or is Ubuntu that slow in this area?
+2007-12-09T20:06:00.000Z	qaldune	jojopumpkin	of course it will
+2007-12-09T20:07:00.000Z	qaldune		jojopumking: it will probably be faster than windows. wubi is just a workaround and give problems as those of the same kind do
+2007-12-09T20:07:00.000Z	jojopumpkin	qaldune	tnx

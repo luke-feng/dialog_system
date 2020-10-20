@@ -1,0 +1,6 @@
+2009-04-11T15:47:00.000Z	dayo		how do i implement quotas in ubuntu?
+2009-04-11T15:47:00.000Z	dayo		!quota > dayo
+2009-04-11T15:47:00.000Z	dayo		!quotas > dayo
+2009-04-11T15:47:00.000Z	dayo		hmm
+2009-04-11T15:48:00.000Z	ninadsp	dayo	there is a package named quota... is that what you are searching for?
+2009-04-11T15:48:00.000Z	dayo	ninadsp	i want to enforce quotas for the users on my server

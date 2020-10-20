@@ -1,0 +1,6 @@
+2008-02-07T01:13:00.000Z	smallfoot-		Fedora 9 will have full-disk encryption, Windows Vista has BitLocker Drive Encryption, Mac OS X 10.5 "Leopard" has FileVault, wtf does Ubuntu have?
+2008-02-07T01:14:00.000Z	PriceChild	smallfoot-	ubuntu has had full drive encryption from the alternate cd since gutsy at least.
+2008-02-07T01:14:00.000Z	PriceChild	smallfoot-	I'm using it as we speak.
+2008-02-07T01:14:00.000Z	smallfoot-	PriceChild	then why is it not on the normal cd, i got the normal cd, not the alternative cd, and i didnt have no full disk encryption
+2008-02-07T01:15:00.000Z	PriceChild	smallfoot-	you're welcome to submit patches to get lvm and encryption displays in ubiquity to play nice.
+2008-02-07T01:17:00.000Z	PriceChild	smallfoot-	we have it. Use the alternate cd.

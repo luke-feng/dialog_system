@@ -1,0 +1,6 @@
+2006-09-21T08:08:00.000Z	danfg		guys, who is cleaning up my resolv.conf settings ???
+2006-09-21T08:09:00.000Z	gfxstyler	danfg	does restricting permissions on /etc/resolv.conf help ?
+2006-09-21T08:09:00.000Z	danfg	gfxstyler	yes, great idea, i will try that
+2006-09-21T08:10:00.000Z	danfg	gfxstyler	surface: but really, why is ubuntu messing with my DNS settings in the first place. btw, i heard a beep when i was booting up, X was almost finished loading. i will check the boot log brb
+2006-09-21T08:11:00.000Z	gfxstyler	danfg	i just use /etc/networking/interfaces and /etc/resolv.conf manually, because the network manager of gnome/ubuntu doesnt like my ethernet +wlan setting (always removes the gateway address? what the hell ?) ... i guess i have the same problem, except my configs dont get cleared/overwrittenn
+2006-09-21T08:16:00.000Z	danfg	gfxstyler	surface: i'll change write permissions in resolv.conf, which is sad, but oh well. guys, thanks a lot for helping me with this, i appreciate it

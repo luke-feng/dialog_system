@@ -1,0 +1,6 @@
+2007-02-13T12:40:00.000Z	amar		 can anyone plz explain me how to upgrade ubuntu 5.10 to 6.10......... i'm a newbie...
+2007-02-13T12:40:00.000Z	gozert	amar	download the Ubuntu 6.06.1 Alternate CD
+2007-02-13T12:40:00.000Z	gozert	amar	then insert that while its running
+2007-02-13T12:40:00.000Z	gozert	amar	it should autodetect the new version and ask you if you want to upgrade
+2007-02-13T12:44:00.000Z	gozert	amar	you can't upgrade 5.10 to 6.10
+2007-02-13T12:45:00.000Z	gozert	amar	upgrade to 6.06 first

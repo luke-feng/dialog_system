@@ -1,0 +1,6 @@
+2010-06-01T10:31:00.000Z	codebrainz	Jon--	can you not just copy the vimrc file to the other system?
+2010-06-01T10:32:00.000Z	Jon--	codebrainz	My .vimrc does not use custom colours. The defaults on Ubuntu and Windows must be different and I don't know where to find.
+2010-06-01T10:33:00.000Z	codebrainz	Jon--	what about the system-wide one under /etc/vim/*
+2010-06-01T10:34:00.000Z	Jon--	codebrainz	I have not looked there yet. Does that contain the syntax highlighting colours?
+2010-06-01T10:35:00.000Z	codebrainz	Jon--	presumably it's the default/global configuration file overriden by your personal ~/.vimrc file.  i don't use vim, but that's the way it usually works
+2010-06-01T10:37:00.000Z	Jon--	codebrainz	I'll check it out lat--- right now. Haha.ext2explore.exe you are my friend. =D

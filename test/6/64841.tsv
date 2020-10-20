@@ -1,0 +1,6 @@
+2008-01-29T09:00:00.000Z	Joespeh		I have two hard drives - C: and G: ----  G: has my previous MY Documents on it. I want to keep my documents and dual install xp and ubuntu - do I need to partition the G: drive when I install it? (XP is on C:)
+2008-01-29T09:01:00.000Z	magic_ninja	Joespeh	just partition the windows hdd and half windows half linux and user the other drive as your home drive and mount your "Documents and Settings" folder on the desktop with a symlink
+2008-01-29T09:03:00.000Z	Joespeh	magic_ninja	- My G: drive (200 gig) is much bigger than my C: drive (30 gig), I think it would make sense to put windows on C and linux on G:,  do I have to partition my G: drive to keep my documents?
+2008-01-29T09:04:00.000Z	magic_ninja	Joespeh	yes you will
+2008-01-29T09:05:00.000Z	magic_ninja	Joespeh	its like walls in a house
+2008-01-29T09:05:00.000Z	magic_ninja	Joespeh	my reccomendation, google it and read for an hour or so to get a good idea what your doing

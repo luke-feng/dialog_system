@@ -1,0 +1,6 @@
+2005-03-26T09:41:00.000Z	gratuit		hi I just installed ubuntu, and I was wondering, why does the default install have me listening on port 25? and why does trying to remove postfix try to also remove ubuntu-base?
+2005-03-26T09:42:00.000Z	lamont	gratuit	it should have you listening on port 25 of the loopback address only
+2005-03-26T09:42:00.000Z	lamont		and ubuntu-base is a meta package that Depends: postfix - if you remove postfix, then it goes to.
+2005-03-26T09:42:00.000Z	lamont		too, even
+2005-03-26T09:43:00.000Z	gratuit	lamont	I got that, but I was wondering more of the reason that ubuntu base depended on postfix, is the distribution somehow dependant on there being a mailserver active?
+2005-03-26T09:45:00.000Z	lamont	gratuit	the plan is to remove that dependency for hoary +1

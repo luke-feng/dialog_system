@@ -1,0 +1,6 @@
+2007-03-15T10:47:00.000Z	alienseer23		hello, if I want a doubble booting machine, is it necessary to install ubuntu after or before windows?
+2007-03-15T10:47:00.000Z	alienseer23		((so sad I am installing windows))
+2007-03-15T10:47:00.000Z	Pici	alienseer23	Easier if you install it after
+2007-03-15T10:48:00.000Z	alienseer23	Pici	what do I have to do if I install Ubuntu first?
+2007-03-15T10:48:00.000Z	Pici	alienseer23	You may need to reinstall grub after you install windows
+2007-03-15T10:49:00.000Z	Pici	alienseer23	actually you WILL need to reinstall grub

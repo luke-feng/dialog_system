@@ -1,0 +1,6 @@
+2005-07-29T16:25:00.000Z	sylvan		Hi all. How come I can only read my mounted windows partition using "sudo".. It says that the owner is "root" and chmod'ing it doesn't work...
+2005-07-29T16:26:00.000Z	sylvan		how? /dev/sdb5 /mnt/winxp_scratch ntfs rw,auto,user 0 0
+2005-07-29T16:26:00.000Z	sylvan		ok, will try
+2005-07-29T16:27:00.000Z	sylvan		what does "user 0 0" do?
+2005-07-29T16:28:00.000Z	nikkia	sylvan	user says anyone can mount/unmount it, and the 0 0 are the fsck sequencing, since ntfs isn't fsck'ed, its 0 0
+2005-07-29T16:36:00.000Z	nikkia	sylvan	that sounds like mplayer is using the X11 driver, change mplayer to use 'xv' as the output method

@@ -1,0 +1,6 @@
+2009-06-11T23:13:00.000Z	mdm	jontec	you have to set DISPLAY
+2009-06-11T23:13:00.000Z	jontec	mdm	what?
+2009-06-11T23:14:00.000Z	jontec	mdm	where would I set it and what does it do?
+2009-06-11T23:14:00.000Z	mdm	jontec	it can not open your display it is either not set, or you do not have xvideo
+2009-06-11T23:14:00.000Z	mdm	jontec	try export DISPLAY=:0 and then try adding -vo x11 to it
+2009-06-11T23:14:00.000Z	jontec	mdm	I'm not the guy with the video problem... I have the wireless problem

@@ -1,0 +1,6 @@
+2010-08-18T21:19:00.000Z	pbx		Fresh install of 10.04 on an Inspiron 4000. Not seeing my wifi card, which worked with the last version of Ubuntu I used on this machine. How to get this working with minimal fuss?
+2010-08-18T21:20:00.000Z	ZykoticK9	pbx	plug in ethernet - do all updates, then check System / Admin / Hardware drivers
+2010-08-18T21:20:00.000Z	pbx	ZykoticK9	No ethernet.
+2010-08-18T21:21:00.000Z	ZykoticK9	pbx	you probably need it
+2010-08-18T21:25:00.000Z	pbx	ZykoticK9	I can't post full dmesg output because the machine is not online. Card is a Tellus C100 (I Googled its FCC ID). What next? Network access not an option. I could copy files to the machine via USB key if needed.
+2010-08-18T21:25:00.000Z	ZykoticK9	pbx	it wasn't me who asked for dmesg output.  Without internet I can't help - hopefully someone else can.  Good luck.

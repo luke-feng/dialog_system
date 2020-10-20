@@ -1,0 +1,6 @@
+2010-10-11T19:29:00.000Z	elb0w		After installing updates in Ubuntu 10.04 I am now rebooting to my desktop without a login prompt, how do I solve this?
+2010-10-11T19:29:00.000Z	odb|fidel	elb0w	so you dont see gdm or kdm?
+2010-10-11T19:30:00.000Z	odb|fidel	elb0w	define "it is loading" / or "it"
+2010-10-11T19:32:00.000Z	odb|fidel	elb0w	so "gdm" is loaded - but the user-selection box is missing?
+2010-10-11T19:32:00.000Z	elb0w	odb|fidel	yes I see gdm-binary as running
+2010-10-11T19:37:00.000Z	elb0w	odb|fidel	Any ideas?

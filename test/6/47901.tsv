@@ -1,0 +1,6 @@
+2009-10-15T09:28:00.000Z	Roasted		For ClamAV - What's the terminal command for it? I'm trying to run "man clamav" so I can read the manual yet its saying no entry, yet I have it installed.
+2009-10-15T09:29:00.000Z	Roasted		bingo! hey, clamav is terminal only, right?
+2009-10-15T09:31:00.000Z	Roasted		what are some linux virus scanners that have a gui?
+2009-10-15T09:31:00.000Z	acad	Roasted	clamav
+2009-10-15T09:32:00.000Z	acad	Roasted	why would you need a virus scanner? gnu/linux is virus free. there are like 20 viruses ever created and never any real viruses iin the wild- except on out-of-date linux boxes back in the day.
+2009-10-15T09:32:00.000Z	Roasted	acad	- read above :)

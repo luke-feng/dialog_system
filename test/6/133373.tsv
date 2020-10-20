@@ -1,0 +1,6 @@
+2006-10-31T13:04:00.000Z	timalot		anyone know how to get a laptop lcd screen to turn off after a certain amount of inactivity (ie after the screensaver has been on for a while)? ... currently on my machine it blanks then screen but the lcd is still on...
+2006-10-31T13:06:00.000Z	khermans_	timalot	look at /etc/acpi/lid.sh
+2006-10-31T13:06:00.000Z	timalot	khermans_	exactly but how do i get that to run? after a specified time
+2006-10-31T13:07:00.000Z	khermans_	timalot	a hack would be to symlink xscreensaver to it ;-)
+2006-10-31T13:07:00.000Z	timalot	khermans_	might have to that :) .... ill keep looking for a bit
+2006-10-31T13:08:00.000Z	khermans_	timalot	/etx/acpi/screenblank.sh

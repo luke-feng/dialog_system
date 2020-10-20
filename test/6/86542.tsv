@@ -1,0 +1,6 @@
+2011-07-07T20:52:00.000Z	Zxcvb		does the live cd use unity or X by default?
+2011-07-07T20:52:00.000Z	Pici	Zxcvb	It uses unity and X.
+2011-07-07T20:53:00.000Z	Pici	Zxcvb	unity is a gnome-shell replacement, not an xorg replacement.
+2011-07-07T20:53:00.000Z	Zxcvb	Pici	will it still try to use unity even if you don't have 3d acceleration
+2011-07-07T20:54:00.000Z	Pici	Zxcvb	It will fall-back to gnome2 if you do not have 3d accelleration.  You can manually install unuty2d if you;d like though.
+2011-07-07T20:54:00.000Z	Zxcvb	Pici	just trying to get it working right in virtualbox

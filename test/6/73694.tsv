@@ -1,0 +1,6 @@
+2007-11-23T02:45:00.000Z	semperfiguy		Why does the letter spacing get messed up when I change fonts in aterm?
+2007-11-23T02:47:00.000Z	SoundChaser	semperfiguy	how are you going about setting the font in aterm?
+2007-11-23T02:48:00.000Z	semperfiguy	SoundChaser	aterm -fn fontname
+2007-11-23T02:48:00.000Z	semperfiguy	SoundChaser	snap, one of the artwiz fonts
+2007-11-23T02:52:00.000Z	SoundChaser	semperfiguy	look at the man page - it wants a font size, like 7x10...
+2007-11-23T02:55:00.000Z	semperfiguy	SoundChaser	I did read the man page, it just says -fn fontname

@@ -1,0 +1,6 @@
+2005-05-01T11:36:00.000Z	CitizenKane		JagWire```, nickrud is right, i had no problems at all
+2005-05-01T11:36:00.000Z	JaGWiRE```	CitizenKane	did you remove the linux partition with the distro onit yet though?
+2005-05-01T11:37:00.000Z	JaGWiRE```	CitizenKane	when you remove the linux partition just by formatitng it to ntfs or whatever, you have pain.
+2005-05-01T11:38:00.000Z	CitizenKane	JaGWiRE```	well ya, windows wouldn't magically get that partition space, you would delete the linux partition, and then extend the windows one
+2005-05-01T11:39:00.000Z	JaGWiRE```	CitizenKane	I had created a linux partition but for some reason i fucked up partition table on installation and it formatted my D:\ drive in windows and put linux on there so I formatted back in windows and had hell.
+2005-05-01T11:45:00.000Z	CitizenKane	JaGWiRE```	, i run a notebook with xp/ubuntu and it runs fine

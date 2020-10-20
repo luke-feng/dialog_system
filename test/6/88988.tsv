@@ -1,0 +1,6 @@
+2011-05-16T13:48:00.000Z	grenadecx-Ascend		Okay. well, I have a script that runs rdiff.backup to perform backups. But I get different results if I run in from cronjob then if I run it from terminal, http://pastebin.com/Xb12itYQ , anyone got any idea?
+2011-05-16T13:48:00.000Z	llutz	grenadecx-Ascend	cronjobs are running in a limited environment, so you may have to use full pathes etc. to call stuff
+2011-05-16T13:49:00.000Z	llutz	grenadecx-Ascend	and PATH is identical when using cron?  i doubt that
+2011-05-16T13:50:00.000Z	llutz	grenadecx-Ascend	crons PATH is not identical to users PATH in most cases, so use full pathes
+2011-05-16T13:52:00.000Z	llutz	grenadecx-Ascend	whats /etc/tibet/tibet-backup.sh line 34?
+2011-05-16T13:53:00.000Z	llutz	grenadecx-Ascend	run a cronjob "echo $PATH >/tmp/cron-path"

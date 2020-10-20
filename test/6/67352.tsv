@@ -1,0 +1,6 @@
+2008-01-16T02:52:00.000Z	GAWildKat		I'm having trouble getting Ubuntu 7.10 to recognize the built in bluetooth on my Acer 9410z.  Anyone have any ideas?
+2008-01-16T02:53:00.000Z	GAWildKat		what's the ...google?
+2008-01-16T02:53:00.000Z	Duke_Fluke	GAWildKat	khermans is smart listen to him
+2008-01-16T02:55:00.000Z	Duke_Fluke	GAWildKat	wow weeks? what chipset is your bt?
+2008-01-16T02:56:00.000Z	Duke_Fluke	GAWildKat	did you run the command suggested?
+2008-01-16T02:56:00.000Z	Duke_Fluke	GAWildKat	lspci -v |grep bt

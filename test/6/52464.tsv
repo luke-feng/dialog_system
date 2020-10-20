@@ -1,0 +1,6 @@
+2009-09-21T16:13:00.000Z	SilAmeth		Hi, I have just put a harddrive that came from a windows box in my system and was wondering how to format it for my Jaunty system
+2009-09-21T16:14:00.000Z	alokito	SilAmeth	use a partitioning tool like gparted
+2009-09-21T16:19:00.000Z	alokito	SilAmeth	after it's installed press Alt+F2, type gksudo gparted and hit enter to run it, then from the hard disk list at the top right corner select ur harddisk(if u already have a harddisk connected then it will be /dev/sdb), then format the partitions of the harddisk as u like :)
+2009-09-21T16:20:00.000Z	alokito	SilAmeth	simple GUI :D
+2009-09-21T16:28:00.000Z	alokito	SilAmeth	unlike other distros, in ubuntu there's sudo for root privilage.. you can directly open a root terminal by gksudo gnome-terminal
+2009-09-21T16:34:00.000Z	alokito	SilAmeth	you welcome :)

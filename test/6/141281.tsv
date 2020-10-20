@@ -1,0 +1,6 @@
+2006-03-12T12:31:00.000Z	crackintosh		can someone tell me if my primary hard drive is automatically labeled /dev/hda1 ?
+2006-03-12T12:32:00.000Z	crackintosh		im running the live cd and my hard drive did not mount at boot. is it supposed to?
+2006-03-12T12:32:00.000Z	crackintosh		Lorija: did your drive mount when you booted ubuntu live?
+2006-03-12T12:33:00.000Z	Lorvija	crackintosh	huh? haven't tried ubuntu live cd yet (:
+2006-03-12T12:33:00.000Z	Lorvija	crackintosh	and ye, i'll make sure everything is unmounted =)
+2006-03-12T12:34:00.000Z	Lorvija	crackintosh	thanks for the hint =)

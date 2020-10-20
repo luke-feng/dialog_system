@@ -1,0 +1,6 @@
+2010-04-08T00:44:00.000Z	xTheGoat121x		If I format with ext3 instead of ext4, will I notice a severe ding in my performance?
+2010-04-08T00:46:00.000Z	aeon-ltd	xTheGoat121x	are you using ext4 on usb stick/ssd/flash mem.?
+2010-04-08T00:47:00.000Z	xTheGoat121x	aeon-ltd	I was hoping to but it's not cooperating
+2010-04-08T00:47:00.000Z	aeon-ltd	xTheGoat121x	i wouldn't reccommend it due to journaling flash mem = limited writes
+2010-04-08T00:47:00.000Z	aeon-ltd	xTheGoat121x	ext2 for long term ext4 for speed
+2010-04-08T00:48:00.000Z	xTheGoat121x	aeon-ltd	I'm aware of that -- it's just b/c it's the drive I'm installing Ubuntu onto

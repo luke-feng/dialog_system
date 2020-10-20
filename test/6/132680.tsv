@@ -1,0 +1,6 @@
+2005-10-26T08:36:00.000Z	Chrissum		how do i get grub to boot, on startup. it just skips to windows
+2005-10-26T08:36:00.000Z	aeon17x	Chrissum	did you install Windows after Ubuntu?
+2005-10-26T08:37:00.000Z	Chrissum		aeon: no i did not
+2005-10-26T08:37:00.000Z	Chrissum		aeon: trying to get delete windows
+2005-10-26T08:38:00.000Z	aeon17x	Chrissum	hmm... never had that problem before, but if you could install GRUB some other way (maybe through a live CD), then do so.
+2005-10-26T08:39:00.000Z	Chrissum	aeon17x	i used the live cd, maybe i did have to install it.

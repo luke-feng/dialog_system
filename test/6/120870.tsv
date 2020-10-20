@@ -1,0 +1,6 @@
+2006-04-13T16:14:00.000Z	AleXC_		Hey
+2006-04-13T16:14:00.000Z	AleXC_		How can I get GTK2.4? I'm trying to install The Widget Factory - but it needs GTK 2.4
+2006-04-13T16:16:00.000Z	AleXC_		How do I get GTK 2.4?
+2006-04-13T16:16:00.000Z	roryy	AleXC_	ubuntu comes with gtk 2.8. Perhaps you just need libgtk2.0-dev to compile your library
+2006-04-13T16:16:00.000Z	roryy	AleXC_	that is, ubuntu 5.10 comes with gtk 2.8
+2006-04-13T16:17:00.000Z	AleXC_	roryy	installing them now - hopefully it will work this time

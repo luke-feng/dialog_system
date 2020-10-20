@@ -1,0 +1,6 @@
+2008-01-11T20:21:00.000Z	obreiro		hello to everybody. someone know how to forget a configured wlan with network manager in gutsy?
+2008-01-11T20:21:00.000Z	obreiro		thanks
+2008-01-11T20:21:00.000Z	Seveas	obreiro	black magic
+2008-01-11T20:21:00.000Z	Seveas	obreiro	hang on a bit
+2008-01-11T20:22:00.000Z	Seveas	obreiro	gconftool-2 --recursive-unset /system/networking/wireless/networks/foo  (replace foo with the ssid)
+2008-01-11T20:30:00.000Z	obreiro	Seveas	very thanks

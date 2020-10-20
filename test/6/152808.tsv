@@ -1,0 +1,6 @@
+2005-12-03T08:01:00.000Z	markus__		HI
+2005-12-03T08:02:00.000Z	markus__		hi, i have a FS prob?
+2005-12-03T08:02:00.000Z	markus__		i use ext3 for root and now it has a IMAGIC FLAG SET
+2005-12-03T08:03:00.000Z	markus__		and i dont know how to fix it, fsck.ext3
+2005-12-03T08:05:00.000Z	markus__		while booting the system says i have to log in as root user and fix it manually. ive done this but the problem is still there
+2005-12-03T08:05:00.000Z	sss_lr	markus__	display problem?

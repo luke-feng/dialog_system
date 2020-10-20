@@ -1,0 +1,6 @@
+2009-11-08T15:06:00.000Z	NiSo		hey, if im here, i have a small bash question..
+2009-11-08T15:07:00.000Z	NiSo		how bash handles EOF (Ctrl-D, ^D) ? it's just stop reading from stdin, or it stops the entire application from running ?
+2009-11-08T15:08:00.000Z	NiSo		when i write to stdout EOF, what happens ?
+2009-11-08T15:08:00.000Z	NiSo		how it handles that ?
+2009-11-08T15:09:00.000Z	lstarnes	NiSo	why don't you try for yourself?
+2009-11-08T15:09:00.000Z	NiSo	lstarnes	just wanted to be sure, by asking here

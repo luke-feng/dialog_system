@@ -1,0 +1,6 @@
+2012-06-27T13:03:00.000Z	splinter701		Hey everyone, I'm having a little problem with ubuntu lately. I posted on ubuntuforums but i got no reply in 3 days http://ubuntuforums.org/showthread.php?t=2008830
+2012-06-27T13:03:00.000Z	splinter701		I was wondering if anyone could help?
+2012-06-27T13:03:00.000Z	Hyperbyte	splinter701	if you do a clean install of Ubuntu, can you reproduce the bug then?
+2012-06-27T13:06:00.000Z	Hyperbyte	splinter701	thing is, for bugs to be fixed, they need to be reproducable.  It could be caused by something you've done since you installed your system.  Developers can't go around guessing what it is.
+2012-06-27T13:06:00.000Z	Hyperbyte	splinter701	if it happens with a clean install, and you provide a detailed bug report of what exactly happens, and what hardware you have in your system, developers might be able to devise a fix.
+2012-06-27T13:07:00.000Z	Hyperbyte	splinter701	I'm not a developer, just a user.  I don't keep track of which bugs are in Ubuntu and which aren't.

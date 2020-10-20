@@ -1,0 +1,6 @@
+2009-09-11T03:02:00.000Z	d_b	coilette	http://www.debian-administration.org/articles/590 is good if you want to share files in 1 folder (and subfolders) only and only want to allow sftp in ssh.
+2009-09-11T03:03:00.000Z	d_b	coilette	though I missed everything you wrote earlier so I don't have a clue what you want to do :)
+2009-09-11T03:04:00.000Z	coilette	d_b	i installed pure-ftpd but i cant get it working
+2009-09-11T03:04:00.000Z	coilette		d
+2009-09-11T03:05:00.000Z	coilette	d_b	says the address is in use, but i have no other FTP servers running
+2009-09-11T03:05:00.000Z	d_b	coilette	if what you want to share is in one folder and you want security I recommend sftp, if not I can't help you as I never got an ftp server running. Took the easy (for me anyway) way out and set up sftp instead :)

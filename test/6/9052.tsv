@@ -1,0 +1,6 @@
+2012-06-14T04:58:00.000Z	ejo		Is it normal that you can lower a process priority but are not allowed to raise it?  Or maybe it was just something specific about this process.
+2012-06-14T04:59:00.000Z	ActionParsnip	ejo	use sudo to lower niceness
+2012-06-14T04:59:00.000Z	ejo	ActionParsnip	cool thanks... I wonder why we can raise it without
+2012-06-14T04:59:00.000Z	ActionParsnip	ejo	sudo will especially needed to set a negative nice value
+2012-06-14T04:59:00.000Z	ActionParsnip	ejo	because it makes it use less CPU than it normally would, i guess
+2012-11-19T00:50:00.000Z	ActionParsnip	ejo	does server make noises about new releases even though it's CLI....

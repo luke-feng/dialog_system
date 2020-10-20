@@ -1,0 +1,6 @@
+2007-01-24T14:30:00.000Z	Toth		any reccomendations on a firewall package? I have been using ubuntu for a while, and i know some things about networking, but I'm not exactly an expert, and I've never configured a firewall from scratch before
+2007-01-24T14:30:00.000Z	mwe	Toth	firestarter
+2007-01-24T14:31:00.000Z	mwe	Toth	firestarter is a nice front end to iptables, one of the most secure firewalls around
+2007-01-24T14:31:00.000Z	mwe	Toth	you don't need it unless you run a listening service, though
+2007-01-24T14:32:00.000Z	mwe	Toth	and in many cases if you run a listening service you don't want to filter it
+2007-01-24T14:32:00.000Z	Toth	mwe	ok thanks

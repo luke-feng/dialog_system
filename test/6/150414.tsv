@@ -1,0 +1,6 @@
+2005-08-02T12:23:00.000Z	compubomb		how do you keep ubuntu from auto-loading X ?..
+2005-08-02T12:23:00.000Z	compubomb		i don't want a desktop manager
+2005-08-02T12:24:00.000Z	compubomb		i just want to be able to type startx and presto
+2005-08-02T12:24:00.000Z	compubomb		anyone ?
+2005-08-02T12:26:00.000Z	compubomb		DOES ANYONE KNOW HOW TO DISABLE DESKTOP MANAGMENT AKA NO AUTO-START x ?
+2005-08-02T12:26:00.000Z	hondje	compubomb	yes, don't let gdm run at boot

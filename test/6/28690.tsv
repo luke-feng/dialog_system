@@ -1,0 +1,6 @@
+2009-11-02T02:17:00.000Z	SetiAmon		yeah,google pretty much turns up people asking the same question
+2009-11-02T02:17:00.000Z	SetiAmon		your using karmic right scripted?
+2009-11-02T02:18:00.000Z	SetiAmon		Scripted:hmm i have a xtream music,how about you?
+2009-11-02T02:20:00.000Z	SetiAmon		with 9.10 it saw my soundcard from the start but when I play any sound,music regardless of source i get a staticy distortion and echo effects.What did you do exactly to get the creative drivers to work,Sudo make then sudo make install right?I get errors on everything when i do that.i have tried turning the mode "off" in sound in preferences
+2009-11-02T02:20:00.000Z	therealGadget300	SetiAmon	Is it an Xfi soundcard
+2009-11-02T02:21:00.000Z	therealGadget300	SetiAmon	Mine worked from install. I'm using ALSA

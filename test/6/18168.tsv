@@ -1,0 +1,6 @@
+2010-08-12T04:27:00.000Z	iggy_		can u guys help me out i cant get my dlink dwa-130 to give me wireless
+2010-08-12T04:28:00.000Z	chemical-death	iggy_	try this http://www.linuxquestions.org/questions/linux-hardware-18/wireless-usb-device-dwa-130-on-ubuntu-583189/
+2010-08-12T04:32:00.000Z	chemical-death	iggy_	what version of ubuntu?
+2010-08-12T04:33:00.000Z	iggy_	chemical-death	10.04
+2010-08-12T04:35:00.000Z	chemical-death	iggy_	did you choose the right version of the driver? x64 or x86...the correct revision?
+2010-08-12T04:40:00.000Z	chemical-death	iggy_	does it see any networks but your can't connect or does it work not a bit

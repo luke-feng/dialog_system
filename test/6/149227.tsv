@@ -1,0 +1,6 @@
+2005-04-30T11:49:00.000Z	aisipos		Anyone having trouble installing eric3 (python ide)?
+2005-04-30T11:50:00.000Z	crimsun	aisipos	what's wrong with it?
+2005-04-30T11:51:00.000Z	aisipos	crimsun	unmet dependencies.
+2005-04-30T11:52:00.000Z	aisipos	crimsun	python2.4-qtext: Depends: python2.4-qt3 (= 3.13-4ubuntu2) but it is not going to be installed
+2005-04-30T11:53:00.000Z	aisipos	crimsun	then, after apt-get -f install, i get: dpkg: error processing /var/cache/apt/archives/python2.4-qt3_3.13-4ubuntu2_i386.deb (--unpack):
+2005-04-30T11:53:00.000Z	crimsun	aisipos	I don't get any such errors...

@@ -1,0 +1,6 @@
+2010-08-06T22:55:00.000Z	clarinet		Hi, guys. How long does compiling the kernel takes?
+2010-08-06T22:55:00.000Z	ActionParsnip	clarinet	how long is a piece of string.
+2010-08-06T22:56:00.000Z	ActionParsnip	clarinet	depends on a whole host of stuff, CPU speed, bus speed, ram amount, drive speed, drive seek time, amount of modules
+2010-08-06T22:57:00.000Z	ActionParsnip	clarinet	there is no real answer, people use time to time their compiles and it varys wiildly from 20 mins or so for 8 core cPU with 64Gb RAM to a few days on a Pent 200MMX with 64Mb RAM
+2010-08-06T22:58:00.000Z	ActionParsnip	clarinet	check compile times online, expecting us to know is kinda a bit much, you may get slightly more luck in #gentoo
+2010-08-06T23:00:00.000Z	clarinet	ActionParsnip	OK.

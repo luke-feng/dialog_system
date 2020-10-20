@@ -1,0 +1,6 @@
+2005-04-05T12:10:00.000Z	SeanQ		That's why we're here, msg43.
+2005-04-05T12:10:00.000Z	SeanQ		Okay.
+2005-04-05T12:11:00.000Z	SeanQ		I used linux-headers to compile ndiswrapper
+2005-04-05T12:12:00.000Z	pantz	SeanQ	i had trouble compiling ndiswrapper - what other packages did you need to install?
+2005-04-05T12:13:00.000Z	SeanQ	pantz	what was the error?
+2005-04-05T12:13:00.000Z	SeanQ	pantz	you'll need to get "linux-headers"

@@ -1,0 +1,6 @@
+2010-04-17T13:59:00.000Z	unicum		an answer would be appreciated
+2010-04-17T13:59:00.000Z	airtonix	unicum	the answer is 42
+2010-04-17T13:59:00.000Z	airtonix	unicum	no. you have to enable that.
+2010-04-17T14:00:00.000Z	airtonix	unicum	you know how ?
+2010-04-17T14:00:00.000Z	airtonix	unicum	run gconf-editor, then navigate to /apps/nautilus/
+2010-04-17T14:01:00.000Z	airtonix	unicum	/apps/nautilus/desktop

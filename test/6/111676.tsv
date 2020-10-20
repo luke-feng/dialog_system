@@ -1,0 +1,6 @@
+2006-09-24T05:16:00.000Z	aquafina		fdisk or cfdisk wont allow you to format a partition, will they?
+2006-09-24T05:16:00.000Z	aquafina		you can just create/delete partitions
+2006-09-24T05:17:00.000Z	aquafina		after that, you use the mkfs command to do it
+2006-09-24T05:17:00.000Z	vorbote	aquafina	fdisk and cfdisk will not format a partition automatically. That's left for the user to do. OTOH, parted can create a partition and format it automatically.
+2006-09-24T05:17:00.000Z	aquafina		type sudo mk<tab> and you'll see a buncha options
+2006-09-24T05:17:00.000Z	aquafina	vorbote	ok

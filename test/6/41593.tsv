@@ -1,0 +1,6 @@
+2009-10-27T20:44:00.000Z	tstebut		Hi, I'd like to reinstall gnome-manager properly, I've done apt reinstall...now is it necessary to reboot ?
+2009-10-27T20:45:00.000Z	tstebut		said that because it'snot changing on the panel...
+2009-10-27T20:45:00.000Z	tstebut		I want to reset panel
+2009-10-27T20:45:00.000Z	tstebut		ok
+2009-10-27T20:45:00.000Z	tstebut		thx
+2009-10-27T20:46:00.000Z	ZykoticK9	tstebut	quick way to reset the panels is open a terminal, type xkill then click on a panel :)

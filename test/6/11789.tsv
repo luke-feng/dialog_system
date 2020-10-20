@@ -1,0 +1,6 @@
+2011-02-26T21:28:00.000Z	the_seraphim		when i try to connect to ubuntu remote desktop nothinhg happens client end but server end i get a message saying another user is trying to view refuse/allow except im not infront of the machine to choose anyone know how to fix this?
+2011-02-26T21:29:00.000Z	sacarlson	the_seraphim	if you also have ssh access you can change that
+2011-02-26T21:30:00.000Z	the_seraphim	sacarlson	i do have ssh yes on both my android and my laptop that i use to remote view
+2011-02-26T21:32:00.000Z	the_seraphim	sacarlson	how do i change it with ssh?
+2011-02-26T21:32:00.000Z	sacarlson	the_seraphim	then you should look at http://ubuntuforums.org/showthread.php?t=1533377
+2011-02-26T21:51:00.000Z	sacarlson	the_seraphim	I found a better example in my old scripts arkive if you need to make any other changes to vnc access http://paste.ubuntu.com/572706/

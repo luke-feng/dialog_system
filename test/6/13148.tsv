@@ -1,0 +1,6 @@
+2011-07-27T18:00:00.000Z	metalf8801		Is it safe to use # in a filename? For example can I use the filename "Listener_Feedback_#116" or should I use "Listener_Feedback_116"?
+2011-07-27T18:01:00.000Z	aetas	metalf8801	thats fine, some chars require you to escape them, though
+2011-07-27T18:02:00.000Z	aetas		hrm ok how about this, can we use the AppIndicators from unity on a gnome panel since you can't use the old launcher in unity?
+2011-07-27T18:05:00.000Z	metalf8801		 aetas what does you mean by "some chars require you to escape them" ? Does that mean that using a # in a filename could sometimes cause problems?
+2011-07-27T18:06:00.000Z	aetas	metalf8801	that char you can get away with, some chars you can use in file names regardless as long as you escape them though...like spaces
+2011-07-27T18:06:00.000Z	metalf8801	aetas	oh ok thank  you

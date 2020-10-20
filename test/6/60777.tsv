@@ -1,0 +1,6 @@
+2012-03-10T23:33:00.000Z	Kaizen		how do i install minimum ubuntu, i want the smallest disk space footprint possible but with some kind of graphical desktop and browser, i tried mini.iso but the footprint is still 1.5GB
+2012-03-10T23:34:00.000Z	Kaizen		p1rate install to virtualbox hard disk
+2012-03-10T23:35:00.000Z	Kaizen		well i like ubuntu, surely there's a way to get it down to 500MB
+2012-03-10T23:37:00.000Z	Kaizen		hmm maybe if i install the server version and then just add bits in i need? i haven't tried that yet
+2012-03-10T23:37:00.000Z	Kaizen		i'll try that
+2012-03-10T23:38:00.000Z	DJones	Kaizen	server needs 1gb to install according to the requirements page

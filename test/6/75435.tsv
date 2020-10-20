@@ -1,0 +1,6 @@
+2009-01-05T01:00:00.000Z	niklaus		how do i view the memory usage of a particular process. In top there are too many process i want to watch only one
+2009-01-05T01:01:00.000Z	TwoD	niklaus	try htop, it's a bit nicer IMHO. Or if you're in gnome, use gnome-system-monitor
+2009-01-05T01:02:00.000Z	niklaus	TwoD	can we collect stats for that process over time
+2009-01-05T01:03:00.000Z	TwoD	niklaus	I doubt that.
+2009-01-05T01:04:00.000Z	niklaus	TwoD	anything you know
+2009-01-05T01:06:00.000Z	TwoD	niklaus	I think you need a special tool to monitor just a single process, or perhaps find some "filtering and logging" switches in top/htop. But I have no idea really.

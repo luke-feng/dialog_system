@@ -1,0 +1,6 @@
+2007-08-03T16:09:00.000Z	Lightenix		hello
+2007-08-03T16:10:00.000Z	Lightenix		how can i add device /dev/parport0 to some user, soo i wont need to use sudo to write to the device?
+2007-08-03T05:40:00.000Z	Lightenix		how to check where is some program installed?
+2007-08-03T05:41:00.000Z	Pici	Lightenix	which programname
+2007-08-03T05:43:00.000Z	Pici	Lightenix	Mine is located ~/.eclipse/org.eclipse.sdk.ide/updates/eclipse/plugins
+2007-08-03T05:49:00.000Z	Lightenix	Pici	hmm still the same,  i tried to move folders to /usr/lib/eclipse/plugin   and now to ~/.eclipse/blabla/plugin   and i still get this: http://file.si/viewer.php?file=1wyzjonazktinzzgutry.png  instead of this: http://tinkerlog.com/wp-content/uploads/2007/08/avrdude-config.jpg

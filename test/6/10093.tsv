@@ -1,0 +1,6 @@
+2011-04-26T03:38:00.000Z	C_Okie|Study		hi
+2011-04-26T03:39:00.000Z	C_Okie|Study		I can access one drive on ubuntu but not on win. On win it says it hads 0/0 and 0/0 used and free space as if it is unformatted? Could it not be pointing at the logical drive right?
+2011-04-26T03:39:00.000Z	C_Okie|Study		Hi ActionaParsnip
+2011-04-26T03:40:00.000Z	ActionParsnip	C_Okie|Study	what filesystem is the partition you want to access?
+2011-04-26T03:42:00.000Z	C_Okie|Study	ActionParsnip	any idea?
+2011-04-26T03:45:00.000Z	ActionParsnip	C_Okie|Study	if it is NTFS then it should be readable by windows, I suggest you chkdsk it to check it is helthy

@@ -1,0 +1,6 @@
+2005-08-08T14:24:00.000Z	Y0Z		hi, how can i install some universal font?
+2005-08-08T14:24:00.000Z	Y0Z		utf-8 fonts!
+2005-08-08T14:26:00.000Z	Y0Z		pengo__, echo nameserver DNS IP >> /etc/resolv.conf :)
+2005-08-08T14:26:00.000Z	topyli	Y0Z	most X fonts on ubuntu seem to support utf8
+2005-08-08T14:28:00.000Z	topyli	Y0Z	please don't paste those on the channel. we've all seen locales generated before
+2005-08-08T14:30:00.000Z	topyli	Y0Z	the viewer doesn't use a suitable font. which viewer are you using?

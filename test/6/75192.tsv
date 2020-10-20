@@ -1,0 +1,6 @@
+2009-05-10T07:37:00.000Z	Guiri		I'm looking for a way to authenticate multiple pages like Torrentflux and a wiki under one login. Is a CMS the way to go?
+2009-05-10T07:37:00.000Z	office	Guiri	joomla
+2009-05-10T07:38:00.000Z	office		something new..
+2009-05-10T07:39:00.000Z	Guiri	office	I'll check it out. I just want to create an authentication page for the directory, beyond which they can access all the sites.
+2009-05-10T07:39:00.000Z	office	Guiri	you cant do tha without cms
+2009-05-10T07:40:00.000Z	office	Guiri	apache - htpasswd

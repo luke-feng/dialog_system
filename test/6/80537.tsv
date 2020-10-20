@@ -1,0 +1,6 @@
+2011-06-02T15:13:00.000Z	rlc		greetings, i have just installed ubuntu on a flashdrive and set the persistent space to 512MB. i wanted to install/remove applications, but the system pops an error: cannot write to disk.
+2011-06-02T15:13:00.000Z	rlc		could i resize the persistent space?
+2011-06-02T15:13:00.000Z	rlc		or should i start a clean install with bigger space?
+2011-06-02T15:13:00.000Z	rlc		or could i just add another file and mount it?
+2011-06-02T15:14:00.000Z	wols_	rlc	if it's out of diskspace it explictily tells you so. not "cannot write to disk"
+2011-06-02T15:15:00.000Z	rlc	wols_	let me check the error msg.

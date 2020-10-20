@@ -1,0 +1,6 @@
+2008-10-08T03:57:00.000Z	KenBW2		I've seen you can get games for "linux". what do they do about installing? have a deb and rpm option?
+2008-10-08T03:58:00.000Z	Agrajag	KenBW2	if you're talking about games like Quake or UT, they generally use a graphical installer similar to the windows version
+2008-10-08T03:58:00.000Z	KenBW2	Agrajag	how would it work what with "linux" meaning not much from an application level?
+2008-10-08T03:59:00.000Z	Agrajag	KenBW2	they're usually statically-linked binaries so they run on pretty much anything with the right hardware
+2008-10-08T04:00:00.000Z	KenBW2	Agrajag	i dont really know what that means but i'll take your word for it
+2008-10-08T04:02:00.000Z	Agrajag	KenBW2	nope, it's still a linux ELF binary. You might be able to run it on something like a BSD system which has an ELF loader

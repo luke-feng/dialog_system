@@ -1,0 +1,6 @@
+2009-08-13T09:25:00.000Z	sn_1		hey do u guys kno the apt-get command to install the broadcom b43 wireless driver?
+2009-08-13T09:25:00.000Z	sn_1		when i manually do it in hardware it doesn't work
+2009-08-13T09:25:00.000Z	Jordan_U	sn_1	"sudo apt-get install b43-fwcutter"
+2009-08-13T09:26:00.000Z	Jordan_U	sn_1	Though technically it's just installing the firmware, the driver comes with ubuntu
+2009-08-13T09:27:00.000Z	Jordan_U	sn_1	np
+2009-08-13T09:30:00.000Z	Jordan_U	sn_1	Then what you probably want ( if apt-get install didn't work ) is "sudo dpkg-reconfigure b43-fwcutter"

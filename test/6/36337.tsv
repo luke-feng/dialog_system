@@ -1,0 +1,6 @@
+2010-09-14T11:30:00.000Z	hariom		Can anybody mention benefits of Jeos (Minimal Virtual machine install)?
+2010-09-14T11:31:00.000Z	rob_p	hariom	It's a minimal install. That means you can add what you need to it and you don't have to spend time trimming the stuff you don't need.
+2010-09-14T11:32:00.000Z	hariom	rob_p	ok
+2010-09-14T11:33:00.000Z	rob_p	hariom	I have a jeos vm and it works fine but I had to install quite a few things to make it do what I wanted.  A more typical install would have already included most of the things I ended up having to install.
+2010-09-14T11:34:00.000Z	hariom	rob_p	I heard that it is suited well when running on VMWare as it is made to run efficient on it
+2010-09-14T11:35:00.000Z	rob_p	hariom	Yes, it's well suited for running under vmware.

@@ -1,0 +1,6 @@
+2009-08-26T09:57:00.000Z	Bhavic		Does anyone know how to copy files as well as directorys when using "sftp and put"?
+2009-08-26T09:57:00.000Z	BioVore	Bhavic	mput? or mget?
+2009-08-26T09:58:00.000Z	BioVore	Bhavic	I just use scp normally..
+2009-08-26T09:59:00.000Z	BioVore	Bhavic	I normally use scp from the command line..  -r does rescurse copy..
+2009-08-26T10:02:00.000Z	BioVore	Bhavic	scp sourcefile user@ipaddress:/path/you/want/filename
+2009-08-26T10:02:00.000Z	BioVore	Bhavic	is close to the cp command..

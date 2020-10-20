@@ -1,0 +1,6 @@
+2005-03-04T12:38:00.000Z	thorN		Should I install telnetd on another computer to telnet it?
+2005-03-04T12:39:00.000Z	thorN		Ah I see
+2005-03-04T12:40:00.000Z	thorN		Does SSH work like telnet?
+2005-03-04T12:40:00.000Z	hawke_	thorN	Pretty much
+2005-03-04T12:43:00.000Z	hawke_	thorN	there's 'sftp' which lets you do similar things to ftp
+2005-03-04T12:43:00.000Z	hawke_	thorN	as well as 'scp'

@@ -1,0 +1,6 @@
+2009-12-09T02:51:00.000Z	kfizz		you're welcome
+2009-12-09T02:52:00.000Z	kfizz		I'm following these instructions to reinstall grub2: https://wiki.ubuntu.com/Grub2#Recover%20Grub%202%20via%20LiveCD however, when I get to "grub-install /dev/sdb" (which is the drive my boot is on) I get an error: /dev/sda5: Not found or not a block device. Why is the error referring to sda5 when I'm trying to install on sdb?
+2009-12-09T02:53:00.000Z	racecar56	kfizz	device.map
+2009-12-09T02:53:00.000Z	kfizz	racecar56	is that a command I should run?
+2009-12-09T02:54:00.000Z	racecar56	kfizz	no.
+2009-12-09T02:54:00.000Z	racecar56	kfizz	it's a file that hides somewhere

@@ -1,0 +1,6 @@
+2009-02-25T05:27:00.000Z	NonPE		 I was hoping someone could tell me why my second monitor stops functioning after connecting my new SATA card and HDD
+2009-02-25T05:27:00.000Z	TuTUXG	NonPE	probably want to reinstall/compile your video driver
+2009-02-25T05:28:00.000Z	NonPE	TuTUXG	I'll try that. Why though?
+2009-02-25T05:29:00.000Z	TuTUXG	NonPE	if you are loading some new module/harddrive, something could be wrong
+2009-02-25T05:30:00.000Z	NonPE	TuTUXG	thanks, I'll do that now
+2009-02-25T05:35:00.000Z	NonPE	TuTUXG	didn't work

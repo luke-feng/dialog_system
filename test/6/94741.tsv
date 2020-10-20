@@ -1,0 +1,6 @@
+2007-02-11T14:56:00.000Z	Vema		Can i send a password with telnet? Ex: telnet server.com 22 password="test" ?
+2007-02-11T14:57:00.000Z	LjL	Vema	no, telnet has no specific support for passwords
+2007-02-11T14:57:00.000Z	LjL	Vema	(besides, keep in mind that passwrods via telnet is not quite a good idea anyway)
+2007-02-11T14:58:00.000Z	Vema	LjL	So i have to type it in? Yes i know this, its clear text and easy sniff. But i need to send everything without user input
+2007-02-11T15:00:00.000Z	LjL	Vema	you could pipe something into telnet. like  echo mypassword | telnet blah.com  22  - i suppose it should work. or use "chat" if you need something more complicated (like, waiting for a login prompt)
+2007-02-11T15:00:00.000Z	Vema	LjL	Cool, thanks :)

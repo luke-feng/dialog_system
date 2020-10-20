@@ -1,0 +1,6 @@
+2009-11-08T01:45:00.000Z	Hald		Hi all
+2009-11-08T01:47:00.000Z	Hald		I need help. I used envyng to install ATI drivers on ubuntu 9.10. I got asked to reboot after the procedure witch I did. Now when the computer boots up I get to a flickering TTY and it hardly responds to any keys. What should I do?!? Please help
+2009-11-08T01:48:00.000Z	Jordan_U	Hald	Hold shift at boot, and when you see the grub menu choose "recovery mode". From there you can get a root shell and remove the drivers with envyng
+2009-11-08T01:48:00.000Z	Hald	Jordan_U	OK. I will try that. thanks dude
+2009-11-08T01:49:00.000Z	Jordan_U	Hald	"envyng -t" to use the text version of envyng
+2009-11-08T01:49:00.000Z	Jordan_U	Hald	np

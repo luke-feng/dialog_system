@@ -1,0 +1,6 @@
+2009-09-27T05:45:00.000Z	Leebier		hi, i have a partioning question, i am migrating over from Fedora (will do a clean install) but have a LVM setup on Fedora an would like to keep it on my Ubuntu install, formatting all the partitions fresh except one (with a bunch of media files on it), how do i do this ?
+2009-09-27T05:47:00.000Z	Leebier		ah, i think i skimmed over the difference between the two CDs, a poor choice it seems :)
+2009-09-27T05:48:00.000Z	Leebier		let me back up a sec, is there a better/easier way to keep my media "partition"?
+2009-09-27T05:48:00.000Z	chowder	Leebier	you can keep any partition as long as it doesn't have any special config files in it that might confuse Ubuntu
+2009-09-27T05:48:00.000Z	chowder	Leebier	Gparted
+2009-09-27T05:49:00.000Z	Leebier	chowder	the issue is that the ubuntu installer is seeing the entier drive as one partition

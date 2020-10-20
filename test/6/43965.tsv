@@ -1,0 +1,6 @@
+2009-01-18T03:10:00.000Z	Guest58908		new to linux (xubuntu) and i'm trying to turn off 'tap to click' for my synaptic touch pad.  i tried following some instructions on adding lines to shmconfig.fdi, but i don't have that file here.  i tried creating it and got an error message.  any ideas?
+2009-01-18T03:11:00.000Z	runderwo	Guest58908	System->Preferences->Mouse->Touchpad->Enable mouse clicks with touchpad
+2009-01-18T03:12:00.000Z	Guest58908	runderwo	i don't have that here.
+2009-01-18T03:12:00.000Z	runderwo	Guest58908	What version of ubuntu are you using?
+2009-01-18T03:13:00.000Z	Guest58908	runderwo	i did.  i didn't find a gui, afterward.
+2009-01-18T03:13:00.000Z	Guest58908	runderwo	xubuntu, latest version

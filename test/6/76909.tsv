@@ -1,0 +1,6 @@
+2007-10-29T13:17:00.000Z	gundam_rx78nt1	vmlinuz`	if you are so pro upgrade, what can I do to repair an upgrade session that failed half way through the process?
+2007-10-29T13:18:00.000Z	vmlinuz`	gundam_rx78nt1	I'm not pro. but are you trying to upgrading to gutsy from feisty with Package manager, or are you doing a fresh install from gutsy.iso filea burned CD disc?
+2007-10-29T13:19:00.000Z	vmlinuz`	gundam_rx78nt1	same problem happened to me. What are you using right now? is it feisty?
+2007-10-29T13:21:00.000Z	vmlinuz`	gundam_rx78nt1	oh IC. look! the same thing happened to me upgrading from feisty to gutsy. I had alot of problems, & so is alot of other friends of mine. I'm not pretty sure of what causing it. but there is a bug for some people upgrading from feisty to gutsy afaik. So they adviced me this (Back up your /home/username dir.) Download the newest gutsy image .iso & burn it. and do a fresh install!) <-- I did that, and I'm so happy I did :)
+2007-10-29T13:23:00.000Z	vmlinuz`	gundam_rx78nt1	You can prevent that. That why I told you to get your /home/user:) plus there is alot of new features, you might aswell change your desktop/customization.
+2007-10-29T13:25:00.000Z	vmlinuz`	gundam_rx78nt1	not really. what exactly you got in your desktop right now, will stay for your new system. the configuration are all in your home directory

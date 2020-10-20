@@ -1,0 +1,6 @@
+2006-11-25T17:57:00.000Z	stenetius		If I just go to Tty1 the X server keeps running, and the NVidia driver's installer likes that not.. How do I *quit* X?
+2006-11-25T06:36:00.000Z	stenetius		Is there still a sources.list editor?
+2006-11-25T06:37:00.000Z	trench-	stenetius	adept manager can edit it i believe
+2006-11-25T06:37:00.000Z	trench-		i've seen it done with opensource drivers, not proprietary however
+2006-11-25T06:39:00.000Z	trench-		i'm not an ati user...so i can't explain thoroughly,,,however from what i hear from people, it's either fglrx/xgl, or opensource/aiglx
+2006-11-25T06:40:00.000Z	stenetius	trench-	How do I start the "adept manager"?

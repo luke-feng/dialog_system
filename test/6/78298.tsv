@@ -1,0 +1,6 @@
+2007-10-30T08:48:00.000Z	matux		hi, i need some help,  I have upgrade to gutsy but now I cannot change my monitor display resolution , to lower than 1280*1024, Is this some kind of bug
+2007-10-30T08:49:00.000Z	danbhfive	matux	are you using an nvidia driver?
+2007-10-30T08:50:00.000Z	danbhfive	matux	i had trouble setting resolutions and refresh rates.  I reported it, and was told that the nvidia driver has some bugs in it.
+2007-10-30T08:50:00.000Z	danbhfive	matux	and i forgot, im using nvidia driver also, so maybe you have a similar problem
+2007-10-30T08:51:00.000Z	danbhfive	matux	well, i can change the resolution, i just have trouble changing the refresh rate
+2007-10-30T08:52:00.000Z	danbhfive	matux	i dont know

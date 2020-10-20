@@ -1,0 +1,6 @@
+2007-05-11T13:28:00.000Z	Kevin		I recently tried to install the official nVidia drivers in ubuntu. Once installed, I was unable to boot the X server (at least using the official drivers). I can get X to boot using the "nv" driver, but that driver doesn't support OpenGL.
+2007-05-11T13:28:00.000Z	Kevin		i need help :/
+2007-05-11T13:29:00.000Z	Azzkikr	Kevin	state your question, and someone might be able to help you
+2007-05-11T13:29:00.000Z	Kevin	Azzkikr	I already did
+2007-05-11T13:30:00.000Z	Kevin		I recently tried to install the official nVidia drivers in ubuntu. Once installed, I was unable to boot the X server (at least using the official drivers). I can get X to boot using the "nv" driver, but that driver doesn't support OpenGL.
+2007-05-11T13:30:00.000Z	Azzkikr	Kevin	oh oops, my bad

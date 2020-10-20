@@ -1,0 +1,6 @@
+2006-10-19T15:02:00.000Z	BoyBach		can anyone help, I have set-up a share on my windows machine on the network how do I connect to it ??
+2006-10-19T15:04:00.000Z	Daviey	BoyBach	what happens when you go to Places -> Network Servers?
+2006-10-19T15:07:00.000Z	Daviey	BoyBach	Your using Ubuntu with Gnome right?  If you click Places then go to Network Servers does it come up empty?
+2006-10-19T15:07:00.000Z	Daviey	BoyBach	I don't understand what you mean
+2006-10-19T15:08:00.000Z	Daviey	BoyBach	is it showing your share?
+2006-10-19T15:08:00.000Z	Daviey	BoyBach	from there you should be able to mount it (if you want)

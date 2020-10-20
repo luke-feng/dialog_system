@@ -1,0 +1,6 @@
+2012-04-28T21:36:00.000Z	gbar14275		hello, I just installed 12.04 and name my computer wrong.  I tried changing the hostname but the "device name" under the details tab in system settings doesn't seem to be changing.  Anyone know how to change the "device name"
+2012-04-28T21:37:00.000Z	zykotick9	gbar14275	careful changing your computer name!!!
+2012-04-28T21:40:00.000Z	gbar14275	zykotick9	Thanks for the heads up.  Just changed the /etc/hosts file as well as the /etc/hostname file.  I have a feeling though that ubuntu applications are using this "device name" setting.   Any idea how to change this?
+2012-04-28T21:41:00.000Z	zykotick9	gbar14275	no clue sorry (i'm not even sure what that is)
+2012-04-28T21:42:00.000Z	gbar14275	zykotick9	if you go to your system settings --> details option... it will show up
+2012-04-28T21:44:00.000Z	zykotick9	gbar14275	i don't see a System Settings or Details?  i'm using fallback, not unity... perhaps that or other factors with my mini-install are affecting this... sorry.

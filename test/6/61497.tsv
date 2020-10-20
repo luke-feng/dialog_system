@@ -1,0 +1,6 @@
+2008-08-06T13:34:00.000Z	spinull1		i need to know how to get my nm-applet back on the gnome panel
+2008-08-06T13:35:00.000Z	spinull1		someone help plz
+2008-08-06T13:36:00.000Z	DistroJockey	spinull1	Right-click a panel, choose  Add to panel...  then select  Network Monitor  and click Add
+2008-08-06T13:36:00.000Z	DistroJockey	spinull1	yep, sorru
+2008-08-06T13:40:00.000Z	DistroJockey	spinull1	in my Sessions - Startup Programs I have   nm-applet --sm-disable   as the default Network Manager applet
+2008-08-06T13:41:00.000Z	DistroJockey	spinull1	you're welcome

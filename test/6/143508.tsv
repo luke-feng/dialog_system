@@ -1,0 +1,6 @@
+2007-01-23T15:40:00.000Z	aLeSD		hi all
+2007-01-23T15:41:00.000Z	aLeSD		how could I add or remove services from a runlevel ?
+2007-01-23T15:41:00.000Z	aLeSD		Do I have to remove the symlink or ubuntu has some scripts to do it automatically ?
+2007-01-23T15:42:00.000Z	mwe	aLeSD	or use rcconf or bum
+2007-01-23T15:42:00.000Z	mwe	aLeSD	that will make it easy to add it again
+2007-01-23T15:43:00.000Z	mwe	aLeSD	right

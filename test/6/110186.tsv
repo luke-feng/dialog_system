@@ -1,0 +1,6 @@
+2006-08-12T10:48:00.000Z	mrproper		If X hardware acceleration isn't enabled, is there a command I can run to have it enabled?  It should be running.
+2006-08-12T10:49:00.000Z	longwave	mrproper	follow the driver installation guide for your graphuics
+2006-08-12T10:50:00.000Z	mrproper	longwave	The thing is, I had it running fine last night.
+2006-08-12T10:50:00.000Z	longwave	mrproper	does the X log show any errors?
+2006-08-12T10:51:00.000Z	mrproper	longwave	Not that I"m seeing.
+2006-08-12T10:53:00.000Z	mrproper	longwave	It was working last night.  Today it's not when I start to load it.

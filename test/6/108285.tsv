@@ -1,0 +1,6 @@
+2007-04-29T06:21:00.000Z	ireverentReveren		what is the name of kernel packages in apt? for some reason "apt-cache search kernel-image" is not returning a list of kernels, only some random source packages. do i need to add a repository or something to upgrade my freaking kernel?
+2007-04-29T06:21:00.000Z	ireverentReveren		linux-image, thanks
+2007-04-29T06:21:00.000Z	ireverentReveren		got to love the random name changes they make in apt
+2007-04-29T06:23:00.000Z	ireverentReveren		i just switched from debian, and it is random crap liek this that make the switch annoying
+2007-04-29T06:23:00.000Z	kbrooks	ireverentReveren	what random crap
+2007-04-29T06:23:00.000Z	ireverentReveren	kbrooks	random renaming of packages

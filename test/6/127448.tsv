@@ -1,0 +1,6 @@
+2010-05-23T18:29:00.000Z	imgarysmith		how to do navigate to a specific file in the terminal?
+2010-05-23T18:29:00.000Z	IdleOne	imgarysmith	cd /path/to/file
+2010-05-23T18:32:00.000Z	IdleOne	imgarysmith	what file you looking for?
+2010-05-23T18:34:00.000Z	IdleOne	imgarysmith	sudo apt-get install gdeskets
+2010-05-23T18:34:00.000Z	IdleOne	imgarysmith	locate gdesklets.deb
+2010-05-23T18:35:00.000Z	IdleOne	imgarysmith	it should be in ~/Downloads

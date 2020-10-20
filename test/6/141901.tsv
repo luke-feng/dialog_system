@@ -1,0 +1,6 @@
+2005-09-09T07:40:00.000Z	planetcall		i used the live CD provided for ubuntu......it was satisfying except that the grahics didnt go beyond 800*600
+2005-09-09T07:40:00.000Z	planetcall		is it normal for live CD ? .......btw i am using Intel865
+2005-09-09T07:42:00.000Z	planetcall		k but since it is all packed in just 1 CD so there wont be much applications to be installed.......i havent tried my hand on the cd as yet
+2005-09-09T07:43:00.000Z	planetcall		will it be possible to see ntfs drives on ubuntu ?
+2005-09-09T07:45:00.000Z	planetcall		is there support for reading  NTFS on ubuntu 
+2005-09-09T07:46:00.000Z	Mobus	planetcall	mount -o uid=USERNAME /dev/hda1 /mnt

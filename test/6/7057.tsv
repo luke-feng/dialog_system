@@ -1,0 +1,6 @@
+2011-08-13T23:18:00.000Z	galamar1		How can I make a new user with a CLI? So I can lose this root factor from my name. and join the channel I need.
+2011-08-13T23:19:00.000Z	theadmin	galamar1	useradd
+2011-08-13T23:19:00.000Z	theadmin	galamar1	useradd <username here>
+2011-08-13T23:19:00.000Z	theadmin	galamar1	Basically so.
+2011-08-13T23:21:00.000Z	galamar1	theadmin	ok this livecd won't let me switch to the newly created user any ideas?
+2011-08-13T23:33:00.000Z	theadmin	galamar1	I could try, depending on your question.

@@ -1,0 +1,6 @@
+2012-05-20T19:11:00.000Z	MestreLion		good for you Dr_Willis.... But I still would like mine to work bug-free. Does anyone have any experience in Software CEnter settings and troubleshooting?
+2012-05-20T19:12:00.000Z	Sidewinder	MestreLion	You might prefer Synaptic instead of Software Center; it's (Synaptic) in the repos.
+2012-05-20T19:15:00.000Z	MestreLion	Sidewinder	 i'm an ubuntu user since Karmic... synaptic is great if I want an in-depth tech details on a given package.... but I still would like Software Center to work properly, specially regarding SSO
+2012-05-20T19:19:00.000Z	Sidewinder	MestreLion	I totally understand; my use of SC is not that extensive so I don't have a definitive answer for you, sorry. Synaptic has always met my needs so I am much more familiar with it. Please keep in mind that both Synaptic and Software Center are merely gui front ends for apt-get
+2012-05-20T19:23:00.000Z	MestreLion	Sidewinder	I'm aware of that. And I think that nowadays Synaptics is a little lost... newbies prefer SC, and it's great because of the reviews (if you don't know *what* you want, you search for it). Skilled users go Aptitude or apt-get. So Synaptics use-case now is a bit weak
+2012-05-20T19:24:00.000Z	Sidewinder	MestreLion	As you so accurately stated earlier, it's all about choices. :)

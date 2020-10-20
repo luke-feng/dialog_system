@@ -1,0 +1,6 @@
+2007-05-26T12:19:00.000Z	Kjellviz		hi
+2007-05-26T12:20:00.000Z	Kjellviz		can someone tell me the easiest way to make a backup copy of xorg.conf, and how to restore it if needed
+2007-05-26T12:20:00.000Z	crashsystems	Kjellviz	"cp /etc/X11/xorg.conf /etc/X11/xorg.conf.bak"
+2007-05-26T12:20:00.000Z	Kjellviz	crashsystems	thanks! =)
+2007-05-26T12:21:00.000Z	crashsystems	Kjellviz	"rm /etc/X11/xorg.conf && mv /etc/X11/xorg.conf.bak /etc/X11/xorg.conf"
+2007-05-26T12:23:00.000Z	Kjellviz	crashsystems	thanks again =)

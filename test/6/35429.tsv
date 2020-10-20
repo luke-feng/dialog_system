@@ -1,0 +1,6 @@
+2009-11-03T09:27:00.000Z	bostongeek24		somehow the update manager has disappeared from my system i can no longer see the icon listed under system
+2009-11-03T09:28:00.000Z	bostongeek24		hello???
+2009-11-03T09:28:00.000Z	bostongeek24		can i get some help??
+2009-11-03T09:30:00.000Z	bostongeek24		somehow the update manger has dissapperd from my system the list is no longer listed
+2009-11-03T09:30:00.000Z	om26er	bostongeek24	sudo apt-get instaal update-manager
+2009-11-03T09:31:00.000Z	om26er	bostongeek24	if already installed go to main menu in appearances and see

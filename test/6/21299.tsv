@@ -1,0 +1,6 @@
+2010-06-08T16:26:00.000Z	azlon		i want to connect 2 machines together to take advantage of their gigabit NICs since my switch is only 10/100. if i make a crossover cable and plug it in to each machine, will they just recognize each other and i can start transferring files?
+2010-06-08T16:26:00.000Z	wildbat_laptop	azlon	you need to setup a manual ip connection
+2010-06-08T16:27:00.000Z	azlon	wildbat_laptop	ok, so give each machine a static IP, then i can start transferring files?
+2010-06-08T16:27:00.000Z	wildbat_laptop	azlon	kinda ~ with ssh or ftp or nfs etc...
+2010-06-08T16:28:00.000Z	azlon	wildbat_laptop	awesome, thanks
+2010-06-08T16:48:00.000Z	azlon	wildbat_laptop	i created a crossover cable and assigned static IPs for each machine. the transfer is still going at 10Mps. any ideas?

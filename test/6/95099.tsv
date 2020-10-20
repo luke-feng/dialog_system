@@ -1,0 +1,6 @@
+2007-09-08T15:33:00.000Z	rathel		How would I be able to disable/enable the screensaver on mplayer start/close in a script?
+2007-09-08T15:34:00.000Z	stdin	rathel	mplayer can take a -stop-xscreensaver option to do that
+2007-09-08T15:35:00.000Z	rathel	stdin	really? I didn't see that. Ima go look for the option thanks for the tip.
+2007-09-08T15:37:00.000Z	rathel	stdin	would that work with gnome-screensaver?
+2007-09-08T15:37:00.000Z	stdin	rathel	should do, if it respects the xscreensaver settings
+2007-09-08T15:38:00.000Z	rathel	stdin	Cool, thanks I'll try that out next time I watch video.

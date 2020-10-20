@@ -1,0 +1,6 @@
+2005-11-24T09:25:00.000Z	selinium	orbx_	Did you set the root password?
+2005-11-24T09:25:00.000Z	orbx_	selinium	, Pallelap > all i have done is installed mysql, to get a user account working what do i have to do?
+2005-11-24T09:27:00.000Z	selinium	orbx_	i told you yesterday! :)   mysqladmin -u root password "newpwd"
+2005-11-24T09:28:00.000Z	orbx_	selinium	> it didn't work
+2005-11-24T09:28:00.000Z	selinium	orbx_	PM?
+2005-11-24T09:29:00.000Z	orbx_	selinium	> #orbx

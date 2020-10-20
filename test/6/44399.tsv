@@ -1,0 +1,6 @@
+2009-07-24T10:29:00.000Z	PROject-Emerald		how do I uninstall stuff? D:
+2009-07-24T10:29:00.000Z	PROject-Emerald		like, VirtualBox
+2009-07-24T10:30:00.000Z	PROject-Emerald		it was installed via a .dev
+2009-07-24T10:30:00.000Z	PROject-Emerald		.deb*
+2009-07-24T10:30:00.000Z	PROject-Emerald		OSE
+2009-07-24T10:30:00.000Z	alex87	PROject-Emerald	dpkg -r packagename?

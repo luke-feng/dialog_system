@@ -1,0 +1,6 @@
+2007-04-19T10:23:00.000Z	digitalspaghetti		can anyone help???? i've only got 2.8MB of free space, from 9GB this morning and my /tmp dir is empty.  PLEASE HELP ME!!!
+2007-04-19T10:23:00.000Z	PriceChild	digitalspaghetti	sudo apt-get clean
+2007-04-19T10:24:00.000Z	digitalspaghetti	PriceChild	It's nto an apt-get problem, i think it was tovid that cause it
+2007-04-19T10:24:00.000Z	PriceChild	digitalspaghetti	that command will free some space
+2007-09-27T09:59:00.000Z	PriceChild	digitalspaghetti	ubuntu is frozen for release
+2007-09-27T09:59:00.000Z	PriceChild	digitalspaghetti	only critical bug fixes and security updates get applied to stable releases.

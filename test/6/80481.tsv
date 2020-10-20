@@ -1,0 +1,6 @@
+2008-02-01T19:29:00.000Z	MythbuntuGuest50		hello i have a problem. i have a ato 7000 ve graphiccard and i have the normaly ato driver, but when i connect a tv i see only the boot logo and when load xorg the tv is blank
+2008-02-01T19:30:00.000Z	MythbuntuGuest50		xrandr found s-video connection, 800x600 59,9 + 60,3 hz. it this not to high? i think only 50hz work with a tv, i think
+2008-02-01T19:30:00.000Z	MythbuntuGuest50		and when i xrandr --output S-video --mode 800x600 --rate 50 it not work, the tv flickers
+2008-02-01T19:31:00.000Z	MythbuntuGuest50		have sombody an idear its realy importent for me....
+2008-02-01T19:32:00.000Z	pepperjack	MythbuntuGuest50	youre not talking about a regular analogue tv right?
+2008-02-01T19:34:00.000Z	pepperjack	MythbuntuGuest50	try /join #mythtv-users  perhaps

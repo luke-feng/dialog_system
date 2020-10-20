@@ -1,0 +1,6 @@
+2009-12-25T22:46:00.000Z	mori_		do i need to sudo gparted
+2009-12-25T22:47:00.000Z	bastid_raZor	mori_	you are not able to make changes to partitions while they are mounted
+2009-12-25T22:47:00.000Z	mori_	bastid_raZor	umount -a
+2009-12-25T22:48:00.000Z	bastid_raZor	mori_	if you're using the partition for your OS .. that you are on now. it is impossible to umount a working partition
+2009-12-25T22:48:00.000Z	bastid_raZor	mori_	my bad, i didn't see that part.
+2009-12-25T22:48:00.000Z	mori_	bastid_raZor	all good

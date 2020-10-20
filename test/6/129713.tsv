@@ -1,0 +1,6 @@
+2006-03-03T17:31:00.000Z	spikebike		anyone here installed mplayer into a chroot on an amd64 system?
+2006-03-03T07:08:00.000Z	spikebike		has any amd64 users built mplayer ina 32bit chroot?
+2006-03-03T07:08:00.000Z	biovore	spikebike	I built mplayer for 64bit from source
+2006-03-03T07:10:00.000Z	spikebike	biovore	how?
+2006-03-03T09:43:00.000Z	spikebike	biovore	thats default in 2.6
+2006-03-03T09:44:00.000Z	biovore	spikebike	default on ubuntus kernel, yes..

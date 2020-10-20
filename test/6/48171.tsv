@@ -1,0 +1,6 @@
+2008-11-07T23:25:00.000Z	erUSUL	PeskyJ	but if the cdrom works in that other OS it may be a kernel bug. if that's th case you may want to try installing hardy instead of intrepid and upgrade
+2008-11-07T23:25:00.000Z	PeskyJ	erUSUL	does that mean the sr0 device is the ramfs device?
+2008-11-07T23:26:00.000Z	erUSUL	PeskyJ	no as i said /dev/sr0 is the cdrom drive (modern kernels see all ide sata usb etc as scsi drives hence the device name)
+2008-11-07T23:26:00.000Z	PeskyJ	erUSUL	ahh ok.
+2008-11-07T23:27:00.000Z	PeskyJ	erUSUL	I guess I'll have to try a different OS to see if it's a kernel/driver issue... I could try knoppix
+2008-11-07T23:27:00.000Z	erUSUL	PeskyJ	yep or another ubuntu version

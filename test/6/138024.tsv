@@ -1,0 +1,6 @@
+2010-01-02T14:37:00.000Z	RSMITH16384		!test
+2010-01-02T14:38:00.000Z	RSMITH16384		cool
+2010-01-02T14:38:00.000Z	RSMITH16384		making a bot net?
+2010-01-02T14:39:00.000Z	RSMITH16384		can apt-get remove things not installed with apt-get?
+2010-01-02T14:39:00.000Z	Flannel	RSMITH16384	You can use any apt/dpkg frontend to remove anything installed with an apt/dpkg frontend
+2010-01-02T14:40:00.000Z	Flannel	RSMITH16384	No, apt doesn't know anything about those files

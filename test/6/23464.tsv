@@ -1,0 +1,6 @@
+2010-08-17T12:45:00.000Z	Kangarooo		hello whats the name of programm that every 20-30 comp startups makes filesystem check?
+2010-08-17T12:46:00.000Z	robertwall	Kangarooo	fsck
+2010-08-17T12:47:00.000Z	Kangarooo	robertwall	can u tell me also package name? tryd finding using whereis fsck didnt helped
+2010-08-17T12:48:00.000Z	robertwall	Kangarooo	Depends on the filesystem you're using. What are you trying to do that's prompting these questions?
+2010-08-17T12:49:00.000Z	Kangarooo	robertwall	i want to post bug report about programm that runs on every20-30 startup checking filesystem i have ext4
+2010-08-17T12:49:00.000Z	robertwall	Kangarooo	e2fsprogs

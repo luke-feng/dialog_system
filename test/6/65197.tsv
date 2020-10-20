@@ -1,0 +1,6 @@
+2009-02-26T12:25:00.000Z	dagi		hi
+2009-02-26T12:26:00.000Z	dagi		how to install safari browser
+2009-02-26T12:26:00.000Z	dagi		anybody help me
+2009-02-26T12:26:00.000Z	dagi		how to install safari browser
+2009-02-26T12:28:00.000Z	rww	dagi	Apple doesn't provide a native version of Safari for Linux. You could try installing the Windows version through WINE ( http://appdb.winehq.org/objectManager.php?sClass=application&iId=5293 ) or use one of the Linux browsers that uses webkit (like Epiphany Webkit) if you just need Safari to test websites against webkit.
+2009-02-26T12:30:00.000Z	rww	dagi	check out those then ^^

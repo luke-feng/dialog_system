@@ -1,0 +1,6 @@
+2007-06-30T15:30:00.000Z	TexasTaz		their not there I meant
+2007-06-30T15:32:00.000Z	TexasTaz		Yo uwant it on globally not per site
+2007-06-30T15:33:00.000Z	TexasTaz		You will have to restart apache via /etc/init.d/httpd restart
+2007-06-30T15:34:00.000Z	TexasTaz		if you are using ssl you will need to do this /etc/init.d/httpd startssl I think it is hold on dang it
+2007-06-30T15:34:00.000Z	TexasTaz		Yeah that's it
+2007-06-30T15:35:00.000Z	AlexC_	TexasTaz	don't you set the handlers up in Apache for PHP, and not in /etc/mime.types

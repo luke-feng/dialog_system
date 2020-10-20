@@ -1,0 +1,6 @@
+2006-07-13T10:47:00.000Z	noonex		how do you use apt-get to install a specific version of a package?
+2006-07-13T10:47:00.000Z	richard_	noonex	:version
+2006-07-13T10:48:00.000Z	richard_	noonex	apt-get install foo:version
+2006-07-13T10:52:00.000Z	noonex	richard_	 thank you!
+2006-07-13T10:52:00.000Z	richard_	noonex	No problem
+2006-07-13T10:53:00.000Z	richard_	noonex	I learned that from the man page ;-)

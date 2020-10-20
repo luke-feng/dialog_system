@@ -1,0 +1,6 @@
+2010-08-31T17:02:00.000Z	linuxmachine		What parameters/options should I give to apt-get in order to get it to download ALL the dependencies of a given packet (not just the dependencies missing in my system but ALL of them, regardless of whether or not they are already installed in my system)? Moreover, if it could be configured so that it gets not only the 1st level deps but also all the deps up to the 3rd level or so all the better it would be
+2010-08-31T17:02:00.000Z	erUSUL	linuxmachine	what are you trying to do ?
+2010-08-31T17:03:00.000Z	erUSUL	linuxmachine	build the package ? apt-get build-dep
+2010-08-31T17:03:00.000Z	linuxmachine	erUSUL	I don't want the dependencies needed for compilation, but just the dependencies needed for installation
+2010-08-31T17:05:00.000Z	linuxmachine	erUSUL	if you go to packages.ubuntu.com, and select a packet, there all the dependencies for that packet are stated, I want apt-get to download all of those dependencies for me, without getting involved in whether or not they are installed in my system. So one thing that I would probably have to do is that of finding a way to make apt-get not care about what's installed in my system
+2010-08-31T17:06:00.000Z	erUSUL	linuxmachine	dunno sorry

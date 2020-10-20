@@ -1,0 +1,6 @@
+2005-04-22T16:19:00.000Z	ZyV		hi everyone !!
+2005-04-22T16:21:00.000Z	ZyV		i'm trying to install ubuntu with usb keyboard 'n' mouse ('cause my ps/2 ports are out of order) but i get errors during booting the install wizard, did anybody tried it ???
+2005-04-22T16:22:00.000Z	ZyV		well SeamusLP, but i.e. while booting you get the grub saying: "Press F1 for help, ENTER to continue"
+2005-04-22T16:22:00.000Z	ZyV		i can't press ENTER !!
+2005-04-22T16:23:00.000Z	saik0	ZyV	using a usb keyboard?
+2005-04-22T16:23:00.000Z	saik0	ZyV	enable usb legacy for keyboards in your BIOS

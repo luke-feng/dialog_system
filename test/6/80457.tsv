@@ -1,0 +1,6 @@
+2008-06-01T05:13:00.000Z	Jack_Sparrow	mythomaniac	Firestarter does not need to start to be working. It only configures the tables.. unless you are using it to share a connection, in which case you can add it to the startup
+2008-06-01T05:13:00.000Z	Jack_Sparrow		ext2fs
+2008-06-01T05:14:00.000Z	Jack_Sparrow		Terabyte YEa
+2008-06-01T05:15:00.000Z	Jack_Sparrow		Ok.. I am out of answers, I will come back when I think of more..
+2008-06-01T05:15:00.000Z	Jack_Sparrow		bbl
+2008-06-01T05:16:00.000Z	mythomaniac	Jack_Sparrow	correct, however, i seem to have a problem with getting sudoer's file syntax down to allow it to startup after a boot, for example <username> ALL=NOPASSWD:/usr/sbin/firestarter does not work, also adding <username> ALL=(ALL) ALL does not resolve the issue...

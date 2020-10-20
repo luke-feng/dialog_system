@@ -1,0 +1,6 @@
+2009-02-08T23:56:00.000Z	Artelus		Hey
+2009-02-08T23:57:00.000Z	Artelus		what's the best way to shrink the windows partition and create a new partition?
+2009-02-08T23:58:00.000Z	Artelus		What's the safest way to shrink the windows partition and make another one for linux?
+2009-02-08T23:59:00.000Z	Artelus		Will it be safe to use?
+2009-02-09T00:00:00.000Z	IntuitiveNipple	Artelus	If the NTFS partition has Vista in it, Windows disk-management allows you to shrink the file-system inside a partition whilst it is running. Then the partition can be shrunk to fit that from gparted or similar
+2009-02-09T00:01:00.000Z	IntuitiveNipple	Artelus	Use Windows disk management then... in disk management select the file-system and right-click... there is an option to resize

@@ -1,0 +1,6 @@
+2005-03-22T10:33:00.000Z	curator		What could I have screwed up that makes partitions show in cfdisk but not in /proc/partitions or under devfs?  This is driving me crazy.
+2005-03-22T10:35:00.000Z	lunitik	curator	for one.... Ubuntu doesn't use devfs (udeb/sysfs) ...
+2005-03-22T10:36:00.000Z	lunitik	curator	as for your /proc/partitions... no idea..
+2005-03-22T10:36:00.000Z	curator	lunitik	Okay, I'm totally new and have no clue what I'm doing.  :)  Why might partitions that show up in cfdisk and the installer not show up in proc/partitions or for doing mke2fs?  Thanks for the help.
+2005-03-22T10:37:00.000Z	lunitik	curator	you're having issues related to harddrive? or just confused why its not showing in /proc/partitions?
+2005-03-22T10:38:00.000Z	curator	lunitik	trying to install, when I get to the partitioning/format stage, formatting fails because it can't find /dev/.../part2, which in fact doesn't exist.

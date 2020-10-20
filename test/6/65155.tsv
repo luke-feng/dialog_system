@@ -1,0 +1,6 @@
+2008-12-10T03:02:00.000Z	keres_		every time i try to move a file/folder in /home/keres/games/ it always says permission denied.
+2008-12-10T03:02:00.000Z	keres_		why is this?
+2008-12-10T03:02:00.000Z	keres_		every time i try to move a file/folder in /home/keres/games/ it always says permission denied.
+2008-12-10T03:02:00.000Z	keres_		why is this?
+2008-12-10T03:02:00.000Z	rww	keres_	probably that directory isn't owned by you. Try sudo chown -R keres:keres /home/keres/games/
+2008-12-10T03:03:00.000Z	rww	keres_	explanation: sudo makes the command run with administrator privilages, chown CHanges OWNer, -R does it for all directories in the place you specify, keres:keres is the user:group to change it to

@@ -1,0 +1,6 @@
+2008-02-17T18:33:00.000Z	camilla		Am writing a bash script and need some help. I don't know what I should write so my bash script can handle spaces in paths. I have this code http://paste.ubuntu-nl.org/56355/ that works if no spaces exist in the path. Please help me solve this problem.
+2008-02-17T18:34:00.000Z	Muelli	camilla	without lookgin at the code: Use quotes. like mkdir "$1"
+2008-02-17T18:34:00.000Z	camilla	Muelli	Then you need to look at the code :)
+2008-02-17T18:35:00.000Z	Muelli	camilla	if you can, use find itself. It has a execution parameter which execute a given program with the just found filename as a parameter.
+2008-02-17T18:36:00.000Z	camilla	Muelli	Yes, I have done this before. But I know want to expand my script and have the find command inside my script. I have this "spaces" problem in other parts of my scripts as well
+2008-02-17T18:37:00.000Z	Muelli	camilla	how about: for file in $(find "$1" -iname '*.sfv'); do echo "$1"; done ?

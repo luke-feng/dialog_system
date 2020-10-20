@@ -1,0 +1,6 @@
+2009-02-22T00:40:00.000Z	amathis		hello, I just installed the MS fonts package, and I need to access them using gimp.. how can I do this?
+2009-02-22T00:40:00.000Z	rapha	amathis	They should already be available.
+2009-02-22T00:41:00.000Z	amathis	rapha	well, I am trying to use 'Helvecta' in gimp.. and I refersh the fonts but I canot find it
+2009-02-22T00:41:00.000Z	rapha	amathis	did you restart GIMP after installing msttcorefonts?
+2009-02-22T00:41:00.000Z	amathis	rapha	yeah, and I tried refreshing the fonts in the gimp window as well..
+2009-02-22T00:42:00.000Z	rapha	amathis	Sorry, no idea then. Maybe the folks in irc.gimp.net#gimp can be of further help...?

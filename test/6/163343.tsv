@@ -1,0 +1,6 @@
+2005-11-15T06:14:00.000Z	yi		the offending line was "Listen ip:port"
+2005-11-15T06:14:00.000Z	yi		i needed to change it to "Port port"
+2005-11-15T06:14:00.000Z	yi		that way it listened on all the interfaces
+2005-11-15T06:15:00.000Z	yi		is anyone aware of firefox 1.5RC1 builds for ubuntu amd64?
+2005-11-15T06:16:00.000Z	bob2_	yi	packages.ubuntu.com/firefox
+2005-11-15T06:16:00.000Z	bob2_	yi	if not, does mozilla have tarballs?

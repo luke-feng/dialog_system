@@ -1,0 +1,6 @@
+2006-08-30T10:24:00.000Z	Slayer20003		can anyone help a noob? hehe
+2006-08-30T10:24:00.000Z	Slayer20003		hah
+2006-08-30T10:25:00.000Z	Slayer20003		just threw ubuntu on an old rig, and this is my first deal with Linux......I'm trying to run Folding@Home on this rig, and the dl from their site for linux was an EXE file....how do i run this in ubuntu?
+2006-08-30T10:27:00.000Z	ladydoor	Slayer20003	if it's a windowz .exe, you'll need wine...otherwise, you can do it in a terminal (if it's executable) with ./filename.exe
+2006-08-30T10:28:00.000Z	Slayer20003	ladydoor	i tried that, and their site mentiones using chmod -x then the file name, and THEN running ./filename.exe, but nothing happens
+2006-08-30T10:28:00.000Z	ladydoor	Slayer20003	ok...you might well need wine, because they're just trying to pawn off w windowz binary on you.

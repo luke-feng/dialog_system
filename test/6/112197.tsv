@@ -1,0 +1,6 @@
+2006-06-27T08:47:00.000Z	n08l3v1rk		hello everybody
+2006-06-27T08:47:00.000Z	n08l3v1rk		is there any way to upgrade from ubuntu 5.04 to 6.06
+2006-06-27T08:48:00.000Z	n08l3v1rk		bruenig:no go
+2006-06-27T08:49:00.000Z	n08l3v1rk		it says 0 upgraded 0 newly installed 0 to remove and 0 not upgraded
+2006-06-27T08:50:00.000Z	n08l3v1rk		hmm.. how to update the sources in sources.list
+2006-06-27T08:50:00.000Z	userundefine	n08l3v1rk	in a terminal, type "sudo gedit /etc/apt/sources.list" - no quotes

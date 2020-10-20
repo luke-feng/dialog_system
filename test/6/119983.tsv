@@ -1,0 +1,6 @@
+2006-09-18T07:56:00.000Z	kupesoft		Can I install .deb files for Dapper (ie php5.1.2) on Breezy?
+2006-09-18T07:58:00.000Z	kupesoft		Can I install .deb files for Dapper (ie php5.1.2) on Breezy?
+2006-09-18T07:58:00.000Z	erUSUL	kupesoft	not recomended just switch to dapper if you need them
+2007-07-12T11:45:00.000Z	erUSUL	kupesoft	your .bashrc or .bash_profile files
+2007-07-12T11:45:00.000Z	kupesoft	erUSUL	What about system-wide?
+2007-07-12T11:46:00.000Z	erUSUL	kupesoft	system wide? each user (process) has her umask no system wide umask

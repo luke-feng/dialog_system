@@ -1,0 +1,6 @@
+2010-10-03T23:06:00.000Z	MarkSS		How do I show and install updates from command line?
+2010-10-03T23:07:00.000Z	ZykoticK9	MarkSS	"sudo apt-get update" then "sudo apt-get upgrade" or "sudo aptitude safe-upgrade"
+2010-10-03T23:07:00.000Z	ZykoticK9	MarkSS	apt-get upgrade will NOT install new packages, aptitude safe does
+2010-11-18T23:08:00.000Z	ZykoticK9	MarkSS	the lock says you  can't write to it (i believe)
+2010-11-18T23:09:00.000Z	ZykoticK9	MarkSS	in a terminal, "sudo chown YOURUSERNAME:YOURUSENAME FolderName"
+2010-12-18T07:43:00.000Z	ZykoticK9	MarkSS	you probably don't!  but from a terminal run "apt-cache search rootkit" and see some root kit scan tools in the default install.  best of luck.  it's highly unlikely you would get something remotely (but not impossible)

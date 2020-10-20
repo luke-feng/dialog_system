@@ -1,0 +1,6 @@
+2008-09-17T09:51:00.000Z	rob__		pidgin randomly crashes, is there a fix for this at all?
+2008-09-17T09:52:00.000Z	gord_	rob__	Depending on what is causing the crash, most likely there is
+2008-09-17T09:52:00.000Z	rob__	gord_	where can I find the source of it?
+2008-09-17T09:53:00.000Z	gord_	rob__	you can try running an strace on it, have it pipe its output to a file for later viewing and find the critical errors causing the crash
+2008-09-17T09:53:00.000Z	rob__		how do i run a strace?
+2008-09-17T09:53:00.000Z	gord_	rob__	"strace pidgin 2> errortrack.txt" , or something like that

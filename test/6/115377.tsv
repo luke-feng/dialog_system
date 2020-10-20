@@ -1,0 +1,6 @@
+2006-08-06T10:45:00.000Z	Geoffrey2		in general, is there any real advantage to using the i686 kernel?
+2006-08-06T10:46:00.000Z	AAA	Geoffrey2	 if you have a PII or ++
+2006-08-06T10:47:00.000Z	Geoffrey2	AAA	I have a laptop with a Celeron M Processor
+2006-08-06T10:47:00.000Z	AAA	Geoffrey2	 686
+2006-08-06T10:53:00.000Z	Geoffrey2	AAA	in Synaptic, what do I need to select to install the 686 kernel?
+2006-08-06T10:54:00.000Z	AAA	Geoffrey2	 I don't use Synapitc, but you want to install the kernel-image-`uname -r`-686 package (or something close to that)

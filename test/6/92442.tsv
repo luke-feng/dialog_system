@@ -1,0 +1,6 @@
+2008-08-24T15:07:00.000Z	l3d		ok I am trying to play diablo 2  but everything looks ok till the game menu when it should start it says input signle out of range any ideas on how to fix?
+2008-08-24T15:08:00.000Z	l3d		wine
+2008-08-24T15:09:00.000Z	Oli``	l3d	run it in a virtual desktop
+2008-08-24T15:09:00.000Z	Oli``	l3d	wine explorer /desktop=Diablo2,1880x1100 "C:\Diablo II\Diablo II.exe"
+2008-08-24T15:09:00.000Z	Oli``	l3d	but change the resolution of the desktop to something your screens can handle, obviously
+2008-08-24T15:13:00.000Z	Oli``	l3d	I use compiz to zoom in once it's loaded. And remember you'll want to turn off compiz's move plugin otherwise when you press alt (to see loot) you'll end up moving the screen

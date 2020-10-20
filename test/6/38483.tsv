@@ -1,0 +1,6 @@
+2009-08-19T15:52:00.000Z	homebrewcider		halfway through printing jobs, my printer stops printing, pauses for a while then spits out the page half printed, then a lsusb command shows no printer at all,anyone had this problem?
+2009-08-19T15:53:00.000Z	indus	homebrewcider	hmm possible causes, faulty usb port, faulty cable, a bug in the driver itself, printer power button etc
+2009-08-19T15:53:00.000Z	indus	homebrewcider	if you dont see any of thse issues in windows, then its a driver issue
+2009-08-19T15:54:00.000Z	indus	homebrewcider	what printer
+2009-08-19T15:54:00.000Z	indus	homebrewcider	so canon supplies the drivers for this? or ubuntu automatically does?
+2009-08-19T16:09:00.000Z	indus	homebrewcider	seems like a driver issue frankly, write to cannon maybe

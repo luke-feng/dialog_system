@@ -1,0 +1,6 @@
+2008-12-17T21:44:00.000Z	MF_Debian	rrohde	using squid?
+2008-12-17T21:45:00.000Z	rrohde	MF_Debian	nope.. some custom made proxy by our programmers here
+2008-12-17T21:47:00.000Z	MF_Debian	rrohde	bummer, no community to consult in that case, it will not be a prob with the routing, that bit is fool proof
+2008-12-17T21:49:00.000Z	rrohde	MF_Debian	thougth so, as the iptable rule looks like this: $IPTABLES -t nat -A PREROUTING -p tcp -i $INTIF --dport 80 -s 10.0.0.0/8 -j DNAT --to 192.168.20.1:9666
+2008-12-17T21:56:00.000Z	MF_Debian	rrohde	actually your line looks a little wrong
+2008-12-17T22:06:00.000Z	MF_Debian	rrohde	try this -> $IPTABLES -t nat -A PREROUTING -i $INTIF -p tcp --dport 80 -s 10.0.0.0/8 -j DNAT --to 192.168.20.1:9666

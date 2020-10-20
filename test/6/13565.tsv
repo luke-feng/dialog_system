@@ -1,0 +1,6 @@
+2011-02-20T04:26:00.000Z	sam555		isn't there a way in ubuntu to manuall remove the grub
+2011-02-20T04:27:00.000Z	sam555		can I use an ubuntu live cd to edit the grub so that it will stop being the first thing called at start up so the computer can boot to windows?
+2011-02-20T04:27:00.000Z	Chipzzz	sam555	if you are booting to grub now, just press space while the machine boots & you can edit grub
+2011-02-20T04:28:00.000Z	sam555	Chipzzz	what would be the command to enter to get it to go into windows?
+2011-02-20T04:29:00.000Z	Chipzzz	sam555	that depends on where windows is in your system... www.grub.org has good docs to look through
+2011-02-20T04:32:00.000Z	Chipzzz	sam555	glad to help

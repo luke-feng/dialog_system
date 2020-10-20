@@ -1,0 +1,6 @@
+2009-04-19T08:23:00.000Z	Artelus		Hey
+2009-04-19T08:23:00.000Z	Artelus		how do you mount something from the filesystem?
+2009-04-19T08:23:00.000Z	Artelus		-Using the command line?
+2009-04-19T08:24:00.000Z	Artelus		Well...I'm using Fluxbox, but in order to access my windows partition I have to log off and log into Gnome, and I don't want to do that
+2009-04-19T08:24:00.000Z	Artelus		Is there a way to mount a USB device with a command?
+2009-04-19T08:25:00.000Z	DasEi	Artelus	yes, but you need ntfs support installed on that machine (if it isn't fat or else)

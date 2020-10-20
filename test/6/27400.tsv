@@ -1,0 +1,6 @@
+2009-12-13T03:33:00.000Z	falconheart		hey I got a couple newbie questions if anyone is willing to indulge me :D
+2009-12-13T03:34:00.000Z	APERSON	falconheart	the best place to start is  by asking yoru question
+2009-12-13T03:44:00.000Z	APERSON	falconheart	not advised
+2009-12-13T03:45:00.000Z	APERSON	falconheart	I'd just look around for some ppas
+2009-12-13T03:46:00.000Z	APERSON	falconheart	I'd also recommend that if you're compiling things yourself, that you use checkinstall to make debs and install those
+2009-12-13T03:47:00.000Z	APERSON	falconheart	it makes them easier to manage, and you can uninstall via a package manager

@@ -1,0 +1,6 @@
+2005-12-13T08:32:00.000Z	mustard5	goo_	I don't think breezy uses that lib
+2005-12-13T08:34:00.000Z	goo_	mustard5	lincvs depends on it, anyway. Maybe I have some stray sources..
+2005-12-13T08:35:00.000Z	mustard5	goo_	breezy uses libqt3-mt 3.3.3.4
+2005-12-13T08:35:00.000Z	mustard5	goo_	you might be able to edit the dependencies for the package to point to that lib
+2005-12-13T08:36:00.000Z	mustard5	goo_	I wouldnt know how to do it, but I know that that particular lib causes quite a few issues for example it is used for the skype .deb at the skype website
+2005-12-13T08:37:00.000Z	mustard5	goo_	it was necessary to edit the skype package to use the newer lib that breezy uses

@@ -1,0 +1,6 @@
+2007-08-31T09:32:00.000Z	kauer		If I use dd to do a block-by-block copy of a Windows (NTFS) hard disk, will I be able to mount it under Linux? If yes, how?
+2007-08-31T09:34:00.000Z	Scunizi	kauer	partimage
+2007-08-31T09:39:00.000Z	kauer	Scunizi	looked at partimage doc just now, there doesn't seem to be any facility for skipping bad blicks. Have I missed that? Anyway, since this disk is defective, there will be bad blocks, and whatever program is reading it must be able to skip them. It's no good to me if it clags on bad blocks...
+2007-08-31T09:41:00.000Z	Scunizi	kauer	is it a system disk with windows?  have you tried booting from win cd and choose console recovery. at the prompt type chkdsk /R.  It may make it good enough to do a partimage backup.
+2008-01-23T20:03:00.000Z	Scunizi	kauer	sometimes when installing 3rd party drivers, it puts the ppd files in a differnt directory and you have to "guide" cups to them. Otherwise they have a default location.
+2008-01-23T20:13:00.000Z	kauer	Scunizi	Thank you - now, how does one "guide" CUPS to the PPD files, then?

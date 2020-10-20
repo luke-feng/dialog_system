@@ -1,0 +1,6 @@
+2009-06-03T18:58:00.000Z	forceflow		update = bring all the packages up to date in your current distribution
+2009-06-03T18:59:00.000Z	forceflow		upgrade = upgrade to a possibly newer distributuion
+2009-06-03T18:59:00.000Z	Myrtti	forceflow	you've got your facts wonky
+2009-06-03T19:00:00.000Z	Myrtti	forceflow	update only updates the package information in your computer, it doesn't update/upgrade any software
+2009-06-03T19:00:00.000Z	Myrtti	forceflow	upgrade updates the installed packages to the newest possible version for your release version
+2009-06-03T19:00:00.000Z	Myrtti	forceflow	for upgrading to a newer release, different kind of magic is applied.

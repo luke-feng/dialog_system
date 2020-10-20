@@ -1,0 +1,6 @@
+2010-05-06T02:53:00.000Z	radhika		Hi, I still haven't been able to figure out how to disable my internal dvd drive, any suggestions?
+2010-05-06T02:55:00.000Z	radhika		Hi, I still haven't been able to figure out how to disable my internal dvd drive, any suggestions?
+2010-05-06T02:56:00.000Z	hmw	radhika	perjaps your BIOS allows to disable the drive, but i doubt it. I would disconnect the data cable (dont bother to remove power, since you will be connecting the drive again). I doubt, that disabling the internal drive will help, usually that is not neccessary. Perhaps you bios cant boot from USB
+2010-05-06T02:59:00.000Z	radhika	hmw	When I was running windows earlier, I had disabled the drive through device manager and then the bios recognized my usb dvd drive as bootable cd/dvd/.. if I don't disable it it recognizes my internal one which does not work, there is no option in the bios to disable it
+2010-05-06T03:00:00.000Z	hmw	radhika	in this case, disconnectin shuold do the trick, too. I have no idea, how a device manager in windows could do that.
+2010-05-06T03:00:00.000Z	radhika	hmw	any ideas on how to disconnect it in my laptop, its a dell xps m1530, would I have to open it up/>?

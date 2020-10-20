@@ -1,0 +1,6 @@
+2006-12-29T13:33:00.000Z	MyStiC1985		lspci |grep net <<--gives out your ethernet card
+2006-12-29T13:35:00.000Z	MyStiC1985		captain_haddock: no for hjmills
+2006-12-29T13:37:00.000Z	MyStiC1985		has anybody experience in fixing resolution issues in xorg.conf with widescreen notebooks?
+2006-12-29T13:38:00.000Z	acuozzo	MyStiC1985	me too! on my laptop!!!!!!!
+2006-12-29T13:40:00.000Z	MyStiC1985	acuozzo	changing the res is fine, but xorg.conf settings don't match the setting in the gui gnome settings
+2006-12-29T13:41:00.000Z	acuozzo	MyStiC1985	weird

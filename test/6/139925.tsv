@@ -1,0 +1,6 @@
+2009-10-19T08:04:00.000Z	psinetic		once i install a new application, where do i go in linux to find it?
+2009-10-19T08:05:00.000Z	psinetic		daz, no, i mean browsing it
+2009-10-19T08:06:00.000Z	psinetic		Daz, I=ubuntu newbie, and i have no idea what you just said
+2009-10-19T08:06:00.000Z	psinetic		if i'm using nautilus, how do i find my apps
+2009-10-19T08:08:00.000Z	psinetic		how do i find my applications using nautilus (browsing for them directly)
+2009-10-19T08:09:00.000Z	durt	psinetic	binaries are usually installed to /usr/bin

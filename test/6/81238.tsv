@@ -1,0 +1,6 @@
+2010-03-12T11:49:00.000Z	ralph		query:  i'm partitioning my hard-drive, do i really need to have a swap-file? i have 4gigs ram, seems redundant
+2010-03-12T11:49:00.000Z	chetnick	ralph	you mean swap partition?
+2010-03-12T11:50:00.000Z	chetnick	ralph	you must have swap, but in your case you dont have to make it 4x2, 4GB would be sufficient.
+2010-03-12T11:51:00.000Z	chetnick	ralph	you dont need 12GB.... 4GB is enough.
+2010-03-12T11:54:00.000Z	chetnick	ralph	you can put it on the beginning or at the end.
+2010-03-12T11:55:00.000Z	chetnick	ralph	there might be some performance difference.

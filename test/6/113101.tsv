@@ -1,0 +1,6 @@
+2006-08-05T06:35:00.000Z	nassif		hi all.. i dist-upgraded from breezy to dapper and then left the system unattended. one hour later i came back and there was the message that i should run "dpkg --configure -a" but that returns http://rafb.net/paste/results/IDwTyi24.html - any ideas?
+2006-08-05T06:36:00.000Z	Jack_Sparrow	nassif	 sorry.. I speak english
+2006-08-05T06:39:00.000Z	nassif	Jack_Sparrow	Warbo: it looks like, there is a bit more "damaged". http://rafb.net/paste/results/g8nmlc17.html
+2006-08-05T06:40:00.000Z	Jack_Sparrow	nassif	Im still waking up about all I can tell is that you have unmet dependencies
+2006-08-05T06:41:00.000Z	nassif	Jack_Sparrow	Warbo: i think "apt-get install -f" fixed it
+2006-08-05T06:56:00.000Z	nassif	Jack_Sparrow	Warbo: had to remove /usr/share/man/man1/md5sum.textutils.1.gz manually for any reason. dpkg said it is "not allowed" to overwrite with different file

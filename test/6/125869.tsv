@@ -1,0 +1,6 @@
+2006-03-01T16:07:00.000Z	Andrew_		hey, would ubuntu run well on a computer w/ 64 ram
+2006-03-01T16:07:00.000Z	dyrne	Andrew_	if you want a gui xubuntu might work ok
+2006-03-01T16:09:00.000Z	dyrne	Andrew_	i would probably use regular install, just do server install then sudo apt-get install xubuntu-desktop afterwards
+2006-03-01T16:10:00.000Z	dyrne	Andrew_	at install cd boot prompt just type server and enter
+2006-03-01T16:12:00.000Z	dyrne	Andrew_	yes, i like it alot more that icewm
+2006-03-01T16:13:00.000Z	dyrne	Andrew_	any problems just pop back in

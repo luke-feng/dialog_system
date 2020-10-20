@@ -1,0 +1,6 @@
+2011-07-07T01:15:00.000Z	tiago		how can i download a paper by ssh?
+2011-07-07T01:16:00.000Z	tiago		a scientific paper
+2011-07-07T01:16:00.000Z	tiago		i have the url
+2011-07-07T01:17:00.000Z	tiago		if that would do
+2011-07-07T01:17:00.000Z	tiago		given that i have access by ssh to a server
+2011-07-07T01:18:00.000Z	latagore	tiago	You could try scp

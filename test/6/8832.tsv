@@ -1,0 +1,6 @@
+2012-05-15T14:40:00.000Z	Vooloo		omg help. I right clicked my hmoe dir to see how much size it takes up and now I have a permanent error message about not being able to access a samba usershare. I clicked close button 1000 times and it wont go away. I cant even do killall nautilus. How do I get rid of this?
+2012-05-15T14:40:00.000Z	Vooloo		now I cant even open terminal
+2012-05-15T14:40:00.000Z	Vooloo		great error really
+2012-05-15T14:41:00.000Z	Vooloo		wow finally it died.
+2012-05-15T14:41:00.000Z	gry	Vooloo	is it a 12.04 install or did you upgrade from a previous version?
+2012-05-15T14:42:00.000Z	Vooloo	gry	fresh 10.04 .. I cant run 12 because it has an ugly permanent sidebar

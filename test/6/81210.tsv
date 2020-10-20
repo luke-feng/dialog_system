@@ -1,0 +1,6 @@
+2008-03-23T22:42:00.000Z	justprogramming8		mmm
+2008-03-23T22:43:00.000Z	justprogramming8		i have this error
+2008-03-23T22:43:00.000Z	justprogramming8		i have this error E: dpkg was interrupted, you must manually run 'dpkg --configure -a' to correct the problem.
+2008-03-23T22:43:00.000Z	justprogramming8		E: _cache->open() failed, please report.
+2008-03-23T22:44:00.000Z	justprogramming8		any one can help me
+2008-03-23T22:45:00.000Z	nikrud	justprogramming8	apps-accesorries->terminal , and type   sudo dpkg configure -a there

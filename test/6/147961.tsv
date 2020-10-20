@@ -1,0 +1,6 @@
+2006-03-01T15:51:00.000Z	Jormundgand		Does anyone know why when I start up X-Chat gnome-power-manager, gnome-volume-manager and update-notifier all crash?
+2006-03-01T15:51:00.000Z	Jormundgand		(I'm using Dapper, he added hastily.)
+2006-03-01T15:52:00.000Z	dsas	Jormundgand	sounds like a dbus bug, have you just installed updates?
+2006-03-01T15:52:00.000Z	Jormundgand	dsas	yes.
+2006-03-01T15:53:00.000Z	dsas	Jormundgand	you should restart after installing dbus
+2006-03-01T15:53:00.000Z	Jormundgand	dsas	righto, I'll do that now.

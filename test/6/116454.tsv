@@ -1,0 +1,6 @@
+2006-06-01T11:37:00.000Z	mjmac		aaaugh.  stupid busybox mount doesn't handle bind mounts
+2006-06-01T11:38:00.000Z	h3sp4wn	mjmac	just use chroot then mount them normally
+2006-06-01T11:38:00.000Z	mjmac		has anyone else successfully upgraded Breezy->Dapper using root-on-LVM?
+2006-06-01T11:38:00.000Z	mjmac	h3sp4wn	i need /proc in the chroot
+2006-06-01T11:39:00.000Z	h3sp4wn	mjmac	 mount -t proc none /proc
+2006-06-01T11:39:00.000Z	h3sp4wn	mjmac	 after chroot /mnt/whatever /bin/bash

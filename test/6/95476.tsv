@@ -1,0 +1,6 @@
+2007-01-21T09:49:00.000Z	docmur		Hello all
+2007-01-21T09:51:00.000Z	docmur		okay ummmm I'm running my comp at a rez and the stupid rez has a gateway which you need to  log into after like 5 min of no activity, I'm wondering if I can get an app to over come that and send like a stay awake package to trick the gateway I'm still active
+2007-01-21T09:51:00.000Z	Odd_Bloke	docmur	You could do something like just running a ping in the background...
+2007-01-21T09:53:00.000Z	Odd_Bloke	docmur	Have you tried it?
+2007-01-21T09:54:00.000Z	Odd_Bloke	docmur	Problem solved.
+2007-01-21T09:55:00.000Z	Odd_Bloke	docmur	Add it to .bashrc or the X equivalent...

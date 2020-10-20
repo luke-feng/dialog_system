@@ -1,0 +1,6 @@
+2006-03-25T16:28:00.000Z	Mep30044		sudo make install /home/dustin/Desktop/firefox-1.5.0.1.tar.gz   whats wrong with that?
+2006-03-25T16:28:00.000Z	Lamego	Mep30044	what is wrong is that you dont have a clue on what you are doing
+2006-03-25T16:28:00.000Z	Lamego	Mep30044	do not execute a command with sudo specially when you don't understand it
+2006-03-25T16:29:00.000Z	Lamego	Mep30044	you dont install it, you extract it
+2006-03-25T16:30:00.000Z	Lamego	Mep30044	it does run, if you know what is to be ran
+2006-03-25T16:32:00.000Z	Lamego	Mep30044	you cd into the source, and run the binary which starts firefox

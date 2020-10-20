@@ -1,0 +1,6 @@
+2009-06-23T18:13:00.000Z	enovativ		i want to be able to remote to my linux box thru the use of a web browser...i am researched that i could VNC, but have found that it is not completely secured...so then i found some info on something called Hamachi.....a secure, encrypted VPN to VNC over...has anyone used this combination with success ?
+2009-06-23T18:14:00.000Z	enovativ		i want to be able to remote to my linux box thru the use of a web browser...i am researched that i could VNC, but have found that it is not completely secured...so then i found some info on something called Hamachi.....a secure, encrypted VPN to run  VNC over...has anyone used this combination with success ?
+2009-06-23T18:15:00.000Z	scunizi	enovativ	use vnc over ssh..
+2009-06-23T18:15:00.000Z	scunizi		!ssh enovativ
+2009-06-23T18:15:00.000Z	scunizi		!ssh
+2009-06-23T18:16:00.000Z	enovativ	scunizi	thanks

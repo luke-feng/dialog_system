@@ -1,0 +1,6 @@
+2012-04-28T06:13:00.000Z	vanity		Hmm.. why my laptop's CPU temperture is high in ubuntu/kubuntu. (60'C in idle / 90'C max)
+2012-04-28T06:13:00.000Z	vanity		48'C in MS Windows 7
+2012-04-28T06:14:00.000Z	hydrox24	vanity	are you sure that the readings are accurate?
+2012-04-28T06:18:00.000Z	vanity	hydrox24	i can;t touch my cpu fan. because it is too hot. But fan is running fast. lmsensor and acpi show same temperture
+2012-04-28T06:21:00.000Z	hydrox24	vanity	hmmm, is ACPI enabled/installed?
+2012-04-28T06:22:00.000Z	vanity	hydrox24	surely it is installed and work correctly

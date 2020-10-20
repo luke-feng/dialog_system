@@ -1,0 +1,6 @@
+2007-01-17T17:31:00.000Z	soundray		!info cmake | malex
+2007-01-17T17:32:00.000Z	malex	soundray	What source line should I use for universe please?
+2007-01-17T17:33:00.000Z	soundray	malex	please follow the instructions:
+2007-01-17T17:33:00.000Z	soundray		!repos | malex
+2007-01-17T17:33:00.000Z	soundray	malex	the comments in /etc/apt/sources.list should also help
+2007-01-17T17:34:00.000Z	malex	soundray	There were no comments - it's a pbuilder chroot. I just didn't realise that universe was a branch in the main archive. Thanks.

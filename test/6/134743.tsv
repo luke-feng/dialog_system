@@ -1,0 +1,6 @@
+2006-02-28T08:09:00.000Z	mikeo1		i have my windows drive mounted as root... but cant seem to view the files as a user
+2006-02-28T08:09:00.000Z	mikeo1		can only view them as root
+2006-02-28T08:10:00.000Z	mikeo1		how do i change the viewing rights?
+2006-02-28T08:11:00.000Z	CosmoDad	mikeo1	you need to adjust permission settings in /etc/fstab
+2006-02-28T08:12:00.000Z	CosmoDad	mikeo1	add "umask=0222" to the options
+2006-09-10T13:00:00.000Z	CosmoDad	mikeo1	should(!) be fine then

@@ -1,0 +1,6 @@
+2007-07-09T10:28:00.000Z	Op3r		Hello Im having a problem with the desktop effects on ubuntu because it seems it says cannot enable desktop effects :(
+2007-07-09T10:28:00.000Z	OldPink	Op3r	What graphics controller you using?
+2007-07-09T10:29:00.000Z	Op3r	OldPink	its an ATI onboard from my sony vaio laptop :(
+2007-07-09T10:30:00.000Z	Op3r	OldPink	maybe I should stop using Ubuntu studio theme?
+2007-07-09T10:31:00.000Z	OldPink	Op3r	I doubt the Ubuntu Studio theme is it. You're better off going into #compiz-fusion to ask
+2007-07-09T10:37:00.000Z	Op3r	OldPink	ok it works for me now. I removed the xorg-driver-fglrx

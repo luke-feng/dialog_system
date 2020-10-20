@@ -1,0 +1,6 @@
+2012-10-04T18:34:00.000Z	sasuke		hi guys, i installed ubuntu on virtualbox & when i maximize the screen its not getting full screen
+2012-10-04T18:35:00.000Z	fidel	sasuke	vmware-tools installed? erm vb-extensions i guess
+2012-10-04T18:36:00.000Z	fidel		*guest-additions*
+2012-10-04T18:36:00.000Z	sasuke	fidel	i installed virtualbox ... i dont think vmware -guest will work
+2012-10-04T18:37:00.000Z	fidel	sasuke	sorry i ment 'vb-guest-additions'
+2012-10-04T18:37:00.000Z	sasuke	fidel	i downloaded this

@@ -1,0 +1,6 @@
+2004-11-12T06:11:00.000Z	djzorro		Hello guys: my laptop's HD insists to spindown running ubuntu (even with AC connected). I tried to do hdparm -S0, but it still spidown. I checked /etc/init.d/hdparm and now added "nohdparm" to grub.. but before rebooting I want to know what do you think..
+2004-11-12T06:13:00.000Z	djzorro		Trey?
+2004-11-12T06:15:00.000Z	djzorro		Erhm.. yes, but I just don't want that it spindown.. it hurts my hears.. and also slow me down, because it's all moments coming in/out when accessing the disk. :(
+2004-11-12T06:16:00.000Z	djzorro		Ok, guys.. I want that the hard-disk stay all time on (=spinning). What to do?
+2004-11-12T06:16:00.000Z	djzorro		:) This is a technical question.. :)
+2004-11-12T06:18:00.000Z	stvn	djzorro	checked the bios settigs?

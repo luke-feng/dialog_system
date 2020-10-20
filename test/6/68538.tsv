@@ -1,0 +1,6 @@
+2008-03-23T01:18:00.000Z	theseus		hey -- i just lost su on my machine
+2008-03-23T01:18:00.000Z	theseus		i.e. my su password no longer works
+2008-03-23T01:18:00.000Z	theseus		am i screwed?
+2008-03-23T01:19:00.000Z	theseus		i've been posting lots of config files online
+2008-03-23T01:19:00.000Z	Starnestommy	theseus	does sudo still work?
+2008-03-23T01:20:00.000Z	Starnestommy	theseus	what error does sudo give you?

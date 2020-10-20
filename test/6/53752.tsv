@@ -1,0 +1,6 @@
+2009-04-26T12:01:00.000Z	selocol		Can someone help me with making this symlink? "The system can be configured to allow bitmap fonts by replacing the symlink /etc/fonts/conf.d/70-no-bitmaps.conf with a symlink /etc/fonts.conf.d/70-yes-bitmaps.conf -> ../conf.avail/yes-bitmaps.conf"
+2009-04-26T12:02:00.000Z	Yondering	selocol	ln -s to creat a symlink.
+2009-04-26T12:03:00.000Z	selocol	Yondering	how do i replace a symlink though?
+2009-04-26T12:04:00.000Z	Yondering	selocol	delete the existing link.
+2009-04-26T12:04:00.000Z	Yondering	selocol	delete the existing link.   Then create the new one.
+2009-04-26T12:04:00.000Z	selocol	Yondering	ok

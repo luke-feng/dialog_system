@@ -1,0 +1,6 @@
+2007-03-24T06:34:00.000Z	progek		I have a archive I need to extract in a .7z format. I installed p7zip and try using it-> 7z x file.7z but all it says is (overwrite with file.7z?) it's like creating it again rather than extracting
+2007-03-24T06:35:00.000Z	progek		anyone know how I can extract .7z ?
+2007-03-24T06:35:00.000Z	bruenig	progek	install p7zip
+2007-03-24T06:36:00.000Z	progek	bruenig	I did but im having problems with it, I am trying 7z x file.7z but it just wants to recreate the file
+2007-03-24T06:36:00.000Z	bruenig	progek	7zr e whatever.7z
+2007-03-24T06:38:00.000Z	bruenig	progek	maybe that file is messed up

@@ -1,0 +1,6 @@
+2011-12-04T03:22:00.000Z	manbra_linux		I messed up my ubuntu install badly.  I'm in a live disk and I mounted my hd.  I just ran sudo apt-get install ubuntu-desktop
+2011-12-04T03:22:00.000Z	manbra_linux		What else should I do?
+2011-12-04T03:24:00.000Z	manbra_linux		oh I also couldn't get internet in recovery console
+2011-12-04T03:24:00.000Z	manbra_linux		Not sure if I removed something, or if that's normal
+2011-12-04T03:24:00.000Z	manbra_linux		apt-get couldn't connect
+2011-12-04T03:25:00.000Z	mactrent	manbra_linux	try pinging ubuntu.com; that

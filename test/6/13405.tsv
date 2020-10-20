@@ -1,0 +1,6 @@
+2011-04-19T23:40:00.000Z	Acid190		E:  Sub-process /usr/bin/dpkg returned an error code (1)<------this is the last error shown when upgrading distro
+2011-04-19T23:42:00.000Z	Seven_Six_Two	Acid190	please pastebin some of the earlier text. That is a controlling process. the relevant part is earlier
+2011-04-19T23:45:00.000Z	Acid190	Seven_Six_Two	done
+2011-04-19T23:48:00.000Z	Seven_Six_Two	Acid190	can you run dpkg-reconfigure language-selector-common
+2011-04-19T23:50:00.000Z	Seven_Six_Two	Acid190	can you reinstall it manually?
+2011-04-19T23:52:00.000Z	Seven_Six_Two	Acid190	sorry I have to go, someone else will be able to help you thought!

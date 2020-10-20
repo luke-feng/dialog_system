@@ -1,0 +1,6 @@
+2011-11-23T11:30:00.000Z	sajimon		hello, im trying to add newly installed gentoo to grub menu, co i call grub-mkconfig -o /boot/grub/grub.cfg, os-prober says it found Gentoo Base System , but os-prober section in grub.cfg is empty, what i am doing wrong?
+2011-11-23T11:32:00.000Z	Jordan_U	sajimon	Most likely your Gentoo kernel and initrd files don't follow any of the standard naming conventions so when grub-mkconfig looks for kernels in Gentoo's /boot/ it doesn't find any.
+2011-11-23T11:33:00.000Z	sajimon	Jordan_U	oh it does, it even adds new menus positions to launch ubuntu with gentoo kernel
+2011-11-23T11:34:00.000Z	Jordan_U	sajimon	You don't want to share /boot/ between distributions.
+2011-11-23T11:36:00.000Z	sajimon		urghh, ok ill use custom entry.
+2011-11-23T11:36:00.000Z	Jordan_U	sajimon	Keep Ubuntu's /boot/ separate from Gentoo's /boot/. The easiest way to do this is to just not have a separate /boot/ partition, so that both /boot/ directories are just subdirectories of each Distribution's root.

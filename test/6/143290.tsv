@@ -1,0 +1,6 @@
+2005-07-09T06:59:00.000Z	sumon		can i ask questions here?
+2005-07-09T07:00:00.000Z	sumon		how to grant permission to the current user..
+2005-07-09T07:00:00.000Z	sumon		say I want write in a file > something
+2005-07-09T07:01:00.000Z	sumon		it says permission denied
+2005-07-09T07:01:00.000Z	jtan325	sumon	use "sudo"
+2005-07-09T07:01:00.000Z	jtan325	sumon	then maybe some other program is using it?

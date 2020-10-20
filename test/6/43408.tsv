@@ -1,0 +1,6 @@
+2009-01-29T02:28:00.000Z	fanfinifinfon		hi. i added "* * * * * /etc/init.d/samba start" to crontab of root, stopped samba and observed the result. samba did not start again. why?
+2009-01-29T02:28:00.000Z	macd	fanfinifinfon	I cant think of any reason you would ever want todo that
+2009-01-29T02:29:00.000Z	macd	fanfinifinfon	then you need to write a schell script to check for sambas PID, then restart if its stopped, and run that every few minutes.
+2009-01-29T02:30:00.000Z	fanfinifinfon	macd	how do i check samba's pid?
+2009-01-29T02:30:00.000Z	macd	fanfinifinfon	I think its time to read shell scripting 101.
+2009-01-29T02:30:00.000Z	macd	fanfinifinfon	http://www.tinker.ncsu.edu/LEGO/shell_help.html

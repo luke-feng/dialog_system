@@ -1,0 +1,6 @@
+2006-07-25T08:59:00.000Z	srikat		hello
+2006-07-25T08:59:00.000Z	srikat		does ubuntu installer ask for GRUB location? if so, is it C: drive?
+2006-07-25T09:00:00.000Z	srikat		for a comp that has xp pro running at C:, is the MBR on C:?
+2006-07-25T09:01:00.000Z	srikat		I've taken a screenshot of my current partitions..can you guys kindly look at it and tell me where MBR would be?
+2006-07-25T09:01:00.000Z	srikat		http://aycu03.webshots.com/image/1522/1002706921317273764_rs.jpg
+2006-07-25T09:02:00.000Z	ardchoille	srikat	It most likely won't be on a screenshot of partitions. MBR is the first 512 kb of a hard drive.

@@ -1,0 +1,6 @@
+2010-03-07T21:21:00.000Z	neezer		I have a server with ssh access to it. I recently made a buddy of mine an account on the server and am going to hook him up with an rsa key for logon via winscp. he is running windows. Do I need to put an antivirus on the server to scan the files so that he doesn't get a virus?
+2010-03-07T21:22:00.000Z	the_hydra	neezer	the server also act as file server?
+2010-03-07T21:23:00.000Z	the_hydra	neezer	depending on your need, it could be needed...or not...
+2010-03-07T21:23:00.000Z	neezer		well, the point is for the two of us to share and store files on it. I am just using ssh to be secure.
+2010-03-07T21:24:00.000Z	neezer	the_hydra	yes I guess....basically a file server. on my LAN it also streams media to my PS3.
+2010-03-07T21:24:00.000Z	the_hydra	neezer	if you don't mind with extra I/O everytime a file is accessed...then go ahead

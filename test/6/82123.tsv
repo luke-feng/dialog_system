@@ -1,0 +1,6 @@
+2007-07-24T11:35:00.000Z	b4l74z4r		i've got 2gb of ram and was wondering how large i should make my swap partition and wether it matters if it's a primary or extended partition
+2007-07-24T11:36:00.000Z	b4l74z4r		ok, thanks guys
+2007-07-24T11:37:00.000Z	pete83	b4l74z4r	that would be the logical choice
+2007-07-27T11:33:00.000Z	pete83	b4l74z4r	go to system>>administration>>system monitor, and then stop the firefox from there
+2007-07-27T11:34:00.000Z	b4l74z4r	pete83	thanks
+2007-07-27T11:37:00.000Z	pete83	b4l74z4r	I think stop is like pausing it... you want to kill them! kill! kill!

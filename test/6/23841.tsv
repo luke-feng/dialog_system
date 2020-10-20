@@ -1,0 +1,6 @@
+2010-06-18T03:01:00.000Z	Moral_	soreau	try export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games in your terminal
+2010-06-18T03:01:00.000Z	Moral_	soreau	then ifconfig
+2010-06-18T03:01:00.000Z	soreau	Moral_	It's in /target/sbin/ifconfig, thanks
+2010-06-18T03:04:00.000Z	Moral_	soreau	that's why ssh doesn't work
+2010-06-18T03:05:00.000Z	soreau	Moral_	I know that but I want to cp a file over to the other box over the network
+2010-06-18T03:05:00.000Z	soreau	Moral_	scp is not installed either

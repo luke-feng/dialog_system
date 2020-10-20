@@ -1,0 +1,6 @@
+2005-08-27T09:31:00.000Z	HackBenjamin		argh, anyone having trouble getting kate running?
+2005-08-27T09:31:00.000Z	HackBenjamin		hope@disdain:~$ kate
+2005-08-27T09:31:00.000Z	HackBenjamin		kate: ERROR: Communication problem with kate, it probably crashed.
+2005-08-27T09:31:00.000Z	Seveas	HackBenjamin	killall kate
+2005-08-27T09:43:00.000Z	HackBenjamin	Seveas	kdevelop was just telling me it didnt find it :P
+2005-08-27T09:43:00.000Z	HackBenjamin	Seveas	no, its the first run wizard

@@ -1,0 +1,6 @@
+2009-01-07T10:52:00.000Z	kuwago		sudo gedit /etc/fstab
+2009-01-07T10:52:00.000Z	kuwago		Add an # to the line below:
+2009-01-07T10:52:00.000Z	kuwago		/dev/sdb1 /media/cdrom0 udf,iso9660 user,noauto,exec 0 0
+2009-01-07T10:52:00.000Z	kuwago		....or it may look like this
+2009-01-07T10:52:00.000Z	kuwago		/dev/sdc1 /media/cdrom0 udf,iso9660 user,noauto,exec 0 0
+2009-01-07T10:52:00.000Z	FloodBot1	kuwago	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

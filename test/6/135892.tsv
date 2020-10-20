@@ -1,0 +1,6 @@
+2006-01-04T16:10:00.000Z	locsmif		Hi, I'm testing a script that detects X version, would anybody like to help me out and show me the output of this line? (I need to know if it fucntions correctly with X.Org as well as Xfree86)
+2006-01-04T16:11:00.000Z	locsmif		xdpyinfo | awk '/version:/ { print $NF }'
+2006-01-04T16:11:00.000Z	locsmif		that's the line
+2006-01-04T16:11:00.000Z	locsmif		should give something back like "6.8.2"
+2006-01-04T16:11:00.000Z	locsmif		or similar
+2006-01-04T16:12:00.000Z	coz	locsmif	I got the same numbers

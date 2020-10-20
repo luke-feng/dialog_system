@@ -1,0 +1,6 @@
+2007-03-09T11:08:00.000Z	drewcifer		hello ubuntu
+2007-03-09T11:10:00.000Z	drewcifer		does anyone know how to update my broken packages on an older sarge system?
+2007-03-09T11:11:00.000Z	PriceChild	drewcifer	depends what's wrong with them? and #debian ;)
+2007-03-09T11:11:00.000Z	PriceChild	drewcifer	no "easy" way
+2007-03-09T11:12:00.000Z	PriceChild	drewcifer	ubuntu is based on debian.. but we don't support switching from one to the other...
+2007-03-09T11:12:00.000Z	PriceChild	drewcifer	probably best you do a fresh install... its definitely not easy :)

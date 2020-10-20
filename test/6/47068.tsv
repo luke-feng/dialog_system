@@ -1,0 +1,6 @@
+2010-09-11T10:00:00.000Z	B4B4B0Z0R6		i runned alsamixer
+2010-09-11T10:00:00.000Z	B4B4B0Z0R6		and i unmuted all
+2010-09-11T10:00:00.000Z	B4B4B0Z0R6		but my microphone still not working
+2010-09-11T10:02:00.000Z	B4B4B0Z0R6		anyone can help microphone doesnt work in netbook remix on eee pc 1016p
+2010-09-11T10:02:00.000Z	B4B4B0Z0R6		?
+2010-09-11T10:02:00.000Z	noisewaterphd	B4B4B0Z0R6	this may be a silly question but do you have the proper mic selected in audio preferences, and then unmuted it in alsamixer? I've had things not show up in alsamixer until I had them configured properly in audio prefs

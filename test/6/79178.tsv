@@ -1,0 +1,6 @@
+2010-09-28T23:40:00.000Z	st__		why my sound card works when I modprobe it but not automatically?
+2010-09-28T23:41:00.000Z	mattgyver	st__	just add it to /etc/modprobe and it will modprobe it on start ;)  (it might be modprobe.conf i dont remember)
+2010-09-28T23:42:00.000Z	st__		actually it's /etc/modprobe.d and it's a directory o_O
+2010-09-28T23:46:00.000Z	st__		what is modprobe's file syntax? i don;t get it
+2010-09-28T23:47:00.000Z	st__	llutz	files in /etc/modprobe.d i meant
+2010-09-28T23:47:00.000Z	mattgyver	st__	unless your talking about the /etc/modprobe file, you just will put the name of the module (if modprobe snd-hda-intel you put snd-hda-intel)

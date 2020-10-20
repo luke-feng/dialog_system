@@ -1,0 +1,6 @@
+2011-09-19T15:31:00.000Z	iamsashka		hello! I need help. How i can learn which port the application works?
+2011-09-19T15:32:00.000Z	SixThreeOh	iamsashka	netstat -anb?
+2011-09-19T15:32:00.000Z	SixThreeOh		-anp sorry
+2011-09-19T15:33:00.000Z	SixThreeOh		tomodachi's command looks better because it strips out stuff you probably don't want.
+2011-09-19T15:36:00.000Z	iamsashka		SixThree0h: example: ps -a | pgrep firefox     I get the number 1896, what's next? how to find out port?
+2011-09-19T15:38:00.000Z	iamsashka	SixThreeOh	example: ps -a | pgrep firefox     I get the number 1896, what's next? how to find out port?

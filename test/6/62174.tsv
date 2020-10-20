@@ -1,0 +1,6 @@
+2010-10-15T10:44:00.000Z	snarkster		i want to remove the graphical boot from ubuntu and just start with command line. I just cant seem to to find away to do that. anyone know how to do that?
+2010-10-15T10:45:00.000Z	snarkster		yah my system is hanging on startup. I want to permanetly remove X
+2010-10-15T10:45:00.000Z	snarkster		just want to do command line
+2010-10-15T10:46:00.000Z	snarkster		can I just sudo apt-get remove X
+2010-10-15T10:47:00.000Z	snarkster		if i remove X will mplayer-nogui still work?
+2010-10-15T10:48:00.000Z	rameez	snarkster	it should work .. but not tested

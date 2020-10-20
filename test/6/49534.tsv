@@ -1,0 +1,6 @@
+2009-03-02T23:18:00.000Z	nyad		hello, I am trying to host warcraft3 games with wine, I did this on 8.04 no problem, but in 8.10 people can't join my games but I can join theirs. I have forwarded all my ports and the system is configured the same as my 8.04 one yet they can't join, what must I do to fix this?
+2009-03-02T23:18:00.000Z	nyad		must I add the warcraft server to /etc/hosts?  or should I place my lan IP of 10,0,0,x there?
+2009-03-02T23:19:00.000Z	sebsebseb	nyad	wrong channel try #winehq
+2009-03-02T23:19:00.000Z	sebsebseb	nyad	and make sure you get latest wine from  winhq.org
+2009-03-02T23:19:00.000Z	sebsebseb		instead of Ubuntu repo
+2009-03-02T23:21:00.000Z	nyad	sebsebseb	yes that could be a possibility that new wine has stopped it from working

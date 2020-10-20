@@ -1,0 +1,6 @@
+2005-10-13T05:57:00.000Z	PrimoTurbo		How do I mount my NTSF drives so they stay mounted after restart
+2005-10-13T05:58:00.000Z	PrimoTurbo		how would I do that exactly?
+2005-10-13T06:00:00.000Z	PrimoTurbo		I don't see a /etc/fstab
+2005-10-13T06:00:00.000Z	zblach	PrimoTurbo	fstab is a file
+2005-10-13T06:01:00.000Z	zblach	PrimoTurbo	what are you trying to do?
+2005-10-13T06:13:00.000Z	zblach	PrimoTurbo	sudo umount -a && mount (drive)

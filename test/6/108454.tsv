@@ -1,0 +1,6 @@
+2011-10-18T11:58:00.000Z	AndroidLoverInSF		i'm installing 11.10 and set to replace existing 10.10. i get a fatal error "executing 'grub-install /dev/sda' failed".  geez! help
+2011-10-18T11:59:00.000Z	AndroidLoverInSF		what to do?
+2011-10-18T12:00:00.000Z	AndroidLoverInSF		i'm not upgrading. i choose install from cdrom.  then during install, it asked if i wanted to replace the 10.10 vs replacing my 10.10 and windows. so i figure just replace the 10.10 partition. but got this error
+2011-10-18T12:01:00.000Z	AndroidLoverInSF		thats not a good omen for 11.10
+2011-10-18T12:01:00.000Z	fritsch	AndroidLoverInSF	such things do not exist ...
+2011-10-18T12:02:00.000Z	fritsch	AndroidLoverInSF	it is always as bad, as you want it to be :-)

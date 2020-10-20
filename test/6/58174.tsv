@@ -1,0 +1,6 @@
+2010-07-17T08:37:00.000Z	Gryllida		how do I install/run screen?
+2010-07-17T08:37:00.000Z	wgrant	Gryllida	sudo apt-get install screen
+2010-07-17T08:37:00.000Z	wgrant	Gryllida	Then run 'screen'
+2010-07-17T08:38:00.000Z	wgrant	Gryllida	Although you may want to look at 'byobu'. It's screen, but with some nice profiles built in.
+2010-07-17T08:41:00.000Z	wgrant	Gryllida	That suggests that something very sinister is wrong.
+2010-07-17T08:41:00.000Z	wgrant	Gryllida	But try apt-cache rather than aptitude.

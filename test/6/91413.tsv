@@ -1,0 +1,6 @@
+2008-04-06T23:13:00.000Z	speps		hey guys during siptoolbox compilation last version i get /usr/local/include/ImageMagick/magick/exception.h:134: error: expected identifier or '(' before 'char'. PLEASE HELP
+2008-04-06T23:14:00.000Z	soundray	speps	you might have to switch the default shell from dash to bash. sudo dpkg-reconfigure dash
+2008-04-06T23:16:00.000Z	speps	soundray	???
+2008-04-06T23:16:00.000Z	soundray	speps	if I wasn't clear, can you be bothered to ask me a proper question?
+2008-04-06T23:17:00.000Z	speps	soundray	i don't understand how that can be related to my issue. i get /usr/local/include/ImageMagick/magick/exception.h:134: error: expected identifier or '(' before 'char'.
+2008-04-06T23:19:00.000Z	soundray	speps	I see, you're probably right. I thought it was a shell error.

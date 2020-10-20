@@ -1,0 +1,6 @@
+2010-02-11T19:44:00.000Z	dev3		hey guys
+2010-02-11T19:45:00.000Z	dev3		hey guys how do i change the file permission of a file and all its contents to 777 from terminal?
+2010-02-11T19:45:00.000Z	dev3		i need to know the codes
+2010-02-11T19:45:00.000Z	dev3		not sure how to do it
+2010-02-11T19:46:00.000Z	erUSUL	dev3	which folder?
+2010-02-11T19:56:00.000Z	erUSUL	dev3	what filesystem are the files you want to chmod in?

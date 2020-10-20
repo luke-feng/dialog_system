@@ -1,0 +1,6 @@
+2011-02-27T03:59:00.000Z	guntbert	audifahrer	both packages seem to be in main - so just install them with your favourite package manager
+2011-02-27T04:00:00.000Z	audifahrer	guntbert	maybe, but if I step into my dbus application the stack strace shows beginning from dbus functions only ?? and line 0. This means normal no symbols, not dependant if sources are available or not.
+2011-02-27T04:02:00.000Z	guntbert	audifahrer	sorry, I obviously know much less than you do about the issue
+2011-02-27T04:04:00.000Z	audifahrer	guntbert	you told, there's a dbg package: see my list: http://imagebin.org/140085
+2011-02-27T04:04:00.000Z	audifahrer	guntbert	do you see it?
+2011-02-27T04:05:00.000Z	audifahrer	guntbert	but thanks anyway...

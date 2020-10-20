@@ -1,0 +1,6 @@
+2010-05-04T04:37:00.000Z	minjoo		How to command in terminal to see one's graphic card driver version?
+2010-05-04T04:39:00.000Z	minjoo		thanks acerimmer
+2010-05-04T04:40:00.000Z	greezmunkey	minjoo	try lspci | grep VGA
+2010-05-04T04:40:00.000Z	minjoo	greezmunkey	Thanks. It Works well
+2010-05-04T04:40:00.000Z	greezmunkey	minjoo	 :)
+2010-05-04T04:41:00.000Z	minjoo	greezmunkey	I've just done memo. hehe thanks

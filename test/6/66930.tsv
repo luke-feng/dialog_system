@@ -1,0 +1,6 @@
+2010-03-14T20:56:00.000Z	Remmaze		guys, 1 question : all this Facebook hacking happening now, are they got to do with the OS that we`re using?
+2010-03-14T20:57:00.000Z	ActionParsnip	Remmaze	depends, is the "hacking" affecting windows only? It depends on the parogative of "they"
+2010-03-14T20:57:00.000Z	ActionParsnip	Remmaze	they make make something to attack ubuntu only in some way
+2010-03-14T20:58:00.000Z	ActionParsnip	Remmaze	there are too many what-ifs to give any sort of answer
+2010-03-14T20:58:00.000Z	ActionParsnip	Remmaze	just keep using your system as user and your system will be quite safe, any security will be attended if and when it is noticed
+2010-05-22T22:54:00.000Z	ActionParsnip	Remmaze	if you read through: dmesg | grep -i firmware     see if it mentions firmware files needed

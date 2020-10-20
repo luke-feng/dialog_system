@@ -1,0 +1,6 @@
+2008-01-09T15:48:00.000Z	phi_		how do i turn off kdewallaet in ubuntu 7.1?
+2008-01-09T15:48:00.000Z	phi_		how do i turn off/uninstall kdewallet in ubuntu 7.1?
+2008-01-09T15:49:00.000Z	phi_		isnt ubuntu 7.1 gnome?
+2008-01-09T15:49:00.000Z	Jack_Sparrow	phi_	You should be able to use synaptic to remove/uninstall it
+2008-01-09T15:55:00.000Z	Jack_Sparrow	phi_	One sec
+2008-01-09T15:56:00.000Z	Jack_Sparrow	phi_	I have not used kde in a long time..  but it should still use apt-get remove

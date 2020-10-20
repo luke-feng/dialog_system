@@ -1,0 +1,6 @@
+2009-03-08T10:02:00.000Z	Bossmanbeta		Does anyone else have a problem with Firefox locking down the sound system, so nothing else can play audio? I have to kill firefox to free up the sound resources...(Ubuntu 8.04 & Firefox 3.0.4)
+2009-03-08T10:02:00.000Z	sebsebseb	Bossmanbeta	Firefox can effect my Banshee  at times it seems, but that's pretty rare
+2009-03-08T10:02:00.000Z	sebsebseb	Bossmanbeta	Ubuntu's unoffical version of Firefox, can have right stupid issues
+2009-03-08T10:04:00.000Z	Bossmanbeta	sebsebseb	it's rather annoying... VLC seems to be the only application that can still play audio, but Songbird (uses gstreamer), Audacious both fail as does XMMS
+2009-03-08T10:04:00.000Z	sebsebseb	Bossmanbeta	what about Banshee  ?
+2009-03-08T10:05:00.000Z	Bossmanbeta	sebsebseb	I dont use banshee. Don't care for it.

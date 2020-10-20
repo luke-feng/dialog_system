@@ -1,0 +1,6 @@
+2011-08-18T10:37:00.000Z	DebiansArmy	JuNeX	Here is something new.... http://www.linuxquestions.org/questions/linux-newbie-8/bluetooth-configuration-where-is-it-stored-on-debian-895907/
+2011-08-18T10:49:00.000Z	DebiansArmy	JuNeX	Ran across several people complaining they have to manual start bluetooth to get headset to work or to connect to ubuntu
+2011-08-18T10:51:00.000Z	DebiansArmy	JuNeX	Here may be a better way to start this bluetooth idea... http://ubuntuforums.org/showthread.php?t=1463610&highlight=bluetooth+headset+sound+issue
+2011-08-18T10:54:00.000Z	DebiansArmy	JuNeX	hold on cooking be right back...
+2011-08-18T10:58:00.000Z	DebiansArmy	JuNeX	Here is the link... https://help.ubuntu.com/community/BluetoothAudio  For short it is the tool used to see the devices it scans in bluetooth
+2011-08-18T11:00:00.000Z	DebiansArmy	JuNeX	The problem is the bluetooth devices in 11.04 are dropping connectioon so some are manually forcing connection with the same result of a lost signal..

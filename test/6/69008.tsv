@@ -1,0 +1,6 @@
+2008-01-18T22:15:00.000Z	Kamus_H_Zwisch		hello
+2008-01-18T22:15:00.000Z	Kamus_H_Zwisch		clflush size    : 64(that means my cpu is 64 bit?)
+2008-01-18T22:16:00.000Z	MrObvious	Kamus_H_Zwisch	What kind of CPU is it?
+2008-01-18T22:17:00.000Z	MrObvious	Kamus_H_Zwisch	Do you know which Celeron? It should say the CPU model number in cat /proc/cpuinfo
+2008-01-18T22:18:00.000Z	Kamus_H_Zwisch	MrObvious	did you see?
+2008-01-18T22:19:00.000Z	MrObvious	Kamus_H_Zwisch	No sorry. I'm trying to help 16 people at once lol.

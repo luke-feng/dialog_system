@@ -1,0 +1,6 @@
+2005-12-18T08:29:00.000Z	Dido-		Anyone here managed to setup lan network between Xp and Ubuntu??
+2005-12-18T08:31:00.000Z	frogzoo	Dido-	samba is a network file system for talking to windows servers via the SMB or CIFS protocols
+2005-12-21T08:17:00.000Z	frogzoo	Dido-	you have a certificate alert open on a different desktop?
+2005-12-21T08:19:00.000Z	Dido-	frogzoo	um.. i cant get it..
+2005-12-21T08:19:00.000Z	frogzoo	Dido-	check all your desktops for an open firefox security popup
+2005-12-21T08:21:00.000Z	Dido-	frogzoo	oo thaat was it. 10x, HymnToLife mozilla firefox and i got this problem firefox security popus popup in the first firefox browser i have opened

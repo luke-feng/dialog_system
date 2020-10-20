@@ -1,0 +1,6 @@
+2009-05-18T04:56:00.000Z	newclimb		no cursor in wine anyone know what's the matter?
+2009-05-18T04:57:00.000Z	wirechief	newclimb	what version of wine are you running ?
+2010-02-23T08:01:00.000Z	wirechief	newclimb	are you using powermanagement ? it might be going to sleep.
+2010-02-23T08:04:00.000Z	newclimb	wirechief	whats that?
+2010-02-23T08:10:00.000Z	wirechief	newclimb	check iwconfig for powermanagement reference: https://help.ubuntu.com/community/WifiDocs/WiFiHowTo
+2010-02-23T08:17:00.000Z	wirechief	newclimb	check iwconfig for powermanagement also this thread gives some advice:  http://ubuntuforums.org/showthread.php?t=1360901

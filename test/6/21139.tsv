@@ -1,0 +1,6 @@
+2010-05-30T02:47:00.000Z	InvaderZim		With a 2 gb ram system, do we still need a swap partition for a desktop?
+2010-05-30T02:47:00.000Z	acerimmer_	InvaderZim	highly advised but you might want to load a lighter version i.e. LUbuntu
+2010-05-30T02:47:00.000Z	InvaderZim	acerimmer_	why ?
+2010-05-30T02:47:00.000Z	InvaderZim		you think 2 gb is low?
+2010-05-30T02:48:00.000Z	InvaderZim		I've never seen swap being used on my desktop
+2010-05-30T02:48:00.000Z	acerimmer_	InvaderZim	load up enough processes and you experience slow downs.  swap is meant to overcome that issue.

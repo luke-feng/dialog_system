@@ -1,0 +1,6 @@
+2005-08-26T16:05:00.000Z	Liquidfire		why isn't my flash working
+2005-08-26T16:05:00.000Z	Liquidfire		I installed it
+2005-08-26T16:05:00.000Z	Liquidfire		but when i try opening this site
+2005-08-26T16:05:00.000Z	Liquidfire		http://games.activision.com/games/wolfenstein/
+2005-08-26T16:05:00.000Z	LinuxJones	Liquidfire	did you close firefox then restart it ?
+2005-08-26T16:07:00.000Z	LinuxJones	Liquidfire	put them in your /home/user/.mozilla/plugins   directory

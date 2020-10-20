@@ -1,0 +1,6 @@
+2007-07-22T10:32:00.000Z	mz--		hi.  attempting to do a reinstall, booted off the livecd, when double clicking the 'install' icon, i get the error "failed to exec new process: exec format error".  rebooted and tried again.  same problem.  any thoughts?  burn a new install disc?
+2007-07-22T10:32:00.000Z	aelliott	mz--	the live CD has a "check disk for errors option" have you done it yet?
+2007-07-22T10:32:00.000Z	mz--	aelliott	ok def, thx
+2007-07-22T10:36:00.000Z	aelliott	mz--	i agree it sounds like it is - i think if you check the downloads page it tells you how to check that the ISO you downloaded is not corrupt using md5
+2007-07-22T10:37:00.000Z	mz--	aelliott	thing thats throwing me off base, is ive used this cd about a dozen times already for installs
+2007-07-22T10:37:00.000Z	mz--	aelliott	im just more concerned that its a hardware error than a disc error

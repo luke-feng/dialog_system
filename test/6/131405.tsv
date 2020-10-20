@@ -1,0 +1,6 @@
+2006-09-17T15:29:00.000Z	twsbh2005		no its not being detected. but I have a wd 200gb that I have put three partitions on, the other two are working fine with two operating systems on them. I want to put ubuntu on the last one
+2006-09-17T15:30:00.000Z	twsbh2005		keepsakes no, but I'm going to have three os's on it
+2006-09-17T15:30:00.000Z	tj_	twsbh2005	does it boot from the cd?
+2006-09-17T15:32:00.000Z	tj_	twsbh2005	then try using gnome partition editor (system-administration-gnome partition editor)
+2006-09-17T15:33:00.000Z	tj_	twsbh2005	see if that sees it
+2006-09-17T15:33:00.000Z	tj_	twsbh2005	in that case i have no idea, sry

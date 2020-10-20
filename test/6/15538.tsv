@@ -1,0 +1,6 @@
+2010-10-30T15:03:00.000Z	vigge_sWe		hi
+2010-10-30T15:03:00.000Z	vigge_sWe		Why can't ubuntu coby files larger than 500MB to a USB stick (the USB is 8GB or 16GB)?
+2010-10-30T15:03:00.000Z	vigge_sWe		it alwasy get stuck att 500MB
+2010-10-30T15:04:00.000Z	vigge_sWe		the limit is 4GB
+2010-10-30T15:04:00.000Z	vigge_sWe		not 500MB
+2010-10-30T15:04:00.000Z	anirudhr	vigge_sWe	Check the filesystem type.

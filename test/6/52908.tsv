@@ -1,0 +1,6 @@
+2011-05-31T01:16:00.000Z	Jarvix		E: Unable to locate package build-essential
+2011-05-31T01:16:00.000Z	Jarvix		See my problem?
+2011-05-31T01:16:00.000Z	Jarvix		no -dev package anywhere, no binutils, no gcc, no libc
+2011-05-31T01:17:00.000Z	Jarvix		yeh
+2011-05-31T01:17:00.000Z	Jarvix		lemme check again
+2011-05-31T01:17:00.000Z	guntbert	Jarvix	did you !pastebin your /etc/apt/sources.list already?

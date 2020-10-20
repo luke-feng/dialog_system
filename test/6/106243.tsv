@@ -1,0 +1,6 @@
+2008-07-14T15:23:00.000Z	Kartagis		hi
+2008-07-14T15:24:00.000Z	Kartagis		does Jul 14 13:23:59 biometrics kernel: SFW2-INext-DROP-DEFLT IN=eth0 OUT= MAC=00:18:8b:15:c2:1c:00:01:c9:15:4c:00:08:00 SRC=10.11.2.79 DST=10.36.52.136 LEN=60 TOS=0x00 PREC=0x00 TTL=61 ID=20577 DF PROTO=TCP SPT=32862 DPT=21 WINDOW=5840 RES=0x00 SYN URGP=0 OPT (020405B40402080A004115500000000001030306) mean drop the packet?
+2008-07-14T15:24:00.000Z	wols_	Kartagis	no. it means it's logged
+2008-08-24T14:44:00.000Z	wols_	Kartagis	man interfaces. ditch network manager
+2008-08-26T11:52:00.000Z	wols_	Kartagis	it does
+2008-08-26T11:53:00.000Z	wols_	Kartagis	purge apache2.2-common

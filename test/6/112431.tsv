@@ -1,0 +1,6 @@
+2006-06-24T12:02:00.000Z	cwillu		can session startup stuff be made to run in a sudo'ish manner without me having to type my password in at launch?
+2006-06-24T06:22:00.000Z	cwillu		what's the recommended way to install a python module that doesn't have a deb/repository?
+2006-06-24T06:23:00.000Z	jbcnle	cwillu	- look in the install.txt inside the package
+2006-06-24T06:24:00.000Z	cwillu	jbcnle	the install.txt from the package?  I should rephrase, it's a loose collection of py files :)
+2006-06-24T06:25:00.000Z	cwillu	jbcnle	dbf reader;  didn't really want to reimplement it, but didn't really want to include it in my source tree either
+2006-06-24T06:25:00.000Z	jbcnle	cwillu	what python packages are you installing

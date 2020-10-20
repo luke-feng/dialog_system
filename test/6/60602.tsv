@@ -1,0 +1,6 @@
+2009-07-17T19:33:00.000Z	matt______		hi everyone.  We've got a server that is off in wonderland doing an fsck on a terrabyte drive on boot.  Is it possible to skip that once its started?
+2009-07-17T19:33:00.000Z	matt______		it's been 210 since the last one apparently, and it's being very picky about running it
+2009-07-17T19:34:00.000Z	Slart	matt______	I can do that on my laptop.. pressing a key doesn't do it? pressing escape?
+2009-07-17T19:34:00.000Z	matt______	Slart	pressing escape just outputs an escape character on the screen
+2009-07-17T19:34:00.000Z	matt______		we're using a KVM over IP
+2009-07-17T19:35:00.000Z	Slart	matt______	it's using an older version of ubuntu?

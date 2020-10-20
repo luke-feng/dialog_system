@@ -1,0 +1,6 @@
+2009-06-23T16:32:00.000Z	achillion		Hey guys. I have a problem with the sensors plugin. It works ok, but every time it gets loaded at startup I get an error that "hddtemp" was not executed correctly. Is there any way to fix this?
+2009-06-23T16:32:00.000Z	ziroday	achillion	what does /etc/init.d/hddtemp start say?
+2009-06-23T16:32:00.000Z	ziroday	achillion	or if you don't want that at all you can do sudo apt-get remove hddtemp all together and then dpkg-reconfigure sensors-applet
+2009-06-23T16:33:00.000Z	ziroday	achillion	yes
+2009-06-23T16:36:00.000Z	achillion	ziroday	I just reloaded and it's fine. Thanks for the help!
+2009-06-23T16:36:00.000Z	ziroday	achillion	have fun

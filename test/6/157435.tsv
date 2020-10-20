@@ -1,0 +1,6 @@
+2009-04-02T21:37:00.000Z	piglit		hello there what was the command (in command line) to check if your hard disk is working in the right order?
+2009-04-02T21:37:00.000Z	shawn_	piglit	you'll have to install smartmontools
+2009-04-02T21:37:00.000Z	shawn_	piglit	sudo apt-get install smartmontools
+2009-04-02T21:38:00.000Z	shawn_	piglit	then use the command sudo smartctl -H /dev/sdX where X is the drive you want
+2009-04-02T21:39:00.000Z	shawn_	piglit	if you have a SATA drive it'll be /dev/sdX if its an IDE it'll be /dev/hdX
+2009-04-02T21:40:00.000Z	shawn_	piglit	an easy way to find out is to type "df -h" and see which is mounted on /

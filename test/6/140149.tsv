@@ -1,0 +1,6 @@
+2007-04-15T08:19:00.000Z	zcat[1] 	eck	I read the RC was held back a few days and the final probably will be too....
+2007-04-15T08:23:00.000Z	zcat[1] 	eck	I'm using feisty now... there's a borken-network icon in the system tray though, and obviously my network is working. any ideas?
+2007-04-15T08:25:00.000Z	zcat[1] 	eck	just occured to me. I should just switch off network manager from loading in my session. problem solved :)
+2007-04-26T09:17:00.000Z	zcat[1] 	eck	to redistribute, probably. To wrap a script that downloads it like flash9, etc.. I wouldn't think so
+2007-04-26T09:20:00.000Z	zcat[1] 	eck	afaik you're not allowed to redistribute flash9, but the package just downloads directly from adobe, checksums the archive, then installs it... that's what I'm after. I might end up doing it myself :(
+2007-04-26T09:23:00.000Z	zcat[1] 	eck	If your 'package' doesn't actually contain any of the non-free software, but just instructs the machine how to download and install it from the original site, I can't see how that could possibly violate anyone's copyright or whatever..

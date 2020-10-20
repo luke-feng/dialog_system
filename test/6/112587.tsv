@@ -1,0 +1,6 @@
+2006-06-22T06:15:00.000Z	supermistry		I'm having a problem with the Add/Remove Applications. Whenever I try to click on one of the items to install it (any item), I get an error saying that the software isn't available on any channel and that the application might not support my system architecture. Does any one have any idea how to fix that?
+2006-06-22T06:17:00.000Z	supermistry		anyone know how to fix my add/remove applications error?
+2006-06-22T06:18:00.000Z	gnomefreak	supermistry	does synaptic work? what errors?
+2006-06-22T06:19:00.000Z	supermistry	gnomefreak	I don't know what synaptic is. The error is that whenever i click on an item to install it (i want to get NetworkManager), i get an error saying it might not work with my system architecture
+2006-06-22T06:20:00.000Z	gnomefreak	supermistry	if in gnome system>admin>synaptics package manager  btw what arch are you using?
+2006-06-22T06:23:00.000Z	supermistry	gnomefreak	I just tried refreshing the list and things look like they might be working. So, I'll ask again in a couple of minutes if i need. I'm using an IBM T21, currently trying to get the wireless to work.

@@ -1,0 +1,6 @@
+2009-03-04T23:02:00.000Z	teneb		hi there, i need some help configuring eth0 with an ip and samba sharing for a cnc linux machine
+2009-03-04T23:02:00.000Z	teneb		can anyone point me to a setup script or the proper config files
+2009-03-04T23:02:00.000Z	ActionParsnip	teneb	i can give you mine
+2009-03-04T23:03:00.000Z	ActionParsnip	teneb	do you have lights on the interface flashing
+2009-03-04T23:04:00.000Z	ActionParsnip	teneb	check lshw -C network
+2009-03-04T23:05:00.000Z	ActionParsnip	teneb	and ifconfig will show the device recieving some data

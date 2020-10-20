@@ -1,0 +1,6 @@
+2005-08-08T11:33:00.000Z	Sonderblade		how do you set which programs that should start when xorg starts?
+2005-08-08T11:34:00.000Z	zAo^	Sonderblade	in GDM you can
+2005-08-08T11:34:00.000Z	zAo^	Sonderblade	sudo gdmsetup
+2005-08-08T11:35:00.000Z	Sonderblade	zAo^	i want to add xcompmgr but there is no option in gdmsetup to add programs
+2005-08-08T11:36:00.000Z	zAo^	Sonderblade	sorry, though you ment which DE :). Yust go to Menu > System > Prefs > sessions > last tab
+2005-08-08T11:37:00.000Z	Sonderblade	zAo^	thanks

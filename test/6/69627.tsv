@@ -1,0 +1,6 @@
+2009-10-31T00:45:00.000Z	solman0		Anyone understand this i la-min terms. For Unix or Unix-like operating systems:
+2009-10-31T00:45:00.000Z	solman0		1. For Java 2, after downloading, type java -jar launcher.jar
+2009-10-31T00:45:00.000Z	solman0		2. For Java 1.1, after downloading, type jre -cp launcher.jar install
+2009-10-31T00:45:00.000Z	solman0		3. If that does not work, try java -classpath [path to] classes.zip:launcher.jar install
+2009-10-31T00:45:00.000Z	solman0		4. If that does not work either, on sh-like shells, try
+2009-10-31T00:45:00.000Z	FloodBot3	solman0	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

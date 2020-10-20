@@ -1,0 +1,6 @@
+2005-07-24T06:10:00.000Z	dyc		hi. I have attempted to install hoary on a amd 64, however i get the error: cannot find partitionable media
+2005-07-24T06:10:00.000Z	poutine	dyc	SATA?
+2005-07-24T06:10:00.000Z	dyc	poutine	yes
+2005-07-24T06:11:00.000Z	poutine	dyc	nfi
+2005-07-24T06:11:00.000Z	dyc		bugger
+2005-07-24T06:11:00.000Z	poutine	dyc	You need some sort of module to recognize the SATA drive

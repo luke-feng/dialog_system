@@ -1,0 +1,6 @@
+2008-05-01T06:02:00.000Z	robertanderson		Hello.  I've got a hardy server install going, and want to add the gnome desktop.  Problem is, I don't have internet access.  Can I do this from cd?
+2008-05-01T06:02:00.000Z	robertanderson		I'm doing it for class.  sudo apt-get install ubuntu-desktop doesn't work.
+2008-05-01T06:03:00.000Z	robertanderson		We're networking a windows and linux server, and then a windows and linux client.
+2008-05-01T06:04:00.000Z	robertanderson		Whenever I try to run sudo apt-get install ubuntu-desktop it says it couldn't find the package.  I have the disk as my repository.
+2008-05-01T06:04:00.000Z	robertanderson		If I install from the desktop cd could I then add the server stuff from the server cd?
+2008-05-01T06:05:00.000Z	noiesmo	robertanderson	yes

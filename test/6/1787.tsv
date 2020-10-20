@@ -1,0 +1,6 @@
+2012-06-10T10:52:00.000Z	hashset		new ubuntu user here..  having trouble detecting multiple displays..  defaults to Laptop
+2012-06-10T10:52:00.000Z	hashset		any insight?
+2012-06-10T10:52:00.000Z	hashset		it worked on fresh install but after doing Ubuntu updates and recommended graphics drivers it broke
+2012-06-10T10:53:00.000Z	hashset		nvidia gtx 260 i think..  2 years old
+2012-06-10T10:54:00.000Z	cscsaba	hashset	on suse you have to use the graphics driver settings
+2012-06-10T10:55:00.000Z	cscsaba	hashset	in case of nvidia we have a nvidia dashboard i guess it is nvv

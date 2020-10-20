@@ -1,0 +1,6 @@
+2009-10-27T09:23:00.000Z	domo		hey im using 9.10.. testing it out.. samba is broken? when copying files over to a share (fresh install of ubuntu server...) it fails with too many files are currently in use
+2009-10-27T09:23:00.000Z	domo		the same copy works on 9.04
+2009-10-27T09:23:00.000Z	domo		so its def. 9.10
+2009-10-27T09:24:00.000Z	bazhang	domo	karmic support in #ubuntu+1
+2010-01-17T04:29:00.000Z	bazhang	domo	you dont need root normally use sudo
+2010-01-17T04:29:00.000Z	domo	bazhang	i have some work to do

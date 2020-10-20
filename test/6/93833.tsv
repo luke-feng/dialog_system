@@ -1,0 +1,6 @@
+2007-03-04T16:11:00.000Z	eshaase		is it all possible to su to root? having to sudo all the time is kinda annoying, especially when i can't cd into directories
+2007-03-04T16:12:00.000Z	slippyr4	eshaase	you can sudo su -
+2007-03-04T16:13:00.000Z	slippyr4	eshaase	or, if you're really determined, you could change the root password with sudo passwd root, then you can login or su to root directly. expect flamewar as to whether you should actually do this
+2007-03-04T16:14:00.000Z	eshaase	slippyr4	ok, i like the whole concept of only sudo but at times it does get annoying (no permission to cd somewhere)
+2007-03-04T16:15:00.000Z	slippyr4	eshaase	i told you *how* to get round it, now you have to choose whether you think it's a good idea or not
+2007-03-04T16:16:00.000Z	eshaase	slippyr4	=) ok, thanks

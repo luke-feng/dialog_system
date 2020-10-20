@@ -1,0 +1,6 @@
+2006-07-07T10:04:00.000Z	jaxvi_		hello
+2006-07-07T10:04:00.000Z	jaxvi_		is it possible to reset the attribs of /sbin to original ones?
+2006-07-07T10:06:00.000Z	frogzoo	jaxvi_	755 mostly
+2006-07-07T10:07:00.000Z	jaxvi_	frogzoo	okas but my /sbin now is not a directory !!
+2006-07-07T10:07:00.000Z	jaxvi_		:s
+2006-07-07T10:08:00.000Z	frogzoo	jaxvi_	that doesn't sound so good...

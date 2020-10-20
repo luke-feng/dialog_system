@@ -1,0 +1,6 @@
+2010-07-11T20:23:00.000Z	Idhan		if I have two ubuntu computer (under the same router), how can I make a ssh connection using the computer name instead of the a ip? I always get "could not resolve hostname"
+2010-07-11T20:24:00.000Z	bastid_raZor	Idhan	if they are on the same subnet, then you should be able to use the hostname of the second box like this.. ssh box2.local
+2010-07-11T20:25:00.000Z	bastid_raZor	Idhan	you will also need openssh-server running
+2010-07-11T20:26:00.000Z	Idhan	bastid_raZor	how is that with the second box? I try ssh box2.local, but doesnt work.. (just for the record I have openssh running already)
+2010-07-11T20:27:00.000Z	bastid_raZor	Idhan	the method i suggested is best IF you don't have static IP's set for each machine. setting the hostnames in /etc/hosts is by far a better route
+2010-07-11T20:27:00.000Z	bastid_raZor	Idhan	box2 needs to be replaced with the hostname of the 2nd box

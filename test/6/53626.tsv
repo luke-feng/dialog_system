@@ -1,0 +1,6 @@
+2009-04-29T10:11:00.000Z	Dday		can you put things on pastebin via terminal?
+2009-04-29T10:12:00.000Z	lstarnes	Dday	I think you can by piping output into pastebinit
+2009-06-23T13:46:00.000Z	lstarnes	Dday	untar it then read the instructions contained in the INSTALL or README files
+2009-06-23T13:46:00.000Z	lstarnes	Dday	tar xzf file.tar.gz
+2009-06-23T13:47:00.000Z	lstarnes	Dday	it doesn't matter
+2009-06-23T13:47:00.000Z	lstarnes	Dday	you can use the - but tar doesn't need irt

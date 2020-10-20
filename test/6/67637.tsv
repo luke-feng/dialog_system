@@ -1,0 +1,6 @@
+2009-03-08T12:40:00.000Z	technologiclee		where does PATH usually point?
+2009-03-08T12:40:00.000Z	technologiclee		lee@4620Z:~$ ls
+2009-03-08T12:40:00.000Z	technologiclee		Command 'ls' is available in '/bin/ls'
+2009-03-08T12:40:00.000Z	technologiclee		The command could not be located because '/bin' is not included in the PATH environment variable.
+2009-03-08T12:40:00.000Z	technologiclee		bash: ls: command not found
+2009-03-08T12:40:00.000Z	FloodBot2	technologiclee	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

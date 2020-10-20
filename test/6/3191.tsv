@@ -1,0 +1,6 @@
+2012-05-28T22:51:00.000Z	i7c		how can i change those shortcuts like Super+T  opens trash on unity? (12.04) is there some tool to edit them? because the shortcuts section in system settings does not have any effect on this?
+2012-05-28T22:51:00.000Z	reisio	i7c	which version of Ubuntu?
+2012-05-28T22:51:00.000Z	i7c	reisio	12.04 LTS
+2012-05-28T22:52:00.000Z	reisio	i7c	whoops sorry you said didn't you :p
+2012-05-28T22:54:00.000Z	reisio	i7c	several solutions here http://www.google.com/search?q=how%20to%20change%20shortcuts%20in%20unity but keep in mind this bug https://bugs.launchpad.net/ubuntu/+source/gnome-control-center/+bug/995885
+2012-05-28T22:54:00.000Z	i7c	reisio	thx. so there is gonna be a fix for this soon? :)

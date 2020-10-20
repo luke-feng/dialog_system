@@ -1,0 +1,6 @@
+2008-07-04T10:03:00.000Z	repsol_		my server is denying my request for nfs any thoughts?
+2008-07-04T10:04:00.000Z	repsol_		yes
+2008-07-04T10:04:00.000Z	xtknight	repsol_	maybe try     sudo /etc/init.d/nfsd reload && sudo /etc/init.d/nfsd restart
+2008-07-04T10:04:00.000Z	repsol_	xtknight	on the server
+2008-07-04T10:05:00.000Z	xtknight	repsol_	yes
+2008-07-04T10:06:00.000Z	repsol_	xtknight	it is a permission issue

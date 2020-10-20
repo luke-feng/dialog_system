@@ -1,0 +1,6 @@
+2005-02-20T10:21:00.000Z	cmg		hi.. i am having trouble getting my Ubuntu box to work with DHCP.. any idea why its not picking up its domain name?
+2005-02-20T10:22:00.000Z	cmg		i am having trouble getting my Ubuntu box to work with DHCP.. any idea why its not picking up its domain name?
+2005-02-20T10:23:00.000Z	cmg		manobes.. yes
+2005-02-20T10:23:00.000Z	cmg		manobes.. i can use it fine.. i just can't get to it (by name) from any other box
+2005-02-20T10:25:00.000Z	cmg		manobes.. i can only access it by IP
+2005-02-20T10:25:00.000Z	[bascule] 	cmg	you need to add it's name to the other machines /etc/hosts , unless you have a lcal DNS server

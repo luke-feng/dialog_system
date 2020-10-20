@@ -1,0 +1,6 @@
+2011-07-22T00:03:00.000Z	rocket16	truepurple	"chmod +x filename.extension"
+2011-07-22T00:03:00.000Z	rocket16	truepurple	Without quotes, obviously
+2011-07-22T00:04:00.000Z	truepurple	rocket16	First I'd have to navigate to the directory in question holding the file, right? Unless I chained it with a path somehow?
+2011-07-22T00:05:00.000Z	rocket16	truepurple	Yeah, right. Use cd for that
+2011-07-22T00:05:00.000Z	rocket16		!gm-notify
+2011-07-22T00:05:00.000Z	truepurple	rocket16	Can I do things like that without changing my directory location in terminal?

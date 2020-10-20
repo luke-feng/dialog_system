@@ -1,0 +1,6 @@
+2006-05-12T11:44:00.000Z	TooEarly		i burnt the kubuntu 5.10 DVD and when i try to install it, it goes through the "language selection, keyboard selection,..." etc but then it says getting drivers for something..then it just sits on the blue screen and does nothing. anyone know what could be the problem
+2006-05-12T11:44:00.000Z	Blissex	TooEarly	hardware configuration? Have you verified the chcksum?
+2006-05-12T11:45:00.000Z	TooEarly	Blissex	what about the hardware config?
+2006-05-12T11:46:00.000Z	Blissex	TooEarly	let me put it another way: we are sorry, our clairvoyant advisors are all busy on other lines, you will be called back soon :-)
+2006-05-12T11:51:00.000Z	TooEarly	Blissex	hey do you think that dual monitors could mess up my installation
+2006-05-12T11:52:00.000Z	Blissex	TooEarly	dual monitor? Thats difficult, it is more likely CPU motherboard chipset or graphics card.

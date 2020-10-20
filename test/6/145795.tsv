@@ -1,0 +1,6 @@
+2007-04-20T06:20:00.000Z	Tell		say,are there any good games compatible with vista? RTS preferably :x
+2007-04-20T06:20:00.000Z	Tell		argh, ubuntu!
+2007-04-20T06:20:00.000Z	Tell		sorry :P
+2007-04-20T06:20:00.000Z	disasm	Tell	whats wrong?
+2007-04-20T06:54:00.000Z	disasm	Tell	apt-get install linux-restricted-modules-generic
+2007-04-20T06:55:00.000Z	disasm	Tell	don't use the official nvidia drivers

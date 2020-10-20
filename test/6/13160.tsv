@@ -1,0 +1,6 @@
+2011-01-25T01:40:00.000Z	S0NiC		hi
+2011-01-25T01:42:00.000Z	S0NiC		hi i have a little problem, i try to install some multitouch software. but i get an compile error "no package libutouch-geis" found. is there a package for ubuntu? i found nothing with apt-cache search libutouch
+2011-01-25T01:43:00.000Z	Israfel-Laptop	S0NiC	Did you see if it's in the repository? (THe src that is.)
+2011-01-25T01:43:00.000Z	S0NiC	Israfel-Laptop	how i can see it?
+2011-01-25T01:45:00.000Z	Israfel-Laptop	S0NiC	Since you have the name of the package, just use synaptic package manager. Google it if it's not there to find out if you need to add another repository.
+2011-01-25T01:45:00.000Z	S0NiC	Israfel-Laptop	ok i try it. thx

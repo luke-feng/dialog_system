@@ -1,0 +1,6 @@
+2012-09-09T16:56:00.000Z	prashant_123456		i have installed pysdm and now my all drives are read only any solution ?
+2012-09-09T16:57:00.000Z	napster	prashant_123456	Make it rw
+2012-09-09T16:57:00.000Z	prashant_123456	napster	all are read only
+2012-09-09T16:57:00.000Z	prashant_123456	napster	also at boot time
+2012-09-09T16:58:00.000Z	prashant_123456	napster	and if do unistall the pysdm no change in file system
+2012-09-09T16:58:00.000Z	napster	prashant_123456	You will be able to make it read-write-executable by chmod

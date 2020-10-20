@@ -1,0 +1,6 @@
+2011-01-13T20:31:00.000Z	pelo		hey, i was wondering if some of the problems i've been seeing are related to my graphics card/drivers? I have to enable the extra effects in compiz everytime i reboot and yet some of the options just aren't shown in the menu at all. I've also been seeing slightly twitchy videos in firefox
+2011-01-13T20:33:00.000Z	pelo		I have a 5750 ati graphics card
+2011-01-13T20:35:00.000Z	pelo		do you know the compiz-fusion-plugins-extra package terminal command?
+2011-01-13T20:35:00.000Z	pelo		for some reason I think it's attributed to the ATI graphics card because it runs on opengl, and from what i've been hearing that's quite problematic
+2011-01-13T20:35:00.000Z	pelo		thanks, will try that now
+2011-01-13T20:36:00.000Z	goltoof	pelo	 ati in general is problematic, with linux.  invest in nvidia insted, if you can

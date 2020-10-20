@@ -1,0 +1,6 @@
+2008-06-24T02:21:00.000Z	theFATMAN		how do i override my resolution? it is capable of 75mhz, but it only shows 60mhz in the options. i have a really bad flicker because of this
+2008-06-24T02:23:00.000Z	unop	theFATMAN	it might be to do with the fact that the driver module loaded for your graphics card isn't capable of setting your monitor up for that refresh rate - look into whether you can install a better driver - if one is available
+2008-06-24T02:23:00.000Z	theFATMAN	unop	thank you, can you point me in the right direction?
+2008-06-24T02:26:00.000Z	unop	theFATMAN	first you have to identify your graphics card's make and model number - use lspci or lshw from a terminal and look through the output - then go onto the manufacturer's website, see if they support linux and download and install the drivers for that particular card - if not, look around on the various forums around to see what other people have done
+2008-06-24T02:26:00.000Z	theFATMAN	unop	hey thank, you've been a big help!
+2008-06-24T02:28:00.000Z	unop	theFATMAN	you're welcome, i'm sorry i couldn't help better but .. this can't be done any other way

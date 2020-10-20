@@ -1,0 +1,6 @@
+2005-03-03T10:44:00.000Z	tux_		um.. whats the default pass for cups ipp on 127.0.0.1:631 ??
+2005-03-03T10:44:00.000Z	pussfeller	tux_	ussually its root
+2005-03-03T10:45:00.000Z	tux_	pussfeller	tried that
+2005-03-03T10:45:00.000Z	pussfeller	tux_	but I dont know how ubuntu handles that since it doesnt use root
+2005-03-03T10:45:00.000Z	pussfeller	tux_	I think you need to use one of the guis for printer configuration
+2005-03-03T10:46:00.000Z	tux_	pussfeller	thats what i am usin

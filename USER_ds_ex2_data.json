@@ -1,0 +1,972 @@
+{
+    "Dialogue1": [
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "5"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "What's up?",
+            "usr": "hello"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "5"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "I'm having a great day! I've been idle before you opened the app and now I'm chatting with you 💓",
+            "usr": "how about your day?"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "4"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "Yes, you do! You always make me feel good about myself",
+            "usr": "I have a great day too!"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "5"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "You're very welcome ❤",
+            "usr": "thanks"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "5"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "What does a nosey pepper do? Gets jalapeno business!",
+            "usr": "could you please tell me a joke?"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "4"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "What's your favorite joke? Can you tell me one?",
+            "usr": "hahah, it cold"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "4"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "😳 Why is humor so hard to understand, please tell me",
+            "usr": "Sorry I donot have that one"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "5"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "I see... Well, I'll need some time to wrap my head around that.",
+            "usr": "humor is he ability to laugh at things that are amusing  I think"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "3"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "Meanwhile, do you want to hear another one of my jokes? You can really help me by telling me which ones are funny and which ones are not.",
+            "usr": "it's ok if you donot have one"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "5"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "OK! Maybe you'll be in the mood for this next time.",
+            "usr": "many people either"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "5"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "Do you like scary movies?",
+            "usr": "I want to watch a movie, do you have some recommended?"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "4"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "I find horror movies interesting rather than scary.",
+            "usr": "not really"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "Shining"
+                ],
+                [
+                    "rating",
+                    "5"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "The Shining. The Babadook. The Exorcist.",
+            "usr": "could you please recommend me one?"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "2"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "I like the Conjuring.",
+            "usr": "Shining is great"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "4"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "It is very intense but in no way scary or unnerving.",
+            "usr": "that one is really scary"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "Exorcist"
+                ],
+                [
+                    "rating",
+                    "4"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "Have you seen the original The Exorcist?",
+            "usr": "maybe"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "5"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "It's worth a watch. Better than a lot of other cheap horror movies lately.",
+            "usr": "nope"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "5"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "If you want horror movies with twists, just watch all the Saw movies.",
+            "usr": "thanks a lot"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "5"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "Are you a fan of romantic comedies?",
+            "usr": "I think I want some comedy, do you have some think favourite"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "Princess Bride"
+                ],
+                [
+                    "rating",
+                    "5"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "The Princess Bride is a great cross-genre movie that has plenty of comedy and romance.",
+            "usr": "yes"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "5"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "It's about the humour that's found in relationships. It's pretty good.",
+            "usr": "ok I will watch it"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "2"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "A dramedy. It's more on the comedic side with bits of dramatic moments.",
+            "usr": "I think so"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "Atypical"
+                ],
+                [
+                    "rating",
+                    "4"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "Atypical on Netflix is really good. Funny and heartfelt with a bit of drama mixed in.",
+            "usr": "ok thanks a lot"
+        }
+    ],
+    "Dialogue2": [
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "4"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "Hello, I am Eliza. ",
+            "usr": "<SILENCE>"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "1"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "How long have you been FC? ",
+            "usr": "hi, I am FC"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "1"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "I'm not sure I understand you fully. ",
+            "usr": "more than 20 years"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "1"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "Oh...  asked a silly question? ",
+            "usr": "because you asked a silly question"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "2"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "Are you Sure? ",
+            "usr": "yes"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "1"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "Do you expect a different answer by repeating yourself?",
+            "usr": "yes"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "2"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "Do you believe it is normal to be not sure? ",
+            "usr": "no I am not sure"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "3"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "Do you really think so? ",
+            "usr": "I think it's normal"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "3"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "I see. ",
+            "usr": "yes"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "1"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "OK... \"I think it's normal\". Tell me more.",
+            "usr": "ok"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "2"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "do you believe it?",
+            "usr": "people always not believe themselves"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "3"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "I understand. ",
+            "usr": "yes"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "1"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "OK... \"people always not believe themselves\". Tell me more. ",
+            "usr": "ok"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "3"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "That is quite interesting. ",
+            "usr": "I donot want to talk it more"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "1"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "Oh...  think its interesting? ",
+            "usr": "why do you think its interesting?"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "1"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "I see. ",
+            "usr": "yes"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "4"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "Did you come to me because you are sad? ",
+            "usr": "I am sad"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "1"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "I see. ",
+            "usr": "yes"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "1"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "What do you think? ",
+            "usr": "and what should I do if I do not want to be sad ?"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "1"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "We were discussing you, not me.",
+            "usr": "you can tell me a joke"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "1"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "You're not really talking about me, are you? ",
+            "usr": "But i also want to know something about you"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "1"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "How long have you been talking about me? ",
+            "usr": "no, I am talking about you"
+        },
+        {
+            "Movie Belief State ": [
+                [
+                    "movie-name",
+                    "null"
+                ],
+                [
+                    "rating",
+                    "1"
+                ]
+            ],
+            "policy_funcs": [
+                "Find And Offer Booking",
+                "Ask For Missing Slots"
+            ],
+            "query_type": [
+                "request"
+            ],
+            "sys": "Tell me more...",
+            "usr": "several mins"
+        }
+    ]
+}

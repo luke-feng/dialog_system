@@ -1,0 +1,6 @@
+2008-04-25T12:34:00.000Z	Johnny_		hey
+2008-04-25T12:34:00.000Z	Johnny_		I have downloaded a .tar.gz file but do not know how to install it. how can i do so?
+2008-04-25T12:34:00.000Z	darryl	Johnny_	you have to extract the files and probably compile the program
+2008-04-25T12:35:00.000Z	Johnny_	darryl	how do i compile it
+2008-04-25T12:35:00.000Z	darryl	Johnny_	that depends on the program, normally it would be  sudo ./configure && make && make install
+2008-04-25T12:36:00.000Z	Johnny_	darryl	where do i even type this in

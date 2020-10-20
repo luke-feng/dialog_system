@@ -1,0 +1,6 @@
+2009-04-22T23:33:00.000Z	piglit		what was the command to see wat is going on on the network, i need to know because the network is slow slow slow ... and i tried several dns servers
+2009-04-22T23:34:00.000Z	frostburn	piglit	define going on the network?
+2009-04-22T23:34:00.000Z	piglit	frostburn	pages are slow loading if they are loading at all
+2009-04-22T23:35:00.000Z	piglit	frostburn	i tried several dns servers
+2009-04-22T23:35:00.000Z	frostburn	piglit	you can use mtr example.org     to see why it takes forever, use a     dig @dnsserver example.org to see where dns is slow
+2009-04-22T23:36:00.000Z	frostburn	piglit	make sure you don't have a power cable next to your cat5

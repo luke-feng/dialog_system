@@ -1,0 +1,6 @@
+2008-05-29T05:50:00.000Z	revilodraw		since upgrading to hardy, my ati graphics are wack. i have used envyng to install the latest drivers, i have the proprietary drivers switched on, yet the graphics are slow/laggy/awful and when i open a folder (ie home) it flashes then disappears. any ideas?
+2008-05-29T05:51:00.000Z	theFATMAN	revilodraw	goto add/remove in menu, goto other or system tools and look for ATI catalyst ctrl center
+2008-05-29T05:53:00.000Z	revilodraw	theFATMAN	thanks ill try that!
+2008-05-29T05:53:00.000Z	theFATMAN	revilodraw	no p, it lets u configure
+2008-05-29T05:54:00.000Z	revilodraw	theFATMAN	i actually already have it, but i couldnt use it, but since im in failsafe gnome now i can! so thanks again
+2008-05-29T05:54:00.000Z	theFATMAN	revilodraw	no p, mate

@@ -1,0 +1,6 @@
+2011-05-04T22:03:00.000Z	jimmybrite		Is there a reason why grub breaks my mbr? I tried instaling 11.04 like 6 times already, and I can't boot into linix or win7 at all, so I have to re-install 10.10 to fix my mbr so I can at least use my system.
+2011-05-04T22:04:00.000Z	ActionParsnip	jimmybrite	boot to liveCD and reinstall grub2
+2011-05-04T22:09:00.000Z	ActionParsnip	jimmybrite	remeber to MD5 tes the ISO
+2011-05-04T22:09:00.000Z	ActionParsnip	jimmybrite	and check the CD for defects
+2011-05-04T22:09:00.000Z	ActionParsnip	jimmybrite	sounds about right, I always clean install
+2011-05-04T22:10:00.000Z	ActionParsnip	jimmybrite	may be the cause of the issues

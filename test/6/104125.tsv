@@ -1,0 +1,6 @@
+2006-10-30T11:51:00.000Z	bjv		in dapper, how do you re-sync the clock from the console?
+2006-10-30T11:51:00.000Z	bjv		i used to just restart ntp-something service
+2006-10-30T11:52:00.000Z	MasseR	bjv	ntpdate server
+2006-10-30T11:52:00.000Z	MasseR		Grah... So kernels higher than 2.6.15 won't work for me. 2.6.17 and higher will break my NIC, break my fans randomly, and break my MMC reader :(
+2006-10-30T11:54:00.000Z	MasseR		I'll just change to use 2.6.15 unless someone has some advices :)
+2006-10-30T11:54:00.000Z	bjv	MasseR	ah, i had wondered about maybe if that should have been able to already know the server name from a config file

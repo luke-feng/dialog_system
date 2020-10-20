@@ -1,0 +1,6 @@
+2010-01-14T09:31:00.000Z	ae86-drifter1		i forgot the command to save grub.conf thats all
+2010-01-14T09:31:00.000Z	Pelo	ae86-drifter1	you needed to open said file with sudo
+2010-01-14T09:32:00.000Z	ae86-drifter1		Pele, like i said previousl sudo doesnt even let you save it, you need to use the grub-mkconfig, thats the only way to build the grub.cfg..
+2010-01-14T09:32:00.000Z	ae86-drifter1	undecim	yes, i did already, it tells you that file u need to edit in the grub.cfg..
+2010-01-14T09:33:00.000Z	ae86-drifter1		its fixed hey , never mind its perfect now
+2010-01-14T09:33:00.000Z	Pelo	ae86-drifter1	in grub two the file you edit with sudo is  /etc/default/grub ,  then you run update-grub also with sudo , it makes theproper edits to grub.conf which you are not suppose to edit manualy

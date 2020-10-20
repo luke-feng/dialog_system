@@ -1,0 +1,6 @@
+2011-05-31T08:15:00.000Z	feyd		I'm desperately seeking help in xfce 4.8 - having massive issues at startup for every reboot
+2011-05-31T08:16:00.000Z	mrdeb	feyd	yes
+2011-05-31T08:16:00.000Z	feyd	mrdeb	so a little while ago I was having issues with sound, it would start up muted, and unmuting did nothing
+2011-05-31T08:16:00.000Z	mrdeb		yes?
+2011-05-31T08:16:00.000Z	feyd	mrdeb	fixed it by removing .pulse dir and pulsecookie, I restarted, and now none of my panels will start, nor will compiz
+2011-05-31T08:17:00.000Z	feyd	mrdeb	and on top of that, the sound breaks on every restart too. There has been no significant changes to my system at all in the past week, this stuff started just an  hour ago

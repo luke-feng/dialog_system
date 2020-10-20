@@ -1,0 +1,6 @@
+2011-04-27T12:38:00.000Z	delby		hi. i would like to install ubuntu on pc with nvidia fx 5500. i found many posts about how to make it work after i have ubuntu installed, but i cant find info about how to install ubuntu on a pc with it. the installer gets stuck. is there a way i can overcome this problem?
+2011-04-27T12:39:00.000Z	rumpe1	delby	laptop?
+2011-04-27T12:41:00.000Z	rumpe1	delby	well... there are many ways to accomplish this, but it would be a good idea to determine what is causing the problem.
+2011-04-27T12:42:00.000Z	rumpe1	delby	well...for the installation itself it uses the open drivers (afaik)
+2011-04-27T12:45:00.000Z	rumpe1	delby	well... i guess you could use other drivers via kernel parameters ..hm
+2011-04-27T12:49:00.000Z	delby	rumpe1	thanks.

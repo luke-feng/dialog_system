@@ -1,0 +1,6 @@
+2010-07-19T22:08:00.000Z	Dazzler		Hi guys, could you please help me i am getting an error when trying to install from package manger - i get sub process /usr/bin dpkg returned an error code (2)
+2010-07-19T22:09:00.000Z	Dazzler		when i try to run from terminal i get "E: Could not get lock /var/lib/dpkg/lock - open (11 Resource temporarily unavailable)
+2010-07-19T22:09:00.000Z	Dazzler		E: Unable to lock the administration directory (/var/lib/dpkg/), is another process using it?
+2010-07-19T22:09:00.000Z	Dazzler		"
+2010-07-19T22:09:00.000Z	Dazzler		any know what is causing that?
+2010-07-19T22:09:00.000Z	oneirosFade	Dazzler	Do you have another install/update running somewhere on the system?

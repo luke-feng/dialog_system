@@ -1,0 +1,6 @@
+2008-03-26T02:18:00.000Z	Lokii-		/192.168.0.194/SharedDocs /media/winshare cifs guest,uid=1000,iocharset=utf8,codepage=unicode,unicode  0  0
+2008-03-26T02:18:00.000Z	Lokii-		/192.168.0.194/drive2 /media/drive2 cifs guest,uid=1000,iocharset=utf8,codepage=unicode,unicode  0  0
+2008-03-26T02:19:00.000Z	Lokii-		add the extra / at the beggining of those 2 lines
+2008-03-26T02:19:00.000Z	Lokii-		sudo metacity --replace&
+2008-03-26T02:20:00.000Z	artenius2	Lokii-	I can't type in a terminal, lol, and I don't want metacity
+2008-03-26T02:44:00.000Z	artenius2	Lokii-	where do I put that since the terminal window is blank/white

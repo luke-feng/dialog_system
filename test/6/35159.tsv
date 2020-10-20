@@ -1,0 +1,6 @@
+2009-11-25T13:16:00.000Z	colloguy		Is there an easy way to log all invocation of a particular binary (in this case, I want to know what flags hdparm is invoked with) ?
+2009-11-25T13:16:00.000Z	colloguy		oh wait, maybe I can just wrapper in binary in a script
+2009-11-25T13:16:00.000Z	Jordan_U	colloguy	You can replace the binary with a script that logs the flags then passes them on to the real binary
+2009-11-25T13:17:00.000Z	colloguy	Jordan_U	My thoughts exactly!
+2009-11-25T13:18:00.000Z	Jordan_U	colloguy	echo $0 "$@"; exec "${0}-real" "$@"
+2009-11-25T13:19:00.000Z	colloguy	Jordan_U	<3

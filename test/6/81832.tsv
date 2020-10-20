@@ -1,0 +1,6 @@
+2011-06-06T00:08:00.000Z	aguitel_		i need to install network-manager-gnome in other pc with no internet connection ,how i do that ?
+2011-06-06T00:09:00.000Z	th0r	aguitel_	download the package from packages.ubuntu.com on another computer
+2011-06-06T00:10:00.000Z	aguitel_	th0r	but the dependences ?
+2011-06-06T00:10:00.000Z	th0r	aguitel_	you will have to have them as well...will need to figure it all out ahead of time
+2011-06-06T00:11:00.000Z	aguitel_	th0r	ihow download the package with all dependences?
+2011-06-06T00:11:00.000Z	th0r	aguitel_	the dependencies are listed at that website if I remember correctly

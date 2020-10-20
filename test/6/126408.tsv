@@ -1,0 +1,6 @@
+2006-03-01T06:18:00.000Z	NOT_rynofly		where can i edit the monitor linux is detecting and its resolution?
+2006-03-01T06:18:00.000Z	NOT_rynofly		its showing generic monitor
+2006-03-01T06:18:00.000Z	theSamo	NOT_rynofly	xorg.conf
+2006-03-01T06:19:00.000Z	theSamo	NOT_rynofly	System->Prefrences->Screen Resolution
+2006-03-01T06:21:00.000Z	theSamo	NOT_rynofly	dunno then
+2006-03-01T06:22:00.000Z	theSamo	NOT_rynofly	hmm, this might be the display driver. i dunno really

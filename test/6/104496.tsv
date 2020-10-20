@@ -1,0 +1,6 @@
+2007-10-08T10:53:00.000Z	noen		Hi, how do I add my windows partition in grub?
+2007-10-08T10:54:00.000Z	sipher	noen	you need to edit your fstab..
+2007-10-08T10:58:00.000Z	sipher	noen	use fdisk
+2007-10-08T11:00:00.000Z	sipher	noen	do fdisk /dev/sda
+2007-10-08T11:00:00.000Z	noen	sipher	yup, what next?
+2007-10-08T11:02:00.000Z	noen	sipher	but that points to my /dev/sda1 ?

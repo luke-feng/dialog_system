@@ -1,0 +1,6 @@
+2005-11-04T13:15:00.000Z	titanium_		i'm trying to get a program to run on system start. i wrote a shell script and put it in /etc/init.d/, but when i try to run it, the program doesn't run because it can't find it's configuration file. the program and its config file are in /home/garrett/kaid/, and the program is 'kaid'. my script calls /home/garrett/kaid/kaid. how do i get the script to make the binary run in its home dir so it sees its config file?
+2005-11-04T13:16:00.000Z	erUSUL	titanium_	quick and dirt... do a 'cd /hom....' after the call to the program
+2005-11-04T13:17:00.000Z	erUSUL	titanium_	*before* not after my bad
+2005-11-04T13:22:00.000Z	erUSUL	titanium_	put and & after the comand
+2005-11-04T13:23:00.000Z	titanium_	erUSUL	is that a proper way to run something on startup?
+2005-11-04T13:24:00.000Z	erUSUL	titanium_	i do not know.. what type of program it is... take a lok at  /etc/init.d/skeleton

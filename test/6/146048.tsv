@@ -1,0 +1,6 @@
+2011-08-30T20:40:00.000Z	tim167	DrkCodeman	thanks, but I want to reformat one of my partitions (/dev/sdb5) can I do this without gparted ?
+2011-08-30T20:40:00.000Z	DrkCodeman		2TB+?
+2011-08-30T20:42:00.000Z	DrkCodeman	tim	how big is your hard disk?
+2011-08-30T20:42:00.000Z	tim167	DrkCodeman	500GB
+2011-08-30T20:43:00.000Z	DrkCodeman		then you shouldnt have any problems
+2011-08-30T20:43:00.000Z	tim167	DrkCodeman	gparted gives a warning: "can't have a partition outside the disk!"

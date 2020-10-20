@@ -1,0 +1,6 @@
+2009-06-04T02:42:00.000Z	codeFiend		if I have a 7.04 server sitting around, how likely am I to fubar it by trying to upgrade to 8, and thence to 9?
+2009-06-04T02:42:00.000Z	codeFiend		yeah I read the EOL upgrade guide
+2009-06-04T02:42:00.000Z	codeFiend		just wondering if I really need to drive there and make a full backup before I fuck with it, or if it's likely to be ok
+2009-06-04T02:43:00.000Z	cabrey	codeFiend	I would suggest going to 8.04 as that is a LTS
+2009-06-04T02:43:00.000Z	codeFiend	cabrey	no 9.04?
+2009-06-04T02:44:00.000Z	cabrey	codeFiend	I would not recommend it for a server

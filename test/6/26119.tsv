@@ -1,0 +1,6 @@
+2009-12-26T19:06:00.000Z	princeofgiri		in ubuntu karmic, I can't hear sound on my speaker while my guitar plug in on my line-in, but in jaunty I can. is some clue here?
+2009-12-26T19:08:00.000Z	soreau	princeofgiri	Did you check the audio settings with alsamixer or the gnome sound mixer?
+2009-12-26T19:19:00.000Z	soreau	princeofgiri	Just because you checked it doesnt mean you configured it correctly
+2009-12-26T19:19:00.000Z	soreau	princeofgiri	You might need to enable line in or maybe there is a physical issue
+2009-12-26T19:19:00.000Z	princeofgiri	soreau	I try to configured it corectly, because I can record my guitar sound
+2009-12-26T19:20:00.000Z	soreau	princeofgiri	Might also be a pulseaudio issue, not sure

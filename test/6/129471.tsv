@@ -1,0 +1,6 @@
+2005-12-06T07:41:00.000Z	antdengineer		hey, how does one kill x without it restarting
+2005-12-06T07:42:00.000Z	antdengineer		i keep trying to kill it but i cant get it to stay dead.  Anyone no how to kill x so that it wont restart itself
+2005-12-06T07:43:00.000Z	dooglus	antdengineer	one types "sudo /etc/init.d/gdm stop"
+2005-12-06T07:44:00.000Z	antdengineer	dooglus	while in gnome?
+2005-12-06T07:44:00.000Z	dooglus	antdengineer	whenever you like
+2005-12-06T07:44:00.000Z	antdengineer	dooglus	cool, thanks dude

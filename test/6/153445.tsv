@@ -1,0 +1,6 @@
+2005-03-09T06:47:00.000Z	tomaraya		Complete newbie here, I'm trying to download the newest version of gaim, I currently have 1.0.0 and 1.1.4 is out. I see that it's available for download at http://gaim.sourceforge.net/downloads.php. Which one would I want to download and how would I install it? Sorry if that comes off as dumb but I tried to figure it out and I'm not having any luck.
+2005-03-09T06:47:00.000Z	tomaraya		it says 'gaim is already the newest version.
+2005-03-09T06:47:00.000Z	tomaraya		'
+2005-03-09T06:48:00.000Z	tomaraya		But the program itself tells me it isn't.
+2005-03-09T06:50:00.000Z	tomaraya		Oh, I see. So it's nothing for me to worry about. Basically, if apt-get says its the newest don't worry then, correct?
+2005-03-09T06:52:00.000Z	bojohan	tomaraya	yes

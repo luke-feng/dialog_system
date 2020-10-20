@@ -1,0 +1,6 @@
+2010-01-26T05:53:00.000Z	_2		ditto
+2010-01-26T05:55:00.000Z	_2		can someone lend a hand with wired networking?   new install of 9.10 and it can't ping anything beyond 192.168.0.1    however i am sshed into 192.168.0.1 and talking to you from there.
+2010-01-26T05:55:00.000Z	LizardK|ng	_2	check your netmask
+2010-01-26T05:56:00.000Z	_2	LizardK|ng	255.255.255.0
+2010-01-26T05:57:00.000Z	LizardK|ng	_2	is that what it should be?
+2010-01-26T05:57:00.000Z	_2	LizardK|ng	yes

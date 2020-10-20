@@ -1,0 +1,6 @@
+2008-07-25T19:44:00.000Z	opticxl		hi im a bit worried here.. I just bought a My book world edition (NAS) and its not detected, dmesg shows a LOT of I/O errors on sdb1 <-- but thats the same name I have on my other external hdd, is linux just like windows in terms of sharing usb? same name = conflict?
+2008-07-25T19:45:00.000Z	astra-xwork	opticxl	pastebin your dmesg
+2008-07-25T19:45:00.000Z	opticxl	astra-xwork	okay buddy
+2008-07-25T19:47:00.000Z	opticxl	astra-xwork	http://pastebin.com/m4bc66ef1
+2008-07-25T19:57:00.000Z	opticxl	astra-xwork	I dont even have /etc/dmesg
+2008-07-25T19:57:00.000Z	astra-xwork	opticxl	?

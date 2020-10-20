@@ -1,0 +1,6 @@
+2008-11-14T02:38:00.000Z	Baversjo		I have a problem with Ext2 IFS For Windows. The problem is that the ext3 filesystem doesn't meet a requirements for the windows program. The utility mountdiag says the following: "The volume has an Ext2/Ext3 file system, but the Ext2 IFS 1.11 software did not
+2008-11-14T02:38:00.000Z	Baversjo		mount it because the file system has an inode size unequal to 128 bytes (inode
+2008-11-14T02:38:00.000Z	Baversjo		size: 256 bytes). The only way to solve it is to back up the volume's files and format the file
+2008-11-14T02:38:00.000Z	Baversjo		system: give the mkfs.ext3 utility the -I 128 switch. Finally, restore all
+2008-11-14T02:38:00.000Z	Baversjo		backed-up files." I've tried the following: "mkfs.ext3 -m 0 /dev/sda6 -i 128" But the program says that the inode ratio needs to be at least 1024.
+2008-11-14T02:38:00.000Z	FloodBot1	Baversjo	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

@@ -1,0 +1,6 @@
+2009-02-28T23:48:00.000Z	nicholashubbard		can someone point me in the direction of a program can execute a command when a cd/dvd is automatically inserted
+2009-02-28T23:50:00.000Z	oliver3	nicholashubbard	automatically inserted by what?
+2009-02-28T23:50:00.000Z	nicholashubbard	oliver3	a person puts the cd in
+2009-02-28T23:50:00.000Z	oliver3	nicholashubbard	you might wanna look into HAL, maybe there is something in System -> Preferences too.
+2009-02-28T23:51:00.000Z	nicholashubbard	oliver3	im using ubuntu server edition with no gui
+2009-02-28T23:52:00.000Z	oliver3	nicholashubbard	oic, I can't help then sorry.

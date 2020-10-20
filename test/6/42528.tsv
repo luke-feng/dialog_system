@@ -1,0 +1,6 @@
+2011-07-05T10:32:00.000Z	aarcane	wildbat	we've been through that.  bad idea.
+2011-07-05T10:33:00.000Z	wildbat	aarcane	why is that?
+2011-07-05T10:34:00.000Z	aarcane	wildbat	his own connection would be dropped, and no new sshds would spawn.
+2011-07-05T10:35:00.000Z	wildbat	aarcane	i think the upstart will respwn the sshd ~
+2011-07-05T10:35:00.000Z	aarcane	wildbat	test it and let us know, I'm going to bed.
+2011-07-05T10:35:00.000Z	wildbat	aarcane	tested

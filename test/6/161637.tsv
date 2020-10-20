@@ -1,0 +1,6 @@
+2004-11-03T16:08:00.000Z	__daniel	GotD0t	there's an option in  /etc/console-tools/config  but i'm not sure if it should be changed - better ask the rest of the guys in here first
+2004-11-03T16:14:00.000Z	__daniel	GotD0t	i just know liferea, straw and blam - you tried these?
+2004-11-03T16:14:00.000Z	GotD0t	__daniel	well ive tried liferea but it doesnt have HTTPS suport, and I cant get curl working through it
+2004-11-03T16:57:00.000Z	__daniel	GotD0t	just ask your question
+2004-11-04T17:00:00.000Z	__daniel	GotD0t	tell it to         AllowOverride None        Order deny,allow        Deny from all        Allow from 127.0.0.0/255.0.0.0 ::1/128
+2004-11-04T17:10:00.000Z	__daniel	GotD0t	it came with my desk :-)

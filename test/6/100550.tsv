@@ -1,0 +1,6 @@
+2006-11-27T17:29:00.000Z	Vimmel		Where do i check who and what restarted my server?
+2006-11-27T17:31:00.000Z	tonyyarusso	Vimmel	/var/log/syslog I think
+2006-11-27T17:32:00.000Z	Vimmel	tonyyarusso	Ok cool, thx
+2006-11-27T17:32:00.000Z	tonyyarusso	Vimmel	Hm, maybe not.  /var/log/auth.log looks more promising
+2006-11-27T17:32:00.000Z	tonyyarusso		Depends how it's done maybe
+2006-11-27T17:32:00.000Z	Vimmel	tonyyarusso	Thanks, ill check them both

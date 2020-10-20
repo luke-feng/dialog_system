@@ -1,0 +1,6 @@
+2010-06-02T00:44:00.000Z	JabberWalkie	kamil_	of course!! just uninstal xorg and download the XFree86 source, configure, compile and install
+2010-06-02T00:45:00.000Z	JabberWalkie	kamil_	you can also change your window manager to something simpler
+2010-06-02T00:46:00.000Z	JabberWalkie	kamil_	https://help.ubuntu.com/community/Installation/LowMemorySystems       the section on xorg might be useful to you
+2010-06-02T00:47:00.000Z	JabberWalkie	kamil_	so maybe install openbox as your WM, it will probably run better
+2010-06-02T00:48:00.000Z	JabberWalkie	kamil_	instructions are in the page i listed
+2010-06-02T00:48:00.000Z	JabberWalkie	kamil_	https://help.ubuntu.com/community/Installation/LowMemorySystems#Adding%20a%20Window%20Manager

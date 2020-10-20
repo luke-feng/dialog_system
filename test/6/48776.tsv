@@ -1,0 +1,6 @@
+2008-11-01T00:52:00.000Z	shad0w0fsin		anyone know how to decrease the boot time in ibex? its slower than hardy for me
+2008-11-01T00:54:00.000Z	compengi	shad0w0fsin	your boot time depends on what applications you have on startup. check your /etc/init.conf and see what you have on boot and remove if you don't need it
+2008-11-01T00:55:00.000Z	shad0w0fsin	compengi	/etc/init.conf doesn't exist on my computer
+2008-11-01T00:55:00.000Z	compengi	shad0w0fsin	let me check it
+2008-11-01T01:00:00.000Z	compengi	shad0w0fsin	check this https://help.ubuntu.com/community/AddingProgramToSessionStartup this is a gui application
+2008-11-01T01:07:00.000Z	shad0w0fsin	compengi	I removed some unnecessary startup entries, but gnome still takes longer to load

@@ -1,0 +1,6 @@
+2007-11-21T02:08:00.000Z	whiteygford		fuck windows
+2007-11-21T02:09:00.000Z	whiteygford		oops
+2007-11-21T02:10:00.000Z	whiteygford		anyways, I have a mounting question, my linux partition will mount my second hard drive automatically but not my windows partition on the same drive, how can I fix this?
+2007-11-21T02:11:00.000Z	whiteygford		ahh, I see
+2007-11-21T02:12:00.000Z	Ahmad_	whiteygford	. u can change the boot option from zhe grub settings
+2007-11-21T02:13:00.000Z	whiteygford	Ahmad_	its not the boot, its when I log into linux and am at the desktop my windows partition does not show up, I have to manually mount it every time I log in

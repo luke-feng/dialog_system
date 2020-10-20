@@ -1,0 +1,6 @@
+2009-02-28T08:58:00.000Z	storbeck	Scunizi	That depends on what irc client he's on
+2009-02-28T08:58:00.000Z	Scunizi	storbeck	true..
+2009-02-28T08:59:00.000Z	Scunizi	storbeck	ditto
+2009-03-11T19:40:00.000Z	Scunizi	storbeck	not if you're initiating a reboot of the machine via ssh like bhsx is saying.. the screen session would terminate on reboot
+2009-03-11T19:41:00.000Z	storbeck	Scunizi	His reboot is hanging though, so I don't think it would close out screen
+2009-03-11T19:41:00.000Z	Scunizi	storbeck	depends on if it hangs on the shutdown side or the boot side.. > bhsx

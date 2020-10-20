@@ -1,0 +1,6 @@
+2007-03-05T08:13:00.000Z	Bobby		all it says is that the SMB connection failed.... any help would be great!! thank you!!
+2007-03-05T08:15:00.000Z	Bobby		anyone please?  networking help.... ??
+2007-03-05T08:17:00.000Z	gyaresu	Bobby	What's the problem?
+2007-03-05T08:20:00.000Z	gyaresu	Bobby	Are you sure that you're 'sharing' from windows properly and that there is no firewall issues?
+2007-03-05T08:20:00.000Z	gyaresu	Bobby	Try the command 'smbtree'
+2007-03-05T08:21:00.000Z	gyaresu	Bobby	Can you ping the windows box?

@@ -1,0 +1,6 @@
+2008-06-01T21:39:00.000Z	simi		hi, the ~/.mozilla/firefox/plugin folder is no longer there, they changed the structure, were i must place te plugins for firefox 3 now?
+2008-06-01T21:40:00.000Z	anirudh0	simi	manual placement of plugins?
+2008-06-01T21:40:00.000Z	anirudh0	simi	/usr/lib/firefox/plugins i think..
+2008-06-01T21:40:00.000Z	simi	anirudh0	yes manualy
+2008-06-01T21:41:00.000Z	anirudh0	simi	hmm..try there..not sure if it'll get recognized..look at about:plugins in ff after you put it there..check perms too
+2008-06-01T21:42:00.000Z	simi	anirudh0	thx

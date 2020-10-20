@@ -1,0 +1,6 @@
+2011-07-09T07:09:00.000Z	UABob		Okay great. That worked for the driver, Nvidia x config says it's using it, shows info :D Awesome....
+2011-07-09T07:10:00.000Z	UABob		Now...sound....I've got an Asus A8N32 SLI Deluxe board (old system, I know) with onboard realtek AC97 audio. Ubuntu 11.04, fresh install. Audio just doesn't work--period.
+2011-07-09T07:10:00.000Z	UABob		Speakers work, volume's up, it's unmuted.
+2011-07-09T07:10:00.000Z	UABob		Just....no audio
+2011-07-09T07:10:00.000Z	UABob		any place to start?
+2011-07-09T07:10:00.000Z	dork	UABob	lspci showing it?

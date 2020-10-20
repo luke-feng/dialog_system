@@ -1,0 +1,6 @@
+2012-05-11T15:29:00.000Z	oal		Is there a command I can use to switch to US keyboard layout in Ubuntu? I need to be able to switch back and forth with a single command.
+2012-05-11T15:29:00.000Z	meisth0th	oal	setxkbmap <layout>
+2012-05-11T15:29:00.000Z	oal	meisth0th	thanks
+2012-05-11T15:29:00.000Z	meisth0th		yw
+2012-05-11T15:30:00.000Z	oal	meisth0th	is there a list of all valid key maps somewhere?
+2012-05-11T15:32:00.000Z	meisth0th	oal	should be /usr/share/X11/xkb/symbols

@@ -1,0 +1,6 @@
+2005-07-24T13:43:00.000Z	michetti		Hi, anybody know why ubuntu automaticaly run "apt-get clean" and if it is possible to disable it? I'm using Hoary
+2005-07-24T13:44:00.000Z	astronut	michetti	there is a max cache size in apt's conf
+2005-07-24T13:44:00.000Z	astronut	michetti	also check cron
+2005-07-24T13:46:00.000Z	michetti	astronut	thanks. Should I set it o 0 to disable it?
+2005-07-24T13:47:00.000Z	astronut	michetti	not sure, rtmp
+2005-07-24T13:47:00.000Z	michetti	astronut	ok

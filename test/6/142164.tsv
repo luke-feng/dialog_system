@@ -1,0 +1,6 @@
+2005-10-14T06:47:00.000Z	funkyHat	Xanadu	it's just stopping me from updating packages...
+2005-10-14T06:47:00.000Z	funkyHat	Xanadu	because it thinks skype is broken
+2005-10-14T06:47:00.000Z	Xanadu	funkyHat	u tried uninstalling it?
+2005-10-14T06:48:00.000Z	funkyHat	Xanadu	no, i know why it's broken, and i know what needs doing to fix it, i just need to know how to create a psuedo package in order to do that
+2005-10-14T06:48:00.000Z	funkyHat	Xanadu	skype depends on libqt3c102-mt, which is replaced in breezy by libqt3-mt
+2005-10-14T06:49:00.000Z	Xanadu	funkyHat	u just need to build it with the libqt3 packages - instructions are on skype forums

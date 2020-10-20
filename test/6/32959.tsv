@@ -1,0 +1,6 @@
+2009-08-09T22:40:00.000Z	legend2440	skapism_	in terminal type     modinfo snd_via82xx  see line like this?   dxs_support:Support for DXS channels (0 = auto, 1 = enable, 2 = disable, 3 = 48k only, 4 = no VRA, 5 = enable any sample rate) (int)
+2009-08-09T22:50:00.000Z	skapism_	legend2440	yes, this line appears
+2009-08-09T22:53:00.000Z	legend2440	skapism_	right click Volume icon on top panel choose  Open Vol Control then preferences and enable via dxs. i have  4 entries maybe try all or some and see if that helps
+2009-08-09T22:57:00.000Z	skapism_	legend2440	Sorry, I have xubuntu here. do you know how the process is called so I can start it from the terminal? I _know_ it's installed on xubuntu too
+2009-08-09T22:59:00.000Z	legend2440	skapism_	 in terminal try  gnome-volume-control
+2009-08-09T23:00:00.000Z	skapism_	legend2440	thanks, that's what I was looking for

@@ -1,0 +1,6 @@
+2012-10-22T06:38:00.000Z	zruty		Can I upgrade my x32 Ubuntu to an x64 version without completely reinstalling?
+2012-10-22T06:38:00.000Z	tonyyarusso	zruty	no
+2012-10-22T06:39:00.000Z	tonyyarusso	zruty	That's a replacement, not an "upgrade".
+2012-10-22T06:40:00.000Z	zruty	tonyyarusso	I see... ok, thanks! Kind of interesting though, I'd say that the partitions are there anyway, there is no difference between 32- and 64-bit partitions, just the files (... most of them, I'm pretty sure) on them need to be replaced...
+2012-10-22T06:41:00.000Z	tonyyarusso	zruty	Right.  Partitions are a disk concept, not an OS one.
+2012-10-22T06:42:00.000Z	zruty	tonyyarusso	Right. Thanks again!

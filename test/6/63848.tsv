@@ -1,0 +1,6 @@
+2010-01-25T08:14:00.000Z	elux		hey guys
+2010-01-25T08:14:00.000Z	elux		how do i change the time zone for a ubuntu system?
+2010-01-25T08:15:00.000Z	elux		i changed /etc/localtime with a file in the timezone share, it worked just fine, but then when i rebooted it switched back to UTC
+2010-01-25T08:15:00.000Z	mkquist__	elux	adminstration/time and date
+2010-01-25T08:16:00.000Z	mkquist__	elux	sry
+2010-01-25T08:16:00.000Z	mkquist__	elux	didnt know... lol

@@ -1,0 +1,6 @@
+2006-03-31T09:14:00.000Z	rapha		Help!
+2006-03-31T09:15:00.000Z	rapha		I just said "for i in Documents Websites Other Important Stuff; do tar cvjf $i.tar.bz2 $i && rm -rf $i" in my homedir and now it's ALL GONE! That command is not SUPPOSED to delete the .tar.bz2's!??!
+2006-03-31T09:15:00.000Z	Chousuke	rapha	:|
+2006-03-31T09:16:00.000Z	Chousuke	rapha	you shouldn't have included rm -rf in that.
+2006-03-31T09:16:00.000Z	rapha	Chousuke	I _tried_ the command with unimportant data before and it did _not_ remove the .tar.bz2's.
+2006-03-31T09:16:00.000Z	rapha	Chousuke	I know... that was lazyness :-(

@@ -1,0 +1,6 @@
+2009-05-09T23:41:00.000Z	ktwo		hi i mounted a smb share and cyrillic letters are showing up as ??? and i cant even enter the directory any ideas how to fix this?
+2009-05-09T23:41:00.000Z	mzz	ktwo	are you sure you can't enter the directory? Are you doing this from the commandline? Try using "cd " and then hitting tab repeatedly to get the dirname completed
+2009-05-09T23:43:00.000Z	mzz	ktwo	just "cd " and then hit tab repeatedly to cycle through dirs
+2009-05-09T23:43:00.000Z	mzz	ktwo	simply typing out the question marks won't necessarily work
+2009-05-09T23:44:00.000Z	mzz	ktwo	ugh, sorry, not sure then.
+2009-05-09T23:44:00.000Z	mzz	ktwo	I use utf8 throughout and afaict nonascii dirnames work. If you're not using utf-8 on both ends it gets convoluted.

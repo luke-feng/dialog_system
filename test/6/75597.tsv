@@ -1,0 +1,6 @@
+2007-12-11T23:17:00.000Z	__sc		say i have written a shell script called 'hello_world' and have it saved at the location ~/bin.  how can i call the command 'hello_world' without typing '~/bin/hello_world'?
+2007-12-11T23:17:00.000Z	ikonia	__sc	alter your PATH
+2007-12-11T23:18:00.000Z	__sc	ikonia	can you give me an example?  where do i alter the PATH?
+2007-12-11T23:18:00.000Z	ikonia	__sc	PATH=$PATH:~/bin
+2007-12-11T23:18:00.000Z	ikonia	__sc	then do "hello_world" and it should work
+2007-12-28T03:05:00.000Z	ikonia	__sc	I have positive comments for kvm

@@ -1,0 +1,6 @@
+2012-04-26T22:01:00.000Z	BadCodSmell		When installing ubuntu in expert mode, how do I partition? As in something like cfdisk? IT wont let me do anything to the partitions that it auto generates or that are already there
+2012-04-26T22:02:00.000Z	nitzs	BadCodSmell	you'll need to write the partition table after you make changes.
+2012-04-26T22:02:00.000Z	nitzs		and then format it as ext4
+2012-04-26T22:03:00.000Z	BadCodSmell	nitzs	I don't have thoise options, I just have weirdness such as guided partition that insists on using all of the space
+2012-04-26T22:04:00.000Z	BadCodSmell		ah dont worry I figured it out, the interface just isnt very intuitive compared to traditional tools such as windows fdisk
+2012-04-26T22:05:00.000Z	nitzs	BadCodSmell	http://www.psychocats.net/ubuntu/minimal

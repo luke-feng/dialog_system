@@ -1,0 +1,6 @@
+2011-06-29T06:54:00.000Z	john_rambo		is there any windows mm player available which I can install using wine & then use vdpau ?
+2011-06-29T06:55:00.000Z	soreau	john_rambo	You don't want to use any windows player on linux when there's mplayer
+2011-06-29T06:55:00.000Z	john_rambo	soreau	mplayer is giving me issues with certain files that the problem
+2011-06-29T06:55:00.000Z	soreau	john_rambo	And, there's mplayer ;)
+2011-06-29T06:56:00.000Z	john_rambo	soreau	1 sec please
+2011-06-29T06:56:00.000Z	soreau	john_rambo	If you're having issues with mplayer, it's likely actually your graphics driver

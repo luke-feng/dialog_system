@@ -1,0 +1,6 @@
+2007-05-26T10:36:00.000Z	James_		How do I extract a file from a .bin
+2007-05-26T10:36:00.000Z	James_		?
+2007-05-26T10:38:00.000Z	James_		smygis: yes
+2007-05-26T10:38:00.000Z	James_		smygis: I just dont want to burn it
+2007-05-26T10:39:00.000Z	erUSUL	James_	you can mount the iso over a loop device
+2007-05-26T10:40:00.000Z	James_	erUSUL	loop device??

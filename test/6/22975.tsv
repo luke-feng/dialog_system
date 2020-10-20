@@ -1,0 +1,6 @@
+2010-08-28T23:55:00.000Z	twoten		Hi, I had to hotplug my cdrom drive, and it won't mount - error msg is Special device /dev/scd0 does not exist
+2010-08-28T23:55:00.000Z	twoten		what do I do?
+2010-08-28T23:57:00.000Z	twoten		how can I mount my hot plugged cdrom drive without rebooting?
+2010-08-28T23:58:00.000Z	twoten		the power connector was off, I plugged it back in, the IDE cable was always on
+2010-08-28T23:59:00.000Z	Oer	twoten	if the bios did not recognized it at boot, no chance
+2010-08-29T00:02:00.000Z	Oer	twoten	no, that is just the cp player modus, the ide is not recognized so all it can do is play music now.

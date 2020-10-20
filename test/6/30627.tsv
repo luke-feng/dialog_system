@@ -1,0 +1,6 @@
+2012-08-19T02:12:00.000Z	ChogyDan		if anyone knows about compiliing kernels, specifically configuring them, I could use some help
+2012-08-19T02:13:00.000Z	violinappren	ChogyDan	https://help.ubuntu.com/community/Kernel/Compile/
+2012-08-19T02:17:00.000Z	ChogyDan	violinappren	ok, but please don't ask for details if you can't help.  I just don't know which command I should use to configure, debian/rules editconfigs or debian/rules updateconfigs.  I also don't know how to check if I have configured correctly.  I feel lost
+2012-08-19T02:18:00.000Z	violinappren	ChogyDan	this is a public channel, you're expected to give all useful details of a problem and any one may help
+2012-08-19T02:18:00.000Z	ChogyDan	violinappren	I know how it works -.-
+2012-08-19T02:19:00.000Z	violinappren	ChogyDan	not if you withhold the details from public :)

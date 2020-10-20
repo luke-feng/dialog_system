@@ -1,0 +1,6 @@
+2007-01-21T11:57:00.000Z	astrobilly		how can I get totem to play mpeg files?
+2007-01-21T11:59:00.000Z	astrobilly		will totem play mpg files?
+2007-01-21T11:59:00.000Z	sivik	astrobilly	no, install mplayer and the w32codecs
+2007-01-21T12:00:00.000Z	sivik	astrobilly	it will, but its a beast to get working
+2007-01-21T12:00:00.000Z	astrobilly	sivik	I have vlc.  How can I make it the default player?
+2007-01-21T12:01:00.000Z	sivik	astrobilly	uninstall totem

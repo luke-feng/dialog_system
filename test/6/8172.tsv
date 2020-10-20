@@ -1,0 +1,6 @@
+2011-11-01T09:58:00.000Z	KamikazeAndy		Im trying to install Enlightenment E17 on 11.11, and apt-get returns that there are unmet dependencies and "E: Unable to correct problems, you have held broken packages."
+2011-11-01T09:59:00.000Z	zykotick9	KamikazeAndy	broken packages... you could try running "sudo apt-get -f install" to fix those - or provide pastebin of what's failing.  Sorry, I've never personally used E17 so can't help there.
+2011-11-01T10:07:00.000Z	zykotick9	KamikazeAndy	have you added some other repo/ppa to your system?
+2011-11-01T10:09:00.000Z	zykotick9	KamikazeAndy	but e17 appears to be in the default repo with 11.10?  why.
+2011-11-01T10:10:00.000Z	zykotick9	KamikazeAndy	did you add some e17 repo to your system?
+2011-11-01T10:11:00.000Z	zykotick9	KamikazeAndy	then "I" can't personally help.  Good luck.

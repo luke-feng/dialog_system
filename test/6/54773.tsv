@@ -1,0 +1,6 @@
+2008-08-07T09:07:00.000Z	starn		what is the currect command line for restarting xserv?
+2008-08-07T09:08:00.000Z	nickrud	starn	clt-alt-backspace
+2008-08-07T09:08:00.000Z	nickrud	starn	or sudo invoke-rc.d gdm restart
+2008-08-07T09:10:00.000Z	starn	nickrud	ok that brings me to another question um. how would i make gdm defualt and not kde.. for i kinda missed up i ment to install ubuntu first and kubuntu secound but i dint...
+2008-08-07T09:10:00.000Z	nickrud	starn	sudo dpkg-reconfigure gdm :)
+2008-08-07T09:10:00.000Z	starn	nickrud	wow that easy? thanks!

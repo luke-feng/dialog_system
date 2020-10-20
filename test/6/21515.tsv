@@ -1,0 +1,6 @@
+2010-06-09T15:53:00.000Z	JNGodbout		My apt-get has stopped working. Every time I try and apt-get something, I get the error: chown: cannot access `/var/run/bnetd': No such file or directory. When I try to sudo apt-get remove bnetd, it comes up with the same error
+2010-06-09T15:53:00.000Z	JNGodbout		Can anybody help me?
+2010-06-09T15:55:00.000Z	JNGodbout		apt-get purge also returns the same error
+2010-06-09T15:55:00.000Z	koshie	JNGodbout	strange
+2010-06-09T15:57:00.000Z	JNGodbout	koshie	Don't worry about it bro, korean here
+2010-06-09T16:06:00.000Z	koshie	JNGodbout	maybe ask on the forum.

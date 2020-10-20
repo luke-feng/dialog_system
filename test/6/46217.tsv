@@ -1,0 +1,6 @@
+2008-12-06T03:32:00.000Z	isleshocky77		I don't know if it was a bad mount, but I now have a remnent directory left where I normally mount an external drive.  I can't delete it or ls. I get this: "ls: cannot access SDO Large: Input/output error"  Any ideas on how to get rid of it?
+2008-12-06T03:32:00.000Z	isleshocky77		ls of it's parent directory returns a listing like this: "d?????????  ? ?    ?       ?                ? SDO Large"
+2008-12-06T03:34:00.000Z	CaShMoNey	isleshocky77	it's just a mount point. Are you root?
+2008-12-06T03:35:00.000Z	isleshocky77	CaShMoNey	It's directory which was create as a mount point for my external drive automatically.  Now the drive is not mounted and that's left.  Found it because when I mount the drive it now mounts as 'SDO Large-1'
+2008-12-06T03:39:00.000Z	isleshocky77	CaShMoNey	gnutron: any other ideas?
+2008-12-06T03:40:00.000Z	isleshocky77	CaShMoNey	gnutron: Nevermind, figured it out.  Ran umount on it as a suggestion in a post in google.

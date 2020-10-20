@@ -1,0 +1,6 @@
+2008-05-11T01:10:00.000Z	WiglyWorm		Eh... I want to do the real install anyway. Ubuntu just won't recognize my fakeRAID
+2008-05-11T01:11:00.000Z	WiglyWorm		The RAID setup tutorial I saw says to do this:
+2008-05-11T01:12:00.000Z	WiglyWorm		"fdisk -u -l /dev/sda" (if sda is not your disk, change it)". I tried that command and got no output like it seemed I was supposed to. How do I know what my disk?
+2008-05-11T01:13:00.000Z	WiglyWorm		Erm.. what my disk is? So I can change "sda" as needed.
+2008-05-11T01:13:00.000Z	WiglyWorm		Or, will this command even work from the Live CD?
+2008-05-11T01:14:00.000Z	fde	WiglyWorm	df -h tells device.

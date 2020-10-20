@@ -1,0 +1,6 @@
+2011-02-14T05:06:00.000Z	rami1983		hello, how to edit open with menu in ubuntu??
+2011-02-14T05:07:00.000Z	jrib	rami1983	there should be "other program" option as the last choice.  Or you can right click -> PROPERTIES -> open with tab
+2011-02-14T05:08:00.000Z	rami1983	jrib	i just want to remove programs that i don't have anymore like Wine
+2011-02-14T05:09:00.000Z	jrib	rami1983	they should go away when you uninstall them, but if not, then you can use the methods I suggested above
+2011-02-14T05:14:00.000Z	rami1983	jrib	can u please recommend me a good system cleaner. i saw now a lot of hidden files from programs that i've deleted
+2011-02-14T05:15:00.000Z	jrib	rami1983	I wouldn't worry about hidden files.  They don't hurt anything, usually don't use up too much room, and if you ever decide to use a program again, your settings are retained

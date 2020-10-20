@@ -1,0 +1,6 @@
+2008-03-31T05:05:00.000Z	mattyo		hi all - any experts on ltsp around at all - having a nightmare with edubuntu and 64bit and i386 :S
+2008-03-31T05:05:00.000Z	mattyo		(or not even expert ;) )
+2008-03-31T05:05:00.000Z	unop_	mattyo	whats the problem?
+2008-03-31T05:06:00.000Z	mattyo		I can't get the thin client to boot from the server - it just hangs
+2008-03-31T05:07:00.000Z	mattyo	unop_	I tried building the clients etc with arch i386 and following lots of stuff on google (changing ltsp/dhcp.conf etc) but I still get the same hanging on the thin client end
+2008-03-31T05:08:00.000Z	unop_	mattyo	I'm not an expert on ltsp, infact i've not used it ever but can you describe any behaviour on the thin clients you see?

@@ -1,0 +1,6 @@
+2007-08-27T05:56:00.000Z	kenvy		I guess I timed out
+2007-08-27T05:57:00.000Z	kenvy		anyone know how to get rid of the following problem: Listening to music and running TeamSpeak simultaneously won't work, because the media player says audio device is in use
+2007-08-27T05:57:00.000Z	apropos	kenvy	use a sound server
+2007-08-27T06:00:00.000Z	apropos	kenvy	I'm not sure. In the past I would have used a sound daemon like esd, but apparently that's deprecated and alsa supports multiple audio streams now.
+2007-08-27T06:00:00.000Z	apropos	kenvy	you can make sound without alsa, using the old OSS stuff.
+2007-08-27T06:01:00.000Z	apropos	kenvy	perhaps one of the programs is configured incorrectly and blocking the other?

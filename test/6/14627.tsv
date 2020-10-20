@@ -1,0 +1,6 @@
+2011-01-05T00:16:00.000Z	Danny78		ok, I'm a noob I admit...  setting up my web server, I've installed all necessary packages...  now where do I start?
+2011-01-05T00:17:00.000Z	Danny78		127.0.0.1 says welcome to nginx
+2011-01-05T00:17:00.000Z	Danny78		does that mean I need to remove nginx to use apache?
+2011-01-05T00:17:00.000Z	gobbe	Danny78	or configure nginx to pass traffic to apache
+2011-01-05T00:25:00.000Z	gobbe	Danny78	service apache start
+2011-01-05T00:25:00.000Z	gobbe	Danny78	sudo before

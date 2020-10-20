@@ -1,0 +1,6 @@
+2011-05-24T10:42:00.000Z	PseudoGou		This information can be extracted from the kernel
+2011-05-24T10:42:00.000Z	PseudoGou		image file with the script scripts/extract-ikconfig and used as
+2011-05-24T10:42:00.000Z	PseudoGou		input to rebuild the current kernel or to build another kernel.
+2011-05-24T10:42:00.000Z	PseudoGou		It can also be extracted from a running kernel by reading
+2011-05-24T10:42:00.000Z	PseudoGou		/proc/config.gz if enabled (below).
+2011-05-24T10:42:00.000Z	FloodBot1	PseudoGou	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

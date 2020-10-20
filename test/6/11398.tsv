@@ -1,0 +1,6 @@
+2012-03-22T02:28:00.000Z	BryanRuiz		so i cant ssh to my server from THIS ip but it works from THAT ip
+2012-03-22T02:28:00.000Z	BryanRuiz		any ideas?
+2012-03-22T02:28:00.000Z	BryanRuiz		its like im IP banned
+2012-03-22T02:29:00.000Z	ericus	BryanRuiz	check /etc/host.allow
+2012-03-22T02:30:00.000Z	BryanRuiz	ericus	wouldnt it be host.deny?
+2012-03-22T02:31:00.000Z	ericus	BryanRuiz	dont know

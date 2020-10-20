@@ -1,0 +1,6 @@
+2010-10-20T18:48:00.000Z	JohnHeikkila		.I have Ubuntu 10.10 installed, have used ubuntu since 9.04. now, I would like to install a new operating system but still keep ubuntu, so that my PC would be dual-boot
+2010-10-20T18:48:00.000Z	JohnHeikkila		Can anyone help?
+2010-10-20T18:49:00.000Z	LogicallyDashing	JohnHeikkila	you may be in trouble if the second operating system is Windows; it needs to have the first partition free, so you'll need to mess around with first partitions and then your bootloader and you need to do it all from a LiveCD.
+2010-10-20T18:50:00.000Z	JohnHeikkila	LogicallyDashing	Oh well
+2010-10-20T18:51:00.000Z	JohnHeikkila	LogicallyDashing	Shouldn't I be able to backup my Ubuntu, install Windows (reformat) and then run Ubuntu via VirtualBox?
+2010-10-20T18:51:00.000Z	LogicallyDashing	JohnHeikkila	sure, that works

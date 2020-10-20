@@ -1,0 +1,6 @@
+2011-11-12T05:28:00.000Z	esben		My keyboard is lagging badly. Every 5 seconds or so it doesnt type, and then spits out all i typed afterwards. This goes on in all applications and even on tty's. Anyone have a clue about what is going on? It just started doing so after it woke up from sspend and has been doing so even after numerous restarts.
+2011-11-12T05:29:00.000Z	esben		Dont have any other os iIIIIIIin bios it works fine
+2011-11-12T05:29:00.000Z	esben		what was that? :<
+2011-11-12T05:31:00.000Z	esben		no, its the keyboard on a thinkpad r61i
+2011-11-12T05:31:00.000Z	apwbdjp	esben	did you try with a USB keyboard?
+2011-11-12T05:34:00.000Z	apwbdjp	esben	is just the keyboard crashing during these moments, or is everything freezing for a few seconds? Do you notice abnormal processor usage, at those instants?

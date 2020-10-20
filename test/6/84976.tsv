@@ -1,0 +1,6 @@
+2007-10-21T10:16:00.000Z	`eric-		hey where do programs get installed?
+2007-10-21T10:18:00.000Z	usser	`eric-	as i said exe's in /usr/bin libs /usr/lib/programname
+2007-10-21T10:16:00.000Z	usser	`eric-	they usually spread all across the system
+2007-10-21T10:17:00.000Z	usser	`eric-	executables usually go to /usr/bin, program libraries to /usr/lib
+2007-10-21T10:17:00.000Z	`eric-	usser	well, i installed it via apt-get... where would it be insatlled?
+2007-10-21T10:18:00.000Z	usser	`eric-	config files go into /etc

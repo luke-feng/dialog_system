@@ -1,0 +1,6 @@
+2010-01-12T20:31:00.000Z	ChogyDan		How can I open an encrypted zip file?  It says: "unsupported compression method 99"
+2010-01-12T20:32:00.000Z	mikey	ChogyDan	there is an apt-get for that, can't quite remember it though 1 tick
+2010-01-12T20:32:00.000Z	ChogyDan	mikey	thanks, I will try that
+2010-01-12T20:33:00.000Z	ChogyDan	mikey	hmm, I already have that, Im going to try 7zip.  I totally forgot to google my error!  /facepalm
+2010-01-12T20:37:00.000Z	ChogyDan	mikey	fwiw, installing p7zip-full worked for me.  Maybe that was just the compression of the file.  thanks!
+2010-01-12T20:37:00.000Z	mikey	ChogyDan	haha didn't have much to do with me ;P

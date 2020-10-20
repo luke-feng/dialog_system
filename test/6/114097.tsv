@@ -1,0 +1,6 @@
+2011-04-08T17:58:00.000Z	frimend		is there some really simple CLI torrent program?
+2011-04-08T17:59:00.000Z	frimend		I have one torrent file which I want to download.
+2011-04-08T17:59:00.000Z	frimend		ideally, I would like it to work as wget.. :>
+2011-04-08T18:01:00.000Z	frimend		I just want a torrent downloaded fast, right now!
+2011-04-08T18:01:00.000Z	frimend		in cli. :)
+2011-04-08T18:01:00.000Z	jrib	frimend	rtorrent or btdownloadcurses

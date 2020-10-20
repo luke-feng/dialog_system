@@ -1,0 +1,6 @@
+2009-02-14T01:21:00.000Z	SeanTater		I have a process that does not respond to SIGKILL or SIGSTOP and uses 100% CPU.. What can I do about it?
+2009-02-14T01:22:00.000Z	carpii	SeanTater	drop to terminal and do ps -aux -H
+2009-02-14T01:22:00.000Z	SeanTater	carpii	just a sec
+2009-02-14T01:24:00.000Z	SeanTater	carpii	did you mean the '-' before aux?
+2009-02-14T01:25:00.000Z	SeanTater	carpii	it retuns 360 lines with '-' and 192 without it
+2009-02-14T01:25:00.000Z	SeanTater	carpii	Do you need it pasted

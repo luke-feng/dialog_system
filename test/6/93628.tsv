@@ -1,0 +1,6 @@
+2007-06-30T09:39:00.000Z	Icehawk78		I had rtorrent running in an ssh window, which was then shut down. After starting a new session, I'm unable to access the running copy of rtorrent (I assume it's still running, because it won't load the .torrent file now), but I also can't find it listed when I ran "ps -el". Any suggestions?
+2007-06-30T09:41:00.000Z	levander	Icehawk78	rtorrent probably wrote some kind of pid file or something, anyway it must write something to the filesystem that it can check to see if it's still running
+2007-06-30T09:42:00.000Z	levander	Icehawk78	you'll have to read about rtorrent, or look around in your home directory (especially the dot files) to find where it writes it
+2007-06-30T09:43:00.000Z	Icehawk78	levander	Thanks, I'll see if I can find it. I'm basically looking for a lock file of sorts?
+2007-06-30T09:43:00.000Z	levander	Icehawk78	yeah, lock file is the general idea
+2007-06-30T09:44:00.000Z	levander	Icehawk78	that's a generic answer though, I don't know specifically about rtorrent, that's what i'd do though, look for a lock file...

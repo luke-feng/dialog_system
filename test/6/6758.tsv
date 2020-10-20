@@ -1,0 +1,6 @@
+2011-10-15T23:17:00.000Z	jeremy-77		why dose ubuntu do upgrade to newer versions if it breaks it most of the time?
+2011-10-15T23:19:00.000Z	schnuffle	jeremy-77	cause they chaneg a lot of stuff
+2011-10-15T23:21:00.000Z	jeremy-77	schnuffle	 recover mode dos not work either and it wont let me access my storage drive to back files up to cause it wont give me permisions for it in live cd so I guess I just lost about 25 gigs of photos and and about 50 gigs of mp3's and my WOW folder.
+2011-10-15T23:23:00.000Z	schnuffle	jeremy-77	to mount you need to use sudo, so sudo mount /dev/sdXY  /mnt ( x hadrive, y partition number)
+2011-10-15T23:25:00.000Z	jeremy-77	schnuffle	 can I privait message you on that cause I dont know how to do anyof that?
+2011-10-15T23:25:00.000Z	schnuffle	jeremy-77	go ahead

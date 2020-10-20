@@ -1,0 +1,6 @@
+2006-07-19T06:06:00.000Z	whadar		can i mount as a user?
+2006-07-19T06:06:00.000Z	whadar		and not as root?
+2006-07-19T06:07:00.000Z	sladen	whadar	yes, removalble drives are done like that with 'pmount'.  non-removable user-mounted drives must be set with the 'user' flag in /etc/fstab
+2006-07-19T06:18:00.000Z	sladen	whadar	try  -o umask=0000
+2006-07-19T06:18:00.000Z	whadar	sladen	where?
+2006-07-19T06:19:00.000Z	sladen	whadar	mount -o umask=000 -t davfs ... ...

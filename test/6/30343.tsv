@@ -1,0 +1,6 @@
+2009-12-15T09:18:00.000Z	losha	epaphus	it's called a dataless (as opposed to a diskless) install. I've never done it but all the desktops at work do it all the time...
+2009-12-15T09:19:00.000Z	epaphus	losha	where could i read more about that?? or done with what? this is not LTSP right?
+2009-12-15T09:25:00.000Z	losha	epaphus	try this: http://ubuntu-tutorials.com/2007/10/11/how-to-configure-pxe-network-booting-on-ubuntu-for-network-based-installations/
+2009-12-15T09:27:00.000Z	epaphus	losha	again thats usefull to install the OS.. but not run it in RAM..
+2009-12-15T09:29:00.000Z	losha	epaphus	https://help.ubuntu.com/community/DisklessUbuntuHowto
+2009-12-15T09:36:00.000Z	epaphus	losha	THANK YOU SO MUCH.. i googled similar things but i needed this... seems complicated though ehhee

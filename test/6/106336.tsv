@@ -1,0 +1,6 @@
+2007-12-02T02:13:00.000Z	txoof		I'd like to install gnome (and X and all that comes with it), but I don't want to run the whole X login frontend.  I just need gnome for some vnc stuff that will be running off this box.  Is it possible to either avoid installing the login stuff (if so, what's it called?), and if not, can it be disabled?
+2007-12-02T02:13:00.000Z	macogw	txoof	it's called gdm
+2007-12-02T02:14:00.000Z	txoof	macogw	I bet a billion things are dependent on it, eh?
+2007-12-02T02:14:00.000Z	macogw	txoof	no idea
+2007-12-02T02:15:00.000Z	txoof	macogw	is the X-login stuff a different init level?
+2007-12-02T02:15:00.000Z	macogw	txoof	um..its the same as when you do startx, except gdm manages how many gnome sessions are running and lets you login graphically

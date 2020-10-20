@@ -1,0 +1,6 @@
+2011-08-16T18:38:00.000Z	darkwinisback		hello everybody, i tried to connect to a host via ssh with public keys using this german tutorial (http://wiki.ubuntuusers.de/ssh#Authentifizierung-ueber-Public-Keys) but the host is still asking for the password. the public key is in authorized_keys on hosts side
+2011-08-16T18:39:00.000Z	iceroot	darkwinisback	that is working here without problems. try to do it again
+2011-08-16T18:39:00.000Z	darkwinisback	iceroot	tried it 5 times...
+2011-08-16T18:40:00.000Z	iceroot	darkwinisback	any errors during that steps? is /var/log/auth.log showing errors?
+2011-08-16T18:42:00.000Z	darkwinisback	iceroot	wait a moment
+2011-08-16T18:44:00.000Z	darkwinisback	iceroot	Aug 16 16:42:35 v22232 sshd[1770]: Authentication refused: bad ownership or modes for directory /home/XXX maybe something like that?

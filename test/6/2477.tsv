@@ -1,0 +1,6 @@
+2012-04-30T00:55:00.000Z	dabeast_		What do I want the output of "rfkill list" to be? Both "no" for soft and hard block?
+2012-04-30T00:55:00.000Z	InferiorHumanOrg	dabeast_	yea
+2012-04-30T00:56:00.000Z	dabeast_	InferiorHumanOrg	lshw -C network shows wireless as "*-network DISABLED
+2012-04-30T00:56:00.000Z	dabeast_	InferiorHumanOrg	How can I fix this?
+2012-04-30T00:57:00.000Z	InferiorHumanOrg	dabeast_	hrm. i'm not sure then, have you tried bringing the interface up manually like. sudo ifup wlan0
+2012-04-30T00:58:00.000Z	dabeast_	InferiorHumanOrg	ifconfig shows wlan0 as up.

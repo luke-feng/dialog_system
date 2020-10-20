@@ -1,0 +1,6 @@
+2008-04-18T06:19:00.000Z	ccole0		having an serious video performance issue with my laptop.  It has a Radeon x300 card in it, but everything is slow, either effects on or off.  What driver should I be using?
+2008-04-18T06:21:00.000Z	ccole0		oh, sorry, I should have said, I am using 8.04 RC updated to current, but it was pretty bad even on the 7.10 version
+2008-04-18T06:22:00.000Z	ccole0		neneneneneet-split-split-split
+2008-04-18T06:24:00.000Z	ccole0		so does anyone (who is left) have any advice for which driver and xorg.conf I should use for a radeon x300 on a laptop running 8.04 RC?
+2008-04-18T06:24:00.000Z	gogeta	ccole0	atis drivers
+2008-04-18T06:25:00.000Z	gogeta	ccole0	fglrx

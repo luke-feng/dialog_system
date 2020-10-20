@@ -1,0 +1,6 @@
+2010-08-15T22:19:00.000Z	Mbear		10.04 I have to start CUPS with a sudo /etc/init.d/cups restart every time I want to use a network printer. CUPs doesnt seem to start automatically?
+2010-08-15T22:19:00.000Z	Kwpolska	Mbear	you need to enable the service
+2010-08-15T22:20:00.000Z	Kwpolska	Mbear	try chkconfig cups on
+2010-08-15T22:20:00.000Z	Mbear	Kwpolska	how?
+2010-08-15T22:20:00.000Z	Kwpolska		with sudo of course
+2010-08-15T22:20:00.000Z	Kwpolska	Mbear	sudo chkconfig cups on

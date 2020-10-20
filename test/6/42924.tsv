@@ -1,0 +1,6 @@
+2012-05-30T19:23:00.000Z	Cerrdor		which package has dig, host etc..?
+2012-05-30T19:24:00.000Z	imbezol	Cerrdor	try bind9utils
+2012-05-30T19:25:00.000Z	imbezol	Cerrdor	host is bind9-host on my machine
+2012-05-30T19:27:00.000Z	Cerrdor	imbezol	the file isnt installed yet
+2012-05-30T19:47:00.000Z	imbezol	Cerrdor	dnsutils
+2012-05-30T19:47:00.000Z	Cerrdor	imbezol	yeah I got it installed

@@ -1,0 +1,6 @@
+2012-05-18T03:03:00.000Z	forbidden404		Hi, there, guys, I need help with two things, and i REALLY need help with this, I don't want to reinstall Ubuntu all over again ):
+2012-05-18T03:05:00.000Z	Xirrin	forbidden404	Whats up?
+2012-05-18T03:06:00.000Z	forbidden404	Xirrin	I have a Hybrid Graphics, and I did everything in, and was fine, I created a script to run and turn off the discrete card, but now, I recieve an error, like bash /sys/kernel/debug/vgaswitcheroo/switch such file or diretory doesn't exist or something
+2012-05-18T03:07:00.000Z	forbidden404	Xirrin	and the second problem is about Online Accounts, this thing just disappeared and I don't know how to put it again
+2012-05-18T03:07:00.000Z	Xirrin	forbidden404	Have you tried "sudo mkdir <missing folder>" and running it again?
+2012-05-18T03:08:00.000Z	forbidden404	Xirrin	mkdir: cannot create directory `/sys/kernel/debug/vgaswitcheroo/switch': No such file or directory

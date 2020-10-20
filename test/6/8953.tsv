@@ -1,0 +1,6 @@
+2011-06-09T23:17:00.000Z	llutz	schaefer	if ${found_other_os} is empty, it would give an error without the x
+2011-06-09T23:18:00.000Z	llutz	schaefer	the test would be  if[=""]  in that case
+2011-06-09T23:19:00.000Z	schaefer	llutz	alright, thank you for clearing up
+2011-06-09T23:20:00.000Z	schaefer	llutz	I guess this makes my scripts shorter since I dont have to run an extra check if a variable is null before testing it
+2011-06-09T23:21:00.000Z	llutz	schaefer	yes, you might look at this for some more info http://www.tech-recipes.com/rx/209/bournebash-shell-scripts-string-comparison/
+2011-06-09T23:23:00.000Z	schaefer	llutz	thanks again

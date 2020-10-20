@@ -1,0 +1,6 @@
+2007-11-02T11:02:00.000Z	DisabledDuck		i have a verizon wireless cell phone with a connector for my PC, does anyone know how to get my cell phone to sync with Ubuntu?
+2007-11-02T11:03:00.000Z	Jordan_U	DisabledDuck	If it also has Bluetooth that might actually be easier, I think that bluetooth communication with a phone actually has a semblance of a standard protocal
+2007-11-02T11:03:00.000Z	Jordan_U	DisabledDuck	What brand is the phone itself?
+2007-11-02T11:05:00.000Z	DisabledDuck	Jordan_U	LG enV
+2007-11-02T11:06:00.000Z	Jordan_U	DisabledDuck	Looks like a package called "bitpim" might be what you are looking for
+2007-11-02T11:07:00.000Z	DisabledDuck	Jordan_U	thanks

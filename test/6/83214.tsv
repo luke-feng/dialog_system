@@ -1,0 +1,6 @@
+2008-10-10T20:33:00.000Z	Simetrical		How can I figure out the default fonts?  I want gitk to use the default monospace fonts, but Appearance -> Fonts claims that's called "Monospace", and that doesn't show up in the font-picker for gitk's preferences.
+2008-10-10T20:34:00.000Z	erUSUL	Simetrical	default is Deja Vu Mono i think
+2008-10-10T20:35:00.000Z	Simetrical	erUSUL	is there any way I could have reasonably figured this out on my own, or is it something that you have to know either the folklore or the right file to look in?  Why doesn't the font-setting page say "Deja Vu Mono" instead of just "Monospace"?
+2008-10-10T20:35:00.000Z	Simetrical		Thanks, though.
+2008-10-10T20:36:00.000Z	erUSUL	Simetrical	no idea ... i think is DejaVu but can not be sure as you said Monospce gives no info ...
+2008-10-10T20:36:00.000Z	erUSUL	Simetrical	i use Terminus for my "monospace" stuff (terminal and in gitk too)

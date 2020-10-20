@@ -1,0 +1,6 @@
+2006-03-28T10:22:00.000Z	dli		I'm on dialup, can I generate a list of needed .deb files for a package, so I can download them from other system
+2006-03-28T10:23:00.000Z	apokryphos	dli	you'll want to look into apt-zip
+2006-03-28T10:23:00.000Z	dli	apokryphos	thanks
+2006-03-28T10:24:00.000Z	dli	apokryphos	looks good, thanks
+2006-07-09T06:32:00.000Z	apokryphos	dli	that *is* the grub commandline.
+2006-07-09T06:32:00.000Z	dli	apokryphos	no

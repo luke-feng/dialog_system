@@ -1,0 +1,6 @@
+2007-08-02T10:29:00.000Z	DWSR		Are firefox plugins OS independant? If I have a bunch of plugins installed on Windows, can I take the XPIs and install them on Linux?
+2007-08-02T10:31:00.000Z	DWSR		You can set a root password. :-)
+2007-08-02T10:31:00.000Z	DWSR		you can still login as root.
+2007-08-02T10:31:00.000Z	DWSR		sudo chpass
+2007-08-02T10:31:00.000Z	DWSR		or whatever the right command is.
+2007-08-02T10:31:00.000Z	LiberCogito	DWSR	yes, but not automatically, you have to set it.

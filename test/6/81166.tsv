@@ -1,0 +1,6 @@
+2008-05-28T06:12:00.000Z	gnurph		can somebody point me the way towards getting a USB hard drive mounted that doesn't want to mount?
+2008-05-28T06:13:00.000Z	Jack_Sparrow	gnurph	Force Mount a Drive  http://forum.notebookreview.com/archive/index.php/t-211958.html
+2008-05-28T06:17:00.000Z	gnurph	Jack_Sparrow	 that web page assumes I can see the drive in /media - and I can't
+2008-05-28T06:18:00.000Z	Jack_Sparrow	gnurph	 try sudo /etc/init.d/hal start   to try and get a usb drive recognized..
+2008-05-28T06:19:00.000Z	gnurph	Jack_Sparrow	/usr/sbin/hald already runnin
+2008-05-28T06:19:00.000Z	Jack_Sparrow	gnurph	cant help you then..

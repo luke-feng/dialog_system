@@ -1,0 +1,6 @@
+2011-05-01T11:51:00.000Z	Maahes		how do you set the terminal bell? I'm using zsh and urxvt, and I can't remember how to set this variable. echo -e -n "\a" produces no output
+2011-05-01T11:52:00.000Z	Maahes		isn't vlc the only free media player with hardware accel
+2011-05-01T11:52:00.000Z	PythonPup	Maahes	Doen's Mplayer have hardware accel?
+2011-05-01T11:53:00.000Z	PythonPup	Maahes	Doesn't Mplayer have hardware accel?
+2011-05-01T11:53:00.000Z	Maahes	PythonPup	I wouldn't be the one to know, since I asked if vlc was the only one.
+2011-05-01T11:53:00.000Z	PythonPup	Maahes	so, take my question as a hint and check.

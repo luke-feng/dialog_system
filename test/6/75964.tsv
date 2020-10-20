@@ -1,0 +1,6 @@
+2007-10-25T02:54:00.000Z	Danny3793		Ok, Ubuntu = Garbage right, is there anyone here that has had Ubuntu constantly lock the system up and display weird pixelated color around the screen, no matter what verion they used, on LiveCD or installed on a HDD?
+2007-10-25T02:55:00.000Z	Danny3793		Ubuntu = Garbage right now* (sorry, i am currently using a Laptop)
+2007-10-25T02:57:00.000Z	Danny3793		How do i check if my CPU is going bad?
+2007-10-25T02:57:00.000Z	Danny3793		or my RAM, or my HDD?
+2007-10-25T02:59:00.000Z	kalleskaviar	Danny3793	have you checked the log files in /var/log/              ?
+2007-10-25T03:17:00.000Z	kalleskaviar	Danny3793	well i think Sun has delivered a computer or two without windows as well. :)

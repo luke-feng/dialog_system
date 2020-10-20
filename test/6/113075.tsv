@@ -1,0 +1,6 @@
+2008-07-09T07:06:00.000Z	Jman		macro is this an internal program im taking it?
+2008-07-09T07:08:00.000Z	Jman		now how do i activate the cube?
+2008-07-09T07:09:00.000Z	Jman		yessir
+2008-07-09T07:09:00.000Z	Jman		i just set for cube
+2008-07-09T07:09:00.000Z	Jman		yea it is
+2008-07-09T07:09:00.000Z	Jack_Sparrow	Jman	Install ccsm  sudo apt-get install compizconfig-settings-manager Next go to system...pref..advanced desktop effects....  On the first page  put check next to rotate cube and desktop cube.. dbl click general options... up closer to the top...  click on desktop size  and set them to 4, 1 and 1  top to bottom... ctrl+alt+(Left Mouse Button) then move mouse

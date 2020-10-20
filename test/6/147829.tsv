@@ -1,0 +1,6 @@
+2005-05-21T07:18:00.000Z	trondd	Behemoth	just be careful if you use swsusp2
+2005-05-21T07:19:00.000Z	trondd	Behemoth	if you suspend in gentoo and boot ubuntu, your suspend image will be gone...
+2005-05-21T07:20:00.000Z	Behemoth	trondd	same with hibernate?
+2005-05-21T07:21:00.000Z	trondd	Behemoth	hmm, not shure... I just know that swsusp2 dumps the memory to the swap partition
+2005-05-21T07:22:00.000Z	Behemoth	trondd	well Ill just avoid suspend and will only do full shutdowns :D
+2005-05-21T07:22:00.000Z	trondd	Behemoth	then you shouldn't have any trouble

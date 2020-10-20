@@ -1,0 +1,6 @@
+2009-10-08T07:56:00.000Z	_Techie_		does ubuntu delete files fully or send them to a trash folder?
+2009-10-08T07:57:00.000Z	fccf	_Techie_	trash folder
+2009-10-08T07:57:00.000Z	_Techie_	fccf	how can i look in the trash folder, or configure it to just delete
+2009-10-08T07:59:00.000Z	fccf		/home/user/.local/share/Trash or /root/.local/share/Trash if deleted as root
+2009-10-08T08:00:00.000Z	fccf	_Techie_	see 6 lines up
+2009-10-08T08:01:00.000Z	_Techie_	fccf	thanks

@@ -1,0 +1,6 @@
+2007-10-11T08:44:00.000Z	razer		I just restarted ubuntu because it crashed and now it has a blank desktop wallpaper. What can I do?
+2007-10-11T08:46:00.000Z	razer		is there a keyboard command to restart ubuntu?
+2007-10-11T08:46:00.000Z	razer		I have no dock, everything disappeared
+2007-10-11T08:46:00.000Z	razer		I only have desktop wallpaper and right click, everything else is gone and I already reobooted.
+2007-10-11T08:47:00.000Z	genii	razer	Your screen may be virtual size. Try putting the cursor past all the edges and see if it scrolls
+2007-10-11T09:17:00.000Z	genii	razer	I'd suggest go to "It didn't work" part at bottom here and follow step to restore restricted-manager https://help.ubuntu.com/community/NvidiaManual

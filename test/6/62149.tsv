@@ -1,0 +1,6 @@
+2008-08-29T15:15:00.000Z	suresh_		hi,  how to access D: E:  drives without password
+2008-08-29T15:16:00.000Z	suresh_		its on fat32
+2008-08-29T15:17:00.000Z	suresh_		 local drive
+2008-08-29T15:17:00.000Z	arvind_khadri	suresh_	you must have permissions to access them
+2008-08-29T15:20:00.000Z	arvind_khadri	suresh_	just check whether the admin has given you permissions to access external drives or not...
+2008-08-29T15:23:00.000Z	arvind_khadri	suresh_	then see all your permissions

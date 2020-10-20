@@ -1,0 +1,6 @@
+2007-09-26T10:21:00.000Z	ProN00b		can i get rid of that darkening effect that happens when i get a sudo window or the shutdown select ?
+2007-09-26T10:22:00.000Z	MenZa	ProN00b	Yeah, what Dr_willis said. It should be settable in gconf-editor
+2007-09-26T10:22:00.000Z	MenZa		Yes, Zergiu?
+2007-09-26T10:22:00.000Z	ProN00b	MenZa	any idea what path ?
+2007-09-26T10:22:00.000Z	MenZa	ProN00b	Hmm, I'd guess under apps
+2007-09-26T10:23:00.000Z	MenZa	ProN00b	Lemme have a look around

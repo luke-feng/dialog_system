@@ -1,0 +1,6 @@
+2008-04-30T14:26:00.000Z	Jast98		Morning everyone.
+2008-04-30T14:27:00.000Z	Jast98		Need some help with a botched upgrade.
+2008-04-30T14:27:00.000Z	Jast98		6.06 to 8.04 went way wrong.
+2008-04-30T14:27:00.000Z	kklimonda	Jast98	on desktop or server?
+2008-04-30T14:28:00.000Z	Jast98	kklimonda	desktop with LVM.  It looks like the LVM isn't being loaded after the upgrade.  Still loading the old kernel.
+2008-04-30T14:29:00.000Z	Jast98	kklimonda	The old 6.06 spash is still showing as well.

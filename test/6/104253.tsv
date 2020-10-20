@@ -1,0 +1,6 @@
+2008-04-01T00:48:00.000Z	valros		Hey guys, how do i get into /(filesystem) in the terminal, I'm trying to delete the CD shortcut using, sudo rm cdrom
+2008-04-01T00:50:00.000Z	valros		Does the terminal recognize /(File System) I from it i can go into directories but it cant find the cdrom shortcut in, sudo rm cdrom
+2008-04-01T00:51:00.000Z	bod_	valros	 thats because unless u have an alias    cdrom   is just a word not a dir,.
+2008-04-01T00:52:00.000Z	bod_	valros	where is the shortcut?
+2008-04-01T00:52:00.000Z	bod_	valros	if its there then the command would be    sudo rm /cdrom
+2008-04-01T00:53:00.000Z	bod_	valros	yes o to synaptic and search for   sudo-nautilus   i believe

@@ -1,0 +1,6 @@
+2009-04-25T20:12:00.000Z	DJVistaMan		i am installing ubuntu right now but it is stuck at "starting Ubiquity..." for 10 min
+2009-04-25T20:12:00.000Z	DJVistaMan		anyone have a solution for that
+2009-04-25T20:13:00.000Z	DJVistaMan		i clicked install
+2009-04-25T20:14:00.000Z	DJVistaMan		i got the install menu, i clicked install ubuntu and now it is stuck
+2009-04-25T20:15:00.000Z	DJVistaMan		and my cd drive isn't flashing anymore
+2009-04-25T20:16:00.000Z	daftykins	DJVistaMan	reboot and boot off the CD again, and try "check CD" and "test memory" to see if they come back ok

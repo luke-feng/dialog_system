@@ -1,0 +1,6 @@
+2009-05-29T13:21:00.000Z	kenyon		crawl is in the ubuntu archives, no need to download from softpedia
+2009-05-29T13:22:00.000Z	kenyon		did you read the documentation that came with the package on how to compile?
+2009-05-29T13:23:00.000Z	kenyon		you probably need to run ./configure first
+2009-05-29T13:23:00.000Z	darlek	kenyon	he needs a compiler first ;)
+2009-05-29T13:23:00.000Z	kenyon		!info build-essential | jvainio
+2009-05-29T13:24:00.000Z	kenyon	darlek	no, you can run ./configure without a compiler

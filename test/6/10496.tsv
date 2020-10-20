@@ -1,0 +1,6 @@
+2011-04-17T10:17:00.000Z	KXTwo		 a. Display a 4 line histogram of all the files in a given directory, sized to fit a standard screen.
+2011-04-17T10:17:00.000Z	KXTwo		b. Prompt the user for a directory, capture it into a variable and change to that directory in your script.
+2011-04-17T10:17:00.000Z	KXTwo		c. List and count all the files that begin with lowercase a-g, store that number in a variable.
+2011-04-17T10:17:00.000Z	KXTwo		d. List and count all the files that begin with lowercase h-m, store that number in another variable.
+2011-04-17T10:17:00.000Z	KXTwo		e. List and count all the files that begin with lowercase n-s, store that number in another variable.
+2011-04-17T10:18:00.000Z	NightMonkey	KXTwo	Ah, homework?

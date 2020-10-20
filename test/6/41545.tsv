@@ -1,0 +1,6 @@
+2009-03-03T13:06:00.000Z	Madkiss_		hi folks.
+2009-03-03T13:06:00.000Z	Madkiss_		I am experiencing massive problems with latest nvidia-drivers in intrepid, basically, i can not start KDE because I see all different kinds of KDE applications crash with SIGSEV11
+2009-03-03T13:06:00.000Z	Madkiss_		is this a known problem and is a fix available for it?
+2009-03-03T13:07:00.000Z	Madkiss_		no, it's all packages stuff.
+2009-03-03T13:08:00.000Z	rww	Madkiss_	https://launchpad.net/+search?field.text=SIGSEV+kde+nvidia&field.actions.search=Search might be a good place to start. Looks like other people are having issues.
+2009-03-03T13:09:00.000Z	Madkiss_	rww	thanks for the link

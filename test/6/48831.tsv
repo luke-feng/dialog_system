@@ -1,0 +1,6 @@
+2011-11-05T21:54:00.000Z	cousteau		how does recovery mode work? I tried it a while ago and it gave me a root terminal, but the disk was mounted as read only so there was nothing I could do
+2011-11-05T21:54:00.000Z	||arifaX	cousteau	you have to remount it writeable
+2011-11-05T21:55:00.000Z	cousteau	||arifaX	umount and mount?
+2011-11-05T21:56:00.000Z	||arifaX	cousteau	I think     mount -n -o remount,rw /               should do the job
+2011-11-05T21:56:00.000Z	cousteau	||arifaX	ok (no need to umount first then?)
+2011-11-05T21:56:00.000Z	||arifaX	cousteau	no just remount

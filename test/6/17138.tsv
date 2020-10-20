@@ -1,0 +1,6 @@
+2010-09-30T18:40:00.000Z	vamsiiiii		hi, I forgot root password , but have a user account which is not sudo user
+2010-09-30T18:40:00.000Z	vamsiiiii		can I edit/ etc/passwd ?
+2010-09-30T18:40:00.000Z	vamsiiiii		and put a new password instead on x ?
+2010-09-30T18:40:00.000Z	vamsiiiii		:( what can I do then ?
+2010-09-30T18:40:00.000Z	maedox	vamsiiiii	no, you have to use a live-cd and chroot to your partition, then do passwd.
+2010-09-30T18:42:00.000Z	maedox	vamsiiiii	as I said, boot with a live-cd, sudo su in terminal, then mount /dev/sda1 /mnt;chroot /mnt   and lastly passwd, set new root password.

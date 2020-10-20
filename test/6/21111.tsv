@@ -1,0 +1,6 @@
+2011-05-17T22:14:00.000Z	econdudeawesome		Howdy all! How do I make Unity launcher icons launch with options (e.g.: Matlab cannot lauch with command "matlab", must have option "matlab -glnx86")
+2011-05-17T22:15:00.000Z	Darael	econdudeawesome	I believe there's a .desktop file somewhere - where depends on how the program in question was installed.  Edit it.  More info on how you installed matlab would let me help you more.
+2011-05-17T22:16:00.000Z	econdudeawesome	Darael	that may be enough info for me. Do I open up the .desktop file in a text editor?
+2011-05-17T22:16:00.000Z	Darael	econdudeawesome	Yup, that's correct.
+2011-05-17T22:17:00.000Z	econdudeawesome	Darael	where are .desktop files stored generally?
+2011-05-17T22:18:00.000Z	Darael	econdudeawesome	/usr/share/menu, possibly?  I'm not entirely sure, TBH.

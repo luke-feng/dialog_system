@@ -1,0 +1,6 @@
+2007-04-03T09:04:00.000Z	eXcaliBuR		think i messed up
+2007-04-03T09:04:00.000Z	eXcaliBuR		now when i try to get in a dir it says permission denied
+2007-04-03T09:04:00.000Z	eXcaliBuR		drwxrwxrw-  8 root root  4096 2007-04-02 22:24 www
+2007-04-03T09:05:00.000Z	bruenig	eXcaliBuR	well it needs to be executable to cd into it, it appears that the "others" doesn't have it executable
+2007-04-03T09:07:00.000Z	bruenig	eXcaliBuR	it needs to be executable
+2007-04-03T09:08:00.000Z	bruenig	eXcaliBuR	well who are you, if you are not the user or the group you will need the last digit to be 7 assuming you want to add executable to it

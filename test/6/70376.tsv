@@ -1,0 +1,6 @@
+2007-12-20T03:02:00.000Z	abranches		hello everyone
+2007-12-20T03:03:00.000Z	abranches		how can I change my themes back to metacity themes? I tried compiz and now I can't have the effects and the default ubuntu theme at the same time
+2007-12-20T03:03:00.000Z	PriceChild	abranches	are you missing window borders completely?
+2007-12-20T03:04:00.000Z	abranches	PriceChild	no I don't. I simply have the compiz/emerald themes instead of the default themes
+2007-12-20T03:05:00.000Z	PriceChild	abranches	the default uses gtk-window-decorator which displays the gtk themes...
+2007-12-20T03:08:00.000Z	abranches	PriceChild	I typed "gtk-window-decorator --replace" in the terminal and now I have the GTK themes. Thanks!

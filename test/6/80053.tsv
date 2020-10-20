@@ -1,0 +1,6 @@
+2008-04-03T00:46:00.000Z	razorback		I have downloaded and installed wolfenstein enemy territory, after installing i have woflentein menu option saying start game? everything works fine..after exiting game and loading again by typing "et" in terminal screen or loading thru apps , other ,,the maps will no longer download data needed or enter map at all. Any ideas to get them loading again.
+2008-04-03T00:48:00.000Z	razorback		I have downloaded and installed wolfenstein enemy territory, after installing i have woflentein menu option saying start game? everything works fine..after exiting game and loading again by typing "et" in terminal screen or loading thru apps , other ,,the maps will no longer download data needed or enter map at all. Any ideas to get them loading again.
+2008-04-03T00:48:00.000Z	Exteris	razorback	you ran as root the first time
+2008-04-03T00:49:00.000Z	Exteris	razorback	the game doesn't have write permissions in ~/.etwolf
+2008-04-03T00:49:00.000Z	Exteris	razorback	this command shtould fix it: sudo chown -R `whoami` .etwolf
+2008-04-03T01:22:00.000Z	Exteris	razorback	the mod is in the .etwolf directory, remove the correct .pk3 file and restart et

@@ -1,0 +1,6 @@
+2012-06-18T21:22:00.000Z	vampirnata		anyone know how to check gpu temp in cli? I'm using sensors but it only gives 1 temp and i think it's the mainboard temp
+2012-06-18T21:22:00.000Z	vampirnata		i have that installed
+2012-06-18T21:23:00.000Z	vampirnata		running it gives me only my core/motherboard temps
+2012-06-18T21:23:00.000Z	vampirnata		it's an atom processor
+2012-06-18T21:23:00.000Z	vampirnata		with onboard intel gpu
+2012-06-18T21:23:00.000Z	ryanprior	vampirnata	lm-sensors should show you all the devices it has data for, if you aren't getting your gpu temps then you might need to fiddle with drivers or support just might not be there yet.

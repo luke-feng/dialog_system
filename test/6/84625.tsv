@@ -1,0 +1,6 @@
+2007-12-28T08:15:00.000Z	Konam		Hi
+2007-12-28T08:16:00.000Z	Konam		I'm trying to have the same /home after an ubuntu install, i use the same login and passwd but when the install is finished and i log in a message pops up and tell me that i don't have the permisions to use that home (even though i can log in, actually), how do i change that?
+2007-12-28T08:17:00.000Z	nickrud	Konam	when you log in, what directory are you in?
+2007-12-28T08:18:00.000Z	nickrud	Konam	the system uses numbers to identify the owner, and translates that to names from /etc/passwd. If the user you're keeping is not the first one you created on the prior install, then the numbers are gonna be different
+2007-12-28T08:19:00.000Z	Konam	nickrud	is the first, i create it during the ubuntu install
+2007-12-28T08:19:00.000Z	nickrud	Konam	as you say, macd's command will fix it anyway

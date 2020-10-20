@@ -1,0 +1,6 @@
+2006-11-22T09:31:00.000Z	erider		how do I get opengl working on my 64bit system?
+2006-11-22T09:32:00.000Z	sn9	erider	ati, nvidia, or something else?
+2006-11-22T09:38:00.000Z	sn9	erider	ati, nvidia, or something else?
+2006-11-22T09:38:00.000Z	erider	sn9	I have nvidia-glx install on my system but I need opengl
+2006-11-22T09:40:00.000Z	sn9	erider	if you have a recent nvidia card, installing linux-amd64-generic and nvidia-glx should be sufficient.
+2006-11-22T09:40:00.000Z	erider	sn9	I have a laptop

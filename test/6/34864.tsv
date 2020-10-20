@@ -1,0 +1,6 @@
+2009-07-16T18:59:00.000Z	vigo	shorterror	There is a set of dh_ scripts that may help with something like that. but I am not certain, let me find that page.
+2009-07-16T19:00:00.000Z	shorterror	vigo	ok that would be cool.
+2009-07-16T19:05:00.000Z	vigo	shorterror	Here is one, http://packages.ubuntu.com/hardy/dh-make not the one I was searching for, but it helps.
+2009-07-16T19:05:00.000Z	shorterror	vigo	thank you
+2009-07-16T19:08:00.000Z	vigo	shorterror	and here: http://manpages.ubuntu.com/manpages/hardy/man7/debhelper.7.html
+2009-07-16T19:10:00.000Z	vigo	shorterror	Just change the Hardy to the version you are using, but they are mostly all the same, yes Ubuntu is based on Debian.

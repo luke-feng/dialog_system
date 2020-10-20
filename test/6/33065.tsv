@@ -1,0 +1,6 @@
+2009-10-11T01:28:00.000Z	johnmn3		wasn't your IP 192.168.1.67 or something?
+2009-10-11T01:29:00.000Z	johnmn3		mate... mmm, something like ifconfig wlan0 ip 192.168.1.101
+2009-10-11T01:29:00.000Z	johnmn3		or maybe adding the subnet mask on there too
+2009-10-11T01:29:00.000Z	mnaines	johnmn3	You have to do that through iwconfig, not ifconfig
+2009-10-11T01:30:00.000Z	johnmn3	mate	aigh, might have to use iwconfig
+2009-10-11T01:30:00.000Z	mnaines	johnmn3	iwconfig address I think is the right command

@@ -1,0 +1,6 @@
+2007-10-04T09:25:00.000Z	pierre_		somebody knows name file for put ifup ath0 to the end of hibernate to card go on network
+2007-10-04T09:25:00.000Z	bulmer	pierre_	umm... /etc/init.d/network restart
+2007-10-04T09:32:00.000Z	bulmer	pierre_	restart
+2007-10-04T09:35:00.000Z	pierre_	bulmer	:before if,else or fi
+2007-10-04T09:35:00.000Z	bulmer	pierre_	huh? i suggested earlier   /etc/init.d/networking restart
+2007-10-04T09:39:00.000Z	pierre_	bulmer	:ok

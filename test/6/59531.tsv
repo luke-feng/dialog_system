@@ -1,0 +1,6 @@
+2008-04-26T00:32:00.000Z	koomber		I don't want to keep asking the same question over and over, but hopefully somone can help with my Vostro blues :)
+2008-04-26T00:34:00.000Z	koomber		has anyone tried installing on DELL Vostro 200?
+2008-04-26T00:35:00.000Z	nucco	koomber	what exactly are you interested in finding out
+2008-04-26T00:36:00.000Z	nucco	koomber	at what point does it reboot.
+2008-04-26T00:39:00.000Z	koomber	nucco	> when booting with the APCI (I think) disabled option I get "ata.001 revalidation failed error no = -5"
+2008-04-26T00:41:00.000Z	nucco	koomber	that should signify issues with your sata controller... but I'm not well versed in those areas

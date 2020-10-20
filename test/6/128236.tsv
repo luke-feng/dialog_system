@@ -1,0 +1,6 @@
+2006-01-02T16:21:00.000Z	server_newbie		Hi all
+2006-01-02T16:22:00.000Z	server_newbie		I have a problem with my apache2 install I am missing the whole /etc/apache2 dir. I have apt-get removed apache2 and din an install and still no dir. Any help ?
+2006-01-02T16:24:00.000Z	coNP	server_newbie	do you have the apache2-common packages installed?
+2006-01-02T16:25:00.000Z	server_newbie	coNP	Yes I Do
+2006-01-02T16:25:00.000Z	coNP	server_newbie	it should contain the /etc/apache2 files
+2006-01-02T16:40:00.000Z	server_newbie	coNP	I have reloaded averthing and now I get: * Starting web server (Apache2)...                                                                                           apache2: could not open document config file /etc/apache2/apache2.conf

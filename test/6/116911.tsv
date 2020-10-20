@@ -1,0 +1,6 @@
+2006-05-28T16:52:00.000Z	Lunarctic		ok, does anyone know where the C header files are? I need em for vmware >:P ever since I upgraded to dapper, it's been freaking out on install
+2006-05-28T16:52:00.000Z	Lunarctic		can't find the header files for my kernel
+2006-05-28T16:53:00.000Z	another_lemur	Lunarctic	i just installed vmware on dapper
+2006-05-28T16:53:00.000Z	another_lemur	Lunarctic	 try apt-cache search kernel\ headers |grep `uname -r`
+2006-05-28T16:54:00.000Z	another_lemur	Lunarctic	in a different window run the command I gave you
+2006-05-28T16:55:00.000Z	another_lemur	Lunarctic	if you don't have the headers installed, sudo apt-get install the item returned from the grep

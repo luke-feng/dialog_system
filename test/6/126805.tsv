@@ -1,0 +1,6 @@
+2006-01-14T07:03:00.000Z	crimsun		nictools-nopci?
+2006-01-14T07:03:00.000Z	crimsun		you don't need sudo to perform apt-cache search.
+2006-01-14T07:03:00.000Z	crimsun		what are you trying to do?
+2006-01-14T07:03:00.000Z	mika0800	crimsun	was that the ONLY package you found ?
+2006-01-14T07:04:00.000Z	crimsun	mika0800	yes
+2006-01-14T07:13:00.000Z	crimsun	mika0800	dpkg-deb -x foo.deb .

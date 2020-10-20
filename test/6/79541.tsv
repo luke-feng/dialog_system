@@ -1,0 +1,6 @@
+2008-06-09T06:33:00.000Z	gcarrillo		hi all
+2008-06-09T06:33:00.000Z	gcarrillo		if i would like to determine if a process is making progress...would strace be the tool for that?
+2008-06-09T06:34:00.000Z	BobCFC	gcarrillo	progress?  you mean using 1100% cpu etc?
+2008-06-09T06:35:00.000Z	gcarrillo	BobCFC	like as in 'not hung'...
+2008-06-09T06:35:00.000Z	BobCFC	gcarrillo	install htop you can see all the processes in a list
+2008-06-09T06:35:00.000Z	gcarrillo	BobCFC	ok ill check it out, thx

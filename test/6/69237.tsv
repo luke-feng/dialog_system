@@ -1,0 +1,6 @@
+2009-05-18T22:50:00.000Z	kumadam__		i try to open it in root but it says permission denied
+2009-05-18T22:51:00.000Z	kumadam__		sudo is not effecting it also
+2009-05-18T22:51:00.000Z	kumadam__		volkodav: i have it
+2009-05-18T22:51:00.000Z	Volkodav	kumadam__	all 3 separate X ?
+2009-05-18T22:52:00.000Z	Volkodav	kumadam__	mind pasting your xorg.conf ?
+2009-05-18T22:53:00.000Z	Volkodav	kumadam__	what resolution do you run at TV-out ?

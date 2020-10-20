@@ -1,0 +1,6 @@
+2008-09-20T23:14:00.000Z	dassouki		how can i remote access my desktop from a vista machine ?
+2008-09-20T23:15:00.000Z	Azazel-A2	dassouki	 two ways.  first, download and install xming for windows on windows machine, and downlaod putty.exe and place in c:\windows
+2008-09-20T23:16:00.000Z	dassouki	Azazel-A2	i already have putty access, but i want desktop access as some apps are only gui
+2008-09-20T23:16:00.000Z	Azazel-A2		putty -X will forward x port.  xming is xserver for windows :D
+2008-09-20T23:19:00.000Z	Azazel-A2	dassouki	if you use putty -X its same as ssh -X and xming will display linux apps on windows desktop (gedit for example)
+2008-09-20T23:21:00.000Z	dassouki	Azazel-A2	i want to see my ubuntu desktop from my windows, the same way i would remote desktop into my windows

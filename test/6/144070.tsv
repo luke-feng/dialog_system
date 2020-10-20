@@ -1,0 +1,6 @@
+2006-04-17T14:31:00.000Z	wsjunior		sup guys.. i'm with ubuntu here i'd like to try kubuntu.. is it ok just to install the kubuntu-desktop metapackage?
+2006-04-17T12:25:00.000Z	wsjunior		hello guys, i've installed kubuntu-desktop on my ubuntu and now i want to remove it but when i try to remove kubuntu-desktop only the metapackage is removed.. how to remove all kde apps installed with kubunut-desktop?
+2006-04-17T12:26:00.000Z	wsjunior		debfoster?
+2006-04-17T12:27:00.000Z	wsjunior		i did
+2006-04-17T12:27:00.000Z	wsjunior		but only the metapackage is removed
+2006-04-17T12:29:00.000Z	FlannelKing	wsjunior	you'll want to use debfoster, just like Seveas said.

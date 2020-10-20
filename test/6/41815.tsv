@@ -1,0 +1,6 @@
+2009-11-11T03:32:00.000Z	sburwood		What is initrd and how can I change it?
+2009-11-11T03:32:00.000Z	sburwood		in Koala, I get a message that it is too big when I reboot it after installation
+2009-11-11T03:33:00.000Z	sburwood		u just did
+2009-11-11T03:33:00.000Z	sburwood		loll
+2009-11-11T03:33:00.000Z	ZykoticK9	sburwood	init was replaced with something called upstart in karmic
+2009-11-11T03:35:00.000Z	ZykoticK9	sburwood	sorry i reread you message - your having a boot issue!  i thought you where trying to configure init in some way, sorry i have no hint what is wrong with your system currently!

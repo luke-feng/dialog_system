@@ -1,0 +1,6 @@
+2007-11-20T20:23:00.000Z	tvisto		Hi, i got very novice question. A printer is connected to Windows inside a network and how do I find this printer on Ubuntu?
+2007-11-20T20:23:00.000Z	Slart	tvisto	using samba... it does shared drives and printers
+2007-11-20T20:24:00.000Z	tvisto	Slart	do i have to install it on my pc then yeah?
+2007-11-20T20:24:00.000Z	tvisto	Slart	thanks you helped alot!!!
+2007-11-20T20:24:00.000Z	Slart	tvisto	nope.. samba is the linux software that does about the same thing as the sharing stuff on a windows machine
+2007-11-20T20:25:00.000Z	tvisto	Slart	Thanks again!

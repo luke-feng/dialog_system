@@ -1,0 +1,6 @@
+2012-09-22T00:05:00.000Z	shihan	subcool	if your talking about creating the usb installer from ubuntu, that can be quite tricky
+2012-09-22T00:05:00.000Z	subcool	shihan	tricky? -
+2012-09-22T00:06:00.000Z	shihan	subcool	you'd be better of installing a windows vm, then create the usb from within it cause setting up the usb flash drive is tough from within linux
+2012-09-22T00:07:00.000Z	subcool	shihan	i keep hearing that-- guess so..
+2012-09-22T00:08:00.000Z	shihan	subcool	actually have a look at unetbootin, it apparently supports creating windows usb's as well...
+2012-09-22T00:09:00.000Z	subcool	shihan	i have, i tried it last night- it freaked out and crashed

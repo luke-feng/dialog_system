@@ -1,0 +1,6 @@
+2007-05-29T06:14:00.000Z	philipsmith		Help! I've got an ubuntu machine with 2 hard drives: one is slave. I did an update, and the system said something about a bad superblock... and the machine would not reboot. So I resintalled Feisty. I'm trying to mount that second hard drive, but am having trouble seeing it anyplace can somebody tell where I should look? Is it in /dev/hda1 or something like that?
+2007-05-29T06:15:00.000Z	nickrud	philipsmith	sudo fdisk -l will show all the partitions you have
+2007-05-29T06:16:00.000Z	philipsmith	nickrud	Thank you. It looks like it is hdb. I'll try to mount it. Thank you so much. Phil Smith Duluth, GA
+2007-05-29T06:17:00.000Z	nickrud	philipsmith	it won't be hdb by itself, but probably hdb1
+2007-05-29T06:17:00.000Z	philipsmith	nickrud	THANK YOU!!!!
+2007-05-29T06:18:00.000Z	nickrud	philipsmith	yw :)

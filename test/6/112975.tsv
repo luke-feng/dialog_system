@@ -1,0 +1,6 @@
+2008-09-11T06:50:00.000Z	khin		hey i just installed ubuntu hardy but i can't seem to find xchat in the repos. do i need to add some weird repos or something for this?
+2008-09-11T06:51:00.000Z	khin		but universe is enabled and its not there
+2008-09-11T06:51:00.000Z	Jack_Sparrow	khin	sudo apt-get update
+2008-09-12T19:25:00.000Z	Jack_Sparrow	khin	Please avoid things like wtf..     Obfuscated swearing is still swearing. we dont accept it of our users.. Please keep the room family friendly
+2008-09-12T19:48:00.000Z	Jack_Sparrow	khin	SOunds like you were using propietary drivers that would need to again be reinstalled
+2008-09-12T20:10:00.000Z	Jack_Sparrow	khin	/join #Apache

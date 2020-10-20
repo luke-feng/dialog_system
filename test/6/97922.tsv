@@ -1,0 +1,6 @@
+2009-01-18T22:29:00.000Z	Cyber_Hades		I have wireless internet conection, and i do not have unique IP. My questions is : How i can connect to my computer from another ??
+2009-01-18T22:29:00.000Z	Cyber_Hades		yea
+2009-01-18T22:29:00.000Z	Cyber_Hades		but
+2009-01-18T22:30:00.000Z	Cyber_Hades		i going to internet tru wireless network...
+2009-01-18T22:30:00.000Z	Cyber_Hades		yea but how i can see what is my ip ???
+2009-01-18T22:30:00.000Z	robtp	Cyber_Hades	Terminal > run "ifconfig"

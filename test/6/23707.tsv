@@ -1,0 +1,6 @@
+2010-05-19T16:38:00.000Z	ActionParsnip	xro_	takes 6 seconds (first time) here, now will take 0 seconds
+2010-05-19T16:38:00.000Z	xro_	ActionParsnip	what do you mean?
+2010-05-19T16:39:00.000Z	ActionParsnip	xro_	i use dnsmasq, so the resolution etc has been added to the services config
+2010-05-19T16:39:00.000Z	ActionParsnip	xro_	makes webbrowsing slightly faster as I keep all resolutions local rather than consulting the web every time
+2010-05-19T16:40:00.000Z	ActionParsnip	xro_	http://pastebin.com/jqGeLYTS
+2010-05-19T16:44:00.000Z	xro_	ActionParsnip	so you don't get any answer (nothing in answer section)... Is that mean --> no, PTR entry in the dns server?

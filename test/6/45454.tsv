@@ -1,0 +1,6 @@
+2008-12-22T22:05:00.000Z	mekr		Im in Live CD right now, installing ubuntu, in Manual Disk formating section, need help, i can install it in 1 disk (26gb total size) and its ntfs, i need to create other partitions of the 26gb disk? or just install it and format it ?
+2008-12-22T22:06:00.000Z	dr_willis	mekr	 the installer can resize if you want it to..   I normally resize with gparted and leave part of the HD unalocated.. and let the installer install to that.
+2008-12-22T22:07:00.000Z	mekr	dr_willis	ill create a new partition, may i choose logical or primary?
+2008-12-22T22:08:00.000Z	dr_willis	mekr	 linux can use either one.
+2008-12-22T22:09:00.000Z	mekr	dr_willis	whats the difference?
+2008-12-22T22:09:00.000Z	dr_willis	mekr	 disk partiioning basics.. check google/wiki pages.. In short. You can have 4 Primary Partitions per disk.. One can be  an Extended partition that holds Logicals...

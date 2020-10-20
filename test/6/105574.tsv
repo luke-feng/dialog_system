@@ -1,0 +1,6 @@
+2006-10-05T07:12:00.000Z	highneko		xgl uses 95% cpu. Is it fixable?!
+2006-10-05T07:12:00.000Z	highneko		It's ok until I open windows.
+2006-10-05T07:12:00.000Z	highneko		I can use menus!
+2006-10-05T07:13:00.000Z	sethk	highneko	who needs windows, anyway?
+2006-10-07T12:50:00.000Z	sethk	highneko	dpkg-reconfigure xserver-xorg
+2006-10-07T12:51:00.000Z	highneko	sethk	Ok, I'm gonna write this down now. Thanks. ;)

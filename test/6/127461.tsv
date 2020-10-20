@@ -1,0 +1,6 @@
+2008-01-23T18:40:00.000Z	IdleOne		!locales | guigouz
+2008-01-23T18:41:00.000Z	guigouz	IdleOne	the package "localeconf" does not exist on gutsy, the only documentation i found was about /etc/default/locale, which does not work.
+2008-01-23T18:42:00.000Z	IdleOne	guigouz	go to System > preferences > languages and location
+2008-01-23T18:42:00.000Z	guigouz	IdleOne	I'm on the console.. no X here.
+2008-01-23T18:46:00.000Z	guigouz	IdleOne	http://www.uluga.ubuntuforums.org/showthread.php?t=633614
+2008-01-23T18:49:00.000Z	IdleOne	guigouz	so you got it working :) nice job

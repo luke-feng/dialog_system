@@ -1,0 +1,6 @@
+2006-10-01T14:19:00.000Z	sri999		./RealPlayer10GOLD.bin: error while loading shared libraries: libstdc++.so.5: cannot open shared object file: No such file or directory
+2006-10-01T14:20:00.000Z	sri999		this the error i have received while trying to execute .bin file
+2006-10-01T14:20:00.000Z	sri999		can anyone pls help me
+2006-10-01T14:21:00.000Z	sri999		using chmod +x
+2006-10-01T14:22:00.000Z	sri999		how can i install tht package
+2006-10-01T14:24:00.000Z	munkay	sri999	apt-get install compat-libstdc++-33

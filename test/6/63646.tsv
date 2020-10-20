@@ -1,0 +1,6 @@
+2008-03-10T19:23:00.000Z	NattyTux		hello
+2008-03-10T19:23:00.000Z	NattyTux		how to I view two files at once with 'cat'? I mean I tried 'cat txt && txt2' , but didnt work.
+2008-03-10T19:23:00.000Z	infbliss	NattyTux	cat txt1 txt2
+2008-03-10T19:23:00.000Z	infbliss	NattyTux	should do the job
+2008-03-10T19:24:00.000Z	NattyTux	infbliss	: thanks alot!!!
+2008-03-10T19:24:00.000Z	infbliss	NattyTux	you are welcome

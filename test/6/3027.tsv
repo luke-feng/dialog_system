@@ -1,0 +1,6 @@
+2012-03-23T23:20:00.000Z	User47		i'm running 12.04 64bits, i want to run Sql server so i need xp but it dosen't work in Virtualbox 4.1.10 , & when i use a previousely installed vdi image the system run very slowly , no way to use it
+2012-03-23T23:21:00.000Z	oCean	User47	Precise/12.04 is not yet released (now beta). Please /join #ubuntu+1 for further support and discussion
+2012-03-23T23:22:00.000Z	User47		i know all that , i tried it even in Oneirc it dosen't work too
+2012-03-23T23:22:00.000Z	oCean	User47	nvm, if you are currently running 12.04, it's offtopic for this channel. Maybe try #vbox
+2012-03-23T23:23:00.000Z	User47	oCean	i have 4 pc s , i 'm running 4 different versions of Linux , it dosen't work anywhere
+2012-03-23T23:24:00.000Z	oCean	User47	exactly my point, it is not an ubuntu issue. Ask in #vbox

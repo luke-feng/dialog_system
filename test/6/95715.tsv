@@ -1,0 +1,6 @@
+2007-02-17T10:38:00.000Z	findeton		hi there
+2007-02-17T10:40:00.000Z	findeton		i've got this problem: i'm trying to compile a program called gtkguitune in ubuntu but i can't. When running ./configure it says i need to have installed Qt (>= Qt 3.0.1) (headers and libraries). The funny thing is that I've got installed libqt3-headers version 3.3.3
+2007-02-17T10:41:00.000Z	findeton		it says: "checking for Qt... configure: error: Qt (>= Qt 3.0.1) (headers and libraries) not found. Please check your installation!"
+2007-02-17T10:41:00.000Z	findeton		uhm
+2007-02-17T10:43:00.000Z	{Nathan}	findeton	You have the headers, but I think you still need the libraries. Search packages.ubuntu.org for them.
+2007-02-17T10:45:00.000Z	findeton	{Nathan}	 nor that one :P i'll try what u said

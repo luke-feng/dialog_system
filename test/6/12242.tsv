@@ -1,0 +1,6 @@
+2011-02-28T13:14:00.000Z	oxodesign		hi
+2011-02-28T13:14:00.000Z	oxodesign		where does Postfix store the logfiles in ubuntu?
+2011-02-28T13:14:00.000Z	greppy	oxodesign	/var/log
+2011-02-28T13:16:00.000Z	oxodesign	greppy	under what name? Or how can I check in my configuration what path it use or if it is enabled?
+2011-02-28T13:16:00.000Z	greppy	oxodesign	by default it will use syslog, so look in /var/log/mail.log, /var/log/mail.err, /var/log/mail.* etc
+2011-02-28T13:18:00.000Z	oxodesign	greppy	under the log directory I dont have any file that starts with mail.*!

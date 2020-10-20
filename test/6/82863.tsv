@@ -1,0 +1,6 @@
+2009-12-27T22:03:00.000Z	xiven		I'm not sure I'm understanding sudo properly. sudo is required to install all software isn't it?
+2009-12-27T22:04:00.000Z	xiven		I don't think I can install software without using sudo..because super user priveldges ar required for al installations right?
+2009-12-27T22:05:00.000Z	xiven		Well yes. But eitherway you have to have super user privs to install software..
+2009-12-27T22:06:00.000Z	xiven		Ok, just making sure. Thanks.
+2009-12-27T22:07:00.000Z	xiven		What's the command to check the amount of disk space available?
+2009-12-27T22:07:00.000Z	Jkessler	xiven	df

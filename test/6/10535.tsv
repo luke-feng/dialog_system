@@ -1,0 +1,6 @@
+2011-08-24T11:13:00.000Z	hatch		I just installed openjdk-6-jdk but when I do dpkg --get-selections | grep java it doesn't show up in the list..am I doing the search wrong?
+2011-08-24T11:13:00.000Z	hatch		java-common is in there though
+2011-08-24T11:14:00.000Z	linuxrealm	hatch	where did you get it? software center?
+2011-08-24T11:15:00.000Z	linuxrealm	hatch	just a tip about java, i would install it from: http://java.com/en/download/linux_manual.jsp?locale=en and just it manually
+2011-08-24T11:15:00.000Z	hatch	linuxrealm	yeah better version?
+2011-08-24T11:20:00.000Z	hatch	linuxrealm	ok I'll try a few more avenues before I call it quits :)

@@ -1,0 +1,6 @@
+2007-06-17T09:48:00.000Z	TaJMoX		zack have you read the command line beginner guide?
+2007-06-17T09:49:00.000Z	TaJMoX		sudo runs a command as 'root'
+2007-06-17T09:49:00.000Z	coldsteal	TaJMoX	yeah thats why sudo /bin/bash is awsome
+2007-06-17T09:50:00.000Z	TaJMoX	coldsteal	what about sudo -i
+2007-06-17T09:50:00.000Z	coldsteal	TaJMoX	i did sudo passwd root
+2007-06-17T09:50:00.000Z	coldsteal	TaJMoX	so im set

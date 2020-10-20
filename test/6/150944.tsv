@@ -1,0 +1,6 @@
+2008-01-08T10:52:00.000Z	Doonz		so are there any more support channels i could try
+2008-01-08T10:52:00.000Z	astro76	Doonz	what do you mean by port multiplier, a kvm?
+2008-01-08T10:55:00.000Z	astro76	Doonz	it's an esata controller, I'd suggest calling it that when asking for help ;)
+2008-01-08T10:55:00.000Z	astro76	Doonz	no, the whole thing is an esata controller, there is no port multiplier
+2008-01-09T05:34:00.000Z	astro76	Doonz	if it's empty, rmdir, otherwise rm -r
+2008-01-09T05:35:00.000Z	astro76	Doonz	rm -r works if it's empty too ;)

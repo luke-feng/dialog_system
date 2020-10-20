@@ -1,0 +1,6 @@
+2011-05-02T14:07:00.000Z	Fahmida		Hi, where does Ubuntu temporarily store videos from Youtube and similar sites?
+2011-05-02T14:07:00.000Z	kellnola	Fahmida	/tmp I believe
+2011-05-02T14:08:00.000Z	Fahmida	kellnola	maxillusionist: Yeah, it was in /temp at first, but currently I see nothing in directory. :S
+2011-05-02T14:08:00.000Z	Fahmida		Sorry, /tmp
+2011-05-02T14:09:00.000Z	kellnola	Fahmida	make sure you do "ls -a" or enable viewing hidden files in nautilus
+2011-05-02T14:10:00.000Z	Fahmida	kellnola	I did perform ls -a, nothing. maxillusionist: yeah.

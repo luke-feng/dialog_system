@@ -1,0 +1,6 @@
+2011-06-07T16:03:00.000Z	EClaesson_	OerHeks	Any ideas?
+2011-06-07T16:01:00.000Z	OerHeks	EClaesson_	ubuntu server has no desktopenvironment.
+2011-06-07T16:01:00.000Z	EClaesson_	OerHeks	I know that. But shouldn'y i get a terminal?
+2011-06-07T16:04:00.000Z	OerHeks	EClaesson_	did you install SSH ?
+2011-06-07T16:04:00.000Z	EClaesson_	OerHeks	stianhj: I have SSH on it yes.
+2011-06-07T16:06:00.000Z	OerHeks	EClaesson_	try ' ssh -v localhost "

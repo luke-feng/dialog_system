@@ -1,0 +1,6 @@
+2011-06-04T18:44:00.000Z	gbase		I'm tring to set up tightvncserver with fluxbox on my server
+2011-06-04T18:46:00.000Z	gbase		I tried vncserver --geometry 1280x1024 but I get xauth:  file /home/ionut/.Xauthority does not exist
+2011-06-04T18:46:00.000Z	gbase		Couldn't start Xtightvnc; trying default font path.
+2011-06-04T18:46:00.000Z	gbase		Please set correct fontPath in the vncserver script.
+2011-06-04T18:46:00.000Z	gbase		Couldn't start Xtightvnc process.
+2011-06-04T18:46:00.000Z	FloodBot1	gbase	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

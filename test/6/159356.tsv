@@ -1,0 +1,6 @@
+2012-09-01T04:21:00.000Z	SGT_Saunders		hi there folks. I'm having a problem with an install.  Mainly getting a resolutiion out of range on my monitor on boot.
+2012-09-01T04:21:00.000Z	dr_willis	SGT_Saunders	 grub menu by default uses some of the differnt modes.
+2012-09-01T04:21:00.000Z	dr_willis	SGT_Saunders	 you could set it to use a text mode.
+2012-09-01T04:22:00.000Z	dr_willis	SGT_Saunders	 does the system actually boot to a desktop/login screen?
+2012-09-01T04:22:00.000Z	dr_willis	SGT_Saunders	 ive had a few box's where i cant see grub. but they do boot after the normal delay.
+2012-09-01T04:23:00.000Z	dr_willis	SGT_Saunders	 sounds like you got deeper issues then. so what does the sytem do exactly when you power it up?

@@ -1,0 +1,6 @@
+2010-08-19T22:57:00.000Z	Hounddog		Hi, i am just trying to create a partition as reiserfs but getting an error filesystem tools not installed and i do not know which packages would be required now
+2010-08-19T22:58:00.000Z	Jordan_U	Hounddog	reiserfs is a dying filesystem, is there a particular reason you want to use it?
+2010-08-19T22:58:00.000Z	Hounddog	Jordan_U	actually not really... but i want to use the virtualbox and it is complaining about ext4
+2010-08-19T22:59:00.000Z	Jordan_U	Hounddog	What is the exact error you are getting from Virtualbox?
+2010-08-19T22:59:00.000Z	Hounddog		one sec... need to start again
+2010-08-19T23:00:00.000Z	Hounddog	Jordan_U	need 5 mins... i just formated the partition where i had the vb harddisks

@@ -1,0 +1,6 @@
+2010-06-20T09:29:00.000Z	alexh10		Im having a problem with ubuntu lucid. screen seems to crash. keyboard doesnt respond neither does the mouse.
+2010-06-20T09:31:00.000Z	SoftwareExplorer	alexh10	That seems to happen to me too when I log out of one user and I should be sent back to an already logged in user. When does it happen to you? Randomly?
+2010-06-20T09:31:00.000Z	alexh10	SoftwareExplorer	Yes it seems to be Randomly.
+2010-06-20T09:33:00.000Z	alexh10	SoftwareExplorer	I tried ctrl + alt + F1 And nothing. Only way out is to turn off the PC and back on.
+2010-06-20T09:34:00.000Z	alexh10	SoftwareExplorer	This is Ubuntu lucid only. I had never happend in Ubuntu Jaunty.
+2010-06-20T09:35:00.000Z	SoftwareExplorer	alexh10	I doubt I can help you much, but what happens if you do Ctrl + Alt +SysRq+K ? That should restart the screen without having  to shutdown (if the keyboard can actually send the message)

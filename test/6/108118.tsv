@@ -1,0 +1,6 @@
+2006-10-02T11:28:00.000Z	daurnimator		just did /etc/init.d/gdm start
+2006-10-02T11:28:00.000Z	ladydoor	daurnimator	wait! no! why?
+2006-10-02T11:29:00.000Z	ladydoor	daurnimator	ah. well, congratulations!
+2006-10-02T11:30:00.000Z	ladydoor	daurnimator	sudo aptitude remove --purge kdm
+2006-10-02T11:30:00.000Z	ladydoor	daurnimator	that will get rid of kdm, and it's alright to uninstall kubuntu-desktop
+2006-10-02T11:31:00.000Z	ladydoor	daurnimator	as that package is only used during dist-upgrades...the "real" kde is actually many packages--kubuntu-desktop just installs them all.

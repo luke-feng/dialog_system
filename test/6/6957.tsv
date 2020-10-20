@@ -1,0 +1,6 @@
+2011-08-18T04:27:00.000Z	jack____		is there a way to get `aptitude search` or `apt-cache search` to dispaly current versions
+2011-08-18T04:27:00.000Z	qin	jack____	dpkg -L <package>
+2011-08-18T04:32:00.000Z	qin	jack____	Most easy in synaltic, left bottom offering filters
+2011-08-18T04:32:00.000Z	jack____	qin	any cmdline equivalent?
+2011-08-18T04:34:00.000Z	qin	jack____	not sure, will lurk into dpkg and apt man
+2011-08-18T04:38:00.000Z	qin	jack____	I guess aptitude

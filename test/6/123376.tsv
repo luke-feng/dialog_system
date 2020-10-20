@@ -1,0 +1,6 @@
+2007-01-08T10:12:00.000Z	Cybodog		Howdy, I have a few STUPID questions:  If I have an amn64 what kernel (desktop) do I want?
+2007-01-08T10:12:00.000Z	Cybodog		the kernel image naming is confusing me.
+2007-01-08T10:13:00.000Z	Cybodog		but do I want generic?  -386 ?
+2007-01-08T10:14:00.000Z	Cybodog		there should be a hole you can mechanicaly eject the cd with a paper clip magic_ninja
+2007-01-08T10:15:00.000Z	Cybodog		Now enough about YOU, more about me problem.  I do not understand the nameing for ubuntu kernels, if I want 32bit but run amd64, what kernel do I need?
+2007-01-08T10:16:00.000Z	kitche	Cybodog	just the -generic one

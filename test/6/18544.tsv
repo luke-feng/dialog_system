@@ -1,0 +1,6 @@
+2012-02-18T01:10:00.000Z	GriGi		i always have to plugin something to minijack, and then plugout
+2012-02-18T01:10:00.000Z	GriGi		then buildin speakers works good
+2012-02-18T01:11:00.000Z	GriGi		No sound
+2012-02-18T01:11:00.000Z	GriGi		completely no sound, even if volume bar is full
+2012-02-18T01:11:00.000Z	GriGi		i can  control volume but it gives me nothing
+2012-02-18T01:11:00.000Z	cypher-neo	GriGi	Sounds like the speakers are defaulting to the jack even when it's unplugged.

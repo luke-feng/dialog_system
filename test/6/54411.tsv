@@ -1,0 +1,6 @@
+2009-02-01T06:40:00.000Z	Qid_OS[Ubt]		hello
+2009-02-01T06:40:00.000Z	Qid_OS[Ubt]		can I have any help ?
+2009-02-01T06:41:00.000Z	Qid_OS[Ubt]		I want to know my vga kernel info ...
+2009-02-01T06:41:00.000Z	Qid_OS[Ubt]		(excuse me : i'm french)
+2009-02-01T06:42:00.000Z	fosco_	Qid_OS[Ubt]	lshw -C video
+2009-02-01T06:55:00.000Z	fosco_	Qid_OS[Ubt]	dmesg | grep Command

@@ -1,0 +1,6 @@
+2010-06-19T16:43:00.000Z	tdn		Is pulseaudio installed by default? I heard it was... But I see that the package 'pulseaudio' is not installed in Kubuntu 10.04. Why is that?
+2010-06-19T16:43:00.000Z	sebsebseb	tdn	luckily Kubuntu does not use Pulseaudio by default, unlike Ubuntu since 8.04, and so yeah quite a few sound problems since 8.04.
+2010-06-19T16:45:00.000Z	tdn	sebsebseb	ok. So can I use pulseaudio in Kubuntu 10.04 if I want to? I would like to do this: http://www.pulseaudio.org/wiki/FAQ#HowcanIusePulseAudiotostreammusicfrommymainPCtomyLANwithmultiplePCswithspeakers
+2010-06-19T16:46:00.000Z	sebsebseb	tdn	Yes pulseaudio can also be used in Kubuntu, but I don't know how, try #kubuntu
+2011-04-28T23:52:00.000Z	tdn	sebsebseb	what page does not have the hashes for 11.04
+2011-04-29T00:00:00.000Z	sebsebseb	tdn	jo-erlend #ubuntu+1 is closed for now, this is 11.04 now as well

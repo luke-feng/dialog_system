@@ -1,0 +1,6 @@
+2012-03-28T01:52:00.000Z	acer		hi! anyone knows a way to forve cpu fan on in ubuntu 11.10?
+2012-03-28T01:52:00.000Z	acer		force*
+2012-03-28T01:52:00.000Z	acer		nope nes
+2012-03-28T01:53:00.000Z	acer		only sometimes
+2012-03-28T01:53:00.000Z	acicula	acer	there is fancontrol, but it sounds like your system is already managing the throtthling of the cpu fan
+2012-03-28T01:54:00.000Z	acer	acicula	I need a way to force it on

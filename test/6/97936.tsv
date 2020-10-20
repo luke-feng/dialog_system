@@ -1,0 +1,6 @@
+2006-12-28T14:12:00.000Z	genius314		If I upgrade from an Intel Pentium 3 motherboard to an AMD Athlon 64 motherboard, will I have to get a different version or reinstall Ubuntu?
+2006-12-28T14:12:00.000Z	rasman	genius314	you just need to use the correct kernel
+2006-12-28T14:13:00.000Z	genius314	rasman	How do I do that?
+2006-12-28T14:13:00.000Z	rasman	genius314	there is a generic i386 which is compatible with both Intel and AMD but you can just install both and choose at boot
+2006-12-28T14:14:00.000Z	rasman	genius314	sudo apt-get install linux-686 linux-k7
+2006-12-28T14:14:00.000Z	genius314	rasman	Ok, I'm a little confused about that. But I'm probably not going to change my motherboard for a while, so I'll figure it out then.

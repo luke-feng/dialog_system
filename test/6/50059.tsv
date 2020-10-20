@@ -1,0 +1,6 @@
+2010-01-31T23:41:00.000Z	syslq		How to check if user is using sudo in a script like if $UID -eq 0 before
+2010-01-31T23:42:00.000Z	Slart	syslq	whoami is one way
+2010-01-31T23:43:00.000Z	Slart	syslq	or id -u
+2010-01-31T23:44:00.000Z	Slart	syslq	here's an example http://www.cyberciti.biz/tips/shell-root-user-check-script.html
+2010-01-31T23:44:00.000Z	syslq	Slart	id -u works , thanks mate
+2010-01-31T23:44:00.000Z	Slart	syslq	you're welcome

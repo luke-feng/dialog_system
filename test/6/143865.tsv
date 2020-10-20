@@ -1,0 +1,6 @@
+2005-09-25T10:19:00.000Z	cheesie		!java
+2005-09-25T10:21:00.000Z	cheesie		how do i un-install a sudo package on ubuntu?
+2005-09-25T10:21:00.000Z	nybble	cheesie	unintsall sudo? or uninstall something?
+2005-09-25T10:22:00.000Z	cheesie		a sudo package mybble
+2005-09-25T10:22:00.000Z	cheesie	sudo	apt-get remove ? << is it that
+2005-09-25T10:23:00.000Z	nybble	cheesie	to uninstall sudo, type 'sudo apt-get remove sudo'... BUT WHY?

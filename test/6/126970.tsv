@@ -1,0 +1,6 @@
+2006-01-28T17:14:00.000Z	CanYouHelpMePlz		pittsburgh's goin to the super bowl! yeaaa!
+2006-01-28T10:46:00.000Z	CanYouHelpMePlz		on a freebsd system, what would be the command to kill all bash processes ?
+2006-01-28T10:46:00.000Z	CanYouHelpMePlz		*they are running in screen*
+2006-01-28T10:47:00.000Z	CanYouHelpMePlz		hmm, killall screen worked, never mind
+2006-01-28T10:49:00.000Z	rjordan	CanYouHelpMePlz	it would be 'killall -9 bash'
+2006-01-28T10:49:00.000Z	CanYouHelpMePlz	rjordan	got it already thanks :-) killall screen worked

@@ -1,0 +1,6 @@
+2012-11-02T02:02:00.000Z	bennis		hey, i'm trying to make a bootable usb on windows using the latest unetbootin... I've formatted my drive to fat32, the windows standard. It's not booting... What is windows doing wrong?
+2012-11-02T02:03:00.000Z	dr_willis	bennis	 the pendrivelinux web site has alterantives to unetbootin that may work for you
+2012-11-02T02:04:00.000Z	bennis	dr_willis	the purpose of this is to display to a nonprofit how linux can be made to look like windows
+2012-11-02T02:06:00.000Z	bennis	dr_willis	yeah, but is it a format issue or do i just need a *nix box to do it properly? i assume the partition doesn't have the boot flag for some reason
+2012-11-02T02:06:00.000Z	bennis	dr_willis	i don't have admin priviledges on this machine
+2012-11-02T02:06:00.000Z	dr_willis	bennis	  you can image the iso file straight to the flash if you wanted to.

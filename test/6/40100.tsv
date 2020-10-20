@@ -1,0 +1,6 @@
+2011-06-10T03:14:00.000Z	NvrBst		Hello.  Question if I may.  I'm trying to follow a tutorial which is telling me to use Ubuntu 9.04 (Jaunty).  I installed that version, and it is telling me to "apt-get update" / "apt-get install" some stuff, but, it is failing.  Is this because 9.04 is too old?  Is there a way to fix this for my 9.04 install?
+2011-06-10T03:14:00.000Z	NvrBst		Example error message is: Failed to fetch http://ca.archive.ubuntu.com/ubuntu/pool/main/r/readline5/libreadline5-dev_5.2-4_i386.deb 404 Not Found [IP: 91.189.88.40 80]
+2011-06-10T03:16:00.000Z	NvrBst		9.04 Jaunty is what I was using.  How would one update the 9.04 "/etc/apt/sources.list" to work?
+2011-06-10T03:18:00.000Z	NvrBst		What I mean is still use 9.04 (as per the tutorail I'm using), but, update sources.list so I can get packages?  Or will I be forced to full update ubuntu?
+2011-06-10T03:18:00.000Z	NvrBst		kk
+2011-06-10T03:19:00.000Z	meganerd	NvrBst	probably best to do a clean install of a newer version

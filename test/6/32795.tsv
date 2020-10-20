@@ -1,0 +1,6 @@
+2009-12-27T07:31:00.000Z	ipatrol		How can I create a .deb file?
+2009-12-27T07:31:00.000Z	bastid_raZor	ipatrol	once you've configure and make do a checkinstall
+2009-12-27T07:35:00.000Z	ipatrol	bastid_raZor	How can I get the resulting .deb file for distribution?
+2009-12-27T07:37:00.000Z	bastid_raZor	ipatrol	did you read that page? it states checkinstall is not designed to produce packages for distribution
+2009-12-30T06:32:00.000Z	bastid_raZor	ipatrol	window list, i think is the applet you need to add to that panel
+2009-12-30T06:33:00.000Z	bastid_raZor	ipatrol	that is the correct applet.

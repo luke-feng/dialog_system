@@ -1,0 +1,6 @@
+2007-12-06T09:51:00.000Z	defyence		I finally figured out how to install Pidgin (2.3.0), got it all done, did it by compiling the source code...
+2007-12-06T09:51:00.000Z	defyence		...And it won't open. Any advice?
+2007-12-06T09:52:00.000Z	defyence		pidgin: error while loading shared libraries: libpurple.so.0: cannot open shared object file: No such file or directory
+2007-12-06T09:53:00.000Z	defyence		Well, that helped. Now I know the problem! :D Thanks, FluxD
+2007-12-06T09:53:00.000Z	kelsin_	defyence	did you run "sudo make install" yet?
+2007-12-06T09:53:00.000Z	defyence	kelsin_	Yes, I did

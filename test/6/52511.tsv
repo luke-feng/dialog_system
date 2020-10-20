@@ -1,0 +1,6 @@
+2009-04-28T23:11:00.000Z	Saiki		how do you fix pulseaudio problems? grep reports nohin g uning, and no processe wusing it, but I still have no sound
+2009-04-28T23:12:00.000Z	Saiki		http://mibbit.com/pb/AtwldB
+2009-04-28T23:12:00.000Z	kdub	Saiki	i just did killall -9 pulseaudio, alsa force-reload. probably not the best way though
+2009-04-28T23:12:00.000Z	Saiki	kdub	tried that and it didn;t work
+2009-04-28T23:13:00.000Z	kdub	Saiki	my real problem turned out to be my headphones were plugged in the wrong soundcard though...
+2009-04-28T23:14:00.000Z	Saiki	kdub	mine is fare morecomplicated, as it stopped working with no chages to hardware/software

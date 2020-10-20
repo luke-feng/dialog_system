@@ -1,0 +1,6 @@
+2008-11-02T09:27:00.000Z	node357		hello, 2 things. I can't install the nvidia driver because the dialog says I have "held back broken packages" or something like that, and also I can't get my Intel HDA audio line-in working.
+2008-11-02T09:27:00.000Z	billygalbreath	node357	sudo apt-get dist-upgrade
+2008-11-02T09:28:00.000Z	node357	billygalbreath	thanks
+2008-11-02T09:28:00.000Z	node357	billygalbreath	that didn't do anything
+2008-11-02T09:28:00.000Z	billygalbreath	node357	it didnt fix the broken packages?
+2008-11-02T09:32:00.000Z	billygalbreath	node357	paste me the exact error about the broken packages

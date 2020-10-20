@@ -1,0 +1,6 @@
+2007-10-13T12:43:00.000Z	mmschnei		hello, I am new to ubuntu and I have a few questions. First of all I just got a shiny new quad core CPU, what do I need to do to have ubuntu utilize this properly? I have read about SMP kernels but I don't see them in synaptic anymore (posts were dated about 6 months that mentioned SMP kernels)
+2007-10-13T12:44:00.000Z	mmschnei		The other major issue I am having at the moment is I am having trouble with video drivers...
+2007-10-13T12:45:00.000Z	mmschnei		I have an Nvidia 8600GT card, ubuntu does not appear to be detecting the card properly and if I try an use the restricted drivers application it tells me I don't need any. However right now I am stuck with VESA @ 1024x768 =(
+2007-10-13T12:46:00.000Z	dropety	mmschnei	how about installing the nVidia drivers?
+2007-10-13T12:48:00.000Z	dropety	mmschnei	goto thenvidia site and DL the drivers
+2007-10-13T12:48:00.000Z	mmschnei	dropety	ok, so just ignore the package management system on this one?

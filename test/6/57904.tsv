@@ -1,0 +1,6 @@
+2009-12-06T01:29:00.000Z	konbon		guys, whats the terminal command for listing the hard drives?
+2009-12-06T01:29:00.000Z	Dr_Willis	konbon	 sudo fdisk -l     is one command.
+2010-01-19T07:06:00.000Z	Dr_Willis	konbon	 you nroamlly 'run' a .run from the terminal. not the gui
+2010-01-19T07:07:00.000Z	Dr_Willis	konbon	 'chmod +x whatever.run'  then 'sudo ./whatever.run'
+2010-01-19T07:07:00.000Z	konbon	Dr_Willis	that's what im doing, im in terminal
+2010-01-19T07:07:00.000Z	Dr_Willis	konbon	 note teh use of the 'sudo' command

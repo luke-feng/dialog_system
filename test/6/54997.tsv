@@ -1,0 +1,6 @@
+2008-07-07T15:59:00.000Z	deadsnake		Hi, ive suddenly got a problem with an ntfs3g mount. it says Error opening partition device: Read-only file system
+2008-07-07T15:59:00.000Z	deadsnake		Failed to mount '/dev/sde1': Read-only file system
+2008-07-07T15:59:00.000Z	joaopinto	deadsnake	have you checked the dmesg output ?
+2008-07-07T16:00:00.000Z	deadsnake	joaopinto	no I havent, wheres that?
+2008-07-07T16:00:00.000Z	joaopinto	deadsnake	after the mount just type "dmesg" , on the terminal, it may provide you some hint on the problem
+2008-07-07T16:02:00.000Z	deadsnake	joaopinto	what am i looking for in that huge output of dmesg

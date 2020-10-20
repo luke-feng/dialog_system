@@ -1,0 +1,6 @@
+2005-08-08T11:36:00.000Z	sproingie		flash works fine on the 32 bit firefox
+2005-08-08T11:36:00.000Z	sproingie		you want to do a lot of multimedia stuff, you may as well just run a 32 bit dist tho
+2005-08-08T11:36:00.000Z	sproingie		the 64 bit works fine, just some individual apps don't
+2005-08-08T11:37:00.000Z	sproingie		macrodobe doesn't have flash for amd64 for instance.  ghc also sucks on amd64, but i doubt you need that
+2005-08-08T11:38:00.000Z	concept10	sproingie	the unstable is in the repos
+2005-08-08T11:39:00.000Z	sproingie	concept10	yes it is, but when ubuntu says unstable it means it, whereas you can get away with running sid most of the time

@@ -1,0 +1,6 @@
+2009-07-24T01:09:00.000Z	BlueAlchemy		done and same response when I tried to install it
+2009-07-24T01:11:00.000Z	BlueAlchemy		well, thanks for your help
+2009-07-24T01:11:00.000Z	BlueAlchemy		my mistake
+2009-07-24T01:11:00.000Z	BlueAlchemy		I just don't understand why canonical would put a program on their installation that they support and they not let you reinstall it
+2009-07-24T01:12:00.000Z	pepperjack	BlueAlchemy	you can always do a dpkg-reconfigure <packagename>
+2009-07-24T01:13:00.000Z	pepperjack	BlueAlchemy	yes.

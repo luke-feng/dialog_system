@@ -1,0 +1,6 @@
+2009-03-01T11:59:00.000Z	fidelitysystem		why my amsn dont open
+2009-03-01T12:00:00.000Z	fidelitysystem		Hi what is the command on terminal to create a user?
+2009-03-01T12:00:00.000Z	Flannel	fidelitysystem	adduser
+2009-03-01T12:01:00.000Z	Flannel	fidelitysystem	Yeah, you'll need to use sudo.
+2009-03-01T12:02:00.000Z	Flannel	fidelitysystem	ah, you need to add that user to the admin group: adduser username admin
+2009-03-01T12:02:00.000Z	Flannel	fidelitysystem	(thats after you've added them as a user)

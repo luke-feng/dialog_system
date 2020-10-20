@@ -1,0 +1,6 @@
+2009-05-27T11:19:00.000Z	wahnfrieden		hi
+2009-05-27T11:20:00.000Z	wahnfrieden		is there some app that will automatically detect and unzip/extract any type of archive without me having to type different parameters for every archive type, just to accomplish the same simple task?
+2009-05-27T11:21:00.000Z	kenyon	wahnfrieden	there is one for the command line that does that, don't rememeber what it's called now, but it's in the ubuntu repositories
+2009-05-27T11:22:00.000Z	wahnfrieden	kenyon	ah thats what i want
+2009-05-27T11:22:00.000Z	kenyon	wahnfrieden	let me see if I can find it
+2009-05-27T11:33:00.000Z	kenyon	wahnfrieden	also there are man and web pages that explain all those options. also, the long options for GNU tar are much more comprehensible than the short ones.

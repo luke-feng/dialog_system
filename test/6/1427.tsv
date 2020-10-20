@@ -1,0 +1,6 @@
+2012-07-11T16:55:00.000Z	madmax2		11.10, screen brightness. The key combination for brightness is fine, Fn+F1 and Fn+F2 are recognised. The notification windo shows the brightness. But it has no effect.
+2012-07-11T16:55:00.000Z	madmax2		echo 150 | sudo tee /sys/class/backlight/panasonic/brightness works fine too.
+2012-07-11T16:55:00.000Z	Kruptein	madmax2	you'll probably need some drivers / software package from your laptop manufacturer
+2012-07-11T16:56:00.000Z	Kruptein	madmax2	I had to install some samsung specific packages in order to be able to use those keys
+2012-07-11T16:56:00.000Z	madmax2	Kruptein	Thanks, I will have a look into it.
+2012-07-11T16:57:00.000Z	madmax2	Kruptein	That said, my drivers are the correct ones but the key bindings are a goof up.

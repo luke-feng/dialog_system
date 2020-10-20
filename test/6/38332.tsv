@@ -1,0 +1,6 @@
+2010-10-14T00:58:00.000Z	osx5		hello again
+2010-10-14T00:58:00.000Z	osx5		does anyone know a command to turn X off or stopping it? I want to get into a command prompt on my ubuntu minimal again
+2010-10-14T00:59:00.000Z	VCoolio	osx5	ctrl+alt+f1-6 for tty's, alt+f7 to get back; sudo service gdm stop  to stop x
+2010-10-14T00:59:00.000Z	osx5	VCoolio	ty
+2010-10-14T01:00:00.000Z	osx5	VCoolio	odd, it killed the gui but the background is still tehre, i'm on icewm
+2010-10-14T01:01:00.000Z	VCoolio	osx5	then gdm isn't the one to stop I guess, try 'killall X'

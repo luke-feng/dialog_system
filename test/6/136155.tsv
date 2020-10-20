@@ -1,0 +1,6 @@
+2006-08-28T09:56:00.000Z	jake1		i jst got an error message like this
+2006-08-28T09:56:00.000Z	jake1		checking for C compiler default output... configure: error: C compiler cannot cr eate executables
+2006-08-28T09:56:00.000Z	jake1		See `config.log' for more detai
+2006-08-28T09:56:00.000Z	jake1		what does that mean
+2006-08-28T09:57:00.000Z	jake1		the config log gives me nothing more
+2006-08-28T09:57:00.000Z	ardchoille	jake1	sudo apt-get install build-essential

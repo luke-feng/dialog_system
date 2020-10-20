@@ -1,0 +1,6 @@
+2008-10-15T05:42:00.000Z	DocUSN-USMC		anyone care to tell me how to change my video ram from 32 to 128 ram usage?
+2008-10-15T05:42:00.000Z	dli	DocUSN-USMC	"change"?
+2008-10-15T05:44:00.000Z	dli	DocUSN-USMC	it's a setting option in BIOS
+2008-10-15T05:46:00.000Z	dli	DocUSN-USMC	does "free -m" shows correct system RAM size?
+2008-10-15T05:48:00.000Z	dli	DocUSN-USMC	it sounds "3072 - 32 -8"
+2008-10-15T05:48:00.000Z	dli	DocUSN-USMC	so, bios setting is for 32MB vRAM

@@ -1,0 +1,6 @@
+2008-01-19T15:58:00.000Z	chris710		hi
+2008-01-19T16:00:00.000Z	chris710		i have installed linux xubuntu 7.10 with visual box and i need some help,who can help me?
+2008-01-19T16:02:00.000Z	chris710		where can i put visual box in 32 bis?cos its in 16 bits
+2008-01-19T16:02:00.000Z	pygmymath	chris710	As far as i know you can't. It doesn't emulate a good enough graphics card on the guest machine.
+2008-01-19T16:03:00.000Z	pygmymath	chris710	See if your programs will run in wine :) simple programs will often work
+2008-01-19T16:05:00.000Z	pygmymath	chris710	it's ok! because visual box emulates an entire pc it cant see your usb ports, else two computers would be using them

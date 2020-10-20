@@ -1,0 +1,6 @@
+2011-08-13T09:33:00.000Z	mkaurin	theadmin	you did not tell MushroomNZ that PAE is somewhat of a cpu stress when handling a lot of ram io, also about the unused 1/2 register on 64bit processors with 32bit kernels, and the nx bit protection you get with 64bit kernel on 64bit processors
+2011-08-13T09:34:00.000Z	theadmin	mkaurin	Because I never used PAE and therefore don't really have any idea what it's like
+2011-08-13T09:34:00.000Z	theadmin	mkaurin	I just know it's an option
+2011-08-13T09:35:00.000Z	mkaurin	theadmin	 yeah. basically... you should advise people to use 64bit kernels if they have 4gig of ram or more, just my 2c
+2011-08-13T09:35:00.000Z	theadmin	mkaurin	Okay, thanks.
+2011-08-13T09:36:00.000Z	mkaurin	theadmin	32bit can have its advantages in wider support with some deprecated (but sometimes needed!) software, and stuff like that

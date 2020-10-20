@@ -1,0 +1,6 @@
+2011-05-16T04:00:00.000Z	Corollax		I'm trying to run a precompiled 32-bit program, but I'm missing a few shared object files. How can I find out what packages to install?
+2011-05-16T04:00:00.000Z	pfifo	Corollax	`ldd /path/to/program`
+2011-05-16T04:03:00.000Z	pfifo	Corollax	ohh you are trying to get 32 bit libs, I see, I copy them from a 32 bit install/livecd. there are not many optins for getting 32 bit libs on 64 aside from what ubuntu devs consider useful
+2011-05-16T04:04:00.000Z	pfifo	Corollax	apt-get is on the livecd
+2011-05-16T04:06:00.000Z	pfifo	Corollax	boot a 32bit livecd, install wxwidgets in the live enviroment, mount your hard drive, and then copy the libs you need to /usr/lib32
+2011-05-16T04:07:00.000Z	pfifo	Corollax	the proper way would be to learn to build multilibs, but thats much more involved

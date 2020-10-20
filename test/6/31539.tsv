@@ -1,0 +1,6 @@
+2009-09-16T05:41:00.000Z	TrentonAdams		how do I change ubuntu/debian startup options?  i.e. what starts and does not start when the computer boots
+2009-09-16T05:41:00.000Z	TrentonAdams		nm
+2009-09-16T05:43:00.000Z	TrentonAdams		tomcat-6 doesn't appear to be listed in the services tool in System=>Administration=>Services
+2009-09-16T05:44:00.000Z	DJ-Nomad	TrentonAdams	 this works good for startup program control  http://www.marzocca.net/linux/bum.html
+2009-09-16T05:46:00.000Z	TrentonAdams	DJ-Nomad	I will try it out, thanks.
+2009-09-16T05:47:00.000Z	DJ-Nomad	TrentonAdams	you are welcome,I like it pretty good

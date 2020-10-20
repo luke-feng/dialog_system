@@ -1,0 +1,6 @@
+2009-06-15T05:43:00.000Z	RheaChiQ		hello guys.im planning to reformat my hd.how to copy the updates that ive downloaded?so that if i reinstall the os, ill not re-download again the updates. thanks
+2009-06-15T05:45:00.000Z	dajhorn	RheaChiQ	Keep a copy of the files in /var/cache/apt
+2009-06-15T05:45:00.000Z	dajhorn	RheaChiQ	Restore them after you reinstall and they won't be downloaded again.
+2009-06-15T05:50:00.000Z	dajhorn		!medibuntu | krittaya
+2009-06-15T05:54:00.000Z	RheaChiQ		hello guys.im planning to reformat my hd.how to copy the updates that ive downloaded?so that if i reinstall the os, ill not re-download again the updates. thanks
+2009-06-15T05:55:00.000Z	RheaChiQ	dajhorn	: oh got it.i didnt notice your msg.i dont have a highlight thing

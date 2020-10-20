@@ -1,0 +1,6 @@
+2008-01-02T07:56:00.000Z	trini		found this on the xbox-linux page: http://www.xbox-linux.org/wiki/How_to_include_FATX_support_in_a_regular_Linux_kernel
+2008-01-02T07:56:00.000Z	trini		could it be aplied to ubuntu 7.04?
+2008-01-02T07:58:00.000Z	trini		What kernel version does 7.04 use?
+2008-01-02T07:58:00.000Z	nickrud	trini	2.6.20
+2008-01-02T08:00:00.000Z	trini	nickrud	is it possible to use 2.6.16 on it?
+2008-01-02T08:01:00.000Z	nickrud	trini	you can use any kernel you like, but feisty's other system software is tuned to use 2.6.20

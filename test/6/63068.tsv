@@ -1,0 +1,6 @@
+2010-08-01T02:51:00.000Z	scot		Hey, has USB support in Virtualbox been shutoff in the ubuntu packages?
+2010-08-01T02:51:00.000Z	scot		gah
+2010-08-01T02:52:00.000Z	scot		Why was it disabled, anyone know?
+2010-08-01T02:54:00.000Z	scot		I guess I was wrong
+2010-08-01T02:55:00.000Z	hspaans	scot	it is a license issue on the side of Sun / Oracle
+2010-08-01T02:58:00.000Z	hspaans	scot	correct, sun/oracle don't have any rights to the usb-code in vbox

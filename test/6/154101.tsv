@@ -1,0 +1,6 @@
+2010-08-04T13:15:00.000Z	adamramadhan		is there a gui or something that can change ico to svg atau png for icon usage
+2010-08-04T13:15:00.000Z	adamramadhan		somehow ubuntu cant read ico files
+2010-08-04T13:16:00.000Z	adamramadhan		or maybe converting ico to png or svg ?
+2010-08-04T13:16:00.000Z	YankDownUnder	adamramadhan	Um...have you tried GIMP yet?
+2010-08-04T13:17:00.000Z	YankDownUnder	adamramadhan	Um...have you read the dox for GIMP yet?
+2010-08-04T13:17:00.000Z	YankDownUnder	adamramadhan	You should think about checking out www.gnome-look.org to see if someone's already converted the icon package(s) you desire...easier than doing it yourself...

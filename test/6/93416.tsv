@@ -1,0 +1,6 @@
+2007-05-04T09:04:00.000Z	a5benwillis		how can I force kill an app by PID?
+2007-05-04T09:04:00.000Z	sethk	a5benwillis	kill ###
+2007-05-04T09:04:00.000Z	sethk	a5benwillis	you can try -9, which doesn't require the program to cooperate
+2007-05-04T09:54:00.000Z	sethk	a5benwillis	he doesn't mean subversion source.  subversion is a source code control system.
+2007-05-04T09:55:00.000Z	sethk	a5benwillis	I was assuming he wants to be a server, not a client, but it's more likely he wants to be a client.
+2007-05-04T09:55:00.000Z	a5benwillis	sethk	Ah, I have no idea how to do that. GOOGLE time lol

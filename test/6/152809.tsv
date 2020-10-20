@@ -1,0 +1,6 @@
+2005-08-23T11:52:00.000Z	HiThere		Hi. I just install ubuntu and apparently it installed with the wrong resolution
+2005-08-23T11:52:00.000Z	HiThere		how can I fix that
+2005-08-23T11:53:00.000Z	HiThere		Hi. I just install ubuntu and apparently it installed with the wrong resolution how can I fix it?
+2005-08-23T11:54:00.000Z	HiThere		I can't get into ubuntu
+2005-08-23T11:54:00.000Z	sss_lr	HiThere	run command xconfig or similar xf86config it will take you through steps
+2005-08-23T11:56:00.000Z	sss_lr	HiThere	run xf86config

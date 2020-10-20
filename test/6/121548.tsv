@@ -1,0 +1,6 @@
+2006-04-05T14:55:00.000Z	athayde		Hello... I've just installed the ubuntu into my computer and I've some musics. I was wondering how did I put my musics on ubuntu ?
+2006-04-05T14:56:00.000Z	athayde		observation... they are in windows XP
+2006-04-05T14:56:00.000Z	kingspawn	athayde	read what ubotu said
+2006-04-05T14:56:00.000Z	kingspawn	athayde	then you need to mount your windows partition in ubuntu
+2006-04-05T14:56:00.000Z	athayde	kingspawn	okay, I know that. But, how did I do that ?
+2006-04-05T14:57:00.000Z	kingspawn	athayde	well, do you know which /dev/hdxx your partition is?

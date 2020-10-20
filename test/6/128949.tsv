@@ -1,0 +1,6 @@
+2005-12-14T09:49:00.000Z	Flashmatt22		I konw it's not debian
+2005-12-14T09:50:00.000Z	Flashmatt22		geez, isn't this stuff built on debian??
+2005-12-14T09:50:00.000Z	Flashmatt22		I'm using ubuntu bottom line...so I wasn't supposed to use alien?
+2005-12-14T09:51:00.000Z	Flashmatt22		Room: where do installed packages go...as in where are their folders located when I install a .deb package?
+2005-12-14T09:52:00.000Z	dooglus	Flashmatt22	they go wherever the package creator wants them to go.   dpkg -L <packagename>    will tell you where
+2005-12-14T09:53:00.000Z	Flashmatt22	dooglus	Thanks, which brings me to another question, how do I install rpms without using alien, b/c I guess using alien didn't quite work

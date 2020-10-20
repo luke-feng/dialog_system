@@ -1,0 +1,6 @@
+2007-01-17T10:04:00.000Z	wolfwalker		Can someone recommend a good audio editor for ubuntu?
+2007-01-17T10:04:00.000Z	arrenlex	wolfwalker	audacity
+2007-01-17T10:14:00.000Z	arrenlex	wolfwalker	apt-cache search <terms> is your best friend
+2007-01-17T10:14:00.000Z	arrenlex	wolfwalker	apt-cache search is a command used to search for available packages. I typed in "apt-cache search ardour" and it gave me a list of packages matching "ardour" in description or string.
+2007-01-17T10:15:00.000Z	arrenlex	wolfwalker	I suppose you could also use the search feature of synaptic, or packages.ubuntu.com
+2007-01-17T10:16:00.000Z	arrenlex	wolfwalker	yw

@@ -1,0 +1,6 @@
+2009-01-09T08:18:00.000Z	a-t		hey guys
+2009-01-09T08:18:00.000Z	a-t		how can i disable ubuntu to mount my window partition
+2009-01-09T08:18:00.000Z	a-t		not to be there at all
+2009-01-09T08:20:00.000Z	a-t		well what command i got to remove
+2009-01-09T08:21:00.000Z	samanddeanus	a-t	remove the line which has ntfs-3g
+2009-01-09T08:21:00.000Z	samanddeanus	a-t	from /etc/fstab

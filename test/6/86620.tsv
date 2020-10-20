@@ -1,0 +1,6 @@
+2007-06-04T12:30:00.000Z	insomniac190		what version of feisty should be installed on a computer wioth a core 2 duo processor?
+2007-06-04T12:30:00.000Z	nalioth	insomniac190	for best results, the i386 version
+2007-06-04T12:30:00.000Z	nalioth	insomniac190	if you don't play games, the amd64 (or 64 bit) version
+2007-06-04T12:32:00.000Z	insomniac190	nalioth	dont play games...would the 64bit version show a big difference in my computers performance?
+2007-06-04T12:32:00.000Z	nalioth	insomniac190	not that much, we are only human
+2007-06-04T12:33:00.000Z	nalioth	insomniac190	if you want flash and realplayer and w32codecs and such, use the i386 version

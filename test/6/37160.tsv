@@ -1,0 +1,6 @@
+2012-11-28T01:51:00.000Z	biopyte		hi, since my recent 12.04 update, firefox does not save my settings anymore. setting "block-pop-up-windows exceptions", close and restart ff, the settings are gone,  any idea?
+2012-11-28T01:51:00.000Z	biopyte		has never been an issue before, only since the last update ff17
+2012-11-28T01:52:00.000Z	newgen	biopyte	 maybe the .mozilla folder has some wrong permissions
+2012-11-28T01:54:00.000Z	biopyte	newgen	.mozilla is rwx------
+2012-11-28T01:54:00.000Z	newgen	biopyte	ok, same like mine
+2012-11-28T01:54:00.000Z	newgen	biopyte	i am not sure in which subfolder/file the firefox would store this setting

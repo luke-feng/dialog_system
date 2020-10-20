@@ -1,0 +1,6 @@
+2005-03-24T08:00:00.000Z	membreya__		my windows mount is listed as a read only drive now :|
+2005-03-24T08:00:00.000Z	Amaranth	membreya__	Drive failure.
+2005-03-24T08:00:00.000Z	Amaranth	membreya__	you need to remount it
+2005-03-24T08:01:00.000Z	Amaranth	membreya__	But if it remounted as ro then the drive is more then likely failing
+2005-03-24T08:03:00.000Z	Amaranth	membreya__	Ouchie, better look for a new one. :p
+2005-03-24T08:03:00.000Z	Amaranth	membreya__	Unless the FAT fs is just fucked up.

@@ -1,0 +1,6 @@
+2010-08-28T20:32:00.000Z	{g}		Hey People! Whats the right way to add users in ubuntu? "useradd joe"? will that create a homedir and everything that is needed so joe can use X and everything?
+2010-08-28T20:33:00.000Z	zzzed_	{g}	man adduser
+2010-08-28T20:34:00.000Z	{g}	zzzed_	ok
+2010-08-28T20:34:00.000Z	zzzed_	{g}	or System->Adminstration->Users and Groups
+2010-08-28T20:35:00.000Z	{g}	zzzed_	i dont use a gui. i type in a shell.
+2010-08-28T20:35:00.000Z	zzzed_	{g}	ok

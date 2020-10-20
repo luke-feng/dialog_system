@@ -1,0 +1,6 @@
+2009-10-15T00:54:00.000Z	Nitrohax	resno	is that something that you have to install extra form the install cd's?
+2009-10-15T00:55:00.000Z	resno	Nitrohax	i think so. vnc isnt usually installed and you need it on both ends
+2009-10-15T00:55:00.000Z	Nitrohax	resno	i've been able to remote connect to my network at home and everything works, but when i try to do it from a remote location using the ip it refuses the connection
+2009-10-15T00:56:00.000Z	resno	Nitrohax	yea port forwarding. your router is blocking the connection.
+2009-10-15T00:58:00.000Z	resno	Nitrohax	you have to open the router. its blocks incoming ports.
+2009-10-15T00:58:00.000Z	Nitrohax	resno	i thought i did. i'll double check when i get home soemtimes in the next year. LOL

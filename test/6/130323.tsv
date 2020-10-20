@@ -1,0 +1,6 @@
+2006-04-27T08:04:00.000Z	Jowi		Is there a way to automatically put files in userdirectories when that user is created? Example: create a new user and a specific .muttrc is put in /home/user
+2006-04-27T08:04:00.000Z	Jowi		thanks Warbo and Knorrie
+2006-04-27T08:05:00.000Z	sethk	Jowi	there is a capability to build a skeletal directory for use in creating each new user's home directory
+2006-04-27T08:06:00.000Z	Jowi	sethk	yeah, I found the skel example, thanks :)
+2006-04-30T06:10:00.000Z	Jowi	sethk	hey, you're right. why do i keep doing that
+2008-03-08T01:12:00.000Z	Jowi	sethk	kbrosnan: he only needs to killall firefox-bin and restart firefox.

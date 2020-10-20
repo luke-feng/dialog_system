@@ -1,0 +1,6 @@
+2009-08-14T23:45:00.000Z	Lunixed		I have installed NVDIA and compiz recently . My desktop panel shows 4 workspaces but when i turn with Alt+ctrl+left_Arrow It turns as a paper i.e it has only 2 virtual desktops . How do i fix this. I want it to be a desktop cube
+2009-08-14T23:46:00.000Z	InfectedWithDrew	Lunixed	enable the 3D desktop cube options in compiz.
+2009-08-14T23:46:00.000Z	Lunixed		Yes it is enabled InfectedWithDrew
+2009-08-14T23:46:00.000Z	Lunixed		Even i changed the settings in ccsm general settings to be 2x2 desktops
+2009-08-14T23:47:00.000Z	Lunixed	nsahoo	 me
+2009-08-14T23:47:00.000Z	InfectedWithDrew	Lunixed	There are really honestly multiple plugins you have to enable to get it to behave correctly, and I forget which ones they are.  But if you enable just the cube it doesn't do anything XD

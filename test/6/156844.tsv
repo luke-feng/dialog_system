@@ -1,0 +1,6 @@
+2005-04-21T16:08:00.000Z	devdude		wogwon
+2005-04-21T16:09:00.000Z	devdude		aight, so how do U automagically upgrade my firefox with the new one?  Its not in the list in aptitude. Do I have to add another deb source?
+2005-04-21T16:10:00.000Z	devdude		still warty
+2005-04-21T16:11:00.000Z	trygvebw	devdude	You can't upgrade to newer Firefox versions in Warty, without breaking your system.
+2005-04-21T16:11:00.000Z	trygvebw	devdude	It is out.
+2005-04-21T16:12:00.000Z	trygvebw	devdude	Yeah.

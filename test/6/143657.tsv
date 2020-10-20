@@ -1,0 +1,6 @@
+2006-10-19T06:49:00.000Z	anon32		what's the difference between linux-kernel-686 and linux-kernel-686smp? they both seem to install the same packages
+2006-10-19T06:51:00.000Z	anon32		anyway, is there a way to get XFS support on Windows (yea, should go to ##windows)?
+2006-10-19T06:52:00.000Z	anon32		and leaves your system totally open to attack
+2006-10-19T06:52:00.000Z	anon32		anyway, is there a way to get XFS support on Windows (yea, should go to ##windows)?
+2006-10-19T06:54:00.000Z	anon32		what's the difference between linux-kernel-686 and linux-kernel-686smp? they both seem to install the same packages
+2006-10-19T06:56:00.000Z	bimberi	anon32	I think it's a backwards compatibility thing.  Previous Ubuntu releases had separate 686 and 686-smp kernels.  Dapper doesn't

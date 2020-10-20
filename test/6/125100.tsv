@@ -1,0 +1,6 @@
+2006-07-20T15:53:00.000Z	kouwe		when i use the CD from ubuntu 6.06 and format the drive to ext3 (sata) it hangs always around the 15% what am i doing wrong??
+2006-07-20T15:54:00.000Z	Enverex	kouwe	Are you sure the drive isn't damaged?
+2006-07-20T15:54:00.000Z	kouwe		nope, its an undamaged drive btw its on a Toshiba Centrino laptop...
+2006-07-20T15:54:00.000Z	Enverex		Right, now to switch to the K7-SMP kernel from the i386 kernel. This should give me a big speed boost, lol.
+2006-07-20T15:55:00.000Z	Enverex	kouwe	Try formatting to reiserfs or something
+2006-07-20T15:55:00.000Z	kouwe	Enverex	ok ill try that!

@@ -1,0 +1,6 @@
+2007-01-10T08:49:00.000Z	Khaldion		Hello guys, I have a problem to get my ubuntu wlan working. I've got ubuntu 6.06 and my laptop is amilo m7440g I have IPW 2200 BG drivers.
+2007-01-10T08:49:00.000Z	Khaldion		 Hello guys, I have a problem to get my ubuntu wlan working. I've got ubuntu 6.06 and my laptop is amilo m7440g I have IPW 2200 BG drivers.
+2007-01-10T08:50:00.000Z	Khaldion		Umm.. strange
+2007-01-10T08:51:00.000Z	Khaldion		Is there a support channel for ubuntu, where you can get some help?
+2007-01-10T08:52:00.000Z	Khaldion		Well, I have a problem to get my WLAN working, I have got killswitch, which doesn't work. Also I don't know how to get my wlan working, my model is fsc amilo m7440g and my wlan card are IPW 2200 B.
+2007-01-10T08:54:00.000Z	Sapote	Khaldion	check https://bugs.launchpad.net/ubuntu/ for ipw 2200

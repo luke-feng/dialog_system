@@ -1,0 +1,6 @@
+2006-09-30T11:08:00.000Z	cpk1		maybe I am having a problem mounting the .iso because i created it from a .mdf?
+2006-09-30T11:10:00.000Z	cpk1		some thing that windows can mount like an image
+2006-09-30T11:12:00.000Z	cpk1		dont think so, i got mdf2iso to make it an iso, i read some forum post saying that you couldnt mount .mdf or .mds
+2006-09-30T11:13:00.000Z	cpk1		err how do you run an iso?
+2006-09-30T11:15:00.000Z	cpk1		mount -o loop -t iso9660 /path/to/foo.iso /mnt gives me "mount: not a directory"
+2006-09-30T11:15:00.000Z	Somniis	cpk1	you can also burn the iso to a cd and do it that way

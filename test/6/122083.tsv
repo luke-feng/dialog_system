@@ -1,0 +1,6 @@
+2006-03-25T14:52:00.000Z	xerxez		how can i change the color in Konsole where it says user@box:~$ ?
+2006-03-25T14:53:00.000Z	highvoltage	xerxez	change PS1
+2006-03-25T14:53:00.000Z	xerxez	highvoltage	huh? :p
+2006-03-25T14:53:00.000Z	highvoltage	xerxez	for example, type PS1=\[\033\] [\u@\h]  \[\033\] \w\[\033\] \[\033\]  \$
+2006-03-25T14:53:00.000Z	highvoltage		(that should be one line, btw)
+2006-03-25T14:53:00.000Z	xerxez	highvoltage	okey :)

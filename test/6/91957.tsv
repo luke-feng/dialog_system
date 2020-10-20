@@ -1,0 +1,6 @@
+2008-02-08T11:13:00.000Z	bullgard4		Where can I find a description of kacpid? (There exists a acpid man page but no kacpid man page.)
+2008-02-08T11:13:00.000Z	Aloha	bullgard4	is it a binary?
+2008-02-08T11:14:00.000Z	bullgard4	Aloha	If you answer my question I will answer your question.
+2008-02-08T11:14:00.000Z	Aloha	bullgard4	i was asking because debian policy requires binaries in packages to have a man page
+2008-02-08T11:15:00.000Z	Aloha		!botabuse | Creationist
+2008-02-08T11:18:00.000Z	bullgard4	Aloha	"Ubuntu Package Contents Search Result: You have searched for kacpid in gutsy, architecture i386. Can't find that file, at least not in that distribution and on that architecture." But kacpid is a process on my Ubuntu 7.10.

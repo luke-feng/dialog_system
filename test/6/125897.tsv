@@ -1,0 +1,6 @@
+2006-02-22T06:33:00.000Z	Guillaume		On boot ive got an error on Syncronizing clock ntp.ubuntulinux.org failed.. can you help me please?
+2006-02-22T06:34:00.000Z	Adri2000	Guillaume	what sudo ntpdate ntp.ubuntulinux.org returns ?
+2006-02-22T06:34:00.000Z	Guillaume		Thx Adri2000 wait a moment
+2006-02-22T06:35:00.000Z	Guillaume	Adri2000	16 Feb 14:35:02 ntpdate[8783] : no server suitable for synchronization found
+2006-02-22T06:35:00.000Z	Guillaume	Adri2000	i just disabled UTC because it was desync my windows xp clock
+2006-02-22T06:36:00.000Z	Adri2000	Guillaume	i have the same error, i changed the ntp server

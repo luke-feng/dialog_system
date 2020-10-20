@@ -1,0 +1,6 @@
+2006-12-30T17:56:00.000Z	ssmasood		hi all...i have an Intel proset 3945 a/b/g Wireless adapter which is not working....when i type iwconfig....the three interfaces say "no wireless extensions"....i can see a file named ipw3945 in /sbin...what to do???
+2006-12-30T06:06:00.000Z	ssmasood		hi all...i have an Intel proset 3945 a/b/g Wireless adapter which is not working....when i type iwconfig....the three interfaces say "no wireless extensions"....i can see a file named ipw3945 in /sbin...what to do???
+2006-12-30T06:06:00.000Z	ssmasood		is anybody there...??
+2006-12-30T06:08:00.000Z	derrik	ssmasood	have you seen this page: https://launchpad.net/distros/ubuntu/+ticket/2917  ?
+2006-12-30T06:09:00.000Z	derrik	ssmasood	give that a shot, i've haven't actually used the wireless network manager myself, but i looks as though the poster was having the same problem as you
+2006-12-30T06:13:00.000Z	derrik	ssmasood	g2g, hope that helps though

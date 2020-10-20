@@ -1,0 +1,6 @@
+2010-07-24T00:23:00.000Z	webPragmatist		can i make grep echo the file…
+2010-07-24T00:23:00.000Z	webPragmatist		I have something like find . -name "*.php" -exec grep "Mail_mimeDecode*" {} \;
+2010-07-24T00:23:00.000Z	webPragmatist		it echos the contents but i have no clue what files it is in
+2010-07-24T00:23:00.000Z	s3r3n1t7	webPragmatist	use -l
+2010-07-24T00:23:00.000Z	s3r3n1t7	webPragmatist	or the long version, --files-with-matches
+2010-07-24T00:24:00.000Z	s3r3n1t7	webPragmatist	no, you're using grep in the find command. Add that option to grep

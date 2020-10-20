@@ -1,0 +1,6 @@
+2009-08-08T14:48:00.000Z	AlexanderSupertr		is there a way to make firewall allow everything for a while?
+2009-08-08T14:48:00.000Z	AlexanderSupertr		i have set up bunch of rules and now having hard time to use scp etc
+2009-08-08T14:48:00.000Z	lianimator	AlexanderSupertr	install firestarter, then stop firewall?
+2009-08-08T14:49:00.000Z	AlexanderSupertr	lianimator	isn't firestarter a GUI client? i need to do this stuff on server through ssh :(
+2009-08-08T14:50:00.000Z	lianimator	AlexanderSupertr	oh, I have no experience with that, sorry.
+2009-08-08T14:50:00.000Z	AlexanderSupertr	lianimator	nevermind. thanks for try.

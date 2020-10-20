@@ -1,0 +1,6 @@
+2008-11-29T18:56:00.000Z	maverick340		any one know , when i right click a folder and mark it for sharing weather the entry gets added to smb.conf ?
+2008-11-29T18:57:00.000Z	oskar-	maverick340	make a copy of your smb.conf, then share a folder and then "diff ~/smb.conf-copy /etc/samba/smb.conf"
+2008-11-29T18:58:00.000Z	maverick340	oskar-	whats does diff ~/smb.conf do ?
+2008-11-29T18:59:00.000Z	oskar-	maverick340	diff shows differences between two files or two folders
+2008-11-29T18:59:00.000Z	maverick340		oskar , thanks
+2008-11-29T18:59:00.000Z	oskar-	maverick340	after that you know, if sharing a folder changes the smb.conf ;)

@@ -1,0 +1,6 @@
+2007-03-31T11:08:00.000Z	nrdb		I want to see what data my webserver is sending out, what is the name of the low level program that I can use to send my own 'GET' command to the webserver ?
+2007-03-31T11:08:00.000Z	petr478	nrdb	use "nc" to send and receive. wireshark to only watch
+2007-03-31T11:20:00.000Z	nrdb	petr478	I have just tried to get the webpage with nc, but I don't seem to be getting anywhere can you help ?
+2007-03-31T11:22:00.000Z	petr478	nrdb	what does it say?
+2007-03-31T11:23:00.000Z	petr478	nrdb	use -vv flags with nc
+2007-03-31T11:26:00.000Z	nrdb	petr478	thanks.

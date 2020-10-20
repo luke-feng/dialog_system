@@ -1,0 +1,6 @@
+2008-08-29T07:03:00.000Z	Finger		Anyone know of any drivers for my Logitech G5 mouse?
+2008-08-29T07:05:00.000Z	danbhfive	Finger	whats the problem with your mouse?  I have a G5 laser mouse
+2008-08-29T07:07:00.000Z	danbhfive	Finger	yeah, I don't know of a solution to the soft. DPI, and I never use the side scrolling, but in theory, those are just buttons
+2008-08-29T07:08:00.000Z	danbhfive	Finger	you should be able to map them to things, something, somewhere, not sure really
+2008-08-29T07:09:00.000Z	danbhfive	Finger	well, each mouse button is numbered, so when you left click, Linux is told that mouse button one was pressed.  The side scroll buttons are like 7 and 8 or something like that.   Most linux apps use one the first 3, which is the problem
+2008-08-29T07:10:00.000Z	danbhfive	Finger	Im gona look into something...

@@ -1,0 +1,6 @@
+2007-08-18T08:02:00.000Z	Macrosoft		hello. is there an official hardware compatibility list for ubuntu?
+2007-08-18T08:03:00.000Z	Macrosoft		if my card isnt on the list, does that mean it isnt supported, or does that mean it hasnt been tested on ubuntu yuet?
+2007-08-18T08:03:00.000Z	Macrosoft		*yet
+2007-08-18T08:03:00.000Z	Macrosoft		ati radeon x1550
+2007-08-18T08:05:00.000Z	MilitantPotato	Macrosoft	my x1950XT isn't listed, I had to use a restricted driver and it works fine.
+2007-08-18T08:07:00.000Z	MilitantPotato	Macrosoft	it *should* work but I'd vote nvidia for linux

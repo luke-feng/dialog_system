@@ -1,0 +1,6 @@
+2012-09-13T16:56:00.000Z	dr_willis		this is 2 seperate hard drives right. not 1 hd with partitions
+2012-09-13T16:56:00.000Z	Guest27915	dr_willis	yeah two hard drives. sda is the one with Ubuntu and this unknown partition, and sdb only has windows
+2012-09-13T16:58:00.000Z	Guest27915	dr_willis	because it uses grub2 as bootloader now that will give me more issues I think
+2012-09-13T17:00:00.000Z	Guest27915	dr_willis	theadmin: This is a screenshot from gparted too. http://i.imgur.com/orDnB.png
+2012-09-13T17:05:00.000Z	Guest27915	dr_willis	oh, maybe you are right.
+2012-09-13T17:25:00.000Z	Guest27915	dr_willis	I just tried boot repair and got this: 'GPT detected. Please create a BIOS-Boot partition (>1MB, unformatted filesystem, bios_grub flag). This can be performed via tools such as Gparted. Then try again. Alternatively, you can retry after activating the [Separate /boot/efi partition:] option.'

@@ -1,0 +1,6 @@
+2006-07-04T10:18:00.000Z	BHSPitLappy		can somebody help?
+2006-07-04T10:19:00.000Z	KenSentMe	BHSPitLappy	with what?
+2006-07-04T10:19:00.000Z	BHSPitLappy		"my friend's computer has an onboard graphics adapter (which I think doesn't work) and an Nvidia geforce4 card. when we boot the live dapper cd, X fails to start, because there are no suitable screens. any thoughts? is this a symptom of having two display adapters?"
+2006-07-04T10:19:00.000Z	BHSPitLappy		(EE) VESA(0): Cannot read V_BIOS
+2006-07-04T10:19:00.000Z	BHSPitLappy		(EE) Screen(s) found, but none have a usable configuration.
+2006-07-04T10:19:00.000Z	BHSPitLappy	KenSentMe	that's the sum-up at this point

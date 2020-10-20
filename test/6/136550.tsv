@@ -1,0 +1,6 @@
+2010-04-04T04:08:00.000Z	BlaDe^		Hi, I'm having issues with the frequency selector; it seems to lock itself on 800MHz regardless of if I select 1.9 or performance
+2010-04-04T04:08:00.000Z	BlaDe^		is this normal?
+2010-04-04T04:09:00.000Z	BlaDe^		yes sometimes it requests the password
+2010-04-04T04:10:00.000Z	BlaDe^		also one other thing, my external HDD isn't being detected. It was originally but since I rebooted it isn't
+2010-04-04T04:11:00.000Z	BlaDe^		is there anyway I can dump what peripherals are plugged in?
+2010-04-04T04:13:00.000Z	leagris	BlaDe^	lspci and lsusb

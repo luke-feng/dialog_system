@@ -1,0 +1,6 @@
+2006-03-20T09:58:00.000Z	allievo_		Can anyone tell me what the default WEP encryption is in Ubuntu? The network manager says "WEP key", so I do not know what kind of WEP it is
+2006-03-20T09:58:00.000Z	GnarusLeo	allievo_	it depends on if you have an encryption key to your wireless network
+2006-03-20T09:58:00.000Z	GnarusLeo	allievo_	and wich WEP you set there
+2006-03-20T09:59:00.000Z	GnarusLeo	allievo_	 HEX, ASCII or 128b
+2006-03-20T09:59:00.000Z	allievo_	GnarusLeo	Ah, I was told that it was a difference in what kind of key you supplied. Thank you very much for your response!
+2006-03-20T09:59:00.000Z	GnarusLeo	allievo_	np :)

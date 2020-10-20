@@ -1,0 +1,6 @@
+2007-11-28T20:58:00.000Z	ScislaC		does anyone here know how the "driver" is detected by Xgl?
+2007-11-28T20:58:00.000Z	ikonia	ScislaC	via xorg direction site
+2007-11-28T20:58:00.000Z	ikonia	ScislaC	via xorg direction program
+2007-11-28T21:00:00.000Z	ScislaC	ikonia	is there a way for me to configure it somehow? Xgl won't start because it thinks my driver is '' (literally empty quotes in the log)
+2007-11-28T21:01:00.000Z	ikonia	ScislaC	sudo dpkg-reconfigure xserver-xorg
+2010-03-09T00:18:00.000Z	ikonia	ScislaC	probably missing an env environment thats in your shell, but not in the launcher

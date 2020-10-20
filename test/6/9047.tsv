@@ -1,0 +1,6 @@
+2012-09-18T00:10:00.000Z	TJ-	ejo	There are usually three stages to installing a custom source package: 1. install dependencies. 2. build 3. install. The final step usually involves "sudo make install" or, if the source package creates .deb packages, "sudo dpkg -i <list of deb packages>"
+2012-09-18T00:11:00.000Z	ejo	TJ-	yes, I've successfully made it all the way through "sudo make install".
+2012-09-18T00:11:00.000Z	ejo	TJ-	(with no errors) -- the problem is after that I don't seem to have the new 1.16.0 executable, still only 1.14.0 :(
+2012-09-18T00:11:00.000Z	ejo		actually 1.14.5
+2012-09-18T00:16:00.000Z	TJ-	ejo	if it's a web app, doesn't that mean you need to restart the server/install it ... else if its a GUI, use "which <executable>" to check which path is being called, and compare against where "make install" put it
+2012-09-18T00:18:00.000Z	ejo	TJ-	The strange part is there's only one pgadmin3 found by "which" (or by "locate"), at /usr/bin/pgadmin3.  But when I run it it's the old 1.14.5 and not the new 1.16.0.  This despite the fact that 'make install' completed successfully as far as I could see.  I am wiping the temp directory I installed from and trying over again.

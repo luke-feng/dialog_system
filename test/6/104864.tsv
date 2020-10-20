@@ -1,0 +1,6 @@
+2008-07-06T10:29:00.000Z	Josdell		Hi everyone, I read on the Ubuntu website that you can install Hardy on a USB Flash drive or external hard drive, so what I want to know does installing GRUB on the partition Linux is installed on(sdb1) stop Grub from being installed as the bootloader for the entire computer? and if not, can I stop it from installing on the entire computer in any way?
+2008-07-06T10:30:00.000Z	Josdell		Fryguy: I'm not trying to install Ubuntu onmy computer, I'm installing it to a Flash Drive
+2008-07-06T10:31:00.000Z	Fryguy--	Josdell	so see the second link ....
+2008-07-06T10:34:00.000Z	Fryguy--	Josdell	yes
+2008-07-06T10:34:00.000Z	Fryguy--	Josdell	no
+2008-07-07T09:49:00.000Z	Fryguy--	Josdell	wrong

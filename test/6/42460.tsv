@@ -1,0 +1,6 @@
+2009-03-05T17:05:00.000Z	travian_geek		how to grep a singel letter from a string? using echo and grep???
+2009-03-05T17:05:00.000Z	jrib	travian_geek	echo STRING | grep SINGLE_LETTER   ?
+2009-03-05T17:06:00.000Z	travian_geek	jrib	yeah I tride that but i only whant to grep that singel letter and yor example dont
+2009-03-05T17:07:00.000Z	jrib	travian_geek	then you don't mean you want to "grep", you mean something else.  Try with -o and see if that's what you want.  If it's not, then explain what you want
+2009-03-05T17:08:00.000Z	travian_geek	jrib	Okey the -o worked I think I should have read the man page better :P
+2009-03-05T17:08:00.000Z	jrib	travian_geek	it doesn't make sense to me why you want to use that though

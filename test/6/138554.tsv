@@ -1,0 +1,6 @@
+2005-11-15T11:39:00.000Z	Answer		OK I know this is an obvious question... how do I install a .deb package?
+2005-11-15T11:39:00.000Z	trappist	Answer	sudo dpkg -i filename.deb
+2005-11-19T13:09:00.000Z	trappist	Answer	install and configure tripwire
+2005-11-19T13:09:00.000Z	Answer	trappist	can't I just turn up system logging somehow?
+2005-11-19T13:10:00.000Z	trappist	Answer	changes to files aren't generally tracked, and therefore not logged.  you could run a system-wide fam daemon to log them on the fly, but that would drag you down badly.  or you could install something that checks files for changes on a regular basis like tripwire or changetrack.
+2005-11-19T13:12:00.000Z	Answer	trappist	which is better, tripwire or changetrack :)

@@ -1,0 +1,6 @@
+2007-03-13T13:55:00.000Z	ircleuser		hello i am downlaoding ubuntu for the first time, trying it out from the disc. now i have a quik question for anyone who can answer? its regarding use on a mac
+2007-03-13T13:56:00.000Z	ircleuser		ok, sorry i am new to linux so i bet this sounds stupid, but can i keep my machine natively running osx, and install this as a second option to boot from?
+2007-03-13T13:56:00.000Z	javaJake	ircleuser	ooo, this is hard with the existing installer
+2007-03-13T13:57:00.000Z	javaJake	ircleuser	first you have to move your current OS into one part of the hard drive.
+2007-03-13T13:58:00.000Z	javaJake	ircleuser	what I'd do is lookup a guide on running Windows next to Ubuntu. The steps (I assume) are essentially the same.
+2007-03-13T14:00:00.000Z	javaJake	ircleuser	oh I know, but the setup on the hard drive ought to be the same. The only forseeable catches are the resizing of partitions (is this possible with OSX partition?) and the booting of OSX (how do we tell GRUB to do this the right way?).

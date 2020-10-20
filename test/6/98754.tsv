@@ -1,0 +1,6 @@
+2007-01-08T06:17:00.000Z	un_operateur	Wimpog	IIRC there is a bridging howto on tldp
+2007-01-08T06:18:00.000Z	un_operateur	Wimpog	do you use google at all?  :) .. anyway , here's something -- http://linux-net.osdl.org/index.php/Bridge
+2007-01-08T06:21:00.000Z	un_operateur	Wimpog	here's something you'd definitely like to bookmark too - http://tldp.org/HOWTO/HOWTO-INDEX/
+2007-01-08T06:21:00.000Z	un_operateur	Wimpog	there's two good howtos there on bridging too
+2007-01-08T06:26:00.000Z	un_operateur	Wimpog	have you tried mounting it?
+2007-01-08T06:26:00.000Z	un_operateur	Wimpog	errm, sudo fdisk -l   ought to list it if the BIOS detected it

@@ -1,0 +1,6 @@
+2009-04-23T22:13:00.000Z	hamid11771		I am crazy about NETBOOK remix :D i wanna install it but i Cant download win32-image-writer, the page is not available. any alternative ?
+2009-04-23T22:14:00.000Z	hamid11771		I am crazy about NETBOOK remix :D i wanna install it but i Cant download win32-image-writer, the page is not available. any alternative ?
+2009-04-23T22:15:00.000Z	torpor	hamid11771	use a linux box to put the UNR image on a USB stick .. dd if=/path/to/the/image/file.img of=/path/to/partition1/of/usbstick bs=1024
+2009-04-23T22:15:00.000Z	torpor	hamid11771	then boot from USB and away you go
+2009-04-23T22:16:00.000Z	hamid11771	torpor	i am on a linux box now, please give me the complete command :)
+2009-04-23T22:16:00.000Z	torpor	hamid11771	i just did

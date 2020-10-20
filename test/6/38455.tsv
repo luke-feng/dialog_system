@@ -1,0 +1,6 @@
+2009-09-16T18:53:00.000Z	gondor		hi
+2009-09-16T18:54:00.000Z	gondor		need some help with my webcam any one ?
+2009-09-16T18:54:00.000Z	indus	gondor	sure ask question
+2009-09-16T18:56:00.000Z	indus	gondor	u said it was working good before?
+2009-09-16T18:57:00.000Z	indus	gondor	could you  try another application ? like ekiga ?
+2009-09-16T18:58:00.000Z	indus	gondor	else, in a terminal type gstreamer-properties and in video input select v4l

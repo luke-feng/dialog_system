@@ -1,0 +1,6 @@
+2008-01-05T01:51:00.000Z	jakel1		does anyone here know how i can change the order in which Grub lists the Operating Systems
+2008-01-05T01:51:00.000Z	jakel1		I would like to have windows XP listed first
+2008-01-05T01:52:00.000Z	jakel1		oh....
+2008-01-05T01:52:00.000Z	jakel1		thanx nickrud
+2008-01-05T01:53:00.000Z	tripps	jakel1	you can also change the default OS to boot by setting the "default" attribute
+2008-01-05T01:54:00.000Z	tripps	jakel1	setting default to the approprate entry may be easier than moving blocks of menu.1st around if that's what you're after

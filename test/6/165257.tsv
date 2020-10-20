@@ -1,0 +1,6 @@
+2005-12-11T11:39:00.000Z	owner989		any idea how i can prevent ubuntu from trying to mount a card reader built into a USB printer
+2005-12-11T11:40:00.000Z	Dr_Willis	owner989	 that works? cool.
+2005-12-11T11:40:00.000Z	Dr_Willis	owner989	 gnome has some settings as to what to auto-mount  for the user.
+2005-12-11T11:40:00.000Z	Dr_Willis	owner989	 but im not sure if you can set it for a SINGLE thing..its a all or nothing  I think
+2005-12-11T11:42:00.000Z	Dr_Willis	owner989	 oh -  you could just edit the fstab and try to mount it manually and see what the deal is.
+2005-12-11T11:42:00.000Z	Dr_Willis	owner989	 it may be mad theres no card in the slot.

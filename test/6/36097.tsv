@@ -1,0 +1,6 @@
+2009-06-30T06:28:00.000Z	jim____		Not sure where else to ask this.. Is is possible for Digest HTTP Auth to transcend across subdomains?
+2009-06-30T06:28:00.000Z	pjz	jim____	no
+2009-06-30T06:28:00.000Z	pjz	jim____	er. I don't think so. but yeah, wrong place to ask. try stackoverflow or someplace like that.
+2009-06-30T06:29:00.000Z	jim____	pjz	ah stack's not a bad idea.  thanks
+2009-06-30T06:33:00.000Z	jim____	pjz	it appears thus: basic http auth cannot do this, but apache's mod_auth_digest can actually specify more with AuthDigestDomain directive.  However, there's an IE6 bug such that it won't work.  However again, as of Apache 2.0.51 there's a workaround to avoid the bug.
+2009-06-30T06:34:00.000Z	pjz	jim____	wow. I figured it wouldn't work at all. very cool.

@@ -1,0 +1,6 @@
+2012-10-29T06:53:00.000Z	whiteside		hi ppl.....i have a very good question for u guys...........trying to install my libflashplayer.so file for a update of my firefox flash, so i do that in terminal to locate the old file: locate libflashplayer.so
+2012-10-29T06:53:00.000Z	whiteside		/usr/lib/flashplugin-installer/libflashplayer.so
+2012-10-29T06:53:00.000Z	whiteside		/var/lib/flashplugin-installer/npwrapper.libflashplayer.so
+2012-10-29T06:53:00.000Z	whiteside		root@bt:~# cd /usr/lib/flashplugin-installer/
+2012-10-29T06:53:00.000Z	whiteside		root@bt:/usr/lib/flashplugin-installer# ls
+2012-10-29T06:53:00.000Z	FloodBot1	whiteside	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

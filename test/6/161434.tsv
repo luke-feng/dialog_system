@@ -1,0 +1,6 @@
+2004-11-06T09:47:00.000Z	DJ_Stefan0		I typed apt-get install fglrx-driver and it came up with "E: Could not find package" can u please help me on how to install ATI Drivers? should i edit the sources?
+2004-11-06T09:47:00.000Z	magnon	DJ_Stefan0	you might have to enable the "restricted" repository
+2004-11-06T09:48:00.000Z	DJ_Stefan0	magnon	how do u do that, oh and btw i have the latest Ubuntu 64bit.. thats what im talking about
+2004-11-06T09:51:00.000Z	DJ_Stefan0	magnon	would the 32bit proprietary driver work under amd64bit Ubuntu?
+2004-11-06T09:52:00.000Z	DJ_Stefan0	magnon	how do i enable the restricted repository?
+2004-11-06T09:53:00.000Z	magnon	DJ_Stefan0	you can for instance do sudo gedit /etc/apt/sources.list

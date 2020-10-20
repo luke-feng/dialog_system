@@ -1,0 +1,6 @@
+2006-05-14T05:24:00.000Z	Tanooki		When I try to run the Adept package manager, I am prompted for the root password, but it always says the password is incorrect.
+2006-05-14T05:24:00.000Z	Tanooki		Can anyone help?
+2006-05-14T05:26:00.000Z	Tanooki		Paradize:  It won't accept my user password either.
+2006-05-14T05:27:00.000Z	Tanooki		How do I check what groups I'm a member of?
+2006-05-14T05:28:00.000Z	Xenguy	Tanooki	id
+2006-05-14T05:29:00.000Z	Xenguy	Tanooki	/etc/group

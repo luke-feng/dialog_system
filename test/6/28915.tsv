@@ -1,0 +1,6 @@
+2009-10-31T21:19:00.000Z	erana		natschiL : try running startx
+2009-10-31T21:20:00.000Z	natschil	erana	how? I can't boot, what I'm getting is the grub shell..
+2009-10-31T21:21:00.000Z	erana	natschil	Oh sorry, I thought you were in the login shell
+2009-10-31T21:21:00.000Z	erana	natschil	try readign the grub docs for fixing the boot problem
+2009-10-31T21:22:00.000Z	erana	natschil	I f I'm not nistaking you have to grub-install from the CD
+2009-10-31T21:23:00.000Z	natschil	erana	that's what I've done, but I only get an  empty grub shell w/ no kernels.

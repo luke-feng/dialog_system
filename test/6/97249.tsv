@@ -1,0 +1,6 @@
+2007-06-08T16:50:00.000Z	lukillas		hi all
+2007-06-08T16:50:00.000Z	lukillas		how can i change gnome's menu bar icon?
+2007-06-08T16:50:00.000Z	pike_	lukillas	its in /usr/share/pixmaps or something you can just replace the file with another and pkill gnome-panel but i forget the path
+2007-06-08T16:51:00.000Z	lukillas	pike_	thanks, i'll try
+2007-06-08T16:51:00.000Z	pike_	lukillas	im sure there is an acutall setting.. but i dont know it
+2007-06-08T16:52:00.000Z	lukillas	pike_	think i found the image... let me change it, then i'll tell you

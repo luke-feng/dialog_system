@@ -1,0 +1,6 @@
+2006-08-17T09:02:00.000Z	harisund		Hello! Is there any software that will allow me to read (and perhaps write) into my ext3 partition when I am running Windows XP?
+2006-08-17T09:03:00.000Z	DShepherd	harisund	yes there is..
+2006-08-17T09:03:00.000Z	DShepherd	harisund	let me see if I can find the name of it..
+2006-08-17T09:04:00.000Z	harisund	DShepherd	ah you have just given me some relief. Thanks a lot. I know I can search on Google, but if somebody here gives me the info, I would be most thrilled.
+2006-08-17T09:05:00.000Z	DShepherd	harisund	http://uranus.it.swin.edu.au/~jn/linux/explore2fs.htm <- try that
+2006-08-17T09:05:00.000Z	DShepherd	harisund	i dont know about writing though.. but i know it reads

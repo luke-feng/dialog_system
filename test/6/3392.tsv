@@ -1,0 +1,6 @@
+2012-05-03T23:00:00.000Z	madsj		whenever I run "sudo aptitude safe-upgrade", parts of the output looks http://pastebin.com/MVgjHedt I'd highly appreciate tips on how to solve this
+2012-05-03T23:00:00.000Z	madsj		"sudo apt-get install -f" does not help
+2012-05-03T23:01:00.000Z	madsj		neither does "sudo dpkg-reconfigure -a"
+2012-05-03T23:02:00.000Z	Fyodorovna	madsj	you getting a partial upgrade offer in the manager?
+2012-05-03T23:07:00.000Z	madsj	Fyodorovna	yes, but that doesn't help either
+2012-05-03T23:07:00.000Z	Fyodorovna	madsj	I was not speaking to you and welcome to my ignore. :)

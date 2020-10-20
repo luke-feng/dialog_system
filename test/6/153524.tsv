@@ -1,0 +1,6 @@
+2009-06-03T14:03:00.000Z	nsh		it lowers the degree of lame to some extent
+2009-06-03T14:04:00.000Z	nsh		anyone have any ideas about installing packages with make options via apt/synaptic?
+2009-06-03T14:05:00.000Z	nsh		oh, i should make a feature request for synaptic to pass options then
+2009-06-03T14:05:00.000Z	nsh		no, but it's a sensible place to take the information and pass it to the compiler, surely Flannel
+2009-06-03T14:06:00.000Z	nsh		oh, right
+2009-06-03T14:06:00.000Z	Myrtti	nsh	source is compiled on the servers, they aren't compiled on demand

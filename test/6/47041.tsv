@@ -1,0 +1,6 @@
+2009-01-13T08:51:00.000Z	exodus_ms		!xorg > LinuxNub
+2009-01-13T08:52:00.000Z	LinuxNub	exodus_ms	That hasn't helped in the slightest.. Im a bit very rusty on the whole linux side of things (It's been a good 14 months since i used it, and i was only ever very basic anyway).. I just need the command to edit the xorg config from terminal
+2009-01-13T08:54:00.000Z	LinuxNub		_cid_ i dont have any form of graphical interface, so i need the most basic, gaurentee'd to have editor.. and the command to go with it >.<
+2009-01-13T08:54:00.000Z	exodus_ms	LinuxNub	vi is terminal
+2009-01-13T08:55:00.000Z	LinuxNub		_cid_ yes... But i need also the dir of the xorg config folder? Since im far too much of a noob to actually find the location of it using command lines >.<
+2009-01-13T08:56:00.000Z	exodus_ms	LinuxNub	read dude, he gave the app to open the config file and the path as well

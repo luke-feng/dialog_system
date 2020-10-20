@@ -1,0 +1,6 @@
+2012-07-24T04:26:00.000Z	escott	omgimdrunk	if its virtualbox then those cpus would be fixed. i think that makes sense
+2012-07-24T04:27:00.000Z	escott	omgimdrunk	that is to say if you have 4 cpu's and assign 2/4 to vbox then it would have to pick the cpus. there is no way it can meaningfully divide the time so as to migrate the vm between cpus. (at least that would be my suspicion)
+2012-07-24T04:34:00.000Z	escott	omgimdrunk	ok
+2012-07-24T04:36:00.000Z	escott	omgimdrunk	im just not sure what your question is exactly
+2012-07-24T04:37:00.000Z	escott	omgimdrunk	the wine+firefox+deluge bit makes sense.
+2012-07-24T04:40:00.000Z	escott	omgimdrunk	how many cpus are listed in /proc/cpuinfo

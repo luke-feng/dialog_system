@@ -1,0 +1,6 @@
+2007-11-03T11:38:00.000Z	boontoo		ah ok
+2007-11-03T11:39:00.000Z	boontoo		okay
+2007-11-03T11:40:00.000Z	boontoo		hmm
+2007-11-03T11:40:00.000Z	boontoo		i dont know how to write scripts
+2007-11-03T11:41:00.000Z	boontoo		ok
+2007-11-03T11:42:00.000Z	XiXaQ	boontoo	a script may be as simple as a text-file that has #!/bin/sh as the first line, and then lines like you'd do in a terminal. Chmod +x the_file and it's a runnable script :)

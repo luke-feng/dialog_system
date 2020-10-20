@@ -1,0 +1,6 @@
+2005-05-19T08:59:00.000Z	ChrisC_		does the default hoary install have an ftpd running?
+2005-05-19T08:59:00.000Z	Lathiat	ChrisC_	no
+2005-05-19T08:59:00.000Z	Lathiat	ChrisC_	No external services are running by default
+2005-05-19T09:00:00.000Z	Lathiat	ChrisC_	proftpd works
+2005-05-19T09:02:00.000Z	Lathiat	ChrisC_	yarr, just use proftpd,i  know it works :)
+2005-05-19T09:02:00.000Z	ChrisC_	Lathiat	ok, thanks :)

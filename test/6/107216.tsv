@@ -1,0 +1,6 @@
+2007-09-10T11:38:00.000Z	rami		hello anybody got an idea for my problem?
+2007-09-10T11:39:00.000Z	frojnd	rami	/var/log*
+2007-09-10T11:39:00.000Z	frojnd	rami	I think
+2007-09-10T11:39:00.000Z	frojnd	rami	when it freezes and restarting X doesn't work: hold alt + print screen button and write reisub
+2007-09-10T11:40:00.000Z	frojnd	rami	http://fosswire.com/2007/09/08/fix-a-frozen-system-with-the-magic-sysrq-keys/
+2007-09-10T11:40:00.000Z	frojnd	rami	very useful trick

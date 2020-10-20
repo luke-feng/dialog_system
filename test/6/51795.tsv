@@ -1,0 +1,6 @@
+2008-08-31T14:00:00.000Z	yme		Hi, I've got a question about Samba shares with Windows. If I mount a Windows share folder on my system, say under /home/me/windows, if I backup /home/me, will all files in the Windows share be backed up as well?
+2008-08-31T14:01:00.000Z	Twinity	yme	try it? :)
+2008-08-31T14:01:00.000Z	yme	Twinity	it's just few gigs of data. I'd prefer not to :-)
+2008-08-31T14:02:00.000Z	Twinity	yme	then mount a smaller dir ^^ but it should backup anything
+2008-08-31T14:03:00.000Z	Twinity	yme	better then your home-directory ;)
+2008-08-31T14:03:00.000Z	yme	Twinity	wols, thanks.

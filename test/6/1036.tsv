@@ -1,0 +1,6 @@
+2012-11-01T11:36:00.000Z	rommel092079		i am usig centos right now and i have issues with their packages. some are installed with yum and some with using rpm.  is ubuntu done somewhat this way too or just with apt-get?
+2012-11-01T11:37:00.000Z	wols	rommel092079	yum is a rpm front end and doesn't install anything. apt-get gets the packages and does conflict resolution while all packages are installed via dpkg
+2012-11-01T11:39:00.000Z	wols	rommel092079	depends what you do,but yes there is. but you can then uninstall this package via apt-get again if you want to
+2012-11-01T11:42:00.000Z	wols	rommel092079	all
+2012-11-01T11:43:00.000Z	rommel092079	wols	can you give me example on how to use dkpg to start with
+2012-11-01T11:44:00.000Z	wols	rommel092079	to do what?

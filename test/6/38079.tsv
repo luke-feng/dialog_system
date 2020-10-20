@@ -1,0 +1,6 @@
+2009-04-29T22:45:00.000Z	hisa		check the drivers
+2009-04-29T22:46:00.000Z	hisa		system->administration->hardware drivers
+2009-04-29T22:47:00.000Z	hisa		how do I know if I have CONFIG_NET_SCH_CBQ enabled in my kernel??... I get no results if I lsmod | grep -i cbq
+2009-04-29T22:48:00.000Z	hisa		thanks dulak!!
+2009-04-29T22:49:00.000Z	hisa		it depends on your hardware ... I have a nvidia graphics card and I had to enable propietary driver to get it working correctly at full resolution, and be able to use compiz
+2009-04-29T22:50:00.000Z	grifter188	hisa	on the install of your 9.04 did it say your card was not supported, then you installed the driver after it was installed???  by any chance?

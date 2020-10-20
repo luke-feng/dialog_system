@@ -1,0 +1,6 @@
+2010-12-26T20:53:00.000Z	multi_io		with broadcom wireless chips, why does Ubuntu by default offer the possibility to install the binary-only drivers via "additional drivers", even though the open-source ones are also available and packaged in the repositories?
+2010-12-26T20:55:00.000Z	Emry	multi_io	wifi is one of those places we still have a long way to go on.  Every time we get caught up, some random company goes and changes the API's on us. :P
+2010-12-26T20:56:00.000Z	multi_io	Emry	^^^
+2010-12-26T20:57:00.000Z	Emry	multi_io	 It also doesn't mean that the OSS version is properly QA'ed. :)  Trust me, companies often like to give us steaming piles of crap when they "go open"
+2010-12-26T21:20:00.000Z	multi_io	Emry	are you involved or do you have insight into the Wifi development?
+2010-12-26T21:21:00.000Z	Emry	multi_io	Unfortunately not. ^^

@@ -1,0 +1,6 @@
+2009-01-04T03:51:00.000Z	wj32		why is the x server the *client* and the x client the *server*?
+2009-01-04T03:53:00.000Z	guntbert	wj32	because the app is running on one machine (the X-client) and using the "console" on the other machine (aka X-Server) for UI
+2009-01-04T03:53:00.000Z	wj32	guntbert	ah i see
+2009-01-04T03:55:00.000Z	guntbert	wj32	he doesn't need an X-Server on the remote machine, just X-Apps
+2009-01-04T03:55:00.000Z	wj32	guntbert	no usr13 suggested vnc which wouldn't work without x server on the ubuntu server machine
+2009-01-04T03:56:00.000Z	guntbert	wj32	sorry, did read only half :_)

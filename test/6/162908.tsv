@@ -1,0 +1,6 @@
+2006-07-23T09:53:00.000Z	ryan_naruto		i hate my comp its too slow...
+2006-07-23T09:54:00.000Z	ryan_naruto		is p3 500 256mb ram enough to make ubuntu run nicely
+2006-07-23T09:54:00.000Z	bobbyd	ryan_naruto	it'll run :)
+2006-07-23T09:58:00.000Z	bobbyd	ryan_naruto	maybe you need more ram, check what's running and uninstall some stuff...
+2006-07-23T09:59:00.000Z	bobbyd	ryan_naruto	it should run just as fast, maybe your graphics hardware isn't installed properly
+2006-07-23T09:59:00.000Z	bobbyd	ryan_naruto	check it's not using the vesa driver

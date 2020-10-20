@@ -1,0 +1,6 @@
+2008-06-03T22:13:00.000Z	schnitzl		hi, i'm using the 64-bit version of ubuntu 8.04. after installing the 2.6.24-17 kernel it does not show up in grub's boot menu. even running /sbin/update-grub does not help. it finds the kernel image but fails to update menu.lst: http://rafb.net/p/BbrLvK46.html
+2008-06-03T22:13:00.000Z	schnitzl		does anyone know how to solve this?
+2008-06-03T22:14:00.000Z	Flannel	schnitzl	can you pastebin `ls /boot` ?
+2008-06-03T22:15:00.000Z	schnitzl	Flannel	sure, one sec
+2008-06-03T22:15:00.000Z	schnitzl	Flannel	http://rafb.net/p/PhMmDt60.html
+2008-06-03T22:25:00.000Z	schnitzl	Flannel	Slart: could be this bug: https://bugs.launchpad.net/ubuntu/+source/grub/+bug/202009

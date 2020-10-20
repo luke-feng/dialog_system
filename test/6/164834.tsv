@@ -1,0 +1,6 @@
+2010-01-24T08:46:00.000Z	rerorerorero		Hello. Is there a way to prevent Samba from scanning the LAN?
+2010-01-24T08:47:00.000Z	rerorerorero		I don't trust some people on my LAN and I would like to shut off the LAN users or stop trying to ping them or whatever.
+2010-01-24T08:47:00.000Z	rerorerorero		Is it possible?
+2010-01-24T08:48:00.000Z	Dr_Willis	rerorerorero	 proberly  if you give more details about what you are trying to do exactly and your setup
+2010-01-24T08:51:00.000Z	Dr_Willis	rerorerorero	 by default theres no services on ubuntu - so i doubt if they are going to get to your machine and do anything.
+2010-01-24T08:52:00.000Z	Dr_Willis	rerorerorero	 if you wanted to be truely paranoid install the variouys firewall tools/setup a firewall and logwatch to watch for access attempts

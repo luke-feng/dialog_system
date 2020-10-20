@@ -1,0 +1,6 @@
+2008-05-01T07:01:00.000Z	amenado		Behfar-> alternatecd is only text based
+2008-05-01T07:02:00.000Z	amenado		matt___-> you'd run your own dns server if you are the delegated owner of your domain..you can also run a caching only dns server
+2008-05-01T07:03:00.000Z	matt___	amenado	"delegated"? That sounds like something I'm thinking of doing...basically getting a cheap domain, and then updating my dynamic ip address of the server. would that be able to work?
+2008-05-01T07:05:00.000Z	matt___	amenado	so what i'm wanting to do...is simply buy a cheap domain and then update the ip, that way i could use ssh by typing in the domain, would that work? but i do remember someone telling me of a way to do that for free, do you know of what i'm talking about?
+2008-05-01T07:06:00.000Z	matt___	amenado	that was exactly what someone showed me a long time ago, thanks
+2008-05-02T07:43:00.000Z	matt___	amenado	umm...lol...

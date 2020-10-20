@@ -1,0 +1,6 @@
+2007-03-29T16:29:00.000Z	ratzefax		is there a way to make my computer boot without x while booting?
+2007-03-29T16:29:00.000Z	ikonia_	ratzefax	change the init level to a run level without X
+2007-03-29T16:29:00.000Z	ratzefax	ikonia	it hangs when x starts. first i need to boot it without x...
+2007-03-29T16:30:00.000Z	ikonia_	ratzefax	use safe/recovery mode from the boot menu
+2007-03-29T16:30:00.000Z	ratzefax	ikonia	i have no boot menu
+2007-03-29T16:30:00.000Z	ikonia_	ratzefax	you don't boot into grub ?

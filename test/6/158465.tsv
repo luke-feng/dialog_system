@@ -1,0 +1,6 @@
+2005-07-06T05:51:00.000Z	arentie		I've installed openvpn via Synaptic.  How do I run it?
+2005-07-06T05:51:00.000Z	tahorg	arentie	you have to configure it first
+2005-07-06T05:52:00.000Z	tahorg	arentie	there is no "point-and-click" configuration
+2005-07-06T05:54:00.000Z	tahorg	arentie	it's no magic command
+2005-07-06T05:54:00.000Z	tahorg	arentie	what you want to do ?
+2005-07-06T05:54:00.000Z	tahorg	arentie	you have to write a configuration file for what you want to do

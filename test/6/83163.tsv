@@ -1,0 +1,6 @@
+2008-06-12T02:12:00.000Z	puff	Le2	What kind of router?
+2008-06-12T02:12:00.000Z	Le2	puff	one of those nasty Sky Broadband ones
+2008-06-12T02:12:00.000Z	puff	Le2	Static just means that you explicitly assign the IP address, both in the router and on the machine.
+2008-06-12T02:12:00.000Z	puff	Le2	Did you check on the router's web admin interface?
+2008-06-12T02:13:00.000Z	puff	Le2	Step one, bring up your router's admin interface in a web browser.
+2008-06-12T02:16:00.000Z	puff	Le2	Bring up a new browser window, point it at 192.168.0.1

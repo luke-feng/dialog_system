@@ -1,0 +1,6 @@
+2006-12-04T06:23:00.000Z	lukas_		Hello, I'm trying to install mythtv on this box.  When it asks for my mysql root info, I leave the default.  I am then told that authentication failed...
+2006-12-04T06:24:00.000Z	Comrade_S	lukas_	 do you have mysql installed?
+2006-12-04T06:24:00.000Z	lukas_	Comrade_S	yes
+2006-12-04T06:25:00.000Z	Comrade_S	lukas_	 use the root password you set for mysql
+2006-12-04T06:26:00.000Z	lukas_	Comrade_S	do you know how I can reset the mysql passwd?
+2006-12-04T06:28:00.000Z	Comrade_S	lukas_	 I think the default mysql user and password is root and root

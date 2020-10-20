@@ -1,0 +1,6 @@
+2010-05-13T09:58:00.000Z	leagris		ok found the culprit shortcoming with crack-attack no sound in lucid with an strace. This  build now absolutely require pulseaudio, what a piece of...
+2010-05-13T09:58:00.000Z	leagris		how's tat ubuntu managed to mess so badly with pulseaudio
+2010-05-13T09:59:00.000Z	leagris		okidokia, what support it is for https://bugs.launchpad.net/bugs/445849 ?
+2010-05-13T10:01:00.000Z	leagris		you know the bug that mess things so badly with 5.1 sound when forced to use pulseaudio, when bug is ignored for months and an LTS goes out with this significant bug ?
+2010-05-13T10:01:00.000Z	xangua	leagris	please stop, you are only gonna get banned
+2010-05-13T10:02:00.000Z	xangua	leagris	havent had the oportunity for try it myself, so i don't know

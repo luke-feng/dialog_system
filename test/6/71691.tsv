@@ -1,0 +1,6 @@
+2011-07-16T01:43:00.000Z	Aaron_1		Ok got a little problem here with mdadm, how do i remove a raidarray that can generate a message like this: "/dev/sdd: device 1 in 3 device undetected raid0 /dev/md0.  Use mdadm --examine for more detail." somehow the array is undetected, so how do I remove it? cat /proc/mdtstar gives me this :Personalities : [linear] [multipath] [raid0] [raid1] [raid6] [raid5] [raid4] [raid10]
+2011-07-16T01:43:00.000Z	Aaron_1		md_d0 : inactive sdd[1](S) sdc[0](S)
+2011-07-16T01:43:00.000Z	Aaron_1		      3907028992 blocks
+2011-07-16T01:43:00.000Z	Aaron_1		       
+2011-07-16T01:43:00.000Z	Aaron_1		unused devices: <none>
+2011-07-16T01:43:00.000Z	FloodBot1	Aaron_1	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

@@ -1,0 +1,6 @@
+2005-12-15T13:48:00.000Z	jakedahn		where is the sudo file stored, i forgot??
+2005-12-15T13:48:00.000Z	Amaranth	jakedahn	whereis sudo
+2005-12-15T13:53:00.000Z	Amaranth	jakedahn	please don't
+2005-12-15T13:53:00.000Z	Amaranth	jakedahn	if you want a user to have sudo access add them to the admin group
+2005-12-15T13:54:00.000Z	jakedahn	Amaranth	how?
+2005-12-15T13:54:00.000Z	Amaranth	jakedahn	sudo adduser <user> admin

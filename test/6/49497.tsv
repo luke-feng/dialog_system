@@ -1,0 +1,6 @@
+2010-05-05T22:41:00.000Z	Chetic		why would a 720p movie lag using mplayer?
+2010-05-05T22:42:00.000Z	costre	Chetic	Make sure you use vdpau as video output
+2010-05-05T22:44:00.000Z	Chetic	costre	tried -vo vdpau and got this: [vdpau] Could not open dynamic library libvdpau.so.1
+2010-05-05T22:47:00.000Z	costre	Chetic	I use smplayer with vdpau, check this out perhaps? http://ubuntuforums.org/showthread.php?t=1467952&highlight=vdpau
+2010-05-05T22:49:00.000Z	Chetic	costre	oh right, didn't have it installed heheh :p
+2010-05-05T22:52:00.000Z	Chetic	costre	that sure did it! thanks man :)

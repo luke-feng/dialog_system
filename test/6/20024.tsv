@@ -1,0 +1,6 @@
+2010-06-06T18:00:00.000Z	AlmostObsolete		hi all, just partitioning a new laptop for an ubuntu install. I'm going to dual boot with win7, I want to have a large shared partition with my home directory in it. Is this a good idea? Also, what's a good filesytem to share with windows7? Are the ubuntu ntfs drivers any good these days, how about ext4 drivers for windows?
+2010-06-06T18:02:00.000Z	ActionParsnip	AlmostObsolete	i've heard it causes issues but am unsure of the details
+2010-06-06T18:02:00.000Z	AlmostObsolete	ActionParsnip	thanks, probably better to be safe than sorry :]
+2010-06-06T18:04:00.000Z	ActionParsnip	AlmostObsolete	3Gb will be fine, for more than 2Gb 1x RAM swap is fine. for less than 2Gb use 2 x RAM
+2010-06-06T18:05:00.000Z	ActionParsnip	AlmostObsolete	this will give you space to hbernate / suspend. If this is of no interest to you then have no swap
+2010-06-06T18:06:00.000Z	AlmostObsolete	ActionParsnip	thanks

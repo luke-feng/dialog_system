@@ -1,0 +1,6 @@
+2006-05-23T07:31:00.000Z	Zoroaster		man, sometimes this whole linux thing is frustrating
+2006-05-23T07:31:00.000Z	Zoroaster		is there a linux emotional support group somewhere
+2006-05-23T07:31:00.000Z	OlliK	Zoroaster	it used to be more frustrating :)
+2006-05-23T07:32:00.000Z	Zoroaster	freakabcd	I'm playing
+2006-05-23T07:32:00.000Z	OlliK	Zoroaster	You should try some older distro like old Red Hat.. and then installing some programs, you will go into so called "dependency-hell" where you need another program because the other is depending on that etc etc, never ending loop
+2006-05-23T07:32:00.000Z	OlliK	Zoroaster	Now when we have apt-get, everything is so easy and nice.. just apt-get install and it automatically downloads all dependencies too :)

@@ -1,0 +1,6 @@
+2005-05-03T07:09:00.000Z	torpid		how can i make alsamixer's settings stay the same for the user level?
+2005-05-03T07:10:00.000Z	torpid		or can i only do it at the system level with alsactl?
+2005-05-03T07:10:00.000Z	crimsun	torpid	system-level. See /var/lib/alsa/asound.state.
+2005-05-03T07:14:00.000Z	crimsun	torpid	like I said, you can't yet.
+2005-05-03T07:14:00.000Z	torpid	crimsun	i can live with that.  but i could swear a saved it before and it came back.
+2005-05-03T07:15:00.000Z	crimsun	torpid	some ac97s are very poor and distort at levels > 77%

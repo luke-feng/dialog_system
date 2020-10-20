@@ -1,0 +1,6 @@
+2009-01-28T17:53:00.000Z	gmathews		How do i know which servers my Ubuntu downloads from through synaptic?
+2009-01-28T17:54:00.000Z	jrib	gmathews	system -> administration -> software sources
+2009-02-07T19:16:00.000Z	jrib	gmathews	qtparted, gparted
+2009-02-07T19:19:00.000Z	jrib	gmathews	hash -r
+2009-02-07T19:20:00.000Z	gmathews	jrib	what does hash -r do?
+2009-02-07T19:20:00.000Z	jrib	gmathews	help hash

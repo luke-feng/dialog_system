@@ -1,0 +1,6 @@
+2008-09-16T22:38:00.000Z	windmill		Anyone ever configured pulse audio to send audio to another machine?
+2008-09-16T22:40:00.000Z	dreamnid	windmill	do you have the pulse applications installed?
+2008-09-16T22:40:00.000Z	dreamnid	windmill	hold on, let me find out the name
+2008-09-16T22:42:00.000Z	dreamnid	windmill	see if you can run "paprefs"
+2008-09-16T22:43:00.000Z	windmill	dreamnid	on the client machine or the server machine?
+2008-09-16T22:43:00.000Z	dreamnid	windmill	on the server for starts

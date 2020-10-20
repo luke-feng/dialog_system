@@ -1,0 +1,6 @@
+2010-07-11T20:52:00.000Z	Zenze		does anyone know if ubuntu spins down the hard drives by default?
+2010-07-11T20:54:00.000Z	Dr_Willis	Zenze	 it does here.
+2010-07-11T20:54:00.000Z	Dr_Willis	Zenze	 theres some settings to enable/disable it.
+2010-07-11T20:56:00.000Z	Zenze	Dr_Willis	I know there is the setting in System>Preferences>Power Management, however I am curious if that has any effect if I am not logged in
+2010-07-11T20:56:00.000Z	Dr_Willis	Zenze	 my external usb hd's all spin down ive noticed. never really noticed the internals. (too quiet)
+2010-07-11T20:57:00.000Z	Zenze	Dr_Willis	Usually there is nobody logged into the box as its mainly used as a file server

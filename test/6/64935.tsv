@@ -1,0 +1,6 @@
+2008-03-28T15:44:00.000Z	gokul		how can i password protect internet connection for certain time
+2008-03-28T15:45:00.000Z	gokul		is there any software to lock internet in linux
+2008-03-28T15:46:00.000Z	gokul		no access to internet
+2008-03-28T15:46:00.000Z	unop_	gokul	wired or wireless?
+2008-03-28T15:49:00.000Z	unop_	gokul	you can use squid to control access, but that requires a squid server - http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch32_:_Controlling_Web_Access_with_Squid#Restricting_Web_Access_By_Time
+2008-03-28T15:50:00.000Z	unop_	gokul	it's a proxy server

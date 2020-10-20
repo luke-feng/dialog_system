@@ -1,0 +1,6 @@
+2006-05-01T16:48:00.000Z	_Dez		how do i mount a usb drive in terminal
+2006-05-01T16:50:00.000Z	_Dez		how do i mount a usb drive in terminal
+2006-05-01T06:39:00.000Z	_Dez		how do i run xfce4 i already installed it
+2006-05-01T06:40:00.000Z	Warbo	_Dez	You should get the option to run xfce as your session in the login screen
+2006-05-01T06:55:00.000Z	_Dez	Warbo	that didnt work there was no option to switch to XFCE4
+2006-05-01T07:14:00.000Z	Warbo	_Dez	Ad them to /etc/modules

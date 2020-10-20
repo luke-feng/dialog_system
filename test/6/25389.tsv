@@ -1,0 +1,6 @@
+2010-01-14T00:29:00.000Z	_Ariel_		thanks
+2010-01-14T00:30:00.000Z	_Ariel_		I have a small web development studio, and I'm planning to move our server from Slackware to Ubuntu
+2010-01-14T00:31:00.000Z	_Ariel_		we share files and resources throught it. Is Ubuntu Server right for us? or is it regular Ubuntu enough for us?
+2010-01-14T00:31:00.000Z	_Ariel_		Again in one line: I have a small web development studio, and I'm planning to move our server from Slackware to Ubuntu. We share files and resources throught it. Is Ubuntu Server right for us? or is it regular Ubuntu enough for us?
+2010-01-14T00:32:00.000Z	erUSUL	_Ariel_	both should work; server edition has no gui; is that a problem? it it is chhose the desktop version
+2010-01-14T00:32:00.000Z	_Ariel_	erUSUL	thanks, thats the anwer i was looking for, i'm new at linux so GUI would be required

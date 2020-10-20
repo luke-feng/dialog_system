@@ -1,0 +1,6 @@
+2012-02-03T15:04:00.000Z	dns53	heisenmink	 try running gnome-session-properties
+2012-02-03T15:05:00.000Z	heisenmink	dns53	isn't that for only bootup? or for all kinds of login?
+2012-02-03T15:06:00.000Z	dns53	heisenmink	that is for applications that start with gnome3,  there is no generic way of starting applications you need to do it per desktop environment
+2012-02-03T15:07:00.000Z	heisenmink	dns53	my trackpad configuration is reset each time I restart my computer or go to sleep / wake or hibernate/waker
+2012-02-03T15:09:00.000Z	dns53	heisenmink	  what do you do to fix it? run a script? a gui program?
+2012-02-03T15:10:00.000Z	heisenmink	dns53	I have a script with "synclient x=y k=z" lines

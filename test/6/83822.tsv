@@ -1,0 +1,6 @@
+2008-02-12T06:50:00.000Z	asdrubal	roddersg	sudo iwconfig <ethernet handle> rate 11M auto
+2008-02-12T06:52:00.000Z	asdrubal	roddersg	I think iwconfig is what you want to use to set speed
+2008-02-12T06:52:00.000Z	roddersg	asdrubal	he dosen't want to set speed, he wants the characteristics of the interface
+2008-02-12T06:52:00.000Z	asdrubal	roddersg	iwconfig
+2008-02-12T06:53:00.000Z	asdrubal	roddersg	without any arguments
+2008-02-12T06:53:00.000Z	roddersg	asdrubal	have a word with him or scroll upwards

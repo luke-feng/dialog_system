@@ -1,0 +1,6 @@
+2004-10-16T08:33:00.000Z	WW_		Minor nuisance: when I run gedit in one workspace, and then run gedit in another workspace, it pulls the first instance of gedit into the second workspace.  Can configure this so that it starts a new instance of gedit?
+2004-10-16T08:34:00.000Z	WW_		s/Can conf/Can I conf/
+2004-10-16T08:34:00.000Z	HrdwrBoB	WW_	I don't think you can , but even if you can that sounds like a bug
+2004-10-16T08:34:00.000Z	WW_	HrdwrBoB	Ah, I figured someone would tell me it was a feature, and I should learn to love it :-)
+2004-10-16T08:35:00.000Z	HrdwrBoB		welcome to ubuntu :)
+2004-10-16T08:36:00.000Z	WW_	HrdwrBoB	I'll file it in bugzilla and see what happens.

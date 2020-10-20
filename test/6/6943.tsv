@@ -1,0 +1,6 @@
+2011-08-18T20:11:00.000Z	mintie		how do i use my external hdd to install ubuntu on my other laptop? i have the iso file ready
+2011-08-18T20:13:00.000Z	mintie		natty is 11.04
+2011-08-18T20:14:00.000Z	mintie		can anyone help me make it so that I can use my external hdd to install ubuntu on my other laptop?
+2011-08-18T20:15:00.000Z	Kyle__	mintie	You can use startup disk creator
+2011-08-18T20:16:00.000Z	Kyle__	mintie	IN the administration menu, look for it.  YOu'll need a drive you can wipe, and an ISO of the 'buntu you want to install.  It tells you how.
+2011-08-18T20:16:00.000Z	mintie	Kyle__	I am in that now but the disc isn't showing up?

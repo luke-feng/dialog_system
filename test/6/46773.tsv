@@ -1,0 +1,6 @@
+2010-05-05T22:37:00.000Z	dfase25_		hi I need some help
+2010-05-05T22:38:00.000Z	dfase25_		how can I install a file .tar.gz on  Ubuntu 10.4 ?
+2010-05-05T22:39:00.000Z	mickster04	dfase25_	you dont really install them, you unpack them
+2010-05-05T22:41:00.000Z	mickster04	dfase25_	see what hololight wrote last
+2010-05-05T22:43:00.000Z	mickster04	dfase25_	there should be three commands, you go into the unpacked folder (created when u unzipped the tar file) then run the commands
+2010-05-05T22:44:00.000Z	mickster04	dfase25_	usually ./configure then make then make install

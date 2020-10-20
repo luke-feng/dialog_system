@@ -1,0 +1,6 @@
+2009-08-10T08:49:00.000Z	StaticShock		how can i tell where apt-get installs a package?
+2009-08-10T08:50:00.000Z	StaticShock		thanks
+2009-08-10T08:51:00.000Z	StaticShock		doesn't look like it. says i just have the binary and the man pages
+2009-08-10T08:51:00.000Z	pauljw	StaticShock	try "locate curl" in a terminal
+2009-08-10T08:51:00.000Z	StaticShock		angie: already have that
+2009-08-10T08:52:00.000Z	StaticShock	pauljw	can not open `/var/lib/mlocate/mlocate.db': No such file or directory

@@ -1,0 +1,6 @@
+2009-12-30T06:03:00.000Z	ipatrol		How can I get that graphical sudo window to come up?
+2009-12-30T06:03:00.000Z	jellow	ipatrol	gksudo
+2009-12-30T06:03:00.000Z	jellow	ipatrol	opps gksu
+2009-12-30T06:04:00.000Z	ipatrol	jellow	gksudo works, thx
+2009-12-30T06:12:00.000Z	jellow	ipatrol	Its an "extra" layer of sercurity , by setting a time limit ( mins ) also it does not mess up file permissions look at man su and man sudo for more info
+2009-12-30T06:20:00.000Z	jellow	ipatrol	its sudo -i to enable root , but its not recommened

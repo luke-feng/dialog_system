@@ -1,0 +1,6 @@
+2012-04-08T00:20:00.000Z	user_113		hi all
+2012-04-08T00:22:00.000Z	user_113		questions have not
+2012-04-08T00:23:00.000Z	user_113		есть 1 вопрос вы че чурки что ли все тут сидите?
+2012-04-08T00:24:00.000Z	user_113		how can I remove ubuntu?
+2012-04-08T00:25:00.000Z	auronandace	user_113	delete the partition and replace the bootloader?
+2012-04-08T00:28:00.000Z	auronandace	user_113	use a livecd with gparted and then install whatever you want to over the mbr

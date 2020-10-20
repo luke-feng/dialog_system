@@ -1,0 +1,6 @@
+2005-12-19T08:05:00.000Z	JoeyDay|ubuntu		Anybody know how I can install ez-ipupdate on Ubuntu or can point me in the right direction as to where I could find out how?
+2005-12-19T08:06:00.000Z	bob2	JoeyDay|ubuntu	wiki./ubuntu.com/SynapticHowto
+2005-12-19T08:07:00.000Z	JoeyDay|ubuntu	bob2	Thanks.
+2005-12-19T08:10:00.000Z	bob2	JoeyDay|ubuntu	then enable universe
+2005-12-19T08:10:00.000Z	bob2	JoeyDay|ubuntu	wiki.ubuntu.com/AddingRepositoriesHowto
+2005-12-19T08:23:00.000Z	JoeyDay|ubuntu	bob2	Okay, I think it installed. Where do I find it in my system, now?

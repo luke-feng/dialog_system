@@ -1,0 +1,6 @@
+2009-05-18T20:02:00.000Z	Frayjin		Hey there! :) I have a question. Atm I'm using a nVidia Corporation G80 (GeForce 8800 GTS) and for some reason I am unable to get the rendering check to respond positive. Only way it works is when I run the rendering check as superuser. Problem now is that I can not use 3D grafics in wine and other linux apps. Anyone here that can help me out? Thanks, much appreciated!
+2009-05-18T20:03:00.000Z	Dr_Willis	Frayjin	 what 'rendering' check ?  I got an Nvidia 8800gtsXXX here.
+2009-05-18T20:06:00.000Z	Frayjin	Dr_Willis	I used this commandline ... glxinfo | grep rendering
+2009-05-18T20:11:00.000Z	Frayjin	Dr_Willis	I used "glxinfo | grep rendering" and direct rendering returns false and when I use "SUDO glxinfo | grep rendering" it returns positive. How do I get the rendering to work at all time? Cheers :)
+2009-05-18T20:12:00.000Z	Dr_Willis	Frayjin	 all i did for my nvidia 8800 card was run the hardware-driver tool.. installed the 180 version of the drivers.. and rebooted.. I dident have to do much more then that.
+2009-05-18T20:13:00.000Z	Frayjin	Dr_Willis	I did the same, but my 3D apps aren't running under wine due to this error. Should I consider a reinstall of Ubuntu?

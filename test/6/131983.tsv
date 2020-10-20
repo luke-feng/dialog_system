@@ -1,0 +1,6 @@
+2012-04-29T18:48:00.000Z	pakistanish		why does my system tell me i686 while the OS is 32bit
+2012-04-29T18:49:00.000Z	pakistanish		i think it shall show me i386
+2012-04-29T18:49:00.000Z	LjL	pakistanish	no
+2012-04-29T18:49:00.000Z	LjL	pakistanish	i686 means 32bit
+2012-04-29T18:49:00.000Z	LjL	pakistanish	it just also means it's compiled for i686 and not for i386
+2012-04-29T18:50:00.000Z	LjL	pakistanish	x86_64

@@ -1,0 +1,6 @@
+2009-03-09T17:27:00.000Z	KOUY		I need help. I installed Ubuntu 8.10 and i had problems with network. Is there something wrong with this version of Ubuntu?
+2009-03-09T17:28:00.000Z	ActionParsnip	KOUY	did you install kubuntu-desktop on ubuntu or have yuo done a clean install?
+2009-03-09T17:28:00.000Z	ActionParsnip	KOUY	did you md5 check the iso you downloaded as well as verify the cd was burned ok on the first boot screen?
+2009-03-09T17:29:00.000Z	ActionParsnip	KOUY	do so so that we know the cd is good and the image you downloaded isnt damaged
+2009-03-09T17:29:00.000Z	ActionParsnip	KOUY	md5 checking is ESSENTIAL so that you know the disk you have in your hand is not damaged
+2009-03-09T17:30:00.000Z	ActionParsnip	KOUY	if the iso checks out, boot the cd up and the first screen will have an option to check the cd, if those both pass then we have a bigger issue

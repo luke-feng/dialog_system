@@ -1,0 +1,6 @@
+2009-05-12T00:01:00.000Z	resno		when using dolphin, i use to be able to go in root dir, it would ask me for password and let me in. no i cant edit the root directory because it wont ask for password
+2009-05-12T00:03:00.000Z	carick	resno	use terminal
+2009-05-12T00:06:00.000Z	resno	carick	i would use terminal, but i am not good enough to complete what i am trying to do.
+2009-05-12T00:06:00.000Z	carick	resno	which is what
+2009-05-12T00:07:00.000Z	resno	carick	trying to cp a directory
+2009-05-12T00:07:00.000Z	carick	resno	cp -r /path/to/dir /path/to/other/location

@@ -1,0 +1,6 @@
+2007-01-02T11:58:00.000Z	logivision		Hey all. I have a window's program I need to get working on Ubuntu. What's the best way ?
+2007-01-02T11:58:00.000Z	Soir	logivision	the 'best' way is to find a linux program ;) but if you can't do that, try wine
+2007-01-02T12:00:00.000Z	logivision	Soir	There isn't a linux version. It's a Point Of Sale program. We've been told there is a way to get it to work on linux, but the company doesn't support it. I'm trying to use CrossOver but It's not able to work with it. CrossOver is a better version of Wine, correct ?
+2007-01-02T12:01:00.000Z	Soir	logivision	crossover is a version of wine tailored to use with specific programs by ms and adobe; you're better off with real wine
+2007-01-02T12:02:00.000Z	logivision	Soir	Thanks. I'm not sure how familiar  you are with the program but I'm going to need to access a MS server during installation and everyday use.
+2007-01-02T12:03:00.000Z	logivision	Soir	The program automatically looks for "My Network Neighbourhood" which is the problem.

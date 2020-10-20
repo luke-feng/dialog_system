@@ -1,0 +1,6 @@
+2006-10-24T05:12:00.000Z	jmspeex_		Can someone explain to me how the Ubuntu bug fixing process works?
+2006-10-24T05:12:00.000Z	jmspeex_		I'm getting the impression that nothing ever gets fixed, so either that's true or there's something I didn't understand somewhere.
+2006-10-24T05:12:00.000Z	DarkMageZ	jmspeex_	are you refering to any bugs in particular?
+2006-10-24T05:13:00.000Z	jmspeex_	DarkMageZ	I'm referring to the dozens of bug reports I filed, none of which got fixed.
+2006-10-24T05:16:00.000Z	DarkMageZ	jmspeex_	if you can find 1 more person for 55739 then it can be confirmed
+2006-10-24T05:19:00.000Z	jmspeex_	DarkMageZ	How am I supposed to find someone? Plus I'm not sure what good it would do. I submitted a security bug masked as confirmed, high priority. The fix is 2 lines to a config file and it's been sitting there for 3 months.

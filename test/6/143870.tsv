@@ -1,0 +1,6 @@
+2005-12-26T07:14:00.000Z	pedingto		Heyo folks, I've got an issue where I can't get my display to go to 1024x768, I'm using an Intel 845 GL on a Dell Inspiron 1100.  I tried using the i915resolution I think it was, but I couldn't seem to get it to work right.
+2005-12-26T07:14:00.000Z	dabaR	pedingto	you can try http://wiki.ubuntu.com/FixVideoResolutionHowto, it always worked for me(after some meddling, and reading a couple times.
+2005-12-26T07:17:00.000Z	pedingto	dabaR	I've already worked through all them :)
+2005-12-26T07:19:00.000Z	dabaR	pedingto	what do you mean?
+2005-12-26T07:19:00.000Z	dabaR	pedingto	are you saying you tried, and it never worked?
+2005-12-26T07:26:00.000Z	pedingto	dabaR	yes thats it :) I can get it to 800x600 using those tips, but 1024 is still not showing.

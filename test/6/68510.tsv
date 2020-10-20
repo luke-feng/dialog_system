@@ -1,0 +1,6 @@
+2008-01-12T03:47:00.000Z	Aeleon	nickrud	h must not know what he's alking about.
+2008-01-12T04:34:00.000Z	nickrud	Aeleon	 just type exit.  And the only time you really need it is if you can't cd into a directory
+2008-01-12T04:56:00.000Z	nickrud	Aeleon	correct
+2008-01-12T04:57:00.000Z	nickrud	Aeleon	again correct :)
+2008-01-12T05:02:00.000Z	nickrud	Aeleon	sudo chmod  ugao+-rwx , user group all others plus-minus read write execute <-- all you need to know
+2008-01-12T05:03:00.000Z	nickrud	Aeleon	learning the numbers will sometimes be useful for complex perms that a simple letter usage won't though

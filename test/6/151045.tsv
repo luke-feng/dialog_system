@@ -1,0 +1,6 @@
+2005-04-17T15:30:00.000Z	Dethread	flipy	just install gcc 3.4 via apt-get or synaptic and change the gcc link in /usr/bin to point to 3.4 instead of 3.3
+2005-04-17T15:31:00.000Z	flipy	Dethread	thanks!
+2005-04-17T15:31:00.000Z	flipy	Dethread	that will work for g++?
+2005-04-17T15:32:00.000Z	Dethread	flipy	yes, same procedure
+2005-04-17T15:32:00.000Z	flipy		ok thanks
+2005-04-17T15:33:00.000Z	flipy	Dethread	is there any other symlink to change?

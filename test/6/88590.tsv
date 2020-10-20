@@ -1,0 +1,6 @@
+2007-04-24T08:30:00.000Z	adrian_		ruewan
+2007-04-24T08:30:00.000Z	adrian_		ok, i got my black window on logout problem solved
+2007-04-24T08:31:00.000Z	adrian_		did anyone here have problems with kde missing the shutdown, restart and hibernate buttons after upgrading to feisty?"
+2007-04-24T08:31:00.000Z	adrian_		i am not using beryl
+2007-04-24T08:31:00.000Z	debaser	adrian_	add your user to the proper groups
+2007-04-24T08:32:00.000Z	debaser	adrian_	login with a user able to do administration and go to system > administration > user and group administration

@@ -1,0 +1,6 @@
+2010-10-27T04:07:00.000Z	message144		Hi, I enabled compiz in Ubuntu 10.04 desktop. For some reason my terminal window is transparent now even though the transparency is turned off in the terminal profile options. I am trying to disable the transparency. Any ideas?
+2010-10-27T04:07:00.000Z	mkquist	message144	make sure your looking at the right profile?
+2010-10-27T04:07:00.000Z	message144		mkaay, I only have one profile
+2010-10-27T04:08:00.000Z	mkquist	message144	one and default? or just the default?
+2010-10-27T04:08:00.000Z	message144	mkquist	just default
+2010-10-27T04:08:00.000Z	message144	mkquist	the funny thing is that if i enable transparency in the terminal profile options, it becomes even more transparent

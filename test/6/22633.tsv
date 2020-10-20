@@ -1,0 +1,6 @@
+2011-06-02T14:15:00.000Z	AmberJ		Is there a server which hosts ubuntu 10.04 (not 10.04.2) for download?
+2011-06-02T14:16:00.000Z	AmberJ		releases.ubuntu.com has 10.04.2 but I need 10.04...
+2011-06-02T14:16:00.000Z	qin	AmberJ	iso? vps?
+2011-06-02T14:16:00.000Z	qin	AmberJ	oh.
+2011-06-02T14:17:00.000Z	AmberJ	qin	smw: there's an opennebula express installer which is intended to be installed only on ubuntu 10.04
+2011-06-02T14:20:00.000Z	AmberJ	qin	smw http://opennebula.org/software:addons:express needs a *clean install* of "10.04" with no updates

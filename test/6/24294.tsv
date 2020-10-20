@@ -1,0 +1,6 @@
+2010-07-21T13:44:00.000Z	john38		??
+2010-07-21T13:46:00.000Z	john38		anybody else help me?
+2010-07-21T13:48:00.000Z	jpl	john38	what's the output of "file filename.tgz" ?
+2010-07-21T13:50:00.000Z	jpl	john38	from a cmd line, type: file intel-537ep_secure-227390.2.tgz and give us the output
+2010-07-21T13:52:00.000Z	jpl	john38	try gunzip intel-537ep_secure-227390.2.tgz
+2010-07-21T13:53:00.000Z	jpl	john38	this file seems to be corrupted

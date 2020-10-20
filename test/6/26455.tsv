@@ -1,0 +1,6 @@
+2012-05-07T04:52:00.000Z	gmachine_24		hi. I tried to install gparted in 11.04 (64bit) with CLI but received this message: The following packages have unmet dependencies:
+2012-05-07T04:52:00.000Z	gmachine_24		 gparted : Depends: libstdc++6 (>= 4.6) but 4.5.2-8ubuntu4 is to be installed
+2012-05-07T04:52:00.000Z	gmachine_24		E: Broken packages
+2012-05-07T04:53:00.000Z	Logan_	gmachine_24	sudo apt-get install -f
+2012-05-07T04:55:00.000Z	gmachine_24	Logan_	is that sudo apt-get install -f gparted or without the gparted?
+2012-05-07T04:55:00.000Z	Logan_	gmachine_24	Without the gparted.

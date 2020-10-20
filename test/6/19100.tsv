@@ -1,0 +1,6 @@
+2010-09-10T01:21:00.000Z	WhoSayIn	yong	what should i add to the /etc/fstab ?
+2010-09-10T01:20:00.000Z	yong	WhoSayIn	add it in /etc/fstab
+2010-09-10T01:22:00.000Z	WhoSayIn	yong	what should i add to the /etc/fstab ?
+2010-09-10T01:23:00.000Z	yong	WhoSayIn	I wonder whether you'd better installation docs from debian.org, but you may add a line like: /dev/sda3 none swap sw 0 0
+2010-09-10T01:24:00.000Z	WhoSayIn	yong	thanks, i will do
+2010-09-10T01:32:00.000Z	WhoSayIn	yong	thank you!! i have succesfully set my swap partition, rebooted my system and its still there!! i have added "/dev/sda6 none swap sw 0  0" to the /etc/fstab where /dev/sda6 is the partition i have created as a swap partition, thanks again, you made my day!!

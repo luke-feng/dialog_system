@@ -1,0 +1,6 @@
+2008-05-01T23:58:00.000Z	ph8		 Hi all, i've just upgrade to hardy and the new kernel recognises my on board ethernet - bizarrely though i can't connect to my network over static OR dhcp - if i
+2008-05-01T23:58:00.000Z	ph8		             change back to the old kernel it works fine - i've got up to date -restricted -modules and even -backports packages according to apt - can anyone help shed any
+2008-05-01T23:58:00.000Z	ph8		             light on this?
+2008-05-01T23:59:00.000Z	cwillu	ph8	try it under a hardy live cd.  if it works there, then there's some previous configuration from before the upgrade that's messing it up
+2008-05-02T00:00:00.000Z	ph8	cwillu	Good idea
+2008-05-02T01:07:00.000Z	cwillu	ph8	they're particular to the partitions iirc

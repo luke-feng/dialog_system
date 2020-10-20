@@ -1,0 +1,6 @@
+2012-05-08T23:04:00.000Z	delerium		pkg has unmet dependencies gnome-icon-theme-full: Depends: gnome-icon-theme (= 3.2.0-0ubuntu2) but 3.4.0-0ubuntu1 is installed how do I fix?
+2012-05-08T23:05:00.000Z	delerium		all I did was upgrade from lubuntu 11nn to 12nn
+2012-05-08T23:06:00.000Z	delerium		but I think I got ubuntu(w/0) the 'l'
+2012-05-08T23:08:00.000Z	delerium		is there an apt-get command to fix unmet deps? the gui thing got mrmoving in circles
+2012-05-08T23:08:00.000Z	delerium		* me moving
+2012-05-08T23:08:00.000Z	Jordan_U	delerium	sudo apt-get -f install

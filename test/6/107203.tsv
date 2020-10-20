@@ -1,0 +1,6 @@
+2009-02-03T13:50:00.000Z	ommya		I have problem in installing ubuntu 8.1 for dual boot
+2009-02-03T13:50:00.000Z	ommya		grub does'nt show option for ubuntu
+2009-02-03T13:51:00.000Z	ommya		Fuzzy:and where do I get it?
+2009-02-03T13:51:00.000Z	Fuzzy	ommya	http://www.supergrubdisk.org/
+2009-02-03T13:53:00.000Z	Fuzzy	ommya	I had the same problem, that disc will add ubuntu to your grub menu
+2009-02-03T13:53:00.000Z	Fuzzy	ommya	What is your other OS?

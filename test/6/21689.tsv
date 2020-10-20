@@ -1,0 +1,6 @@
+2010-06-15T07:45:00.000Z	joaojeronimo		Hi everyone, I have a doubt.... My server is behind a router that is behind a cable modem that is possibly behind a lot of stuff from the ISP (I don't have a dedicated IP address...). Is there any way to access this server from outside (anywhere else on the planet) ? Maybe some method ? Other than a VPN ?
+2010-06-15T07:47:00.000Z	Loshki	joaojeronimo	I recommend using a non-standard port for ssh. It will cut down on break-in attempts...
+2010-06-15T07:47:00.000Z	joaojeronimo		I'm doing it. Thanks binaryme :) and projekt2
+2010-06-15T07:47:00.000Z	joaojeronimo		note taken Loshki ;)
+2010-06-15T07:48:00.000Z	joaojeronimo	XFGoldenBBL	oh and then you'll take over my server lol
+2010-06-15T07:48:00.000Z	Loshki	joaojeronimo	I also recommend allowing ssh logins via public/private key only once you get it going...

@@ -1,0 +1,6 @@
+2006-10-15T06:30:00.000Z	chrishoeppner		Hi
+2006-10-15T06:30:00.000Z	chrishoeppner		anyone can tell me why my gui ftp clients only do 1 transfer at a time? when transferring 1200+ small files it can be... boring.
+2006-10-15T06:31:00.000Z	berent	chrishoeppner	: tar them and send
+2006-10-15T06:31:00.000Z	chrishoeppner		if i had shell access i wouldn't be complaining ;)
+2006-10-15T06:32:00.000Z	berent		whats stopping u from tarring them
+2006-10-15T06:33:00.000Z	chrishoeppner	berent	the unability to untar them on the other side.

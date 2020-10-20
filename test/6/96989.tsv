@@ -1,0 +1,6 @@
+2007-10-26T06:50:00.000Z	andycr		hmm
+2007-10-26T06:50:00.000Z	andycr		mine's 19" too
+2007-10-26T06:50:00.000Z	andycr		maybe it's a bug with detecting it on 19" monitors
+2007-10-26T06:51:00.000Z	andycr		like I said, almost the same card and same res works fine on my laptop... but it's 17 inch
+2007-10-26T06:51:00.000Z	nickrud	andycr	try xrandr in a terminal, does it tell the right res?
+2007-10-26T06:52:00.000Z	andycr	nickrud	Yeah, that lists it fine

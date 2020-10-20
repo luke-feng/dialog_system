@@ -1,0 +1,6 @@
+2005-07-26T05:44:00.000Z	Gourami		nick@ZATRM087:~$ apt-cache update
+2005-07-26T05:44:00.000Z	Gourami		E: Invalid operation update
+2005-07-26T05:44:00.000Z	Gourami		nick@ZATRM087:~$ apt-get update
+2005-07-26T05:44:00.000Z	Gourami		E: Could not open lock file /var/lib/apt/lists/lock - open (13 Permission denied)
+2005-07-26T05:44:00.000Z	Gourami		E: Unable to lock the list directory
+2005-07-26T05:45:00.000Z	hondje	Gourami	sudo in front of things when they complain about permissions

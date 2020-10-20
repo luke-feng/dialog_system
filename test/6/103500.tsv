@@ -1,0 +1,6 @@
+2007-01-27T13:40:00.000Z	AphoxemaG		Can someone help me booting Ubuntu? u.u
+2007-01-27T13:42:00.000Z	AphoxemaG		Oh, I'm in Slackware right now... when I try to boot from a 2.6 kernel with PCI access set to 'any', I have to append 'pci=nommconfig' because my parentboard is incompatable with it, but Casper won't start with that
+2007-01-27T13:43:00.000Z	AphoxemaG		wow, KVIrc's gotten alot better...
+2007-01-27T13:45:00.000Z	AphoxemaG		I guess I'll just need to try booting from a different kernel
+2007-01-27T13:46:00.000Z	AphoxemaG		Should I expect the ATI proprietary drivers to be garbage, or am I configuring something wrong?
+2007-01-27T13:47:00.000Z	alecjw	AphoxemaG	you should expect tham to be worse than the nvidia ones

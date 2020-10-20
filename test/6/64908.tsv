@@ -1,0 +1,6 @@
+2008-03-22T20:39:00.000Z	AlienX		anyone know if hardy will/does support install time encryption and, if I'm installing it over a gutsy system with an encrypted filesystem, will there be any issues?
+2008-03-22T20:39:00.000Z	unop__	AlienX	question for #ubuntu+1
+2008-03-22T20:41:00.000Z	unop__	AlienX	i'm not sure of the answer to your question but when doing something as significant as upgrading a system, it'd be best to ensure all data is backed up first, thats a responsibility
+2008-03-22T20:42:00.000Z	unop__	AlienX	and if you are upgrading (not doing a fresh install) -- i dont see that being an issue -- but this is not an official stance
+2008-03-22T20:43:00.000Z	unop__	AlienX	thats a very windows-ish approach to things :) i find that really to be a complete waste of time
+2008-03-22T20:45:00.000Z	unop__	AlienX	i'm not saying its the wrong way to do things -- but you never figured out how to fix things broken in upgrades? :)

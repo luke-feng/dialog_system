@@ -1,0 +1,6 @@
+2006-03-26T17:09:00.000Z	benkong2		I am at my wits end how can I connect to my linksys router at 192.168.1.5 from my laptop? I need to change the address to 10.0.0.5
+2006-03-26T17:09:00.000Z	benkong2		I connected a cat5 cable from my eth0 to a port(not the WAN) on the router but all i get is network unreachable.
+2006-03-26T17:10:00.000Z	benkong2		what am I doing wrong????
+2006-03-26T17:10:00.000Z	Nickgarvey	benkong2	dhcp server working?
+2006-03-26T17:12:00.000Z	Nickgarvey	benkong2	bet thats it
+2006-03-26T17:13:00.000Z	Nickgarvey	benkong2	make your IP static

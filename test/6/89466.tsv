@@ -1,0 +1,6 @@
+2008-10-15T05:33:00.000Z	corinth		Are there any drawbacks from switching from ext3 to jfs?
+2008-10-15T05:33:00.000Z	dli	corinth	ext3 is the default, jfs doesn't shrink, if you ever want to resize it
+2008-10-15T05:34:00.000Z	corinth	dli	Thanks. I've heard that jfs is faster, is that true? And, is ext4 stable enough for use yet?
+2008-10-15T05:35:00.000Z	dli	corinth	I guess ext4 is not finished yet. I doubt you can see the speed difference between ext3 and jfs. if you want speed, test reiser4
+2008-10-15T05:36:00.000Z	corinth	dli	What are the cons to reiser4?
+2008-10-15T05:36:00.000Z	dli	corinth	reiser himself in jail currently

@@ -1,0 +1,6 @@
+2011-07-20T17:17:00.000Z	jamshid_		sorry,
+2011-07-20T17:17:00.000Z	jamshid_		##C :Cannot join channel (+r) - you need to be identified with services
+2011-07-20T17:17:00.000Z	jamshid_		what it means?
+2011-07-20T17:17:00.000Z	doufnufem	jamshid_	 do this /msg nickserv identify <email adress> <password>
+2011-07-20T17:17:00.000Z	doufnufem	jamshid_	 do this /msg nickserv register <email adress> <password>
+2011-07-20T17:18:00.000Z	doufnufem	jamshid_	 do this /msg nickserv register <password> <email>

@@ -1,0 +1,6 @@
+2008-03-03T23:59:00.000Z	Engin_		:)
+2008-03-04T00:00:00.000Z	Engin_		is there a command line to tool to add/remove services to boot up ? i.e. add sshd, remove xorg
+2008-03-04T00:00:00.000Z	erUSUL	Engin_	undate-rc.d and rcconf with curses gui
+2008-03-04T00:01:00.000Z	Engin_	erUSUL	rcconf is not installed by default, fyi
+2008-03-04T00:01:00.000Z	erUSUL	Engin_	i know i use update-rc.d XD
+2008-03-04T00:02:00.000Z	Engin_	erUSUL	:)

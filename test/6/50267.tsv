@@ -1,0 +1,6 @@
+2009-08-12T06:32:00.000Z	xim_		im trying to download audio files (using WGET) of thie hindu vedas on this website www.gatewayforindia.com/vedas/vedas.html    I am having trouble with the paramaters because this link links to another domain where the webhost is storing the audio files (digimedium.com/veda/*.mp3), so my parameters are only getting this one domain I think.  Here is my command wget --recursive --no-clobber --page-requisites --html-extension --conver
+2009-08-12T06:32:00.000Z	xim_		t-links --restrict-file-names=windows  --no-parent http://www.gatewayforindia.com/vedas/vedas.html     can anyone spot what i'm doing wrong?
+2009-08-12T06:32:00.000Z	b0nn	xim_	try curl :)
+2009-08-12T06:33:00.000Z	xim_		they make my arms tired
+2009-08-12T06:34:00.000Z	b0nn	xim_	wget that page, then use wget -i
+2009-08-12T06:36:00.000Z	xim_	b0nn	ahh ok i think that will work

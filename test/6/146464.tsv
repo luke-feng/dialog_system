@@ -1,0 +1,6 @@
+2006-03-06T10:31:00.000Z	daved		if i create a package with checkinstall, is there any way for me to add some dependencies to it.. i'm putting it in a custom apt repository and would like the dependencies to be auto-installed
+2006-03-06T10:32:00.000Z	daved		is there a channel with people that actually know a bit more hardcore things about ubuntu/linux in general?
+2006-03-06T10:33:00.000Z	dooglus	daved	#ubuntu-hardcore ?
+2006-03-06T10:34:00.000Z	dooglus	daved	you could find out that by checking whether debian has checkinstall.
+2006-03-06T10:34:00.000Z	dooglus	daved	I'm pretty sure it does, but it had been orphaned last I checked
+2006-03-13T09:26:00.000Z	dooglus	daved	http://cdimage.ubuntu.com/releases/dapper/flight-4/

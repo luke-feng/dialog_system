@@ -1,0 +1,6 @@
+2009-04-26T21:15:00.000Z	nmlinuz		help! i think my OS (or something else) has huge memory leaks!
+2009-04-26T21:15:00.000Z	nmlinuz		my system is slowing down!
+2009-04-26T21:15:00.000Z	happosade	nmlinuz	check your memory usage
+2009-04-26T21:16:00.000Z	nmlinuz	happosade	now it's 1.0GB / 2.0GB
+2009-04-26T21:16:00.000Z	happosade	nmlinuz	Ok, just for check that your not run out of memory. Swap is _reaalllyy_ slow.
+2009-04-26T21:16:00.000Z	nmlinuz	happosade	Firefox gets 330 MB!

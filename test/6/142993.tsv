@@ -1,0 +1,6 @@
+2005-08-04T11:03:00.000Z	boga		I am having trouble setting up apache! No matter how I install it using synaptic, it just does not work!
+2005-08-04T11:03:00.000Z	bwlang	boga	you're going to have to do some text file editing to get apache working...
+2005-08-04T11:03:00.000Z	bwlang	boga	try apache2... then edit /etc/apache2/sites-available/default
+2005-08-04T11:04:00.000Z	boga		ok
+2005-08-04T11:04:00.000Z	boga	bwlang	But it will not even display the test page!
+2005-08-04T11:04:00.000Z	bwlang	boga	is it running? (ps aux)

@@ -1,0 +1,6 @@
+2006-11-27T09:59:00.000Z	sal		Hey! I was wondering if someone could help me get my tascum US122 running, I followed a tutorial to get the drivers installed and now the lights come on and everything, but I'm not sure how to select it as my device I use for recording?
+2006-11-27T10:01:00.000Z	Vigor	sal	Did you try the Device Manager use (this) as default? or is it listed?
+2006-11-27T10:12:00.000Z	Vigor	sal	Did you run the lspci -n ?
+2006-11-27T10:14:00.000Z	Vigor	sal	http://www.qbik.ch/usb/devices/
+2006-11-27T10:16:00.000Z	Vigor	sal	did or have you used the Debian pastebin checker?
+2006-11-27T10:16:00.000Z	Vigor	sal	http://kmuto.jp/debian/hcl/

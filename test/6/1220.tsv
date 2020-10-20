@@ -1,0 +1,6 @@
+2012-08-02T21:14:00.000Z	ayzee		sudo
+2012-08-02T21:14:00.000Z	ayzee		oh
+2012-08-02T21:15:00.000Z	ayzee		uh... sudo -i <password prompt>; sudo the rest of the commands as another user (no prompt)
+2012-08-02T21:15:00.000Z	ayzee		so that way you become root, and then you can sudo as the other user without a password, and then execute the last command as root
+2012-08-02T21:15:00.000Z	WHAT_UP	ayzee	how do i sudo a command as a different user?
+2012-08-02T21:16:00.000Z	ayzee	WHAT_UP	what i actually meant is what jrib said

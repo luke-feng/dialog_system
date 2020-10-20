@@ -1,0 +1,6 @@
+2007-06-25T14:32:00.000Z	dosage		well using thier wizard anyway
+2007-06-25T14:33:00.000Z	dosage		ack! somebody typed the command to show the system log, can you show me again?
+2007-06-25T14:34:00.000Z	dosage		dmesg or something like that
+2007-06-25T14:34:00.000Z	dosage		thanks =)
+2007-06-25T14:36:00.000Z	LeoDioxide	dosage	thats just the current system, you can check other logs in /var/log
+2007-06-25T15:12:00.000Z	LeoDioxide	dosage	does it keep crashing?

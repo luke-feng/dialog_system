@@ -1,0 +1,6 @@
+2008-05-26T21:16:00.000Z	friend1		I try again, somebody knows how fix GKSU, it not working in ubuntu 8, i can't launch my app in root mode, only if I run in terminal mode
+2008-05-26T21:17:00.000Z	hak5fan	friend1	Oh what happens when you try to use gksu
+2008-05-26T21:18:00.000Z	friend1	hak5fan	it only appear in status bar, and then desapear
+2008-05-26T21:18:00.000Z	hak5fan	friend1	try gksudo
+2008-05-26T21:19:00.000Z	hak5fan	friend1	but you can use sudo app in terminal?
+2008-05-26T21:20:00.000Z	friend1	hak5fan	yes in terminal mode it's working

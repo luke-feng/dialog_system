@@ -1,0 +1,6 @@
+2008-03-10T02:43:00.000Z	al-_-Gir		!howto EXE
+2008-03-10T02:43:00.000Z	jrib	al-_-Gir	do you have a question we can help you with?
+2008-03-10T02:43:00.000Z	al-_-Gir		!HOW TO DLL
+2008-03-10T02:44:00.000Z	al-_-Gir	jrib	, how i can run exe ? in ubuntu ?
+2008-03-10T02:44:00.000Z	al-_-Gir		thanks
+2008-03-10T02:45:00.000Z	jrib	al-_-Gir	ubuntu and windows are very different.  You should look at the native ubuntu applications for what you want to do instead of trying to use an exe on ubuntu.  If you find you must, you can try to use wine

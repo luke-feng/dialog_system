@@ -1,0 +1,6 @@
+2009-06-12T04:00:00.000Z	Dethroned		Do I need to change unallocated HD space to the same Ext3 format as Ubuntu in order to combine the partitions?
+2009-06-12T04:01:00.000Z	Dethroned		lvm?
+2009-06-12T04:01:00.000Z	Dethroned		GPart
+2009-06-12T04:02:00.000Z	Dethroned		which I don't think is the actual ubuntu
+2009-06-12T04:03:00.000Z	texasjack	Dethroned	one thing: gparted is secure.  I never had one single problem with.
+2009-06-12T04:11:00.000Z	texasjack	Dethroned	there are 2 types of partitions: Primary and Extended. MAX: Primary = 4. Extended = 255 (but the Extended partition is one of the four primary...). Nothing to do with ext3.  I guess...

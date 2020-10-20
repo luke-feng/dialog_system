@@ -1,0 +1,6 @@
+2006-12-11T09:50:00.000Z	Per0		hello people
+2006-12-11T09:50:00.000Z	Per0		I open Root terminal and i type wget ( web )
+2006-12-11T09:50:00.000Z	Per0		aand look
+2006-12-11T09:50:00.000Z	Per0		Error parsing proxy URL http://:8080/: Invalid host name.
+2006-12-11T09:51:00.000Z	Per0		why that ?
+2006-12-11T09:51:00.000Z	spx2	Per0	8080 is just a port,you need a hostname too

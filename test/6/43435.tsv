@@ -1,0 +1,6 @@
+2009-01-29T00:29:00.000Z	mdm		im having a problem. when i try to download from repositories, I get a warning "You are about to install software that cant be authenticated!". I was trying to download gelemental. Same message also displayed if I try to install from Synaptic package manager or apt-get install. Fairly new to Ubuntu. Is it a problem with my install or the repositories? I am currently running 8.10 on ASUS eee.
+2009-01-29T00:30:00.000Z	Flannel	mdm	If you have added additional repositories (third party repos) and haven't added their gpg key to your keyring, you won't be able to authenticate those packages.
+2009-01-29T00:30:00.000Z	Flannel	mdm	However, gelemental is in the regular repositoies, so I'm not really sure why you're unable to authenticate them.
+2009-01-29T00:31:00.000Z	mdm	Flannel	it only started doing it after I downloaded some updates. Not sure what you mean by keyring?
+2009-01-29T00:32:00.000Z	Flannel	mdm	updates shouldn't change that, no.  Your apt keying holds some encryption keys so you can verify that the packages havent been tampered with
+2009-06-04T06:00:00.000Z	mdm	Flannel	apt-get is easier :P

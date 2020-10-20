@@ -1,0 +1,6 @@
+2011-01-11T00:19:00.000Z	eviljames		Attempting to run ubuntu 10.10 from my lvm root, initramfs is apparently misbehaving.  Refuses to boot, drops me at the busybox/initramfs prompt.  From that propmt I can modprobe dm_mod ; vgscan ; vgchange -ay and then mount root, but I don't know how to continue to boot past there.  Anyone know much about initramfs / lvm / raid / ubuntu combinations?
+2011-01-11T00:19:00.000Z	gobbe	eviljames	init 5
+2011-01-11T00:20:00.000Z	eviljames	gobbe	rl 5, eh?  So, theoretically, once I mount /dev/chimeravg/ustudioroot /root, I can run /init 5 (from the intramfs) and boot will continue?
+2011-01-11T00:20:00.000Z	gobbe	eviljames	yep
+2011-01-11T00:23:00.000Z	eviljames	gobbe	thanks, I'll give it a shot
+2011-01-11T00:44:00.000Z	eviljames	gobbe	Aside from init 5, do you know where I could start looking to ensure the right modules, etc. are loaded to the initramfs ?

@@ -1,0 +1,6 @@
+2008-06-20T18:51:00.000Z	Jack_Sparrow		!gparted
+2008-06-20T18:51:00.000Z	DSpair	Jack_Sparrow	that's not exactly true... If you are using LVM2 it is possible to extend a partition.
+2008-06-20T18:52:00.000Z	Jack_Sparrow	DSpair	I base help on standard installs not one of the many different ways people modify it
+2008-06-20T18:52:00.000Z	DSpair	Jack_Sparrow	Understandable. But LVM2 is standard on Ubuntu server...
+2008-06-20T18:53:00.000Z	Jack_Sparrow	DSpair	if he could not resize it..  he was not running server lvm2
+2008-06-20T18:53:00.000Z	DSpair	Jack_Sparrow	Good point.

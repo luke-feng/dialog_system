@@ -1,0 +1,6 @@
+2009-12-04T23:43:00.000Z	mr_engineer		hi, now niether compiz or nautilus are starting up in my system... should they be in the .config/autostart dir? They are not there
+2009-12-04T23:43:00.000Z	grawity	mr_engineer	AFAIK, windowmanager and filemanager are in GNOME's "required components" list, which means they will always be autostarted (and auto-restarted).
+2009-12-04T23:44:00.000Z	mr_engineer	grawity	well, they're not starting up lol, what could be causing the problem?
+2009-12-04T23:44:00.000Z	grawity	mr_engineer	What if you start one of them manually?
+2009-12-04T23:44:00.000Z	mr_engineer	grawity	i can
+2009-12-04T23:45:00.000Z	mr_engineer	grawity	its not the ideal thing though

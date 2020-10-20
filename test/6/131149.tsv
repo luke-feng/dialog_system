@@ -1,0 +1,6 @@
+2005-12-20T11:41:00.000Z	zauber		final question, can sshd per chance be told to listen to both 22 and 2222 in the config file?
+2005-12-20T11:41:00.000Z	zauber		...or why dont I just try and see..;)
+2005-12-20T11:41:00.000Z	zauber		sorry for all the Q
+2005-12-20T11:42:00.000Z	kyncani	zauber	what about using iptables to redirect port 2222 to port 22 ?
+2005-12-20T11:42:00.000Z	zauber	kyncani	did you miss the discussion ;)
+2005-12-20T11:43:00.000Z	kyncani	zauber	he ;) sorry :)

@@ -1,0 +1,6 @@
+2009-11-05T09:33:00.000Z	FFForever		how come ubuntu does not ship with ssl certificates for positive ssl (from comodo)
+2009-11-05T09:33:00.000Z	chowder	FFForever	you should ask one of the developers
+2009-11-05T09:34:00.000Z	FFForever	chowder	how do i ask one of them?, other computers don't give an ssl error but ubuntu does :(
+2009-11-05T09:34:00.000Z	chowder	FFForever	I was being sarcastic. I think if you were to ask a dev "why don't you put this feature in by default" you'd get yelled at
+2009-11-05T09:37:00.000Z	FFForever	chowder	then how can i get comodo included by default?, it is a valid ssl vendor and lots of sites use them
+2009-11-05T09:37:00.000Z	chowder	FFForever	it sounds like you're going to have to set it up yourself. If you know enough to use ssl then setting it up shouldn't be an issue.

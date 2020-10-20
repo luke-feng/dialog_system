@@ -1,0 +1,6 @@
+2005-10-15T16:42:00.000Z	n0odl3		i need help with playing "restricted formats"
+2005-10-15T16:42:00.000Z	n0odl3		i went to the page and followed the instructions but for some reason i still cant play mpegs
+2005-10-15T16:43:00.000Z	n0odl3		i followed the instructions but it still does not work
+2005-10-15T16:44:00.000Z	n0odl3		everytime i run the "apt-get isntall totem-xine gstreamer0.8..." command i get that the package is unavailable
+2005-10-15T16:45:00.000Z	n0odl3		does anyone know whats wrong?
+2005-10-15T16:45:00.000Z	Se7h	n0odl3	use synaptic

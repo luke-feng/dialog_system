@@ -1,0 +1,6 @@
+2011-08-16T19:23:00.000Z	Angelous		Hello, I was wondering if it's possible to put in the motd Hello, blah. Today is "datehere".
+2011-08-16T19:23:00.000Z	Angelous		What would the synatx be then, ikonia? I'm no bash expert, or anything.
+2011-08-16T19:24:00.000Z	Angelous		No, ikonia. What I'm wondering if how I would integrate it into the file.
+2011-08-16T19:26:00.000Z	Angelous		No, ikonia. What I'm wondering if how I would integrate it into the file.
+2011-08-16T19:26:00.000Z	trism	Angelous	add a script to /etc/update-motd.d/ that uses echo and date as ikonia suggested
+2011-08-16T19:27:00.000Z	trism	Angelous	except without the redirect, so: #!/bin/sh then on the following line echo "Today's date is `date`"

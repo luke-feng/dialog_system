@@ -1,0 +1,6 @@
+2010-10-02T16:52:00.000Z	radiomark		Hmmm. I have to admit defeat on this... I downloaded usb-creator.tar.gz, but all I get is some big python app. Isn't there a simple shell script (or similar) at its core which converts .iso to a USB image?
+2010-10-02T16:53:00.000Z	Dulak	radiomark	unetbootin can convert just about any iso to a flash drive
+2010-10-02T16:53:00.000Z	radiomark	Dulak	unetbootin is a Windows app? Unfortunately I am on Linux, or OpenBSD
+2010-10-02T16:54:00.000Z	Dulak	radiomark	it's a linux app
+2010-10-02T16:54:00.000Z	Dulak	radiomark	there is a windows version as well iirc
+2010-10-02T17:01:00.000Z	radiomark	Dulak	Thanks, I found the Linux version. But it is a GUI app with lots of dependencies which are not available to me

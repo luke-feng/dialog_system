@@ -1,0 +1,6 @@
+2007-06-12T08:23:00.000Z	Flashq009		I am having trouble accessing shared folders on Ubuntu from windows.  It asks for username and password when access share on Ubuntu from windows, but I did not set one, what do I need to do?
+2007-06-12T08:23:00.000Z	qual	Flashq009	you must set one
+2007-06-12T08:23:00.000Z	Flashq009		where?
+2007-06-12T08:23:00.000Z	Flashq009		and how?
+2007-06-12T08:23:00.000Z	qual	Flashq009	make a samba user i believe
+2007-06-12T08:25:00.000Z	Flashq009	qual	 Where do I create it a samba user?

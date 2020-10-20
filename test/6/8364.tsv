@@ -1,0 +1,6 @@
+2012-11-16T21:54:00.000Z	BlackH3Ar7		hello my nvidia property drivers for 550 ti crashed unity
+2012-11-16T21:55:00.000Z	BlackH3Ar7		hey how can i revert back to opensource drivers with terminal
+2012-11-16T21:57:00.000Z	BlackH3Ar7		@ ubuntuhelp _ : u can use LinuxLive USB Creator for windows its very useful
+2012-11-16T21:58:00.000Z	BlackH3Ar7		how can i revert back to nouveau with terminal
+2012-11-16T22:00:00.000Z	zykotick9	BlackH3Ar7	more /etc/X11/xorg.conf to xorg.conf.disabled, then restart Xorg "might" revert to nouveau
+2012-11-16T22:00:00.000Z	zykotick9	BlackH3Ar7	s/more/move/

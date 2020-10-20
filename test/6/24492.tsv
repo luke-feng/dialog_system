@@ -1,0 +1,6 @@
+2011-03-13T19:10:00.000Z	nahuel_		I'm trying to help a friend who was playing with his brand new ubuntu laptop and the desktop stopped working, you end up with just a background image, and nothing else, can access console, he thinks it was the last thing he installed, but doesn't know what it was, and doesn't care if the box needs to be taken back to just-installed condition
+2011-03-13T19:11:00.000Z	nahuel_		is there an easy way to remove everything but fresh-install packages?
+2011-03-13T19:11:00.000Z	Dr_Willis	nahuel_	 you mean revert back to a clean installd system?
+2011-03-13T19:12:00.000Z	nahuel_	Dr_Willis	yes, that I mean
+2011-03-13T19:12:00.000Z	nahuel_	Dr_Willis	without actually reinstalling, of course
+2011-03-13T19:13:00.000Z	Dr_Willis	nahuel_	 not seen a easy way to do it.. proberly doable. but it would be faster to reinstall.

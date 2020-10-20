@@ -1,0 +1,6 @@
+2010-08-16T06:33:00.000Z	linux-dj		hi guys thanks for the awesome 10.04 i can finnally leave windows for good
+2010-08-16T06:35:00.000Z	linux-dj		has ubuntu got a package yet to make me coffee in the morning
+2010-08-16T06:35:00.000Z	linux-dj		lol
+2010-08-16T06:37:00.000Z	linux-dj		why dosent sudo make me coffee work
+2010-08-16T06:38:00.000Z	linux-dj		maybe its sudo apg-get coffee
+2010-08-16T06:39:00.000Z	Jordan_U	linux-dj	sudo only helps with *local* permissions issues, it can't help you if you need to controll a remote person/machine. Unfortunately your local machine appears to be too lazy to make coffe on its own :)

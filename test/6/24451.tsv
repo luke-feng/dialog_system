@@ -1,0 +1,6 @@
+2010-02-09T00:09:00.000Z	k4rt33k_		Hey
+2010-02-09T00:10:00.000Z	k4rt33k_		I am unable to send messages on a channel on freenode. It says cannot send message.Any idea why?
+2010-02-09T00:10:00.000Z	Myrtti	k4rt33k_	because you're not registered/identified?
+2010-02-09T00:11:00.000Z	k4rt33k_	Myrtti	How do I register myself
+2010-02-09T13:47:00.000Z	k4rt33k_	Myrtti	How to have an identification script in the beginning. I mean I don't wanna send nickserv my password everytime. Is there a way to do it in a script?
+2010-02-09T13:48:00.000Z	Myrtti	k4rt33k_	I just use the server password field.

@@ -1,0 +1,6 @@
+2005-08-23T08:57:00.000Z	francis		please help !!! how do i disable the lines that follow when windows r minimized in ubuntu 5.04
+2005-08-23T08:59:00.000Z	francis		please help !!! how do i disable the lines that follow when windows r minimized in ubuntu 5.04
+2005-08-23T08:59:00.000Z	Seveas	francis	Set the gconf key /apps/metacity/general/reduced_resources to true with gconf-editor
+2005-08-23T08:59:00.000Z	Seveas		!helpme
+2005-08-23T08:59:00.000Z	Seveas		^-- kissmemore
+2005-08-23T09:00:00.000Z	francis	Seveas	let me try that

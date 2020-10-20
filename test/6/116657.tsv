@@ -1,0 +1,6 @@
+2006-10-12T10:13:00.000Z	Shaezsche		i accidently delted my xorg.conf how can i generate a new one??
+2006-10-12T10:13:00.000Z	defrysk	Shaezsche	sudo dpkg-reconfigure xserver-xorg
+2006-10-12T10:14:00.000Z	defrysk	Shaezsche	also stop playing ;)
+2006-10-12T10:14:00.000Z	Shaezsche		playing?
+2006-10-12T10:14:00.000Z	Shaezsche	defrysk	what?
+2006-10-12T10:15:00.000Z	defrysk	Shaezsche	like deleting files like xor.conf

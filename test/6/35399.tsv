@@ -1,0 +1,6 @@
+2009-11-19T20:33:00.000Z	rubydiamond		hi .. I had removed libMagickCore.so.2 in /usr/lib...
+2009-11-19T20:33:00.000Z	rubydiamond		now how do I install it again
+2009-11-19T20:33:00.000Z	rubydiamond		I had installed imagemagick from apt
+2009-11-19T20:33:00.000Z	om26er	rubydiamond	sudo apt-get --reinstall install imagemagick
+2009-11-19T20:34:00.000Z	rubydiamond	om26er	hey .. I had also installed imagemagick from source but I removed it using sudo make uninstall .. how do I make sure it's files are completely removed
+2009-11-19T20:35:00.000Z	om26er	rubydiamond	sorry. never played with compilation

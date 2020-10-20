@@ -1,0 +1,6 @@
+2009-10-07T23:49:00.000Z	jason_froebe		Bilge - yes
+2009-10-07T23:50:00.000Z	jason_froebe		dragon - they're in love ;-)
+2009-10-07T23:52:00.000Z	jason_froebe		Bilge - take a look at http://www.control-escape.com/linux/lilo-cfg.html
+2009-10-07T23:53:00.000Z	jason_froebe		Bilge - every time you make a change to the lilo.conf file, you need to build the lilo boot image.  "lilo" iirc
+2009-10-07T23:54:00.000Z	llutz	jason_froebe	no need for sudo
+2009-10-07T23:55:00.000Z	jason_froebe	llutz	- true... just habit :)

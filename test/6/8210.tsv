@@ -1,0 +1,6 @@
+2012-09-21T02:05:00.000Z	black_		weird, in 10.04 probox 4 bay encosure works fine, 12.04 is dead
+2012-09-21T02:06:00.000Z	black_		none i can find
+2012-09-21T02:07:00.000Z	black_		i wouldnt waste a CD on Suse, mandrake or puppy
+2012-09-21T02:08:00.000Z	black_		i dont even know if ubuntu 12.04 supports my eSATA cord.
+2012-09-21T02:08:00.000Z	black_		card*
+2012-09-21T02:10:00.000Z	zykotick9	black_	fyi, my esata cable is NOT hot pluggable - meaning i have to reboot for it to appear (fyi it usually appears as sda, in my case).  A FEW motherboards support eSATA hotplugging, i get the impression most do not :(  best of luck.

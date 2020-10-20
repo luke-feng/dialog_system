@@ -1,0 +1,6 @@
+2007-10-20T16:39:00.000Z	folkert		Hi, WMV video playback is choppy. Any ideas what's wrong???
+2007-10-20T16:39:00.000Z	folkert		no
+2007-10-20T16:40:00.000Z	folkert		I have 64 bit AMD 4000+
+2007-10-20T16:40:00.000Z	folkert		512mb DDR
+2007-10-20T16:41:00.000Z	folkert		xfx NVIDA 5500 fx
+2007-10-20T16:41:00.000Z	IntuitiveNipple	folkert	check memory usage. With only 512MB RAM it is likely having to use the swap-file alot

@@ -1,0 +1,6 @@
+2012-07-12T06:41:00.000Z	pals0007		found the file modules and this is all thats there "# /etc/modules: kernel modules to load at boot time.
+2012-07-12T06:41:00.000Z	pals0007		#
+2012-07-12T06:41:00.000Z	pals0007		# This file contains the names of kernel modules that should be loaded
+2012-07-12T06:41:00.000Z	pals0007		# at boot time, one per line. Lines beginning with "#" are ignored.
+2012-07-12T06:41:00.000Z	pals0007		lp
+2012-07-12T06:41:00.000Z	FloodBot1	pals0007	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

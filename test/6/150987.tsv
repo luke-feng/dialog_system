@@ -1,0 +1,6 @@
+2007-07-12T16:04:00.000Z	Spaceman3750		Something I noticed...  A lot of the programs in the repository start with the letter K...
+2007-07-12T16:05:00.000Z	Spaceman3750		:P
+2007-07-12T16:05:00.000Z	Spaceman3750		Dude, it's Linux...  Anything that doesn't have a UI is difficult :P
+2007-07-12T16:05:00.000Z	astro76	Spaceman3750	sadly most kde programs start with k
+2007-07-12T16:37:00.000Z	astro76	Spaceman3750	suspend is to ram, hibernate saves ram to disk
+2007-07-12T16:37:00.000Z	astro76	Spaceman3750	in linux you need a swap partition >= your ram size to use it

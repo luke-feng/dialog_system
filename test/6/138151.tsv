@@ -1,0 +1,6 @@
+2006-10-11T15:18:00.000Z	black_13		is the correct place to ask question about kubuntu?
+2006-10-11T15:18:00.000Z	black_13		would the correct way to install mc be apt-get install mc?
+2006-10-11T15:19:00.000Z	black_13		because im trying that and "E: Couldn't find package mc"
+2006-10-11T15:20:00.000Z	Flannel	black_13	believe midnight commander is in universe
+2006-10-11T15:20:00.000Z	black_13	ladydoor	let me see
+2006-10-11T15:20:00.000Z	Flannel	black_13	you need universe enabled

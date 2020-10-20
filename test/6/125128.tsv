@@ -1,0 +1,6 @@
+2006-02-23T17:54:00.000Z	OmegaAlpha		whats the search command was it "apt-cache search <nametosearchfor>"?
+2006-02-23T17:55:00.000Z	mateon	OmegaAlpha	erm, don't understand your question. what do you want to serach fir?
+2006-02-23T17:55:00.000Z	OmegaAlpha	mateon	wine utilities i think its called wineutil
+2006-02-23T17:56:00.000Z	mateon	OmegaAlpha	hrm, so what's wrong with apt-cache search ?
+2006-02-23T17:56:00.000Z	OmegaAlpha		doesnt work
+2006-02-23T17:56:00.000Z	OmegaAlpha	mateon	i was just asking for a verify to make sure the syntax was right

@@ -1,0 +1,6 @@
+2009-06-07T12:26:00.000Z	grek		hm i try
+2009-06-07T12:26:00.000Z	grek		sudo make install
+2009-06-07T12:26:00.000Z	grek		 cd . && /bin/sh /home/staff/Download/test/xf86-video-sis-imedia.failed/missing --run automake-1.10 --foreign
+2009-06-07T12:26:00.000Z	grek		/bin/sh: Can't open /home/staff/Download/test/xf86-video-sis-imedia.failed/missing
+2009-06-07T12:26:00.000Z	grek		make: *** [Makefile.in] Błąd 1
+2009-06-07T12:26:00.000Z	FloodBot1	grek	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

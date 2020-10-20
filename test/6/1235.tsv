@@ -1,0 +1,6 @@
+2012-09-04T07:29:00.000Z	gufran		hi there, I am having a strange problem on toshiba satellite while trying to upgrade the RAM. this is just bizzare. I lose about all of the hardware when new RAM stick is in place, but everything works perfectly with only the old RAM stick in place
+2012-09-04T07:30:00.000Z	ActionParsnip	gufran	I suggest you ask in ##hardware
+2012-09-04T07:32:00.000Z	gufran	ActionParsnip	Hey, thanks. I'll definitely ask it in there but honestly, it doesnt seems like a hardware issue because RAM stick works perfectly on other laptop and no other stick works on this satellite machine.
+2012-09-04T07:33:00.000Z	ActionParsnip	gufran	I sugest you test the RAM in the intended system using the memtest86+ option in Grub
+2012-09-04T07:34:00.000Z	gufran	ActionParsnip	That is a brilliant idea. could you please advise me on memtest86+ ? I have no experience with it.
+2012-09-04T07:36:00.000Z	gufran	ActionParsnip	By the way, here is my issue in detail http://superuser.com/questions/469677/upgrading-ram-on-ubuntu-12-04-caused-major-hardware-failure if you dont mind looking into it

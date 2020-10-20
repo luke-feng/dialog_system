@@ -1,0 +1,6 @@
+2008-07-02T20:38:00.000Z	ideasman-42		Hi, Im interested in testing a beta driver from nvidia, but when installing it complains that it cant find the kernel source
+2008-07-02T20:39:00.000Z	ideasman-42		specifically include/linux/version.h
+2008-07-02T20:39:00.000Z	ideasman-42		how can I get the kernel source on ubuntu hardy, all howto's just talk about getting the nonfree package
+2008-07-02T20:40:00.000Z	Jack_Sparrow	ideasman-42	sudo apt-get install build-essential linux-headers-`uname -r`
+2008-07-02T20:43:00.000Z	ideasman-42	Jack_Sparrow	thanks, testing now
+2008-07-02T20:43:00.000Z	Jack_Sparrow	ideasman-42	k

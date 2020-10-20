@@ -1,0 +1,6 @@
+2012-03-28T08:38:00.000Z	Braden`		I am trying to add a second IP.  Only one physical network card.  Is there a guide on how to do that?
+2012-03-28T08:39:00.000Z	Braden`		The moderation system in here is severely defective.  Someone should stay opped and just issue bans instead of having users flood the channel with ban requests.
+2012-03-28T08:40:00.000Z	elky	Braden`	you're welcome to pay us salary to give up our paid jobs to do that.
+2012-03-28T08:41:00.000Z	Braden`	elky	 Try banning the entire domain for that user and also auto-ban any TOR nodes.
+2012-03-28T08:41:00.000Z	elky	Braden`	a whole isp, before i check if it's going to ban a heap of other people?
+2012-03-28T08:41:00.000Z	Braden`	elky	 Use /who to determine the scope the ban will have

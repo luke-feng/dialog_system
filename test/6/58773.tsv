@@ -1,0 +1,6 @@
+2008-12-25T05:22:00.000Z	FrozenFire		Does anyone have a general idea as to what sort of throughput I should receive downloading from the University of Waterloo mirror? I'm getting ~20KB/s and I think I should be getting more. It might be a network issue, but since I cannot manually select a mirror, I cannot test other servers.
+2008-12-25T05:23:00.000Z	firefly2442	FrozenFire	you might try Bittorrent, speed should be fast from that
+2008-12-25T05:23:00.000Z	FrozenFire	firefly2442	I'm installing via Wubi.
+2008-12-25T05:23:00.000Z	FrozenFire		And bittorrent won't help when downloading packages from a repository.
+2008-12-25T05:23:00.000Z	firefly2442	FrozenFire	ahh nevermind, I misunderstood
+2008-12-25T05:23:00.000Z	FrozenFire	firefly2442	Understanding misunderstanding ;)

@@ -1,0 +1,6 @@
+2010-04-28T21:06:00.000Z	_blackwater_		edgey vlc has capabilities to enlist hardware acceleration of your ati card if the driver allows it.
+2010-04-28T21:07:00.000Z	EdgEy	_blackwater_	is there something I have to enable?
+2010-04-28T21:12:00.000Z	EdgEy	_blackwater_	hmm, do you know if there is any multi-threaded h.264 codec I can get somewhere maybe then? I don't think I even need hardware accel, just it's only using one core anyway
+2010-04-28T21:15:00.000Z	EdgEy	_blackwater_	I'm not sure, do I need to install proprietary drivers seperately?
+2010-04-28T21:20:00.000Z	EdgEy	_blackwater_	http://ubuntu.pastebin.com/J88FiSah
+2010-04-28T21:23:00.000Z	EdgEy	_blackwater_	I assumed so, thanks

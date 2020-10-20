@@ -1,0 +1,6 @@
+2010-04-04T22:44:00.000Z	tonii		quick question: newly installed system, and doing an upgrade for packages and system seems to have been cought in a loop while trying to reload AppArmor profiles. Is it safe to cancel and restart the upgrade process?
+2010-04-04T22:45:00.000Z	geekphreak	tonii	wait
+2010-04-04T22:45:00.000Z	tonii	geekphreak	it's an old PIII 733Mhz, but i've been waiting for about 10 minutes now :P
+2010-04-04T22:46:00.000Z	geekphreak	tonii	then wait some more :p
+2010-04-04T22:46:00.000Z	tonii		bah :D
+2010-04-04T22:46:00.000Z	tonii	geekphreak	apparmor_parser is using 60% CPU constantly, and gdm-simple-gree is using some 30%

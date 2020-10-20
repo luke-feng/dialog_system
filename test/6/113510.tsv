@@ -1,0 +1,6 @@
+2011-04-02T07:14:00.000Z	Jeruvy	truepurple	 are you on qwest?
+2011-04-02T07:16:00.000Z	Jeruvy	truepurple	then that may be a valid nameserver for you
+2011-04-02T07:17:00.000Z	Jeruvy	truepurple	to remove that nameserver
+2011-04-02T07:17:00.000Z	Jeruvy	truepurple	not everyone uses DNS local or on their network.  You could choose to use OpenDNS for example.
+2011-04-02T07:19:00.000Z	Jeruvy	truepurple	DNS is how you resolve IP addresses to names.  Who you choose is a highly debatable subject
+2011-04-02T07:22:00.000Z	Jeruvy	truepurple	not all DNS is equal.  I'm not sure what else I can tell you .  This is a bit OT for #ubuntu

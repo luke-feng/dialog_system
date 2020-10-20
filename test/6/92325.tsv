@@ -1,0 +1,6 @@
+2007-03-09T13:16:00.000Z	Gonzi		hi
+2007-03-09T13:17:00.000Z	Gonzi		someone know, how to do a recursive chmod in a ftp by commandline ?
+2007-03-09T13:17:00.000Z	Gonzi		gftp dont do a recursive :(
+2007-03-09T13:17:00.000Z	tuskernini	Gonzi	do you use ftp or lftp
+2007-03-09T13:17:00.000Z	Gonzi		Just access via ftp
+2007-03-09T13:18:00.000Z	Gonzi	tuskernini	i use "ftp"

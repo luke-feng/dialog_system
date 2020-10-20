@@ -1,0 +1,6 @@
+2007-02-26T10:29:00.000Z	MybEvil_		How do I install plugins on Firefox, for watching videos on the internet?
+2007-02-26T10:29:00.000Z	bruenig	MybEvil_	flash videos or other
+2007-02-26T10:30:00.000Z	bruenig	MybEvil_	sudo apt-get install mozilla-mplayer
+2007-02-26T10:31:00.000Z	bruenig	MybEvil_	yeah that firefox is locked, sudo apt-get install mozilla-mplayer
+2007-02-26T10:36:00.000Z	bruenig	MybEvil_	what is the file extension on it
+2007-02-26T10:37:00.000Z	bruenig	MybEvil_	you need to install mozilla-mplayer and w32codecs

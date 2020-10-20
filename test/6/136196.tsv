@@ -1,0 +1,6 @@
+2006-07-28T15:19:00.000Z	FusionXN1		ANyway to stop the drives showing on the desktop/
+2006-07-28T15:19:00.000Z	FusionXN1		jack how
+2006-07-28T15:19:00.000Z	ardchoille	FusionXN1	Which drives? Mounted drives?
+2006-07-28T15:20:00.000Z	ardchoille	FusionXN1	Open gconf-editor and go to apps/nautilus/desktop
+2006-07-29T06:56:00.000Z	ardchoille	FusionXN1	I believe the nv driver is for 2d and nvidia is for 3d
+2006-07-29T07:09:00.000Z	ardchoille	FusionXN1	And it's very fast paced.

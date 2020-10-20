@@ -1,0 +1,6 @@
+2011-02-13T00:44:00.000Z	anurup		nagel
+2011-02-13T00:44:00.000Z	anurup		i'm back
+2011-02-13T00:44:00.000Z	anurup		sorry
+2011-02-13T00:44:00.000Z	anurup		but it was an emergency
+2011-02-13T00:45:00.000Z	ohsix	anurup	i hope you file a bug if you track your problem to the kernel mouse/touchpad support
+2011-02-13T00:46:00.000Z	ohsix	anurup	there are properties X can use on an input device to disable input; chances are the problem is there, rather than in the driver; the driver would complain in dmesg if it had a problem on that order

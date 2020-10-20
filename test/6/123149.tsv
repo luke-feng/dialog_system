@@ -1,0 +1,6 @@
+2008-09-15T03:07:00.000Z	wizzer		how can i change the permissions on the /var/www folder so i can put files in it
+2008-09-15T03:08:00.000Z	wizzer		ah
+2008-09-15T03:08:00.000Z	wizzer		ok thanks
+2008-09-15T03:08:00.000Z	wizzer		wat
+2008-09-15T03:08:00.000Z	Scunizi	wizzer	if you're just copying files use the cp command with sudo.. like.. sudo cp /location/file /newlocation/file
+2008-09-15T03:09:00.000Z	Scunizi	wizzer	Flannel also had a great suggestion.. that way you can probably drag and drop

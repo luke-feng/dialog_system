@@ -1,0 +1,6 @@
+2008-04-29T12:57:00.000Z	vsayikiran		has anyone upgraded ubuntu gutsy to hardy using aptitude tool please reply
+2008-04-29T12:57:00.000Z	zcat[1]	vsayikiran	yes. Don't do it, it's painful :)
+2008-04-29T12:59:00.000Z	vsayikiran	zcat[1]	what problems will i face?
+2008-04-29T13:01:00.000Z	vsayikiran	zcat[1]	what problems did you face when you upgraded using aptitude
+2008-04-29T13:02:00.000Z	zcat[1]	vsayikiran	it takes ages and asks a number of times about replacing config files. Possibly easier to backup home and do a clean install I think..
+2008-04-29T13:04:00.000Z	zcat[1]	vsayikiran	only a minimal server install, no desktop.. not sure if the difference was because it was LTS -> LTS or just because I had very little installed

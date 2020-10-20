@@ -1,0 +1,6 @@
+2006-07-07T06:59:00.000Z	definity		hey
+2006-07-07T07:00:00.000Z	definity		/etc/kismetcan some one tell me how to install kernal souces so i can get my wireless card working
+2006-07-07T07:02:00.000Z	definity		DOES ANYONE KNOW WHERE I CAN GET KERNAL SOUCES?
+2006-07-07T07:02:00.000Z	definity		whoops
+2006-07-07T07:02:00.000Z	funkmaster	definity	checked in synaptic yet?
+2006-07-07T07:03:00.000Z	funkmaster	definity	u need the ones for ur kernel uname -r

@@ -1,0 +1,6 @@
+2006-03-28T14:35:00.000Z	Paedrigh		I've installed support for mp3 in Rythmbox (gstreamer 0.8 mad), and still it doesn't read mp3. Anyone?
+2006-03-28T14:35:00.000Z	LinuxJones	Paedrigh	you running dapper ?
+2006-03-28T14:35:00.000Z	Paedrigh	LinuxJones	yup, Dapper it is
+2006-03-28T14:36:00.000Z	LinuxJones	Paedrigh	the filename changed you need to install the gstreamer-ugly package (can't remember exactly it's name)
+2006-03-28T14:37:00.000Z	Paedrigh	LinuxJones	I just did that, I installed both the ugly and the bad package, and still no go. Should I uninstall the 0.8 version?
+2006-03-28T14:38:00.000Z	LinuxJones	Paedrigh	you can try

@@ -1,0 +1,6 @@
+2007-04-10T05:40:00.000Z	Absolute0		i just ran sudo /dev/hda and created a hda3 partition but its not showing up in /dev ...
+2007-04-10T05:40:00.000Z	Absolute0		anyways i can refresh /dev ?
+2007-04-10T05:42:00.000Z	Absolute0		?
+2007-04-10T05:42:00.000Z	Absolute0		i just ran sudo /dev/hda and created a hda3 partition but its not showing up in /dev ...
+2007-04-10T05:42:00.000Z	Absolute0		so i cant do makefs on /dev/hda3
+2007-04-10T05:43:00.000Z	h3xis	Absolute0	restart udev

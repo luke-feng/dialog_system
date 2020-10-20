@@ -1,0 +1,6 @@
+2004-11-20T16:59:00.000Z	ygnome		heh. the faq has a 'upgrade from sarge' section, no guarantees, feedback wanted... I don't think so...
+2004-11-20T17:00:00.000Z	ondrej	ygnome	I did upgrade from sarge
+2004-11-20T17:00:00.000Z	ygnome	ondrej	hmm. how did it work out?
+2004-11-20T17:00:00.000Z	ondrej		but I think it's simpler to backup your data and then reinstall, you will have fresh clean system afterwards
+2004-11-20T17:01:00.000Z	ondrej	ygnome	pretty good, but you have to know bit about apt-preferences and so...
+2004-11-20T17:02:00.000Z	ondrej	ygnome	I did apt-get dist-upgrade and then something like apt-get install `dpkg --get-selections | cut -f 1 | xargs -i echo {}/warty`

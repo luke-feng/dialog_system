@@ -1,0 +1,6 @@
+2008-07-29T02:41:00.000Z	Nocturrrnal		Hi. I just installed Ubuntu, then installed all updates (rebooted), then installed the restricted fglrx driver (through the hardware setup applet, nothing in console). Now when I boot Ubuntu, I get the login prompt as normal, but after logging in my screen turns completely white. Ctrl-alt-backspace and Ctrl-alt-F1 work fine. What can I do?
+2008-07-29T02:42:00.000Z	IndyGunFreak	Nocturrrnal	i think you have to kill compiz.. just another reason ATI sucks.
+2008-07-29T02:42:00.000Z	IndyGunFreak		!wsod
+2008-07-29T02:42:00.000Z	Nocturrrnal	IndyGunFreak	I never activated compiz in the first place...
+2008-07-29T02:42:00.000Z	IndyGunFreak	Nocturrrnal	i believe its on by default.
+2008-07-29T02:51:00.000Z	Nocturrrnal	IndyGunFreak	I also get the following in my Xorg.0.log. Maybe it is related? http://paste.ubuntu.com/31478/

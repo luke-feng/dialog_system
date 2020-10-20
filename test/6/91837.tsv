@@ -1,0 +1,6 @@
+2007-03-16T16:25:00.000Z	traizor		hello - what is a good way to monitor who is logging into my server (ftp and ssh)? logfiles are a bit clumsy
+2007-03-16T16:26:00.000Z	Xenguy	traizor	try this: lsof -i
+2007-03-16T16:27:00.000Z	traizor	Xenguy	i mean each time when someone enters the SSH, i want to be notified (like an email)
+2007-03-16T16:28:00.000Z	Xenguy	traizor	hrm, that might be more tricky... I'm not sure offhand, but doubtless it could be scripted somehow if need be
+2007-03-16T16:29:00.000Z	Xenguy		!enter
+2007-03-16T16:30:00.000Z	traizor	Xenguy	okay, do you know any general admin tools for monitoring services? maybe there's something i could use

@@ -1,0 +1,6 @@
+2006-07-06T10:55:00.000Z	Crescendo		Getting a hard link count is wrong for /proc/9364 error... bug in my filesystem driver, when running a find comman... what is the problem here and how do I fix it?
+2006-07-06T10:57:00.000Z	Crescendo		Should I run fsck -p
+2006-07-06T10:58:00.000Z	Crescendo		It's all like, WARNING!  YOU SHOULD NOT RUN ON A MOUNTED FILESYSTEM!  THIS CAN CAUSE *SERIOUS* DAMAGE!
+2006-07-06T10:58:00.000Z	Crescendo		And I'm like... NOOOOO!
+2006-07-06T10:58:00.000Z	Crescendo		.rpms do not work with UBUNTU.
+2006-07-06T10:59:00.000Z	void^	Crescendo	don't run find on /proc ;)

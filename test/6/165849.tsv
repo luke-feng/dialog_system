@@ -1,0 +1,6 @@
+2006-05-20T05:36:00.000Z	James296		can anyone here help me out and tell me how to install Ubuntu using a wireless internet connection through a wireless router?
+2006-05-20T05:37:00.000Z	James296		no it is not
+2006-05-20T05:37:00.000Z	James296		its a Linksys Wireless G
+2006-05-20T05:37:00.000Z	James296		card
+2006-05-20T05:38:00.000Z	James296		it doesnt detect the wireless router
+2006-05-20T05:38:00.000Z	sladen	James296	sudo iwlist eth1 scan

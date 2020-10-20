@@ -1,0 +1,6 @@
+2005-09-09T07:26:00.000Z	Mobus		How do I override the function if rmdir that doesn't allow me to delete a folder when it isn't empty?
+2005-09-09T07:26:00.000Z	Mobus		Disase: Es ist Ich Sreche KEine Deutsche
+2005-09-09T07:27:00.000Z	Mobus		how can I delete a folder that has 250 items in it without deleting each one one by one?
+2005-09-09T07:28:00.000Z	disasm	Mobus	rm -rf folder/
+2005-09-09T07:28:00.000Z	disasm	Mobus	be very careful with that command
+2005-09-09T07:52:00.000Z	disasm	Mobus	chmod -R

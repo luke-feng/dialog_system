@@ -1,0 +1,6 @@
+2011-05-10T01:37:00.000Z	Guest97144		i get this when i run sudo gedit (gedit:9179): Gtk-WARNING **: cannot open display: :0.0
+2011-05-10T01:38:00.000Z	iceroot	Guest97144	gksudo gedit  (are you running it via ssh?)
+2011-05-10T01:39:00.000Z	iceroot	Guest97144	gksudo gedit
+2011-05-10T01:42:00.000Z	Guest97144	iceroot	 i get this when i gksudo gedit     Error copying '/var/run/gdm/auth-for-david-weA3sY/database' to '/tmp/libgksu-Uc5
+2011-05-10T01:43:00.000Z	iceroot	Guest97144	is that a normal ubuntu system? or chroot, ssh, live-cd?
+2011-05-10T01:44:00.000Z	iceroot	Guest97144	is /tmp writeable mounted? disc full?

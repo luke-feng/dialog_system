@@ -1,0 +1,6 @@
+2011-07-09T21:03:00.000Z	oconnore		hi, can someone help me save my system? I did something stupid, and now my libstdc++ is unusable, which means that I don't have dpkg, apt, apt-get or aptitude.
+2011-07-09T21:03:00.000Z	oconnore		thus no way to fix it
+2011-07-09T21:03:00.000Z	oconnore		er... no easy way
+2011-07-09T21:05:00.000Z	oconnore		but ok
+2011-07-09T21:06:00.000Z	minimec	oconnore	YOu could try to recover with a LIve CD in a chroot environment.
+2011-07-09T21:06:00.000Z	oconnore	minimec	thanks, I guess I will play around for another few minutes and then take ikonia's advice if i haven't got anywhere

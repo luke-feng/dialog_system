@@ -1,0 +1,6 @@
+2009-10-11T23:40:00.000Z	danger_		hello quick quesion, my NAS drive gets mounted to ~/.gvfs but when I sudo -i and try to access that it, it gives me permission denied anyone know why this is?
+2009-10-11T23:40:00.000Z	grawity	danger_	~/.gvfs is a FUSE mountpoint, and FUSE doesn't allow access to anyone else.
+2009-10-11T23:41:00.000Z	grawity	danger_	How exactly is it mounted - SMB, SSH, WebDAV?
+2009-10-11T23:41:00.000Z	grawity	danger_	SMB then. Try using mount.cifs instead of GVFS.
+2009-10-11T23:43:00.000Z	grawity	danger_	mount.cifs //host/sharename /mnt -o user=joe,file_mode=0666,dir_mode=0777,iocharset=utf8 - this is what I usually use.
+2009-10-11T23:55:00.000Z	danger_	grawity	just a quick thanks with the windows mount stuff very helpful thankyou it worked perfectly

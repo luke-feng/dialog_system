@@ -1,0 +1,6 @@
+2007-10-21T08:51:00.000Z	Name141		how do you fix the C compiler not being able to make executables ?
+2007-10-21T08:52:00.000Z	jimmygoon	Name141	What are you talking about?
+2007-10-21T08:52:00.000Z	Name141	jimmygoon	configure: error: C compiler cannot create executables
+2007-10-21T08:53:00.000Z	jimmygoon	Name141	try "sudo apt-get install build-essential"
+2007-10-21T08:53:00.000Z	Name141		Doesn't look like it
+2007-10-21T08:53:00.000Z	jimmygoon	Name141	instal it

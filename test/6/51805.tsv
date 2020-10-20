@@ -1,0 +1,6 @@
+2008-08-30T17:07:00.000Z	dave1222		quick question about madwifi. Do I have to uninstall a previous version before installing a new version?
+2008-08-30T17:09:00.000Z	LSD|Ninja	dave1222	Let me guess, you have an n-capable Atheros chip and can't get it working under Hardy?
+2008-08-30T17:11:00.000Z	dave1222	LSD|Ninja	that's correct
+2008-08-30T17:11:00.000Z	LSD|Ninja	dave1222	you probably want ath9k but that's not in Hardy yet. Hang on, I'll dig up a link
+2008-08-30T17:12:00.000Z	LSD|Ninja	dave1222	http://ubuntuforums.org/showthread.php?t=883731 <- try that
+2008-08-30T17:12:00.000Z	dave1222	LSD|Ninja	thx I'll try that

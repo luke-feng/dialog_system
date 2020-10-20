@@ -1,0 +1,6 @@
+2012-08-16T17:01:00.000Z	bieb		how do I check in apt-get to see if a package is available without installing it?
+2012-08-16T17:02:00.000Z	lotuspsychje	bieb	use apt-cache search packagename
+2012-08-16T17:03:00.000Z	lotuspsychje	bieb	or !info packagename in channel here
+2012-08-16T17:03:00.000Z	bieb	lotuspsychje	thanks.. can I use a wild card to see what packages with the same name exist? ie java* would that give me java_5.0, java_6.0 etc?
+2012-08-16T17:04:00.000Z	lotuspsychje	bieb	it will show all kinda packagenames revelant to your search
+2012-08-16T17:04:00.000Z	bieb	lotuspsychje	thanks!

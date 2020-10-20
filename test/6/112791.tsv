@@ -1,0 +1,6 @@
+2007-09-30T13:38:00.000Z	fliegenderfrosch	Vuen	ok thanks
+2007-09-30T13:35:00.000Z	fliegenderfrosch	Vuen	any reason why texlive? (i always use tetex, but for no specific reason)
+2007-09-30T13:36:00.000Z	Vuen	fliegenderfrosch	tetex is older, it's not being really maintained anymore afaik
+2007-09-30T13:36:00.000Z	Vuen	fliegenderfrosch	it's being obsoleted by texlive
+2007-09-30T13:36:00.000Z	fliegenderfrosch	Vuen	ok thanks, in that case i'll use texlive for any further installations
+2007-09-30T13:37:00.000Z	Vuen	fliegenderfrosch	yeah, if you already have tetex it's fine, but you may come across a package eventually that isn't supported by tetex. as far as i know it's being phased out in favor of texlive in all linux distributions.

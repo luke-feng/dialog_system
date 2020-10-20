@@ -1,0 +1,6 @@
+2007-09-15T14:03:00.000Z	onats		is there anyway to upgrade to gutsy gibbon when im booted using feisty?
+2007-09-15T14:04:00.000Z	Creed	onats	add the gutsy repos and do apt-get dist-upgrade I believe
+2007-09-15T14:04:00.000Z	onats	Creed	ok thanks, will look up the repos!
+2007-09-15T14:05:00.000Z	Creed	onats	you can even mount the gutsy CD ISO (or stick the cd into your drive) and just dist-upgrade, no need to add repos :)
+2007-09-15T14:11:00.000Z	onats	Creed	do you know the repo?
+2007-09-15T14:12:00.000Z	Creed	onats	sorry, I do not :( I just use the ISO (14MBps connection).

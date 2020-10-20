@@ -1,0 +1,6 @@
+2007-03-22T06:21:00.000Z	r4nge		where does the line... "Linux host 2.6.17-10-server #2 SMP Fri Oct 13 18:47:26 UTC 2006 i686" come from when logging in remotely?  i didnt put that line in /etc/motd
+2007-03-22T06:22:00.000Z	gouki	r4nge	/etc/issue?
+2007-03-22T06:23:00.000Z	r4nge	gouki	i dont think so, because no matter what i put in /etc/issue it doesnt effect remote connection, and /etc/issue.net doesnt stop that line from printing
+2007-03-22T06:25:00.000Z	gouki	r4nge	are you using Etch?
+2007-03-22T06:29:00.000Z	r4nge	gouki	found it, was in bootmisc.sh in /etc/init.d
+2007-03-22T06:30:00.000Z	gouki	r4nge	nice! What version are you using then? I never actually edited the motd or issue on Ubuntu, but for Debian (sarge at least) those are the files that need to be edited.

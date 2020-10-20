@@ -1,0 +1,6 @@
+2008-12-08T13:21:00.000Z	tinytitan		is there a way to set custom hotkeys to run a command?
+2008-12-08T13:21:00.000Z	jim_p	tinytitan	yes. do you use compiz?
+2008-12-08T13:22:00.000Z	tinytitan	jim_p	no
+2008-12-08T13:22:00.000Z	jim_p	tinytitan	then its some weird metacity setting you must make
+2008-12-08T13:22:00.000Z	tinytitan	jim_p	awesome thanks, at least I know where to look now
+2008-12-08T13:23:00.000Z	jim_p	tinytitan	google for "how to make ctrl+alt+del open gnome-system-monitor" the procedure is the same. the buttons and the app changes

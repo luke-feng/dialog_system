@@ -1,0 +1,6 @@
+2007-12-26T02:00:00.000Z	cassiopea		Hey. I'm trying to make a copy of the kubuntu 7.10 CD (which I got through shipit) for a friend, but I can't seem to be able to get it copied with k3b. I also tried making a copy of the cd with mkisofs, but when I wrote it again, it wouldn't boot. How can I copy this CD?
+2007-12-26T02:00:00.000Z	Khisanth	cassiopea	are you sure it's not a DVD? :)
+2007-12-26T02:04:00.000Z	cassiopea	Khisanth	Well, it's 696MB, so it would make no sense to put it on a DVD - none that I can see at least
+2007-12-26T02:17:00.000Z	Khisanth	cassiopea	does the copy at least have the files that you expect?
+2007-12-26T02:19:00.000Z	cassiopea	Khisanth	When I write the iso to CD again, it looks exactly like the original, but doesn't boot. BTW, why is there a symlink on the root of the CD that points to the root of the CD?
+2007-12-26T02:31:00.000Z	Khisanth	cassiopea	in that case you will probably have to look for an option in whatever burning program you are using so that it creates a bootable disc instead of a normal disc

@@ -1,0 +1,6 @@
+2008-03-31T12:14:00.000Z	Yashy		I have a large USB drive I want for two functions 1) share files with ubuntu/bsd/macosx 2) backup files those people can't access, recommendations?
+2008-03-31T12:15:00.000Z	ikonia	Yashy	use samba to share the files out, or NFS
+2008-03-31T12:15:00.000Z	Yashy	ikonia	I mean to portably share files
+2008-03-31T13:17:00.000Z	ikonia	Yashy	corefiles are crashes
+2008-03-31T13:18:00.000Z	Yashy	ikonia	Where can I find them?
+2008-03-31T13:18:00.000Z	ikonia	Yashy	you can't "find" them an application crash creates them

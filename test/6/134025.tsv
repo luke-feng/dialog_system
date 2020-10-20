@@ -1,0 +1,6 @@
+2007-09-27T05:51:00.000Z	mook		how big is the kubuntu-desktop to download and install?
+2007-09-27T05:51:00.000Z	mook		how much harddrive space does it take up?
+2007-09-27T05:52:00.000Z	mook		does google earth work on linux?
+2007-09-27T05:52:00.000Z	mook		how big is the kubuntu-desktop to download and install?
+2007-09-27T05:52:00.000Z	gnomefreak	mook	apt-cache show kubuntu-desktop will tell you
+2007-09-27T05:53:00.000Z	gnomefreak	mook	sudo apt-get install kubuntu-desktop will tell you just type n if you dont want to contimue with install

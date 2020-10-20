@@ -1,0 +1,6 @@
+2009-03-17T10:51:00.000Z	crdlb	learn_more	at the top of your screen, it says "Applications Places System" (possibly localized)
+2009-03-17T10:57:00.000Z	crdlb	learn_more	it's a headless server?
+2009-03-17T10:59:00.000Z	crdlb	learn_more	I'm looking
+2009-03-17T11:06:00.000Z	crdlb	learn_more	I'm not sure how to enable them without using jockey :/
+2009-03-17T11:06:00.000Z	crdlb	learn_more	what's preventing you from using a wired connection?
+2009-03-17T11:08:00.000Z	crdlb	learn_more	that's the tool you use (jockey-gtk specifically) for enabling ath5k with a GUI

@@ -1,0 +1,6 @@
+2007-06-18T15:36:00.000Z	citiskyline_		Hi. I need help - I get three errors when  trying to gcc a hello world c program.
+2007-06-18T15:37:00.000Z	jrib	citiskyline_	pastebin the errors.   Have you installed build-essential?
+2007-06-18T15:38:00.000Z	citiskyline_	jrib	what is build-essential
+2007-06-18T15:38:00.000Z	jrib	citiskyline_	the package that contains the essential programs you need to build stuff
+2007-06-18T15:38:00.000Z	citiskyline_	jrib	ok. thanks
+2007-06-18T15:41:00.000Z	citiskyline_	jrib	THANK YOU SO MUCH!!! ;-)

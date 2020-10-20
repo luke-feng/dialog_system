@@ -1,0 +1,6 @@
+2005-09-29T06:45:00.000Z	psusi		has anyone successfully used gparted to resize an ntfs partition?  it doesn't seem to work in the breezy preview... click apply and nothing happens
+2005-09-29T06:46:00.000Z	psusi		1) you have to pay for that and 2) in years past, the 3 times I or someone I know who tried to use it, got their partition trashed
+2005-09-29T06:47:00.000Z	psusi		of course not... which is why I'm not using it
+2005-09-29T06:47:00.000Z	psusi		well, and more importantly, I don't trust it to not fuck up
+2005-09-29T06:49:00.000Z	psusi		modprobe
+2005-09-29T06:50:00.000Z	nightair	psusi	ah indeed, of course. I knew that :)

@@ -1,0 +1,6 @@
+2005-09-11T10:16:00.000Z	arlington		hey guys. can i get the macromedia plugin for FF through synaptic/kynaptic?
+2005-09-11T10:17:00.000Z	arlington		(btw I'm running Kubuntu. but the roomd a little dry atm. )
+2005-09-11T10:17:00.000Z	tritium	arlington	yes, make sure you have universe and multiverse repos enabled
+2005-09-11T10:18:00.000Z	tritium	arlington	better to install an ubuntu package
+2005-09-11T10:20:00.000Z	tritium	arlington	you can edit /etc/apt/sources.list if you're comfortable doing that
+2005-09-11T10:21:00.000Z	tritium	arlington	what are you using now?  synaptic?

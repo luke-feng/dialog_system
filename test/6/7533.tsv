@@ -1,0 +1,6 @@
+2011-08-01T10:40:00.000Z	nmvictor		How dow I know the com port to which my USB modem maps to, any command to reveal that?/
+2011-08-01T10:42:00.000Z	nmvictor		Any way I could be able to send AT commands to my USB modem?
+2011-08-01T10:42:00.000Z	ubernerd	nmvictor	dial... up... modem?
+2011-08-01T10:45:00.000Z	nmvictor	ubernerd	yea, a dial up modem
+2011-08-01T10:54:00.000Z	ubernerd	nmvictor	what does at do?
+2011-08-01T10:55:00.000Z	nmvictor	ubernerd	man at does not say  anything about sending commands to a modem

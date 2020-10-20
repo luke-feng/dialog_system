@@ -1,0 +1,6 @@
+2007-10-20T10:16:00.000Z	smy1220		BAX: sudo apt-get install firestarter
+2007-10-20T10:18:00.000Z	smy1220		Some help please?
+2007-10-20T10:18:00.000Z	smy1220		Clean install of Gusty. open terminal type sudo gconf-editor ot to apps->nautilis->desktop heck off the: Computer, Trash, Network icons and nothing!!!! Reboot does not solve it!!! Is 7.10 using a different location for this setting?
+2007-10-20T10:18:00.000Z	smy1220		!ask
+2007-10-20T10:19:00.000Z	smy1220		!ask | smy1220 Clean install of Gusty. open terminal type sudo gconf-editor ot to apps->nautilis->desktop heck off the: Computer, Trash, Network icons and nothing!!!! Reboot does not solve it!!! Is 7.10 using a different location for this setting?
+2007-10-20T10:19:00.000Z	Lustblader	smy1220	if it is a fresh install.... try again

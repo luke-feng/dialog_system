@@ -1,0 +1,6 @@
+2006-08-12T06:05:00.000Z	dpupp		is WEP working in ubuntu?
+2006-08-12T06:05:00.000Z	dpupp		err. i mean dapper?
+2006-08-12T06:06:00.000Z	Tomcat_	dpupp	Yeah.
+2006-08-12T06:07:00.000Z	dpupp	Tomcat_	do you know if there are any special notes? or does it work through GUI?
+2006-08-12T06:07:00.000Z	Tomcat_	dpupp	GUI
+2006-08-12T06:07:00.000Z	Tomcat_	dpupp	Both Gnome, iwconfig and network-manager can do it.

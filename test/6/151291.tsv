@@ -1,0 +1,6 @@
+2006-09-17T06:07:00.000Z	Bruno		hello, anyone to help me ?
+2006-09-17T06:08:00.000Z	Bruno		when i want upgrade my ubuntu i have it :  unable to open files list file for package `libtotem-plparser1': Input/output error
+2006-09-17T06:08:00.000Z	Bruno		an idea ?
+2006-09-17T06:08:00.000Z	ompaul	Bruno	upgrade from what to what?
+2006-09-17T06:08:00.000Z	Bruno	ompaul	apt-get upgrade
+2006-09-17T06:09:00.000Z	ompaul	Bruno	 not how, but, upgrade from what to what?

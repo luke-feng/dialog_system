@@ -1,0 +1,6 @@
+2005-05-08T09:21:00.000Z	kg6gfq_		srry, didn't see if there was an answer to my question about where to find tgz's for the ubuntu amd64 kernel
+2005-05-08T09:21:00.000Z	bob2	kg6gfq_	...
+2005-05-08T09:21:00.000Z	bob2	kg6gfq_	in the kernel-source package
+2005-05-08T09:21:00.000Z	bob2	kg6gfq_	but why?
+2005-05-08T09:22:00.000Z	bob2	kg6gfq_	no, you don't.  what driver are you trying to compile?
+2005-05-08T09:23:00.000Z	bob2	kg6gfq_	http://www.ubuntulinux.org/wiki/Rt2500WirelessCardsHowTo

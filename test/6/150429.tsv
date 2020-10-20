@@ -1,0 +1,6 @@
+2005-04-21T06:08:00.000Z	sfo01		Might be a stupid question, but is there a way to copy the live cd on disk and boot from it?
+2005-04-21T06:09:00.000Z	chazwurth	sfo01	not that I know of, but isn't that just like installing?
+2005-04-21T06:10:00.000Z	sfo01	chazwurth	not really. Just making a directory in an existing distro.
+2005-04-21T06:11:00.000Z	chazwurth	sfo01	aah. I have no idea how you'd make that bootable.
+2005-04-21T06:12:00.000Z	sfo01	chazwurth	I was more thinking about using the existing lilo or grub.
+2005-04-21T06:12:00.000Z	sfo01	chazwurth	but don't bother. The live CD is fine.

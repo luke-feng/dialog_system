@@ -1,0 +1,6 @@
+2010-04-22T23:26:00.000Z	gelegrodan		can somebody help me with a broken raid + lvm ?
+2010-04-22T23:26:00.000Z	costre	gelegrodan	Try running palimpsest and see what it says
+2010-04-22T23:28:00.000Z	gelegrodan	costre	problem is i can read two partions of it, /boot and / but not the third one..with /home and /var ..
+2010-04-22T23:28:00.000Z	gelegrodan	costre	its a raid 1 lvm..
+2010-04-22T23:30:00.000Z	costre	gelegrodan	I'm no expert, I have a four-disk raid5-array that I have messed around with, disassembled, reassembled after fresh installation etc, using palimpsest .. ledsen :)
+2010-04-22T23:30:00.000Z	gelegrodan	costre	no problem, i just solved it.. pjew.. alot of sites, configs, mysqls.. no backup :D

@@ -1,0 +1,6 @@
+2008-11-05T13:49:00.000Z	Seaboy		﻿ jim_p: no, and I use kde
+2008-11-05T13:51:00.000Z	Seaboy		﻿jim_p: yes, I just want my desktop back, even with no nvidia driver, what should I do?
+2008-11-05T13:52:00.000Z	ziroday	Seaboy	can you pastebin your /etc/X11/xorg.conf and give us your graphics card
+2008-11-05T13:58:00.000Z	ziroday	Seaboy	jim_p: you can change the Driver "nvidia" line to Driver "nv" line in /etc/X11/xorg.conf
+2008-11-05T14:00:00.000Z	ziroday	Seaboy	correct
+2008-11-05T14:01:00.000Z	ziroday	Seaboy	good luck :)

@@ -1,0 +1,6 @@
+2006-07-28T13:57:00.000Z	Rodya		how do i get apptitude running?
+2006-07-28T13:57:00.000Z	Rodya		i installed breezy but the extra packages didnt install
+2006-07-28T13:57:00.000Z	Rodya		i did this yesterday and apptitude worked but today its not
+2006-07-28T13:57:00.000Z	Flannel	Rodya	to run aptitude, just "sudo aptitude", that'll start the GUI
+2006-07-28T14:00:00.000Z	Rodya	Flannel	its saying  it wasnt able to locate a file for the xm package  internal error couldnt generate list of packages to download
+2006-07-28T14:00:00.000Z	Flannel	Rodya	sounds like you've got some problems, yeah.  try that

@@ -1,0 +1,6 @@
+2006-06-02T13:55:00.000Z	ravel		greetings. should Ubuntu 6.06 installation onto a machine with IT8212 SATA RAID controller go fine (with default or alt install cd) or are some patches or other stuff needed?
+2006-06-02T05:59:00.000Z	ravel		how do I get IT8212 RAID controller support work with new Ubuntu? can I install Dapper on a RAID1 device?
+2006-06-02T06:01:00.000Z	void^	ravel	module is called it821x, should work out of the box (never used the raid feature though, i doubt it's better than softraid)
+2006-06-02T06:05:00.000Z	void^	ravel	hm, i'd suggest using software raid. the it821x module has a noraid option, could try playing around with that. otherwise i can only suggest a google search =)
+2006-06-02T06:09:00.000Z	void^	ravel	that's true if you have a decent "real" raid controller. i just doubt this it8212 i got for 10 bucks does a better job than linux software raid =)
+2006-06-02T06:12:00.000Z	void^	ravel	quote by alan cox about the it8212: "If you are doing raid0 btw its faster in non-raid mode and using software raid. In raid1 it seems to be faster to use the chip in smart mode."

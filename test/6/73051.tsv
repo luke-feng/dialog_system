@@ -1,0 +1,6 @@
+2011-05-03T00:37:00.000Z	Isonyx		Hey could someone help me out. I'm trying to make a bash script that checks if anything that prevents tor from running is open and then kills the process. The script is. # if any relevant processes are running, inform the user and exit cleanly
+2011-05-03T00:37:00.000Z	Isonyx		RUNNING=0
+2011-05-03T00:37:00.000Z	Isonyx		for process in tor vidalia polipo privoxy
+2011-05-03T00:37:00.000Z	Isonyx		        do pid=`pidof $process`
+2011-05-03T00:37:00.000Z	Isonyx		        if [ -n "$pid" ]; then
+2011-05-03T00:37:00.000Z	FloodBot1	Isonyx	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

@@ -1,0 +1,6 @@
+2008-07-08T19:01:00.000Z	Firefishe		Is there a gui-based grub configuration tool?
+2008-07-08T19:01:00.000Z	Firefishe		<-- Feisty
+2008-07-08T19:02:00.000Z	mechdave	Firefishe	http://grubconf.sourceforge.net/
+2008-07-08T19:03:00.000Z	Firefishe	mechdave	It's been deprecated, I thought.  Isn't there a plugin for the gnome-control-center?
+2008-07-08T19:03:00.000Z	mechdave	Firefishe	dunno, I just did a google for it...
+2008-07-08T19:04:00.000Z	mechdave	Firefishe	it says gnome-system-tools

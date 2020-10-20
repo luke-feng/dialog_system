@@ -1,0 +1,6 @@
+2006-02-24T12:42:00.000Z	crab_	xnull	- I do if I run as root :)  Would it be better if I set up a virtual host that points to a directory in my /home ?
+2006-02-24T12:43:00.000Z	crab_	xnull	I can do that, so /home/user/my-www-project/ or something?
+2006-02-24T12:46:00.000Z	crab_	xnull	so far so good, but where is the httpd.conf (or equivalent) for apache2?
+2006-02-24T12:47:00.000Z	crab_	xnull	I did that, but the httpd.conf is a placeholder for backwards compatibility.  I'm going to look it up, want me to report back to you?
+2006-02-24T12:49:00.000Z	crab_	xnull	omg, get some sleep!! thanks for the help
+2006-02-24T12:50:00.000Z	crab_	xnull	it's in /etc/apache2/apache2.conf

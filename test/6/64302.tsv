@@ -1,0 +1,6 @@
+2009-10-16T06:10:00.000Z	matt____		hello i jus istalled 9.04 and my keyboard i very agy
+2009-10-16T06:10:00.000Z	matt____		is there a reason  behind this?
+2009-10-16T06:12:00.000Z	matt____		is  there any reason anyone can think ofwhy my keyboard wou be so laging?
+2009-10-16T06:12:00.000Z	matt____		very frustrating
+2009-10-16T06:12:00.000Z	Bluey	matt____	have you checked top to see what's runng?
+2009-10-16T06:14:00.000Z	Bluey	matt____	type in "top" (no quotes) into a terminal box -- and it well tell you whats grabbing all the cpu time

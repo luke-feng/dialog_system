@@ -1,0 +1,6 @@
+2005-10-13T15:56:00.000Z	commodore		hi
+2005-10-13T15:58:00.000Z	commodore		i don't have sound working on my ubuntu
+2005-10-13T15:58:00.000Z	commodore		i don't know what's my soundcard
+2005-10-13T15:58:00.000Z	commodore		but on windows it's driver is realtek high definition sound driver
+2005-10-13T15:58:00.000Z	kikinovak	commodore	lspci -v | grep -i multimedia
+2005-10-13T16:00:00.000Z	kikinovak	commodore	open a console and simply type lspci... that shows you all your cards. Check the line for the soundcard

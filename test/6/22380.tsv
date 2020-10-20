@@ -1,0 +1,6 @@
+2010-07-18T22:11:00.000Z	TGP1994		Hi everyone. I'm curious, when I have two network adapters, how can I bind apps like firefox, ping, and traceroute to the first one? I *only* want to use a certain application on the second interface.
+2010-07-18T22:13:00.000Z	io	TGP1994	Read the manual pages for each application using "man ping" as an example. "ping -I <interface>"
+2010-07-18T22:14:00.000Z	TGP1994	io	Oh, so there's no system setting that can direct all traffic to one interface globally?
+2010-07-18T22:15:00.000Z	io	TGP1994	There probably is - I have never done it that way, I just specify a bind IP when configuring each application.
+2010-07-18T22:15:00.000Z	io	TGP1994	And I can't answer you with what that "probably is" actually is. :-)
+2010-07-18T22:16:00.000Z	TGP1994	io	Alright, well thank you anyways :) I'm just trying to setup LTSP, and although I'd preferably like to set it up on only one NIC, I can't figure out how to reconfigure it.

@@ -1,0 +1,6 @@
+2010-06-24T03:58:00.000Z	doyle		Q. Synaptic package manager lists openoffice.org as unchecked when it's installed. How do I correct this?
+2010-06-24T03:58:00.000Z	maco	doyle	the default install doenst include *all* of OOo, such as the database program. if you check that box, itll install the rest of it
+2010-06-24T03:59:00.000Z	doyle	maco	ok thanks
+2010-06-24T03:59:00.000Z	doyle	maco	there are a lot of components of openoffice installed. How can I clean everything ooo off at once?
+2010-06-24T04:00:00.000Z	maco	doyle	search for packages starting with "openoffice.org"
+2010-06-24T04:01:00.000Z	doyle	maco	looks good. Last time I uninstalled ooo it decided to remove every installed program on the computer. This time I made sure to check what was under the untouched category before applying.

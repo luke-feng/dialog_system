@@ -1,0 +1,6 @@
+2008-08-26T14:57:00.000Z	exzrael_		Question; There is a free-to-use application which moves an iso-installation-file to usb-memory for install .. anyone got a name=
+2008-08-26T14:57:00.000Z	exzrael_		?
+2008-08-26T14:57:00.000Z	ActionParsnip	exzrael_	you can use dd
+2008-08-26T14:58:00.000Z	ActionParsnip	exzrael_	dd if=/path/to.iso /of=/dev/sda1 or whatever
+2008-08-26T14:58:00.000Z	ActionParsnip	exzrael_	doesnt matter what it is
+2008-08-26T14:59:00.000Z	ActionParsnip	exzrael_	id mount the iso first then dd

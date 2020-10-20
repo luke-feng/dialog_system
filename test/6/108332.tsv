@@ -1,0 +1,6 @@
+2006-08-30T05:03:00.000Z	don_jr		Hello, I'm looking for a good video player for ubuntu, wmv, wma, divx, can anyone recomend one that works well?
+2006-08-30T05:04:00.000Z	jrib	don_jr	mplayer is my favorite, xine and vlc are good too (but vlc won't play nice with wmv9 without some extra work)
+2006-08-30T05:05:00.000Z	don_jr		mplayer, alright, thank you
+2006-08-30T05:05:00.000Z	jrib	don_jr	just be sure to install w32codecs along with mplayer
+2006-08-30T05:05:00.000Z	jrib		!w32codecs > don_jr
+2006-08-30T05:05:00.000Z	don_jr	jrib	will do

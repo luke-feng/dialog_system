@@ -1,0 +1,6 @@
+2010-04-12T08:56:00.000Z	chd		configure:2488: error: C++ compiler cannot create executables what's this mean?
+2010-04-12T08:57:00.000Z	chd		./configure: line 2441: g++: command not found
+2010-04-12T08:57:00.000Z	chd		sudo apt-get install g++?
+2010-04-12T08:58:00.000Z	chd		sudo apt-get install g++ worked
+2010-04-12T08:58:00.000Z	chd		should I run build-essential?
+2010-04-12T08:58:00.000Z	soreau	chd	You should install build-essential if you're planning on using compilers and related developer tools

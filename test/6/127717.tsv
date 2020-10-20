@@ -1,0 +1,6 @@
+2006-01-08T09:00:00.000Z	silverpower		How do I force the X server to restart?
+2006-01-08T09:01:00.000Z	silverpower		Not what I was thinking of.
+2006-01-08T09:01:00.000Z	Ng	silverpower	what did you have in mind then?
+2006-01-08T09:02:00.000Z	silverpower		See, normally, the X server restarts if I log out. But on Ubuntu, a simple logout didn't get the server to reload itself.
+2006-01-08T09:03:00.000Z	Ng	silverpower	log out and then do ctrl-alt-backspace, or do "sudo /etc/init.d/gdm restart" from a console
+2006-01-08T09:03:00.000Z	silverpower	Ng	that's what I was looking for, thanks!

@@ -1,0 +1,6 @@
+2007-08-26T15:36:00.000Z	balbir		how to install vmware in ubuntu?
+2007-08-26T15:37:00.000Z	nbkr	balbir	Just download the installer from vmware.com, Install the kernel-sources, make and gcc if not already done and run the VMware Installer.
+2007-08-26T15:37:00.000Z	balbir	nbkr	thanks :)
+2007-08-26T15:38:00.000Z	balbir	nbkr	can we have any other vitual machine available in ubunt [parallel|xen] 
+2007-08-26T15:39:00.000Z	nbkr	balbir	You can use qemu and virtualbox with ubuntu. Xen should also be possible and I think it is included in 7.10.
+2007-08-26T15:39:00.000Z	balbir	nbkr	thanks :)

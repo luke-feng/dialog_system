@@ -1,0 +1,6 @@
+2009-12-12T04:18:00.000Z	Octoroks		Hello. I am having some problems with Grub. I have 2 partitions, a Windows partition and a Ubuntu partition. Grub will not display/load the Windows partition. Any help?
+2009-12-12T04:19:00.000Z	zoug	Octoroks	karmic?
+2009-12-12T04:20:00.000Z	zoug	Octoroks	can you pastebin you /boot/grub/brub.cfg?
+2009-12-12T04:23:00.000Z	Octoroks	zoug	give me a bit.
+2009-12-12T04:24:00.000Z	zoug	Octoroks	okay
+2009-12-12T04:39:00.000Z	zoug	Octoroks	sorry for the time, here you go: http://ubuntuforums.org/showthread.php?t=1014708

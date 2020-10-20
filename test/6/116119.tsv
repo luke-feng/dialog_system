@@ -1,0 +1,6 @@
+2007-03-27T08:34:00.000Z	zen		I was trying to make my own mail-notification package by compiling and using checkinstall, and I got this error, how can I fix it?  "dpkg: error processing /home/neil/Desktop/mail-notification-4.0/mail-notification_4.0-1_i386.deb (--install):" "trying to overwrite `/usr/lib/libgconf2-4/2/libgconfbackend-xml.so', which is also in package libgconf2-4"
+2007-03-27T08:35:00.000Z	Pelo	zen	 are you looking for an app to check for new emails periodicaly ?  try gnubiff , multiple accounts
+2007-03-27T08:36:00.000Z	zen	Pelo	well, I was looking for something to sit in my try and notify me when there's new mail in the account...the actual checking I use Thunderbird for.
+2007-03-27T08:38:00.000Z	Pelo	zen	  it's just a little pannel applet that check if you have new mail, you can then download with your regular client
+2007-03-27T08:51:00.000Z	zen	Pelo	that works pretty well...but I've been making some of my own other packages, and this isn't the first time I've run into this sort of error...do you know the solution?
+2007-03-27T08:51:00.000Z	Pelo	zen	 sorry, I 've lost track , what error ?

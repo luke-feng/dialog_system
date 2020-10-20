@@ -1,0 +1,6 @@
+2010-04-04T23:24:00.000Z	jason201		can someone tell me how I can make wireless work automatically at boot up on my netbook?
+2010-04-04T23:24:00.000Z	jason201		I have to type in the terminal sudo modprobe ath5k each time
+2010-04-04T23:25:00.000Z	llutz	jason201	add "ath5k" to /etc/modules
+2010-04-04T23:25:00.000Z	jason201	llutz	thank you very much
+2010-04-04T23:28:00.000Z	jason201	llutz	I don't have etc/modules
+2010-04-04T23:29:00.000Z	llutz	jason201	create it

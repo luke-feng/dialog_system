@@ -1,0 +1,6 @@
+2007-03-17T07:50:00.000Z	orangey		Hey all!
+2007-03-17T07:50:00.000Z	orangey		Quick question.. Where is the CVS / SVN / whatnot for ubuntu?
+2007-03-17T07:50:00.000Z	orangey		So, how can I track all the changes to a package?
+2007-03-17T07:52:00.000Z	tonyyarusso	orangey	probably to the new version (development)
+2007-03-17T07:53:00.000Z	orangey	tonyyarusso	I don't understand.
+2007-03-17T07:54:00.000Z	tonyyarusso	orangey	By general policy, bugfix changes don't go into already released versions.  Big stuff can, and security fixes do, but most new stuff will simply be put in the current development version for the next release (currently Feisty).

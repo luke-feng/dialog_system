@@ -1,0 +1,6 @@
+2008-02-26T06:51:00.000Z	panfist		how can i perform a command from the terminal on all of the files of a certain type in a folder? i've tried something like " ls *.rar|unrar-free " but i think i'm doing something wrong...
+2008-02-26T06:51:00.000Z	Front187	panfist	what command exactly are you trying to run?
+2008-02-26T06:51:00.000Z	panfist		front187 unrar-free x (extract files and preserve paths)
+2008-02-26T06:52:00.000Z	panfist	storm-zen	yeah
+2008-02-26T06:52:00.000Z	panfist	storm-zen	unrestricted i think
+2008-02-26T06:53:00.000Z	Front187	panfist	I don't think you have to use ls,  unrar should recognize * as a wildcard

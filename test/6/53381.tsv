@@ -1,0 +1,6 @@
+2008-12-10T02:53:00.000Z	ComputerCarl		sorry, i was afk... i was asking about drbd, someone asked how much free space... well, fc10 is installed, and soon to be wiped, so lots of free space... 4tb
+2008-12-10T02:54:00.000Z	ComputerCarl		something something someone and your mom
+2008-12-10T02:55:00.000Z	ComputerCarl		sorry, i was afk... i was asking about drbd, someone asked how much free space... well, fc10 is installed, and soon to be wiped, so lots of free space... 4tb
+2008-12-10T02:55:00.000Z	ComputerCarl		so no one in here uses drbd?
+2008-12-10T02:56:00.000Z	ComputerCarl		can someone do an apt get list and tell me what ver of drbd is listed?
+2008-12-10T02:57:00.000Z	vengfulsquirrel	ComputerCarl	drbd0.7-utils drbd8-utils   ???

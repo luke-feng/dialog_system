@@ -1,0 +1,6 @@
+2010-09-12T21:31:00.000Z	dougl		... I only have one workspace that I can get too
+2010-09-12T21:31:00.000Z	dougl		to
+2010-09-12T21:31:00.000Z	th0r	dougl	I would think the first step would be to finish the upgrade " and I recently did update with update manager (could only do partial)"
+2010-09-12T21:32:00.000Z	dougl	th0r	yes I could only do partial - how do/did you do full update?
+2010-09-12T21:33:00.000Z	th0r	dougl	open synaptic, Reload, and then tell it to Mark all Updates
+2010-09-12T21:35:00.000Z	dougl	th0r	"The repository may no longer be available or could not be contacted because of network problems. If available an older version of the failed index will be used. Otherwise the repository will be ignored. Check your network connection and ensure the repository address in the preferences is correct." is what synaptic said when I reloaded... dunno what to make of it.

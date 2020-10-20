@@ -1,0 +1,6 @@
+2007-05-29T08:22:00.000Z	kestri		is there a log file for all of the "update" install information. if so, where is it?
+2007-05-29T08:23:00.000Z	kestri		same here. i just installed some updates and now i can't boot with the new kernel
+2007-05-29T08:24:00.000Z	kestri		is there a log file for the updates????
+2007-05-29T08:25:00.000Z	pp	kestri	less /var/log/dpkg.log for log of updates
+2007-05-29T08:25:00.000Z	kestri		thanks
+2007-05-29T08:25:00.000Z	kestri	pp	thanks

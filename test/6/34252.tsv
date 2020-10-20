@@ -1,0 +1,6 @@
+2009-12-09T11:03:00.000Z	DerKlempner	Kiongku	Go to a terminal and type "ifconfig eth0" and see if it shows the adapter settings.
+2009-12-09T11:04:00.000Z	Kiongku	DerKlempner	yes it does
+2009-12-09T11:04:00.000Z	DerKlempner	Kiongku	And your computer is connected to a router/hub or directly to a modem?
+2009-12-09T11:05:00.000Z	Kiongku	DerKlempner	router/modem combo
+2009-12-09T11:05:00.000Z	DerKlempner	Kiongku	Double-check your router to make sure DHCP is enabled and it's issuing addresses.
+2009-12-09T11:06:00.000Z	Kiongku	DerKlempner	I have other comps on LAN and it works flawless..

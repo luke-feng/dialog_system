@@ -1,0 +1,6 @@
+2005-05-03T11:30:00.000Z	Gigglesworth		Like the xbox-linux project... there's a Debian side project, a Fedora side project.
+2005-05-03T11:30:00.000Z	Gigglesworth		It's a $100 computer. Running Linux on Xbox is so obscene it's cool.
+2005-05-03T11:30:00.000Z	Gigglesworth		64 megs of Ram... might be good enough for a little webserver or a Samba server.
+2005-05-03T11:31:00.000Z	geneo93	Gigglesworth	 i would think dsl would be better for xbox
+2005-05-03T11:50:00.000Z	geneo93	Gigglesworth	 when you have 2 devices on same channel it reduces speed by half
+2005-11-04T12:31:00.000Z	Gigglesworth	geneo93	I had luck with Nvidia's drivers, but the trick is installing them using a familiar install tool like 'apt-get' or 'synaptic'.

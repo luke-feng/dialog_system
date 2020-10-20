@@ -1,0 +1,6 @@
+2007-08-11T13:04:00.000Z	danny__		Hi everyone. I just discovered Fluxbuntu. Does anyone know what the system requirements will be when the release is finale? I'm especially thinking about RAM.
+2007-08-11T13:06:00.000Z	Flannel	danny__	Their website says it'll be final when gutsy is released (in october), How much RAM do you have?
+2007-08-11T13:07:00.000Z	danny__	Flannel	I have plenty of RAM (2GB), I'm just curious because I like to run Linux distros under VMWare.
+2007-08-11T13:08:00.000Z	Flannel	danny__	You'd be able to run gnome in VMWare fine.  But if you're worried about a lightweight system, check out xubuntu.
+2007-08-11T13:08:00.000Z	danny__	Flannel	Yes, I use Xubuntu also.
+2007-08-11T13:08:00.000Z	Flannel	danny__	and also, you can install fluxbox as your GUI even without 'fluxbuntu'.  Just install a console-only system (alternate cDs are good for this) and then enable universe and install fluxbox

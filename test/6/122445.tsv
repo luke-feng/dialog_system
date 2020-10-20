@@ -1,0 +1,6 @@
+2006-12-02T08:22:00.000Z	fyrestrtr	DarkED	that's a bit ... ermm ... rediculous.
+2006-12-02T08:22:00.000Z	fyrestrtr		df -h
+2006-12-02T08:22:00.000Z	DarkED	fyrestrtr	if a hard drive is nothing but bad sectors, it basically becomes useless, since nothing would work right on it... so, not all that rediculous...
+2006-12-02T08:23:00.000Z	fyrestrtr	DarkED	the part I meant rediculous was that gparted caused 'bad sectors'.
+2006-12-02T08:23:00.000Z	fyrestrtr		because that's a physical problem, not a logical one.
+2006-12-02T08:23:00.000Z	DarkED	fyrestrtr	im not saying it CAUSED the bad sectors, im saying there was a problem during the resize, and THAT caused the bad sectors

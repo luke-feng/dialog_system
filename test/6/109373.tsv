@@ -1,0 +1,6 @@
+2007-09-22T12:20:00.000Z	DreadKnight		does anyone know how can i disable the forced scan check during boot time?
+2007-09-22T12:20:00.000Z	DreadKnight		:))
+2007-09-22T12:20:00.000Z	DreadKnight		it starts at the most annoying time possible.
+2007-09-22T12:21:00.000Z	DreadKnight		true...
+2007-09-22T12:21:00.000Z	DreadKnight		true
+2007-09-22T12:21:00.000Z	Matir	DreadKnight	it's done through fstab... Change the last field on the line to a 0 and it will never check... not recommending it, but that's how it works.  :)

@@ -1,0 +1,6 @@
+2005-04-22T08:10:00.000Z	dle		Hello. hoary seems to have disabled direct editing of gnome menus.  Has anyone else noticed this?  Also several of gnome's special URI locations are inaccesible, e.g. 'applications:///'.
+2005-04-22T08:11:00.000Z	holycow	dle	aplications:/// was actually removed from gnome 2.10 it self
+2005-04-22T08:11:00.000Z	holycow	dle	there are instructions on ubuntu website on how to install gnome menu editor
+2005-04-22T08:11:00.000Z	dle	holycow	Agrajag: what about --- ah.
+2005-04-22T08:12:00.000Z	dle	holycow	Agrajag: It's a shame Gnome didn't also change their documentation too.
+2005-04-22T08:12:00.000Z	holycow	dle	well you can always jump in and help if you have time, documentation guys are always looking for help

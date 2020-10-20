@@ -1,0 +1,6 @@
+2010-05-27T11:01:00.000Z	merischino_		anthony, typing dhclient in the terminal gave me a whole lot of no:  can't create /var/lib/dhcp3/dhclient.leases: Permission denied
+2010-05-27T11:01:00.000Z	merischino_		SIOCSIFADDR: Permission denied
+2010-05-27T11:01:00.000Z	merischino_		SIOCSIFFLAGS: Permission denied
+2010-05-27T11:01:00.000Z	merischino_		SIOCSIFFLAGS: Permission denied
+2010-05-27T11:01:00.000Z	merischino_		Open a socket for LPF: Operation not permitted
+2010-05-27T11:01:00.000Z	FloodBot4	merischino_	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

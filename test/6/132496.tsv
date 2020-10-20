@@ -1,0 +1,6 @@
+2005-12-10T08:07:00.000Z	Xenguy	luisito	if it is not working, just run apt-setup and get setup
+2005-12-10T08:07:00.000Z	Xenguy	luisito	at least you'll know your mirrors are correct
+2005-12-10T08:07:00.000Z	Xenguy		er, sudo blah blah
+2005-12-10T08:09:00.000Z	luisito	Xenguy	hlen. soundray, now it's working, when I delete the target directory, but now, where they are downloading?
+2005-12-10T08:10:00.000Z	Xenguy	luisito	typically they are downloading to /var/cache/apt/archives , but if you use 'apt-get install' they should just install automagically
+2005-12-10T08:12:00.000Z	luisito	Xenguy	ah, ok then. thanks. have to take note of that. I always do when something is new to me. ;P

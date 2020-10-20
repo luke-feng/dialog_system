@@ -1,0 +1,6 @@
+2009-10-30T16:12:00.000Z	zkchong_		hi. anyone know how to slow down the upstart of ubuntu 9.10?
+2009-10-30T16:12:00.000Z	th1	zkchong_	why ever would you want to slow it down?
+2009-10-30T16:14:00.000Z	th1	zkchong_	you can put "sleep 10"  in /etc/init/gdm.conf
+2009-10-30T16:15:00.000Z	zkchong_	th1	 thanks. I try first. logout now.
+2009-10-30T16:15:00.000Z	th1	zkchong_	put it just before the "exec gdm-binary" line
+2009-10-30T16:15:00.000Z	zkchong_	th1	sure thanks. I am trying now. will be back in a moment

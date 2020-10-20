@@ -1,0 +1,6 @@
+2006-11-09T11:18:00.000Z	OMF		newbie q:) hey i'm having some trouble installing an app... when i try to install it, i get an error message that the command make is not found...
+2006-11-09T11:18:00.000Z	OMF		do i have to modify the script, or can i resolve this another way
+2006-11-09T11:18:00.000Z	SanityInAnarchy	OMF	 apt-get install make
+2006-11-09T11:19:00.000Z	SanityInAnarchy	OMF	 or what Konnektion said
+2006-11-09T11:24:00.000Z	SanityInAnarchy	OMF	 other than build-essential? I don't know, check what it's asking for
+2006-11-09T11:24:00.000Z	SanityInAnarchy	OMF	 I assume you're trying to compile something from scratch, you'll probably have to install libxxx-dev if it says it can't find xxx

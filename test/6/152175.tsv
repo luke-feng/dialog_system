@@ -1,0 +1,6 @@
+2005-04-01T12:23:00.000Z	cyklus		i installed a package for debian ignoring dependencies (which it doesnt need) but now everytime i try to apt-get i get dependency errors... how do i remove these dependencies?
+2005-04-01T12:24:00.000Z	nis	cyklus	you can edit /var/lib/dpkg/status (or available etc) by hand.
+2005-04-01T12:24:00.000Z	cyklus	nis	thanks
+2005-04-01T12:25:00.000Z	nis	cyklus	welcome.
+2005-04-01T12:26:00.000Z	cyklus	nis	worked like a charm, thanks
+2005-04-01T12:26:00.000Z	nis	cyklus	neat.

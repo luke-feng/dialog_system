@@ -1,0 +1,6 @@
+2006-01-28T13:46:00.000Z	gahan		can i set default gtk font?
+2006-01-28T13:48:00.000Z	gahan		how do i set/change gtk1.2 font?
+2006-01-28T13:49:00.000Z	gahan		they're nasty. the xmms right-click menu and xmms configuration is just unreadable (i dont mean the playlist/main window fonts). afaik it's controleld my gtk12
+2006-01-28T13:49:00.000Z	gahan		i'll try that switch
+2006-01-28T13:50:00.000Z	gahan		ok, thanks
+2006-01-28T13:50:00.000Z	gnomefreak	gahan	you can change your font at system>prefferences>font

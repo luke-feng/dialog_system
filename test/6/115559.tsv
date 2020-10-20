@@ -1,0 +1,6 @@
+2006-06-04T16:16:00.000Z	phpmattk_		can anyone pastbin or rafb their /etc/x11/xorg.conf file please, mine is fubar
+2006-06-04T16:17:00.000Z	SurfnKid	phpmattk_	why'd it go fubar
+2006-06-04T16:18:00.000Z	phpmattk_	SurfnKid	i installed nvidia-glx .. then ran glx-config enable.. and it said my file checksum didnt match, and i said ignore.. then x wouldnt load so i replaced with backup
+2006-06-04T16:19:00.000Z	phpmattk_	SurfnKid	so now i cant get nvidea workin.. and i want to see what a working file looks like
+2006-06-04T16:19:00.000Z	phpmattk_	SurfnKid	i hadn't messed with it.. some setup gui may have
+2006-06-04T16:20:00.000Z	SurfnKid	phpmattk_	yeah get someone to give ya an xorg.conf i guess

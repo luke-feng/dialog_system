@@ -1,0 +1,6 @@
+2008-11-09T00:56:00.000Z	Enissa1		I can't access to my external HD WD MyBook, i got this message: ﻿Cannot mount volume. You are not privileged to mount the volume 'My Book'..... please help
+2008-11-09T00:56:00.000Z	ribatejo	Enissa1	sudo mount /dev/...
+2008-11-09T01:00:00.000Z	Enissa1	ribatejo	$ sudo mount /media/My\ Book\ II/ ==> mount: can't find /media/My Book II/ in /etc/fstab or /etc/mtab
+2008-11-09T01:00:00.000Z	ribatejo	Enissa1	you don't use \
+2008-11-09T01:02:00.000Z	Enissa1	ribatejo	i push TAB and he add it automatically
+2008-11-09T01:03:00.000Z	ribatejo	Enissa1	sometimes computer is stupid do sudo mount /media/My/Book/II/

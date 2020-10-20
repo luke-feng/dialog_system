@@ -1,0 +1,6 @@
+2008-01-29T12:11:00.000Z	phuzion		whats the fastest way to find a folder by partial name, case insensitive in the command line?
+2008-01-29T12:11:00.000Z	astro76	phuzion	locate -i
+2008-01-29T12:12:00.000Z	phuzion	astro76	the -i argument makes it case insensitive, I take it?
+2008-01-29T12:12:00.000Z	astro76	phuzion	indeed
+2008-01-29T12:49:00.000Z	astro76	phuzion	with ubuntu-restricted-extras and w32codecs you shouldn't need anything else
+2008-01-29T12:49:00.000Z	astro76	phuzion	yes, but w32codecs is in medibuntu

@@ -1,0 +1,6 @@
+2010-02-11T16:00:00.000Z	badp		Hello. What's the package that should handle audio output problems (I get audio out of the speakers even when earplugs are plugged in)
+2010-02-11T16:01:00.000Z	badp		alsa-base?
+2010-02-11T16:01:00.000Z	badp		obviously I did
+2010-02-11T16:01:00.000Z	badp		err
+2010-02-11T16:01:00.000Z	badp		what :P
+2010-02-11T16:02:00.000Z	iceroot	badp	if i am correct this is a hardware-issue/feature

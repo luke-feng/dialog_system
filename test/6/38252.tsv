@@ -1,0 +1,6 @@
+2009-04-29T21:32:00.000Z	Xiong		what is the risk in upgrading to jaunty?
+2009-04-29T21:34:00.000Z	rjharv	Xiong	my install went very well, however if you've manually compiled packes or used non official apt repositories be careful
+2009-04-29T21:35:00.000Z	Xiong	rjharv	i don't know enough to say if i've done any such thing
+2009-04-29T21:36:00.000Z	rjharv	Xiong	then probably not a problem ;) just backup work before you do it
+2009-04-29T21:37:00.000Z	rjharv	Xiong	burn to cd , usb or wait ;)
+2009-04-29T21:38:00.000Z	rjharv	Xiong	home folder is the key one the rest of the settings are done by the packages unless you hand edited anything

@@ -1,0 +1,6 @@
+2008-05-17T07:36:00.000Z	topher		hello?
+2008-05-17T07:37:00.000Z	topher		anyone here really familiar with ubuntu 8.04 and installation on a hp notebook?
+2008-05-17T07:37:00.000Z	wols	topher	ask your real question
+2008-05-17T07:38:00.000Z	wols	topher	what wlan chip, what videocard?
+2008-05-17T07:43:00.000Z	topher	wols	nvidia geforce 7150m / nforce 630m and atheros ar5007 802.11/g wifi
+2008-05-17T07:46:00.000Z	wols	topher	dpkg-reconfigure xserver-xorg for your videocard to "nvidi" and use the madwifi drivers for your WLAN

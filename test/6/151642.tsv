@@ -1,0 +1,6 @@
+2005-04-12T12:21:00.000Z	gunnmjk		so I shouldn't expect ubuntoto have it?
+2005-04-12T12:22:00.000Z	gunnmjk		It'll be my first linux install, so i'm trying to make things easy for myself
+2005-04-12T12:23:00.000Z	gunnmjk		Oh, so I don't need the patch? nice
+2005-04-12T12:24:00.000Z	gunnmjk		compile my own kernal, eh. that sounds tricky
+2005-04-12T12:24:00.000Z	Flonne	gunnmjk	it's really not so bad, but you probably won't have to do it.
+2005-04-12T12:29:00.000Z	Flonne	gunnmjk	my suggestion is RAM x 1.5 swap, ~50-100 meg /boot, 3-4gig / (2.5 if you can't spare that), and the rest for /home. In that order.

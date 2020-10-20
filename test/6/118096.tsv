@@ -1,0 +1,6 @@
+2006-06-15T08:05:00.000Z	bensode		morning everyone!
+2006-06-15T08:06:00.000Z	GaiaX11	bensode	what do you mean by morning? :-)
+2006-06-15T08:07:00.000Z	bensode		heh well it's morning here for me in the US at least =P
+2006-06-15T08:12:00.000Z	GaiaX11		how can i boot ubuntu not in gui mode? Because when i boot ubuntu it leads me to gdm login
+2006-06-15T08:13:00.000Z	bensode	GaiaX11	You can alter the default init code in /etc/inittab file but not sure what the Ubuntu runlevel to change it to
+2006-06-15T08:13:00.000Z	GaiaX11	bensode	thanks

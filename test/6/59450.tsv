@@ -1,0 +1,6 @@
+2008-04-27T01:53:00.000Z	MrObvious	pisse	Try running it from a terminal and see if there is an error.
+2008-04-27T01:52:00.000Z	MrObvious	pisse	For what?
+2008-04-27T01:53:00.000Z	pisse	MrObvious	Skype.. it crashes after a while =/
+2008-04-27T01:54:00.000Z	MrObvious	pisse	Then perhaps do a Google.
+2008-04-27T01:55:00.000Z	pisse	MrObvious	I've tried both.. terminal just says "Aborted" and dmesg says "process `skype' is using obsolete setsockopt SO_BSDCOMPAT" found no solution on google
+2008-04-27T01:55:00.000Z	MrObvious	pisse	Ouch that sucks.

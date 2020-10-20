@@ -1,0 +1,6 @@
+2005-02-03T10:51:00.000Z	bzbb		I'm tring to build an xmms plugin, and make is telling me I don't have GCC installed, and /lib/cpp fails the sanity check
+2005-02-03T10:51:00.000Z	bzbb		I've apt-get installed gcc
+2005-02-03T10:51:00.000Z	LinuxJones	bzbb	install build-essential
+2005-02-03T11:52:00.000Z	LinuxJones	bzbb	I am getting 65 cm of snow and 100 km/hr winds
+2005-02-03T11:53:00.000Z	LinuxJones	bzbb	that's the one it's just starting here right now
+2005-03-03T10:53:00.000Z	LinuxJones	bzbb	delete it and re-login again

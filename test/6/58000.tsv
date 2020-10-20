@@ -1,0 +1,6 @@
+2010-01-24T07:54:00.000Z	deena		Hi
+2010-01-24T07:55:00.000Z	deena		Hi anyone can explain how nat works
+2010-01-24T07:55:00.000Z	daftykins	deena	rewriting source and destination IP packet headers
+2010-01-24T07:57:00.000Z	daftykins	deena	can you ping your router? (if you use one)
+2010-01-24T08:03:00.000Z	daftykins	deena	basically when a packet comes from a VM e.g. 10.0.0.2 the router between your real network 192.168.0.x will rewrite the source IP as being itself, so then the real network will pass it to the router. then the router rewrites the packet header with the destination of the guest and so it arrives there
+2010-01-24T08:03:00.000Z	daftykins	deena	it's probably default virtualbox firewall'ing blocking ping the other way

@@ -1,0 +1,6 @@
+2007-09-09T08:35:00.000Z	ariane		hi. i'm having some problems booting kubuntu. i boot my computer, i see the grub thing, i choose kubuntu, it starts loading and then i get this error message " Buffer I/O error on device hda1, logical block" and a couple of numbers. after, it tells me "/dev/hda1 contains a file system with errors, check forced" and it gives me the same buffer thing again. does anyone know how to fix this and could help me please?
+2007-09-09T08:36:00.000Z	stefg	ariane	looks like your harddisk has a problem. Boot the CD and look at it from there
+2007-09-09T08:41:00.000Z	stefg	ariane	to be honest... tht message could mean your hd got belly up already
+2007-09-09T08:56:00.000Z	stefg	ariane	why dont you just boot up the Desktop -CD, look at hda1 if there's still something on it, and in case there is, unmout it and run a fsck on that drive?
+2007-09-09T09:02:00.000Z	stefg	ariane	time to look for the backups
+2007-09-09T09:36:00.000Z	stefg	ariane	this drive is apparently toast.... if you discover you're riding a dead horse, unmount

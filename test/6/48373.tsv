@@ -1,0 +1,6 @@
+2008-11-15T08:16:00.000Z	exmachina		how do i mount a securom protected iso in linux? It seems to recognize the mounted setup.exe as data file and not MS executable
+2008-11-15T08:18:00.000Z	fryguy	exmachina	if you can identify the contents of the disc, then it is successfully mount
+2008-11-15T08:18:00.000Z	exmachina	fryguy	the problem is, wine thinks my .exe is a data file
+2008-11-15T08:18:00.000Z	fryguy	exmachina	so run it from a command line
+2008-11-15T08:19:00.000Z	exmachina	fryguy	what do you mean? I did wine setup.exe and it tells me it's a bad EXE
+2008-11-15T08:20:00.000Z	fryguy	exmachina	no idea

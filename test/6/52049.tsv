@@ -1,0 +1,6 @@
+2008-08-24T20:39:00.000Z	k0rnz		is there a quick way to switch between runlevels 3 and 5 in ubuntu without editing stuff?
+2008-08-24T20:40:00.000Z	ion--	k0rnz	init 5 ?
+2008-08-24T20:40:00.000Z	k0rnz		i want to turn off xserver so i can install nvidia driver
+2008-08-24T20:40:00.000Z	k0rnz		i dont see /etc/inittab file
+2008-08-24T20:41:00.000Z	k0rnz	jtaji	thanks i will try
+2008-08-24T20:42:00.000Z	ion--	k0rnz	then all you need to do is stop kdm/xdm/gdm

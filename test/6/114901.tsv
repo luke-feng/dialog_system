@@ -1,0 +1,6 @@
+2006-06-09T16:24:00.000Z	mcpowley		random question but would anyone happen to know of an alarm clock for linux...one that has the ability to play mp3 files?
+2006-06-09T16:26:00.000Z	elkbuntu	mcpowley	this command in a terminal "sleep 10m | mplayer file.mp3
+2006-06-09T16:27:00.000Z	mcpowley	elkbuntu	is there anyway to set it for a certain time, say 9 am?
+2006-06-09T16:28:00.000Z	elkbuntu	mcpowley	not sure... i'll just test something
+2006-06-09T16:37:00.000Z	elkbuntu	mcpowley	you should be able to use the 'at' command, try reading 'man at' to see how to get it to work, it's confusing me though
+2006-06-09T16:39:00.000Z	mcpowley	elkbuntu	Thanks, i'll try that out

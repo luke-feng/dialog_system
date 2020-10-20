@@ -1,0 +1,6 @@
+2012-07-15T21:04:00.000Z	subdmg		is there a way for me to lock a shared folder on ubuntu so windows machines cant access it with out password?
+2012-07-15T21:05:00.000Z	escott	subdmg	confused by the fact that "lock" and "without a password" appear in the same sentence
+2012-07-15T21:07:00.000Z	subdmg	escott	sorry about that, what I meant ppl have to have a password to access the shared folder
+2012-07-15T21:08:00.000Z	escott	subdmg	those should allow you to establish passwords on shares
+2012-07-15T21:08:00.000Z	subdmg	escott	ok thanks, i'll take a look at that.
+2012-07-15T21:14:00.000Z	subdmg	escott	one question, if I'm sharing a folder with many folders in it, can I lock just one folder with in the shared folder?

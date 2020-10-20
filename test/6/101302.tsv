@@ -1,0 +1,6 @@
+2008-02-16T03:57:00.000Z	pretender_		how can i remote desktop from my XP pc to my ubuntu pc
+2008-02-16T03:57:00.000Z	Slart	pretender_	use vnc or similar
+2008-02-16T03:59:00.000Z	Slart	pretender_	well.. you can remove your wallpaper.. run with fewer colors etc.. or try that other one.. can't remember the name...
+2009-04-05T02:38:00.000Z	Slart	pretender_	if devede doesn't work there is probably something wrong with the avi.. it's never failed me
+2009-04-05T02:39:00.000Z	Slart	pretender_	try catching that error message.. it might help diagnosing the problem
+2009-04-05T02:42:00.000Z	Slart	pretender_	not really sure... you might be able to convert it using mencoder or something.. depends on what the problem is

@@ -1,0 +1,6 @@
+2010-03-07T07:16:00.000Z	schnitzel		can anyone help me getting livecd-tools installed ?
+2010-03-07T07:16:00.000Z	schnitzel		i need to make a fedora usb disk that i can install from instead of the DVD
+2010-03-07T07:17:00.000Z	DasEi	schnitzel	use unetbootin for that
+2010-03-07T07:47:00.000Z	DasEi	schnitzel	news to me. tried myself witht the cd, works
+2010-03-07T07:48:00.000Z	DasEi	schnitzel	one "secret is to have the usb formatted properly before, and then give it few minutes, though app says finished, then cleanly unmount usb
+2010-03-07T07:49:00.000Z	DasEi	schnitzel	if dvd borks, why not use the cd then ?

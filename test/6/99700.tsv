@@ -1,0 +1,6 @@
+2006-12-08T07:47:00.000Z	Thialfihar		'allo, 'allo
+2006-12-08T07:49:00.000Z	Thialfihar		Is there a nice little benchmark tool to test CPU performance?
+2006-12-08T07:51:00.000Z	soundray	Thialfihar	bogomips from the sysutils package
+2006-12-08T07:52:00.000Z	soundray	Thialfihar	not *really* useful for comparing different CPUs, but usable to see the effects of, e.g., overclocking
+2006-12-08T07:58:00.000Z	Thialfihar	soundray	installed sysutils, but I can't find bogomips.
+2006-12-08T07:59:00.000Z	soundray	Thialfihar	sorry, I missed the latest developments. Read the description in 'apt-cache show sysutils'

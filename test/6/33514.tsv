@@ -1,0 +1,6 @@
+2011-08-01T05:03:00.000Z	induz_		there is no hash on ,iso file
+2011-08-01T05:04:00.000Z	induz_		 Can I run UNetbootin and salect a Linux Mint LIVE can this be enough
+2011-08-01T05:05:00.000Z	induz_		or I have to slect a version and then .iso too
+2011-08-01T05:05:00.000Z	induz_		 how can match the Hash
+2011-08-01T05:05:00.000Z	induz_		i downloaded the .iso
+2011-08-01T05:07:00.000Z	shadows090	induz_	you can type "md5sum " followed by the full directory to the iso, and including the iso. ex: md5sum /home/$user/Downloads/thisIso.iso

@@ -1,0 +1,6 @@
+2011-05-21T15:28:00.000Z	wendico		hello, i just upgraded to latest version and i encountered a couple of problems, first my wifi does not work unless i uncheck and check again "enable wireless" in my network icon
+2011-05-21T15:29:00.000Z	wendico		second problem is i cant hibernate because graphics dont resume correctly and i cant see. any help?
+2011-05-21T15:30:00.000Z	wendico		is there a way to roll back to my older ubuntu version?
+2011-05-21T15:30:00.000Z	Vonhinten	wendico	laptop?
+2011-05-21T15:37:00.000Z	Vonhinten	wendico	should try to find out the specific devices etc in that model, see which other acer aspire one's have those, and search for all those models with the same issue.  That's how I found answers for my asus n53
+2011-05-28T23:20:00.000Z	Vonhinten	wendico	just paste the output of lspci -v  to http://paste.ubuntu.com/

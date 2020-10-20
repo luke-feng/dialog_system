@@ -1,0 +1,6 @@
+2006-09-15T08:58:00.000Z	Pthag		I have a question about /etc/fstab.
+2006-09-15T08:58:00.000Z	Pthag		You see, I've got an external HD, and it's the problem where by default it's write protected
+2006-09-15T08:59:00.000Z	Dr_Willis	Pthag	 what filesystem is on the drive?
+2006-09-15T08:59:00.000Z	Dr_Willis	Pthag	 you need to use the 'umask=0222' option thats discussed on that url
+2006-09-15T09:00:00.000Z	Dr_Willis	Pthag	 you really DONT want to write to a NTFS drive. you risk data loss/loss of the whole drive
+2006-09-15T09:10:00.000Z	Dr_Willis	Pthag	 with the right tools windows - can read/write to ext2/3 drives

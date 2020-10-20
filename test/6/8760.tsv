@@ -1,0 +1,6 @@
+2011-08-06T15:36:00.000Z	Creator25		hi any one can help?
+2011-08-06T15:37:00.000Z	Creator25		:)
+2011-08-06T15:37:00.000Z	Creator25		mount -o rw,remount rootfs /
+2011-08-06T15:38:00.000Z	Creator25		why after a reboot every change that i make it dissapear
+2011-08-06T15:39:00.000Z	astraljava	Creator25	You need to put it into /etc/fstab so that it's permanent
+2011-08-06T15:40:00.000Z	astraljava	Creator25	?! This is a #ubuntu support channel.

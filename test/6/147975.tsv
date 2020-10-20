@@ -1,0 +1,6 @@
+2005-05-18T15:32:00.000Z	shadeofgrey		okay i need help
+2005-05-18T15:32:00.000Z	franklin50	shadeofgrey	what's up?
+2005-05-18T15:33:00.000Z	franklin50	shadeofgrey	the tilde "~" refers to your home directory, so check in /home/you/Edit..
+2005-05-18T15:35:00.000Z	franklin50	shadeofgrey	well, I'd first make sure that the software you want is in Synaptic (or apt-get if you like terminal stuff)
+2005-05-18T15:36:00.000Z	franklin50	shadeofgrey	hmm.. where does the company suggest installing it?
+2005-05-18T15:37:00.000Z	franklin50	shadeofgrey	well, in your home directory is a fine place.

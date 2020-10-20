@@ -1,0 +1,6 @@
+2005-08-11T09:50:00.000Z	b0xen		Can somebody answer a quick package management question for me?
+2005-08-11T09:52:00.000Z	jowi	b0xen	it is safe to remove. it is a dummy package.
+2005-08-11T09:52:00.000Z	b0xen	jowi	it says if you remove ubuntu-desktop it will brake certain update features
+2005-08-11T09:53:00.000Z	jowi	b0xen	i do manual updates so that does not bother me. removing ubuntu-desktop is safe.
+2005-08-11T09:53:00.000Z	b0xen	jowi	Okay but say I like using Ubuntu Update Manager? It will still work right?
+2005-08-11T09:53:00.000Z	jowi	b0xen	yes

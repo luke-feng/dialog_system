@@ -1,0 +1,6 @@
+2012-05-09T02:50:00.000Z	tfitts_		I'm trying to upgrade from 10.04 LTS to 12.04LTS and in the process of upgrading I'm getting a bunch of errors like W:Failed to fetch http://s2plmirror01.prod.sdl2.secureserver.net/ubuntu/dists/natty/multiverse/binary-i386/Packages.gz 404 Not Found and it won't complete.  is this mirror down or something?
+2012-05-09T02:51:00.000Z	tfitts_		can anyone see this or do I have to use a registered nick to type in this channel?
+2012-05-09T02:52:00.000Z	tfitts_		ok
+2012-05-09T02:52:00.000Z	tfitts_		so anyone know about the 404 errors with upgrading to natty?
+2012-05-09T02:52:00.000Z	krababbel	tfitts_	everyone
+2012-05-09T02:53:00.000Z	krababbel	tfitts_	!ask

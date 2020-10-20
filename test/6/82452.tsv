@@ -1,0 +1,6 @@
+2008-01-28T04:33:00.000Z	Creed		Is there a tool I can use to see the filesystem type of unmounted partitions on a device (hda)?
+2008-01-28T04:33:00.000Z	soundray	Creed	sudo fdisk -l
+2008-01-28T04:34:00.000Z	Creed	soundray	that shows the partition type, any way to see the filesystem type (ext3, swap, etc)?
+2008-01-28T04:35:00.000Z	soundray	Creed	it shows both, if there is a filesystem. If only the partition type is shown, then there is no filesystem (or it is unreadable)
+2008-01-28T04:35:00.000Z	Creed	soundray	doesnt show the type unfortunately. It is a readable filesystem.
+2008-01-28T04:38:00.000Z	soundray	Creed	man vol_id

@@ -1,0 +1,6 @@
+2012-05-02T23:22:00.000Z	shashwatpns		I just upgraded to 12.04  and now my login cycles.....help please
+2012-05-02T23:23:00.000Z	ActionParsnip	shashwatpns	press CTRL+ALT+F1 and run:   sudo apt-get clean; sudo chown -R $USER:$USER $HOME   then press CTRL+ALT+F7 and login
+2012-05-02T23:32:00.000Z	shashwatpns	ActionParsnip	It did not work
+2012-05-02T23:34:00.000Z	ActionParsnip	shashwatpns	if you make a new user, is it ok as the new user?
+2012-05-02T23:35:00.000Z	shashwatpns	ActionParsnip	I've got some important data there.....
+2012-05-02T23:38:00.000Z	shashwatpns	ActionParsnip	It actually happened after changed privilages and removed the" login automatically" of other users and mine.....

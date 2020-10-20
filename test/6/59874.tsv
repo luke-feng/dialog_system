@@ -1,0 +1,6 @@
+2008-04-23T02:00:00.000Z	undecim	Pelo	You can remove tracker, but you will need to run locate -u every once in a while to keep your file searching working
+2008-04-23T02:01:00.000Z	Pelo	undecim	won't it just rescan my FS from scratch when i search ?
+2008-04-23T02:02:00.000Z	undecim	Pelo	I don't know. I figured that was what tracker was for, to keep your file search database up to date
+2008-04-23T02:02:00.000Z	Pelo	undecim	for the related tracker applet yes but I don'T expect for old cli commands like locate
+2008-04-23T02:03:00.000Z	undecim	Pelo	Okay, scratch that. It doesn't make any difference with or without tracker when I search my comp for newly created files
+2010-01-14T10:17:00.000Z	Pelo	undecim	you only need one,  along with a tomato package and mayo++

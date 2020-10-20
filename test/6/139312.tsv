@@ -1,0 +1,6 @@
+2005-10-16T06:08:00.000Z	limguohong91		There seem that there is no root account?
+2005-10-16T06:08:00.000Z	limguohong91		So how do i do sudo?
+2005-10-16T06:08:00.000Z	limguohong91		I see
+2005-10-16T06:08:00.000Z	limguohong91		Thanks :)
+2005-10-16T06:09:00.000Z	limguohong91		Okay :)
+2005-10-16T06:10:00.000Z	intelikey	limguohong91	there is a root account.  but you probably don't have a passwd set for root.   sudo uses $UID's password (assumes they are in sudoers) to run commands as root for $UID.

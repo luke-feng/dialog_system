@@ -1,0 +1,6 @@
+2006-10-03T16:57:00.000Z	collier_		?
+2006-10-03T16:57:00.000Z	collier_		so instead of /mnt/ /media?
+2006-10-03T16:58:00.000Z	ic56	collier_	yes.  /media instead of /mnt/.  This won't fix your current problem but you might as well get that right in the first place.
+2006-10-03T05:00:00.000Z	ic56	collier_	collier the error message from mount means that the file /dev/sdb1 doesn't exist.  Repeating the command won't make the file re-appear.
+2006-10-03T05:02:00.000Z	ic56	collier_	You need to find out why that device file wasn't created when you installed or when you booted (some systems run a script that auto-creates/deletes these files on each boot -- I forget what Ubuntu does)
+2006-10-03T05:04:00.000Z	ic56	collier_	generally, if the device driver isn't loaded, the file in /dev/ won't exist.

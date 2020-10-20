@@ -1,0 +1,6 @@
+2008-01-15T02:40:00.000Z	winter-mute		Anyone has problems with minute interruptions in sound playback, while browsing?
+2008-01-15T02:42:00.000Z	winter-mute		like load page *skip*
+2008-01-15T02:43:00.000Z	winter-mute		thing is with gentoo it never did do so, so my computer is powerful enough not to have sound skip
+2008-01-15T02:44:00.000Z	pike_	winter-mute	ive run ubuntu on like a piii650 in gnome and using firefox withouth a problem before
+2008-01-15T02:51:00.000Z	winter-mute	pike_	yes thats the problem that sound skips on trivial tasks. Buffering should take care of this.
+2008-01-15T02:51:00.000Z	winter-mute	pike_	maybe its a kernel problem

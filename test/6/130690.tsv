@@ -1,0 +1,6 @@
+2005-11-18T16:23:00.000Z	Tony_Sidaway		Hmm, got a problem.  If I do "ps e" I see tty1 to tty6 running gettys, and pts/1, which is running X.  And when I'm in the boot sequence I can switch from tty1 to tty2 and so on by using Ctrl-Alt-F1.
+2005-11-18T16:24:00.000Z	Tony_Sidaway		But when I'm in X, I can't get out using those key combinations.
+2005-11-18T16:26:00.000Z	Tony_Sidaway		# ls /etc/xmodmap.conf
+2005-11-18T16:26:00.000Z	Tony_Sidaway		ls: /etc/xmodmap.conf: No such file or director
+2005-11-18T16:28:00.000Z	LasseL	Tony_Sidaway	a little warning: i don't think that ubuntu will load your xmodmap.conf file automatically, even if you create it
+2005-11-18T16:29:00.000Z	Tony_Sidaway	LasseL	thanks.  I'll have to work out how a stock ubuntu install makes it happen.

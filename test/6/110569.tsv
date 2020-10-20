@@ -1,0 +1,6 @@
+2006-08-19T14:08:00.000Z	perry_		anybody able to help me get an HP OfficeJet all-in-one up and running?
+2006-08-19T14:08:00.000Z	perry_		i've got hplip installed but the jobs are constant;y stopping
+2006-08-19T14:08:00.000Z	bruenig	perry_	usually HP is pretty easy to get going. Have you tried system>administration>printing and going through that stuff
+2006-08-19T14:09:00.000Z	perry_	bruenig	yeah, when I get to step 2 of 2, there's nothing in the dropdown list, and when I install the ppd file, it says its already installed and doesnt give me anywhere to go but 'cancel' :P
+2006-08-19T14:10:00.000Z	bruenig	perry_	have you tried using a driver for another hp printer, most of them use the same one I believe hplips or something like that
+2006-08-19T14:10:00.000Z	perry_	bruenig	i've got hplip installed :P

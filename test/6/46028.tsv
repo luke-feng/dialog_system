@@ -1,0 +1,6 @@
+2009-06-14T01:30:00.000Z	istvan		every time i try to install ubuntu I get the error: executing 'grub-install /dev/sda' failed. this is a fatal error' - how do i fix this!!!???
+2009-06-14T01:30:00.000Z	sebsebseb	istvan	sounds like Grub won't detect your hard disk
+2009-06-14T01:31:00.000Z	sebsebseb	istvan	well install to it
+2009-06-14T01:31:00.000Z	sebsebseb	istvan	this might provide a useful link
+2009-06-14T01:53:00.000Z	istvan	sebsebseb	http://ubuntuforums.org/showthread.php?p=7451504#post7451504 -- there is my question asked better'
+2009-06-14T01:55:00.000Z	sebsebseb	istvan	did I help you with something? I don't remember

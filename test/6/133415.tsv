@@ -1,0 +1,6 @@
+2005-10-31T15:32:00.000Z	Eddie		im having trouble listening to www.queensradio.org on rhythmbox
+2005-10-31T15:32:00.000Z	Eddie		is there some kind of plugin I need to install
+2005-10-31T15:32:00.000Z	thirso	Eddie	try with Beep Media Player
+2005-10-31T15:33:00.000Z	Eddie	thirso	can i apt-get it?
+2005-10-31T15:34:00.000Z	thirso	Eddie	yeah you can
+2005-10-31T15:35:00.000Z	thirso	Eddie	sudo apt-get install beep-media-player

@@ -1,0 +1,6 @@
+2005-11-21T16:04:00.000Z	vegos		Im using a broadcom 802.11b/g WLAN
+2005-11-21T16:04:00.000Z	vegos		ive installed ndiswrapper
+2005-11-21T16:04:00.000Z	vegos		and wrapped the windows driver
+2005-11-21T16:06:00.000Z	vegos		for example: i will do----sudo iwconfig wlan0 essid "myessid" , but when i enter iwconfig the wlan0 still has essid as off/any
+2005-11-21T16:07:00.000Z	GTswagger	vegos	 This is a Gentoo ndiswrapper guide many people have found very successful.  Give it a try, ignoring Gentoo commands like "emerge" and keeping in mind to use Ubuntu stuff like sudo
+2005-11-21T16:07:00.000Z	GTswagger	vegos	http://forums.gentoo.org/viewtopic.php?t=125627

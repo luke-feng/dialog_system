@@ -1,0 +1,6 @@
+2010-06-03T13:33:00.000Z	kitt99		where i can find driver sis 671fx for ubuntu karmic?
+2010-06-03T13:33:00.000Z	kitt99		anyone can help me
+2010-06-03T13:35:00.000Z	kitt99		my vga not detected in ubuntu karmic koala
+2010-06-03T13:35:00.000Z	kitt99		my vga sis 671
+2010-06-03T13:35:00.000Z	well_laid_lawn	kitt99	use the vesa driver for that card
+2010-06-03T13:38:00.000Z	well_laid_lawn	kitt99	that card has known limitations - just use the vesa driver

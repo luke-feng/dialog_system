@@ -1,0 +1,6 @@
+2007-11-21T13:07:00.000Z	knights		Hi!
+2007-11-21T13:07:00.000Z	knights		I'm new to ssh. When I've ssh'd into a remote box, is it possible for me to open files on the remote machine using apps installed on my local box? Also, how do I go about accessing my local drive from within ssh to copy files from one to the other? Is this possible using ssh?
+2007-11-21T13:08:00.000Z	albech	knights	yes with sshfs
+2007-11-21T13:10:00.000Z	knights	albech	/astro : OK, I'll look into sshfs, but how do I use apps on my local box to open remote files?
+2007-11-21T13:18:00.000Z	knights	albech	Its not dead- they've made new releases in recent months
+2007-11-21T13:19:00.000Z	albech	knights	new release, yes, but what about features and stability?

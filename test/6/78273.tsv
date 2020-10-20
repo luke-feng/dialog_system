@@ -1,0 +1,6 @@
+2008-01-26T02:52:00.000Z	keir		what is the recommended way to install flash? seeing as how the package is broken by md5sum?
+2008-01-26T02:52:00.000Z	keir		i can't believe this isn't fixed yet
+2008-01-26T02:52:00.000Z	keir		it makes ubuntu look very bad
+2008-01-26T02:53:00.000Z	keir		it doesn't matter who's fault it is
+2008-01-26T02:53:00.000Z	danbhfive	keir	it is odd that it isn't fixed, but its simple to install yourself,  just download flash, and put it into your plugins folder
+2008-01-26T02:56:00.000Z	danbhfive	keir	/j #ubuntu-offtopic to find out

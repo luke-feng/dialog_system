@@ -1,0 +1,6 @@
+2008-03-01T00:41:00.000Z	eeepcsx66		I can not edit my /etc/init.d/rc file because of admin rights, how do I get around this to change the concurrency=shell?
+2008-03-01T00:43:00.000Z	eeepcsx66		I can not edit my /etc/init.d/rc file because of permission rights, how do I get around this to change the concurrency=shell to speed up boot time on my pc?
+2008-03-01T00:44:00.000Z	Jack_Sparrow	eeepcsx66	sudo nano to edit or gksudo gedit
+2008-03-01T00:44:00.000Z	eeepcsx66	Jack_Sparrow	thank you
+2008-03-01T00:46:00.000Z	eeepcsx66	Jack_Sparrow	I typed that in the terminal and nothing popped up...besides editing on the bottom...I need the notepad thing to edit...then save?
+2008-03-01T00:47:00.000Z	Jack_Sparrow	eeepcsx66	you need to add the path and filename you want to edit after those commands

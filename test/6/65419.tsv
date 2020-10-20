@@ -1,0 +1,6 @@
+2009-02-14T11:24:00.000Z	thechris		so, does anyone know what Xorg does that it uses 18% CPU at all times?
+2009-02-14T11:24:00.000Z	histo	thechris	doesn't here sitting at 1% with irc web rhythmbox etc.. all running
+2009-02-14T11:25:00.000Z	thechris	histo	yeah, it idles at 18% here.  not sure why
+2009-02-14T11:25:00.000Z	histo	thechris	you running compiz?
+2009-02-14T11:25:00.000Z	thechris	histo	i assume whatever kde runs
+2009-02-14T11:26:00.000Z	thechris	histo	not that turning graphics off does anything

@@ -1,0 +1,6 @@
+2011-07-28T03:47:00.000Z	v3nd3tta``		and also in the top directories with -R (recursive) option etc
+2011-07-28T03:49:00.000Z	qin	v3nd3tta``	ls -l and lsattr on _the_ file
+2011-07-28T03:53:00.000Z	v3nd3tta``	qin	ls -a returns my username, but lsattr returns '-----------------e-' on the file
+2011-07-28T03:54:00.000Z	qin	v3nd3tta``	Thats ok
+2011-07-28T03:56:00.000Z	qin	v3nd3tta``	I do not know nautilus, maybe.
+2011-07-28T04:02:00.000Z	qin	v3nd3tta``	what if you cp <folder with 1001> <somewhere else>, does nautilus see it proper?

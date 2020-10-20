@@ -1,0 +1,6 @@
+2006-04-27T16:52:00.000Z	E		evening all. quick, rather stupid question, how do I copy a bunch of folders?
+2006-04-27T16:52:00.000Z	boabsta	E	cp -R
+2006-04-27T16:53:00.000Z	boabsta	E	cp -R source_folder dest_folder
+2006-04-27T16:53:00.000Z	boabsta	E	dli s way is better :)
+2006-04-27T16:54:00.000Z	boabsta	E	im drunnk dont pay attention
+2006-04-27T16:57:00.000Z	boabsta	E	cp * /blah will need -R, cp -a should copy all sub dirs too

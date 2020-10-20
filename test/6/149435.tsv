@@ -1,0 +1,6 @@
+2006-01-14T16:05:00.000Z	CortoMaltese		Please, help me. I need help with kubuntu. I have made an great error. Query me. please
+2006-01-14T16:06:00.000Z	lsuactiafner	CortoMaltese	: nobody will send a private msg, you have to ask in this channel and someone might help you if they feel like it and know the answer
+2006-01-14T16:07:00.000Z	lsuactiafner	CortoMaltese	: try sudo su then run passwd ?
+2006-01-14T16:08:00.000Z	lsuactiafner	CortoMaltese	: or just somehow add the same entry your user has to the passwd and shadow files and change the username to root
+2006-01-14T16:10:00.000Z	lsuactiafner	CortoMaltese	: when you boot linux, add root=/bin/sh to the grub prompt, then run passwd when you are booted up
+2006-01-14T16:13:00.000Z	lsuactiafner	CortoMaltese	: no idea what you meant

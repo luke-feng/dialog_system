@@ -1,0 +1,6 @@
+2006-01-03T08:36:00.000Z	slide		I have 3 harddrives, a 300GB, 150GB and a 100GB. Is there anyway to combine them all to act as one drive?
+2006-01-03T08:37:00.000Z	slide		LVM is better/easier then raid?
+2006-01-03T08:37:00.000Z	psusi	slide	yes... you can use LVM... but if one drive dies, you loose ALL the data
+2006-01-03T08:37:00.000Z	slide	grant_	and by fail, do you mean fail totally or what if it just starts to hiccup for a bit and then works again?
+2006-01-03T08:38:00.000Z	slide	grant_	yea, but what if it just fails for a bit and then comes back, will they all be ok?
+2006-01-03T08:39:00.000Z	psusi	slide	possibly

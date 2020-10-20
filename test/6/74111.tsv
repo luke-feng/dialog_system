@@ -1,0 +1,6 @@
+2008-03-02T18:50:00.000Z	johan_new_Ubuntu		Hi!
+2008-03-02T18:50:00.000Z	johan_new_Ubuntu		I am quite new to both irssi and Ubuntu, but I have used linux awhile!
+2008-03-02T18:52:00.000Z	johan_new_Ubuntu		I am wondering how to get nvidia 3D working. I have Gefoorce4, and i have tried with nvidia-glx-configure and got my terminal lost.So how do i do it properly?
+2008-03-02T18:53:00.000Z	johan_new_Ubuntu		Is it the right channel, or could someone redirect me to it?
+2008-03-02T18:55:00.000Z	johan_new_Ubuntu		You mean nvidia website?
+2008-03-02T18:55:00.000Z	ere4si	johan_new_Ubuntu	can you type in a terminal    lspci | grep nvidia and tell us the output?

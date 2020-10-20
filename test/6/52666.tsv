@@ -1,0 +1,6 @@
+2008-08-13T06:58:00.000Z	Tom_nuggin		yay I can gedit
+2008-08-13T06:59:00.000Z	Tom_nuggin		I added myself to the vboxusers group that was created for virtual box
+2008-08-13T06:59:00.000Z	Tom_nuggin		I can't seem to remember if I added any other groups
+2008-08-13T06:59:00.000Z	Tom_nuggin		VM cannot start because the hard disk is not accessible (VD: error opening image file  (VERR_ACCESS_DENIED)).
+2008-08-13T06:59:00.000Z	Tom_nuggin		"VM cannot start because the hard disk '/home/timmy/.VirtualBox/WindowsXP.vmdk' is not accessible (VD: error opening image file '/home/timmy/.VirtualBox/WindowsXP.vmdk' (VERR_ACCESS_DENIED))."
+2008-08-13T07:01:00.000Z	gisli	Tom_nuggin	remove the hard drive and put in again

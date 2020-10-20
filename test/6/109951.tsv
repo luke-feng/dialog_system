@@ -1,0 +1,6 @@
+2006-07-29T05:54:00.000Z	Plymouth		Can anyone tell me if a firewall is automatically installed with ubuntu 5.04, and how I go about investigating it please?
+2006-07-29T05:54:00.000Z	Jack_Sparrow	Plymouth	firewall is part of linux iptables and you dont use a firewall you use a firwall manager like firestarter only if needed
+2006-07-29T05:56:00.000Z	Plymouth	Jack_Sparrow	 Cheers, I've seen mention of this 'firestarter', but I've not seen anything on how to use it!
+2006-07-29T05:56:00.000Z	Jack_Sparrow	Plymouth	 you really dont need it
+2006-07-29T05:57:00.000Z	Plymouth	Jack_Sparrow	 Eh?  Everyone's squeeling about safety and security on the 'net
+2006-07-29T05:57:00.000Z	Jack_Sparrow	Plymouth	which is why Mac and Linux are safe, just Windows has the problem

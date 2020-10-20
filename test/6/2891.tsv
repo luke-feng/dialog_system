@@ -1,0 +1,6 @@
+2012-04-03T21:52:00.000Z	Deifyed		Hey. I'm trying to install ubuntu 11.10 desktop on a computer from USB, but it wont boot. I get a message saying "No DEFAULT or UI configuration directive found!" Any ideas?
+2012-04-03T21:52:00.000Z	i7c	Deifyed	the installation does  not boot?
+2012-04-03T21:55:00.000Z	i7c	Deifyed	it does not boot from usb? how did you prepare your usb drive?
+2012-04-03T21:55:00.000Z	Deifyed	i7c	Followed the guide on ubuntu.com. I'm able to boot it on my laptop, but not my desktop.
+2012-04-03T21:59:00.000Z	i7c	Deifyed	any errors when setting up? did you select the right version of ubuntu in the usb installer?
+2012-04-03T22:00:00.000Z	Deifyed	i7c	No errors and right version yes.

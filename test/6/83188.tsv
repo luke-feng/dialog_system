@@ -1,0 +1,6 @@
+2008-11-22T20:11:00.000Z	Greencoat1983		Is it possiblet o but my ubuntu livecd iso from a usb drive?
+2008-11-22T20:12:00.000Z	Greencoat1983		*boot
+2008-11-22T20:12:00.000Z	Greencoat1983		How do I do that? just copy the iso image to the usb drive?
+2008-11-22T20:12:00.000Z	netyire	Greencoat1983	ubuntu 8.10 has a feature to install an iso to a thumb drive
+2008-11-22T20:13:00.000Z	netyire	Greencoat1983	from 8.10: system -> administration -> create usb startup disk
+2008-11-22T20:13:00.000Z	netyire	Greencoat1983	the feature's only in 8.10 I fear :-(

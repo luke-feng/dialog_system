@@ -1,0 +1,6 @@
+2006-11-20T08:58:00.000Z	aksnowman		does anyone know why over 80 packages that I was trying to install can't be downloaded? I just installed this computer yesterday and updated the list of available packages before I started...
+2006-11-20T08:59:00.000Z	aksnowman		umm, one sec
+2006-11-20T08:59:00.000Z	aksnowman		W: Failed to fetch http://us.archive.ubuntu.com/ubuntu/pool/main/i/imlib+png2/imlib-base_1.9.14-16.2ubuntu4_all.deb
+2006-11-20T08:59:00.000Z	aksnowman		  404 Not Found
+2006-11-20T08:59:00.000Z	aksnowman		for each package
+2006-11-20T09:00:00.000Z	jerp	aksnowman	remove the US

@@ -1,0 +1,6 @@
+2007-08-25T14:16:00.000Z	jthomas		Hi, How do I remove the drive icons from the desktop?
+2007-08-25T14:16:00.000Z	PriceChild	jthomas	in gconf-editor, one minute
+2007-08-25T14:16:00.000Z	jthomas	PriceChild	Okay.
+2007-08-25T14:16:00.000Z	PriceChild	jthomas	open that program then browse to /apps/nautilus/
+2007-08-25T14:17:00.000Z	PriceChild	jthomas	/apps/nautilus/desktop, then uncheck volumes_visible
+2007-08-25T14:17:00.000Z	jthomas	PriceChild	Thank you :D

@@ -1,0 +1,6 @@
+2010-09-05T12:23:00.000Z	F|END		hi. does anybody know if ubuntu 10.10 will support toshiba laptops (with the overheating problem) ?
+2010-09-05T12:24:00.000Z	headkase314	F|END	you mean the *recalled* toshiba laptops? ;)  Send it back before it catches on fire!
+2010-09-05T12:26:00.000Z	headkase314	F|END	http://www.thirdage.com/news/toshiba-recall-burn-hazard-t-series-notebooks_9-4-201 <- theres a BIOS update but that will only shut down the power supply if it happens, the solution is to send it back to Toshiba
+2010-09-05T12:34:00.000Z	headkase314	F|END	what overheating problem are you having?
+2010-09-05T12:35:00.000Z	headkase314	F|END	that sounds like power management.  Windows may be idling the processor and Ubuntu may not.  I don't know, see what others say too.
+2010-09-05T12:37:00.000Z	headkase314	F|END	I honestly have no idea.   I don't have experience with Wubi.

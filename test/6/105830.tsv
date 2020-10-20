@@ -1,0 +1,6 @@
+2006-10-02T14:13:00.000Z	narma		hello, I'm using a external hard drive on my debian testing for a while. Now I want to plug it into my laptop with ubuntu 6.06.1. it's ok but into a shell when I do a 'ls' or something else I have lots of caracters that are written as '?'. (I have french caracters)
+2006-10-02T14:13:00.000Z	narma		into my debin $LANG=fr_FR@UTF8 and debian has fr_FR@euros
+2006-10-02T14:13:00.000Z	narma		is it this variable or something that can solve my problem ?
+2006-10-02T14:14:00.000Z	glatzor	narma	"dpkg-reconfigure locales" and "vi /etc/exports"
+2006-10-02T14:17:00.000Z	narma	glatzor	I have no /etc/exports file into my ubuntu...
+2006-10-02T14:17:00.000Z	glatzor	narma	sorry it is /etc/environment

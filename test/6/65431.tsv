@@ -1,0 +1,6 @@
+2009-05-08T02:49:00.000Z	frindly		i have an old pc with only 128mb ram. which ubuntu can i use?
+2009-05-08T02:49:00.000Z	frindly		ubuntu-minimal???
+2009-05-08T02:50:00.000Z	frindly		xubuntu works with 128mb?
+2009-05-08T02:50:00.000Z	histo	frindly	you can probably get away with running xubuntu on it.
+2009-05-08T02:51:00.000Z	histo	frindly	ext4 might offer some speed improvements too.
+2009-05-08T02:53:00.000Z	histo	frindly	if you odn't need a gui then just install a command line based system with the mini iso

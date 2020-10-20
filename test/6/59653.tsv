@@ -1,0 +1,6 @@
+2008-04-24T23:13:00.000Z	woodwizzle		Is there a bittorrent or metalink of Hardy out? Seems like there are less mirrors than normal
+2008-04-24T23:14:00.000Z	twanj_	woodwizzle	torrents n metalinks at http://releases.ubuntu.com/8.04/
+2008-04-24T23:21:00.000Z	woodwizzle	twanj_	Wow, canonical is doing the metalinks now?! That is awesome
+2008-04-24T23:22:00.000Z	twanj_	woodwizzle	I know! pretty exciting...
+2008-04-24T23:51:00.000Z	woodwizzle	twanj_	Maybe you know how to do this. I have the downthemall extension for firefox. When I click on a metalink firefox just opens it as a txt file. and if I manually add it to downthemall, it downloads the metalink, it doesn't USE the metalink
+2008-04-25T00:01:00.000Z	twanj_	woodwizzle	you can right click the metalink URL and select Save link w/ DTA or Start saving w/ DTA oneclick

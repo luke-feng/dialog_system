@@ -1,0 +1,6 @@
+2011-08-05T14:17:00.000Z	amt0101		Hello, I am using Gnome...and ubuntu 10.10. My gnome network applet is gone from the bar, how can I bring it back?
+2011-08-05T14:18:00.000Z	ActionParsnip	amt0101	run:  nm-applet
+2011-08-05T14:18:00.000Z	amt0101	ActionParsnip	 Thank you so much!
+2011-08-05T14:20:00.000Z	amt0101	ActionParsnip	 How do you bring up the run menue?
+2011-08-05T14:20:00.000Z	amt0101	ActionParsnip	 menu*
+2011-08-05T14:22:00.000Z	ActionParsnip	amt0101	press ALT+f2

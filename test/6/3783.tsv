@@ -1,0 +1,6 @@
+2012-02-17T06:17:00.000Z	Ahoalton		I am trying to change the boot order in grub.  I currently have Ubuntu 11.10 and win 7 dual booted
+2012-02-17T06:18:00.000Z	Ahoalton		can someone point me in the right direction please?
+2012-02-17T06:19:00.000Z	Ahoalton		how do I access that escott?
+2012-02-17T06:19:00.000Z	Ahoalton		I want to make windows 7 my first boot, currently ubuntu is
+2012-02-17T06:20:00.000Z	Ahoalton		ok escott, are you can you help me when I boot into ubuntu in a few minutes?
+2012-02-17T06:20:00.000Z	jswagner	Ahoalton	open a terminal and use grub-set-default.  check the help screen/man page for details.

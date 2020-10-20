@@ -1,0 +1,6 @@
+2007-10-11T16:54:00.000Z	Tigey		I am new to linux, but not so new to Sun/Unix.  Trying to install flash on Ubuntu 64-bit.  Flash seems to be only in the x86 variety..  Anyone know what I can do alternatively?
+2007-10-11T16:55:00.000Z	pike_	Tigey	/msg ubotu chroot   only solution i know
+2007-10-11T05:04:00.000Z	Tigey	pike_	This sets up a virtual 32-bit environment to install in right?
+2007-10-11T05:05:00.000Z	pike_	Tigey	yeah
+2007-10-11T05:06:00.000Z	Tigey	pike_	There does not seem to be a way to set up a feisty 32-bit type.  Still looking though...  <sigh>
+2007-10-11T05:07:00.000Z	Tigey	pike_	NM misspelled feisty. Grrr.

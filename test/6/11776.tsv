@@ -1,0 +1,6 @@
+2011-03-25T05:15:00.000Z	lordjj		Can someone please help?: http://ubuntuforums.org/showthread.php?t=1713147     Thanks!
+2011-03-25T05:17:00.000Z	terry_	lordjj	rm /etc/X11/xorg.conf
+2011-03-25T05:19:00.000Z	terry_	lordjj	prolly so.  or you can just rename it if you want.  mv /etc/X11/xorg.conf /etc/X11/xorg.conf.bak
+2011-03-25T05:19:00.000Z	terry_	lordjj	Or something like that.
+2011-03-25T05:20:00.000Z	lordjj	terry_	: thanks, will try that.
+2011-03-25T05:20:00.000Z	terry_	lordjj	Gud luk.

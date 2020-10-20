@@ -1,0 +1,6 @@
+2012-05-18T05:14:00.000Z	Xirrin		Anyone have a recommendation for a good free cross-platform backup utility? I'd like to be able to make searchable backup images, but everything seems to be non-searchable (CloneZilla) or just files and not images (CrashPlan).
+2012-05-18T05:14:00.000Z	ActionParsnip	Xirrin	could use rsync, its a simple file by file copy
+2012-05-18T05:15:00.000Z	Xirrin	ActionParsnip	Thanks for the suggestion. Not sure how I feel about a file-by-file copy though. Easy to restore a full backup from a downed machine?
+2012-05-18T05:16:00.000Z	ActionParsnip	Xirrin	yes, just copy the files back.
+2012-05-18T05:17:00.000Z	Xirrin	ActionParsnip	I ask because I know a lot of times those file-by-file copies don't include any type of partition information or boot sectors so you still have to reformat the drive and reinstall things.
+2012-05-18T05:18:00.000Z	ActionParsnip	Xirrin	true, you'll need to reinstate grub. You could make an ISO of the whole partition I guess

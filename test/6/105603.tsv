@@ -1,0 +1,6 @@
+2007-05-12T10:07:00.000Z	MadDog011		Im sorry, but does the ATI driver use the GLX module?
+2007-05-12T10:09:00.000Z	MadDog011		hey hey, I had a NVIDIA card on a linux box, and I replaced it with ATI card, what do I have to change in the XORG.CONF that's leftover from the old Drive?R
+2007-05-12T10:09:00.000Z	variant	MadDog011	use the restricted drivers manager and swap them
+2007-05-12T10:12:00.000Z	MadDog011	variant	I have glx enabled in my XORG is that ok ? can you send me your xorg, so I can see what it look slike? if u have a ati
+2007-05-12T10:12:00.000Z	variant	MadDog011	nope.. glx should be enabled yes
+2007-05-12T10:12:00.000Z	variant	MadDog011	remove ati driver, install nvidia driver simple

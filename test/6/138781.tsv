@@ -1,0 +1,6 @@
+2005-09-12T08:08:00.000Z	Brunellus		hi guys I have no mouse cursor
+2005-09-12T08:09:00.000Z	Brunellus		/var/log/syslog has a message in it to this effect
+2005-09-12T08:09:00.000Z	Brunellus		"localhost kernel psmouse.c bad data from KBC--bad parity
+2005-09-12T08:09:00.000Z	Brunellus		what's going on?
+2005-09-12T08:10:00.000Z	Brunellus		very funny guys
+2005-09-12T08:11:00.000Z	none_-	Brunellus	corrupted driver, maybe?

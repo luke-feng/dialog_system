@@ -1,0 +1,6 @@
+2007-11-20T05:09:00.000Z	Maenad		hey any of you got a few minutes to spare to help me set up some kind of networking in linux? i mean, file sharing. smb or nfs or ftp.. any of them would work...
+2007-11-20T05:10:00.000Z	Kl4m	Maenad	if you want to share with Windows (or even orther linux) or a local network, smb is definetly best
+2007-11-20T05:10:00.000Z	Kl4m		!samba | Maenad
+2007-11-20T05:11:00.000Z	Maenad	Kl4m	okay, i looked online for about an hour to try and figure out a simple configuration for /etc/samba/smb.conf so that i can access my home dir over my network and i cant come up with anything that works. would you mind helping me set that file up?
+2007-11-20T05:13:00.000Z	Maenad		i looked online for about an hour to try and figure out a simple configuration for /etc/samba/smb.conf so that i can access my home dir over my network and i cant come up with anything that works. would someone mind helping me set that file up?
+2007-11-20T05:14:00.000Z	Kl4m	Maenad	sorry I have to go. You can ask #Samba also.

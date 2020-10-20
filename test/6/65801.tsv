@@ -1,0 +1,6 @@
+2012-08-18T11:11:00.000Z	MykleSea		hi
+2012-08-18T11:11:00.000Z	MykleSea		can somebody help me with something regarding ubuntu
+2012-08-18T11:12:00.000Z	MykleSea		I am trying to automount  my usb to my ubuntu server using 'usbmount'...  ive installed it... but once i plug in my usb,  usb0 continues to be an empty directory.. how do i fix this?  usb0-7 are all empty
+2012-08-18T11:13:00.000Z	MykleSea		i will be  plugging in and unplugging my usb every so often which is why i wnat to use usbmount
+2012-08-18T11:13:00.000Z	MykleSea		i believe its ntfs
+2012-08-18T11:13:00.000Z	ActionParsnip	MykleSea	when you come to unplug it, do you unmount it and eject it?

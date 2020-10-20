@@ -1,0 +1,6 @@
+2010-03-31T00:39:00.000Z	Colloguy		how do I install a new sudoers from a file?
+2010-03-31T00:39:00.000Z	jrib	Colloguy	what are you trying to accomplish?
+2010-03-31T00:39:00.000Z	Colloguy	jrib	learning the sudoers equivalent of crontab FILE
+2010-03-31T00:40:00.000Z	jrib	Colloguy	ok, but what do you want to do?  If you just want to learn about the format for sudoers read « man sudoers »
+2010-03-31T00:41:00.000Z	Colloguy	jrib	that looks like it goes into the format of the sudoers file. I mean I can just copy and paste my new sudoers into visudo, but was wondering if there was a much quicker way
+2010-03-31T00:42:00.000Z	jrib	Colloguy	no, not a quicker way that's safe anyway...

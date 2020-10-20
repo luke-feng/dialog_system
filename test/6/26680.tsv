@@ -1,0 +1,6 @@
+2009-12-16T15:36:00.000Z	Diverdude		Does there exist a program for ubuntu that will group all tasks in the taskpane, so that e.g. all terminals will be grouped together, all browsers will be grouped together etc. ?
+2009-12-16T15:36:00.000Z	ardchoille	Diverdude	you can right click the task bar and choose to group in the prefs
+2009-12-16T15:38:00.000Z	Diverdude	ardchoille	hmmm i dont see that option
+2009-12-16T15:38:00.000Z	ardchoille	Diverdude	right click the left edge of the taskbar applet, choose preferences and then choose grouping
+2009-12-16T15:39:00.000Z	Diverdude	ardchoille	ahhh yes there it is
+2010-01-24T23:10:00.000Z	ardchoille	Diverdude	you could try: history | grep ev

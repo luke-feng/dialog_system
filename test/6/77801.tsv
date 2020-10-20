@@ -1,0 +1,6 @@
+2011-08-12T19:52:00.000Z	lucenut		I have an HP Mini netbook that will only take 1G RAM and I'd like to install ubuntu and have it dual boot. It currently has Windows 7.
+2011-08-12T19:52:00.000Z	lucenut		I have downloaded the 9.04 netbook remix and the 11.04 iso.
+2011-08-12T19:53:00.000Z	lucenut		Isn't an iso for burning a CD?
+2011-08-12T19:53:00.000Z	lucenut		Can't do much with it on the netbook. Don't most netbooks not have CDRs?
+2011-08-12T19:54:00.000Z	bazhang	lucenut	use a usb stick with unetbootin
+2011-08-12T19:55:00.000Z	bazhang	lucenut	une is no more 11.04 does it by default now

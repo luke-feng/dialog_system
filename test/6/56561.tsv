@@ -1,0 +1,6 @@
+2008-11-28T19:04:00.000Z	bob1		Is there a gui display for all the devices in your system and the drivers they are using ?
+2008-11-28T19:05:00.000Z	ne2k__	bob1	it doesn't really work like that. your best bet is probably to look at the output of dmesg
+2008-11-28T19:05:00.000Z	bob1	ne2k__	is there a way to tell which driver my wireless is using ?
+2008-11-28T19:06:00.000Z	ne2k__	bob1	look for the interface designation (wlan0, eth1, or whatever) in the output of dmesg
+2008-11-28T19:06:00.000Z	bob1	ne2k__	 so like dmesg | grep wlan0
+2008-11-28T19:07:00.000Z	ne2k__	bob1	yep

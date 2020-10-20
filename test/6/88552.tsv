@@ -1,0 +1,6 @@
+2009-04-06T01:07:00.000Z	clearscreen		Just a question out of curiosity, where and how are the settings you can edit through gconf-editor stored?
+2009-04-06T01:07:00.000Z	clearscreen		!gconf
+2009-04-06T01:08:00.000Z	clearscreen		!gconf-editor > clearscreen
+2009-04-06T01:08:00.000Z	clearscreen		meh
+2009-04-06T01:08:00.000Z	Brucevdk	clearscreen	~/.gconf in XML files
+2009-04-06T01:08:00.000Z	clearscreen	Brucevdk	aha, alright..

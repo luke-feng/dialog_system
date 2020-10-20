@@ -1,0 +1,6 @@
+2005-12-18T14:26:00.000Z	darker-ghost		what is my nick here?
+2005-12-18T14:26:00.000Z	darker-ghost		ok
+2005-12-18T14:26:00.000Z	darker-ghost		i have a problem
+2005-12-18T14:26:00.000Z	darker-ghost		with the root password
+2005-12-18T14:27:00.000Z	darker-ghost		i tried edit the file "xorg.conf"
+2005-12-18T14:27:00.000Z	thrice`	darker-ghost	sudo gedit /etc/X11/xorg.conf

@@ -1,0 +1,6 @@
+2005-01-12T07:28:00.000Z	opi		never saw it, but if it runs on other Linux distros, why not?
+2005-01-12T07:28:00.000Z	reperire	opi	Yeah it says it runs on Red Hat, so you reckon it'll run on Ubuntu?
+2005-01-12T07:28:00.000Z	opi	reperire	if it comes in binary form and it's linked staticly, then I see no problem
+2005-01-12T07:28:00.000Z	reperire		Okay.
+2005-01-12T07:29:00.000Z	opi	reperire	use alien to convert it to Debian package
+2005-01-12T07:29:00.000Z	opi	reperire	you'll avoid dep. problems

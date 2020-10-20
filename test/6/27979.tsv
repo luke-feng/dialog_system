@@ -1,0 +1,6 @@
+2011-12-22T09:29:00.000Z	jon____		can anyone tell me what does this cronjob do? "[ -x /usr/lib/php5/maxlifetime ] && [ -d /var/lib/php5 ] && find /var/lib/php5/ -depth -mindepth 1 -maxdepth 1 -type f -cmin +$(/usr/lib/php5/maxlifetime) ! -execdir fuser -s {} 2>/dev/null \; -delete"
+2011-12-22T09:30:00.000Z	OerHeks	jon____	what should it do ?
+2011-12-22T09:31:00.000Z	jon____	OerHeks	I have no idea. its inserted by webmin
+2011-12-22T09:35:00.000Z	OerHeks		!mtd
+2011-12-22T09:38:00.000Z	jon____	OerHeks	Any idea?
+2011-12-22T09:38:00.000Z	OerHeks	jon____	nope

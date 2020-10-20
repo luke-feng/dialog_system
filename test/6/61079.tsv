@@ -1,0 +1,6 @@
+2008-04-07T13:47:00.000Z	bullgard4	eax_	I believe that it will work automatically if you have set Danish locales for your Ubuntu. At least this worked for me with German.
+2008-04-07T13:49:00.000Z	eax_	bullgard4	The problem is that locaes it set to english :) And not even the english spelling correcter works :/
+2008-04-07T13:50:00.000Z	bullgard4	eax_	So your problem is not routed in the locales but rather in OpenOffice.org. And is not Danish specific.
+2008-04-07T13:51:00.000Z	eax_	bullgard4	Yes :)
+2008-04-07T13:56:00.000Z	bullgard4	eax_	May be you can extract an error message and report it here in its full length.
+2008-04-07T14:01:00.000Z	eax_	bullgard4	There is no error :/

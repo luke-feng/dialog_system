@@ -1,0 +1,6 @@
+2009-06-18T00:58:00.000Z	EyePulp		okay - on our eth0 we have the correct IP address assigned from the new datacenter - but TX and RX under ifconfig are showing errors - recommended next steps?
+2009-06-18T00:58:00.000Z	frostburn	EyePulp	what error counters are incrementing?
+2009-06-18T00:59:00.000Z	frostburn	EyePulp	if it says errors and carrier, you probably have a negotiation problem
+2009-06-18T00:59:00.000Z	EyePulp	frostburn	no incrementing on anything but the error counter
+2009-06-18T01:02:00.000Z	frostburn	EyePulp	check to see if there are any errors on the switch side, check out http://www.cisco.com/en/US/products/hw/switches/ps700/products_tech_note09186a008015bfd6.shtml
+2009-06-18T01:02:00.000Z	EyePulp	frostburn	checking your url now - danke

@@ -1,0 +1,6 @@
+2005-12-08T06:33:00.000Z	mifritscher	sdakota	you can basically use every distro...
+2005-12-08T06:34:00.000Z	sdakota	mifritscher	bzimage, but not all distro's have the same efficiency for servers (software choice: probably bind9, apache, proftpd, and postfix)
+2005-12-08T06:35:00.000Z	mifritscher	sdakota	I use debian on my internet server and ubuntu locally
+2005-12-08T06:36:00.000Z	sdakota	mifritscher	so you would still choose debian if you want to install an optimal server?
+2005-12-08T06:37:00.000Z	mifritscher	sdakota	yes, or ubuntu
+2005-12-08T06:53:00.000Z	mifritscher	sdakota	ther is qemu for windows ;)

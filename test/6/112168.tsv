@@ -1,0 +1,6 @@
+2006-07-03T07:47:00.000Z	Tom7e		i want to remove Totem, but it depends on ubuntu-desktop, can I remove that?  or is that bad?
+2006-07-03T07:48:00.000Z	skavenge	Tom7e	its something you'll want to reinstall if you ever upgrade the whole distro but its actually a meta package, doesnt contain anything but a list of other packages really
+2006-07-03T07:49:00.000Z	Tom7e	skavenge	 so it won't remove those other packages, right?
+2006-07-03T07:49:00.000Z	skavenge	Tom7e	nope
+2006-07-03T07:50:00.000Z	skavenge	Tom7e	should be fine, only reason i mentioned the installing it later if you distro upgrade is i hear it makes it a bit smoother
+2006-07-03T07:50:00.000Z	Tom7e	skavenge	 ok thanks

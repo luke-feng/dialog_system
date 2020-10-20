@@ -1,0 +1,6 @@
+2012-03-10T18:30:00.000Z	Xirrin1		I'm hoping someone might be able to provide me a little direction? I have a Mac Mini from about 4 years ago and am attempting to install linux on it. I have a Logitech diNovo keyboard that connects via bluetooth. The keyboard works perfectly fine to boot up, select a boot method, and type up until the bootup copmletes. Once complete I get the following message: "Bluetooth: hci- urb f72de180 submission failed" and the keyboard/mouse ac
+2012-03-10T18:30:00.000Z	MonkeyDust	Xirrin1	 install Ubuntu on it, or some other distro?
+2012-03-10T18:32:00.000Z	MonkeyDust	Xirrin1	 Backtrack is not supported here, so stick to Ubuntu for now
+2012-03-10T18:34:00.000Z	MonkeyDust	Xirrin1	 which ubuntu version is it, on that rather old mac?
+2012-03-10T18:38:00.000Z	MonkeyDust	Xirrin1	 i found this, find "bluetooth" on this page https://help.ubuntu.com/community/UbuntuOnMacMini
+2012-03-10T18:41:00.000Z	MonkeyDust	Xirrin1	 my advice is to upgrade to a newer ubuntu version, it seems BT is not well supported on MacMini/Ubuntu http://blog.costan.us/2009/03/ubuntu-810-or-904-on-mac-mini.html

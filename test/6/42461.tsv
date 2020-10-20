@@ -1,0 +1,6 @@
+2009-02-16T20:38:00.000Z	myownserver		How do I connect via SSH from a Windows machine?  What app do I use?
+2009-02-16T20:38:00.000Z	carpii	myownserver	you need an ssh client, like secureCRT or maybe putty
+2009-02-16T20:56:00.000Z	carpii	myownserver	you ssh to the linux box and open the editor inside the ssh term
+2009-02-16T20:57:00.000Z	carpii	myownserver	try something like    nano filename
+2009-02-16T20:57:00.000Z	myownserver	carpii	What editor is that?
+2009-02-16T20:57:00.000Z	carpii	myownserver	theres lots. nano is one of the more user freindly,     CTRL-O to save,   CTRL-X to quit

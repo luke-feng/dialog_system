@@ -1,0 +1,6 @@
+2009-01-12T15:01:00.000Z	halycon		How do I do the following: 2. Create Several Symlinks
+2009-01-12T15:01:00.000Z	halycon		  /usr/local/lib/codecs -> /usr/lib/codecs
+2009-01-12T15:01:00.000Z	halycon		  /usr/local/lib/win32 -> /usr/lib/codecs
+2009-01-12T15:01:00.000Z	halycon		  /usr/local/lib/w32 -> /usr/lib/codecs
+2009-01-12T15:01:00.000Z	halycon		  /usr/lib/win32 -> /usr/lib/codecs
+2009-01-12T15:01:00.000Z	FloodBot1	halycon	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

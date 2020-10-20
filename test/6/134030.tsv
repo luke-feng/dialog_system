@@ -1,0 +1,6 @@
+2006-03-10T15:54:00.000Z	zafar		hello everybody
+2006-03-10T15:55:00.000Z	zafar		how to install MC in Ubuntu? thanks!
+2006-03-10T15:55:00.000Z	gnomefreak	zafar	enable universe andn than update than sudo apt-get install mc
+2006-03-10T15:56:00.000Z	zafar	gnomefreak	thanks, sorry for ignorance, but what is universe and how to enable it? i m very new to ubuntu
+2006-03-10T15:57:00.000Z	gnomefreak	zafar	read the pm ubotu sent you
+2006-03-10T15:59:00.000Z	gnomefreak	zafar	yes they are built in sudo iptables should get you to view the settings

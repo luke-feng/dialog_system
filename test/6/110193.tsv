@@ -1,0 +1,6 @@
+2008-03-26T21:03:00.000Z	AaronShaf		How do I change the default sftp login directory?
+2008-03-26T21:03:00.000Z	hwilde	AaronShaf	sftp config file
+2008-03-26T21:04:00.000Z	AaronShaf		hwidle, thanks, but where is the sftp config file?
+2008-03-26T21:04:00.000Z	hwilde	AaronShaf	which ftp server are you running?
+2008-03-26T21:05:00.000Z	AaronShaf	hwilde	sftp doesn't use an ftp server, it uses ssh
+2008-03-26T21:05:00.000Z	hwilde	AaronShaf	then it will log into the user's home directory

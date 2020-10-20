@@ -1,0 +1,6 @@
+2006-06-12T16:46:00.000Z	Skenvoy		ok, i wanna get dual screens working with _SEPARATE_ x-servers - I have an x-server on monitor2 but no XGL. How do i edit /etc/gdm/conf to make it work with XGL on the secondary
+2006-06-12T16:47:00.000Z	Skenvoy		i already have the xorg.conf set up properly
+2006-06-12T16:48:00.000Z	Skenvoy		lol, gaim makes funky colours of people's names
+2006-06-12T16:49:00.000Z	Skenvoy		anyone wanna help with dual XGL?
+2006-06-12T16:49:00.000Z	Matthewv	Skenvoy	what do you mean by separate xservers?
+2006-06-12T16:49:00.000Z	Matthewv	Skenvoy	for xgl try #ubuntu-xgl

@@ -1,0 +1,6 @@
+2006-08-09T16:49:00.000Z	FurryNemesis		has anyone here used a webcam sucessfully with ubuntu?
+2006-08-09T16:50:00.000Z	FurryNemesis		thanks people
+2006-08-09T16:51:00.000Z	FurryNemesis		sweet, one more obstacle gone, one more thing learnt
+2006-08-09T05:12:00.000Z	FurryNemesis		does anyone know of any issues with ubuntu not picking up shared graphics memory?
+2006-08-09T05:14:00.000Z	mwe	FurryNemesis	I had to configure it manually in xorg.conf for y i855
+2006-08-09T14:49:00.000Z	mwe	FurryNemesis	I found "running linux" to be a good linux book

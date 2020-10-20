@@ -1,0 +1,6 @@
+2007-06-25T11:40:00.000Z	apadox		i have this problem   my notebook has no other way of installing ubuntu than this   i connected hard disk from my notebook to my pc and i have downloaded alternate version of feisty  can someone guide me further
+2007-06-25T11:42:00.000Z	persica	apadox	It isn't part of a raid or lvm set, is it?
+2007-06-25T11:43:00.000Z	persica	apadox	sorry, I misspoke.  But for you, you're trying to do an alternate install on a laptop, starting with an image of the CD on your desktop?
+2007-06-25T11:44:00.000Z	persica	apadox	Yes, there is a way to install GRUB on the MBR of that notebook harddisk.  However, if you aren't installing on the notebook itself you'll have a lot of trouble with some of the hardware detection I think.
+2007-06-25T11:46:00.000Z	persica	apadox	What you will probably want to do is run the CD from your desktop, install on your laptop's harddrive (you said you have it hooked up, right?) but you'll want to skip the grub step and do it manually.
+2007-06-25T11:48:00.000Z	apadox	persica	 can i install grub on fat32 partition or something that will install linux from my harddrive

@@ -1,0 +1,6 @@
+2008-11-18T09:23:00.000Z	ghindo		Hi, I've got a box that won't boot because of file system errors.  At boot, it says I need to run fsck manually.  Problem is, I'm not sure how.  Any help?
+2008-11-18T09:23:00.000Z	sFEARs	ghindo	can you boot into recovery mode?
+2008-11-18T09:24:00.000Z	sFEARs	ghindo	recovery mode may give you the fsck option
+2008-11-18T09:24:00.000Z	ghindo	sFEARs	How do you access recover mode?
+2008-11-18T09:25:00.000Z	sFEARs	ghindo	at the boot menu.. press escape a couple of times when you first start your computer.. it should give you a grub boot menu in which will be a recovery mode option
+2008-11-18T09:25:00.000Z	ghindo	sFEARs	Okay, I'll give that a shot.  Thank you!

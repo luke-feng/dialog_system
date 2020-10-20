@@ -1,0 +1,6 @@
+2010-01-03T07:04:00.000Z	eurythmia		... there's a subtle difference ;)
+2010-01-03T07:04:00.000Z	unop	eurythmia	sudo su - makes su redundant there
+2010-01-03T07:04:00.000Z	unop	eurythmia	sudo -i instead
+2010-01-03T07:04:00.000Z	eurythmia	unop	good to know ... I never bothered to look up -i
+2010-06-09T20:20:00.000Z	unop	eurythmia	actually, the dependency resolution engines is different for the different front-ends .. and aptitude does do it differently.
+2010-06-09T20:21:00.000Z	eurythmia	unop	dependency tracking and dependency resolution are two completely different things though :)

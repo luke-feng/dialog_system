@@ -1,0 +1,6 @@
+2009-10-21T01:20:00.000Z	Sandy80d		anyone one else who can figure out why gnome isnt starintg feel free to look at my xorg log:)... http://paste.ubuntu.com/297789/
+2009-10-21T01:22:00.000Z	lstarnes	Sandy80d	you could try moving ~/.gnome2/ and ~/.gnome/ to another location
+2009-10-21T01:22:00.000Z	lstarnes	Sandy80d	or you could try removing
+2009-10-21T01:23:00.000Z	lstarnes	Sandy80d	also, you might need to do something with ~/.gnome2_private/ and ~/.gnome_private/
+2009-10-21T01:26:00.000Z	lstarnes	Sandy80d	you could mount your existing installation to a temporary directory in the live cd then look in your home directory there
+2009-10-21T01:48:00.000Z	Sandy80d	lstarnes	I tried removing ~/.gnome2/ and ~/.gnome/ etc but I am still anable to boot into gnome

@@ -1,0 +1,6 @@
+2005-12-08T14:44:00.000Z	zottty		I just installed an Ubuntu, I use a netwrok connection trough UPC Cable ( without authentication, it authenticates me by my MAC address ) I just can't set it up. Help me please
+2005-12-08T14:46:00.000Z	_null	zottty	do you get an ip via dhcp from the modem?
+2005-12-08T14:48:00.000Z	zottty	_null	I am stupid for this cable connection. In windows, it's plug and play :) But in linux, it sais, network is unreacable. I thin DHCP, cause i don't have to enter ani ip/dns/anything
+2005-12-08T14:50:00.000Z	zottty		could you tell me, how to gather any information for eth0 and eth1. I have two cards, and i need the nvidia card to connect ( i am masq-ing the subnet trough the other card)
+2005-12-08T14:53:00.000Z	_null	zottty	try dmes | grep eth
+2005-12-08T14:53:00.000Z	zottty	_null	thx. i try it. reboot. bye. thx4all

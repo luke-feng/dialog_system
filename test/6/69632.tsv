@@ -1,0 +1,6 @@
+2010-05-30T18:48:00.000Z	Twain_32		guys
+2010-05-30T18:48:00.000Z	Twain_32		when im trying to use apt-get install command i got this!
+2010-05-30T18:48:00.000Z	Twain_32		twain_32@Twain:~$ apt-get install
+2010-05-30T18:48:00.000Z	Twain_32		E: Could not open lock file /var/lib/dpkg/lock - open (13: Permission denied)
+2010-05-30T18:48:00.000Z	Twain_32		E: Unable to lock the administration directory (/var/lib/dpkg/), are you root?
+2010-05-30T18:48:00.000Z	FloodBot3	Twain_32	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

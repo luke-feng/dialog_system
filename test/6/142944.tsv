@@ -1,0 +1,6 @@
+2005-07-12T15:07:00.000Z	Chipmunk		What can I use to play DivX encoded AVIs? Totem Player refuses to play them.
+2005-07-12T15:08:00.000Z	tiglionabbit	Chipmunk	VLC plays them by default.  You can get also read restricted formats for info on that
+2005-07-12T15:09:00.000Z	Chipmunk	tiglionabbit	Great I used VLC on Windows. How do I install it? The Web site doesn't have a Ubuntu install.
+2005-07-12T15:09:00.000Z	tiglionabbit	Chipmunk	you should be able to get it using synaptic
+2005-07-12T15:11:00.000Z	tiglionabbit	Chipmunk	you may need to add repositories
+2005-07-12T15:13:00.000Z	Chipmunk	tiglionabbit	Okay, I'll try that. Thanks.

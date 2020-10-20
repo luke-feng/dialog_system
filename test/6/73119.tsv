@@ -1,0 +1,6 @@
+2008-09-01T06:22:00.000Z	ozo		01:00.0 VGA compatible controller: Silicon Integrated Systems [SiS] 661/741/760 PCI/AGP or 662/761Gx PCIE VGA Display Adapter
+2008-09-01T06:22:00.000Z	ozo		   |glxinfo |grep render
+2008-09-01T06:22:00.000Z	ozo		direct rendering: No (If you want to find out why, try setting LIBGL_DEBUG=verbose)
+2008-09-01T06:22:00.000Z	ozo		OpenGL renderer string: Mesa GLX Indirect
+2008-09-01T06:22:00.000Z	ozo		 
+2008-09-01T06:22:00.000Z	FloodBot1	ozo	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

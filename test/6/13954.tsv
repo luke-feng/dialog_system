@@ -1,0 +1,6 @@
+2012-01-22T08:12:00.000Z	zulax		i added /etc/sbin/powertop on my rc.local, but when i login the powertop screes shows and i get kickedback to login page
+2012-01-22T08:14:00.000Z	zulax		i cant add it in startup application casue it needs a sudo password
+2012-01-22T08:15:00.000Z	ActionPa1snip	zulax	I've gotten around that by making a script to run the command with a looong sleep, then make rc.local run the script backgrounded. Its hacky but it works
+2012-01-22T08:15:00.000Z	zulax	ActionPa1snip	good idea, so in rc.local put first sleep 300 and then put the command?
+2012-01-22T08:16:00.000Z	ActionPa1snip	zulax	no, or the boot wil simply hang that long, you need a script which can be backgrounded then use the sleep there
+2012-01-22T08:16:00.000Z	ActionPa1snip	zulax	the script will form its own thread and the system will continue to boot but the script will be running the sleep command

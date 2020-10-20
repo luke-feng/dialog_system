@@ -1,0 +1,6 @@
+2011-06-16T13:16:00.000Z	testadura		i cannot access anyway until the usb subsystem doesn't revive it
+2011-06-16T13:16:00.000Z	testadura		and i don't know the command to revive it
+2011-06-16T13:17:00.000Z	jasl	testadura	what make/model computer
+2011-06-16T13:18:00.000Z	testadura	jasl	no, but it is an usb device, i don't know if it should be shown in lspci too
+2011-06-16T13:18:00.000Z	jasl		External?
+2011-06-16T13:18:00.000Z	testadura	jasl	internal usb, internal card reader actually

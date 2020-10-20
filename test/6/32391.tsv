@@ -1,0 +1,6 @@
+2009-12-22T17:53:00.000Z	axle		why would fdisk keep giving me a unable to open /dev/sda error
+2009-12-22T17:53:00.000Z	axle		also, can 2 different linux distros on the same HD share a swap partition?
+2009-12-22T17:55:00.000Z	axle		anyone know why fdisk cannot open /dev/sda? im running on sdb, and i did a fuser -m to check if its in use, and its not, i dont know what else fdisk wants from me
+2009-12-22T17:56:00.000Z	ActionParsnip1	axle	try: sudo fdisk /dev/sda
+2009-12-22T17:57:00.000Z	axle	ActionParsnip1	thanx your a genius
+2009-12-22T17:57:00.000Z	ActionParsnip1	axle	hardly, but thanks :D

@@ -1,0 +1,6 @@
+2012-06-09T20:48:00.000Z	SwashBuckla		GRUB2 question: I have set the TIMEOUT=0. Is it possible to still select a different OS at boot?
+2012-06-09T20:50:00.000Z	nUwb	SwashBuckla	you do that before the OS loads by pressing either f8 or f10, I think...
+2012-06-09T20:50:00.000Z	SwashBuckla	nUwb	no.
+2012-06-09T20:50:00.000Z	SwashBuckla		well I'll try it
+2012-06-09T20:51:00.000Z	SwashBuckla		but I think you're talking about the BIOS boot menu, am I right?
+2012-06-09T20:51:00.000Z	SwashBuckla	nUwb	^

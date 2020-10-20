@@ -1,0 +1,6 @@
+2010-12-28T02:54:00.000Z	BernardV	piercedw1ter	Use firefly and configure it with --enable-flac. I've never used it that way, but a friend of mine does.
+2010-12-28T02:55:00.000Z	piercedw1ter	BernardV	I'll give it a try. Thanks.
+2010-12-28T02:55:00.000Z	BernardV	piercedw1ter	What is the client you're using?
+2010-12-28T02:57:00.000Z	BernardV	piercedw1ter	Because if it's iTunes or a client that can see iTunes shares, firefly is easy to use. Just ssh -L port:localhost:port and announce it localy..
+2010-12-28T02:58:00.000Z	piercedw1ter	BernardV	I'm actually using Clementine :(
+2010-12-28T02:58:00.000Z	BernardV	piercedw1ter	Don't know that one... sorry

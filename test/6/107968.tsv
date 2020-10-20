@@ -1,0 +1,6 @@
+2006-12-30T07:10:00.000Z	feihung		I have problem, I just installed new display card(Geforce FX 5200), I want to install edgy but it always hang, it said kernel panic, but if I unplug it and use old display the installer working good, I can install and run windows XP with FX5200, please help
+2006-12-30T07:11:00.000Z	feihung		I have problem, I just installed new display card(Geforce FX 5200), I want to install edgy but it always hang, it said kernel panic, but if I unplug it and use old display the installer working good, I can install and run windows XP with FX5200, any experience, please help
+2006-12-30T07:12:00.000Z	feihung		I have problem, I just installed new display card(Geforce FX 5200), I want to install edgy but it always hang, it said kernel panic, but if I unplug it and use old display the installer working good, I can install and run windows XP with FX5200, any experience, please help
+2006-12-30T07:13:00.000Z	nuked_omen	feihung	maybe start ubuntu  in graphic safe mode
+2006-12-30T07:16:00.000Z	nuked_omen		cuz opera browser sucks
+2006-12-30T07:17:00.000Z	feihung	nuked_omen	it's same result eventhough I use safemode, it hang after last line "EIP is at Clear_local..."

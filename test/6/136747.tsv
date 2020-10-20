@@ -1,0 +1,6 @@
+2007-10-01T09:16:00.000Z	rabbitnightmare		hello all
+2007-10-01T09:16:00.000Z	rabbitnightmare		I am using pclinuxos and it really isnt all I want does anyone know if ubuntu is better from personal experience?
+2007-10-01T09:18:00.000Z	usr13	rabbitnightmare	Linux is linux, the differences are in package management / package managers and configurations of individual applications.
+2007-10-01T11:45:00.000Z	usr13	rabbitnightmare	then maybe you should activate root.
+2007-10-01T11:46:00.000Z	usr13	rabbitnightmare	sudo passwd root
+2007-10-01T11:13:00.000Z	usr13	rabbitnightmare	I don't think any distro actually "contain's" ndiswrapper.  You install it as/if needed.

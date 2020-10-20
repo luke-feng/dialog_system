@@ -1,0 +1,6 @@
+2007-02-09T08:20:00.000Z	DARKGuy		Hm, could anybody tell me if there has been a recent update for the main xorg package?
+2007-02-09T08:20:00.000Z	wasabi_	DARKGuy	Read the changelog. ;)
+2007-02-09T08:21:00.000Z	DARKGuy	wasabi_	Where could I find it? or what one should I read? xD
+2007-02-09T08:21:00.000Z	wasabi_	DARKGuy	/usr/share/docs/xserver-xorg/
+2007-02-09T08:21:00.000Z	wasabi_	DARKGuy	Every package has a similar directory.
+2007-02-09T08:22:00.000Z	DARKGuy	wasabi_	I see. It's gzipped - should I sudo gunzip it?

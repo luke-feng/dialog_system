@@ -1,0 +1,6 @@
+2007-05-04T12:03:00.000Z	fsckit		i'm getting a "read only filesystem" error when changing permissions on my hda1
+2007-05-04T12:04:00.000Z	eternalswd	fsckit	is it ntfs?
+2007-05-04T12:04:00.000Z	fsckit	eternalswd	yes, it is
+2007-05-04T12:06:00.000Z	eternalswd	fsckit	by default ntfs is read only, the driver that enables write is pretty stable but still in development I believe you need to install ntfs-3g
+2007-05-04T12:06:00.000Z	fsckit	eternalswd	nm, i got it, at least the first directory. i tried the -R command for recursive folders. did i miss something?
+2007-05-04T12:07:00.000Z	eternalswd	fsckit	are you using ntfs-3g?

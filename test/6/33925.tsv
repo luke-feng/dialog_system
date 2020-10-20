@@ -1,0 +1,6 @@
+2011-01-11T07:57:00.000Z	xxthink	jsn	I want use sshfs to mount the directory on the server to my local PC
+2011-01-11T07:58:00.000Z	jsn	xxthink	is the directory set up in /etc/exports on the server? Did you then restart the nfs service?
+2011-01-11T07:58:00.000Z	jsn	xxthink	well, ok then
+2011-01-11T07:58:00.000Z	xxthink	jsn	I use sshfs
+2011-01-11T07:58:00.000Z	jsn	xxthink	oh. It doesn't use any configuration on the server side?
+2011-01-11T07:59:00.000Z	xxthink	jsn	yes

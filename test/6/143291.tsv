@@ -1,0 +1,6 @@
+2005-07-05T11:32:00.000Z	lotia		how do i get the livecd to recognize my sata drives
+2005-07-05T11:33:00.000Z	dj-pynguin	lotia	you have to mount them
+2005-07-05T11:33:00.000Z	lotia	dj-pynguin	machine has no idea that drives even exist
+2005-07-05T11:35:00.000Z	dj-pynguin	lotia	 in console type: sudo fdisk -l, that should show you some more info on what is recognized
+2005-07-05T11:36:00.000Z	lotia	dj-pynguin	disks arent recognized at all. they are sata devices which normally show up as /dev/sda and /dev/sdb
+2005-07-05T11:37:00.000Z	dj-pynguin	lotia	oh mybad your right, hmm, i dont have experience with ubuntu and SATA, sorry

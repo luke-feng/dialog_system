@@ -1,0 +1,6 @@
+2011-03-05T22:08:00.000Z	DOokami		in terminal ,, if i want to multiply the numbers from 1 to 9999999 ,, how can i do that
+2011-03-05T22:08:00.000Z	DOokami		i used to do it on MS-DOS but forgot how to
+2011-03-05T22:09:00.000Z	edbian	DOokami	you mean like 99999999 factorial?
+2011-03-05T22:10:00.000Z	DOokami	edbian	i mean like 2x1~9999999
+2011-03-05T22:11:00.000Z	edbian	DOokami	That's the same as 99999999 factorial.  999999 * 999998 * 9999999997 ...
+2011-03-05T22:12:00.000Z	edbian	DOokami	pthon; import math; math.factorial(9999999)

@@ -1,0 +1,6 @@
+2008-10-13T09:10:00.000Z	balz		I'm trying to chmod a drive to 644 by typing "sudo chmod 644 -R" but I keep getting the error "missing operand after 644" ... what's wrong with my syntax?
+2008-10-13T09:10:00.000Z	balz		quangle:  have you tried webmin?
+2008-10-13T09:11:00.000Z	quang1e	balz	no. I'll take a look
+2008-10-13T09:11:00.000Z	balz	ActionParsnip	 how should it read?  sudo chmod 644 /path/to/drive -R
+2008-10-13T09:11:00.000Z	balz	ActionParsnip	  ok thanks!
+2008-10-13T09:12:00.000Z	quang1e	balz	hm i'd prefer an actual application rather than a web interface...

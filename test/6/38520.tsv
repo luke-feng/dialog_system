@@ -1,0 +1,6 @@
+2009-05-01T00:45:00.000Z	Geine		hi all
+2009-05-01T00:45:00.000Z	Geine		how to upgrade ex3 to ex4 on ubuntu 9.04
+2009-05-01T00:46:00.000Z	Geine		nothing in google
+2009-05-01T00:48:00.000Z	pepperjack	Geine	mkfs :)  honestly youll want to backup and reinstall
+2009-05-01T00:48:00.000Z	Geine	pepperjack	did you try it?
+2009-05-01T00:49:00.000Z	pepperjack	Geine	no but the consensus is not possible/dont do it.  i mean you could of course i suppose tar.gz the partition then mkfs then untar it back

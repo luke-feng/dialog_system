@@ -1,0 +1,6 @@
+2006-09-27T14:32:00.000Z	AnAnt		can someone help me in confguring whereami, I need to differentiate between 2 cases: 1) That the wifi interface is disabled (radio off)  . 2) that the wifi interface is enabled yet no AP is scanned
+2006-09-27T14:32:00.000Z	househead	AnAnt	try "iwconfig" from the command line
+2006-09-27T14:33:00.000Z	AnAnt	househead	then ?
+2006-09-27T14:33:00.000Z	AnAnt	househead	how would that work in /etc/whereami/detect.conf
+2006-09-27T14:34:00.000Z	househead	AnAnt	you could use a bash script and the cut command to parse output from iwconfig
+2006-09-27T14:35:00.000Z	AnAnt	househead	you mean that I can run commands from detect.conf ?

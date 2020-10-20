@@ -1,0 +1,6 @@
+2007-07-03T16:32:00.000Z	SimplySeth		sorry .. this is not in the list of common questions .. can debian packages be installed in Ubuntu ?
+2007-07-03T16:33:00.000Z	preaction	SimplySeth	short answer, no. long answer, very carefully
+2007-07-03T16:33:00.000Z	SimplySeth	d4rkmonkey	 thank you
+2007-07-03T16:33:00.000Z	SimplySeth		*doh*
+2007-07-03T16:33:00.000Z	preaction	SimplySeth	packages built for debian cannot be installed into ubuntu, in most cases
+2007-07-03T16:33:00.000Z	preaction	SimplySeth	.deb packages built for ubuntu can be installed in ubuntu

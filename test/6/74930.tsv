@@ -1,0 +1,6 @@
+2007-10-28T00:34:00.000Z	Outlier	demisone	I'd second the comment suggesting fluxbox - but you can set up gnome for non-graphical log-in also.
+2007-10-28T02:10:00.000Z	Outlier	demisone	Have you checked the /etc/X11/xorg.conf file?
+2007-10-28T02:11:00.000Z	demisone	Outlier	i checked it and looked ok... not sure though so i thought running 7.10 live cd and see the what configuration it will use
+2007-10-28T02:13:00.000Z	Outlier	demisone	not a bad idea.  I'd check and make sure the name of the screen matches in the server layout and screen sections first, if you haven't already.
+2007-10-28T02:15:00.000Z	Outlier	demisone	Oh - also, I've seen that when system wanted to start with a 600x800 screen, and that wasn't one of the modes I had listed in there.
+2007-10-28T02:15:00.000Z	demisone	Outlier	hmm.. interesting - same error with live cd - it couldn't start the X server... How possible is it that the fault is somehow related to the fact that there is voodoo card on the pc...? (i think it's voodoo 2)

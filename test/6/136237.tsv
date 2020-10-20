@@ -1,0 +1,6 @@
+2006-08-16T08:46:00.000Z	ardchoille	crouton	or have a root script that does  "sed -i 's/<router IP//g' ?
+2006-08-16T08:47:00.000Z	crouton	ardchoille	- something like that.  It looks like Dan just wants some way to keep a specific setting from being overwritten
+2006-08-16T08:59:00.000Z	crouton	ardchoille	Don't think there's a .deb for VMWare Server.
+2006-08-16T09:37:00.000Z	ardchoille	crouton	You probably have an rpm dir inside /usr/src too
+2006-08-16T09:38:00.000Z	ardchoille	crouton	Then yo removed it ;)
+2006-08-16T09:38:00.000Z	crouton	ardchoille	Never had it. :)

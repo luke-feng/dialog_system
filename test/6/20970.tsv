@@ -1,0 +1,6 @@
+2011-02-25T22:34:00.000Z	sgo11		hi, If I mount -t ecryptfs /secret /secret manually, should I umount it manually before shutdown? or is that safe to shutdown without manual umount? thanks.
+2011-02-25T22:34:00.000Z	sgo11		hi, I used ecryptfs-manager to Add passphrase key to keyring. but the keyring lost after reboot. is this expected? (using ubuntu)
+2011-02-25T22:34:00.000Z	Dr_Willis	sgo11	 it should unmount it as part of a shutdown.. but you could unmount it by hand if you wanted
+2011-02-25T22:36:00.000Z	sgo11	Dr_Willis	iceroot, thanks. that means I do not need to umount it manually. shutdown will take care of it. thanks.
+2011-02-25T23:32:00.000Z	Dr_Willis	sgo11	 its called 'seahorse' i belive from the command line.
+2011-02-25T23:32:00.000Z	sgo11	Dr_Willis	yeah. thanks.

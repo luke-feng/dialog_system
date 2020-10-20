@@ -1,0 +1,6 @@
+2009-01-27T11:53:00.000Z	amh		is there anyway to access a machine remotely without having auto login?
+2009-01-27T11:53:00.000Z	ari_stress	amh	ssh? vnc?
+2009-01-27T11:54:00.000Z	amh	ari_stress	im having an issue with the machine not getting on the network automatically because it's wireless and keeps asking me to enter in the root password before it connects.  how do i get it online to use vnc if i can't get it to connect automatically via wireless?
+2009-01-27T11:56:00.000Z	ari_stress	amh	it's the gnome-keyring thing, we can set it to use unencrypted data, so that it won't ask for password for wireless
+2009-01-27T11:56:00.000Z	amh	ari_stress	 where do i set that ?
+2009-01-27T11:57:00.000Z	ari_stress	amh	lol, i cannot find it anymore

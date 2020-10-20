@@ -1,0 +1,6 @@
+2008-03-22T13:55:00.000Z	Odd-rationale		What port am I using when I browse the web, i.e. send http requests?
+2008-03-22T13:56:00.000Z	unop__	Odd-rationale	any port >= 1024
+2008-03-22T13:56:00.000Z	Odd-rationale	unop__	ok Thanks
+2008-04-12T23:26:00.000Z	unop__	Odd-rationale	0x0b
+2008-04-12T23:26:00.000Z	Odd-rationale	unop__	ok thanks!
+2008-04-12T23:28:00.000Z	unop__	Odd-rationale	oddly enough, the partition number has no real effect on the filesystem that the parition will contain .. i.e. you can have a parition with number 0x82 (linux) and format it as ntfs

@@ -1,0 +1,6 @@
+2010-08-04T20:34:00.000Z	morri		I have a problem with the microphone configuration  I am using ubuntu wubi 1004  and I am using a headset, I can hear alright , but the microphone works badly  When I speak into it it seems to echo every sound. so : test 1,2,3 turns out : test, test, 1,1,2,2,3,3.
+2010-08-04T20:36:00.000Z	morri		I have a problem with the microphone configuration  I am using ubuntu wubi 1004  and I am using a headset, I can hear alright , but the microphone works badly  When I speak into it it seems to echo every sound. so : test 1,2,3 turns out : test, test, 1,1,2,2,3,3.
+2010-08-04T20:36:00.000Z	BluesKaj	morri	you've got loop feed pull down the other ctrls to see what happens
+2010-08-04T20:39:00.000Z	BluesKaj	morri	in the terminal type aslasmixer , use the arrow keys
+2010-08-04T20:40:00.000Z	BluesKaj	morri	also you should have speaker icon in the panel, click on that as another option
+2010-08-04T20:42:00.000Z	BluesKaj	morri	check your package manager for alsa-base and alsa-utils and install if needed

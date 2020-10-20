@@ -1,0 +1,6 @@
+2008-06-20T04:38:00.000Z	AtomicSpark		Any network admins in here? What's the best way to keep a group of ubuntu computers updated? I already have "install security updates automagically" enabled. But I want all updates too.
+2008-06-20T04:38:00.000Z	AtomicSpark		I could run a cron script. Donno if that is such a good idea.
+2008-06-20T04:39:00.000Z	apophis_ch	AtomicSpark	 why not? just pick a time when the pc actually is runnning ;)
+2008-06-20T04:40:00.000Z	AtomicSpark	apophis_ch	no secuirty isssues running administrative level commands?
+2008-06-20T04:41:00.000Z	apophis_ch	AtomicSpark	 Cron is privileged anyway
+2008-06-20T04:42:00.000Z	AtomicSpark	apophis_ch	good point. ill try that. :)

@@ -1,0 +1,6 @@
+2012-08-02T13:57:00.000Z	lotalota		hi
+2012-08-02T13:59:00.000Z	lotalota		anyone experienced with apport-gtk? I get the error message that there is a problem with the users Xauthorization file
+2012-08-02T14:00:00.000Z	Dr_Willis	lotalota	remove the .Xauthority file perhaps
+2012-08-02T14:00:00.000Z	lotalota		there is no
+2012-08-02T14:01:00.000Z	Dr_Willis		bbl
+2012-08-02T14:02:00.000Z	lotalota	Dr_Willis	and there is no $XAUTHORITY set either

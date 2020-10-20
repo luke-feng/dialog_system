@@ -1,0 +1,6 @@
+2012-04-12T18:23:00.000Z	The_Pugilist		hello all, after plugging a sata hard drive into a running ubuntu 10.04 box it will not show up... is there a way to force detection of new hardware (other than rebooting)
+2012-04-12T18:24:00.000Z	MonkeyDust	The_Pugilist	 mount it, first, type sudo fdisk -l to find out the dev name
+2012-04-12T18:32:00.000Z	The_Pugilist	MonkeyDust	it does not show up when running a fdisk -l
+2012-04-12T18:34:00.000Z	MonkeyDust	The_Pugilist	 it's sudo fdisk -l
+2012-04-12T18:38:00.000Z	MonkeyDust	The_Pugilist	 try sudo blkid
+2012-04-12T18:47:00.000Z	The_Pugilist	MonkeyDust	sudo blkid only shows one drive

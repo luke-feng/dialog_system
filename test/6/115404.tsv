@@ -1,0 +1,6 @@
+2006-06-05T16:02:00.000Z	LinuxPose		whats the default root password on ubuntu?
+2006-06-05T16:02:00.000Z	LinuxPose		i try to log in
+2006-06-05T16:02:00.000Z	LinuxPose		and it denies me
+2006-06-05T16:02:00.000Z	LinuxPose		i only put in 1 password
+2006-06-05T16:03:00.000Z	LinuxPose		ahhh ok
+2006-06-05T16:04:00.000Z	conman23456	LinuxPose	Madpilot is right, but I do setup the root account for a password anyway. Run sudo passwd to set a root password if you really want to.

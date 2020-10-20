@@ -1,0 +1,6 @@
+2006-06-09T11:09:00.000Z	jaek		failed to initialize HAL! <- i get this when i start gnome... WTF?
+2006-06-09T11:09:00.000Z	Warbo	jaek	Sounds like you are starting GNOME from recovery mode :)
+2006-06-09T11:10:00.000Z	jaek	Warbo	no... i'm not... hal hangs for over a minute during system startup... and then i login to gnome and i get that message
+2006-06-09T11:10:00.000Z	Warbo	jaek	OK, well you will want to fix that. Maybe you have some weird hardawe HAL doesn't like?
+2006-06-09T11:11:00.000Z	jaek	Warbo	possibly... but in my office there are 3 same machines running ubuntu and only my machine does that
+2006-06-09T12:15:00.000Z	Warbo	jaek	It opens in new tab doesn't it?

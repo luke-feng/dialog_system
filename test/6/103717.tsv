@@ -1,0 +1,6 @@
+2007-01-31T08:05:00.000Z	rausb0	Jowi	and if copying as root -a is even better than -r
+2007-01-31T08:06:00.000Z	Jowi	rausb0	no it isn't. a is archive and r is recursive. two different things
+2007-01-31T08:06:00.000Z	rausb0	Jowi	-a implies -r
+2007-01-31T08:07:00.000Z	rausb0	Jowi	-a copies recursively and preserves ownerships and permissions (and even device files)
+2007-01-31T08:08:00.000Z	Jowi	rausb0	yes, but a will preserve links. normally I do not want that (only want the actual files). it's a matter of taste i think :)
+2007-01-31T08:11:00.000Z	rausb0	Jowi	alright

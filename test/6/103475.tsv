@@ -1,0 +1,6 @@
+2007-07-14T10:31:00.000Z	polaris		I've installed PHP5 and Apache 2 under Ubuntu 7 - can someone tell me what to add to httpd.conf so that Apache uses the PHP module?
+2007-07-14T10:31:00.000Z	burner	polaris	use apt?  it just works if you do
+2007-07-14T10:32:00.000Z	polaris	burner	I got both of them the normal way, but putting a simple phpinfo(); in the home directory, trying to load that script in a browser is no dice
+2007-07-14T10:32:00.000Z	burner	polaris	define "normal"  does "normal" entail apt-get install blahblah?
+2007-07-14T10:32:00.000Z	polaris	burner	yes
+2007-07-14T10:33:00.000Z	burner	polaris	https://help.ubuntu.com/community/ApacheMySQLPHP

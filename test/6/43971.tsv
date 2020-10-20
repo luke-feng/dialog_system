@@ -1,0 +1,6 @@
+2009-03-02T05:52:00.000Z	ari_stress		morning all :)
+2009-03-02T05:53:00.000Z	ari_stress		hi, is there anyway i can know the ipaddress of host from network if i know the macaddress?
+2009-03-02T05:53:00.000Z	presshere	ari_stress	a host from you network?
+2009-03-02T05:54:00.000Z	presshere	ari_stress	try nbtscan
+2009-03-02T05:56:00.000Z	ari_stress	presshere	yes
+2009-03-02T05:57:00.000Z	presshere	ari_stress	sudo apt-get install nbtscan

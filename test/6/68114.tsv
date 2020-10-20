@@ -1,0 +1,6 @@
+2010-10-07T04:54:00.000Z	ne7work		shutdown -r 05:00
+2010-10-07T04:54:00.000Z	ne7work		exit 0 ?
+2010-10-07T04:56:00.000Z	ne7work		/etc/init.d/apache2 restart
+2010-10-07T04:56:00.000Z	ne7work		shutdown -r 05:00
+2010-10-07T04:56:00.000Z	ne7work		exit 0
+2010-10-07T04:56:00.000Z	FloodBot2	ne7work	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

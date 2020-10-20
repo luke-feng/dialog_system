@@ -1,0 +1,6 @@
+2008-05-03T12:48:00.000Z	Jambon		ok. as is usual, I've made things a lot worse
+2008-05-03T12:48:00.000Z	Jambon		now it won't recognize my monitor so I can't up the resolution
+2008-05-03T12:49:00.000Z	drivetrax	Jambon	 --- go to /etc/X11 and find xorg.conf  and pastebin.ca
+2008-05-03T12:50:00.000Z	drivetrax	Jambon	 that an ATI card?
+2008-05-03T13:24:00.000Z	drivetrax	Jambon	 right click that panel
+2008-05-03T13:24:00.000Z	drivetrax	Jambon	 size it

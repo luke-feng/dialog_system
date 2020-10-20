@@ -1,0 +1,6 @@
+2008-10-11T01:19:00.000Z	msikma_		Anybody here who runs Ubuntu on a Titanium Powerbook?
+2008-10-11T01:21:00.000Z	msikma_		Frustrating... my X server still cannot start, even though I know which card I have (ATI Technologies Inc. Rage Mobility M3 AGP 2x (rev 02))...
+2008-10-11T01:21:00.000Z	msikma_		I tried a bunch of things but it just won't work.  It says it can't enable the fb, it doesn't find any screens...
+2008-10-11T01:22:00.000Z	msikma_		I'm in text mode right now because the installer can't even activate X
+2008-10-11T01:23:00.000Z	msikma_		As in, first time, without having tampered with xorg
+2008-10-11T01:24:00.000Z	tsrk	msikma_	cd burning tends to have problems

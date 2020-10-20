@@ -1,0 +1,6 @@
+2008-07-02T05:55:00.000Z	tj83		anyone have a how-to for intel pro wireless 3945?  it detects networks but does not connect.
+2008-07-02T05:57:00.000Z	tj83		well i certainly have an issue with that 3945 card Fryguy-- i have searched google forever
+2008-07-02T05:57:00.000Z	tj83		jack_sparrow do you have any info on intel 3945 wireless?
+2008-07-02T05:58:00.000Z	DeadKennedy2880	tj83	- i also had no issues with the same card, perhaps that explains the lack of info on google. what have you tried so far?
+2008-07-02T05:58:00.000Z	tj83	DeadKennedy2880	tried adjusting time out value ... was one suggestion.. tried backports.
+2008-07-02T06:00:00.000Z	DeadKennedy2880	tj83	- im thinkin you did more harm by messing with the settings

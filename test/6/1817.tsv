@@ -1,0 +1,6 @@
+2012-08-20T00:18:00.000Z	jabes		vga port not working in ubuntu but will in windows. Why?
+2012-08-20T00:19:00.000Z	histo	jabes	what type of video card?
+2012-08-20T00:19:00.000Z	jabes	histo	nvidea
+2012-08-20T00:20:00.000Z	histo		so you get no display booting?
+2012-08-20T00:20:00.000Z	histo	jabes	so you get no display booting?
+2012-08-20T00:21:00.000Z	jabes	histo	when i boot to windows it comes up, but grub loader doesn't show, so for linux there nothing

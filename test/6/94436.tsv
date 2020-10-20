@@ -1,0 +1,6 @@
+2007-10-18T05:45:00.000Z	joshwa		When I go to /dev I see hdb hdb1 hdb2 hdb3. But only one slave drive. are those all different partitions?
+2007-10-18T05:45:00.000Z	riotkittie	joshwa	yes.  hd[x] is a drive hd[x#] is a partition
+2007-10-18T05:46:00.000Z	joshwa	riotkittie	I would like to format the drive and thus, make all of those partitions one (just hdb) what should I do?
+2007-10-18T05:47:00.000Z	riotkittie	joshwa	if you're a fan of GUIs, you can go the gparted route. otherwise, there's fdisk and cfdisk.
+2007-10-18T05:47:00.000Z	joshwa	riotkittie	what do you prefer? :)
+2007-10-18T05:48:00.000Z	riotkittie	joshwa	depends on what i'm doing. i tend to stick to gparted under ubuntu because i am lazy like that.  you may already have it installed [check system menu > administration], if not, it's only a sudo apt-get install away

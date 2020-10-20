@@ -1,0 +1,6 @@
+2009-03-11T03:34:00.000Z	Rabbitbunny		dual booting is as simple as I presume right? install windows, install ubuntu, grub makes magic. done. eh?
+2009-03-11T03:34:00.000Z	rww	Rabbitbunny	that's how it worked for me :)
+2009-03-11T03:35:00.000Z	Rabbitbunny	rww	Thanks.
+2009-03-11T03:35:00.000Z	rww	Rabbitbunny	make sure you install Windows before Linux. It's much easier that way.
+2009-03-11T03:35:00.000Z	Rabbitbunny	rww	I guessed such, ubuntu tends to be good at working around windows, but not the other way around.
+2009-03-11T03:35:00.000Z	rww	Rabbitbunny	exactly. It's possible to do it the other way around, but you have to mess with GRUB quite a bit.

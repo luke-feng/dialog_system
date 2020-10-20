@@ -1,0 +1,6 @@
+2009-12-26T11:24:00.000Z	hasibullah		hi
+2009-12-26T11:24:00.000Z	hasibullah		how can i use scanner
+2009-12-26T11:26:00.000Z	hasibullah		how can i use scanner the ubuntu can't get it
+2009-12-26T11:27:00.000Z	Billiard	hasibullah	which scanner do you have?
+2009-12-26T11:31:00.000Z	Billiard	hasibullah	what happens when you run the command "sudo scanimage -L"
+2009-12-26T11:38:00.000Z	Billiard	hasibullah	googling im reading that putting this file in "/usr/share/sane/gt68xx/" will make the scanner work http://gkall.hobby.nl/cism216.fw

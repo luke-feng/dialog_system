@@ -1,0 +1,6 @@
+2010-06-17T17:27:00.000Z	rascal999		how do i fix this? mv: cannot move `app' to `../app': Directory not empty
+2010-06-17T17:27:00.000Z	geekphreak	rascal999	what was the command
+2010-06-17T17:28:00.000Z	geekphreak	rascal999	else cp -fr from/ to/  , then delete the orig. folder :p
+2010-06-17T17:28:00.000Z	rascal999	geekphreak	mv
+2010-06-17T17:29:00.000Z	rascal999	geekphreak	think that did it thanks
+2010-06-17T17:29:00.000Z	geekphreak	rascal999	:)

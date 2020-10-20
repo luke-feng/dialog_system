@@ -1,0 +1,6 @@
+2012-02-10T02:18:00.000Z	renemoraes		Hello everyone... I need someone to help me to understand my xorg.0.log...
+2012-02-10T02:20:00.000Z	renemoraes		[ 32298.167] (II) intel(0): EDID vendor "SEC", prod id 21569
+2012-02-10T02:20:00.000Z	renemoraes		[ 32298.167] (II) intel(0): Printing DDC gathered Modelines:
+2012-02-10T02:20:00.000Z	renemoraes		[ 32298.167] (II) intel(0): Modeline "1366x768"x0.0   76.69  1366 1414 1446 1618  768 770 775 790 +hsync -vsync (47.4 kHz)
+2012-02-10T02:20:00.000Z	renemoraes		[ 32298.167] (II) intel(0): Modeline "1366x768"x0.0   48.22  1366 1414 1446 1526  768 770 775 790 +hsync -vsync (31.6 kHz)
+2012-02-10T02:20:00.000Z	FloodBot1	renemoraes	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

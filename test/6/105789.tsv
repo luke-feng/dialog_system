@@ -1,0 +1,6 @@
+2006-10-28T05:20:00.000Z	Kalisto		when I do a .configure i get: checking for SSL directory... Not found...  what package am i missing?
+2006-10-28T05:21:00.000Z	EnsignRedshirt	Kalisto	Not sure, but you could file up Synaptic and search for ssl; you will find some possbilities.  You will need the *-dev pacakge(s).
+2006-10-28T05:26:00.000Z	Kalisto	EnsignRedshirt	what is the correct syntax to specify some dir for .configure.... ./configure --with-ssl /etc/ssl/ does not work.. do i use ""
+2006-10-28T05:27:00.000Z	EnsignRedshirt	Kalisto	You probably need to install the *-dev version of an ssl library.
+2006-10-28T05:27:00.000Z	EnsignRedshirt	Kalisto	...but that is just a guess.
+2006-10-28T05:27:00.000Z	Kalisto	EnsignRedshirt	will try

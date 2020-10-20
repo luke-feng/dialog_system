@@ -1,0 +1,6 @@
+2010-10-13T09:40:00.000Z	Gwar		How can i remove certain programs from the Indicator Applet in the pannel? Atm I have Sound, Transmission and Rhythembox that I want to keep but an Envelope thing with pidgin that I don't.
+2010-10-13T09:41:00.000Z	Gwar		D:
+2010-10-13T09:42:00.000Z	histo	Gwar	exit the apps.  also go to system > preferences > session to stop them from starting on log in
+2010-10-13T09:42:00.000Z	histo	Gwar	it's the ntofication area
+2010-10-13T09:43:00.000Z	Gwar	histo	There are two kinds. One is Notification area, and one is Indicator Applet
+2010-10-13T09:45:00.000Z	histo	Gwar	the enelope is empathy

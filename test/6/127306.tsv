@@ -1,0 +1,6 @@
+2008-01-21T08:14:00.000Z	IdleOne		:P
+2008-01-21T08:16:00.000Z	IdleOne		ghost command does not depend on the nick being registered. it looks at the host and of the host matches then it will kill that nick/host
+2008-01-21T08:16:00.000Z	Dave2	IdleOne	no, it doesn't
+2008-01-21T08:17:00.000Z	IdleOne	Dave2	well it should
+2008-01-21T08:17:00.000Z	Dave2	IdleOne	I don't see why it should; I can see that being open to abuse.
+2008-01-21T08:18:00.000Z	IdleOne	Dave2	hence the creation of nickserv

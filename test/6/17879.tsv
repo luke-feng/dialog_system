@@ -1,0 +1,6 @@
+2010-10-19T17:44:00.000Z	acidflash		i need some help with crontabs
+2010-10-19T17:45:00.000Z	acidflash		acidflash> and the file is per say /etc/myname.bash but i put it in the crontab as * * * * * /etc/myname.sh will it still execute ?
+2010-10-19T17:47:00.000Z	greenmang0	acidflash	or check if symlink work
+2010-10-19T17:48:00.000Z	acidflash	greenmang0	Im not quite sure how, can you explain how/what that is /does
+2010-10-19T17:49:00.000Z	greenmang0	acidflash	if your file is file.bash and you want to have file.sh in crontab then create a symlink ...  ln -sv /etc/file.bash /etc/file.sh
+2010-10-19T17:50:00.000Z	greenmang0	acidflash	but i am not sure it will work in crontab... ideally it should ..

@@ -1,0 +1,6 @@
+2005-02-25T14:32:00.000Z	Xappe		ok now I have a question. I want to mount an .iso somewhere without having root access...what should I do to make this happen? mount -o loop isofile mountpoint give an mount: only root can do that
+2005-02-25T14:33:00.000Z	Tsjoklat	Xappe	ubuntuguide.org
+2005-02-25T14:33:00.000Z	Tsjoklat	Xappe	is explained there
+2005-02-25T14:33:00.000Z	Xappe	Tsjoklat	ok
+2005-02-25T14:35:00.000Z	Xappe	Tsjoklat	hmm, no? the guide mount with root access (sudo)
+2005-02-25T14:36:00.000Z	Tsjoklat	Xappe	it is in the guide..

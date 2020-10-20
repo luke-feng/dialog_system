@@ -1,0 +1,6 @@
+2007-06-04T15:07:00.000Z	zacs7		How do I shutdown X before I boot?
+2007-06-04T15:07:00.000Z	zacs7		IE: I'm trying to get my 8600GT working but my screen goes black before I can do anything (after ubuntu boots), Ctrl+Alt+F2 doesn't do anything!?
+2007-06-04T15:09:00.000Z	zacs7		How do I boot in 'textmode'...?
+2007-06-04T15:09:00.000Z	zacs7		my screen goes black, I need to fix
+2007-06-04T15:10:00.000Z	zacs7		I can't see anything, Ctrl+Alt+F2 doesn't work...
+2007-06-04T15:11:00.000Z	bionoid	zacs7	in the grub boot menu, select one of the entries with "recovery" on the end (iirc), or just edit the bootline and append "single" at the end

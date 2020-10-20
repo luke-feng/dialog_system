@@ -1,0 +1,6 @@
+2006-03-20T11:15:00.000Z	akk		I just updated dapper, and it overwrote my static nameservers in /etc/resolv.conf. Why did it do that?
+2006-03-20T11:15:00.000Z	akk		The resolvconf man page talks about PPP and stuff like that, but doesn't seem to admit the possibility that one might use a static IP address with static nameservers.
+2006-03-20T11:16:00.000Z	HappyFool	akk	if you use resolvconf, /etc/resolv.conf will change afaik
+2006-03-20T11:16:00.000Z	HappyFool	akk	you're supposed to set the static nameservers somewhere else
+2006-03-20T11:16:00.000Z	akk	HappyFool	So anyone who intends to use static IP should remove resolvconf first thing?
+2006-03-20T11:17:00.000Z	HappyFool	akk	i use breezy; i had to install it manually. don't know about dapper

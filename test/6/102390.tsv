@@ -1,0 +1,6 @@
+2006-11-08T07:44:00.000Z	iter		/etc/services
+2006-11-08T07:46:00.000Z	iter		it's breezy
+2006-11-08T07:48:00.000Z	iter		quite a few gnome apps will ask for passwd to effect administratior level stuff
+2006-11-08T07:49:00.000Z	iter		alternatively you could launch your gnome app of choice from terminal with sudo <gnomeapp>
+2006-11-08T07:49:00.000Z	suckamc	iter	I mean to like change permissions of a file or folder
+2006-11-08T07:52:00.000Z	iter	suckamc	yeah gksudo nautilus from alt-f2

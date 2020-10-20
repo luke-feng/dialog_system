@@ -1,0 +1,6 @@
+2011-12-16T22:56:00.000Z	AaronDCampbell		in Nautilus when I browse to a place on the network it shows like it's mounted (little eject icon next to it).  Where does it mount it?
+2011-12-16T22:56:00.000Z	MonkeyDust	AaronDCampbell	 /media
+2011-12-16T22:57:00.000Z	AaronDCampbell	MonkeyDust	My external drive is the only thing listed in /media
+2011-12-16T23:08:00.000Z	MonkeyDust	AaronDCampbell	 type mount and see if it shows the network drive
+2011-12-16T23:10:00.000Z	MonkeyDust		another ciao-!list-italian :)
+2011-12-16T23:12:00.000Z	AaronDCampbell	MonkeyDust	no, but 'gvfs-mount -l' does

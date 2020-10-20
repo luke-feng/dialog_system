@@ -1,0 +1,6 @@
+2008-11-26T23:27:00.000Z	snuitje	MiceAreNiceVac	you might be able to get away with adding your physical hard drive as a device in vmware, then run your ubuntu installation in the vm
+2008-11-26T23:28:00.000Z	snuitje	MiceAreNiceVac	all sorts of weird things can happen though
+2008-11-26T23:31:00.000Z	snuitje	MiceAreNiceVac	there's also a project called andlinux that lets you run a linux distro on windows with a special kernel that windows can run, but it's buggy
+2008-11-26T23:32:00.000Z	MiceAreNiceVac	snuitje	buggy or not, i'm desperate for solutions
+2008-11-26T23:32:00.000Z	snuitje	MiceAreNiceVac	well you could give it a try, it can't hurt :)
+2008-11-26T23:33:00.000Z	snuitje	MiceAreNiceVac	www.andlinux.org, but if you want to discuss that, try #andlinux or so, this isn't the channel for it

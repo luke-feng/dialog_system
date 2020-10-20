@@ -1,0 +1,6 @@
+2009-07-06T09:07:00.000Z	aditya_		i lost sound suddenly in jaunty...can someone help?
+2009-07-06T09:07:00.000Z	aditya_		in alsamixer master is turned on but there is no sound!
+2009-07-06T09:07:00.000Z	scunizi	aditya_	just a thought.. try adding the "front" volume control and turn that up.
+2009-07-06T09:10:00.000Z	scunizi	aditya_	are you doing this on the cli or terminal?  you can also double click the volume icon up by the clock.. sometimes that is easier.
+2009-07-06T09:13:00.000Z	scunizi	aditya_	never mentioned client.. just the speaker icon up by the clock.. properties yes.. you should have options to make other items visable in the display with slider volumn controls.. "front" is what I was suggestion you activate for visability then turn that up.
+2009-07-06T09:17:00.000Z	scunizi	aditya_	that just means that you have a different sound card then me.. sorry .. I tried.

@@ -1,0 +1,6 @@
+2005-02-09T15:47:00.000Z	zazeem		that cmd didnt log me out of x server
+2005-02-09T15:48:00.000Z	zazeem		i tried installing nvidia drivers from that and it said u apear to be in x server exit it first
+2005-02-09T15:48:00.000Z	zazeem		ctrl alt f1 didnt cut it
+2005-02-09T15:49:00.000Z	cowbud	zazeem	sudo /etc/init.d/gdm stop
+2005-02-09T15:49:00.000Z	cowbud	zazeem	that will kill x so make sure you have logged out
+2005-02-09T15:49:00.000Z	cowbud	zazeem	log out then press ctrl-alt-f1 then sudo /etc/init.d/gdm stop then do your nvidia stuff..

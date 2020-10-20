@@ -1,0 +1,6 @@
+2009-09-12T23:24:00.000Z	anachronoks		I only ask about recovering files from old partitions because I gave one of my older computers away, and then later realized it had sensitive information I forgot to delete.
+2009-09-12T23:24:00.000Z	anachronoks		But I did delete the partition.
+2009-09-12T23:26:00.000Z	mezquitale	anachronoks	to completely erase information from a harddrive you need to wipe the hard drive, you can still recover data from erased partitions
+2009-09-12T23:27:00.000Z	anachronoks	mezquitale	This was an ext3 partition, does that make any difference?
+2009-09-12T23:29:00.000Z	mezquitale	anachronoks	it doesn't matter, unless your partition was encrypted, data can still be recovered from the partition, i suggest you wipe the hard drive so securely erase files
+2009-09-12T23:29:00.000Z	anachronoks	mezquitale	Okay, will do that next time. Thanks

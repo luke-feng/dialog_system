@@ -1,0 +1,6 @@
+2009-06-23T16:35:00.000Z	sjokkis		hi. i want to prevent my system from loading the floppy module on boot. i've added it to /etc/modprobe.d/backlist.conf, but that isn't helping. i'm sure i've spelled it correctly.
+2009-06-23T16:36:00.000Z	ziroday	sjokkis	its /etc/modprobe.d/blacklist (no .conf) and the syntax is blacklist <module>
+2009-06-23T16:37:00.000Z	sjokkis	ziroday	strange. i had a file named /etc/modprobe.d/blacklist.conf from before. isn't the old syntax (without .conf) deprecated recently? perhaps that's where the problem is
+2009-06-23T16:37:00.000Z	sjokkis	ziroday	no bother. i'll just add a symlink
+2009-06-23T16:37:00.000Z	ziroday	sjokkis	nope, its always been /etc/modprobe.d/blacklist AFAIK
+2009-06-23T16:38:00.000Z	ziroday	sjokkis	have fun

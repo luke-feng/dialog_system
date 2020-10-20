@@ -1,0 +1,6 @@
+2008-07-06T18:31:00.000Z	|aspire|		hello
+2008-07-06T18:31:00.000Z	|aspire|		where is the java JDK located after installing from he repo's?
+2008-07-06T18:33:00.000Z	|aspire|		he, is there any one that can tell me the dir to the java JDK on a ubuntu system????
+2008-07-06T18:33:00.000Z	joaopinto	|aspire|	it depends on the java version you have installed
+2008-07-06T18:34:00.000Z	joaopinto	|aspire|	ls -ltr /etc/alternatives/java
+2008-07-06T18:36:00.000Z	|aspire|	joaopinto	that does not help me as I do not have the location of the JDK

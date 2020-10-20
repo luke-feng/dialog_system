@@ -1,0 +1,6 @@
+2005-06-26T15:42:00.000Z	jnoreiko		hi
+2005-06-26T15:42:00.000Z	jnoreiko		does anyone know anything about networking ubuntu & OS X?
+2005-06-26T15:42:00.000Z	jnoreiko		I have my powerbook and PC hooked up with an ethernet cable, but they're not seeing each other
+2005-06-26T15:42:00.000Z	hondje	jnoreiko	oh, I do!
+2005-06-26T15:43:00.000Z	hondje	jnoreiko	use either samba or nfs, obth work great
+2005-06-26T15:51:00.000Z	hondje	jnoreiko	df -h

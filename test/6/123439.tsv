@@ -1,0 +1,6 @@
+2007-05-04T16:48:00.000Z	creamers		how do i set up the desktop
+2007-05-04T16:48:00.000Z	creamers		need  help
+2007-05-04T16:48:00.000Z	creamers		yes i do
+2007-05-04T16:49:00.000Z	creamers		how would i set up the desktop now
+2007-05-04T16:50:00.000Z	creamers		any body know hwo to set up the desktop on server edition
+2007-05-04T16:50:00.000Z	kitche	creamers	sudo apt-get install ubuntu-desktop

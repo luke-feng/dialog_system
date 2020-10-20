@@ -1,0 +1,6 @@
+2004-10-14T13:23:00.000Z	Sirius_Black		ok guys - i wanna install ubuntu on a mchine with a small HD.  128Mb swap and 1.4Gb for /.  Is that enuff?
+2004-10-14T13:24:00.000Z	Sirius_Black		tnx opi
+2004-10-14T13:25:00.000Z	sladen	Sirius_Black	the base install is 1248MB + overhead + space for copied packages, so you'll need to choose custom
+2004-10-14T13:26:00.000Z	Sirius_Black	sladen	tnx mate.  lemme start again then :-(
+2004-12-14T07:23:00.000Z	sladen	Sirius_Black	"custom" at the install prompt
+2004-12-14T07:23:00.000Z	Sirius_Black	sladen	tnx

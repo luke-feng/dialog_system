@@ -1,0 +1,6 @@
+2009-03-29T09:45:00.000Z	Maslow		Hi. Do any of you have any idea what might cause FireFox to suddenly stop working? When I try to run it now it pops up in my taskbar like "Starting Firefox", then doesn't actually start =/
+2009-03-29T09:46:00.000Z	ziroday	Maslow	first do killall firefox, then do firefox
+2009-03-29T09:47:00.000Z	ziroday	Maslow	are you running jaunty?
+2009-03-29T09:47:00.000Z	Maslow	ziroday	8.10 I believe.
+2009-03-29T09:48:00.000Z	ziroday	Maslow	can you make sure you are fully updated/upgraded and then restart
+2009-03-29T10:03:00.000Z	Maslow	ziroday	Updating my system and restarting fixed the problem with firefox, thanks for the help :)

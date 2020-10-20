@@ -1,0 +1,6 @@
+2007-06-06T10:25:00.000Z	Dimension1		hiya how can i mount a mac hdd ... i have a usb mac hdd but when i plug it ... it doesn't mount
+2007-06-06T10:27:00.000Z	orbisvicis	Dimension1	not sure but you might need to have hfsutils
+2007-06-06T10:28:00.000Z	Dimension1	orbisvicis	 i can mount any other hdds but only this one not sure its ubuntu can't read mac systems or what ... there might be some command with mount ... as dmesg shows /dev/sda1 /dev/sda2 as mac ...
+2007-06-06T10:32:00.000Z	orbisvicis	Dimension1	just search synaptics for hfs
+2007-06-06T10:38:00.000Z	Dimension1	orbisvicis	 i have hfsutils installed already ... how can i mount it now \/
+2007-06-06T10:41:00.000Z	orbisvicis	Dimension1	sudo mount -t hfsplus /dev/location?

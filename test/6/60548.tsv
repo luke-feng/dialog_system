@@ -1,0 +1,6 @@
+2008-04-13T22:48:00.000Z	rhawk		hello, can someone plse tell me what I am doing wrong in this SQL statement? 'INSERT INTO user VALUES ("'+edit2.text+'",0,0)'
+2008-04-13T22:49:00.000Z	dmsuperman	rhawk	wrong place, but reverse your single and double quotes
+2008-04-13T22:49:00.000Z	dmsuperman	rhawk	depends on your db, but most database use single quotes for values, not double
+2008-04-13T22:50:00.000Z	dmsuperman	rhawk	so use the single quote around the value, and the " to escape out
+2008-04-13T22:50:00.000Z	dmsuperman	rhawk	but in the future, this is #ubuntu, for ubuntu support. sql questions belong in another channel ;)
+2008-04-13T22:51:00.000Z	dmsuperman	rhawk	no problems :D

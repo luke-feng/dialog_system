@@ -1,0 +1,6 @@
+2007-10-08T12:03:00.000Z	george		no
+2007-10-08T12:04:00.000Z	george		Hello, does anyone know how to get the 0x000 address for a parallel port
+2007-10-08T12:05:00.000Z	bulmer	george	you mean like the interrupt it uses?
+2007-10-08T12:05:00.000Z	george		yes, maybe
+2007-10-08T12:06:00.000Z	bulmer	george	under /proc  lots of good info
+2007-10-08T12:08:00.000Z	george	bulmer	thanks

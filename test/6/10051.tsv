@@ -1,0 +1,6 @@
+2011-07-15T04:19:00.000Z	jkoudys		On the default install of the latest ubuntu: Can I map my mouse to work like on a mac, e.g. my left + right buttons both send the first click button, but ctrl+click is a right click?
+2011-07-15T04:20:00.000Z	ActionParsnip	jkoudys	I'd imagine so, would take some work
+2011-07-15T04:20:00.000Z	jkoudys	ActionParsnip	tips on where to start?
+2011-07-15T04:20:00.000Z	ActionParsnip	jkoudys	not something I've done but I can imagine its possible
+2011-07-15T04:21:00.000Z	ActionParsnip	jkoudys	look into xmodmap is all I can suggest
+2011-07-15T04:21:00.000Z	jkoudys	ActionParsnip	okay I'll check that, thanks

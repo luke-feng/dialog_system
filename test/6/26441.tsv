@@ -1,0 +1,6 @@
+2009-12-27T02:25:00.000Z	Slyone		Can i see the key of my internet somewhere on my pc?
+2009-12-27T02:26:00.000Z	Slyone		Can i see the key of my internet somewhere on my pc?
+2009-12-27T02:28:00.000Z	Schuenemann	Slyone	 the password?
+2009-12-27T02:28:00.000Z	Slyone	Schuenemann	right
+2009-12-27T02:29:00.000Z	Schuenemann	Slyone	 I'm not on ubuntu right now. In debian, there is file /etc/wpa_supplicant.conf that was it encrypted, but I have it commented there (the default is like that)
+2009-12-27T02:29:00.000Z	Schuenemann	Slyone	 try that

@@ -1,0 +1,6 @@
+2005-11-28T14:34:00.000Z	nxv_		how can i get the whole windows displayed when tabbing through it (alt+tab) instead of only the border?
+2005-11-28T06:51:00.000Z	nxv_		how do i install vim colorschemes?
+2005-11-28T06:52:00.000Z	_jason	nxv_	try #vim
+2005-11-28T06:53:00.000Z	nxv_	_jason	no packages there in ubuntu ?
+2005-11-28T06:54:00.000Z	_jason	nxv_	i don't know
+2005-11-28T06:55:00.000Z	_jason	nxv_	I think you just cp the color scheme somewhere in ~/.vim but you are better off asking in #vim

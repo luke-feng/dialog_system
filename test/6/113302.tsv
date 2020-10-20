@@ -1,0 +1,6 @@
+2009-01-11T03:45:00.000Z	JHook101		Can someone tell me which MySQL package I would download for Ubuntu
+2009-01-11T03:46:00.000Z	JHook101		http://dev.mysql.com/downloads/mysql/5.1.html
+2009-01-11T03:48:00.000Z	JHook101		hey ubot
+2009-01-11T03:48:00.000Z	JHook101		The MYSQL program I need to be on client not server
+2009-01-11T03:50:00.000Z	JHook101		I went to http://www.ubuntu.com/products/softwarecatalogue They had MySQL website listed I was wanting to know which package I would download for a 32 bit desktop
+2009-01-11T03:51:00.000Z	Jack_Sparrow	JHook101	sudo apt-get install mysql-client-5.0

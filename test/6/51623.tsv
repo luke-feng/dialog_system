@@ -1,0 +1,6 @@
+2008-09-14T05:48:00.000Z	rexus		hi guys, how can I know what driver is used for my Wireless device in ubuntu 8.04?
+2008-09-14T05:49:00.000Z	danbh_intrepid	rexus	is it pci or usb?
+2008-09-14T05:49:00.000Z	rexus	danbh_intrepid	it is embedded in my laptop
+2008-09-14T05:50:00.000Z	rexus		intel 3945ABG
+2008-09-14T05:53:00.000Z	rexus	danbh_intrepid	: it is an intel 3945ABG wireless
+2008-09-14T05:53:00.000Z	danbh_intrepid	rexus	well, I kinda forget, but its there if you run : sudo lshw

@@ -1,0 +1,6 @@
+2010-01-08T20:48:00.000Z	perlmonkey2		Is there a service manager app to start stop and status services?
+2010-01-08T20:49:00.000Z	arleslie	perlmonkey2	System: Administrator Settings: Services .... I think
+2010-01-08T20:50:00.000Z	perlmonkey2	arleslie	that's where i looked for it, but don't see it.  Do you know what it is called so I can install it?
+2010-01-08T20:51:00.000Z	arleslie	perlmonkey2	http://ubuntuforums.org/showpost.php?p=35858&postcount=8
+2010-01-08T20:52:00.000Z	arleslie	perlmonkey2	Its the first code box, not the second one.
+2010-01-08T20:54:00.000Z	perlmonkey2	arleslie	thanks that works, but I'd still like the gnome services management tool.

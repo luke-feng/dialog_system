@@ -1,0 +1,6 @@
+2010-06-14T08:54:00.000Z	Roasted		no process found
+2010-06-14T08:54:00.000Z	Roasted		how can I kill via pid?
+2010-06-14T08:55:00.000Z	majuk	Roasted	kill `pidof VLCISPLAYINGLOLPORN`
+2010-06-14T08:56:00.000Z	majuk	Roasted	Yea, if its not a process your user started, you'll have to sudo. Run the normal 'pidof $PROGRAMNAME' first
+2010-06-14T08:56:00.000Z	Roasted	majuk	gotcha. thanks.
+2010-06-14T08:56:00.000Z	majuk	Roasted	/A/ pid

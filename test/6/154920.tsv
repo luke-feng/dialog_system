@@ -1,0 +1,6 @@
+2007-02-07T08:17:00.000Z	briank		does anybody know a good irc server/channel that I could get some linux security help?
+2007-02-07T08:18:00.000Z	briank		thank you, although my problem really isn't ubuntu focused
+2007-02-07T08:18:00.000Z	briank		when I run netstat on a computer at work (freebsd), I see a lot of established connections and syn_sent from foriegn hosts using port 25. All the local addresses seem to be incrementing ports in the 50000 - 65000 range. I also noticed that a lot messages where attempted to be relayed to different hosts in the maillog. does anyone know what is going on and how I can fix it?
+2007-02-07T08:20:00.000Z	ablyss	briank	what's there to fix?  That sounds normal to me
+2007-02-07T08:23:00.000Z	ablyss	briank	where easy enough to setup up a firewall to block port 25
+2007-02-07T08:26:00.000Z	ablyss	briank	try installing snort on the machine and maybe watch logs for snort alerts

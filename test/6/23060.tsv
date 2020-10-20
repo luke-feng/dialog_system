@@ -1,0 +1,6 @@
+2010-03-25T04:02:00.000Z	darkvoid82		question from a new ubuntu user. how exaclty does one mount the dvdrom drive. is it put disc in and it runs like in windows or are there commands one must type in?
+2010-03-25T04:03:00.000Z	eremite	darkvoid82	just put the DVD in and wait for the pop-up asking you what you would like to do.
+2010-03-25T04:03:00.000Z	darkvoid82	eremite	i put a dvd in and got nothing
+2010-03-25T04:03:00.000Z	eremite	darkvoid82	be aware of the fact that many DVDs do not work on computers due to copyright DRM.  You need to install the proper codecs to break through that veil.
+2010-03-25T04:05:00.000Z	eremite	darkvoid82	open yoru add/remove apps utility and search for Restricted Extras\
+2010-03-25T04:07:00.000Z	darkvoid82	eremite	i remember geting them, smerz: got thr libdvdread4

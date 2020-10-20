@@ -1,0 +1,6 @@
+2010-10-03T03:16:00.000Z	james333james		hey I need to create a launcher
+2010-10-03T03:16:00.000Z	james333james		Can anybody help me?
+2010-10-03T03:17:00.000Z	ActionParsnip	james333james	right click the desktop -> new launcher
+2010-10-03T03:17:00.000Z	james333james	ActionParsnip	yes i know this but my problem is that the file is on a directory and for lauch it i got to go in that directory and launch from the shell ./cacaoweb.linux
+2010-10-03T03:18:00.000Z	james333james	ActionParsnip	 what should i wrote in the command line of the launche icon to launch my program
+2010-10-03T03:19:00.000Z	ActionParsnip	james333james	point the launcher to the file or script you want to launch

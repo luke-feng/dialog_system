@@ -1,0 +1,6 @@
+2012-10-20T20:10:00.000Z	amews_aj-study		Not that sensitive really - only "remembered" passwords that I'm a bit worried about - I don't want to go all over the place changing passwords
+2012-10-20T20:12:00.000Z	amews_aj-study		If the OS was installed on a 2 TB partition and less than 100 GB was used - is it safe to assume that overwriting the first 100 GB of the disk is enough? Or could the data be scattered all over ?
+2012-10-20T20:13:00.000Z	Optichip	amews_aj-study	depends on how long you had it installed for.
+2012-10-20T20:13:00.000Z	amews_aj-study	Optichip	months
+2012-10-20T20:13:00.000Z	Optichip	amews_aj-study	then it'll be all over the partition, not just the first 100gig.
+2012-10-20T20:15:00.000Z	Optichip	amews_aj-study	correct you should be fine

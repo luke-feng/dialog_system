@@ -1,0 +1,6 @@
+2011-10-24T23:03:00.000Z	VJTachyon		how do I tell the system to route internet traffic through eth1 instead of eth0
+2011-10-24T23:04:00.000Z	MonkeyDust	VJTachyon	in /etc/networks/interfaces ?
+2011-10-24T23:04:00.000Z	MonkeyDust		irssi rules
+2011-10-24T23:05:00.000Z	VJTachyon	MonkeyDust	Will this being in a VMWare instance cause any issues?
+2011-10-24T23:06:00.000Z	MonkeyDust	VJTachyon	i missed the vmware part, can't say
+2011-10-24T23:07:00.000Z	VJTachyon	MonkeyDust	all that is in there is the lo interface

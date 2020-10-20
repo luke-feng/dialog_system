@@ -1,0 +1,6 @@
+2010-02-06T22:41:00.000Z	xiong		A buddy reports issues with ext3 (corruption); he prefers JFS. Comments?
+2010-02-06T22:42:00.000Z	capron	xiong	your buddy have some other problems ext3 is rock solid ,  :-)
+2010-02-06T22:43:00.000Z	xiong	capron	I'll keep that in mind.
+2010-02-06T22:43:00.000Z	xiong		Is there *any* reason to prefer any file system over ext3?
+2010-02-06T22:45:00.000Z	capron	xiong	 ext2 dont use jornal and ext4 still new,   I think ext3 is the best , but a bad disk , memeory . cpu kan make file corrupt.
+2010-02-06T22:52:00.000Z	xiong	capron	I'm moving on from my buddy's issues, which after all are not my own. I intend to wipe my drive, repartition, and do a clean 9.10 install. It won't be pretty by the time I get done reinstalling everything and fixing up the little messy bits. If I'm going to change file systems, now is the time; I won't want to do it again.

@@ -1,0 +1,6 @@
+2006-06-10T06:07:00.000Z	mt3		Hi guys
+2006-06-10T06:07:00.000Z	mt3		I wasn't really sure where to ask this
+2006-06-10T06:07:00.000Z	mt3		I have a problem with a computer running Ubuntu... But it's not a Ubuntu problem :P
+2006-06-10T06:08:00.000Z	mt3		Basically I set a password on the motherboard of my machine but it obviously isn't right because when I enter it to start up it says I entered it wrong! I tried taking the battery out and putting it back in and it didn't clear it. What can I do? It's an old Packard Bell system with a Celeron 859
+2006-06-10T06:09:00.000Z	Warbo	mt3	There is usually a pair of jumpers (little metal contacts) which you can sort circuit for a few seconds to wipe the settings
+2006-06-10T06:10:00.000Z	Warbo	mt3	It is different for every Mobo (look in the manual, or else Google for a diagram of the board)

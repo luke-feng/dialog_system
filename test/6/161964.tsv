@@ -1,0 +1,6 @@
+2004-10-28T05:06:00.000Z	orutherfurd		hi, this may be more a gnome question, but I tried to share my desktop so I could use access from another question, but can't connect from another computer -- any ideas?
+2004-10-28T05:08:00.000Z	socomm	orutherfurd	vnc?
+2004-10-28T05:08:00.000Z	socomm	orutherfurd	ssh maybe?
+2004-10-28T05:08:00.000Z	orutherfurd	socomm	yes -- tried to connect from my windows box -> ubuntu box, using tightvnc viewer. got connection refused.
+2004-10-28T05:09:00.000Z	socomm	orutherfurd	you may need to open up some ports
+2004-10-28T05:10:00.000Z	orutherfurd	socomm	ok, thanks

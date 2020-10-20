@@ -1,0 +1,6 @@
+2006-04-18T06:32:00.000Z	jerware		fellaz
+2006-04-18T06:33:00.000Z	jerware		i want a direct connection from my server to my laptop in case if one of my intermediate cisco routers fail.  The only available interfaces left are dial-up modems.  should i implement PPP clients and PPPd ?
+2006-04-18T06:33:00.000Z	jerware		i always wanted to learn PPP anyway
+2006-04-18T06:35:00.000Z	jerware		is it possible to specify a route on a dial-up modem
+2006-04-18T06:36:00.000Z	FlannelKing	jerware	what?
+2006-04-26T15:01:00.000Z	FlannelKing	jerware	java runtime environment

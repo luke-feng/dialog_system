@@ -1,0 +1,6 @@
+2007-08-29T06:40:00.000Z	laucky		Anyone w/ an ATI X1400 in here who accomplished running beryl/compiz ?
+2007-08-29T06:41:00.000Z	evan__	laucky	Running x800 and cant get beryl/compiz to run, followed this guide tho http://wiki.cchtml.com/index.php/Ubuntu_Feisty_Installation_Guide
+2007-08-29T06:43:00.000Z	laucky	evan__	My ATI driver works fine. But Compiz has to be disabled ... :-/ any way to circumvent compiz
+2007-08-29T06:44:00.000Z	evan__	laucky	check your xorg.conf file
+2007-08-29T06:45:00.000Z	laucky	evan__	what should be in / out of there? Composite has to be disabled, some websites and some errors on my laptop say.
+2007-08-29T06:49:00.000Z	laucky	evan__	well, I yould start compiz a while ago with dapper or edgy in combination w/ XGL, perhaps you could try that - but it doesn't work here in feisty :/

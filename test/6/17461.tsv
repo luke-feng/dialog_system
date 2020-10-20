@@ -1,0 +1,6 @@
+2012-02-28T03:53:00.000Z	boxbeatsy		hi, does anyone know how i can split a 1M line text file into five files each containing 200K lines?
+2012-02-28T03:54:00.000Z	boxbeatsy		via command line?
+2012-02-28T03:54:00.000Z	glebihan	boxbeatsy	well then split is a command...
+2012-02-28T03:54:00.000Z	glebihan	boxbeatsy	have a look at "man split"
+2012-02-28T03:55:00.000Z	boxbeatsy	glebihan	oo interesting, thanks :D
+2012-02-28T03:55:00.000Z	glebihan	boxbeatsy	you're welcome

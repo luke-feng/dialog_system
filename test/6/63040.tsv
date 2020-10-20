@@ -1,0 +1,6 @@
+2008-03-03T16:30:00.000Z	karuna_bdc		hi whenever i try to go to console mode, alls i get is a blank screen with a blinking underscore? anybody can help me out?
+2008-03-03T16:31:00.000Z	DSpair	karuna_bdc	Sounds like perhaps you are getting the wrong vid_mode for your console. Have you tried booting into recovery mode? If that fixes it, then you need to adjust your grub boot params.
+2008-03-03T16:32:00.000Z	karuna_bdc	DSpair	recovery mode? from grub?
+2008-03-03T16:32:00.000Z	DSpair	karuna_bdc	Yeah, when you boot there is an option on the kernel command line which looks like "vga=XXX" and that sets your framebuffer vga mode. You'll need to find a mode that works for your PC.
+2008-03-03T16:34:00.000Z	DSpair	karuna_bdc	Something else you can try. Try to do a blind login on that cursor screen and see if the cursor moves.
+2008-03-03T16:35:00.000Z	karuna_bdc	DSpair	Blind login? sorry im a reall newbie

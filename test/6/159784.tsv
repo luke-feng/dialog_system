@@ -1,0 +1,6 @@
+2005-02-07T12:41:00.000Z	pdamoc		hello
+2005-02-07T12:43:00.000Z	pdamoc		at one of the updates of Hoary I got my resolution downgraded to 640X480.... how can I set it back to 1024x768?
+2005-02-07T12:44:00.000Z	Bader	pdamoc	maybe dpkg-reconfigure xserver-xfree86 or directly edit /etc/X11/XF86Config-4 (don't forget to follow the instructions at the beginning)
+2005-02-07T12:46:00.000Z	pdamoc	Bader	doesn't Hoary use X.org server ?
+2005-02-07T12:46:00.000Z	Bader	pdamoc	yep.
+2005-02-07T12:46:00.000Z	Bader	pdamoc	replace with correct values.

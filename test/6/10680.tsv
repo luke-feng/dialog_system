@@ -1,0 +1,6 @@
+2011-11-21T19:36:00.000Z	bo_root		i just installed latest ubuntu on my mothers laptop and now i cant enable wireless, switch is not responding and its shut down, any hints?
+2011-11-21T19:36:00.000Z	placki4ever	bo_root	Open the Terminal and run "lspci" so we can know what wireless card you have
+2011-11-21T19:37:00.000Z	bo_root	placki4ever	BCM43225
+2011-11-21T19:37:00.000Z	placki4ever	bo_root	and rootux: If you don't find any other solution, you can try using ndiswrapper to install the windows driver
+2011-11-21T19:39:00.000Z	bo_root	placki4ever	i am using ndiswrapper on FreeBSD, but to use it on ubuntu, i mean, i heard that on ubuntu works almost everything out of the box :)
+2011-11-21T19:40:00.000Z	placki4ever	bo_root	yes, "almost", broadcom wireless seems to be one of those things who don't

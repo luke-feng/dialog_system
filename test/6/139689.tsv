@@ -1,0 +1,6 @@
+2005-09-06T09:06:00.000Z	LaserLine		Hello all, I have a question about PnP OS settings in BIOS...
+2005-09-06T09:06:00.000Z	lunitik	LaserLine	turn them off
+2005-09-06T09:06:00.000Z	LaserLine	lunitik	what does that setting mean?
+2005-09-06T09:07:00.000Z	lunitik	LaserLine	it means the BIOS will argue with Linux... and it'll win... and some things won't work... turn it off
+2005-09-06T09:08:00.000Z	LaserLine	lunitik	is it normal that the charge monitor in gnome taking a l-o-n-g time identifying me plugging in the AC power cord and disconnecting it ?
+2005-09-06T09:13:00.000Z	lunitik	LaserLine	iir GNOME 2.12 had some work done on that...

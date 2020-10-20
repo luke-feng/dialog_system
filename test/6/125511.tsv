@@ -1,0 +1,6 @@
+2007-10-28T15:39:00.000Z	webben		I was trying to stop my tty's being displayed at too low a resolution, and now no tty's seem to be started.
+2007-10-28T15:40:00.000Z	webben		Is it possible to start a tty which I could switch to with ctrl + alt + fX ... from gnome-terminal ?
+2007-10-28T15:41:00.000Z	webben		Ah correction, looking at ps aux ... I do have getty creating tty's now ... i just can't switch to them.
+2007-10-28T15:41:00.000Z	webben		Is there a way to switch to a tty other than with ctrl + alt + fX?
+2007-10-28T15:43:00.000Z	webben		In fact... where are ctrl + alt + Fx set up as shortcuts in the first place? Is that an X11 setting somewhere?
+2007-10-28T15:44:00.000Z	Frogzoo	webben	pretty sure the kernel does that

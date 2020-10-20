@@ -1,0 +1,6 @@
+2009-02-15T03:03:00.000Z	opr		guys, is there a way i can disable app armor when compiling with g++ ?
+2009-02-15T03:04:00.000Z	mzz	opr	*might* be -fdisable-stack-protector
+2009-02-15T03:04:00.000Z	opr	mzz	i'll try it
+2009-02-15T03:05:00.000Z	mzz	opr	usually if that "helps" the thing you're compiling is buggy though
+2009-02-15T03:05:00.000Z	opr	mzz	im just making a backdoor :)
+2009-02-15T03:06:00.000Z	mzz	opr	and it's actually -fno-stack-protector (assuming apparmor is what I think it is)

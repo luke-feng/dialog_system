@@ -1,0 +1,6 @@
+2006-06-06T07:35:00.000Z	theine	Henk	for f in $(find /path -type l); do if [ ! -e "$f" ] ; then echo
+2006-06-06T07:35:00.000Z	theine	Henk	maybe?
+2006-06-06T07:35:00.000Z	theine	Henk	for f in $(find /path -type l); do if [ ! -e "$f" ] ; then echo $f; fi; done
+2006-06-06T07:36:00.000Z	theine	Henk	or: find -type l -exec file '{}' \; | grep broken | cut -d: -f1
+2006-06-06T07:37:00.000Z	Henk	theine	find may help me I'll try that
+2006-06-06T07:37:00.000Z	theine	Henk	the last command I posted works

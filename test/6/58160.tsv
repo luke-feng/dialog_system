@@ -1,0 +1,6 @@
+2010-04-04T06:18:00.000Z	stercor		My ./configure fails the check for GTK+ - version >= 2.4.0.  How can I check what/where GTK is?
+2010-04-04T06:18:00.000Z	stercor		Actually, I know what GTK is.
+2010-04-04T06:18:00.000Z	wgrant	stercor	What are you trying to build and why?
+2010-04-04T06:19:00.000Z	stercor	wgrant	Wireshark from source.  Ubuntu's Wireshark freezes the computer.
+2010-04-04T06:19:00.000Z	wgrant	stercor	Have you filed a bug?
+2010-04-04T06:20:00.000Z	wgrant	stercor	'ubuntu-bug wireshark'

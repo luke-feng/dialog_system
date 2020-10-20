@@ -1,0 +1,6 @@
+2005-09-29T06:05:00.000Z	bonee		what happen to w32codecs
+2005-09-29T06:05:00.000Z	bonee		Package w32codecs is not available, but is referred to by another package.
+2005-09-29T06:05:00.000Z	bonee		This may mean that the package is missing, has been obsoleted, or
+2005-09-29T06:05:00.000Z	bonee		is only available from another source
+2005-09-29T06:05:00.000Z	bonee		E: Package w32codecs has no installation candidate
+2005-09-29T06:05:00.000Z	jroes	bonee	you're running amd64?

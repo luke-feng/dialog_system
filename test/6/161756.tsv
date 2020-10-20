@@ -1,0 +1,6 @@
+2004-12-13T09:00:00.000Z	TomT64		I used apt-get install libpng2, and apt-get install libpng3, and I still get the following error:
+2004-12-13T09:00:00.000Z	TomT64		checking for png_create_read_struct in -lpng... no
+2004-12-13T09:00:00.000Z	TomT64		configure: WARNING: libpng not found.  PNG support will not be compiled.
+2004-12-13T09:00:00.000Z	TomT64		any suggestions on how to fix this?
+2004-12-13T09:01:00.000Z	TomT64		no one?
+2004-12-13T09:02:00.000Z	meff	TomT64	try installing the -dev pkgs

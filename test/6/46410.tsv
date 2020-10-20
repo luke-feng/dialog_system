@@ -1,0 +1,6 @@
+2008-12-01T23:36:00.000Z	mib_f2o0hd		How do I disable the 60 second timer on the shutdown popup. It's really annoying as I sometimes accidentally hit the power button and it shuts me down.
+2008-12-01T23:37:00.000Z	rww	mib_f2o0hd	I know this isn't quite what you asked, but you can stop anything from happening when you hit the power button from System > Preferences > Power Management > General > "When the power button is pressed:"
+2008-12-01T23:38:00.000Z	rww	mib_f2o0hd	oh, wait, no you can't. they changed that. lemmie see what else I can find.
+2008-12-01T23:39:00.000Z	mib_f2o0hd	rww	thank you. Because I want to keep the ability to have the power button present a popup, I just do not want it to power out unless I choose shut down, or the other options. None of this should happen automatically.
+2008-12-01T23:41:00.000Z	rww	mib_f2o0hd	okay. I'm looking through and you /could/ make the power button do nothing from gconf-editor, but you said you don't want that. Looking for alternatives
+2008-12-01T23:44:00.000Z	rww	mib_f2o0hd	geh, I don't see an option anywhere for it :(

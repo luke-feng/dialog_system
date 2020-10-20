@@ -1,0 +1,6 @@
+2009-08-21T18:59:00.000Z	Steevo		sorry about that. grawity, the first line is #! /bin/sh
+2009-08-21T19:00:00.000Z	Steevo		Ok, I'll try that!
+2009-08-21T19:01:00.000Z	Steevo		Still the same error.
+2009-08-21T19:03:00.000Z	Steevo		So what do I try now?
+2009-08-21T19:04:00.000Z	Steevo		So do I need to apply any special modes to run a script?
+2009-08-21T19:04:00.000Z	ziroday	Steevo	you have to make it executable

@@ -1,0 +1,6 @@
+2005-09-22T12:39:00.000Z	lfelipe		Hi, got another question. How do I force apt-get update to download the list of packages again ?
+2005-09-22T12:40:00.000Z	lfelipe		well, I had to ctrl+c while it was running, and I don' t know if it really worked
+2005-09-22T12:40:00.000Z	lfelipe		so I wanted to run it again
+2005-09-22T12:40:00.000Z	lfelipe		I added hoary-backports to the sources.list, but I still can't find w32codecs
+2005-09-22T12:41:00.000Z	apokryphos	lfelipe	it's in hoary extras
+2005-09-22T12:41:00.000Z	apokryphos	lfelipe	it used to be, but that was some time ago.

@@ -1,0 +1,6 @@
+2006-09-10T12:08:00.000Z	davin		hi, i made a backup with dd yesterday prior to tinkering with Compiz, now it doesnt work so I want to restore, so would I just use 'sudo dd if=/media/usbdisk/backup/image of=/dev/sda3' ? im in single-user mode, so I also need to check if my usbdisk is connected..
+2006-09-10T12:10:00.000Z	davin		Im not gonna try anything yet as I can screw it up again
+2006-09-10T12:11:00.000Z	davin		diana; no, I made alot of scripts and tinkered with my system
+2006-09-10T12:12:00.000Z	davin		how can I see what drives are connected from a terminal?
+2006-09-10T12:13:00.000Z	davin		anyone know a terminal command to see what drives/partitions are connected?
+2006-09-10T12:14:00.000Z	Healot	davin	physical connection or the mounted partitions?

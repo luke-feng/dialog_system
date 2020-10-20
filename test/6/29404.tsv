@@ -1,0 +1,6 @@
+2009-10-24T19:07:00.000Z	BareGrillz		i'm using a POS HP, considering putting ubuntu on it, can i completely install ubuntu on the already partition of vista and leave the factory image on the disk and have it for backup, or will the factory image fail to work if i format the vista partition completely
+2009-10-24T19:08:00.000Z	bazhang	BareGrillz	what about dual booting
+2009-10-24T19:09:00.000Z	BareGrillz	bazhang	well i've considered that but i'd rather allocate all of my available space to one OS
+2009-10-24T19:10:00.000Z	bazhang	BareGrillz	you wish to replace completely with Ubuntu? then reinstall via some backup image iso in the future?
+2009-10-24T19:10:00.000Z	BareGrillz	bazhang	what im trying to figure out basically is, if i completely reformat my C: partition and format it with ubuntu will my factory image on D: still be available incase of disaster
+2009-10-24T19:11:00.000Z	bazhang	BareGrillz	you can specify where to install ubuntu sure

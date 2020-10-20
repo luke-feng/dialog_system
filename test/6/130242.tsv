@@ -1,0 +1,6 @@
+2006-08-23T07:41:00.000Z	Epoch71		hey, i have a problem
+2006-08-23T07:41:00.000Z	Epoch71		i installed ubuntu a few days ago, it ran fine other than some wrestling with fglrx
+2006-08-23T07:41:00.000Z	Epoch71		i had fglrx installed and it was working fine, i'd rebooted it with those settings a few times
+2006-08-23T07:42:00.000Z	Epoch71		then it updated something and gdm stopped working
+2006-08-23T07:42:00.000Z	Epoch71		gave me a no devices found/no screens error, i tried rebuilding xorg.conf with dexconf, no luck
+2006-08-23T07:42:00.000Z	sethk	Epoch71	see topic for fix

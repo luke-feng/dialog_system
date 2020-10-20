@@ -1,0 +1,6 @@
+2007-06-21T11:17:00.000Z	shwag		I am logging into a box using ssh keys.  I want to set my passwd, but it prompts me for my (current) UNIX password. I dont know what it is, but I am logged in. So I can't set it?
+2007-06-21T11:18:00.000Z	jamman	shwag	do you know the root password?
+2007-06-21T11:18:00.000Z	shwag	jamman	i can get it, but im just wondering more as an exercise.
+2007-06-21T11:19:00.000Z	jamman	shwag	well, then... guess?
+2007-06-21T11:19:00.000Z	shwag	jamman	not sure i have that much time
+2007-06-21T11:19:00.000Z	jamman	shwag	is it a school box or something like that?

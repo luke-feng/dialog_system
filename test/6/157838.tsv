@@ -1,0 +1,6 @@
+2005-04-04T11:00:00.000Z	Noesis		hi okes, i just installed ubuntu, but it never asked me for a root password and i cannot get into my root account
+2005-04-04T11:02:00.000Z	Noesis		but how do i log in as root kamion?
+2005-04-04T11:02:00.000Z	Noesis		i went to tty2
+2005-04-04T11:03:00.000Z	Noesis		login root and password root
+2005-04-04T11:03:00.000Z	Noesis		no success
+2005-04-04T11:03:00.000Z	zenrox	Noesis	sudo -s then enter your userpass

@@ -1,0 +1,6 @@
+2004-12-14T09:19:00.000Z	meff		anyone know how to make the gtk1.2 font smaller in hoary?
+2004-12-14T09:20:00.000Z	spity	meff	sensible-editor ~/.gtkrc
+2004-12-14T09:20:00.000Z	meff		spacedman: my .gtkrc.mine has a font definition.. but no gtk1.2 apps are using it.
+2004-12-14T09:21:00.000Z	meff		err
+2004-12-14T09:21:00.000Z	meff	spity	my .gtkrc.mine has a font definition.. but no gtk1.2 apps are using it.
+2004-12-14T09:21:00.000Z	spity	meff	dunno, how gtk actually works, i have just ~/.gtkrc

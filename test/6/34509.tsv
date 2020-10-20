@@ -1,0 +1,6 @@
+2009-07-07T19:28:00.000Z	dudette		How can I add an existing user to a group. I checked man useradd, adduser, groupadd, usermod. I don't manage to do it. What the heck?
+2009-07-07T19:29:00.000Z	swilkens	dudette	useradd -G groupname username
+2009-07-07T19:31:00.000Z	dudette	swilkens	But will useradd -G groupname username not remove the user from all other groups except for groupname?
+2009-07-07T19:32:00.000Z	swilkens	dudette	no, it will simply add the user to the group
+2009-07-07T19:34:00.000Z	swilkens	dudette	are you using the command as root?
+2009-07-07T19:35:00.000Z	dudette	swilkens	of course

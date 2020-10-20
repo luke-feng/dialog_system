@@ -1,0 +1,6 @@
+2008-08-29T10:25:00.000Z	nottaken		hello, just got ubuntu (after i got fed up with debian then gentoo then archlinux :) )
+2008-08-29T10:27:00.000Z	nottaken		when you insert a cd it automatically mounts it. does anybody know where it does this? so i could get it to perform custom actions when a cd is inserted
+2008-08-29T10:28:00.000Z	nottaken		for example if it is a dvd run vlc or some such on it
+2008-08-29T10:28:00.000Z	nottaken		so if someone puts a dvd in it automatically start playing
+2008-08-29T10:29:00.000Z	djhash	nottaken	System->Preferences->Removable Media and Drives
+2008-08-29T10:31:00.000Z	djhash	nottaken	try Preferred Applications (same menu)

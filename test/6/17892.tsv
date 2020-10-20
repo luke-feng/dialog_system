@@ -1,0 +1,6 @@
+2012-07-27T03:37:00.000Z	Gunni		hi, can someone explain to me why i can see my wifi card in lsmod but not in iwconfig?
+2012-07-27T03:37:00.000Z	Dr_willis	Gunni	 lsmod just shows loaded modules. chedk dmesg output to see if any errors show up>
+2012-07-27T03:43:00.000Z	Gunni	Dr_willis	you are right, i see a firmware error
+2012-07-27T03:44:00.000Z	Gunni	Dr_willis	imma pastebin dmesg output
+2012-07-27T03:46:00.000Z	Gunni	Dr_willis	http://pastebin.com/FzkZhEyX
+2012-07-27T03:49:00.000Z	Gunni	Dr_willis	okay so the firmware isn't there, any idea on the pakage i need to install the firmware?

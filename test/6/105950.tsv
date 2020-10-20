@@ -1,0 +1,6 @@
+2007-04-20T05:06:00.000Z	TheoMurpse		I give up though. The past three releases wireless has always worked on the livecd, and it never works once installed to the hdd
+2007-04-20T05:06:00.000Z	TheoMurpse		which boggles my mind, that something would work on teh livecd and then immediately not work once it's installed
+2007-04-20T05:07:00.000Z	PirateHead	TheoMurpse	it's true that it's unintuitive, but there is a really good reason for it. :-)
+2007-04-20T05:09:00.000Z	TheoMurpse	PirateHead	The problem is, no one has ever been able to walk me through getting wireless working, and I've never been able to either (despite getting the same wireless running in Debian and Gentoo). So basically, I've been dual booting, with Ubuntu only being used when there's a new version out, hoping and praying that finally wireless works on my computer. It never does, despite the fact that there's no technical explanation -- sin
+2007-04-20T05:10:00.000Z	PirateHead	TheoMurpse	That sucks. It took a lot of fiddling to get my wireless working as well.
+2007-04-20T05:11:00.000Z	TheoMurpse	PirateHead	you're right, it does suck. I've probably put in 50+ hours on the wireless issue. It's literally the only reaosn I'm still using XP on my laptop. I could go back to Gentoo and it would all be fine, but I'm tired of compiling everything on a laptop.

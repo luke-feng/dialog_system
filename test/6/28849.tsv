@@ -1,0 +1,6 @@
+2009-11-13T17:32:00.000Z	Valentina		I don't understand. Why is my shutdown script working when running it by: sudo ./myscript.sh but not when running it from a root cron job?
+2009-11-13T17:33:00.000Z	skx	Valentina	paste the appropriate line from cron
+2009-11-13T17:34:00.000Z	Valentina	skx	Ok.
+2009-11-13T17:35:00.000Z	Valentina	skx	This is my cron job line: */5 * * * * /home/valentina/check_temp.sh
+2009-11-13T17:35:00.000Z	skx	Valentina	try */5 * * * * /bin/bash /home/valentina/check_temp.sh
+2009-11-13T17:35:00.000Z	skx	Valentina	or whatever shell you like

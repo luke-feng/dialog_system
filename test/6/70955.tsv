@@ -1,0 +1,6 @@
+2008-04-27T12:19:00.000Z	Wolf23	PmDematagoda	 hello friend , can u help me with the nvidia driver please?
+2008-04-27T12:42:00.000Z	PmDematagoda	Wolf23	please give the error
+2008-04-27T12:43:00.000Z	PmDematagoda	Wolf23	please give the error here
+2008-04-27T12:44:00.000Z	Wolf23		You do not appear to be using the NVIDIA X driver. Please edit your X configuration file (just run `nvidia-xconfig` as root), and restart the X server
+2008-04-27T12:44:00.000Z	PmDematagoda	Wolf23	do as the error suggests
+2008-04-27T12:44:00.000Z	PmDematagoda	Wolf23	run sudo nvidia-xconfig

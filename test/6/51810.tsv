@@ -1,0 +1,6 @@
+2009-03-29T16:00:00.000Z	aprilhare		hello: I understand this bug has been resolved https://bugs.launchpad.net/firefox/+bug/185700 and the correction is available upstream - can i get the correction for intrepid? or do i need to upgrade to jaunty?
+2009-03-29T16:00:00.000Z	aprilhare		!de
+2009-03-29T16:02:00.000Z	aprilhare		I understand the Firefox ugly printing bug has been resolved https://bugs.launchpad.net/firefox/+bug/185700 and the correction is available upstream - can i get the correction for intrepid? or do i need to upgrade to jaunty? (It *is* in jaunty, isn't it?)
+2009-03-29T16:03:00.000Z	lstarnes	aprilhare	if it's in firefox, it will likely make it to older releases
+2009-03-29T16:03:00.000Z	aprilhare	lstarnes	that's what i figured - but i have 3.0.8 and it still exhibits the bug
+2009-03-29T16:04:00.000Z	aprilhare	lstarnes	hence the question :)

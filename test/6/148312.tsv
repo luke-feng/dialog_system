@@ -1,0 +1,6 @@
+2006-01-03T08:11:00.000Z	j2daosh		ok... got another question
+2006-01-03T08:12:00.000Z	j2daosh		in windows systems there is a program called dameon tools... it allows you to mount a virtual drive (cd-rom) and mount .iso files for use without actually being a cd... is there a similiar program in linux?
+2006-01-03T08:13:00.000Z	j2daosh		and if so... what is the name and what repo will i find it in???
+2006-01-03T08:13:00.000Z	Razor-X	j2daosh	you need no program to do that
+2006-01-03T08:13:00.000Z	Razor-X	j2daosh	most UNIXes mount by default
+2006-01-03T08:15:00.000Z	Razor-X	j2daosh	you know what mount does, right?

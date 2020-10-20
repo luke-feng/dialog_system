@@ -1,0 +1,6 @@
+2012-01-17T01:02:00.000Z	ro_70s		Hi - how can I swap Scroll Lock and Num Lock keys?
+2012-01-17T01:03:00.000Z	ro_70s		I tried xmodmap -e "keysym Scroll_Lock = Num_Lock" but it doesnt't toggle the setting
+2012-01-17T01:03:00.000Z	ro_70s		How can I swap Scroll Lock and Num Lock keys?
+2012-01-17T01:04:00.000Z	onre	ro_70s	xmodmap is probably the most confusing program ever. there used to be a graphical frontend for it, it was called xkeycaps iirc
+2012-01-17T01:04:00.000Z	ro_70s	Pseudoephedrine	type this ":q!"
+2012-01-17T01:04:00.000Z	onre	ro_70s	that made more sense, but not too much either

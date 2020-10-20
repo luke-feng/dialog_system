@@ -1,0 +1,6 @@
+2012-10-06T18:31:00.000Z	sradhakrishna		Hi. I need to setup a PC with 2 network cards. one connects to a private network and another connects to a public network.
+2012-10-06T18:32:00.000Z	sradhakrishna		the private network interface has a static IP
+2012-10-06T18:32:00.000Z	MonkeyDust	sradhakrishna	 ubunru?
+2012-10-06T18:32:00.000Z	MonkeyDust	sradhakrishna	 ubuntu?
+2012-10-06T18:32:00.000Z	sradhakrishna		and the public network interface has DHCP.
+2012-10-06T18:32:00.000Z	sradhakrishna	MonkeyDust	yes, ubuntu.

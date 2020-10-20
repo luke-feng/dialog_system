@@ -1,0 +1,6 @@
+2008-09-27T00:36:00.000Z	^paradox^		anyone ive got a lot of work to do need a hand?
+2008-09-27T00:37:00.000Z	esac	^paradox^	nobody is going to pm you to discuss, help usually stays within the channel. as for your issue, did you turn on file and printer sharing on your wifes computer, and enable an exception in the firewall ?
+2008-09-27T00:39:00.000Z	esac	^paradox^	have you tried System->Administration->Printing and adding a new printer? does it show up there ?
+2008-09-27T00:40:00.000Z	esac	^paradox^	if it is automatically detected, it would show up in the devices on the left. otherwise you will need to select Windows Printer via SAMBA and add it
+2008-09-27T00:41:00.000Z	esac	^paradox^	for that to work first you need to share the printer on your wifes computer by going to printers, right clicking and selecting "share"
+2008-09-27T00:42:00.000Z	esac	^paradox^	i havent seen either of those errors, sounds like something is messed up. ive added 3 printers using both methods and had no issues, sorry :(

@@ -1,0 +1,6 @@
+2012-06-05T01:49:00.000Z	soapee01		Anybody have a trick to kill a hung dpkg process when kill -9 fails?
+2012-06-05T01:49:00.000Z	Viking667	soapee01	without rebooting? hmm.... hard drive fine?
+2012-06-05T01:50:00.000Z	soapee01	Viking667	hdd fine, but very busy atm.
+2012-06-05T01:50:00.000Z	soapee01		and cannot stop the writing process.
+2012-06-05T01:50:00.000Z	Viking667		then let it wait. what else is it doing?
+2012-06-05T01:50:00.000Z	soapee01	Viking667	it's going to be waiting forever then...

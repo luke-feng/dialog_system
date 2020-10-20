@@ -1,0 +1,6 @@
+2007-12-23T02:03:00.000Z	voidmage		How can I delete all my gnome-related preferenes?
+2007-12-23T02:05:00.000Z	voidmage		How can I delete all my gnome-related preferences? I switched from kubuntu and everything is a mess. Menu items everywhere, quicklaunch icons that are corrupt
+2007-12-23T02:05:00.000Z	JordiGH	voidmage	They're stored in .gnome folders in your home directory.
+2007-12-23T02:05:00.000Z	JordiGH	voidmage	Maybe other .gn* folders.
+2007-12-23T02:05:00.000Z	voidmage	JordiGH	I tried deleting those, but then I didn't have a window manager and the problems were still there.
+2007-12-23T02:15:00.000Z	voidmage	JordiGH	I tried deleting those, but then I didn't have a window manager and the problems were still there. I tried deleting ~/.gnome*, but all that did was give me no window manager, fixed nothing else.

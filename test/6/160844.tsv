@@ -1,0 +1,6 @@
+2010-09-26T05:12:00.000Z	Sivik		ok, i added a user and trying to ftp to that user.  it says my password is incorrect
+2010-09-26T05:12:00.000Z	Sivik		even though I just set the password for passwd <user>
+2010-09-26T05:12:00.000Z	Sivik		what am I don't wrong
+2010-09-26T05:14:00.000Z	Sivik		does that mean I need to add it to the ftp group?
+2010-09-26T05:14:00.000Z	Sivik		hey _DGM_, none of my users are part of the ftp group but other users can connect to ftp without any issues.  I just created the user
+2010-09-26T05:15:00.000Z	tim	Sivik	what do the logs on the server say?

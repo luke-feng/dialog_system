@@ -1,0 +1,6 @@
+2011-06-23T15:04:00.000Z	Clerisy		rm: cannot remove `/media/Ipod': Device or resource busy
+2011-06-23T15:05:00.000Z	Clerisy		Somebody help^
+2011-06-23T15:05:00.000Z	gry	Clerisy	I suspect you may wnt to unmount it first
+2011-06-24T13:05:00.000Z	gry	Clerisy	depends on which one it is
+2011-06-24T13:06:00.000Z	gry	Clerisy	sudo apt-get remove gnome-panel, then
+2011-06-24T13:21:00.000Z	gry	Clerisy	Ubuntu doesn't use Xfce, it uses Gnome, please ask #xubuntu about that

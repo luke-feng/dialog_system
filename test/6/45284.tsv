@@ -1,0 +1,6 @@
+2009-11-10T01:51:00.000Z	mchomer		Yes, ext4 has also a problem with files over 512 MB
+2009-11-10T01:51:00.000Z	mchomer		Yes. Seems so.
+2009-11-10T01:52:00.000Z	duffydack	mchomer	im dealing with 4gig+ files everyday, I dont see it
+2009-11-10T01:52:00.000Z	duffydack	mchomer	have you filed a bug?
+2009-11-10T01:53:00.000Z	duffydack	mchomer	that was a while ago, and not for everyone.. deleting large files caused lockup
+2009-11-10T01:53:00.000Z	duffydack	mchomer	its fixed.. ext4 is now default

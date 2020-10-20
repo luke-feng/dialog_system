@@ -1,0 +1,6 @@
+2009-11-07T02:16:00.000Z	pretender_		i am not running the bottom panel how do i add more workspaces
+2009-11-07T02:17:00.000Z	diafanos	pretender_	one easy way is to add the workspace applet  change the amount of workspaces and then delete it
+2009-11-07T02:19:00.000Z	pretender_	diafanos	 im running  gnome do when i add that applet it does no appear on the dock
+2009-11-07T02:21:00.000Z	diafanos	pretender_	do you mean that you added the workspace switcher applet but it didn't appear on the panel?
+2009-11-07T02:22:00.000Z	pretender_	diafanos	dock im running gnome-do docky but yes
+2009-11-07T02:25:00.000Z	diafanos	pretender_	you can open gconf-editor, go to the "/apps/metacity/general/num_workspaces" and change the num_workspaces value

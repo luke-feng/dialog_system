@@ -1,0 +1,6 @@
+2009-07-21T03:59:00.000Z	moniteur		hello
+2009-07-21T04:01:00.000Z	moniteur		please could someone help find the video driver Intel 83865G Graphics Controller?
+2009-07-21T04:03:00.000Z	moniteur		please could someone help find the video driver Intel 83865G Graphics Controller?
+2009-07-21T04:04:00.000Z	linuxguy2009	moniteur	Look in synaptic for intel drivers.
+2009-07-21T04:05:00.000Z	linuxguy2009	moniteur	as ubottu pointed out jaunty 9.04 has a regression and if there is not a fix you can refer back to 8.04.3 LTS release with probably better support.
+2009-07-21T04:13:00.000Z	linuxguy2009	moniteur	You the one having intel graphics issues?

@@ -1,0 +1,6 @@
+2006-08-06T11:14:00.000Z	jared		Hey guys
+2006-08-06T11:15:00.000Z	jared		I just got the dist-upgrade done...now i want to repartition my external hd, seeing as its ntfs rigth now
+2006-08-06T11:15:00.000Z	jared		i opened gparted and it wont let me so anything with it
+2006-08-06T11:15:00.000Z	jared		i believe so
+2006-08-06T11:16:00.000Z	edgy	jared	you open it with sudo?
+2006-08-06T11:18:00.000Z	edgy	jared	may be you can try booting from the CD instead of the HD and try

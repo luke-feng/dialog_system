@@ -1,0 +1,6 @@
+2011-01-01T17:02:00.000Z	`marianne`		hey, is there any way to install the hypercube screensaver? it's usually part of xscreensaver, but it's not in xscreensaver's list
+2011-01-01T17:02:00.000Z	Dr_Willis	`marianne`	 i think theres some glscreensavers in teh package listings you can install
+2011-01-01T17:02:00.000Z	Dr_Willis		ls -ld /home
+2011-01-01T17:03:00.000Z	`marianne`	Dr_Willis	i already installed those, and hypercube doesn't use opengl
+2011-01-01T17:03:00.000Z	`marianne`		it's just lines, no fancy textures or anything
+2011-01-01T17:03:00.000Z	Dr_Willis	`marianne`	 no idea then - i dont mess with screensavers much.

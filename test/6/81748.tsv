@@ -1,0 +1,6 @@
+2007-11-05T09:22:00.000Z	brontos		anyone have any suggestions as to where I could get different login window screens/themes?
+2007-11-05T09:23:00.000Z	Dr_Willis	brontos	I though there were some gdm themes in the repositories - just not installed by default you could get
+2007-11-05T09:23:00.000Z	Dr_Willis		!find gdm
+2007-11-05T09:23:00.000Z	brontos	Dr_Willis	you know what those packages might be called?
+2007-11-05T09:25:00.000Z	Dr_Willis	brontos	the bot just mentioned them -->  ubotu> Found: feisty-gdm-themes, gdm, blubuntu-gdm-theme, edgy-gdm-themes, gdm-themes (and 5 others)
+2007-11-05T09:26:00.000Z	brontos	Dr_Willis	ah ok thanks

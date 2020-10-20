@@ -1,0 +1,6 @@
+2009-12-18T22:38:00.000Z	jelly-bean		I know ubuntu will auto mount stuff when I login at home using gdm into gnome, and then from the Places menu I click on the drive (e.g. a 320gb usb hdd in this case) then the drive appears mounted under the /media directory.  isn't there an equivalent command to do this from the cli (e.g. remotely over ssh?) so i can access those files?
+2009-12-18T22:39:00.000Z	LizardK|ng	jelly-bean	mount
+2009-12-18T22:39:00.000Z	jelly-bean	LizardK|ng	that requires me to know the device in /dev
+2009-12-18T22:40:00.000Z	LizardK|ng	jelly-bean	you're right you need to know the devicename
+2009-12-18T22:40:00.000Z	jelly-bean	LizardK|ng	i am hoping ubuntu can figure it out and just mount all the drives that normally appear under the Places menu for me
+2009-12-18T22:41:00.000Z	LizardK|ng	jelly-bean	mount -a mounts everything in fstab, and to put the drives in fstab you'd need to know the devicename

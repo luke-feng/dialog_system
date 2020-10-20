@@ -1,0 +1,6 @@
+2007-10-09T11:06:00.000Z	ganes1		genii:I hav tis at terminal.."ganesh@ganesh-desktop:~$" I need to install qwe.rpm file..how can i do this?
+2007-10-09T11:07:00.000Z	genii	ganes1	Well, first off you shouldn't install foreign package types like rpm if at all possible
+2007-10-09T11:09:00.000Z	genii	ganes1	There is probably a decent python editor with a package you can install the normal way without using Alien for some rpm file.
+2007-10-09T11:10:00.000Z	genii	ganes1	i do not program much in python to know what is a good editor for it.
+2007-10-09T11:11:00.000Z	genii	ganes1	pype seems recommended
+2007-10-09T11:12:00.000Z	genii	ganes1	i found a list of install candidates by:   apt-cache search python|grep edit

@@ -1,0 +1,6 @@
+2008-06-27T17:42:00.000Z	dom		how can I look up my cpus temperature?
+2008-06-27T17:43:00.000Z	drew	dom	cat /proc/acpi/thermal_zone/TZ00/temperature or similar
+2008-06-27T17:44:00.000Z	drew	dom	many machines turn off at 90
+2008-06-27T17:45:00.000Z	drew	dom	are the fan(s) clear? maybe put a pedestal fan on to it. check top for any cpu hogs
+2008-06-27T17:46:00.000Z	drew	dom	search online for a way to turn on the fans
+2008-06-27T17:48:00.000Z	drew	dom	but can you feel warm air? (could be hdd noise)

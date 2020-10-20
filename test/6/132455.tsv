@@ -1,0 +1,6 @@
+2005-11-08T12:33:00.000Z	In-Taco		How do I disable 'TiMidity++ ALSA midi emulation'? It crashes gnome, but I do have the terminal open.
+2005-11-08T12:34:00.000Z	Blissex	In-Taco	you probably have to edit '/etc/asound.conf' or '~/.asoundrc'
+2005-11-08T12:35:00.000Z	Blissex		[dEvIL-bOY] : one of the two above...
+2005-11-08T12:35:00.000Z	Blissex		[dEvIL-bOY] : possibly both.
+2005-11-08T12:37:00.000Z	In-Taco	Blissex	- The files does not exist
+2005-11-08T12:37:00.000Z	Blissex	In-Taco	no idea then...

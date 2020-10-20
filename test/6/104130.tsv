@@ -1,0 +1,6 @@
+2007-02-27T11:51:00.000Z	chivosolar	ikonia	ah
+2007-02-27T11:59:00.000Z	chivosolar	ikonia	ok so it seems better but i keep getting fusermount: mountpoint is not empty
+2007-02-27T12:01:00.000Z	chivosolar	ikonia	the dir is empty
+2007-02-27T12:08:00.000Z	chivosolar	ikonia	?   ntfs-3g
+2007-02-27T12:19:00.000Z	chivosolar	ikonia	so havin some strange side effect, i rebooted and the computer browser shows the two usb partions as drives but complains that only root can mount the device; ls -al /media shows that the directory is owned by root root  and the main drive directories are owned by   root plugdev
+2007-02-27T12:20:00.000Z	chivosolar	ikonia	ok so I change the group of the /media/drivename to plugdev and i still get the message that it can only be mounted by root

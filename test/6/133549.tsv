@@ -1,0 +1,6 @@
+2012-06-12T10:29:00.000Z	Arccchy		Can someone please help me make a script auto start on boot?
+2012-06-12T10:31:00.000Z	Arccchy		ActionParsnip well I have a basic file with the commands to start, no shebang or anything just the commands. all the program's can't be started as root or it would cause a security risk
+2012-06-12T10:32:00.000Z	Arccchy		is there a startup manager in ubuntu server actionparsnip?
+2012-06-12T10:33:00.000Z	gogeta	Arccchy	wouldent you just add it to rc.d
+2012-06-12T10:34:00.000Z	gogeta	Arccchy	lol
+2012-06-12T10:35:00.000Z	gogeta	Arccchy	we do desktops as well

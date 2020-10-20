@@ -1,0 +1,6 @@
+2009-01-14T20:47:00.000Z	Max007		hi
+2009-01-14T20:48:00.000Z	Max007		How do I install themes for compiz ? I enabled 3D Desktop and want to use some compiz themes
+2009-01-14T20:50:00.000Z	ActionParsnip1	Max007	i'd head over to #compiz
+2009-01-14T20:50:00.000Z	Max007	fosco_	ok it works with emerald --replace
+2009-01-14T20:50:00.000Z	Max007	fosco_	how do I set emerald as the default decorator ?
+2009-01-14T20:51:00.000Z	ActionParsnip1	Max007	create a basic sript to run the command and add it to startup

@@ -1,0 +1,6 @@
+2005-01-05T15:10:00.000Z	briansanders4		this is interesting too:
+2005-01-05T15:10:00.000Z	briansanders4		root@ubuntu:/mnt # mount -t ext2 /dev/hdb /mnt/share/
+2005-01-05T15:10:00.000Z	briansanders4		mount: /dev/hdb already mounted or /mnt/share/ busy
+2005-01-05T15:10:00.000Z	briansanders4		root@ubuntu:/mnt # umount /mnt/share/
+2005-01-05T15:10:00.000Z	briansanders4		umount: /mnt/share/: not mounted
+2005-01-05T15:10:00.000Z	sjoerd	briansanders4	umount /dev/hdb ?

@@ -1,0 +1,6 @@
+2006-01-03T07:39:00.000Z	existance		I just reinstalled XP and it either wrote over GRUB or shoved it out of the way, how can i fix it?
+2006-01-03T07:40:00.000Z	psusi	existance	reinstall grub
+2006-01-03T07:40:00.000Z	existance	psusi	I'd have to do that from a live CD though right?
+2006-01-03T07:41:00.000Z	psusi	existance	I think you can do it from the setup cd too... if you choose an advanced setup, you can choose only to install grub, then quit
+2006-01-03T07:41:00.000Z	existance	psusi	hmm, I'll try it, thanks for the help
+2006-01-03T08:36:00.000Z	psusi	existance	uname -a

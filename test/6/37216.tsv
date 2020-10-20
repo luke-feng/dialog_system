@@ -1,0 +1,6 @@
+2010-11-05T15:09:00.000Z	alv		how to add mysql to "autostart"?
+2010-11-05T15:10:00.000Z	alv		`service mysql start` works well
+2010-11-05T15:12:00.000Z	alv		what is it waiting for?!
+2010-11-05T15:14:00.000Z	pure_hate	alv	sudo update-rc.d mysqld defaults
+2010-11-05T15:14:00.000Z	alv	pure_hate	i'll try and reboot
+2010-11-05T15:23:00.000Z	alv	pure_hate	histo: again, no mysql server running after reboot and no info in the logs :-(

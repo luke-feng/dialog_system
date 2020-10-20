@@ -1,0 +1,6 @@
+2009-02-27T21:10:00.000Z	pronoy		!java
+2009-02-27T21:11:00.000Z	pronoy		how to set java environment path in ubuntu, I have installed java.bin and need to run a .jar file
+2009-02-27T21:11:00.000Z	pronoy		!path
+2009-02-27T21:12:00.000Z	joaopinto	pronoy	to execute a jar file, use: java -jar file.jar
+2009-02-27T21:12:00.000Z	pronoy	joaopinto	but if i just type java...then it shows me a list of packages that can be installed
+2009-02-27T21:13:00.000Z	pronoy	joaopinto	i think i need to set the environment variable path

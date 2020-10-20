@@ -1,0 +1,6 @@
+2007-02-12T08:44:00.000Z	frobro360		hi everyone, i'm having a wireless configuration issue also
+2007-02-12T08:46:00.000Z	frobro360		ok i'm using the wusb54gs on edgy, i've installed the ndiswrapper from the repo, and got my hands on the .sys files that are missing from the default driver.  it now tell's me "driver installed, hardware found" however after
+2007-02-12T08:48:00.000Z	frobro360		modprobe ndiswrapper I get nothing, and the new network connection is not found
+2007-02-12T08:48:00.000Z	frobro360		i've been looking everywhere and I can't find anything
+2007-02-12T08:49:00.000Z	frobro360		is anyone able to assist w/ my ndiswrapper issues?
+2007-02-12T08:50:00.000Z	cables	frobro360	go to the channel #ndiswrapper

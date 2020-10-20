@@ -1,0 +1,6 @@
+2009-08-07T20:16:00.000Z	zimbres		hi, How do I check for cpu temperature ?
+2009-08-07T20:16:00.000Z	NET||abuse	zimbres	thermal sensors on gkrellm or some other sensors kit
+2009-08-07T20:20:00.000Z	zimbres	NET||abuse	So, better to buy a sensor quit. Yesterday I installed a cooler in my quad core, but I am not sure whether I've used enough pulp.
+2009-08-07T20:22:00.000Z	NET||abuse	zimbres	nah, there are thermal sensors built onto most mother boards for cpu temp ,even ram temp.. been ages since i looked but lmsensors is a pckage that talks to those sensors, and gkrellm is a front end for reading the output on your desktop
+2009-08-07T20:23:00.000Z	zimbres	NET||abuse	Thank you, I will install those packages.
+2009-08-07T20:24:00.000Z	NET||abuse	zimbres	read articles on that stuff before you just run off and do apt-get install .. there's loadsa cool stuff for doing that kinda sensor stuff.

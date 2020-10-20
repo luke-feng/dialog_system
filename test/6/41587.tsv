@@ -1,0 +1,6 @@
+2009-06-16T01:09:00.000Z	headrx		So, im trying to get my ubtunu 9.04 to recognize my motorola l7 slvr, its on memory card mode (other option is data/fax ), question is how do i mount it (not doing it auto)
+2009-06-16T01:09:00.000Z	ZykoticK9	headrx	run a dmesg and see if the kernel picks up on it at all.
+2009-06-16T01:12:00.000Z	headrx	ZykoticK9	http://codepad.org/x0eYcofW
+2009-06-16T01:14:00.000Z	ZykoticK9	headrx	it's the last line "scsi 7:0:0:0: Device offlined - not ready after error recovery" that seems to be an issue.  i've never tried attaching a phone to linux before so i'm useless too you.  but it's not seeing it as a drive yet.  good luck man.
+2009-06-16T01:15:00.000Z	headrx	ZykoticK9	thanks for looking man, im going to try and reboot and see if it changes
+2010-03-30T05:53:00.000Z	ZykoticK9	headrx	"./installer.sh" will run whatever that script is

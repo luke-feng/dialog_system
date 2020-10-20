@@ -1,0 +1,6 @@
+2006-05-27T07:52:00.000Z	lastnode		does anyone know of a way to hack gnome to display the applications menu in right click?
+2006-05-27T07:53:00.000Z	lastnode		*with
+2006-05-27T07:53:00.000Z	lastnode		and im lazy atm to config them in anotherwm
+2006-05-27T07:54:00.000Z	amphi	lastnode	I use openbox with gkrellm
+2006-05-27T07:55:00.000Z	lastnode	amphi	is there an easy openbox-gkrellm plugin or is there config to do? i cant really config this week
+2006-05-27T07:59:00.000Z	amphi	lastnode	gkrellm is a program with several system monitors on it; there are plugins also; if you start it in openbox with gkrellm -w it'll sit in the slit

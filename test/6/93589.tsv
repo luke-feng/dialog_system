@@ -1,0 +1,6 @@
+2008-10-26T14:15:00.000Z	thcmonkey		presumably it's possible to rd from ubuntu to vista?
+2008-10-26T14:16:00.000Z	dr_willis	thcmonkey	 Huh?
+2008-10-26T14:16:00.000Z	dr_willis		 -->   /etc/sudoers
+2008-10-26T14:17:00.000Z	thcmonkey	dr_willis	i want to take remote control of my vista machine from ubuntu machine
+2008-10-26T14:17:00.000Z	dr_willis		the sudoers man page mentions the cache i recall.
+2008-10-26T14:17:00.000Z	dr_willis	thcmonkey	 i tend touse vnc for that.

@@ -1,0 +1,6 @@
+2007-04-09T11:17:00.000Z	FocusRite		Hi all. Is there a way to force the package status of a package (courier-authdaemon.. ahem) to be uninstalled so I can just have the new courier stuff overwrite it? Can't reinstall/purge/remove/install successfully (yeah it's a dapper -> edgy upgrade)
+2007-04-09T11:18:00.000Z	doomster	FocusRite	just my 2cc: I'd rather concentrate my efforts at fixing the problem with courie than messing with the package system
+2007-04-09T11:20:00.000Z	FocusRite	doomster	I tried all the normal ways i know with dpkg -r, apt-get -f and aptitude and they all fail the same way :o(
+2007-04-09T11:21:00.000Z	doomster	FocusRite	commiserations.
+2007-04-09T11:21:00.000Z	FocusRite	doomster	aye :o\
+2007-04-09T11:22:00.000Z	doomster	FocusRite	maybe I'd try to supply any info but the _totally_ _useless_ "it doesn't work"?

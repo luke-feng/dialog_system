@@ -1,0 +1,6 @@
+2008-10-17T22:28:00.000Z	Brutus		hello. i'm trying to install xbmc live. it is ubuntu mid with the xbmc application on it. so the base is ubuntu. they couldn't help me, so i hope someone here is able to help me with it. i'm getting an error: found boot device at /dev/sr0 checking device /dev/sda (up to /dev/sdg), and then this: 0 drives detected, connect a disk and press return. i've pasted the log on a site: ype /msg ubottu etiquette
+2008-10-17T22:28:00.000Z	Brutus		19:28 < outbackwifi> laptop: what does sudo lsb_release -c tell you?
+2008-10-17T22:28:00.000Z	Brutus		wait oops
+2008-10-17T22:28:00.000Z	Brutus		http://pastebin.com/f58bfe7df
+2008-10-17T22:29:00.000Z	Brutus		was supposed to past that
+2008-10-17T22:29:00.000Z	FloodBot2	Brutus	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

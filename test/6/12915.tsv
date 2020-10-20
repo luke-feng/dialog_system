@@ -1,0 +1,6 @@
+2011-01-30T20:06:00.000Z	vigs		QUESTION: When I try to add any repository, it gives me an error like : "Error reading https://launchpad.net/api/1.0/~libreoffice/+archive/ppa: <urlopen error [Errno 111] Connection refused>"
+2011-01-30T20:06:00.000Z	vigs		Why does this happen?
+2011-01-30T20:06:00.000Z	vigs		If it helps, I am behind my Institute's proxy server
+2011-01-30T20:07:00.000Z	vigs		I use the command like this: sudo add-apt-repository ppa:libreoffice/ppa
+2011-01-30T20:07:00.000Z	bazhang	vigs	did you update your sources.list ?
+2011-01-30T20:07:00.000Z	vigs	bazhang	Would that be necessry?

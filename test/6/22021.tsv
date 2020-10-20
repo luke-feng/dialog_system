@@ -1,0 +1,6 @@
+2010-04-25T23:10:00.000Z	arooni		how do i enable third button emulation on ubuntu koala
+2010-04-25T23:11:00.000Z	cjay554	arooni	it should already do the third button, try clicking both mouse buttons at the same time
+2010-04-25T23:11:00.000Z	arooni	cjay554	nothing happens (i'm trying to get it so i can highlight txt, then hit left & rigtht @ same time) and have it paste
+2010-04-25T23:13:00.000Z	cjay554		interesting arooni, it should automatically do it doesn't seem like theres an option for it to be enabled, for me i can do the third click ever since install
+2010-04-25T23:14:00.000Z	arooni	cjay554	i've already followed: http://www.pubbs.net/samba/200904/59839/
+2010-04-25T23:17:00.000Z	cjay554	arooni	interesting, i have never had to do anything like that arooni, maybe thats where the problem lies, maybe something is messed up in the config file

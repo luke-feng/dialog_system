@@ -1,0 +1,6 @@
+2007-05-24T09:55:00.000Z	leagris	zero	this can be usefull in case you use suspend to disk (laptop) or you use to work with huge files larger than available memory (gimp big pixmaps)...
+2007-05-24T09:57:00.000Z	zero	leagris	ohhh
+2007-05-24T09:57:00.000Z	zero	leagris	i use programs like netbeans/eclipse
+2007-05-24T09:57:00.000Z	zero	leagris	i don't really need a big swap partition, do i?
+2007-05-24T09:58:00.000Z	leagris	zero	not realy, but enough ram because eclipse havealy use JVM and some quite big ammount of RAM. Having enough ram prevent use of swap slow memory.
+2007-05-24T09:59:00.000Z	zero	leagris	i have 1gb ram, maybe with 2 gb it could work great

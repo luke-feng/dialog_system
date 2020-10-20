@@ -1,0 +1,6 @@
+2006-08-24T08:26:00.000Z	birdfish		I'm excited! :D
+2006-08-24T08:26:00.000Z	VOYAGER	birdfish	ive had 2 fail to a command line because of video
+2006-08-24T08:27:00.000Z	birdfish	VOYAGER	so you issued a graphical command without having X installed?  Or you didn't install X and issuing any command crashes the system anyhow?
+2006-08-24T08:28:00.000Z	VOYAGER		x wouldnt install because of video failed to cli
+2006-08-24T08:29:00.000Z	birdfish	VOYAGER	Ah, I see.  I'm pretty sure that I won't be running X from the start anyhow, but I would hope something that major would be patched quickly anyhow
+2006-08-24T08:29:00.000Z	VOYAGER	birdfish	 ok

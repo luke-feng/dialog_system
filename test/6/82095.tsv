@@ -1,0 +1,6 @@
+2007-07-25T08:54:00.000Z	Shaftooooo	I_Have_No_Idea	Id just leave half of it as free space, not as FAT
+2007-07-25T08:55:00.000Z	I_Have_No_Idea	Shaftooooo	I dont think im gonna use ext3 seeing as to this is for somone who knows not alot about linux and i think i wanna let them access the linux from windows PS do i need any extra partitions for Grub?
+2007-07-25T08:55:00.000Z	Shaftooooo		!paste | joseph_
+2007-07-25T08:56:00.000Z	Shaftooooo	I_Have_No_Idea	I wouldnt worry about that, just use ext3 :), If anything happens you can delete it from windows anyway, and well you need a / and a swap
+2007-07-25T08:57:00.000Z	I_Have_No_Idea	Shaftooooo	a what and a swap?
+2007-07-25T08:58:00.000Z	Shaftooooo	I_Have_No_Idea	The installer will do it for you, honestly, I think you can either set your entire HD to windows then have it resize for you, or you can get it to use free space if you leave some HD space

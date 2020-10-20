@@ -1,0 +1,6 @@
+2006-09-01T06:47:00.000Z	Remy		hey guys, is there an easy place to view the environment variables?
+2006-09-01T06:48:00.000Z	Remy		I'm trying to set $CLASSPATH, but if I export the values to it in one terminal window, it isn't saved for any others...
+2006-09-01T06:48:00.000Z	dr_willis	Remy	 hmm.. thats HOW it works. :P
+2006-09-01T06:49:00.000Z	dr_willis	Remy	 you either export it in your .bash_profile or .bashrc for it to affect all new created shells.
+2006-09-01T06:49:00.000Z	dr_willis	Remy	 exports from one shell do not affect others shells just the childen processes of that shell
+2006-09-01T06:50:00.000Z	dr_willis	Remy	 :P a few bash tutorials/guides - are worth reading  when ya grab the time.  :)  that advance bash scripting guide is a must read/bookmark/print out and wallpaper in the bathroom. :)

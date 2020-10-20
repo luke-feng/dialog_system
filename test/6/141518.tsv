@@ -1,0 +1,6 @@
+2005-11-20T13:51:00.000Z	sfadler		does anyone know why kate won't open xorg.xonf?
+2005-11-20T13:51:00.000Z	sfadler		Xlib: No protocol specified
+2005-11-20T13:51:00.000Z	sfadler		kate: cannot connect to X server :0.0
+2005-11-20T13:51:00.000Z	sfadler		kate: ERROR: KUniqueApplication: Registering failed!
+2005-11-20T13:51:00.000Z	sfadler		kate: ERROR: Communication problem with kate, it probably crashed.
+2005-11-20T13:52:00.000Z	trappist	sfadler	as your regular user, xhost +127.0.0.1

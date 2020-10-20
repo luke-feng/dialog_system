@@ -1,0 +1,6 @@
+2011-12-31T04:45:00.000Z	bo		hello i had a problem and found out that i need to free up disk space (as when i type "df" i have "0" available and 100% use)... i tried going in the /home/username directory and enter "ls" to see what is there but there was only one thing that i don't think can be responsible for filling up the entire sda5 partition
+2011-12-31T04:45:00.000Z	bo		any ideas?
+2011-12-31T04:45:00.000Z	Edward2	bo	try ls -la
+2011-12-31T04:46:00.000Z	bo	iceroot	ty
+2011-12-31T04:46:00.000Z	bo		edward2: what is that?
+2011-12-31T04:46:00.000Z	Edward2	bo	--list --all

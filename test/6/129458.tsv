@@ -1,0 +1,6 @@
+2005-12-06T06:29:00.000Z	aptiko		I think I'd like to have an ext3 root partition of, say 300M,
+2005-12-06T06:29:00.000Z	aptiko		and have all the rest in another partition (I think the problem could be the xfs).
+2005-12-06T06:30:00.000Z	aptiko		Is it possible to install ubuntu in such a way that /var, /usr and /home are all in the same partition?
+2005-12-06T06:31:00.000Z	mjr	aptiko	you might have to do some manual setting up of symlinks and/or bind-mounts for that, but possible? sure
+2005-12-06T06:31:00.000Z	mjr		(I'm not sure if the installer's partitioner supports defining bind mounts)
+2005-12-06T06:38:00.000Z	aptiko	mjr	So I create the root partition and the second partition, make symlinks from the root partition to the second partition for /usr, /var and /home, then start the ubuntu installer and tell it to mount these partitions and install there while preserving existing data, so it will follow the symlinks?

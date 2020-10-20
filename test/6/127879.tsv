@@ -1,0 +1,6 @@
+2006-01-24T16:05:00.000Z	tankkiller_		I cant get gftp on, ive read a fre places all tell me to use apt-get but It wont work
+2006-01-24T16:05:00.000Z	tankkiller_		is it cuase I am on the newest kernel?
+2006-01-24T16:05:00.000Z	tankkiller_		is there another ftp  client for gnome?
+2006-01-24T16:06:00.000Z	tankkiller_		any idea why apt-get wont allow me to install gftp?
+2006-01-24T16:07:00.000Z	tankkiller_		I just would like to get some FTP happenin
+2006-01-24T16:07:00.000Z	timfrost	tankkiller_	it is in the ubiverse repository, which is not enabled by default.

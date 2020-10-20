@@ -1,0 +1,6 @@
+2010-04-22T02:11:00.000Z	ScottO_		ever have the bash prompt think you have the hostname of another computer?
+2010-04-22T02:12:00.000Z	ScottO_		and any ideahow to fix it?
+2010-04-22T02:12:00.000Z	ActionParsnip	ScottO_	check ni /etc/hostname and /etc/hosts
+2010-04-22T02:12:00.000Z	ActionParsnip		s/ni/in
+2010-04-22T02:15:00.000Z	ActionParsnip		!hi | blue112
+2010-04-22T02:17:00.000Z	ScottO_	ActionParsnip	the hostname getting reported by the promt is not in either of those files

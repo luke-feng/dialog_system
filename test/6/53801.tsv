@@ -1,0 +1,6 @@
+2012-04-19T23:11:00.000Z	anth0ny		How do I find out where apt-get installed a package?
+2012-04-19T23:12:00.000Z	ActionParsnip	anth0ny	you could use packages.ubuntu.com or apt-file
+2012-04-19T23:14:00.000Z	ActionParsnip	anth0ny	why do you need to know? $PATH deals with that stuff well
+2012-04-19T23:15:00.000Z	anth0ny	ActionParsnip	well, I'm installing a program that asks me to tell it where other packages are located, I'm not really sure where they are
+2012-04-19T23:17:00.000Z	ActionParsnip	anth0ny	could use the locate command
+2012-04-19T23:17:00.000Z	anth0ny	ActionParsnip	ah, that works well, thanks

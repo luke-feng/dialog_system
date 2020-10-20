@@ -1,0 +1,6 @@
+2005-06-11T11:38:00.000Z	BlackShuc1		what are the equivalent commands of Gentoo's rc-update and rc-status?
+2005-06-11T11:38:00.000Z	BlackShuc1		I want to stop gdm automatically starting at boot.  I am only really familar with the rc commands
+2005-06-11T11:40:00.000Z	dooglus	BlackShuc1	do you still need help with that?
+2005-06-11T11:42:00.000Z	dooglus	BlackShuc1	I made it such that runlevel 2 is without gdm and runlevel 3 is with gdm
+2005-06-11T11:42:00.000Z	dooglus	BlackShuc1	so I can set the default runlevel to 2, and 'telinit 3' if I want gdm
+2005-06-11T11:45:00.000Z	dooglus	BlackShuc1	there's a nice program called 'sysv-rc-conf' which edits the contents of each runlevel

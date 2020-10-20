@@ -1,0 +1,6 @@
+2008-09-17T19:51:00.000Z	PPKuma		hi, my swap memory is not working... the system shows but it's always empty
+2008-09-17T19:51:00.000Z	scampbell	PPKuma	perhaps you just haven't needed to swap anything.
+2008-09-17T19:52:00.000Z	PPKuma	scampbell	hmmm i dont think that is, i pretty much use my desktop and laptop for the same things and my laptop's swap always have at least 100MB occupied.
+2008-09-17T19:53:00.000Z	scampbell	PPKuma	 Mines is totally empty right now, 0 swap used.  Unless it needs it we don't use it.
+2008-09-17T19:54:00.000Z	scampbell	PPKuma	and I have open, firefox, thunderbird, konversation, rdesktop, pidgin, and a couple text windows at the moment.
+2008-09-17T19:58:00.000Z	scampbell	PPKuma	if you really want to see your swap get used, try this:     perl -e 'for(;;) { push @str,"More" }'       in a separate window watch top.  You'll swap :) (ctrl-c will stop the perl and release the memory)

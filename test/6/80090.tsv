@@ -1,0 +1,6 @@
+2007-09-27T13:14:00.000Z	maestrojed		has anyone installed vnc4server with fiesty.  I have read that there is a bug but also a fix.  I can not get it to work
+2007-09-27T13:14:00.000Z	WaltzingAlong	maestrojed	what do you want to do with vnc4server?    vnc to an active X session? try x11vnc
+2007-09-27T13:15:00.000Z	maestrojed	WaltzingAlong	acutally I just want to run a vnc server.  I would prefer the easiest.  vnc4server was suggested.  Do you have better advice?
+2007-09-27T13:20:00.000Z	WaltzingAlong	maestrojed	no that seems fine. had you looked at nx at all? either freenx or nomachine's nx?
+2007-09-27T13:21:00.000Z	maestrojed	WaltzingAlong	I have only tried vnc4server.  I am trying just using remote desktop off of heguru's suggestion
+2007-09-27T13:21:00.000Z	WaltzingAlong	maestrojed	ok. give a look to nomachine's nx or the freenx packages

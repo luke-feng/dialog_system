@@ -1,0 +1,6 @@
+2006-08-24T10:03:00.000Z	wooya510		Users who know about LDAP configuration help me, plz
+2006-08-24T10:04:00.000Z	n1xt3r	wooya510	read the man pages and run ldap in debug mode
+2006-08-24T10:04:00.000Z	wooya510	n1xt3r	//i did it
+2006-08-24T10:04:00.000Z	wooya510	n1xt3r	i did it
+2006-08-24T10:06:00.000Z	wooya510	n1xt3r	"bdb_dn2id: get failed: DB_NOTFOUND: No matching key/data pair found (-30990)" you know this debug message?
+2006-08-24T10:16:00.000Z	n1xt3r	wooya510	no, I've setup ldap with samba before, but don't recall anything about matching keys. What are you setting up ldap for?

@@ -1,0 +1,6 @@
+2012-04-14T12:54:00.000Z	savr		hi
+2012-04-14T12:54:00.000Z	savr		where is xorg.conf located on a ubuntu system?
+2012-04-14T12:55:00.000Z	savr		oh
+2012-04-14T12:55:00.000Z	savr		where can I put synclient settings I want enabled by default?
+2012-04-14T12:55:00.000Z	greenit	savr	if there is a xorg.conf it should be in /etx/X11/
+2012-04-14T12:56:00.000Z	greenit	savr	/etc/X11/ *

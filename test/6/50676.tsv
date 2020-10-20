@@ -1,0 +1,6 @@
+2009-06-04T19:46:00.000Z	straterra		Is it possible to create a bootable USB drive running Ubuntu?
+2009-06-04T19:46:00.000Z	straterra		Are there instructions on it?
+2009-06-04T19:46:00.000Z	Raylz	straterra	install ubuntu on your usb stick and install grub on it
+2009-06-04T19:46:00.000Z	Raylz	straterra	you have to install the bootloader to the usb stick
+2009-06-04T19:47:00.000Z	Raylz	straterra	on the last prompt before you install it there is some button advanced i guess
+2009-06-04T19:48:00.000Z	Raylz	straterra	there you can set the device where the bootloader will be installed

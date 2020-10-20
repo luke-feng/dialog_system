@@ -1,0 +1,6 @@
+2009-02-18T11:54:00.000Z	bnagy		arggghhhh
+2009-02-18T11:55:00.000Z	bnagy		libxul-common failing to install
+2009-02-18T11:55:00.000Z	bnagy		/var/lib/dpkg/info/xulrunner-1.9.postinst: 5: /usr/bin/xulrunner-1.9: not found
+2009-02-18T11:56:00.000Z	bnagy		can I DL just that binary from somewhere?
+2009-02-18T11:57:00.000Z	bnagy		plus wifi camera etc hard to get working
+2009-02-18T11:57:00.000Z	atom^x	bnagy	xubuntu wiith kernel from array.org

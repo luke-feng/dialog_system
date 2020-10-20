@@ -1,0 +1,6 @@
+2011-05-19T01:33:00.000Z	wubiuser		hello, I'm trying to install ubuntu on windows (wubi) but I get an error during instalation (actually, during download), the log show this error: OSError: [Errno 13] Permission denied: u'C:\\ubuntu\\install\\ubuntu-11.04-desktop-amd64.iso'
+2011-05-19T01:34:00.000Z	wubiuser		can anyone help me, please ?
+2011-05-19T01:34:00.000Z	Jordan_U	wubiuser	You need to be logged in as an administrator to install via Wubi. Why not do a normal dual boot install though?
+2011-05-19T01:35:00.000Z	wubiuser	Jordan_U	how to login as administrator on Windows seven please ? I've never used it. I want to install ubuntu on windows, not as dual boot, just a choice
+2011-05-19T01:37:00.000Z	Jordan_U	wubiuser	You'll have to ask in ##windows about how to login (or at least run wubi) as an administrator.
+2011-05-19T01:41:00.000Z	wubiuser	Jordan_U	ok, I run wubi as admin, but I have the same error

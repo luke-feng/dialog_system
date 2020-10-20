@@ -1,0 +1,6 @@
+2010-02-28T07:46:00.000Z	john__		OKAY guys I have the terminal open  and I typed in sudo/etc/init.d/?dm restart and got error
+2010-02-28T07:47:00.000Z	john__		sudo/etc/init.d/?dm: No such file or directory
+2010-02-28T07:48:00.000Z	john__		Ok thank like I said this is my first time on linux system
+2010-02-28T07:49:00.000Z	john__		ok what I want to do Is change my 800x600 top something bigger  all it gives me is 800x600 or lower
+2010-02-28T07:49:00.000Z	Izinucs	john__	what kind of video card do you have?
+2010-02-28T07:51:00.000Z	Izinucs	john__	open System>Admin>Synaptic package manager and search for voodo and see if there is a driver listed that's available.. then install if it's not already installed.

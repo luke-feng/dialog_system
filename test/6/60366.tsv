@@ -1,0 +1,6 @@
+2008-06-26T02:25:00.000Z	ace_suares	DanielRM	that probabl wont getg rid of grub, it's in stalled in the MBR
+2008-06-26T02:26:00.000Z	DanielRM	ace_suares	it overwrites it in the MBR.
+2008-06-26T02:26:00.000Z	ace_suares	DanielRM	wiping the linux partition will wipe the MBR
+2008-06-26T02:26:00.000Z	ace_suares	DanielRM	? Didnt know that.
+2008-06-26T02:27:00.000Z	DanielRM	ace_suares	deleting the partition just alters the partition table.
+2008-06-26T02:27:00.000Z	DanielRM	ace_suares	it doesn't affect the MBR, as people find to their horror when they forget to update GRUB after doing so and it hates them.

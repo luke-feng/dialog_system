@@ -1,0 +1,6 @@
+2009-03-25T16:21:00.000Z	ohletmeinnowjesu		?
+2009-03-25T16:22:00.000Z	ohletmeinnowjesu		no no
+2009-03-25T16:22:00.000Z	ohletmeinnowjesu		i asked
+2009-03-25T16:22:00.000Z	ohletmeinnowjesu		adn then bumped
+2009-03-25T16:23:00.000Z	ohletmeinnowjesu		how do i pass a search result using find as a parameter into another function, ie [search "a" | delete "a"]
+2009-03-25T16:25:00.000Z	sarmisak	ohletmeinnowjesu	have you read about pipes? the | character

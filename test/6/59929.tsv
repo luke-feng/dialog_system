@@ -1,0 +1,6 @@
+2008-04-26T01:56:00.000Z	xkcdr0ckz		8.04 & graphics is very slow on my IBM T41p notebook! (probably been talked about) can someone point me to a fix (URL) or maybe use previous 7.10 graphics drivers?
+2008-04-26T01:56:00.000Z	drivetrax	xkcdr0ckz	 What video card?
+2008-04-26T02:01:00.000Z	xkcdr0ckz	drivetrax	dunno if this is correct (got it from xorg.conf file)  --> "ATI Technologies Inc M10 NT [FireGL Mobility T2]"
+2008-04-26T02:01:00.000Z	drivetrax	xkcdr0ckz	 You may need the Mesa driver
+2008-04-26T02:02:00.000Z	xkcdr0ckz	drivetrax	where can i get the "Mesa" driver?
+2008-04-26T02:02:00.000Z	drivetrax	xkcdr0ckz	 -- go to #compiz-Fusion, and tell'em your problem .. it affects compiz

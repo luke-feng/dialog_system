@@ -1,0 +1,6 @@
+2006-06-19T15:23:00.000Z	kblog		hi, does anybody know why i cant see anything if I play a wmf with mplayer / vlc?
+2006-06-19T15:23:00.000Z	kblog		i can hear sound of this movie but cant se no images
+2006-06-19T15:24:00.000Z	hav0k	kblog	it sounds like you dont have the codecs
+2006-06-19T15:25:00.000Z	kblog	hav0k	so which codes do i need?
+2006-06-19T15:27:00.000Z	hav0k	kblog	im guessing the w32codecs... i think you can find them under the restricted formats
+2006-06-19T15:27:00.000Z	hav0k	kblog	probably here:  https://help.ubuntu.com/community/RestrictedFormats

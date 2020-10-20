@@ -1,0 +1,6 @@
+2008-12-28T01:13:00.000Z	NotSure	Dr_Willis_AAO	can you help me??      how can I get my computer to recognize my dvd drive?
+2008-12-28T01:14:00.000Z	Dr_Willis_AAO	NotSure	  ayou need to be a bot more clear i guess.. try mounting the drive manually for a test..
+2008-12-28T01:14:00.000Z	NotSure		Dr_Willis_AAo  thanks, thats a start... how do I mount it???
+2008-12-28T01:15:00.000Z	Dr_Willis_AAO	NotSure	 time to learn some linux basics I gues...
+2008-12-28T01:15:00.000Z	Dr_Willis_AAO		!mount | NotSure
+2008-12-28T01:16:00.000Z	Dr_Willis_AAO	NotSure	 'mount' command is what you will be using

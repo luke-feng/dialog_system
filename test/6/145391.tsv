@@ -1,0 +1,6 @@
+2010-04-20T17:56:00.000Z	cybernout		hi there
+2010-04-20T17:57:00.000Z	cybernout		when i run the command , sudo parted /dev/sda print >> info.txt  wich gives me some text about the partition layout, how can i get a white space in the text?
+2010-04-20T17:58:00.000Z	erUSUL	cybernout	where do you want the whitespace to appear?
+2010-04-20T17:59:00.000Z	erUSUL	cybernout	echo "" >> info.txt
+2010-04-20T17:59:00.000Z	erUSUL	cybernout	that will put a *newline*
+2010-04-20T18:01:00.000Z	erUSUL	cybernout	if you use > it overwrittes the file and you loose all previous content

@@ -1,0 +1,6 @@
+2009-06-23T03:50:00.000Z	flamsmark		is it possible to upgrade straight to the most recent version of ubuntu, or do i have to incrementally upgrade through all the intermediary versions?
+2009-06-23T03:51:00.000Z	flamsmark		helpmethod - was that at me?
+2009-06-23T03:51:00.000Z	flamsmark		helpmethedd - was that at me?
+2009-06-23T03:51:00.000Z	tsrk	flamsmark	yeah, you have to update through each version
+2009-06-23T03:52:00.000Z	tsrk	flamsmark	if you're going through more than one version it might be better to just do a fresh install because things can get messed up in upgrades and most stuff is easy to backup and will be exactly the same when you restore it
+2009-06-23T03:54:00.000Z	flamsmark	tsrk	- as in, the system won't work? i have practically nothing on this machine

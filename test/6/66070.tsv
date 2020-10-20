@@ -1,0 +1,6 @@
+2009-08-07T15:51:00.000Z	blackbear		 where can i  find  a guide to using ssh to manage a ubuntu server from an xp box?
+2009-08-07T15:52:00.000Z	ActionParsnip	blackbear	sudo apt-get install openssh-server
+2009-08-07T15:52:00.000Z	ActionParsnip	blackbear	grab a copy of putty for windows (and xming if you want to use gui apps) and you are good to go
+2009-08-07T15:52:00.000Z	ActionParsnip	blackbear	if you put putty.exe in %WINDIR% you can then use: putty -X name@server
+2009-08-07T15:53:00.000Z	ActionParsnip	blackbear	provided xming is running, you will be able to launch gui apps as well as use the terminal
+2009-08-07T15:53:00.000Z	ActionParsnip	blackbear	nope, just use your logon passwords

@@ -1,0 +1,6 @@
+2005-10-15T05:50:00.000Z	UrbanFox		tyler_durden> don't run as root.
+2005-10-15T05:51:00.000Z	UrbanFox		tyler_durden> running as root is a bad idea
+2005-10-15T05:51:00.000Z	UrbanFox		you should only run as root for administrative tasks, not casual desktop use
+2005-10-15T05:51:00.000Z	UrbanFox		Ubuntu lacks root by default for a reason
+2005-10-15T05:51:00.000Z	UrbanFox		tyler_durden> you are stripping yourself of a great deal of protection
+2005-10-15T05:52:00.000Z	Madpilot	UrbanFox	Ubuntu encourages 'sudo' instead of root use

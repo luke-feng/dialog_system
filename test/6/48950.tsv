@@ -1,0 +1,6 @@
+2010-04-15T11:47:00.000Z	futuresoon		how do i get my server to stop asking for my passphrase when i login? if i do ssh-keygen -t rsa locally and leave the passphrase empty it will still ask me
+2010-04-15T11:48:00.000Z	futuresoon		i do "ssh myserver.com" and it asks me for a passphrase even though it's empty
+2010-04-15T11:49:00.000Z	Serraphyn	futuresoon	you can setup a file that holds username and passwords for ssh but its not really a good idea
+2010-04-15T11:49:00.000Z	futuresoon	Serraphyn	i feel like this isn't typical behavior but is it?
+2010-04-15T11:49:00.000Z	futuresoon		i think from other computers it doesn't ask me cause it knows there isn't one? or something?
+2010-04-15T11:49:00.000Z	Serraphyn	futuresoon	ssh will always ask for a password if the ssh user file is not there

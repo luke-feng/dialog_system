@@ -1,0 +1,6 @@
+2007-03-10T16:08:00.000Z	Theory5		how do i get into desktop with Ubuntu server?>
+2007-03-10T16:08:00.000Z	PriceChild	Theory5	Ubuntu server doesn't include a desktop. sudo apt-get install ubuntu-desktop to get one
+2007-03-11T06:47:00.000Z	PriceChild	Theory5	you could use someone like no-ip.info or dyndns
+2007-03-11T06:48:00.000Z	PriceChild	Theory5	they will give you a freee "domain" (with their suffix) to point to your machine
+2007-03-11T06:50:00.000Z	PriceChild	Theory5	no-ip.info or dyndns
+2007-03-11T07:00:00.000Z	PriceChild	Theory5	like * meaning anything :)

@@ -1,0 +1,6 @@
+2006-12-18T14:03:00.000Z	psyber		does anyone here know how to check to see if your wireless card is setup properly?
+2006-12-18T14:05:00.000Z	hudd	psyber	run "iwlist"
+2006-12-18T14:05:00.000Z	hudd		if its recognized
+2006-12-18T14:05:00.000Z	hudd		then one of the interfaces
+2006-12-18T14:05:00.000Z	hudd		will be wireless, and return scan data if a wireless network is present
+2006-12-18T14:06:00.000Z	psyber	hudd	I do not see wireless as an option

@@ -1,0 +1,6 @@
+2005-02-11T10:51:00.000Z	M3ta		apt-get install k3b
+2005-02-11T10:51:00.000Z	EvolutionR	M3ta	so get k3b? does Hoary included?
+2005-02-11T10:52:00.000Z	EvolutionR	M3ta	sorry for my poor english :)
+2005-02-11T10:53:00.000Z	EvolutionR	M3ta	let's say I've installed apt-get k3b old version...how to upgrade to new version? what's the command for it?
+2005-02-12T07:59:00.000Z	M3ta	EvolutionR	tip: updatedb, locate menu.lst
+2005-02-12T08:00:00.000Z	EvolutionR	M3ta	: okie

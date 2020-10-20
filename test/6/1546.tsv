@@ -1,0 +1,6 @@
+2012-06-30T01:54:00.000Z	SolarAquarion	ActionParsnip	how do I find my exact one?
+2012-06-30T01:55:00.000Z	ActionParsnip	SolarAquarion	sudo lshw -C network
+2012-06-30T01:55:00.000Z	ActionParsnip	SolarAquarion	what model netbok, there are hundreds...
+2012-06-30T01:56:00.000Z	SolarAquarion	ActionParsnip	BCM4312
+2012-06-30T01:57:00.000Z	ActionParsnip	SolarAquarion	easier is to get a wired connection and get updated, reboot then use that guide
+2012-06-30T01:57:00.000Z	ActionParsnip	SolarAquarion	those cheap broadcoms are a doddle to install

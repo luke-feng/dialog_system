@@ -1,0 +1,6 @@
+2005-10-30T10:42:00.000Z	mula`		hi all
+2005-10-30T10:44:00.000Z	mula`		after upgrading to 5.10, i got an error message when the gnome login window appears telling me that something in my config is wrong and defaults are used. where can i try to look up the error?
+2005-10-30T10:45:00.000Z	mula`		where is gdm logging its error messages?
+2005-10-30T10:45:00.000Z	mula`		perhaps i can find it by myself :)
+2005-10-30T10:46:00.000Z	selinium	mula`	I had a similar problem myself.
+2005-10-30T11:28:00.000Z	selinium	mula`	It is a bug yes, but it only effects the login page. If you cant find any help today try again later. No need to worry

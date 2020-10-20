@@ -1,0 +1,6 @@
+2005-12-19T17:37:00.000Z	rosen		ok a quickie before bedtime ... how do I erase a file (as root) in terminal ?
+2005-12-19T17:38:00.000Z	rosen		great :) thanks both of you
+2005-12-19T17:39:00.000Z	rosen		mm ... then what if it's a directory ?
+2005-12-19T17:39:00.000Z	rosen		odly enough I dont get the chance to type my root password when I use the gui
+2005-12-19T17:40:00.000Z	rosen		so .. sudo rm -r <name>
+2005-12-19T17:40:00.000Z	MickMcMack	rosen	sudo rm -rf name (doesn't prompt)

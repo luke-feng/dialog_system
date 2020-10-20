@@ -1,0 +1,6 @@
+2012-05-10T23:35:00.000Z	pranjal710		I have installed a fresh copy of ubuntu 10.04, but its not detecting my sound card, instead is showing a "dummy output", I tried ubuntu forums and searched the net, but in vain.. Please help!!
+2012-05-10T23:37:00.000Z	pranjal710		I have installed a fresh copy of ubuntu 10.04, but its not detecting my sound card, instead is showing a "dummy output", I tried ubuntu forums and searched the net, but in vain.. Please help!!
+2012-05-10T23:38:00.000Z	zykotic10	pranjal710	what sound card is it?  does "lspci | grep -i audio" show it?  (if it's USB this won't work)
+2012-05-10T23:39:00.000Z	pranjal710		00:1b.0 Audio device: Intel Corporation Cougar Point High Definition Audio Controller (rev 05) 01:00.1 Audio device: nVidia Corporation Device 0bea (rev a1)
+2012-05-10T23:39:00.000Z	pranjal710		this is the output
+2012-05-10T23:40:00.000Z	pranjal710	zykotic10	The output:

@@ -1,0 +1,6 @@
+2006-07-04T09:29:00.000Z	Travis|T60		lenovo
+2006-07-04T09:29:00.000Z	Travis|T60		t60 thinkpad
+2006-07-04T09:31:00.000Z	Travis|T60		Ares that wouldn't work thought because the recovery partitions bootloader is in the mbr, but I guess I will take the risk
+2006-07-04T09:31:00.000Z	Travis|T60		snoops how would I do this?
+2006-07-04T09:32:00.000Z	Jack_Sparrow	Travis|T60	There is the ultimate boot cd ... google it
+2006-07-04T09:32:00.000Z	Jack_Sparrow	Travis|T60	IT boots and has fdisk and many many other useful tools for partitioning and then some

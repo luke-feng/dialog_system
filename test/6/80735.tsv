@@ -1,0 +1,6 @@
+2007-08-16T07:35:00.000Z	dho_ragus		*sigh*  now if i could just solve this stupid feisty sudo problem....
+2007-08-16T07:36:00.000Z	Pelo	dho_ragus	 what stupid fiesty sudo problem ?
+2007-08-16T07:36:00.000Z	Pelo	dho_ragus	 are you logged in as root by any chance ?
+2007-08-16T07:36:00.000Z	dho_ragus	Pelo	it DID work... not sure when it stopped, but it was some time while i was sitting at this terminal.
+2007-08-16T07:36:00.000Z	dho_ragus	Pelo	nope
+2007-08-16T07:39:00.000Z	dho_ragus	Pelo	shizz, i just found out my problem.  modded my groups and somehow removed me from admin

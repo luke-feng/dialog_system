@@ -1,0 +1,6 @@
+2009-09-30T10:05:00.000Z	mgmuscari		hey, i have a question about resizing partitions...
+2009-09-30T10:06:00.000Z	flying_penguin	mgmuscari	im sorry
+2009-09-30T10:07:00.000Z	flying_penguin	mgmuscari	you should be able to resize a logical partition into freespace wherever it is
+2009-09-30T11:12:00.000Z	flying_penguin	mgmuscari	careful with dd
+2009-09-30T11:27:00.000Z	flying_penguin	mgmuscari	if the hd num is higher than 4 that would mean it is a logical instead of extended partition and probably wont be 0,6
+2009-09-30T11:29:00.000Z	mgmuscari	flying_penguin	very true

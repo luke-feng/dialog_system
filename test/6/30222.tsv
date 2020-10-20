@@ -1,0 +1,6 @@
+2011-05-23T13:08:00.000Z	lloowen		Hi all. I've been trying to get a script I wrote to start up on boot. I can see there's tons of stuff on Google about how to do this, but I have had no luck so far. I've tried putting the link to my script in /etc/rc.0 and /etc/rc.local
+2011-05-23T13:08:00.000Z	dr_Willis	lloowen	what foes it for
+2011-05-23T13:11:00.000Z	dr_Willis	lloowen	 rc.local should work then
+2011-05-23T13:14:00.000Z	lloowen	dr_Willis	I'm looking in rc.local What does   "# In order to enable or disable this script just change the execution # bits."  mean
+2011-05-23T13:15:00.000Z	dr_Willis	lloowen	 its a script make it executable for it to run
+2011-05-23T13:15:00.000Z	lloowen	dr_Willis	Yes of course. Thanks

@@ -1,0 +1,6 @@
+2010-04-13T02:21:00.000Z	InvisibleMan		I'm going to be running a script.  I want to ensure that the script doesn't have any access to my files or the shared files on the local network.  How would I do this?
+2010-04-13T02:22:00.000Z	acicula	InvisibleMan	run it as its own user without specific priviledges and use a sandbox(chroot/apparmor or mac like selinux)
+2010-04-13T02:23:00.000Z	InvisibleMan	acicula	Ah, so it isn't just a quick fix...  All right, thanks.
+2010-04-13T02:23:00.000Z	acicula	InvisibleMan	well creating an apparmor provile wich doesnt allow anything is pretty easy
+2010-04-13T02:24:00.000Z	InvisibleMan	acicula	Installing and setting up the program is the problem.  I don't use Linux usually.  The only reason I have it installed is because I don't have another copy of XP :S
+2010-04-13T02:25:00.000Z	InvisibleMan	acicula	(I only use this to have an IRC client open 24/7)

@@ -1,0 +1,6 @@
+2006-09-08T07:20:00.000Z	bruenig		!backup > AngryElf
+2006-09-08T07:20:00.000Z	bruenig		!backup > AngryElf_
+2006-09-08T07:21:00.000Z	AngryElf	bruenig	i'm talking about norton ghost server + pxe boot etc etc
+2006-09-08T07:21:00.000Z	bruenig	AngryElf	oh
+2008-02-26T08:56:00.000Z	bruenig	AngryElf	you would use genisoimage to make the iso, then wodim to burn it
+2008-02-26T08:57:00.000Z	bruenig	AngryElf	or mkisofs or cdrecord (I don't remember what cd tools ubuntu uses)

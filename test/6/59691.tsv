@@ -1,0 +1,6 @@
+2010-05-26T17:07:00.000Z	FyreFoX		hi, have just done a clean install of lucid and upon login its asking me to encrypt my home dir, I already selected encrypt the system. Is the home dir stuff ecryptfs ontop of my already dm_crypt device?
+2010-05-26T17:07:00.000Z	phlak_user	FyreFoX	you might have selected ext4 as the file system and the option "Encrypt the files on my home folder" at installation
+2010-05-26T17:08:00.000Z	FyreFoX	phlak_user	yes that rings a bell
+2010-05-26T17:08:00.000Z	FyreFoX	phlak_user	upon boot it asked for an encryption passphrase before it would proceed. I figured this meant the whole system was encrypted..
+2010-05-26T17:09:00.000Z	phlak_user	FyreFoX	only your home folder
+2010-05-26T17:10:00.000Z	FyreFoX	phlak_user	ahh I see.

@@ -1,0 +1,6 @@
+2011-07-15T20:35:00.000Z	usermanager		anyone here know any simple cron command that i can use to test out cron service ?
+2011-07-15T20:36:00.000Z	usermanager		anyone here know any simple cron command that i can use to test out cron service ?
+2011-07-15T20:37:00.000Z	roasted	usermanager	mkdir? touch file?
+2011-07-15T20:37:00.000Z	roasted	usermanager	mkdir creates a directory, and touch creates a blank file.
+2011-07-15T20:38:00.000Z	roasted	usermanager	if you set crontab to mkdir /home/usermanager/test, it should create "test" directory in your home folder
+2011-07-15T20:39:00.000Z	roasted	usermanager	it would just be a simple way to see if crontab is working :P

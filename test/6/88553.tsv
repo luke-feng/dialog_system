@@ -1,0 +1,6 @@
+2008-11-09T20:31:00.000Z	jpablanche		please kindly tell me how to start pidgin automatically in startup thanks?
+2008-11-09T20:32:00.000Z	jpablanche		please anyone in this room sir and mam how to start pidgin during startup?
+2008-11-09T20:33:00.000Z	Brucevdk	jpablanche	System -> Preferences -> Sessions
+2008-11-09T20:36:00.000Z	Brucevdk	jpablanche	you can find out the command by going Applications -> Internet -> Pidgin -> Right click -> Add this launcher to desktop -> Right click launcher on desktop -> Properties -> Basic tab -> Command
+2008-11-09T20:36:00.000Z	Brucevdk	jpablanche	good point though.....
+2008-11-09T20:37:00.000Z	Brucevdk	jpablanche	actually even easier, you can drag the launcher to the session window

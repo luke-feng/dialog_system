@@ -1,0 +1,6 @@
+2007-09-22T16:19:00.000Z	triptec		is there anyway to check the integrety of files in a tar archive
+2007-09-22T16:20:00.000Z	bruenig	triptec	it needs to be extracted first of course
+2007-09-22T16:21:00.000Z	triptec	bruenig	okay, what tool to use after extraction?
+2007-09-22T16:21:00.000Z	bruenig	triptec	well you need some sort of sum to compare it against
+2007-09-22T16:23:00.000Z	triptec	bruenig	well, okay I want to backup my whole system before I do a major upgrade, and last time I had som corrupted files in the archive it was for no use. what to do?
+2007-09-22T16:24:00.000Z	bruenig	triptec	I would get all the files you want to backup in a directory and then run find . -type f -exec md5sum {} \;, save that and then check later

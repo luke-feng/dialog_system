@@ -1,0 +1,6 @@
+2007-10-31T03:11:00.000Z	eegore		is there a package that allows the mouse to work in a text terminal for something like lynx
+2007-10-31T03:12:00.000Z	EnigmaCurry	eegore	I'm on a fresh install of gutsy and the mouse works in links2
+2007-10-31T03:13:00.000Z	eegore	EnigmaCurry	I have to use Feisty on this lappy
+2007-10-31T03:14:00.000Z	eegore		power control for Gutsy is problematic
+2007-10-31T03:14:00.000Z	EnigmaCurry	eegore	Sorry that I don't know what package makes it work.. it's just stock. It's pretty neat though.. even works over SSH
+2007-10-31T03:14:00.000Z	EnigmaCurry	eegore	maybe you should just try installing links2?

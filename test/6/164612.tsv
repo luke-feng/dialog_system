@@ -1,0 +1,6 @@
+2005-01-30T17:32:00.000Z	KeRnEl-PaNiC		Hi all
+2005-01-30T17:32:00.000Z	KeRnEl-PaNiC		is uhci.o PROVIDED with ubuntu distrib?
+2005-01-30T17:34:00.000Z	KeRnEl-PaNiC		is uhci module provided with ubuntu?
+2005-01-30T17:34:00.000Z	tritium	KeRnEl-PaNiC	definitely
+2005-01-30T17:37:00.000Z	tritium	KeRnEl-PaNiC	it's called uhci-hcd
+2005-01-30T17:38:00.000Z	tritium	KeRnEl-PaNiC	no problem.

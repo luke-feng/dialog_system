@@ -1,0 +1,6 @@
+2009-08-31T12:38:00.000Z	R0x		hi!
+2009-08-31T12:39:00.000Z	R0x		Can anyone help with grub boot menu?
+2009-08-31T12:40:00.000Z	khermans	R0x	ya
+2009-08-31T12:40:00.000Z	khermans	R0x	sudo grub --reinstall /dev/sda
+2009-08-31T12:41:00.000Z	khermans	R0x	sudo grub-install /dev/sda
+2009-08-31T12:44:00.000Z	khermans	R0x	looks good

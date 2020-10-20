@@ -1,0 +1,6 @@
+2007-09-15T14:33:00.000Z	lowlux		HOW DO I RESET UBUNTU BACK TO SAFE SETTINGS???? ITS CRASHING LIKE MAD!
+2007-09-15T14:34:00.000Z	lowlux		GIMME ME A A COMMAND TO RETSET MY COMPOUYTER!!!!!!!!!!!!!!
+2007-09-15T14:36:00.000Z	kringel	lowlux	to reboot?
+2007-09-15T14:36:00.000Z	kringel	lowlux	in command line: sudo init 6
+2007-09-15T14:39:00.000Z	kringel	lowlux	or when nothing is working anymore <Alt>+<Print>+S (syncing... wait) <Alt>+<Print>+U (mounting filesystem read-only... wait!) then <Alt>+<Print>+B (reboot immediately). Before you should try in a non-graphical terminal (when system doesn react anymore) <Strg>+<Alt>+<Entf> This is more the smooth way
+2007-09-15T14:40:00.000Z	kringel	lowlux	when is it crahsing. btw, stop writing in uppercase letters, if possible ;-)

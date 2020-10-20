@@ -1,0 +1,6 @@
+2007-09-02T14:49:00.000Z	zitner		Heylo
+2007-09-02T14:50:00.000Z	zitner		I try to run an avi file, and Mplayer just gives me an Error opening/initializing supported video_out (-vo) device.  Can anyone help me???
+2007-09-02T14:51:00.000Z	zitner		I have all teh codecs, how do I change the output device?? Jordan_U
+2007-09-02T14:52:00.000Z	sauvin	zitner	are you using mplayer from the command line?
+2007-09-02T14:53:00.000Z	zitner	Jordan_U	I'm using Mplayer through the applications menu, and I know a little about the Terminal.
+2007-09-02T14:54:00.000Z	sauvin	zitner	if you're not comfortable with the command line, you might want to use something else.

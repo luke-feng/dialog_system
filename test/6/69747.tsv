@@ -1,0 +1,6 @@
+2008-11-13T15:47:00.000Z	bluefoxx_		ok, well, i have X working again, but it's not liking the way my xorg is i think. anyone want to see what i missed? Section "ServerLayout"
+2008-11-13T15:47:00.000Z	bluefoxx_		 Identifier     "X.org Configured"
+2008-11-13T15:47:00.000Z	bluefoxx_		 Screen      0  "Screen0" 0 0
+2008-11-13T15:47:00.000Z	bluefoxx_		 InputDevice    "Mouse0" "CorePointer"
+2008-11-13T15:47:00.000Z	bluefoxx_		 InputDevice    "Keyboard0" "CoreKeyboard"
+2008-11-13T15:47:00.000Z	FloodBot3	bluefoxx_	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

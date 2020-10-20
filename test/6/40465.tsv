@@ -1,0 +1,6 @@
+2012-02-02T17:19:00.000Z	EdwardIII		what's the general feeling about ubuntu LTS on a server?
+2012-02-02T17:20:00.000Z	iceroot	EdwardIII	if you want ubuntu then lts is the best for a server
+2012-02-02T17:20:00.000Z	iceroot	EdwardIII	if you want a ultra-stable system (with older software) i guess having a look at debian stable is a good idea too
+2012-02-02T17:21:00.000Z	iceroot	EdwardIII	only 2.6 on 10.04
+2012-02-02T17:24:00.000Z	iceroot	EdwardIII	12.04 is the next lts release, ready in april 2012
+2012-02-02T17:24:00.000Z	iceroot	EdwardIII	on a server (reachable through the internet) i would suggest only use ubuntu lts or debian stable

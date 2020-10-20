@@ -1,0 +1,6 @@
+2009-02-01T02:45:00.000Z	tarelerulz		I installed Ubuntu 8.10 and it will not see my usb hard drive at all .   What can I do ?
+2009-02-01T02:46:00.000Z	momomo	tarelerulz	what does "lsusb" tell you on the commandline?
+2009-02-01T02:53:00.000Z	momomo	tarelerulz	hmm, do you mind   dmesg | pastebinit
+2009-02-01T02:58:00.000Z	momomo	tarelerulz	you can install pastebinit by "sudo aptitude install pastebinit"
+2009-02-01T02:59:00.000Z	tarelerulz	momomo	 Here is this what you asked for http://pastebin.com/m214aa8c6
+2009-02-01T03:07:00.000Z	momomo	tarelerulz	cant find anything suspicious in the pastebin

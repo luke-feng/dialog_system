@@ -1,0 +1,6 @@
+2007-04-22T11:43:00.000Z	Crav		is it at all possible to migrate my old windows thunderbird mail into linux?
+2007-04-22T11:45:00.000Z	Crav		more specific: HOW can i migrate my old windows thunderbird mail into linux?
+2007-04-22T11:46:00.000Z	andi5	Crav	you might be able to copy your whole profile directory
+2007-04-22T11:46:00.000Z	Crav	andi5	i can't seem to find where thunderbird is saving my mail (in ubuntu)
+2007-04-22T11:47:00.000Z	andi5	Crav	you may need to show hidden files.... it is either in ~/.thunderbird or ~/.mozilla/thunderbird (sorry, i am using evolution)
+2007-04-22T11:48:00.000Z	Crav	andi5	alright thanks, i'll give it a shot

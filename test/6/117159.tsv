@@ -1,0 +1,6 @@
+2006-07-24T05:18:00.000Z	Rambo3	henry54	are you shure about that
+2006-07-24T05:18:00.000Z	henry54	Rambo3	about what?
+2006-07-24T05:19:00.000Z	Rambo3	henry54	just asking about editing links
+2006-07-24T05:20:00.000Z	henry54	Rambo3	once you copy the soft link, it becomes a regular file.
+2006-07-24T05:21:00.000Z	Rambo3	henry54	is it better to create /etc/init.d/floppywhtever and update rcs . anyway you seam to know what you are doing
+2006-07-24T05:21:00.000Z	henry54	Rambo3	well, I know it _would_ be the cleaner way... then again, the floppy already seems to have a problem ;-)

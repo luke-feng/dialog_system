@@ -1,0 +1,6 @@
+2009-06-04T07:48:00.000Z	_Brun0_		How do I install ubuntu in a computer using a pendrive? the pc has no cdroom drive.
+2009-06-04T07:48:00.000Z	cabrey	_Brun0_	use a utility like USB Startup Disk Creator
+2009-06-04T07:49:00.000Z	cabrey	_Brun0_	do you have an existing Ubuntu PC?
+2009-06-06T00:54:00.000Z	cabrey	_Brun0_	yes
+2009-06-06T00:54:00.000Z	cabrey	_Brun0_	System > Administration > Users & Groups
+2009-06-06T00:57:00.000Z	_Brun0_	cabrey	thanks it worked. strangely it accepted my password to enter this application ( System > Administration > Users & Groups) but not others. Problem solved now. THanks also p1oooop

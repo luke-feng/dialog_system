@@ -1,0 +1,6 @@
+2007-08-11T11:16:00.000Z	ilyug7		Anyone have a DWL-520 setup in ubuntu? (Wireless NIC)
+2007-08-11T11:18:00.000Z	ilyug7		Yes it is lee
+2007-08-11T11:18:00.000Z	ilyug7		lspci shows atheros
+2007-08-11T11:18:00.000Z	ilyug7		but says unknown device
+2007-08-11T11:18:00.000Z	ilyug7		driving me nuts...
+2007-08-11T11:19:00.000Z	stdin	ilyug7	my atheros shows as: 05:00.0 Ethernet controller: Atheros Communications, Inc. Unknown device 001c (rev 01) it still works with madwifi

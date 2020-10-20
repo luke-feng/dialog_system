@@ -1,0 +1,6 @@
+2006-09-21T15:06:00.000Z	GusWrk		hi guys.  is there a way to make the live cd install via text mode?  I've got an old system that I need to install on, it won't run the live CD and it won't boot off CDs that I've burnt myself. :-(
+2006-09-21T15:06:00.000Z	GusWrk		so I can't use the altenative cd.
+2006-09-21T15:06:00.000Z	peija-kas	GusWrk	- download the Alternate Instal cd
+2006-09-21T15:07:00.000Z	GusWrk	peija-kas	I have, but I have to burn that myself.  this sytem seems to only boot 'proper' cds, not cdrs
+2006-09-21T15:08:00.000Z	GusWrk	peija-kas	yeah I'm pretty sure live cd has no text mode, I just wanted to check.
+2006-09-21T15:21:00.000Z	GusWrk	peija-kas	thanks for your help; I found a way around my problem. official 5.10 install cd, then dist-upgrade. :-)

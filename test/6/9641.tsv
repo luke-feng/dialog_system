@@ -1,0 +1,6 @@
+2011-05-11T11:31:00.000Z	lcawte		Hi, I'm having a problem installing nvidia-96... it seems that its dependancies are a little broken... since it requires  nvidia-96 : Depends: xorg-video-abi-8.0 but it is not installable              Depends: xserver-xorg-core (>= 2:1.8.99.905-1ubuntu3) but it is not going to be installed (1st one can't be installed because of hte second or something like that... how do I get this driver?
+2011-05-11T11:32:00.000Z	ActionParsnip	lcawte	are there any bugs logged?
+2011-05-11T11:33:00.000Z	lcawte	ActionParsnip	not sure
+2011-05-11T11:35:00.000Z	ActionParsnip	lcawte	have a look. It may be a known issue
+2011-05-11T11:37:00.000Z	ActionParsnip	lcawte	you may find xorg edgers ppa gives the version but its very experimental. It may just work though
+2011-05-11T19:12:00.000Z	lcawte	ActionParsnip	not sure

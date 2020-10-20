@@ -1,0 +1,6 @@
+2006-11-11T09:35:00.000Z	Vuen		hey guys, how do i freeze a package so that ubuntu doesn't upgrade
+2006-11-11T09:35:00.000Z	Vuen		it?
+2006-11-11T09:35:00.000Z	fooadd	Vuen	echo "package_name hold "  | dpkg --get-selections
+2006-11-11T09:38:00.000Z	fooadd	Vuen	http://www.debian.org/doc/FAQ/ch-pkg_basics.en.html ( How do I put a package on hold?), just in case I wrote the command wrong
+2006-11-11T09:42:00.000Z	Vuen	fooadd	thanks. i simply used: aptitude hold packagename
+2006-11-11T09:43:00.000Z	fooadd	Vuen	you're welcome :)

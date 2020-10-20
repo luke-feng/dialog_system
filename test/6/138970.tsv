@@ -1,0 +1,6 @@
+2006-04-04T12:09:00.000Z	frank23		how do I disable ssh access to a specific user?
+2006-04-04T12:10:00.000Z	ablyss	frank23	edit /etc/hosts.deny add "sshd : <ip_of allow users> : allow"
+2006-04-04T12:10:00.000Z	ablyss	frank23	the ip can be in a range too, e.g., 192.168.*.*
+2006-04-04T12:12:00.000Z	ablyss	frank23	/etc/hosts.allow and hosts.deny are virtually the same file.. only thing is hosts.allow gets checked first, then hosts.deny.. but you can put whatever you want in either file i.e., allow or deny
+2006-04-04T12:12:00.000Z	frank23	ablyss	I'll just deby logins completely
+2006-04-04T12:14:00.000Z	frank23	ablyss	how does your server know your IP?

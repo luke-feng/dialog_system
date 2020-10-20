@@ -1,0 +1,6 @@
+2008-11-30T22:01:00.000Z	W8TAH		anyone here using VMWARE on Intrepid? -- im having issues getting access i browse to https://127.0.0.1:8333 and nothing appears in the browser
+2008-11-30T22:01:00.000Z	W8TAH		can anyone help?
+2008-11-30T22:01:00.000Z	Brandano	W8TAH	https specifies the port to be used already
+2008-11-30T22:02:00.000Z	Brandano	W8TAH	it won't work on anything other than 443
+2008-11-30T22:02:00.000Z	W8TAH	Brandano	ok
+2008-11-30T22:02:00.000Z	Brandano	W8TAH	try http

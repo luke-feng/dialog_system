@@ -1,0 +1,6 @@
+2011-02-28T18:34:00.000Z	player		how do i uninstall 10..04 to 9.04
+2011-02-28T18:35:00.000Z	player		how do i uninstall 10..04
+2011-02-28T18:35:00.000Z	player		how do i uninstall 10..04
+2011-02-28T18:36:00.000Z	player		but if i reinstal will al my files be lost
+2011-02-28T18:36:00.000Z	Fjodor	player	Not if you have /home on a separate partition
+2011-02-28T18:39:00.000Z	Fjodor	player	Use the archive manager to make a tar archive on you pen drive and add your entire user folder to it

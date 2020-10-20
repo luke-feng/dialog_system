@@ -1,0 +1,6 @@
+2007-02-18T06:12:00.000Z	svu_		is ubuntu going to use nouveau drivers any time soon?
+2007-02-18T06:12:00.000Z	Flannel	svu_	nouveau drivers aren't really working yet.
+2007-02-18T06:12:00.000Z	svu_	Flannel	I heard but they are progressing fast - so making them optional would be nice - opensource nv driver sucks big time
+2007-02-18T06:13:00.000Z	svu_	Flannel	I heard FC was going to include them
+2007-02-18T06:13:00.000Z	Flannel	svu_	they won't be available until theyre actually feasible.  And Feistys freeze just happened, so it'll be at least 7.10 before theyre in ubuntu.
+2007-02-18T06:15:00.000Z	svu_	Flannel	ok, I'll wait till 7.10 then. if powerpc would not be dropped altogether

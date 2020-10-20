@@ -1,0 +1,6 @@
+2009-06-17T14:57:00.000Z	om26er		how to install xorg server
+2009-06-17T14:59:00.000Z	om26er		how to install xorg server
+2009-06-17T14:59:00.000Z	om26er		plz
+2009-06-17T14:59:00.000Z	om26er		xorg-server
+2009-06-17T15:00:00.000Z	om26er		no
+2009-06-17T15:00:00.000Z	cwillu	om26er	if you installed the server or a bare install, you probably want to sudo apt-get install ubuntu-desktop, which will get you the server as well as everything else you probably want

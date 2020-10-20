@@ -1,0 +1,6 @@
+2010-01-31T04:22:00.000Z	enduser000		what's the best way to fix an mbr (for windows)?  ms-sys isn't working as expected for us
+2010-01-31T04:23:00.000Z	enduser000		what's the best way to fix a windows mbr with an ubuntu livecd?
+2010-01-31T04:23:00.000Z	AndreMorro[BR]	enduser000	Don't know how
+2010-01-31T04:24:00.000Z	AndreMorro[BR]	enduser000	usually its better to use a Windows CD to recover MBR, and if needed, a Ubuntu CD to reinstall grub (as I said, IF needed)
+2010-01-31T04:24:00.000Z	enduser000	AndreMorro[BR]	ok thanks
+2010-01-31T04:26:00.000Z	AndreMorro[BR]	enduser000	yw

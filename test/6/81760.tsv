@@ -1,0 +1,6 @@
+2007-10-18T03:56:00.000Z	bottiger		what protects /etc/sudoers from being edited by anything else than visudo ?
+2007-10-18T03:56:00.000Z	Dr_willis	bottiger	 nothing that i know of.  - i never use  visudo
+2007-10-18T03:57:00.000Z	bottiger	Dr_willis	then why does it say so :S
+2007-10-18T03:57:00.000Z	Dr_willis	bottiger	 because its a good idea.
+2007-10-18T03:57:00.000Z	Dr_willis	bottiger	 i am on a 1 user system. :) so it dosent matter much here.
+2007-10-18T03:58:00.000Z	bottiger	Dr_willis	And I don't plan to edit my /etc/sudoer, I just found the message really strange

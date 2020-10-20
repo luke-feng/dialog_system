@@ -1,0 +1,6 @@
+2009-02-27T08:15:00.000Z	donavan01		Whats the command I  issue to get a list of all the hardware install on my system (trying to find out what kind of wifi card I have)
+2009-02-27T08:16:00.000Z	lstarnes	donavan01	there's also lshw
+2009-05-07T08:59:00.000Z	lstarnes	donavan01	only if kde programs are installed
+2009-05-07T09:00:00.000Z	lstarnes	donavan01	kde programs require at least some of kde's libraries
+2009-05-07T09:00:00.000Z	lstarnes	donavan01	usually they don't conflict with gnome's libraries
+2009-05-07T09:01:00.000Z	donavan01	lstarnes	, n2diy  ... thats what I was thinking ... like I said just trying to learn more about what is actually running and installed on my netbook (streamlining)

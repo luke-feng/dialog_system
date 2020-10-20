@@ -1,0 +1,6 @@
+2012-06-19T09:40:00.000Z	bane-o		uninstall it
+2012-06-19T09:40:00.000Z	bane-o		use chrome
+2012-06-19T09:42:00.000Z	bane-o		it's most likely not firefox, but one of the plugins that's causing the CPU cycles to be eaten
+2012-06-19T09:44:00.000Z	bane-o		isn't vnc server local to the machine running it?
+2012-06-19T09:44:00.000Z	bane-o		no, the machine you are trying to connect to IS the vnc server
+2012-06-19T09:44:00.000Z	mputtr	bane-o	i know, but it also needs to be runnign a program to act as vnc

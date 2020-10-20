@@ -1,0 +1,6 @@
+2009-02-27T22:02:00.000Z	d_rugs420		im trying to change permissions on some folders. i used sudo chmod 777 as well as right click the folder and giving write permissions, and doing the same with nautilus. Every time I click on "apply permissions to enclosed files" or close, the permissions disappear. any clues?
+2009-02-27T22:03:00.000Z	oskar-	d_rugs420	does the file system, that contains the folders, support permissions?
+2009-02-27T22:04:00.000Z	d_rugs420	oskar-	i think so. how do i check?
+2009-02-27T22:05:00.000Z	oskar-	d_rugs420	look in the output of "mount", which type it is
+2009-02-27T22:06:00.000Z	d_rugs420	oskar-	ext3
+2009-02-27T22:07:00.000Z	d_rugs420	oskar-	i have been able to chmod files in the past but for some reason its not working now

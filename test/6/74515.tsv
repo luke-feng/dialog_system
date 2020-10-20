@@ -1,0 +1,6 @@
+2009-07-22T23:28:00.000Z	Scrap		can someone help me regarding usage of scp and ssh
+2009-07-22T23:29:00.000Z	Pici	Scrap	Just ask.
+2009-07-22T23:30:00.000Z	Scrap	Pici	ok, well i've set up SSH on ubuntu and i have accessed it through my mac laptop
+2009-07-22T23:30:00.000Z	Scrap	Pici	and i've tried quite a bit of different things with scp to transfer a file from my ubuntu to my laptop and it is not working
+2009-07-22T23:31:00.000Z	Pici	Scrap	Do you have scp on the computer you want to transfer files to?
+2009-07-22T23:34:00.000Z	Pici	Scrap	scp's syntax is very similar to cp, so scp user@host:/remote/path/ /local/path/

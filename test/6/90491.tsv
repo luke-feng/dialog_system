@@ -1,0 +1,6 @@
+2007-04-06T13:36:00.000Z	jva		how can i test my download speed?
+2007-04-06T13:36:00.000Z	Ali_ix	jva	use wget with a direct link
+2007-04-06T13:36:00.000Z	jva	dyrne	no i meant like a center that would allow me to reduce font quality and the rest
+2007-04-06T13:36:00.000Z	jva		lol ok
+2007-04-06T13:38:00.000Z	jva		what happens if i ctrl-c an apt-get install ? does it clean up?
+2007-04-06T13:38:00.000Z	Ali_ix	jva	if it is downloading, nothing happend. if it is installing packages.. you may broke something

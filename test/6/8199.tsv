@@ -1,0 +1,6 @@
+2012-01-24T07:07:00.000Z	mohamez		how to install packages using terminal ?
+2012-01-24T07:07:00.000Z	zykotick9	mohamez	"sudo apt-get install foo"
+2012-01-24T07:07:00.000Z	zykotick9	mohamez	consider "command line" and terminal the same thing...
+2012-01-24T07:14:00.000Z	zykotick9	mohamez	think of them as the same thing
+2012-01-24T07:14:00.000Z	zykotick9	mohamez	it's just different terminology for the same thing
+2012-05-22T00:45:00.000Z	zykotick9	mohamez	"sudo apt-get install foo"

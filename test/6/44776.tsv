@@ -1,0 +1,6 @@
+2010-08-26T19:46:00.000Z	Azerus		hey wonderin if some1 could help me with my wireless card, im unable to inject packets
+2010-08-26T19:47:00.000Z	Azerus		d-link dwa-110
+2010-08-26T19:48:00.000Z	Azerus		im not well aware of the chipset
+2010-08-26T19:48:00.000Z	Azerus		any way to find out?
+2010-08-26T19:48:00.000Z	sacarlson	Azerus	lsusb
+2010-08-26T19:49:00.000Z	sacarlson	Azerus	assuming it's a usb wifi if not then try lspci  and or lshw

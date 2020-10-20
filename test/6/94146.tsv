@@ -1,0 +1,6 @@
+2007-02-09T13:03:00.000Z	eisma		how do i change the font color of the text in menus?
+2007-02-09T13:05:00.000Z	eisma		font*
+2007-02-09T13:05:00.000Z	VirginiaSteaks	eisma	: you have to create a file in your user directory called .gtkrc-2.0
+2007-02-09T13:06:00.000Z	VirginiaSteaks	eisma	: wait a sec, i will post a link for you to chance font colors of menues
+2007-02-09T13:07:00.000Z	VirginiaSteaks	eisma	still there?
+2007-02-09T13:08:00.000Z	VirginiaSteaks	eisma	try this link: i tried it out and it works perfectly http://forum.ubuntuusers.de/topic/33813/

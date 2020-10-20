@@ -1,0 +1,6 @@
+2009-05-09T07:28:00.000Z	lukavia		how do i check my file system ?
+2009-05-09T07:29:00.000Z	lukavia		lukavia@ubuntu:~$ fsck
+2009-05-09T07:29:00.000Z	lukavia		fsck 1.41.4 (27-Jan-2009)
+2009-05-09T07:29:00.000Z	lukavia		e2fsck 1.41.4 (27-Jan-2009)
+2009-05-09T07:29:00.000Z	lukavia		WARNING!!!  Running e2fsck on a mounted filesystem may cause
+2009-05-09T07:29:00.000Z	FloodBot3	lukavia	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

@@ -1,0 +1,6 @@
+2010-07-30T01:58:00.000Z	blockhead		Similar to Devede but for AUDIO only.
+2010-07-30T01:58:00.000Z	blockhead		Audio Converter, tht converts Mp4 to Mp3 or WMV
+2010-07-30T02:00:00.000Z	erUSUL	blockhead	winff? soundconverter?
+2010-07-30T02:02:00.000Z	erUSUL	blockhead	ffmpeg -i file.mp4 -ab 256k file.mp3
+2010-07-30T02:02:00.000Z	erUSUL	blockhead	you have to install lame
+2010-08-31T01:04:00.000Z	erUSUL	blockhead	i would use avidemux

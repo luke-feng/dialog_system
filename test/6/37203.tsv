@@ -1,0 +1,6 @@
+2009-11-02T03:19:00.000Z	BenG92		hi, i just installed Ubuntu on my windows vista system, but im having trouble connecting to the wireless because my Dell Inspiron Wireless card can't be turned on. Any help?
+2009-11-02T03:20:00.000Z	BenG92		its a Broadcom wireless card, the default to come with a Dell Inspiron 1501
+2009-11-02T03:21:00.000Z	CavalierPrime	BenG92	 it may take some doing, there is a wiki for it on the Ubuntu docs page
+2009-11-02T03:22:00.000Z	CavalierPrime	BenG92	  mine worked default with 8.10 on an Inspiron 2200
+2009-11-02T03:24:00.000Z	CavalierPrime	BenG92	  here is a start    https://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx/Feisty_No-Fluff
+2009-11-02T03:26:00.000Z	CavalierPrime	BenG92	  https://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx/Feisty_No-Fluff

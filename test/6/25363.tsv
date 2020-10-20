@@ -1,0 +1,6 @@
+2010-05-30T23:00:00.000Z	mouka		Hi
+2010-05-30T23:00:00.000Z	mouka		How do I get rid of old kernels after I am done updating my kernel?
+2010-05-30T23:02:00.000Z	mouka		I know how to delete the entry in the boot menu
+2010-05-30T23:02:00.000Z	mouka		I want to remove unwanted kernels
+2010-05-30T23:03:00.000Z	Talon_	mouka	open synaptic package manager and find them and un-install them.. its always good to leave at least one other incase the newer kernel doesnt work right you have a fallback
+2010-05-30T23:06:00.000Z	Talon_	mouka	in synaptic package manager, search for "linux-image-" and you should find checked ones like "linux-image-2.6.32-xx-generic" etc.. uncheck the ones you want to remove and apply, they will dissapear from your grub menu automatically then

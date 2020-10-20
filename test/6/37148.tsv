@@ -1,0 +1,6 @@
+2009-05-15T07:13:00.000Z	guest912		a friend of mine gave me a flash drive that had .r1 .r2 and such files how do i take those and make them playable ????
+2009-05-15T07:14:00.000Z	Dr_Willis	guest912	 if they are rar archives  You 'unrar' the first one and it should merge/unpack them all
+2009-05-15T07:14:00.000Z	Dr_Willis		!rar | guest912
+2009-05-15T07:15:00.000Z	guest912	Dr_Willis	they are dvd rips
+2009-05-15T07:15:00.000Z	Dr_Willis	guest912	 so unrar them
+2009-05-15T07:15:00.000Z	Dr_Willis	guest912	 hope you got some drive space handy

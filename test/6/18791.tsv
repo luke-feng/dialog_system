@@ -1,0 +1,6 @@
+2012-01-24T08:55:00.000Z	[[thufir]]		upgrading from an alternate cd brings up "getting new packages" which is a pain.  I opted for the networkless option.  hmm, maybe next upgrade just disconnect the ethernet cable or something?
+2012-01-24T08:55:00.000Z	[[thufir]]		can I get all those new packages for an upgrade via torrent or something?
+2012-01-24T08:57:00.000Z	[[thufir]]		if I were to just disconnect the ethernet cable before upgrading, would that omit the part where "getting new packages" before the upgrade occurs happens?  or would it just not be able to upgrade?
+2012-01-24T08:58:00.000Z	cheapie	[[thufir]]	If you have any packages installed that aren't included on the CD, the upgrade will probably fail.
+2012-01-24T09:18:00.000Z	[[thufir]]	cheapie	thx
+2012-01-26T09:28:00.000Z	[[thufir]]	cheapie	I don't understand the context of the question.  Why would you want that?  If you only have terminal, then you can't have images.  Alternately, if you have X, then you might as well use a mouse.  Please explain the context.

@@ -1,0 +1,6 @@
+2006-12-12T09:45:00.000Z	LookTJ		hey
+2006-12-12T09:45:00.000Z	LookTJ		how do i remove a directory that has a space?
+2006-12-12T09:46:00.000Z	LookTJ		i want to rm /var/lib/vmware/Virtual Machines/Ubuntu
+2006-12-12T09:47:00.000Z	LookTJ		but won't let me, because it has a space
+2006-12-12T09:47:00.000Z	funkyHat	LookTJ	rm -r
+2006-12-12T09:48:00.000Z	funkyHat	LookTJ	or just use tab to autocomplete it

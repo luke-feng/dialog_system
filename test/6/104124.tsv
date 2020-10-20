@@ -1,0 +1,6 @@
+2006-11-03T10:54:00.000Z	hc		is it possible to get WPA on ubuntu? i have a Airlink AWLL3026 USB-adapter
+2006-11-03T10:54:00.000Z	hc		using the zd1211r chipset
+2006-11-03T10:55:00.000Z	MasseR	hc	Hold on :)
+2006-11-03T10:55:00.000Z	MasseR	hc	http://www.students.cs.uu.nl/people/wbeekhui/FujitsuSiemens-AmiloL7300.html check the rt2500 part
+2006-11-03T10:56:00.000Z	hc	MasseR	so i plug it in, open terminal, check that it works, then type those commands?
+2006-11-03T10:57:00.000Z	MasseR	hc	Yes

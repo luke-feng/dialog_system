@@ -1,0 +1,6 @@
+2007-03-03T12:00:00.000Z	milosevic		Fellows, i just installed ubuntu, and now i'm trying to compile a simple c program: #include <stdio.h> int main(puts("Hello");}, but gcc is not finding stdio.h, do you know why?
+2007-03-03T12:00:00.000Z	Flannel	milosevic	install "build-essential"
+2007-03-03T12:00:00.000Z	Flannel	milosevic	yes, the package
+2007-03-03T12:02:00.000Z	Flannel	milosevic	open up synaptic
+2007-03-03T12:02:00.000Z	Flannel	milosevic	Add/Remove is a dumbed down interface.  Synaptic is what you want.
+2007-03-03T12:03:00.000Z	Flannel	milosevic	Er... No 's'

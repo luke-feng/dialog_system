@@ -1,0 +1,6 @@
+2011-10-15T06:34:00.000Z	braxton		Hey, I'm getting this error when running cube server lister:
+2011-10-15T06:34:00.000Z	braxton		./csl: error while loading shared libraries: libwx_gtk2u_richtext-2.8.so.0: cannot open shared object file: No such file or directory
+2011-10-15T06:35:00.000Z	braxton		Does anyone know how I can fix this? I don't know where to get those files.
+2011-10-15T06:36:00.000Z	Ibis	braxton	Software you're using to do this?
+2011-10-15T06:37:00.000Z	braxton	Ibis	It's called Cube server lister. I can give you a link if you need it; it's on sourceforge.
+2011-10-15T06:39:00.000Z	Ibis	braxton	libwxgtk2.8-0-dev                          <---- "dev" and "lib" files. Remember them. Always go for "libs" first, if that fails, assume you'll need the "devs" as well.

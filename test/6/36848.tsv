@@ -1,0 +1,6 @@
+2009-05-21T11:52:00.000Z	tlarson		how do you see what video driver you're using in 9.04? xorg.conf doesn't contain anything useful
+2009-05-21T11:52:00.000Z	raylu	tlarson	glxinfo or xdpyinfo may be of help
+2009-05-21T11:57:00.000Z	tlarson	raylu	do you think that if the [OpenGL version string] is "1.4 Mesa 7.4
+2009-05-21T11:57:00.000Z	tlarson	raylu	would that mean that i'm running the generic mesa drivers?
+2009-05-21T11:59:00.000Z	raylu	tlarson	i have no idea, sorry. try grepping for driver names. also, if you haven't modified your xorg.conf, X -configure may be revealing
+2009-05-21T11:59:00.000Z	tlarson	raylu	thanks

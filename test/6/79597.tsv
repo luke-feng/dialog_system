@@ -1,0 +1,6 @@
+2007-12-13T05:04:00.000Z	Soskel		hello
+2007-12-13T05:05:00.000Z	Soskel		would someone pleas test to see if http://imageprocessinglab.com works on ubuntu?
+2007-12-13T05:06:00.000Z	kling0n	Soskel	define "works on ubuntu" please
+2007-12-13T05:07:00.000Z	Soskel	kling0n	runs on ubuntu without error
+2007-12-13T05:09:00.000Z	kling0n	Soskel	the webpage renders just fine with firefox for me :)
+2007-12-13T05:15:00.000Z	kling0n	Soskel	running the app with mono iplab.exe gives me a crash

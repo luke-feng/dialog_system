@@ -1,0 +1,6 @@
+2010-08-07T05:21:00.000Z	carolinae		hi guys. i bought a usb microphone port for my laptop. comments on newegg said it was ubuntu-friendly. nothing happens when i plug it in. can anyone help?
+2010-08-07T05:22:00.000Z	cast	carolinae	check dmesg output
+2010-08-07T05:24:00.000Z	carolinae	cast	here is the output of dmesg|tail after i unplug then replug the usb device: http://pastebin.com/ARWq6JDB
+2010-08-07T05:24:00.000Z	carolinae	cast	only the last 5 lines are relevant. the first 5 are from doing the same thing a few seconds earlier.
+2010-08-07T05:25:00.000Z	cast	carolinae	so have you tried using it?
+2010-08-07T05:27:00.000Z	carolinae	cast	well yes, i open System > Preferences > Sound and it doesn't appear as a device.

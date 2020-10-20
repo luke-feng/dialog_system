@@ -1,0 +1,6 @@
+2007-06-22T13:43:00.000Z	DELUDE		Help: I updated to 7.04 from the update manager and the system halted at "6 min left", now it gets stuck at X login (before i login)
+2007-06-22T13:45:00.000Z	tomd123	DELUDE	try it again
+2007-06-22T13:46:00.000Z	DELUDE	tomd123	how do I do it without X running?
+2007-06-22T13:48:00.000Z	tomd123	DELUDE	i meant that if it stalled during the installation, just install it again
+2007-06-22T13:49:00.000Z	tomd123	DELUDE	also make sure your cd isn't corrupt
+2007-06-22T13:50:00.000Z	DELUDE	tomd123	i was updating via update manager through the interet, no cd

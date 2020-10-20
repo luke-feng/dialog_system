@@ -1,0 +1,6 @@
+2008-01-25T00:54:00.000Z	Ricardo0		1. Enable XDMCP
+2008-01-25T00:54:00.000Z	Ricardo0		System->Administration->Login Screen Setup
+2008-01-25T00:54:00.000Z	Ricardo0		Tab Security->Enable XDMCP
+2008-01-25T00:54:00.000Z	Ricardo0		Tab XDMCP--> You can disable "Honor Indirect Requests"
+2008-01-25T00:54:00.000Z	Ricardo0		how can i do this via cmd?
+2008-01-25T00:54:00.000Z	FloodBot3	Ricardo0	Please don't flood, use http://paste.ubuntu-nl.org to paste, don't use Enter as punctuation.

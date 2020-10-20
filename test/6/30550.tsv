@@ -1,0 +1,6 @@
+2010-05-16T02:35:00.000Z	TannerF		how do i view all the screens i have open?
+2010-05-16T02:35:00.000Z	TannerF		in a shell, that is
+2010-05-16T02:36:00.000Z	TannerF		How do i open that screen though?
+2010-05-16T02:37:00.000Z	TannerF		i have irssi running in a screen, and now i can't reattach to it
+2010-05-16T02:37:00.000Z	TannerF		:pp
+2010-05-16T02:37:00.000Z	[fade]	TannerF	screen -ls, then screen -r <session number>

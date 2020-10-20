@@ -1,0 +1,6 @@
+2011-04-06T02:04:00.000Z	weirdpercent		somehow whenever I open a terminal program, it defaults to ~/scripts/compiz, not ~. Both gnome-terminal and terminator do the same thing. what would cause this?
+2011-04-06T02:05:00.000Z	ActionParsnip	weirdpercent	at the bottom of ~/.bashrc    add:   cd ~/
+2011-11-05T08:44:00.000Z	ActionParsnip	weirdpercent	mint has a tiny community compared to Ubuntu's
+2011-11-05T08:48:00.000Z	weirdpercent	ActionParsnip	if you compare mint to ubuntu yes , ubuntu dwarfs the linux mint community
+2011-11-05T08:48:00.000Z	ActionParsnip	weirdpercent	could install LXDE or XFCE and use your Gnome apps there and get the great support from the Ubuntu community :)
+2011-11-05T08:51:00.000Z	weirdpercent	ActionParsnip	I tried lubuntu, xubuntu, neither of those were right for me. linux mint's repositories can blend with ubuntu's without too much trouble

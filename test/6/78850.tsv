@@ -1,0 +1,6 @@
+2008-02-19T22:34:00.000Z	alevine		every time i restart my system, fsck fails with: Failed to open the device 'UUID=01445405-7654-45a7-bc23-d767bbfc0147': No such file or directory....anyone know what i can do?
+2008-02-19T22:35:00.000Z	id10t	alevine	that is a reference to a partition
+2008-02-19T22:35:00.000Z	id10t	alevine	you should see it in /etc/fstab too, with a comment above it referencing the /dev/foo device entry
+2008-02-19T22:35:00.000Z	alevine	id10t	yep, and it is working (it mounts fine), it just fails fsck
+2008-02-19T22:36:00.000Z	id10t	alevine	it should give you a better error as to why it failed
+2008-02-19T22:36:00.000Z	alevine	id10t	any idea for what i can do/

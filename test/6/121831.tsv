@@ -1,0 +1,6 @@
+2006-10-01T14:41:00.000Z	maccam94	Squee	i have a cooky idea on how to do it, but do you actually have it working?
+2006-10-01T14:41:00.000Z	Squee	maccam94	kitche: if you install the driver on windows, then do an upgrade of the same os, it should theoretically work... it would be tough though
+2006-10-01T14:42:00.000Z	maccam94	Squee	you'd have to copy a working version of xp to the ext3 system, the setup cd wouldn't have use of the driver
+2006-10-01T14:43:00.000Z	Squee	maccam94	you could also set up your own windows cd with ext3 driver in it alraedy (sorry if some of this seems wrong i'm running on 2 hours of sleep in 3 days
+2006-10-01T14:43:00.000Z	maccam94	Squee	no you're making sense, but even if the setup cd has the driver idk if it'll let you install to it... an interesting idea no less
+2006-10-01T14:44:00.000Z	Squee	maccam94	I actually think you might be right, you'd have to find a way to make it load when the setupcd is loading

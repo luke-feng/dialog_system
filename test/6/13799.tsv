@@ -1,0 +1,6 @@
+2011-06-30T03:52:00.000Z	claw		i moved a module to /lib/modules/...
+2011-06-30T03:53:00.000Z	claw		but now when using insmod it is not been found
+2011-06-30T03:53:00.000Z	claw		do i have to update anything
+2011-06-30T03:53:00.000Z	claw		?
+2011-06-30T03:53:00.000Z	Tekk_	claw	yum is the package manager for fedora ;P
+2011-06-30T03:54:00.000Z	claw	Tekk_	i was not talking about yum

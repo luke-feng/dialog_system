@@ -1,0 +1,6 @@
+2005-06-18T15:38:00.000Z	MetalWolf		hiya...
+2005-06-18T15:38:00.000Z	MetalWolf		i might be doing something *really* stupid here so bear with me...
+2005-06-18T15:39:00.000Z	MetalWolf		I get this Failed to fetch http://us.archive.ubuntu.com/ubuntu/pool/universe/w/wmaker/libwraster3_0.91.0-2_i386.deb  MD5Sum mismatch when I try to apt-get install wmaker
+2005-06-18T15:39:00.000Z	MetalWolf		I did an apt-get update and I'm all up-to-date
+2005-06-18T15:39:00.000Z	MetalWolf		something I'm doing?
+2005-06-18T15:39:00.000Z	nalioth	MetalWolf	its a problem today with us. and ca. repos

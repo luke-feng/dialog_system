@@ -1,0 +1,6 @@
+2012-05-18T16:28:00.000Z	jsjgruber-x-p	ms-daisy	you use rsync on files and directories, not on whole hard drives or partitions. If you mount all of the partitions on the secondary hard drive you could rsync the root directory of each.
+2012-05-18T16:29:00.000Z	jsjgruber-x-p	ms-daisy	you would wind up with copies of the contents of the files, but not a copy of the image of the hard disk. You may be
+2012-05-18T16:31:00.000Z	jsjgruber-x-p	ms-daisy	able to rsync, say, sd2a, I suppose.
+2012-05-18T16:33:00.000Z	ms-daisy	jsjgruber-x-p	thanks. Yes, I'm trying to rsync the home folder to the mounted second drive.  I'm getting errors though, "broken pipe".
+2012-05-18T16:38:00.000Z	jsjgruber-x-p	ms-daisy	make sure you can read a file from the home directory and write a small file to where you are sending the files. Sounds like there is a problem with how you are specifying either the source or the destination.
+2012-05-18T16:41:00.000Z	ms-daisy	jsjgruber-x-p	yes I agree.  I have rsynced to the server, but I want to rsync directly to the secondary hard drive. the command I used is this: rsync -azv -e  /home/msdaisy msdaisy@192.168.1.22:/media/HDD

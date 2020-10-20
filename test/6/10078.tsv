@@ -1,0 +1,6 @@
+2011-04-27T21:22:00.000Z	pindropper		When i launch an application using the terminal, by typing say gedit ~/.bashrc, my terminal doesnt let me type anything further until the application (gedit in this case) is closed. if i force exit the hung prompt by ctrl+z, the launched application greys out and becomes unresponsive. is this normal? and if so, do i have to keep opening new terminals to do other things while having launched...
+2011-04-27T21:22:00.000Z	pindropper		...an app from another?
+2011-04-27T21:22:00.000Z	ActionParsnip	pindropper	add an ampersand to the command
+2011-04-27T21:22:00.000Z	ActionParsnip	pindropper	e.g.    gedit ~/.bashrc &           and it will background the process
+2011-04-27T21:23:00.000Z	pindropper	ActionParsnip	thanks!
+2011-05-04T11:00:00.000Z	pindropper	ActionParsnip	 no. thats not what i am trying to do. i know what you saying. but i think you misread my question

@@ -1,0 +1,6 @@
+2010-02-05T10:04:00.000Z	OneMillionDollar		how to set a static dns server ip ?
+2010-02-05T10:06:00.000Z	OneMillionDollar		Zykoticks , i change it to other dns server in resolv.conf but it old server ip still coming back
+2010-02-05T10:07:00.000Z	nanotube	OneMillionDollar	try https://help.ubuntu.com/community/StaticDnsWithDhcp
+2010-02-05T10:28:00.000Z	nanotube	OneMillionDollar	did you see the previous link i sent you?
+2010-02-05T10:28:00.000Z	OneMillionDollar	nanotube	no
+2010-02-05T10:29:00.000Z	nanotube	OneMillionDollar	here it is again: https://help.ubuntu.com/community/StaticDnsWithDhcp

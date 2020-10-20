@@ -1,0 +1,6 @@
+2006-10-18T13:34:00.000Z	mikeconcepts		Need help: folks, I've spent the better part of a day trying to figure out how to create a launcher on the desktop to simply run a script to run vncviewer 192.168.0.100
+2006-10-18T13:35:00.000Z	mikeconcepts		any links to a howto?
+2006-10-18T13:36:00.000Z	mikeconcepts		link to a good tutorial to launch script from a launcher?
+2006-10-18T13:36:00.000Z	meatballhat9000	mikeconcepts	not to detract from what you're doing, but have you tried gnomeRDP?
+2006-10-18T13:37:00.000Z	mikeconcepts	meatballhat9000	yes, and don't like it because I have a dual monitor on the XP machine, and only vnc seems to deal with that properly
+2006-10-18T13:38:00.000Z	meatballhat9000	mikeconcepts	gotcha - that'd be an issue ;-)

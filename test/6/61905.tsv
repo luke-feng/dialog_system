@@ -1,0 +1,6 @@
+2008-04-08T13:22:00.000Z	[[thufir]]		sudo aptitude update seems to stall at 99% [Connecting to ca.archive.ubuntu.com (129.97.134.71)]    as did trying to install curl.  some sort of repository problem?  my networking would seem to be ok.
+2008-04-08T13:23:00.000Z	Frogzoo	[[thufir]]	maybe a repos down atm - try later
+2008-04-08T13:23:00.000Z	[[thufir]]	Frogzoo	ok
+2008-04-09T14:07:00.000Z	Frogzoo	[[thufir]]	root:root
+2008-04-09T14:09:00.000Z	[[thufir]]	Frogzoo	thanks, I'll chown it
+2008-04-09T14:11:00.000Z	[[thufir]]	Frogzoo	I still get:  http://paste.ubuntu-nl.org/62615/  for a php application though.  seems to be a permissions problem.

@@ -1,0 +1,6 @@
+2009-09-13T16:05:00.000Z	domas		anyway, problem is, there're no good tools to show process memory, on multiprocess systems
+2009-09-13T16:05:00.000Z	domas		:(
+2009-09-13T16:05:00.000Z	twright	domas	there are loads, have you tried htop?
+2009-09-13T16:07:00.000Z	domas	twright	htop doesn't show that
+2009-09-13T16:07:00.000Z	domas	twright	make big process, fork() it - large memory use will be shown for both, when only one will have actually those pages allocated
+2009-09-13T16:07:00.000Z	twright	domas	ok, my bad

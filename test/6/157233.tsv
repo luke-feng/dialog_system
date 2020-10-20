@@ -1,0 +1,6 @@
+2007-01-21T10:29:00.000Z	blaze		Hey all, I am trying to customize my Ubuntu desktop, and I am having trouble installing new themes for my computer. Do I have to intall each component seperately? Ie Gtx? Also are there any good resources on cutomizing your desktop?
+2007-01-21T10:30:00.000Z	blaze		isint the menu editor?
+2007-01-21T10:31:00.000Z	blaze		okay then how do I install a theme?
+2007-01-21T10:32:00.000Z	blaze		GTK
+2007-01-21T10:32:00.000Z	wastrel	blaze	 system > preferences > theme > install theme   ?
+2007-01-21T10:33:00.000Z	wastrel	blaze	 ~/.themes

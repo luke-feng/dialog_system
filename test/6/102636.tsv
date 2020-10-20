@@ -1,0 +1,6 @@
+2007-01-14T07:58:00.000Z	Gizmo_the_Great1		Hi. My Mozilla Firefox keeps being automatically updated to a series of 1.5.X releases, but it never gets updated to version 2.0. WHy is that, what do I need to change in my settings for it to do that automatically, and how can I do it manually? 'sudo apt-get upgrade firefox'?
+2007-01-14T07:58:00.000Z	Jordan_U	Gizmo_the_Great1	You need to enable the !backports repository
+2007-01-14T07:59:00.000Z	Jordan_U		!hi
+2007-01-14T07:59:00.000Z	Gizmo_the_Great1	Jordan_U	thanks - via synatpic? by editing the repositories?
+2007-01-14T07:59:00.000Z	Jordan_U	Gizmo_the_Great1	Yes.
+2007-01-14T08:01:00.000Z	Gizmo_the_Great1	Jordan_U	thanks - but I cannot see Backports? All the options are ticked (I using Edgy) - how do I enable !backports?

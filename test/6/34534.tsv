@@ -1,0 +1,6 @@
+2009-07-17T20:33:00.000Z	moltenbobcat	gartral	do you get better performance out of swfdec?
+2009-07-17T20:33:00.000Z	gartral	moltenbobcat	I do, yes, and every system ive seen it running on is deffinatly better
+2009-07-17T20:34:00.000Z	moltenbobcat	gartral	so does it embed into the browser the same way to handle like youtube and other flash video sites?
+2009-07-17T20:34:00.000Z	gartral	moltenbobcat	yes, with the sole exception that adds a large "Play" button where the video will be after you press it
+2009-07-17T20:35:00.000Z	moltenbobcat	gartral	hmm, but it goes away while the video is playing... i'll have to try it on my netbook because flash plays like a dog on it
+2009-07-17T20:36:00.000Z	gartral	moltenbobcat	yes, it work fine after you hit the grey play button, the script runs and the videos play nicely... though, my system HATES youtube for some reason, no decoder seems too work for me

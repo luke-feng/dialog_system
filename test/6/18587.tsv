@@ -1,0 +1,6 @@
+2010-08-09T22:28:00.000Z	mnbv0987		i just installed ubuntu 10.04 and i want to make some modifications to the grub2 menu. if i edit/rename the files in /etc/grub.d, do i run the risk of breaking any automated update scripts or anything in the future?
+2010-08-09T22:28:00.000Z	mnbv0987		or can i just go to town on them?
+2010-08-09T22:28:00.000Z	aeon-ltd	mnbv0987	yes but thats why you use copies of the files
+2010-08-09T22:29:00.000Z	mnbv0987	aeon-ltd	so you recommend backup -> edit as i see fit -> restore backups if i get some update errors some day?
+2010-08-09T22:30:00.000Z	aeon-ltd	mnbv0987	yes, but put back ups on usb, so you can boot into a live environment and move then back
+2010-08-09T22:30:00.000Z	mnbv0987	aeon-ltd	ah good call; thanks.

@@ -1,0 +1,6 @@
+2009-09-08T20:44:00.000Z	bhaka		when i add a domain name into Ubuntu 9.04 /etc/hosts file - it does not work. I added it like this
+2009-09-08T20:44:00.000Z	bhaka		192.168.1.1 mydomain.com
+2009-09-08T20:44:00.000Z	bhaka		when i nslookup it, it still shows another ip address for mydomain.com
+2009-09-08T20:44:00.000Z	grawity	bhaka	that's because nslookup/dig/host skip /etc/hosts.
+2009-09-08T20:45:00.000Z	grawity	bhaka	These tools were created for testing DNS; and so they only use DNS. Use the getent command stew gave you.
+2009-09-08T20:46:00.000Z	bhaka	grawity	im already using host

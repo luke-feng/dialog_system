@@ -1,0 +1,6 @@
+2010-03-15T15:55:00.000Z	n8w		hey
+2010-03-15T15:55:00.000Z	n8w		guys do u also experience that the hibernation(suspend to disk) takes incredibly long time?
+2010-03-15T15:55:00.000Z	airtonix	n8w	no
+2010-03-15T15:57:00.000Z	airtonix	n8w	your swap needs to be at least 1.5 times the size of your real ram
+2010-03-15T15:58:00.000Z	n8w	airtonix	 ye i know, i did some research on that n opinions r different from person to person
+2010-03-15T15:59:00.000Z	n8w	airtonix	 i think that as long as my swap is at least the same size as my ram i should b ok

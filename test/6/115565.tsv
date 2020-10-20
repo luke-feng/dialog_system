@@ -1,0 +1,6 @@
+2006-06-19T07:52:00.000Z	tb77	Sjoerd-	try userdel
+2006-06-19T07:52:00.000Z	Sjoerd-	tb77	ah see there is another way.. Will that do all things HedgeMage suggested?
+2006-06-19T07:53:00.000Z	tb77	Sjoerd-	don't know what you want; userdel -r username will delete user and user's /home
+2006-06-19T07:57:00.000Z	Sjoerd-	tb77	the command gives out: unable to lock password file
+2006-06-19T07:57:00.000Z	tb77	Sjoerd-	as user or sudo?
+2006-06-19T07:58:00.000Z	Sjoerd-	tb77	*blush*

@@ -1,0 +1,6 @@
+2007-07-01T13:15:00.000Z	titun		please someone put some light on linux kernel scripting
+2007-07-01T13:15:00.000Z	titun		how do i become one such programmer?
+2007-07-01T13:16:00.000Z	magnetron	titun	never heard of it. sounds like something very internal to the operating system. you should ask your friend at intel, he will probably be able to answer those questions.
+2007-07-01T13:17:00.000Z	titun	magnetron	humm......
+2007-07-01T13:17:00.000Z	magnetron	titun	hum hum.
+2007-07-01T13:22:00.000Z	magnetron	titun	kernel programmin? first of all you will need to learn how to program (kernel programmers tend to use C language). Then you will have to look into the specifics of operating systems programming and specifically Linux.

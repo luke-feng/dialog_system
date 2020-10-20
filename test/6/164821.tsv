@@ -1,0 +1,6 @@
+2009-08-02T03:20:00.000Z	rssllcr		I have ubuntu 9.04 and when I am in terminal i am trying to install a video graphics driver sh NVIDIA-Linux-x86-185.18.31-pkg1.run when I try to install it it says permission denied so I would like to know when I am in the terminal what to I type to become the admin or it wont install I have trouble installing .bin files
+2009-08-02T03:21:00.000Z	Dr_Willis	rssllcr	 you did try the nvidia drivers in the repositoiries FIRST befor trying  the .bin installer version?
+2009-08-02T03:22:00.000Z	Dr_Willis	rssllcr	 check the  admin -> hardware drivers icon/tool.... it should auto-install those drivers for you
+2009-08-02T03:33:00.000Z	Dr_Willis	rssllcr	 you did reboot after installing the nvidia driver?
+2009-08-02T03:37:00.000Z	Dr_Willis	rssllcr	 i have via the vga cable.. but not hdmi/dvi (yet)
+2009-08-02T03:39:00.000Z	Dr_Willis	rssllcr	 if you are using nvidia cards. the nvidia-settings tool lets you set/clone/twinview/other settings.

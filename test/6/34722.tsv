@@ -1,0 +1,6 @@
+2009-07-02T13:30:00.000Z	u_dparte		lemme check
+2009-07-02T13:31:00.000Z	Slemming	u_dparte	Are you having any non-regular repos? Because apt-get update && apt-get install firefox-3.5 doesn't give me the latest
+2009-07-02T13:31:00.000Z	u_dparte	Slemming	yes I have some no standard repos
+2009-07-02T13:33:00.000Z	u_dparte	Slemming	indus : #deb http://ppa.launchpad.net/ubuntu-mozilla-daily/ppa/ubuntu jaunty main
+2009-07-02T13:34:00.000Z	Slemming	u_dparte	:) obviously
+2009-07-02T13:34:00.000Z	u_dparte	Slemming	indus : #deb-src http://ppa.launchpad.net/ubuntu-mozilla-daily/ppa/ubuntu jaunty main

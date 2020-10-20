@@ -1,0 +1,6 @@
+2007-06-29T15:30:00.000Z	Ben__		Right, this isn't related to ubuntu at all, but if I succeed it means I can install ubuntu and all will be well. I need to know how to turn 2 partitions into 1, in windows XP
+2007-06-29T15:31:00.000Z	preaction	Ben__	see wubi
+2007-06-29T15:31:00.000Z	Ben__	preaction	wubi?
+2007-06-29T15:33:00.000Z	Ben__	preaction	you're talking about the installer for ubuntu? Because if so, and that installer thingy allows me to totally reassign my partitioning then I'm set.
+2007-06-29T15:33:00.000Z	preaction	Ben__	it installs ubuntu to a file on the windows partition, and configures the windows bootloader to allow you to boot ubuntu as well, no partitioning required
+2007-06-29T15:36:00.000Z	Ben__	preaction	I know what you mean, I've used it before. But here's the deal - I've got 20gb of physical HDD, 16gb of which is windows partition and 4gb of which I want to encorporate into said windows partition. Will Wubi (as provided with the Feisty disk) allow me to do this?

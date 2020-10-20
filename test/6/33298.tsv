@@ -1,0 +1,6 @@
+2010-08-02T21:19:00.000Z	kpettit		Question:  Anybody tell me how to get my sound volume icon back?  Not sure what I did but it's gone and I can't see it in the avaiable applets
+2010-08-02T21:19:00.000Z	trism	kpettit	add the indicator applet back to your panel (in 10.04)
+2010-08-02T21:20:00.000Z	kpettit		ok thanks.  checking...
+2010-08-02T21:20:00.000Z	kpettit	trism	IdleOne I added it and I see the power off icon but no sound icon for volumn
+2010-08-02T21:21:00.000Z	trism	kpettit	power off is in indicator applet session, volume is just in indicator applet
+2010-08-02T21:21:00.000Z	trism	kpettit	their names are confusing

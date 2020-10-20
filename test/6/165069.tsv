@@ -1,0 +1,6 @@
+2010-10-03T22:11:00.000Z	babbleback		does anyone know if the error message the fsck is returning indicates a hard disk failure?
+2010-10-03T22:11:00.000Z	Dr_Willis	babbleback	 what error was that?
+2010-10-03T22:17:00.000Z	babbleback		 Does this mean my hard drive has crashed? : fsck /dev/sda1 gives me: fsck.ext3: Filesystem has unsupported features(s) while trying to open /dev/sda1 .. The superblock could not be read or does not...
+2010-10-03T22:19:00.000Z	babbleback	sacarlson	then how do i get the thing up and running again? ubuntu won't boot.. my other drives which have the data are fine.. using puppy linux to try and fix this.. can't mount /dev/sda
+2010-10-03T22:19:00.000Z	babbleback	sacarlson	then how do i get the thing up and running again? ubuntu won't boot.. my other drives which have the data are fine.. using puppy linux to try and fix this.. can't mount /dev/sda1 that is which is the drive with the ubuntu-server on it
+2010-10-03T22:20:00.000Z	Dr_Willis	babbleback	 you are trying to mount /dev/sda1 not /dev/sda ? and  depending on the puppy version it may not have ext4 support.

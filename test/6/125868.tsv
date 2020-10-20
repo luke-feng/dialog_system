@@ -1,0 +1,6 @@
+2007-03-30T09:08:00.000Z	bommel		hello
+2007-03-30T09:08:00.000Z	bommel		i have a question
+2007-03-30T09:09:00.000Z	bommel		can anyone explain to me how i can see how version of linux ubunto i have intall
+2007-03-30T09:09:00.000Z	bommel		sory my inglish
+2007-03-30T09:09:00.000Z	dyrne	bommel	cat /etc/*release is one way
+2007-03-30T09:11:00.000Z	dyrne	bommel	linux is very rewarding. hope you stick with it

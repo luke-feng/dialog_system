@@ -1,0 +1,6 @@
+2006-11-23T09:39:00.000Z	kalila		so I installed mysql-server
+2006-11-23T09:39:00.000Z	kalila		how to run the thing
+2006-11-23T09:39:00.000Z	kalila		is there no "services" interface for linux?
+2006-11-23T09:39:00.000Z	kalila		ubuntu
+2006-11-23T09:40:00.000Z	joejaxx	kalila	yes ther eis
+2006-11-23T09:40:00.000Z	joejaxx	kalila	System >> Admin >> Services

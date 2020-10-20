@@ -1,0 +1,6 @@
+2007-07-30T15:42:00.000Z	d4rkmonkey		Does anyone know if ophcrack is in the Ubuntu repositories? I downloaded the source but I can't seem to compile it
+2007-07-30T15:43:00.000Z	Guilty_as_Sin	d4rkmonkey	just burn an iso of ophcrack...
+2007-07-30T15:43:00.000Z	Guilty_as_Sin		or slack
+2007-07-30T15:44:00.000Z	d4rkmonkey	Guilty_as_Sin	I am burning an iso right now. One of my sisters friends forgot her password on a windows machine, god how I hate windows... I was just hoping I wouldn't have to boot and could just crack it from the SAM file and SYSTEM file I extracted
+2007-07-30T15:44:00.000Z	Guilty_as_Sin		is it a separate machine?
+2007-07-30T15:45:00.000Z	d4rkmonkey	Guilty_as_Sin	yeah its a seperate machine, I already got the SAM and SYSTEM files I need but I can't get ophcrack to compile right... I guess I'll just burn the CD

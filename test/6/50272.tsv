@@ -1,0 +1,6 @@
+2008-09-24T23:54:00.000Z	java-anu		hello,can anyone tell me how to uninstall java
+2008-09-24T23:55:00.000Z	isaac_	java-anu	Depends on what java you have.
+2008-09-24T23:56:00.000Z	isaac_	java-anu	Then use sudo apt-get uninstall sun-java6-jdk
+2008-09-24T23:58:00.000Z	java-anu	isaac_	it is showing invalid operation Uninstall
+2008-09-24T23:59:00.000Z	isaac_	java-anu	replace uninstall with remove.  My bad.
+2008-09-25T00:00:00.000Z	isaac_	java-anu	just open synaptic (System, Admin, Synaptic) and run a search for "java"

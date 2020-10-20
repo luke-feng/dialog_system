@@ -1,0 +1,6 @@
+2010-12-28T00:58:00.000Z	noreg		upgrading to 10.4 LTS (i386), has my system not booting :( help!
+2010-12-28T00:59:00.000Z	noreg		where can I get help for my computer?
+2010-12-28T01:00:00.000Z	goltoof	noreg	is it set to boot from the proper device?  ie, the ubuntu partition
+2010-12-28T01:00:00.000Z	noreg	goltoof	My guess is yes? I upgraded (not updated, upgraded), it worked fine before the upgrade.
+2010-12-28T01:01:00.000Z	goltoof	noreg	 guessing... doesn't work so well with Ubuntu :)
+2010-12-28T01:01:00.000Z	goltoof	noreg	 i'm off to lunch, but try getting into your bootloader, reboot and hold shift, choose the right device

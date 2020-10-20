@@ -1,0 +1,6 @@
+2005-03-02T12:58:00.000Z	helio7		I'm trying to get samba working via the instructions on the unofficial guide (http://ubuntuguide.org/#installsamba) but I'm not succeeding... what goes in the smbusers file?           your_system_username = "your network username" or do I replace both or one of those with my username/
+2005-03-02T12:59:00.000Z	JDahl	helio7	did you create a user with smbpasswd?
+2005-03-02T12:59:00.000Z	helio7	JDahl	I just used my regular username
+2005-03-02T13:01:00.000Z	JDahl	helio7	you need to add a samba user account with sudo smbpasswd -a, smbpasswd -e, I think. Then it should work without fiddling with /etc/samba/smb.conf
+2005-03-16T13:20:00.000Z	JDahl	helio7	cant you do "killall firefox"?
+2005-05-16T08:02:00.000Z	helio7	JDahl	you could edit that line into the launcher tab though with a semi-colon correct?

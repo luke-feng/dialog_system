@@ -1,0 +1,6 @@
+2006-10-31T08:17:00.000Z	hxizan		anyone know how to burn dvd image ?
+2006-10-31T08:18:00.000Z	brynk_	hxizan	right-click - burn to cd
+2006-10-31T08:18:00.000Z	hxizan		i tried with growisofs -dvd-compat -Z /dev/dvd=aaa.iso but it can't
+2006-10-31T08:18:00.000Z	brynk_		it's so easy...
+2006-10-31T08:19:00.000Z	hxizan	brynk_	Unhandled error, aborting... :(
+2006-10-31T08:20:00.000Z	brynk_	hxizan	well, there's prolly something wrong with your writer or the configuration/installation of it then

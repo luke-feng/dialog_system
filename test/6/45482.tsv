@@ -1,0 +1,6 @@
+2008-12-29T18:26:00.000Z	Lasivian		damn you people! you just ignore me long enough that I found the answer to my own question! slackers! </sarcasm>
+2008-12-29T18:28:00.000Z	Lasivian		is there an echo in heree?
+2008-12-29T18:29:00.000Z	Lasivian		is there a debug window or mode where I can see all the details of what i'm doing in X?
+2008-12-29T18:30:00.000Z	Lasivian		I want to know what the OS is "thinking" in the background
+2008-12-29T18:30:00.000Z	gmathews	Lasivian	type dmesg
+2008-12-29T21:34:00.000Z	gmathews	Lasivian	good luck :P

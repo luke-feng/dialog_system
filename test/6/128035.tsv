@@ -1,0 +1,6 @@
+2006-01-04T16:53:00.000Z	ossie		hi cafuego , im trying to compile kernel, and i have run the make oldconfig command and made a mistake, now it dont prompt me for any input when i run it, how can i delete it and start again
+2006-01-04T16:54:00.000Z	robotgeek	ossie	make distclean
+2006-01-04T16:56:00.000Z	ossie	robotgeek	do u know what the m/n/ stand for when compile a kernel, for instance, BLK_DEV [n/m/?]  i choose M thinking that is yes????
+2006-01-04T16:56:00.000Z	robotgeek	ossie	not include/or compile as module/help
+2006-01-04T16:57:00.000Z	robotgeek	ossie	yes, module should be fine
+2006-01-04T16:59:00.000Z	robotgeek	ossie	hmm, i am not sure. i don't reinstall at all. yes, a separate /home is a neat idea

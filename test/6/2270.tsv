@@ -1,0 +1,6 @@
+2012-05-09T22:38:00.000Z	spyvsspy		hi, i just installed libapache2-mod-php5 on ubuntu 11.10
+2012-05-09T22:38:00.000Z	spyvsspy		and php isnt working, I dont have a .conf or .load in mods-avaliable/enabled
+2012-05-09T22:38:00.000Z	spyvsspy		is there a shortcut to get them in there?
+2012-05-09T22:38:00.000Z	apan_	spyvsspy	create them yourself
+2012-05-09T22:38:00.000Z	spyvsspy		or do i need to track them down somewhere and create them
+2012-05-09T22:38:00.000Z	spyvsspy	apan_	is there an example of what they should look like somewhere?

@@ -1,0 +1,6 @@
+2012-03-02T22:13:00.000Z	oliphant_		sorry
+2012-03-02T22:13:00.000Z	Zal	oliphant_	Strange, looks terminated to me, unless you can't use = for some reason as a delimiter.
+2012-03-02T22:15:00.000Z	Zal	oliphant_	I'd guess that $WD contains an = sign
+2012-03-02T22:16:00.000Z	oliphant_	Zal	yes it does '$WD='
+2012-03-02T22:16:00.000Z	Zal		actually, oliphant_ is using single quotes, so bash won't touch $WD
+2012-03-02T22:16:00.000Z	Zal	oliphant_	well, try a different delimiter, like @ for example

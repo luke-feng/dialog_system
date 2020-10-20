@@ -1,0 +1,6 @@
+2009-08-02T01:20:00.000Z	zigibagido		I have vsftpd installed on Ubuntu desktop 9.04 and it works. I have 7 users and they are locked in their own home folder but i want a public folder. I made public folder they could all access but if one user creates a file or directory another user cant open it. I want to change the permissions of the files in public folder to let all users do what they want.
+2009-08-02T01:22:00.000Z	zigibagido		can someone help me
+2009-08-02T01:23:00.000Z	zigibagido		can someone help me?
+2009-08-02T01:23:00.000Z	edbian	zigibagido	Are in that shared directory?
+2009-08-02T01:23:00.000Z	edbian	zigibagido	What are the permissions on that directory?
+2009-08-02T01:24:00.000Z	edbian	zigibagido	Do what oskar said :)

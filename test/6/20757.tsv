@@ -1,0 +1,6 @@
+2012-09-30T15:40:00.000Z	MrM		Any HW gurus around? I'm trying to make sense of my "sensors" (lm_sensors) config... what is "nouveau-pci-0300" PCI adapter... what does it refer to?
+2012-09-30T15:41:00.000Z	TJ-	MrM	that's the GPU sensors exposed by the nouveau driver
+2012-09-30T15:41:00.000Z	MrM	TJ-	So the sensors-output is the temperature of the GPU? ... wow...
+2012-09-30T15:42:00.000Z	TJ-	MrM	Most likely, yes... or fan speed
+2012-09-30T15:42:00.000Z	MrM	TJ-	It's a server with a ION chip embedded
+2012-09-30T15:43:00.000Z	MrM	TJ-	Strange thing though... "lm_sensors" is reporting that high is +100 and crit is +95... shouldn't crit be above "high" ?

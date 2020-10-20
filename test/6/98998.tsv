@@ -1,0 +1,6 @@
+2009-07-26T02:04:00.000Z	Ali_nz		hey is there any other way to see what disks are connected other than fdisk -l? The browser in nautilus shows another drive, but it aint in fdisk -l
+2009-07-26T02:05:00.000Z	Ali_nz		nah it doesnt
+2009-07-26T02:05:00.000Z	Ali_nz		I know the disk has got some errors
+2009-07-26T02:05:00.000Z	Ali_nz		but I was still hoping it would show up
+2009-07-26T02:07:00.000Z	Ali_nz		i just seem to recall there was another way to see devices?
+2009-07-26T02:09:00.000Z	Halitech	Ali_nz	you could try partition editor, it might pick it up if the table has been screwed up

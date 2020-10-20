@@ -1,0 +1,6 @@
+2005-12-15T15:24:00.000Z	gnask		Ok, im very new to Ubuntu. Quick question quick answer plz :) how do i become root so i can change who gets permissions to my hdds?
+2005-12-15T15:24:00.000Z	gnask		sudo "appname" ?
+2005-12-15T15:24:00.000Z	gnask		k
+2005-12-15T15:24:00.000Z	gnask		!sudo
+2005-12-15T15:24:00.000Z	gnask		got it.
+2005-12-15T15:24:00.000Z	Madpilot	gnask	just sudo, no !

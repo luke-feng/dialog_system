@@ -1,0 +1,6 @@
+2012-03-29T01:03:00.000Z	rtdos		what's the gnome command to add/remove users and change a users (advanced) permissions?
+2012-03-29T01:04:00.000Z	CFHowlett	rtdos	  system>administration>users and groups
+2012-03-29T01:08:00.000Z	rtdos	CFHowlett	i'm not seeing it, anyway i can run it from the command line?
+2012-03-29T01:08:00.000Z	CFHowlett	rtdos	  sudo adduser IIRC
+2012-03-29T01:09:00.000Z	CFHowlett	rtdos	  *wrong* sudo useradd <foo>
+2012-03-29T01:10:00.000Z	CFHowlett	rtdos	  see http://www.howtogeek.com/howto/ubuntu/add-a-user-on-ubuntu-server/

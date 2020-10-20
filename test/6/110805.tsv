@@ -1,0 +1,6 @@
+2006-10-04T08:23:00.000Z	adam		Help I can't install a package! log file details here: http://paste.ubuntu-nl.org/25624/
+2006-10-04T08:24:00.000Z	adam		to get MTP working w/ my mp3 player
+2006-10-04T08:26:00.000Z	adam		??? like a more recent version is installed?
+2006-10-04T08:27:00.000Z	micahcowan	adam	it looks like it's probably safe for you to force overwriting. Try running the dpkg again with --force-conflicts?
+2006-10-04T08:29:00.000Z	adam	micahcowan	did u try that right? cause when I try to put "sudo checkinstall --force-conflicts" (without quotes) in the terminal it says it's an unrecognized option
+2006-10-04T08:31:00.000Z	micahcowan	adam	yes: the option I gave you was for dpkg. Hm... I wouldn't recommend overwriting something installed by a .deb with something from checkinstall... I think you probably don't want to install from source. You may be wanting to install libnjb-dev (note the -dev) instead.

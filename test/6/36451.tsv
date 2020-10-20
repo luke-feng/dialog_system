@@ -1,0 +1,6 @@
+2009-07-15T05:55:00.000Z	thomson		what is the partition editor that is used in the ubuntu install?
+2009-07-15T05:56:00.000Z	Socah	thomson	fdisk?
+2009-07-15T05:56:00.000Z	Socah	thomson	but you should use gparted
+2009-07-15T05:56:00.000Z	thomson	Socah	ok
+2009-07-15T05:58:00.000Z	thomson	Socah	so download and put gparted onto a usb thumb drive?
+2009-07-15T05:59:00.000Z	Socah	thomson	as far as I know, there is even gparted livecd, or liveusb - check google

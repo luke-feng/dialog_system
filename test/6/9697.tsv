@@ -1,0 +1,6 @@
+2012-07-26T00:54:00.000Z	Shinobi		how do i install gnome 3 in 12.04. I installed gnome-shell ,but it doesn't load despite the many webpages that say it does.
+2012-07-26T00:54:00.000Z	B0g4r7	Shinobi	you have to logout, and select gnome3 at the login screen from the popup menu.
+2012-07-26T00:55:00.000Z	Shinobi	B0g4r7	I did, but I get an error that says "Failed to load Gnome"
+2012-07-26T00:56:00.000Z	B0g4r7	Shinobi	hmm, yea I dunno, it just worked for me.
+2012-07-26T00:57:00.000Z	Shinobi	B0g4r7	What ppa did you get it from?
+2012-07-26T00:57:00.000Z	B0g4r7	Shinobi	none special that I know of.  Whatever's configured out of the box on a new install.

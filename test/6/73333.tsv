@@ -1,0 +1,6 @@
+2007-12-09T05:54:00.000Z	reallyjoel		Shoudln't new HDD's be listed in /media automatically?
+2007-12-09T05:54:00.000Z	soldats	reallyjoel	they need to be mounted in order to see them in /media
+2007-12-09T05:56:00.000Z	reallyjoel	soldats	how do i mount?
+2007-12-09T05:56:00.000Z	soldats	reallyjoel	right click on drive and choose mount
+2007-12-09T05:56:00.000Z	reallyjoel		drive..? it's the drive I dont have..
+2007-12-09T05:57:00.000Z	soldats	reallyjoel	if you want them to auto mount everytime you need to add them to /etc/fstab

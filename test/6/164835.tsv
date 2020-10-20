@@ -1,0 +1,6 @@
+2010-11-05T05:32:00.000Z	drmp420		is it normal for my laptop to run hotter with ubuntu 10.10  as opposed to win 7?
+2010-11-05T05:33:00.000Z	Dr_Willis	drmp420	 you could try installing the 'powertop' stuff - that may give you some tweaks to  reduce its power and heat.
+2010-11-05T05:33:00.000Z	Dr_Willis	drmp420	 its possible that win7 has some better drivers/optmized things to let it throttle down the cpu better on win7.
+2010-11-05T05:45:00.000Z	Dr_Willis	drmp420	 powertop can give a lot of hints and info. overwhelming in some cases.
+2010-11-05T05:46:00.000Z	Dr_Willis	drmp420	 you mean 'sudo powertop' (or whatever it is)
+2010-11-05T05:46:00.000Z	Dr_Willis	drmp420	 makes sence.

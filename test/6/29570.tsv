@@ -1,0 +1,6 @@
+2009-11-20T23:34:00.000Z	nether		I've been searching for a way to(through the terminal) install and use software to crack wep keys and possibly wpa if possible. everything i've tried came with an error, does anyone have any experience that can walk me through it step by step?
+2009-11-20T23:35:00.000Z	PacketCollision	nether	you need a supported wifi card, and the use kismet and aircrack-ng.  Compiling both from source is a good idea, as the ubuntu repos are hopelessly out of date
+2009-11-20T23:36:00.000Z	PacketCollision	nether	what card do you have?
+2009-11-20T23:39:00.000Z	PacketCollision	nether	try lspci |grep Wireless
+2009-11-20T23:42:00.000Z	PacketCollision	nether	that card should work afaik
+2009-11-20T23:55:00.000Z	PacketCollision	nether	I recommend installing aircrack-ng from source

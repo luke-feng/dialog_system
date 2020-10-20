@@ -1,0 +1,6 @@
+2009-12-13T21:22:00.000Z	tonybaloney867		Hi, I'm having a bit of trouble making a USB boot drive for Netbook Remix.
+2009-12-13T21:23:00.000Z	tonybaloney867		I'm trying to create it on a Mac using the commands listed at https://help.ubuntu.com/community/Installation/FromImgFiles
+2009-12-13T21:23:00.000Z	tonybaloney867		however the download is a .iso file and the drive won't boot when plugged into an eeepc 701
+2009-12-13T21:25:00.000Z	doom2quake	tonybaloney867	i had similar issues with my 701, try changing the USB drive
+2009-12-13T21:26:00.000Z	doom2quake	tonybaloney867	also did you use unetbootin utility to write the ISO to the USB ?
+2009-12-13T21:27:00.000Z	tonybaloney867	doom2quake	unetbootin is available for the Mac? let's see if I can use it

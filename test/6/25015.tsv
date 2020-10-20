@@ -1,0 +1,6 @@
+2010-01-25T18:20:00.000Z	Audible		apart from custom updating to 2.6.32 kernel, are there any way I can get KSM enabled in Karmic ?
+2010-01-25T18:21:00.000Z	Audible		lucid leopard
+2010-01-25T18:21:00.000Z	Audible		would be a poke at apple
+2010-01-25T18:23:00.000Z	Audible		anyway, could anyone explain me how to get KSM enabled in 9.10 ?
+2010-01-25T18:23:00.000Z	AndreMorro[BR]	Audible	KSM?
+2010-01-25T18:25:00.000Z	AndreMorro[BR]	Audible	KSM is a 2.6.32 feature

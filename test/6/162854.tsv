@@ -1,0 +1,6 @@
+2004-10-24T16:18:00.000Z	swim		hi trying to compile an app and am getting: configure: error: no acceptable C compiler found in $PATH  but I have gcc installed, and g++ (according to synaptic)
+2004-10-24T16:20:00.000Z	khronic	swim	i ran into that the other day..gcc-VersionNumber was available, but the ./configure script was looking for 'gcc'..so symlinking gcc to the version solved that problem
+2004-10-24T16:20:00.000Z	swim	khronic	ok great thank you
+2004-10-24T16:21:00.000Z	swim	khronic	where is gcc-version located? in /usr/bin ?
+2004-10-24T16:24:00.000Z	khronic	swim	that particular command would require root privs, so yes.
+2004-10-24T16:41:00.000Z	swim	khronic	did you happen to get this error as well? configure: error: unable to find the GTK+ library

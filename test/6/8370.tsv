@@ -1,0 +1,6 @@
+2011-09-09T05:41:00.000Z	MissingPerson		I'm having trouble with my install of mint, stuck in live CD, trying to backup the files on my home partition to my portable HD, because whenever i start my mint install, my home folder is inaccessible, and a lot of config files don't work from my fedora install
+2011-09-09T05:41:00.000Z	MissingPerson		but whenever i try to, it says permission denied, and trying to set it to open the partition as administrator tells me "cannot do it because we don't know what program to use"
+2011-09-09T05:41:00.000Z	MissingPerson		can anyone help?
+2011-09-09T05:43:00.000Z	zykotick9	MissingPerson	mint isn't supported in ubuntu
+2011-09-09T05:43:00.000Z	MissingPerson	zykotick9	and linuxmint-help doesn't answer any questions
+2011-09-09T05:44:00.000Z	zykotick9	MissingPerson	so pick a distribution that can answer your questions!

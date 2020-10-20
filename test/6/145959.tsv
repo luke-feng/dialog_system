@@ -1,0 +1,6 @@
+2005-09-19T12:37:00.000Z	iratsu_		shouldn't I be able to get more than a 640x480 resolution with the collowing video card?: Intel Corp. 82845G/GL[Brookdale-G] /GE Chipset Integrated Graphics Device
+2005-09-19T12:38:00.000Z	iratsu_		i'm running ubuntu from livecd right now and all i can get is 640x480;
+2005-09-19T12:39:00.000Z	apokryphos	iratsu_	check the link ubotu gave you
+2005-09-19T12:48:00.000Z	apokryphos	iratsu_	if you went for the "advanced" option there in the x reconfiguration, it's probably better sticking with the medium (which you'd no doubt know)
+2005-09-19T12:49:00.000Z	iratsu_	apokryphos	ok i found the rates, should i still use the medium option?
+2005-09-19T12:49:00.000Z	apokryphos	iratsu_	probably better in most cases.

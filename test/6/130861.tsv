@@ -1,0 +1,6 @@
+2005-11-17T17:12:00.000Z	dnB		eek! can anyone tell me what to do at this point? im using netboot to install 5.10.. however it says that it cant resolve mirror us.archive.ubuntu.. i went to the option to enter the mirror manually, and im not familar with whatever text editor this is
+2005-11-17T17:12:00.000Z	dnB		it a white background with a bunch of "~"'s on the left
+2005-11-17T17:12:00.000Z	Spurty	dnB	then 'i' for insert mode
+2005-11-17T17:13:00.000Z	dnB		it says it is in Ex mode, and to type visual for normal mode
+2005-11-17T17:13:00.000Z	dnB		?
+2005-11-17T17:13:00.000Z	dnB	Spurty	id like to exit without saving changes i think lol

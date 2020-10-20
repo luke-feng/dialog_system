@@ -1,0 +1,6 @@
+2007-07-29T08:53:00.000Z	geartrooper		how do I execute jar files within ubunut
+2007-07-29T08:53:00.000Z	geartrooper		thanks
+2007-07-29T08:54:00.000Z	geartrooper		it isn't working
+2007-07-29T08:55:00.000Z	geartrooper		I see directions and parameters in using java
+2007-07-29T08:57:00.000Z	geartrooper		ok, thanks Davy_Jones
+2007-07-29T08:57:00.000Z	bulmer	geartrooper	java -jar fileof.jar

@@ -1,0 +1,6 @@
+2010-01-01T08:38:00.000Z	benjgvps		Well the links provided by the bot are useless like always, I could care less about free formats. Is there just a package with the audio codecs?
+2010-01-01T08:39:00.000Z	trism	benjgvps	ubuntu-restricted-extras has a bunch of codecs (as well as other things), or you could just install the gstreamer bad, ugly, etc packages
+2010-01-01T08:39:00.000Z	benjgvps	trism	The gstreamer one seems fine. Any links for a list of them?
+2010-01-01T08:41:00.000Z	trism	benjgvps	they are all of the form gstreamer0.10-plugins- (bad, ugly, bad-multverse, ugly-multiverse...that's pretty much it)
+2010-01-01T08:41:00.000Z	benjgvps	trism	Thanks! I'll look into it
+2010-01-01T08:42:00.000Z	trism	benjgvps	the ubuntu-restricted-extras has a few more too, if you don't want everything else, you can just do an apt-cache depends ubuntu-restricted-extras and just install the codecs there (no flash or fonts etc)

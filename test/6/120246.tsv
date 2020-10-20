@@ -1,0 +1,6 @@
+2006-06-30T07:37:00.000Z	moshe		hello
+2006-06-30T07:38:00.000Z	moshe		my machine gives me no sound
+2006-06-30T07:38:00.000Z	moshe		I'm a member of group "audio", and /dev/dsp has permissions of 660.
+2006-06-30T07:38:00.000Z	moshe		anyone know why I can't access the audio device?
+2006-06-30T07:38:00.000Z	Warbo	moshe	Don't use /dev/dsp, use ALSA
+2006-06-30T07:39:00.000Z	Warbo	moshe	/dev/dsp was used by the Open Sound System. ALSA uses several audio devices (so many programs can use sound at once)

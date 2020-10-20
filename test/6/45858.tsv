@@ -1,0 +1,6 @@
+2008-12-12T00:49:00.000Z	keishia		hey guys, how do I find out what kind of RAM I've got?
+2008-12-12T00:50:00.000Z	gnutron	keishia	sudo dmidecode
+2008-12-12T00:51:00.000Z	keishia	gnutron	cheers
+2008-12-12T00:54:00.000Z	keishia	gnutron	it says SODIMM, DIMM2, DDR2, 533 MHZ, so what do I need to look for to buy RAM?
+2008-12-12T00:55:00.000Z	gnutron	keishia	find the motherboard model number and check the specs
+2008-12-12T00:56:00.000Z	keishia	gnutron	sorry which one in the list is the motherboard?

@@ -1,0 +1,6 @@
+2009-02-27T10:35:00.000Z	LogicFan		how do i restore the default ubuntu loading/splash screen?  i recently installed kubuntu-desktop and it replaced it
+2009-02-27T10:36:00.000Z	usser	LogicFan	its in the repos sudo apt-get install startupmanager
+2009-02-27T10:36:00.000Z	LogicFan	usser	thanks!
+2009-02-27T10:36:00.000Z	usser	LogicFan	use startupmanager
+2009-02-27T10:37:00.000Z	LogicFan	usser	is there no default app for configuring startup images?
+2009-02-27T10:38:00.000Z	usser	LogicFan	nope

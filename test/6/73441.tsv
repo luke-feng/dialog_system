@@ -1,0 +1,6 @@
+2008-01-10T20:38:00.000Z	Arelis		Hi all. I've tried Windows as main OS, but... really, i prefer Ubuntu more. Problem is, i've had it breaking on me several times already. I want to dual-boot Windows with Ubuntu, and want Ubuntu to have a /home partition, for easy backup and reinstalling. How do i do all this?
+2008-01-10T20:39:00.000Z	lizar1	Arelis	easiest way is to install win first then setup ubuntu and install grub
+2008-01-10T20:40:00.000Z	lizar1		should be there
+2008-01-10T20:40:00.000Z	lizar1		anyone experienced sound randomly not working in ubuntu
+2008-01-10T20:40:00.000Z	Arelis	lizar1	How do i install Ubuntu in the safest way? I have Windows on my PC right now, and really DON'T want to lose it. Also, which version (Gutsy, Dapper, Ubuntu, Xubuntu, Kubuntu) should I pick?
+2008-01-10T20:41:00.000Z	lizar1	Arelis	install it on a different partition

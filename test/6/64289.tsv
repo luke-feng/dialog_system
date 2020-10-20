@@ -1,0 +1,6 @@
+2008-02-08T09:11:00.000Z	Hinata`		is there any way to prevent that message: [ 3004.663637] hub 1-0:1.0: over-current change on port 2 to show and annoy me in ctrl+alt+f1 mode?
+2008-02-08T09:12:00.000Z	Starnestommy	Hinata`	try bdoing ctrl+alt+f2 instead
+2008-02-08T09:12:00.000Z	Hinata`	Starnestommy	it does that everywhere I got in ctrl+alt+f1-6
+2008-02-08T09:14:00.000Z	Starnestommy	Hinata`	I think it looks like a problem with a usb hub
+2008-02-08T09:16:00.000Z	Hinata`	Starnestommy	yeah I know and I can't really correct it
+2008-02-08T09:16:00.000Z	Hinata`	Starnestommy	I only want to block it from showing

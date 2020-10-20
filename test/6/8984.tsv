@@ -1,0 +1,6 @@
+2012-03-15T04:54:00.000Z	Jeremy3D		is there a way to change the ALT button to something else (like windows button)? i use a program which uses ALT a lot and ubuntu is always stopping me from using it
+2012-03-15T04:55:00.000Z	soreau	Jeremy3D	Check the keybindings in ccsm>Advanced Search after clicking on the Keyboard icon in the Filter box, if you're using unity or compiz
+2012-03-15T04:59:00.000Z	Jeremy3D	soreau	i dont see anything in key bindings
+2012-03-15T05:00:00.000Z	soreau	Jeremy3D	You go to ccsm>Advanced Search and click on the little keyboard icon in the filter box there
+2012-03-15T05:00:00.000Z	Jeremy3D		ok i found keybindings in the General settings
+2012-03-15T05:00:00.000Z	soreau	Jeremy3D	Then hit the keybinding and it will tell you if it's bound to a plugin

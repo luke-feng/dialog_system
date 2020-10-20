@@ -1,0 +1,6 @@
+2010-01-06T02:23:00.000Z	shadowimmage		Hello, I was wondering if anyone knows about installing WindowsXP on a separate partition (after ubuntu is already the primary (and only) installed OS) and then being able to run it with something like VirtualBox?
+2010-01-06T02:25:00.000Z	BluesKaj	shadowimmage	virtualbox doesn't reuire a separate partition , windows installs inside VB
+2010-01-06T02:31:00.000Z	BluesKaj	shadowimmage	using VB is redundant if you intend to install XP on another HDD
+2010-01-06T02:33:00.000Z	shadowimmage	BluesKaj	it is? It seems to me that being able to access another OS from my Ubuntu host would be an advantage (no rebooting just to do one little thing)
+2010-01-06T02:35:00.000Z	BluesKaj	shadowimmage	you can access windows from inside ubuntu , using  the ntfs volume in nautilus
+2010-01-06T02:37:00.000Z	shadowimmage	BluesKaj	if what i wanted was to access files I wouldn't bother with ntfs systems. My problem is that I'm in a class that requires me to use windows-only CAD software... and i do not want to ditch ubuntu for a quarter just because I have to use SolidWorks

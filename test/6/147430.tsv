@@ -1,0 +1,6 @@
+2005-11-20T16:44:00.000Z	Logi		good evening... I'm running kubuntu and trying to get the amarok mp3 player to play MP3s. I've install gstreamer0.8-plugins (and eventually) restarted X/KDE, but to no avail. Amarok still says streamer claims not to be able to play MP3s and then proceeds to not play MP3s. What do I do?
+2005-11-20T16:44:00.000Z	NoUse	Logi	you need to enable the universe repo
+2005-11-20T16:44:00.000Z	NoUse		!tell Logi about repos
+2005-11-20T16:44:00.000Z	NoUse	Logi	use the sources.list ubotu sent you
+2005-11-20T16:44:00.000Z	Logi	NoUse	I did that, but the gstreamer0.8-plugins was there before universe?
+2005-11-20T16:45:00.000Z	NoUse	Logi	I think you need gstream-mad

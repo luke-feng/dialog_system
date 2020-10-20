@@ -1,0 +1,6 @@
+2007-10-27T11:04:00.000Z	Kousotu		Gutsy can WRITE to NTFS right>
+2007-10-27T11:04:00.000Z	scguy318	Kousotu	yep
+2007-10-27T11:05:00.000Z	scguy318	Kousotu	the ext3 driver for Windows can do r/w too I think
+2007-10-27T11:05:00.000Z	Kousotu	scguy318	not last I tried
+2007-10-27T11:05:00.000Z	scguy318	Kousotu	you have to cleanly dismount the ext3 mount tho
+2007-10-27T11:05:00.000Z	scguy318	Kousotu	*partition

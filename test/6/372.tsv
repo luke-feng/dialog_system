@@ -1,0 +1,6 @@
+2012-11-05T19:35:00.000Z	net_runner007		wubi is the windows ubuntu installer
+2012-11-05T19:37:00.000Z	chipotle	net_runner007	i have wubi up but it doesn't say anything about partitions
+2012-11-05T19:38:00.000Z	chipotle	net_runner007	this is the 12.04 installer...
+2012-11-05T19:41:00.000Z	net_runner007	chipotle	i don't know what to tell you. except that i highly recomend backing up all your important files like on an external harddrive before attempting any kind of harddrive partitioning
+2012-11-05T19:41:00.000Z	chipotle	net_runner007	i'm asking if i can partition because i don't see any option to do that...
+2012-11-05T19:42:00.000Z	net_runner007	chipotle	generally you have to partition your harddrive first then when you run wubi it will give you the option where to install

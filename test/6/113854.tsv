@@ -1,0 +1,6 @@
+2011-06-10T17:44:00.000Z	Triffid_Hunter		ah, apparently have to update everything.. what's the current favourite cli package manager frontend called? last time I used apt, dselect was the go
+2011-06-10T17:45:00.000Z	jrib	Triffid_Hunter	apt-get
+2011-06-10T17:45:00.000Z	Triffid_Hunter	jrib	that's all well and good if I know what the packages are called, what's good for browsing?
+2011-06-10T17:46:00.000Z	jrib		!apt | Triffid_Hunter
+2011-06-10T17:46:00.000Z	jrib		apt-get is a front-end
+2011-06-10T17:47:00.000Z	jrib	Triffid_Hunter	you can use apt-cache to search.  If you want some sort of curses interface, there's aptitude

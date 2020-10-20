@@ -1,0 +1,6 @@
+2009-10-29T02:11:00.000Z	babbio		the "graphics problems autorepair" doesn't work
+2009-10-29T02:12:00.000Z	babbio		which options should i add in the /boot/grub/menu.lst
+2009-10-29T02:12:00.000Z	babbio		the graphic card is an "intel GMA 900"
+2009-10-29T02:14:00.000Z	babbio		fururo: ok but there must be a solution
+2009-10-29T02:16:00.000Z	babbio		which is the vga option code to add in order to boot whit a resolution of 1024x768???
+2009-10-29T02:17:00.000Z	koshari1	babbio	you mean a modeline?

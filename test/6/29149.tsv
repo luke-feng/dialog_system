@@ -1,0 +1,6 @@
+2009-12-12T03:21:00.000Z	SOULTE		hi
+2009-12-12T03:21:00.000Z	SOULTE		does (hd0,9) means sda10?
+2009-12-12T03:22:00.000Z	SOULTE		does grub2 see other distros grub's menu.lst for adding them to its grub.cfg?
+2009-12-12T03:23:00.000Z	SOULTE		does grub2 see other distros grub's menu.lst for adding them to its grub.cfg?
+2009-12-12T03:24:00.000Z	zoug	SOULTE	i guess yes
+2009-12-12T03:25:00.000Z	zoug	SOULTE	detects windows bootl why not other menu.lst?

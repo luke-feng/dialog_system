@@ -1,0 +1,6 @@
+2006-04-03T08:47:00.000Z	MrCollins		I installed Ubuntu (Breezy) and I can not get root.. I cant do apt-get, I cant sudo or su or anything...
+2006-04-03T08:47:00.000Z	MrCollins		can someone help me
+2006-04-03T08:48:00.000Z	MrCollins		no...
+2006-04-03T08:48:00.000Z	MrCollins		yes
+2006-04-03T08:48:00.000Z	MrCollins		I installed base system... I typed server at install
+2006-04-03T08:48:00.000Z	Frogzoo	MrCollins	if you can't run sudo, you'll need to boot to recovery mode & fix the problem

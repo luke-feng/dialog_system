@@ -1,0 +1,6 @@
+2011-08-15T03:39:00.000Z	maestrojed		ok, n00b question. I followed the instructions to make a USB Drive to use to install Ubuntu on a box. When I boot the box to the USB drive it runs Ubuntu off of the USB drive. How do I install to the HD?
+2011-08-15T03:40:00.000Z	tabakhase	maestrojed	no "install ubuntu" shortcut on desktop?
+2011-08-15T03:41:00.000Z	maestrojed	tabakhase	No "install Ubuntu" on the desktop.
+2011-08-15T03:41:00.000Z	tabakhase	maestrojed	what image did u used for creating your stick?
+2011-08-15T03:42:00.000Z	maestrojed	tabakhase	ubuntu-11.04-desktop-amd64.iso
+2011-08-15T03:43:00.000Z	tabakhase	maestrojed	did you booted using the stick? dosnt sound like youre in the livecd right now...

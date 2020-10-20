@@ -1,0 +1,6 @@
+2009-02-12T06:02:00.000Z	daleharvey		can anyone please give me a hand, my hard drive has seemingly dissapeared from my laptop and theres a bunch of stuff I could really ddo with not losing
+2009-02-12T06:03:00.000Z	daleharvey		it has been working perfectly up till tonight when it booted into initramfs
+2009-02-12T06:04:00.000Z	YankDownUnder	daleharvey	I'll assume you've booted with the LiveCD and checked that the disk was still there and visible?
+2009-02-12T06:06:00.000Z	daleharvey	YankDownUnder	I dont have a live cd handy, ive been trying to search from the shell, the drive by-uuid is trying to boot seems there
+2009-02-12T06:06:00.000Z	daleharvey		but currently downloading a livecd
+2009-02-12T06:07:00.000Z	YankDownUnder	daleharvey	I'll assume you've tried like "fdisk -l /dev/sda" and you actually see the drive and the partitions, yah?

@@ -1,0 +1,6 @@
+2006-10-17T14:54:00.000Z	BeepAU		i'm trying to look at a website. it tells me i need macromedia flash 8 plugin, but i thought i already had that installed. could someone help me?
+2006-10-17T14:54:00.000Z	wijnand	BeepAU	are you sure you don't have flash player 7?
+2006-10-17T14:55:00.000Z	BeepAU	wijnand	well they aint windows files
+2006-10-17T14:55:00.000Z	wijnand		as far as i know there is no flash player 8 for linux at the moment
+2006-10-17T14:56:00.000Z	BeepAU	wijnand	i've got flashplugin-nonfree installed and basically every thing else in apt-get with macromedia in the title
+2006-10-17T14:56:00.000Z	BeepAU	wijnand	does this mean i can't look at the website in linux? that's all there is to it?

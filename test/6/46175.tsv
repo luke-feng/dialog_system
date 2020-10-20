@@ -1,0 +1,6 @@
+2011-10-26T02:33:00.000Z	blackbuntu		how can i tell find to ignore upper or lower cases
+2011-10-26T02:34:00.000Z	blackbuntu		say i want to find *.txt  how can i also find *.TXT  or tXt etc
+2011-10-26T02:34:00.000Z	blackbuntu		gnome terminal
+2011-10-26T02:34:00.000Z	blackbuntu		but how can i make it not care weither its upper or lower case odin
+2011-10-26T02:35:00.000Z	blackbuntu		yes that is correct odin
+2011-10-26T02:36:00.000Z	qin	blackbuntu	man find | less -p -iname

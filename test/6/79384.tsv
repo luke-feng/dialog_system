@@ -1,0 +1,6 @@
+2010-10-29T18:04:00.000Z	Nub		thats batter
+2010-10-29T18:04:00.000Z	Nub		right then
+2010-10-29T18:04:00.000Z	Nub		i need help as im loosing my hair
+2010-10-29T18:04:00.000Z	Stavros	Nub	try rogaine
+2010-10-29T18:06:00.000Z	Stavros	Nub	apache isn't loading mod_php, or you haven't configured it correctly
+2010-10-29T18:11:00.000Z	Stavros	Nub	hmm, it's a problem with loading php, check the apache error log

@@ -1,0 +1,6 @@
+2011-05-12T07:48:00.000Z	carlp		Greetings - is there a way to expose GPT partition labels in /dev ?
+2011-05-12T07:48:00.000Z	escott	carlp	they arent under /dev/disk/by-label?
+2011-05-12T07:49:00.000Z	carlp	escott	no, those only appear to be for filesystem labels :(
+2011-05-12T07:49:00.000Z	escott	carlp	at lot of this stuff ends up under sys you could check there
+2011-05-12T07:49:00.000Z	carlp	escott	Ah! Good idea.
+2011-05-12T07:49:00.000Z	escott	carlp	or install gdisk

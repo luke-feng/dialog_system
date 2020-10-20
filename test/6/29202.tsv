@@ -1,0 +1,6 @@
+2010-05-07T01:23:00.000Z	Tristan		I was here a little while ago. Basically, my computer is reading my Ubuntu partition as a windows partition and can't find the "windows startup file." I installed it via Wubi from my windows 7 desktop. I've also tried installing from the LiveCD with the same result.
+2010-05-07T01:24:00.000Z	Tristan		I'm new to this. Define grub, please.
+2010-05-07T01:25:00.000Z	Tristan		I don't get that. I basically get a message telling me to repair via the windows boot CD.
+2010-05-07T01:25:00.000Z	Tristan		The error code is 0xc00000e if it's of interest to you
+2010-05-07T01:26:00.000Z	Tristan		I probably can, but you'll have to tell me how to do it.
+2010-05-07T01:27:00.000Z	MixMix	Tristan	can you boot to windows?

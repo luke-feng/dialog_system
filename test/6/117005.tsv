@@ -1,0 +1,6 @@
+2006-07-11T06:19:00.000Z	Wipster		hey people I just did a kernal update on my system and now I have Debian GNU/Linux on my entrys is this ok, can I edit them back to Ubuntu labled?
+2006-07-11T06:19:00.000Z	PyroticShadow	Wipster	edit the grub file.
+2006-07-11T06:21:00.000Z	PyroticShadow	Wipster	I'm not sure on how to delete old kernels, but as I can tell, your fine, if you can boot up and everything runs fine, it may have just put the wrong name perhaps.
+2006-07-11T06:21:00.000Z	PyroticShadow	Wipster	doom_oo7 may be correct.
+2006-07-11T06:21:00.000Z	PyroticShadow	Wipster	rm -r <kernel> could work.
+2006-07-11T06:21:00.000Z	PyroticShadow	Wipster	of course, that also, apt-get remove <kernel>

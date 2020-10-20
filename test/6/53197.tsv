@@ -1,0 +1,6 @@
+2008-08-07T22:42:00.000Z	deepfriedsquirre		I've got a directx install window that won't go away
+2008-08-07T22:42:00.000Z	deepfriedsquirre		pkill wine didn't work for me :-(
+2008-08-07T22:42:00.000Z	deepfriedsquirre		Any ideas on how to kill it?
+2008-08-07T22:42:00.000Z	Clint-	deepfriedsquirre	in a terminal type ps aux find the pid of the window and then kill -9 pid#
+2008-08-07T22:44:00.000Z	deepfriedsquirre	Clint-	Your method worked nicely. Thanks
+2008-08-07T22:44:00.000Z	Clint-	deepfriedsquirre	no problem

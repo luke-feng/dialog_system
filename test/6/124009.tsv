@@ -1,0 +1,6 @@
+2008-03-30T02:02:00.000Z	wolfric		hey can anyone help me out changing the order of o/s on my boot menu? (using grub)
+2008-03-30T02:02:00.000Z	wolfric		saw somewhere online boot/grub/grub.conf  but there is no such file on my pc... can anyone help me out?
+2008-03-30T02:02:00.000Z	wolfric		and what file ivze
+2008-03-30T02:02:00.000Z	hacknslash	wolfric	you need to edit /boot/gurb/menu.lst
+2008-03-30T02:05:00.000Z	hacknslash	wolfric	read the file, count the os options, and set default number to the os you need
+2008-03-30T02:06:00.000Z	hacknslash	wolfric	yw

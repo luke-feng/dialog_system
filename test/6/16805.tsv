@@ -1,0 +1,6 @@
+2011-11-13T03:18:00.000Z	pfifo	linelevel	you should be asking the question "Why does my wifi connection disconnect in linux, while in windows it works just fine?"
+2011-11-13T03:20:00.000Z	linelevel	pfifo	Well, I know the answer to that.. It's because there are no good linux drivers for my particular wireless card. But other networks work fine in Linux, and this network works fine in Linux when I'm closer to the router.
+2011-11-13T03:20:00.000Z	linelevel	pfifo	Therefore, I'm thinking that these linux drivers are just bad at dealing with relatively weak signals.
+2011-11-13T03:20:00.000Z	linelevel	pfifo	And that by amplifying the signal, I'll solve the problem.
+2011-11-13T03:21:00.000Z	linelevel	pfifo	 But I came here to ask you guys before spending money.
+2011-11-13T03:22:00.000Z	pfifo	linelevel	well a amp wont hurt

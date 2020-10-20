@@ -1,0 +1,6 @@
+2006-02-19T13:42:00.000Z	tiede		what is your soundcard type, Ivaldi
+2006-02-19T13:42:00.000Z	Ivaldi	tiede	I have a Soundblaster Audigy Platinum card
+2006-02-19T13:45:00.000Z	tiede	Ivaldi	do you have the emu1ok1 driver loaded?
+2006-02-19T13:46:00.000Z	Ivaldi	tiede	the thing is, it doesn't even show up in the multimedia systems selector. Although it does show up in the device manager and in lspci.
+2006-02-19T14:00:00.000Z	Ivaldi	tiede	it didn't help me too much unfortunately, since ubuntu won't even detect the card.
+2006-02-19T14:02:00.000Z	Ivaldi	tiede	yes it does, but I can't see it in the multimedia systems selector

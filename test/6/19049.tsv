@@ -1,0 +1,6 @@
+2011-01-06T02:09:00.000Z	schnuffle1		ooops, the package name is ubuntu-desktop
+2011-01-06T02:10:00.000Z	schnuffle1		ttal2: logs to syslog
+2011-01-06T02:11:00.000Z	schnuffle1		nuno: change the default kernel in grub
+2011-01-06T02:11:00.000Z	schnuffle1		house: fine
+2011-01-06T02:11:00.000Z	nishttal2	schnuffle1	gobbe : thanks
+2011-01-06T02:13:00.000Z	nishttal2	schnuffle1	gobbe : well that does not seem to be logging SSHD messages.. i am trying to SSH into a box (where i am running tail -f /var/log/syslog).. i got a Permission denied.. but nothing in the logs

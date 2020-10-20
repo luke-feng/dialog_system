@@ -1,0 +1,6 @@
+2005-10-03T08:42:00.000Z	Carla		Why would firefox time out if my wlan is active?
+2005-10-03T08:42:00.000Z	Carla		Can anyone help me?
+2005-10-03T08:43:00.000Z	dabaR	Carla	open a terminal, and type in ping www.google.com
+2005-10-03T08:46:00.000Z	dabaR	Carla	do you have a firewall on the computer?
+2005-10-03T08:46:00.000Z	Carla	dabaR	there is one in the modem
+2005-10-03T08:46:00.000Z	dabaR	Carla	off course, how about the computer?

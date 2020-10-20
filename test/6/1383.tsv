@@ -1,0 +1,6 @@
+2012-07-14T19:38:00.000Z	Icarus_		Is there a way i can access wireless networks via command line?
+2012-07-14T19:39:00.000Z	Icarus_		nothing you have said makes me happy
+2012-07-14T19:40:00.000Z	ikonia	Icarus_	iwconfig will allow you to configure your wirless card from the command line
+2012-07-14T19:40:00.000Z	Icarus_	ikonia	i was wondering about network username and password
+2012-07-14T19:41:00.000Z	ikonia	Icarus_	you can set that with iwconfig
+2012-07-14T19:46:00.000Z	ikonia	Icarus_	he's trying, English isn't his first language

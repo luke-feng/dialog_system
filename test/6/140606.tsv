@@ -1,0 +1,6 @@
+2005-08-25T09:46:00.000Z	Wanderer___		Which time? when I first stick it in the drive, reboot, then do the enter thing? Or do you mean when it reboots the second time?
+2005-08-25T09:47:00.000Z	Wanderer___		No, it doesn't.
+2005-08-25T09:49:00.000Z	Wanderer___		It says nothing to me. I guess I was unclear. It gets no farther than "Booting Kernel" before it reboots ad infintium.
+2005-08-25T09:50:00.000Z	Wanderer___		What is md5sum?
+2005-08-25T09:51:00.000Z	Concord_Dawn	Wanderer___	it's a string (hash) that represents all of the data on a disc or in a file.
+2005-08-25T09:54:00.000Z	Concord_Dawn	Wanderer___	yeah, but you need to check that against the md5 hash generated from the file you have on your HDD

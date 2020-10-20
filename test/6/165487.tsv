@@ -1,0 +1,6 @@
+2011-04-28T12:14:00.000Z	Popopo		??? nobody to help?
+2011-04-28T12:14:00.000Z	maco	Popopo	you havent asked a question
+2011-04-28T12:14:00.000Z	maco	Popopo	or at least not a question beyond "can i ask a question?" level
+2011-04-28T12:16:00.000Z	maco	Popopo	i think you need to use manual since once there are 4 primary partitions, you cant fit any more at all. you need to get rid of a primary and put in an extended, then you can put lots in the extended one
+2011-04-28T12:16:00.000Z	maco	Popopo	possibly one of these is already extended, even
+2011-04-28T12:17:00.000Z	maco	Popopo	but the 4-primary-max is just plain a hard drive thing, not an ubuntu thing

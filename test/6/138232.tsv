@@ -1,0 +1,6 @@
+2008-09-16T11:24:00.000Z	malcolm_		so whats the solution ?
+2008-09-16T11:24:00.000Z	Flannel	malcolm_	What file is it? Why do you need to access it?
+2008-09-16T11:25:00.000Z	Flannel	malcolm_	so, this is inside /var/www
+2008-09-16T11:25:00.000Z	Flannel	malcolm_	Why'd you do that?
+2008-09-16T11:28:00.000Z	Flannel	malcolm_	Alright, first, you'll want to use apache (and the rest of LAMP if you need it) from the repos.  Then, your stuff will go in /var/www by default, which is a reasonable enough place for it.  you'll want to add yourself to the www-data group (adduser username www-data) and then make it so /var/www is writable by group (chmod g+w /var/www)
+2008-09-16T11:30:00.000Z	Flannel	malcolm_	Also, if this is just for hosting stuff from you, you can make use of userdir, which allows stuff in ~/public_html to be visible at host/~username/

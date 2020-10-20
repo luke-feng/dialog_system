@@ -1,0 +1,6 @@
+2009-04-07T20:56:00.000Z	PerryArmstrong		usr13; roshan@roshan:~$  Xorg -configure
+2009-04-07T20:56:00.000Z	PerryArmstrong		Fatal server error:
+2009-04-07T20:56:00.000Z	PerryArmstrong		Server is already active for display 0
+2009-04-07T20:56:00.000Z	PerryArmstrong		 If this server is no longer running, remove /tmp/.X0-lock
+2009-04-07T20:56:00.000Z	PerryArmstrong		 and start again.
+2009-04-07T20:56:00.000Z	FloodBot1	PerryArmstrong	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

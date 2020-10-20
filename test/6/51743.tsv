@@ -1,0 +1,6 @@
+2009-01-11T20:38:00.000Z	dpreacher		adduser to a admin, like create a group admin and add the user to the admin group? n8tuser
+2009-01-11T20:39:00.000Z	dpreacher		ok
+2009-01-11T20:41:00.000Z	dpreacher		on a server intended to be used by general users for their text-based work, is it better to make a common user group like users the primary group or let ubuntu create group with the same name as the username?
+2009-01-11T20:42:00.000Z	dpreacher		i dunno, jrib i just feel like creating that many groups just looks to be excessive
+2009-01-11T20:44:00.000Z	dpreacher		adm dialout cdrom plugdev sambashare lpadmin admin these were the supplemental groups that the user created by the ubuntu server installer belonged to, what are those dialout, cdrom, plugdev, lpadmin, etc. group memberships for and how do we know without the script's help?
+2009-01-11T20:44:00.000Z	outbackwifi	dpreacher	as an example, you need to be a member of the dialout group to use the serial ports

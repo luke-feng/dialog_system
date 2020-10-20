@@ -1,0 +1,6 @@
+2007-04-11T15:18:00.000Z	YetiChick	Ollie	 The easiest way is to just use smbpasswd to create a user.  You can synchronize the unix and smb users, but I usually don't for just a user or two.
+2007-04-11T15:23:00.000Z	YetiChick	Ollie	"sudo smbpasswd -a <user>" should work. Use your own username, of course.  You will be prompted for a password.  Once that's done, you might need to restart the samba daemons.  Mmmm...  Disclaimer:  I've been using Linux for a very, very long time, but Ubuntu for less than a month.
+2007-04-11T15:28:00.000Z	YetiChick	Ollie	 You might have some problems with file permissions if you're not careful, but I've had Windows devs using Samba to put files on an Apache server before.
+2007-04-11T15:31:00.000Z	YetiChick	Ollie	 I've a bit of a prejudice against wuftpd.  I tend to use either pureftpd or proftpd, depending on the distribuition.
+2007-04-11T15:34:00.000Z	YetiChick	Ollie	 Most ftp servers have had issues at one time or another.  You have to keep on top of them.
+2007-04-11T15:35:00.000Z	YetiChick	Ollie	http://www.proftpd.org/docs/faq/linked/faq-ch6.html

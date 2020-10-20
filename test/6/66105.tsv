@@ -1,0 +1,6 @@
+2008-11-05T15:33:00.000Z	sercik		i have a firewall configuration that cannot permit me to access a specific ip address (modem at 192.168.1.1) someone can help me??
+2008-11-05T15:33:00.000Z	ActionParsnip	sercik	add a new rule to allow traffic to that ip
+2008-11-05T15:34:00.000Z	ActionParsnip	sercik	well you configured the firewall, add a new rule like you did the rest
+2010-06-24T13:04:00.000Z	ActionParsnip	sercik	did you MD5 test the ISO you downloaded?
+2010-06-24T13:05:00.000Z	ActionParsnip	sercik	did you verify the ISO you downloaded was good before using it?
+2010-06-24T13:09:00.000Z	ActionParsnip	sercik	grub2 doesnt use that file no more

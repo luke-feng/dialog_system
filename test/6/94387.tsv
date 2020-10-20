@@ -1,0 +1,6 @@
+2012-07-07T18:25:00.000Z	Eisenhorn		Is it allowed to repeat your question if it isn't fixed?
+2012-07-07T18:25:00.000Z	Eisenhorn		or answered
+2012-07-07T18:25:00.000Z	Eisenhorn		Guys, I've installed OpenSUSE a few days back. I didn't like it and wanted to go back. Now I created an bootable ubuntu 12.04 flashdisk and tested it on my homepc to check if it works, which it does. However, when I try to boot from it on my laptop it just continues to the OpenSUSE/grub screen. Is it possible it's interfering somehow?
+2012-07-07T18:26:00.000Z	Eisenhorn		and yes, I'm booting from USB via the boot menu
+2012-07-07T18:26:00.000Z	BluesKaj	Eisenhorn	does your laptop bios allow booting from a USB ?
+2012-07-07T18:27:00.000Z	BluesKaj	Eisenhorn	ok

@@ -1,0 +1,6 @@
+2008-04-21T17:28:00.000Z	gromozekin		hi there
+2008-04-21T17:29:00.000Z	gromozekin		how to uninstall ndiswrapper
+2008-04-21T17:29:00.000Z	gromozekin		?
+2008-04-21T17:29:00.000Z	gromozekin		cause its might be ubuntupackage
+2008-04-21T17:29:00.000Z	gromozekin		noone can helpme?>
+2008-04-21T17:30:00.000Z	Lamego	gromozekin	have you tried sudo apt-get remove ?

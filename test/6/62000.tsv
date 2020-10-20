@@ -1,0 +1,6 @@
+2008-03-13T13:22:00.000Z	saqimtiaz		hey guys, I need some help with a Ubuntu 7.10 and Vista dual boot issue. I had an NTFS partition (X) that I was using in both, as of the last few days the partition is no longer accesible in vista, but works fine in Ubuntu. Vista always runs a chkdsk on it at startup and can see the files, but once booted cannot access the partition giving the error message: 'this drive or folder is corrupted and cannot be accessed'- Any ideas?
+2008-03-13T13:23:00.000Z	souper	saqimtiaz	i have the same exact problem
+2008-03-13T13:23:00.000Z	saqimtiaz	souper	have you made any progress with figuring out what's going on?
+2008-03-13T13:25:00.000Z	saqimtiaz	souper	stefano_  thing is that my partition was working in both Vista and Ubuntu and stopped without fiddling with the partitions
+2008-03-13T13:30:00.000Z	saqimtiaz	souper	the fn key won't help.....
+2008-03-13T13:31:00.000Z	saqimtiaz	souper	f4

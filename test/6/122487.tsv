@@ -1,0 +1,6 @@
+2010-10-28T15:55:00.000Z	abhinav_singh		how to search sentence having spaces with grep command
+2010-10-28T15:55:00.000Z	abhinav_singh		?
+2010-10-28T15:55:00.000Z	bacon_	abhinav_singh	did you try putting double quotes?
+2010-10-28T15:55:00.000Z	bacon_	abhinav_singh	to wrap your expression?
+2010-10-28T15:57:00.000Z	bacon_	abhinav_singh	http://unixhelp.ed.ac.uk/CGI/man-cgi?grep
+2010-10-28T15:57:00.000Z	bacon_	abhinav_singh	"Finally, certain named classes  of  characters  are  predefined within        bracket expressions, as follows.  Their names are self explanatory, and        they  are  [:alnum:],  [:alpha:],  [:cntrl:],   [:digit:],   [:graph:],        [:lower:],  [:print:], [:punct:], [:space:], [:upper:], and [:xdigit:]."

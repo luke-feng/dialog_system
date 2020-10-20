@@ -1,0 +1,6 @@
+2010-10-11T12:29:00.000Z	soreau		that software center is *slow* when it tried to take over installing a deb package for me
+2010-10-11T12:29:00.000Z	soreau		pretty ridiculous
+2010-10-11T12:30:00.000Z	soreau		Also I found a bug
+2010-10-11T12:31:00.000Z	soreau		Firefox->find some deb d/l 2) open with default (sw center) 3) Close firefox 4) Watch software center fail because the deb package is now deleted from /tmp
+2010-10-11T12:31:00.000Z	randomOfAmber	soreau	let's kill it: https://bugs.launchpad.net
+2010-10-11T12:31:00.000Z	soreau	randomOfAmber	Nah, I don't support ubuntu directly

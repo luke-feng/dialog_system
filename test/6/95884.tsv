@@ -1,0 +1,6 @@
+2007-02-11T11:04:00.000Z	qmf_	unop	great! thanks :D will it stay set up like this?
+2007-02-11T11:06:00.000Z	unop	qmf_	 errm, with wireless. nothing is predictable -- but to make it persist you need to ensure that /etc/network/interfaces contains a configuration for eth1
+2007-02-11T11:07:00.000Z	unop	qmf_	 this has it all - http://www.linuxhomenetworking.com/wiki/index.php/Quick_HOWTO_:_Ch13_:_Linux_Wireless_Networking
+2007-02-11T11:10:00.000Z	qmf_	unop	found an example config. looks good, cheers man
+2007-02-11T11:10:00.000Z	unop	qmf_	 yw :)
+2007-02-11T11:11:00.000Z	qmf_	unop	i also think that's the first time i've actually had a problem resolved directly from this channel. woo for that.

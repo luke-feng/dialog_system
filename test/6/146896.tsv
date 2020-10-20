@@ -1,0 +1,6 @@
+2006-06-09T14:57:00.000Z	Seveas	Pupeno	what's the question?
+2006-06-09T14:57:00.000Z	Pupeno	Seveas	How do I extract encrypted and unencrypted RSA keys out of my certificate issued by CAcert ?
+2006-06-09T14:58:00.000Z	Pupeno	Seveas	I have done it before, but I don't remember how and my certificate expired, I have the new one, but I need those keys separated (Apache requires them).
+2006-06-09T14:58:00.000Z	Seveas	Pupeno	man openssl / man x509 should be able to tell you that
+2006-06-09T14:59:00.000Z	Pupeno	Seveas	ok. thank you.
+2006-11-19T07:30:00.000Z	Seveas	Pupeno	dpkg-source -x filename.dsc; cd something created; dpkg-buildpackage -rfakeroot

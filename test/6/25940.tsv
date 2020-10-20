@@ -1,0 +1,6 @@
+2010-02-05T23:23:00.000Z	Co0Ps		how do I launch the text mode installer from USB...? the graphic sucks and doesn't have all options...
+2010-02-05T23:24:00.000Z	daftykins	Co0Ps	i think you need the alternate installer CD
+2010-02-05T23:26:00.000Z	Co0Ps	daftykins	are there NO grub launch option i could put into the usb booter to launch a text installer instead of the ubuntu test desktop????
+2010-02-05T23:27:00.000Z	Co0Ps		so i need to redownload the whole thing... transfer it to the usb again to get text installer?
+2010-02-05T23:27:00.000Z	daftykins	Co0Ps	none i know of. searching the forums or google might quite easily prove me wrong, i've never had to do a non-graphical install with ubuntu
+2010-02-05T23:27:00.000Z	daftykins	Co0Ps	yeah i think so, what exactly are you not getting in the GUI installer that you want?

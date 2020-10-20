@@ -1,0 +1,6 @@
+2006-04-05T05:46:00.000Z	birdfish		Is it best to go with the apache2 package OR the apache2-common + apache2-worker packages?
+2006-04-05T05:46:00.000Z	birdfish		I don't really understand the differences, but would like to learn
+2006-04-05T05:46:00.000Z	IdleOne	birdfish	iirc apche2 bring apache2-common with it
+2006-04-05T05:47:00.000Z	IdleOne		!tell birdfish about apache
+2006-04-05T05:48:00.000Z	birdfish	IdleOne	thanks.  And I should probably go with mysql 4.1, right?
+2006-04-05T05:50:00.000Z	IdleOne	birdfish	I wouldnt know

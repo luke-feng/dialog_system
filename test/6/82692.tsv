@@ -1,0 +1,6 @@
+2007-07-23T16:13:00.000Z	madman91		hey guys
+2007-07-23T16:14:00.000Z	madman91		how do i understand the ubuntu mounting system? the UUID junk?
+2007-07-23T16:14:00.000Z	Theory	madman91	eseentially each partition has a unique ID stored with it
+2007-07-23T16:14:00.000Z	madman91	Theory	how do i access that?
+2007-07-23T16:15:00.000Z	Theory	madman91	run /sbin/blkid
+2007-07-23T16:15:00.000Z	madman91	Theory	thanks

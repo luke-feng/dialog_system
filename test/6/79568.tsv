@@ -1,0 +1,6 @@
+2007-10-16T06:42:00.000Z	nucco		try running 'sudo dpkg-reconfigure xserver-xorg'
+2007-10-16T06:42:00.000Z	nucco		backup your xorg.conf first
+2007-10-16T06:43:00.000Z	nucco		sorry, I was talking to warriorforgod.
+2007-10-16T06:43:00.000Z	nucco		he he
+2007-10-16T06:43:00.000Z	warriorforgod	nucco	Here is the kicker.  I was running with that X config at those resolutions.  Rebooted after updates and couldn't get to X.
+2007-10-16T06:45:00.000Z	nucco	warriorforgod	I guess there's no harm in trying... maybe you haven't selected the correct drivers.

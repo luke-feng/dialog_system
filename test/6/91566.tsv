@@ -1,0 +1,6 @@
+2007-03-20T10:52:00.000Z	somatt		hi, i have a blue and white g3 tray loading imac
+2007-03-20T10:52:00.000Z	somatt		and when i try to boot from ubuntu cd i get a folder icon with a ? in it
+2007-03-20T10:52:00.000Z	somatt		can anyone help me
+2007-03-20T10:52:00.000Z	eV_64	somatt	did you download the ppc version?
+2007-03-20T10:54:00.000Z	eV_64	somatt	diskutility should work
+2007-03-20T10:54:00.000Z	eV_64	somatt	an iso is kind of like a zip file, when you burn it, your burner program opens the iso and puts the files in it on the disc

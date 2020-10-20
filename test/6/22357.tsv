@@ -1,0 +1,6 @@
+2012-06-15T12:35:00.000Z	mbutubuntu		hey guys, I'd like to know why ffmpeg -i /path/to/videoFile.mp4 | grep foo doesn't grep anythink but prints out all the ffmpeg output... o.0
+2012-06-15T12:35:00.000Z	mbutubuntu		do you know why?
+2012-06-15T12:35:00.000Z	Dr_Willis	mbutubuntu	 perhaps its printing to stderr instead of stdout
+2012-06-15T12:36:00.000Z	mbutubuntu	Dr_Willis	mmh, maybe
+2012-06-15T12:36:00.000Z	Dr_Willis		no idea why it would be using stedrr
+2012-06-15T12:36:00.000Z	mbutubuntu	Dr_Willis	ezbbunk you're right... it prints to STDERR

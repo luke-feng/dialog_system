@@ -1,0 +1,6 @@
+2006-06-04T15:42:00.000Z	LinuxPose		does frostwire move assingly slow for you skippy81?
+2006-06-04T15:43:00.000Z	LinuxPose		hehe
+2006-06-04T15:43:00.000Z	LinuxPose		my pc is for bit torrent
+2006-06-04T15:43:00.000Z	LinuxPose		can i send stuff from a windows pc to a linux pc?
+2006-06-04T15:44:00.000Z	LinuxPose		apt-get install samba?
+2006-06-04T15:44:00.000Z	amphi	LinuxPose	or install putty and winscp on the windows box and use ssh.sshfs

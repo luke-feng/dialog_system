@@ -1,0 +1,6 @@
+2005-06-29T15:01:00.000Z	solar_		right now i am using gnome-ppp to dial up as root/sudo
+2005-06-29T15:02:00.000Z	solar_		how can i make the default user use the dialup without accessing passwd/
+2005-06-29T15:03:00.000Z	solar_		anybody got the idea //
+2005-06-29T15:03:00.000Z	Seveas	solar_	adduser 1000 dip
+2005-06-29T15:03:00.000Z	Seveas	solar_	that is the complete command :)
+2005-06-29T15:04:00.000Z	Seveas	solar_	just type that in a root terminal

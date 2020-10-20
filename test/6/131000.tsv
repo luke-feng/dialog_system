@@ -1,0 +1,6 @@
+2007-03-24T14:05:00.000Z	puff		Evening.  I'm installing ubuntu server on a really new machine;  apparently the motherboard requires kernel 2.6.20.  I want to install Edgy on this machine;  is there a process for genreating a Live CD that uses kernel 2.6.20?
+2007-03-24T14:06:00.000Z	dystopianray	puff	feisty has 2.6.20
+2007-03-24T14:06:00.000Z	puff	dystopianray	Yeah, but feisty is not stable yet...
+2007-03-24T14:07:00.000Z	dystopianray	puff	you could try making your own livecd with a 2.6.20 kernel, like the one from feisty, I don't know
+2007-03-24T14:08:00.000Z	puff	dystopianray	Danke.
+2007-03-24T14:09:00.000Z	dystopianray	puff	if you don't want to run feisty beta, wait till april 19 when the final release is available

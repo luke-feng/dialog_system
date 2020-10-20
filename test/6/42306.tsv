@@ -1,0 +1,6 @@
+2009-02-20T06:18:00.000Z	fnordpro		is there a reason that Install has no LVM or encrypt for Use As during partitioning? I am trying manual instead of guided.
+2009-02-20T06:19:00.000Z	dkulchenko	fnordpro	try the alternate install cd
+2009-02-20T06:19:00.000Z	dkulchenko	fnordpro	it has support for lvm, not sure about encryption, though. it's not gui, however, if that makes a difference
+2009-02-20T06:21:00.000Z	fnordpro	dkulchenko	thanks. is alternate install a different iso or do i need to select it during boot?
+2009-02-20T06:22:00.000Z	dkulchenko	fnordpro	different iso
+2009-02-20T06:22:00.000Z	dkulchenko	fnordpro	it's a completely text-based installer, if you're okay with that

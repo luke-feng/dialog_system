@@ -1,0 +1,6 @@
+2007-03-01T06:45:00.000Z	grindar		has anyone configured aircrack for an intel card?
+2007-03-01T06:46:00.000Z	grindar		yes, its the intel 2915
+2007-03-01T06:47:00.000Z	grindar		when I run airodump I get "unsupported hardware link type  803 - expected ARHRD_IEEE80211 or ARHRD_IEEE80211_PRISM instead..."
+2007-03-01T06:48:00.000Z	jlgaddis	grindar	Trying to crack with Intel is a waste of time, they don't support reinjection.
+2007-03-01T06:48:00.000Z	jlgaddis	grindar	I went out and bought a WG511T for that, works perfect.
+2007-03-01T06:49:00.000Z	jlgaddis	grindar	Interface needs to be in monitor mode, BTW.

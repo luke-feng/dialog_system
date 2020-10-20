@@ -1,0 +1,6 @@
+2010-06-21T03:50:00.000Z	hilem		how do i see what packages are currently installed on 10.04?
+2010-06-21T03:50:00.000Z	iceroot	hilem	dpkg -l
+2010-06-21T03:51:00.000Z	hilem	iceroot	thanks!
+2010-06-21T03:51:00.000Z	iceroot	hilem	maybe dpkg -l | grep ii > my-packages.txt   is a better idea
+2010-06-21T03:52:00.000Z	hilem	iceroot	 i can grep the output for what i'm looking for... i just didn't know the command offhand
+2010-06-21T03:52:00.000Z	iceroot	hilem	ah ok

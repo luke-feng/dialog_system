@@ -1,0 +1,6 @@
+2012-07-09T22:01:00.000Z	stagas		anyone knows why my bcm4313 wireless doesn't work in 12.04?
+2012-07-09T22:01:00.000Z	auronandace	stagas	because you need the driver
+2012-07-09T22:03:00.000Z	stagas	auronandace	I've been installing/reinstalling it all day in different variations I pick up from forums from people having the same issue. nothing worked
+2012-07-09T22:04:00.000Z	auronandace	stagas	unfortunately, i can only point you to the documentation, i've never used broadcom wireless chips
+2012-07-09T22:04:00.000Z	auronandace		!bcm | stagas
+2012-07-09T22:05:00.000Z	stagas	auronandace	thanks. just thought I would ask here in case someone had the same issue and found a solution

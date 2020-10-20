@@ -1,0 +1,6 @@
+2009-09-13T00:27:00.000Z	Jetro		Hello, Can someone point me to the right direction? I just installed ubuntu and Grub does not see Vista... I installed ubuntu on partition 3 of my HD.. vista is on partition 4
+2009-09-13T00:28:00.000Z	Jetro		The partitions were already there, I just selected it during ubuntu install
+2009-09-13T00:28:00.000Z	Jetro		grub goes straight into ubuntu.. it does not see vista
+2009-09-13T00:28:00.000Z	Jetro		havent tried changing bios yet
+2009-09-13T00:29:00.000Z	tony__	Jetro	you have to edit your menu.list
+2009-09-13T00:31:00.000Z	tony__	Jetro	sudo gedit /boot/grub/menu.lst then add in the windows option

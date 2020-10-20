@@ -1,0 +1,6 @@
+2007-05-07T14:26:00.000Z	nios		how do i update my gcc ?
+2007-05-07T14:26:00.000Z	biouser	nios	what version do you have?
+2007-05-07T14:26:00.000Z	biouser	nios	what repos are you using?
+2007-05-07T14:28:00.000Z	biouser	nios	4.1.2 is the most up-to-date stable methinks
+2007-05-07T14:28:00.000Z	biouser	nios	what version do you need and are you willing to go unstable/testing?
+2007-05-07T14:31:00.000Z	biouser	nios	I don't think that is b/c you need a more up-to-date version of gcc... you probably need the -dev

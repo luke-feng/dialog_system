@@ -1,0 +1,6 @@
+2007-05-24T05:56:00.000Z	robert98374		sh3rlff whats the command to unmount?
+2007-05-24T05:57:00.000Z	Jordan_U	robert98374	umount
+2007-05-24T06:03:00.000Z	Jordan_U	robert98374	That should work but you don't need the extra arguments, sudo umount /media should work also ( but you should not generally use /media itself as a mount point, you should have multiple folders within /media to use for that )
+2007-06-16T09:49:00.000Z	Jordan_U	robert98374	What do you need to change in it?
+2007-06-16T09:51:00.000Z	robert98374	Jordan_U	I had to wipe the HD and reinstall and I am trying to get everything up and running but I forgot the code to access the Xorg.conf
+2007-06-16T09:53:00.000Z	robert98374	Jordan_U	thanks

@@ -1,0 +1,6 @@
+2005-07-07T11:34:00.000Z	xaelius		i cant get it to let me login as root
+2005-07-07T11:34:00.000Z	tiglionabbit	xaelius	that is intentional
+2005-07-07T11:35:00.000Z	tiglionabbit	xaelius	is is unsafe to run X as root.  You can change the setting in system -> admin -> login screen setup
+2005-07-07T11:36:00.000Z	tiglionabbit	xaelius	you are wrong.  Use sudo instead.
+2005-07-07T11:37:00.000Z	tiglionabbit	xaelius	if there are things you must run as root, you can create a launcher for them and put `gksudo` before the command so it gives a graphical password entry window before running the program
+2005-07-07T11:38:00.000Z	tiglionabbit	xaelius	open a terminal, and type `sudo` and then the command to open your editor, such as `sudo gedit`

@@ -1,0 +1,6 @@
+2012-09-15T03:02:00.000Z	andreb		hi all
+2012-09-15T03:03:00.000Z	andreb		how can i change where my ubuntu 10.04 lts gets it updates from.. i am trying to update to 12.04 lts .. i get this "failed to fetch http://us.archive.ubuntu.com/dists/precise/universe/sources"
+2012-09-15T03:04:00.000Z	magicalChicken	andreb	sudo apt-get update
+2012-09-15T03:04:00.000Z	magicalChicken	andreb	and it still does not find stuff
+2012-09-15T03:07:00.000Z	magicalChicken	andreb	the url is wrong, it should be http://us.archive.ubuntu.com/ubuntu/dists/precise/universe/sources
+2012-09-15T03:07:00.000Z	magicalChicken	andreb	just modify your apt config accordingly

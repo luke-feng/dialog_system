@@ -1,0 +1,6 @@
+2012-09-30T16:49:00.000Z	blz		Hi i'm looking for libdc1394.so ... where is this file located?
+2012-09-30T16:50:00.000Z	TJ-	blz	it's in the package "libdc1394-22"
+2012-09-30T16:51:00.000Z	blz	TJ-	yes, but I'm asking where the file is located
+2012-09-30T16:51:00.000Z	blz	TJ-	as in libdc1394.so.22
+2012-09-30T16:51:00.000Z	TJ-	blz	On amd64: "/usr/lib/x86_64-linux-gnu/libdc1394.so.22"
+2012-09-30T16:51:00.000Z	blz	TJ-	great, thank you!

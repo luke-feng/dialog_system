@@ -1,0 +1,6 @@
+2007-07-06T08:35:00.000Z	Saint_Belmont		Got a question.
+2007-07-06T08:35:00.000Z	Saint_Belmont		How do I set it up where people can sign into my box?
+2007-07-06T08:35:00.000Z	Saint_Belmont		What is that called so I can look it up.
+2007-07-06T08:35:00.000Z	NigelS	Saint_Belmont	do you mean remotely? i.e. through SSH?
+2007-07-06T08:36:00.000Z	NigelS	Saint_Belmont	install the openssh server package
+2007-07-06T08:37:00.000Z	NigelS	Saint_Belmont	you can add users using adduser

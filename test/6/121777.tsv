@@ -1,0 +1,6 @@
+2006-03-31T14:13:00.000Z	prudhvi		!kernel
+2006-03-31T14:15:00.000Z	prudhvi		what package provides latest Ubuntu Linux Kernel Source
+2006-03-31T14:15:00.000Z	prudhvi		i mean i need to compile it
+2006-03-31T14:16:00.000Z	fyrestrtr	prudhvi	just download the source from kernel.org
+2006-03-31T14:16:00.000Z	prudhvi	fyrestrtr	i used debian, where in we have a seperate package where i can apt-get it
+2006-03-31T14:17:00.000Z	fyrestrtr	prudhvi	since ubuntu is debian, just check for the same package.

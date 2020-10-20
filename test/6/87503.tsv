@@ -1,0 +1,6 @@
+2007-06-21T10:32:00.000Z	defrysk	mat1980	 switching beteween gdm and kdm is done with sudo dpkg-reconfigure gdm
+2007-06-21T10:32:00.000Z	defrysk	mat1980	no need to remove gdm
+2007-06-21T10:33:00.000Z	defrysk	mat1980	 switching beteween gdm and kdm is done with sudo dpkg-reconfigure gdm
+2007-06-21T10:38:00.000Z	defrysk	mat1980	JUST DONT REMOVE GDM
+2007-06-21T10:39:00.000Z	defrysk	mat1980	to switch between gdm kdm do sudo dpkg-reconfigure gdm
+2007-06-21T10:39:00.000Z	mat1980	defrysk	ok, thanks.

@@ -1,0 +1,6 @@
+2007-05-19T13:14:00.000Z	jinroh		Hello there!!
+2007-05-19T13:15:00.000Z	jinroh		could you recommend me an BITTORRENT client? Azureus randomly crashes at startup. (Was using uTorrent in Windows). Any similiar program? (graphical)
+2007-05-19T13:15:00.000Z	dredhammer	jinroh	try ktorrent
+2007-05-19T13:18:00.000Z	dredhammer	jinroh	what was the error via the terminal when azureus crashed?
+2007-05-19T13:19:00.000Z	jinroh	dredhammer	don't know, but it's fixed deleting the "logs" file for azureus
+2007-05-19T13:19:00.000Z	jinroh	dredhammer	but of couse, I need to do that every azureus restart...

@@ -1,0 +1,6 @@
+2009-08-30T05:40:00.000Z	nadar		Quick question: i just installed edubuntu merely for the purpose of seeing what it was but now i realized i dont want it at all. i tried doing a sudo apt-get remove command but when i rebooted edubuntu was still on the startup screen what do i need to do?
+2009-08-30T05:41:00.000Z	nh2_	nadar	you must change the splash screen
+2009-08-30T05:46:00.000Z	nh2_	nadar	you mean the splash screen
+2009-08-30T05:46:00.000Z	nadar	nh2_	sorry what?
+2009-08-30T05:47:00.000Z	nh2_	nadar	you mean it's the splash screen that has changed, edubuntu is just a set of packages added to ubuntu
+2009-08-30T05:48:00.000Z	nadar	nh2_	right thats what i wanted gone

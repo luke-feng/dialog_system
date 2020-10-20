@@ -1,0 +1,6 @@
+2009-08-30T22:48:00.000Z	alvaro		ikonia:the keyboard don't work correctly, some characters don't work and show me this message "Error activating XKB configuration.
+2009-08-30T22:48:00.000Z	alvaro		It can happen under various circumstances:
+2009-08-30T22:48:00.000Z	alvaro		- a bug in libxklavier library
+2009-08-30T22:48:00.000Z	alvaro		- a bug in X server (xkbcomp, xmodmap utilities)
+2009-08-30T22:48:00.000Z	alvaro		- X server with incompatible libxkbfile implementation
+2009-08-30T22:48:00.000Z	FloodBot2	alvaro	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

@@ -1,0 +1,6 @@
+2005-10-27T06:15:00.000Z	Arnald		There is an answer to my question "How do I get a UK charmap installed - I have set Preferences->Keyboard, Administration->Language Selector, dpkg-reconfigure console-data (select UK keymap) and reconfigured locales, and I STILL get a US key mapping in gnome-terminal. Is there another setting somewhere?"
+2005-10-27T06:16:00.000Z	Arnald		you have to edit xorg.conf
+2005-10-27T06:16:00.000Z	r0xoR	Arnald	well if there is an answer - why are you asking the question :P
+2005-10-27T06:16:00.000Z	Arnald	r0xoR	coz no-one here answered it for me!
+2005-10-27T06:17:00.000Z	Arnald	r0xoR	if there weren't an answer, it owuld be pretty pointless to ask!
+2005-10-27T06:18:00.000Z	Arnald	r0xoR	HappyFool: I'm using the vmware BrowserAppliance upgraded to Breezy - expect others to ask!

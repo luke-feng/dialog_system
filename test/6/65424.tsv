@@ -1,0 +1,6 @@
+2009-01-15T16:52:00.000Z	Someoneis		hey guys i need some help i have a computer with 1 hard drive with windows vista on it and i want to put my other hard drive which has xp and ubuntu on it now i was wondering.. will the grub bootloader take over the vista one?
+2009-01-15T16:53:00.000Z	histo	Someoneis	it depends how your bios treats the drive. If you hook it up as a secondary/slave drive it should boot the master first.
+2009-01-15T16:53:00.000Z	histo	Someoneis	which would be vista.
+2009-01-15T16:53:00.000Z	histo	Someoneis	Some bioses behave wierdly though and just choose a drive that makes no sense.
+2009-01-15T16:53:00.000Z	histo	Someoneis	it would just boot vista and ignore grub.
+2009-01-15T16:54:00.000Z	histo	Someoneis	if you want ubuntu you can have hte ubuntu/xp drive as a the master and just add vista in grub.

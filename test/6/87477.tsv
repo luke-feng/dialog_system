@@ -1,0 +1,6 @@
+2007-05-03T06:57:00.000Z	bwang		Hi, I REALLY need help dpkg-reconfiguring my xserver-xorg on my laptop which uses the Intel 855GM.  It was working like a charm before but I think I messed up x-server by mis-configuring it.  Now, it is giving me the "Fatal server error: no screens found.  XIO: fatgal IO error 104"
+2007-05-03T06:58:00.000Z	Pelo	bwang	boot up recovery mode and run  sudo dpkg-reconfigure xorg.conf   if you haven'T done it already
+2007-05-03T07:06:00.000Z	bwang	Pelo	hey, I "think" (after trying to dpkg-reconfgure it so many times") that I must have entered the so called "bus-specfic format" wrong.  Cuz the message I got was the "no screens found" error
+2007-05-03T07:07:00.000Z	Pelo	bwang	that was the most I could offer,
+2007-05-03T07:07:00.000Z	bwang	Pelo	i'm not in recovery mode, should it make a difference if I dpkg-reconfigure it in recovery mode instead?
+2007-05-03T07:08:00.000Z	Pelo	bwang	 I sugested the recovery mode because  thought that you couldn't get X running

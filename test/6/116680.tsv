@@ -1,0 +1,6 @@
+2006-12-11T10:02:00.000Z	snapple		i'm on a derelict debian install now on a powerbook g3, is there any way to get ubuntu onto it without usb or cd-rom (net install?)
+2006-12-11T10:03:00.000Z	snapple		cat /etc/fstab
+2006-12-11T10:03:00.000Z	ThePub	snapple	probably not through 'normal' means
+2006-12-11T10:04:00.000Z	ThePub	snapple	a net install using a kernel image is definitely possible though.  although, I'm not comfortable trying to help someone with it.  :(
+2006-12-11T10:05:00.000Z	ThePub	snapple	if you have another computer, could you not just put your computer into disk mode and install it onto the disk using another computer?
+2006-12-11T10:05:00.000Z	ThePub	snapple	put your powerbook that is :)

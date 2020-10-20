@@ -1,0 +1,6 @@
+2008-09-03T23:11:00.000Z	WeezWrk		anyone know of a software that will run on a linux client and clone a local folder to a remote nas drive in real time?
+2008-09-03T23:13:00.000Z	WeezWrk		if i cahnge a file locally it changes it automatically on the remote drive in real time
+2008-09-03T23:13:00.000Z	magnetron	WeezWrk	there are a lot of different backup alternatives available for ubuntu, most of them are based on the rsync system
+2008-09-03T23:13:00.000Z	magnetron		!backup | WeezWrk
+2008-09-03T23:13:00.000Z	WeezWrk		thanks guys i will read up a bit on rsync, im rather new to linux
+2008-09-03T23:14:00.000Z	WeezWrk	magnetron	great links thanks!

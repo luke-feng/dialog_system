@@ -1,0 +1,6 @@
+2005-10-05T12:25:00.000Z	NightLord		can someone help, i can't get my canon i250 which is connected to XP to print from XP
+2005-10-05T12:25:00.000Z	NightLord		erm, print from ubuntu
+2005-10-05T12:26:00.000Z	NightLord		hey, dd uses plusnet ^_^
+2005-10-05T12:26:00.000Z	jstrubberg	NightLord	do you have print services for Linux installed on the windows machine?
+2005-10-05T12:30:00.000Z	jstrubberg	NightLord	you want Control Panel-->Add/Remove Programs/, Add/Remove Windows Components, then Other file and network services.  check Print Services for Unix, then OK
+2005-10-05T13:00:00.000Z	jstrubberg	NightLord	what's the printer model again?

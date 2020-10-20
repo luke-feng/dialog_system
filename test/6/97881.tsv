@@ -1,0 +1,6 @@
+2007-09-02T11:51:00.000Z	simplechat		has anybody built a headless ubuntu install? (ie. with just bash/ssh and without gnome/etc.)?
+2007-09-02T11:52:00.000Z	n2diy	simplechat	yes, research ubuntu minimal
+2007-09-02T11:54:00.000Z	n2diy	simplechat	add your server stuff with apt-get or synaptic.
+2007-11-27T12:45:00.000Z	n2diy	simplechat	the file(s) could be open, and in use?
+2007-11-27T12:47:00.000Z	simplechat	n2diy	that might be it, do i need to restart with a boot disk?
+2007-11-27T12:47:00.000Z	n2diy	simplechat	sorry, I don't know, haven't played with rsync.

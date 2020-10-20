@@ -1,0 +1,6 @@
+2012-09-24T14:32:00.000Z	josephAG		a bizhub C360 is multifunctional printer sorry
+2012-09-24T14:33:00.000Z	josephAG		I succeded in installing the driver, but got issues with slow printing
+2012-09-24T14:34:00.000Z	josephAG		every time I try to print, he just pulled the state of the printer which take ages
+2012-09-24T14:36:00.000Z	josephAG		it check the printer every times to see it current state, I'd like to get rid of this.
+2012-09-24T14:38:00.000Z	josephAG		oki thanks Anyway, I try cups log to see if there is any clues in it
+2012-09-24T14:39:00.000Z	MonkeyDust	josephAG	 it syas here, bizhub 360 is a copier, not a printer

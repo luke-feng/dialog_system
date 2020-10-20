@@ -1,0 +1,6 @@
+2010-08-21T03:36:00.000Z	North_Italian69		some one can explain me this: ''pre-up /usr/sbin/ethtool -s eth0 speed 1000 duplex full'' it seems that w/o that using a static ip you cant use all gigabit bandwidth
+2010-08-21T03:38:00.000Z	erUSUL	North_Italian69	you are forcing the Gib speed in the interface... somehow you're NIC when it negotiates the speed it gets a lower speed
+2010-08-21T03:39:00.000Z	North_Italian69	erUSUL	so, do yo think its a nice tweak for a lan server?
+2010-08-21T03:40:00.000Z	erUSUL	North_Italian69	if you need it and it works i do not see why not
+2010-08-21T03:41:00.000Z	North_Italian69	erUSUL	but, why don do that as default. so it is a gigabit nic
+2010-08-21T03:43:00.000Z	erUSUL	North_Italian69	as i said. something is wrong. maybe the cable is too long or not high quality or something else, the nic should negotiate the higher speed it can

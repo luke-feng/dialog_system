@@ -1,0 +1,6 @@
+2007-03-15T15:11:00.000Z	riaal_		please, what does svn checkout http:/.... mean? how do I use it in ubuntu?
+2007-03-15T15:13:00.000Z	riaal_		what is "svn checkout" ??
+2007-03-15T15:13:00.000Z	Flannel	riaal_	subversion (svn) is a version control thing.  When you 'checkout' code, you're downloading it from the server.
+2007-03-15T15:14:00.000Z	riaal_		oh okey, is "subversion" an apt? =S
+2007-03-15T15:14:00.000Z	Flannel	riaal_	yep, that's the package name
+2007-03-15T15:15:00.000Z	riaal_	Flannel	thanks

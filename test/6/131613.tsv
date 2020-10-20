@@ -1,0 +1,6 @@
+2005-12-02T17:15:00.000Z	jackie		when connecting a usb mouse to a ps/2 adapter and plugging it into a ps/2 port on a desktop, can it be assumed that it will work? do input devices such as keyboards and mice all use some sort of standard protocol, and the connection to the actual motherboard is irrelevant, because the OS itself recognizes the device for what it is?
+2005-12-02T17:16:00.000Z	han`	jackie	it should work
+2005-12-02T17:16:00.000Z	jackie	han`	i figured that much - but on all platforms?
+2005-12-02T17:18:00.000Z	han`	jackie	if you are asking, does the mouse send the same commands if it is plugged into the usb port as it does with an adapter, i think basically hte answer is yes...
+2005-12-02T17:18:00.000Z	jackie	han`	okay, i was looking for a more technical response though - i'm having an argument with someone and need to be able to prove my point ;D
+2005-12-02T17:21:00.000Z	han`	jackie	are you asking if an application will see them as different, or if an os/system level/kernel level piece of software would see them as different?

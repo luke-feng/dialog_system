@@ -1,0 +1,6 @@
+2007-03-08T06:46:00.000Z	TravisivarT		i'm trying to set up dual head with nvidia and twinview, but the screens are backwards (ie the right one shows the left screen)  here's my xorg.conf http://rafb.net/p/Spjp0U39.html
+2007-03-08T06:47:00.000Z	TravisivarT		it's a dual boot with windows and the windows monitors are oriented correctly
+2007-03-08T06:47:00.000Z	Jowi	TravisivarT	in the section serverlayout set screen 0 and screen 1 and vice versa maybe...?
+2007-03-08T06:48:00.000Z	Jowi	TravisivarT	typos. I meant, set screen 0 to screen 1 and vice versa
+2007-03-08T06:49:00.000Z	TravisivarT	Jowi	i'll try it thanks
+2007-03-08T06:49:00.000Z	Jowi	TravisivarT	or do it in section device for the card(s)

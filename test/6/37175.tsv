@@ -1,0 +1,6 @@
+2009-05-14T04:07:00.000Z	eagle_02		calm down new2suse
+2009-05-14T04:09:00.000Z	eagle_02		does any one know anything about kernal panics or places I could find the meaning of thier ascociated error codes, google is not turning up anything useful
+2009-05-14T04:09:00.000Z	devel0	eagle_02	elaborate
+2009-05-14T04:11:00.000Z	devel0	eagle_02	do you have a booting system right now ? If you do try /var/log/messages , that should give you somewhat of a humanly understandable error
+2009-05-14T04:13:00.000Z	devel0	eagle_02	 if you can get to grub successfully, select recovery mode (should be the second option) , then hit "e" , edit the line that starts with initrd=bla bla , add init=/bin/sh , then hit escape , and "b"
+2009-05-14T04:14:00.000Z	devel0	eagle_02	that should bring you to a single mode boot up , which you can work your way there , in the meanwhile im sure you can find something in /var/log

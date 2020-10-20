@@ -1,0 +1,6 @@
+2010-08-16T05:49:00.000Z	headkase314	kyentei	do you have a complete command line for wget?
+2010-08-16T05:50:00.000Z	kyentei	headkase314	let me get you one with the .deb file of chrome included. THat's required, right?
+2010-08-16T05:51:00.000Z	headkase314	kyentei	;) hoping the effort could be distributed across multiple people! :p
+2010-08-16T05:51:00.000Z	kyentei	headkase314	64 or 32 bit?
+2010-08-16T05:52:00.000Z	kyentei	headkase314	wget http://dl.google.com/linux/direct/google-chrome-stable_current_i386.deb
+2010-08-16T05:52:00.000Z	headkase314	kyentei	32 bit yup that's the line!  Thank you very much!

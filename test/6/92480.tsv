@@ -1,0 +1,6 @@
+2008-10-11T06:39:00.000Z	m1r		anyone have realtek lan card 8139 runing on ubuntu ?
+2008-10-11T06:39:00.000Z	Dr_willis_	m1r	 ive used them in the past   on several machines.
+2008-10-11T06:39:00.000Z	Dr_willis_	m1r	 i recall thee being 2 different modules for that card.. some mahines did not work properly with one of the modules.. but its been year+ since ive last had to mess with them.
+2008-10-11T06:40:00.000Z	m1r	Dr_willis_	i just cant get mine to work, altho lspci detects them properly, cards itself have error when restarting network
+2008-10-11T06:41:00.000Z	Dr_willis_	m1r	 theres 2 modules  8139cp and 8139too   - could be you need to be using the other module
+2008-10-11T06:42:00.000Z	m1r	Dr_willis_	i know there are two and tried some combinations, but seems i just cant get it runing on 8.04, 7.10 and b4 never had problems with this :(

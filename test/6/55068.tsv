@@ -1,0 +1,6 @@
+2008-07-06T15:18:00.000Z	l815		is there a way to install the most current transmission?
+2008-07-06T15:20:00.000Z	j3tt	l815	which version of ubuntu are you using?
+2008-07-06T15:21:00.000Z	l815	j3tt	hardy
+2008-07-06T15:21:00.000Z	l815	j3tt	the version installed is 1.06 and on the website it's at 1.22
+2008-07-06T15:22:00.000Z	j3tt	l815	doesn't the website have an updated .deb package?
+2008-07-06T15:22:00.000Z	l815	j3tt	nope :/, i'll probably just compile from source

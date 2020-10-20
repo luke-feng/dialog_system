@@ -1,0 +1,6 @@
+2008-07-16T04:41:00.000Z	oiaohm		 /etc/init.d/?dm restart
+2008-07-16T04:42:00.000Z	oiaohm		Only reason to reboot Linux nickrud is a kernel replacement.  Catch is ubuntu is rebooting a lot more often than that.
+2008-07-16T04:42:00.000Z	oiaohm		Or a major lockup.
+2008-07-16T04:42:00.000Z	oiaohm		No HAL can be done without a reboot.
+2008-07-16T04:42:00.000Z	Gnea	oiaohm	it seems that people, transitioning from a wintendo environment, find the reboots comfortable and refreshing, for the time being
+2008-07-16T04:44:00.000Z	Gnea	oiaohm	kernels, new hardware... and you forgot power outages :)

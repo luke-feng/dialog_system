@@ -1,0 +1,6 @@
+2006-10-13T09:55:00.000Z	frotz661		so, any WAP users?
+2006-10-13T09:55:00.000Z	Lord_Kitchener	frotz661	I use a script for WPA for me
+2006-10-13T09:56:00.000Z	frotz661	Lord_Kitchener	can I see it (with passwords removed, of course) ?
+2006-10-13T09:57:00.000Z	Lord_Kitchener		frotz611: http://kitchetech.com/docs/unix/wlan.sh also it doesn't have any passwords in it anyways
+2006-10-13T09:59:00.000Z	frotz661	Lord_Kitchener	so, is the idea that you run this on bootup and everything automagically works?
+2006-10-13T09:59:00.000Z	Lord_Kitchener	frotz661	no it acts like a wifi scanner and you choose what net you want to get on

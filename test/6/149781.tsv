@@ -1,0 +1,6 @@
+2008-11-09T06:31:00.000Z	ardnew		ok, question, ubuntu just finished installing brand new, the module snd_hda_intel is being loaded, but I need to pass an option to load it that isn't being passed
+2008-11-09T06:31:00.000Z	ardnew		where do I add that option
+2008-11-09T06:32:00.000Z	ardnew		I would normally do
+2008-11-09T06:32:00.000Z	ardnew		modprobe snd_hda_intel model=3stack
+2008-11-09T06:32:00.000Z	ardnew		but model=3stack isn't being passed
+2008-11-09T06:32:00.000Z	nickrud	ardnew	you'd add a file to /etc/modprobe.d with the right option in it

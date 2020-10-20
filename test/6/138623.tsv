@@ -1,0 +1,6 @@
+2005-12-15T15:19:00.000Z	acetech		how do i accept a pubkey for apt-get update?
+2005-12-15T15:20:00.000Z	acetech		i tried gpg --import gpg-pubkey and it does not work
+2005-12-15T15:21:00.000Z	acetech		how do i accept a pubkey for apt-get update?
+2005-12-15T15:21:00.000Z	johndarkhorse	acetech	what kind of pubkey?
+2005-12-15T15:22:00.000Z	johndarkhorse	acetech	if it's one you have downloaded, "sudo apt-key add /path/to/key"
+2005-12-15T15:28:00.000Z	acetech	johndarkhorse	i got the seveas one working from instuctions on their website just now... but cant get the cipherfunk working... i dl'd release.gpg and ran the apt-key command and it said no valid OpenPGP

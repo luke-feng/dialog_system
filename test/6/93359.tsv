@@ -1,0 +1,6 @@
+2007-09-10T12:28:00.000Z	DM|		dumb question, within Ubuntu, can i resize my partition that ubuntu is installed to ?
+2007-09-10T12:29:00.000Z	Pici	DM|	You can, but you need to do it from the livecd since you cannot rezise a mounted partition.
+2007-09-10T12:29:00.000Z	Pici	DM|	Not really.
+2007-12-12T00:32:00.000Z	Pici	DM|	you shouldnt have to use sudo for that...
+2007-12-12T00:32:00.000Z	Pici	DM|	unless, of course, if your user can't read that directory.
+2007-12-12T00:33:00.000Z	DM|	Pici	force of habit when accessing another harddrive assigned to another user "dm2" accessing from dmserver

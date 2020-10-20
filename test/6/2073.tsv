@@ -1,0 +1,6 @@
+2012-05-29T04:14:00.000Z	worrow		Hoping someone is around to assist me with some things ubuntu 12.04
+2012-05-29T04:14:00.000Z	worrow		Is there a way to completely disable grub?
+2012-05-29T04:15:00.000Z	worrow		even if I am not dual booting?
+2012-05-29T04:16:00.000Z	worrow		I have mac system and have ubuntu installed into the windows partition by itself, but when I select the ubuntu partition, it loads the grub then i have to select the menu item. I want to click my os then have no grub delay and it just boot
+2012-05-29T04:17:00.000Z	worrow		is there a different grub I can install that will work faster?
+2012-05-29T04:17:00.000Z	D[4]ni	worrow	you can decrease the delay.

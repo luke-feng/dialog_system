@@ -1,0 +1,6 @@
+2008-05-25T04:55:00.000Z	Monica_2		how do i uninstall a splash screen?
+2008-05-25T04:55:00.000Z	Ashfire908	Monica_2	you could remove the splash option from the boot options, though then the end startup lines have an extra space in them.
+2008-05-25T04:56:00.000Z	Ashfire908	Monica_2	what are you on? (ubuntu, kubuntu)
+2008-05-25T04:59:00.000Z	Ashfire908	Monica_2	uninstall usplash-theme-ubuntu (or usplash, which will remove usplash competely). Doing either of these will uninstall the meta package ubuntu-desktop though (That doesn't effect anything really though, to my knoledge.)
+2008-05-25T05:00:00.000Z	Ashfire908	Monica_2	no. you can't.
+2008-05-25T05:00:00.000Z	Ashfire908	Monica_2	ubuntu-desktop depends on the usplash and the theme. ubuntu-desktop is a metapackge though, and it's not actually required for anything

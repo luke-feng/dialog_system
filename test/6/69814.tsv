@@ -1,0 +1,6 @@
+2011-02-07T07:32:00.000Z	BeyondSora		hey guys
+2011-02-07T07:32:00.000Z	BeyondSora		so I have virtualbox installed, and arch set up as the guest OS
+2011-02-07T07:32:00.000Z	BeyondSora		now i have made my home folder shared folder with the guest OS
+2011-02-07T07:32:00.000Z	BeyondSora		but at first my arch couldnt read my home folder
+2011-02-07T07:32:00.000Z	BeyondSora		i realized the permission setting for the home folder is set as rwx to myself, and nothing to everyone else
+2011-02-07T07:32:00.000Z	FloodBot3	BeyondSora	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

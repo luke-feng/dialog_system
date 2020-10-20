@@ -1,0 +1,6 @@
+2009-04-06T04:47:00.000Z	PCTeacher012		um.. no, ill check now
+2009-04-06T04:48:00.000Z	PCTeacher012		Okay, i didnt know link, even though i hsould, im ON the bug team xD
+2009-04-06T04:49:00.000Z	PCTeacher012		how do i install Java for Ubuntu? Java.com: Linux: Self Extractor?
+2009-04-06T04:50:00.000Z	zcat[1]	PCTeacher012	you can install a package via apt-get or aptitude or synaptic.. it's all different fronetends for the same system
+2009-04-06T04:52:00.000Z	zcat[1]	PCTeacher012	I'd highly reccomend 'sudo apt-get ubuntu-restricted-extras' -- that installs flash, java, lots of codecs, ms core fonts.. and a few other things all in one go.
+2009-04-06T04:52:00.000Z	zcat[1]	PCTeacher012	sorry; 'sudo apt-get install ubuntu-restricted-extras'

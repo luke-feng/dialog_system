@@ -1,0 +1,6 @@
+2010-06-22T23:13:00.000Z	guzu	Jon--	so it's not dd's fault. check if the device is available in fdisk -l
+2010-06-22T23:13:00.000Z	guzu	Jon--	follow erUSUL , please
+2011-06-16T15:00:00.000Z	guzu	Jon--	try vlc changelog maybe
+2011-06-16T15:15:00.000Z	Jon--	guzu	For future reference it's 1.10.0. I had to use ALSA output instead as the repos don't have that yet for Maverick. [VLC issue]
+2011-06-16T15:15:00.000Z	guzu	Jon--	thank you very much
+2011-06-16T15:16:00.000Z	Jon--	guzu	It's pretty bad, if VLC is left open long enough and not killed in time it will cause a system hang from memory leak :O. Damn pulse audio.

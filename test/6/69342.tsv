@@ -1,0 +1,6 @@
+2007-12-27T01:46:00.000Z	LimCore		hello,  how to rebuild the kernel that I have (in 7.10 amd64 bit) but exacly for my amd64 (not generic) SMP,  and while aplying to it grsecurity patch? (so perhaps it will be other version like 23.9)
+2007-12-27T01:46:00.000Z	LimCore		how to start nested X session, in which I will log in to another user
+2007-12-27T01:48:00.000Z	yrvyzz	LimCore	when in Gnome, click the "exit" symbol in the upper right, then choose Switch userr
+2007-12-27T01:48:00.000Z	yrvyzz		sorry, that's not nested
+2007-12-27T01:49:00.000Z	LimCore	yrvyzz	I want it to be nested
+2007-12-27T01:52:00.000Z	yrvyzz	LimCore	try installing xnest package

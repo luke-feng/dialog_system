@@ -1,0 +1,6 @@
+2012-03-15T07:34:00.000Z	CacheMoney		does any use Chrome on Ubuntu 11.10?
+2012-03-15T07:34:00.000Z	taglass	CacheMoney	Better to just ask your question.
+2012-03-15T07:35:00.000Z	CacheMoney		Where do I download Chrome for 11.10?
+2012-03-15T07:35:00.000Z	taglass		http://www.google.com/chrome
+2012-03-15T07:36:00.000Z	CacheMoney	taglass	I thought on Linux you were supposed to use PPA or dpkg ??  I'm new..
+2012-03-15T07:36:00.000Z	taglass	CacheMoney	When you install the deb you download from google, it will setup a repository for you.

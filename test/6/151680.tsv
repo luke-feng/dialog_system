@@ -1,0 +1,6 @@
+2010-06-26T04:43:00.000Z	crouchingsamurai		Searched the web but did not find a clear & straight answer.  Downloaded Ubuntu and burned to cd.  Launched the installer and instructed script to install 10.04 and completely clean and reformat hard drive on install (ext4).  Afterwards when rebooting system stops on root\system32\hal.dll error and will not boot up ubuntu.  Do not understand why I need this file if I'm only installing Ubuntu...
+2010-06-26T04:43:00.000Z	crouchingsamurai		...10.04 and do not want Windows anywhere on the system?  Any and all help appreciated...
+2010-06-26T04:45:00.000Z	MaRk-I	crouchingsamurai	are you using wubi install?
+2010-06-26T04:47:00.000Z	MaRk-I	crouchingsamurai	run the livecd and install from there, don't use "wubi"
+2010-06-26T05:13:00.000Z	MaRk-I	crouchingsamurai	 reboot the pc with the cd
+2010-06-26T05:14:00.000Z	MaRk-I	crouchingsamurai	 are you running the installer inside windows?

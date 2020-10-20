@@ -1,0 +1,6 @@
+2011-01-28T20:55:00.000Z	david234		I want to automatically encode wave files into MP3 files on my Ubuntu server. I read Ubuntu does not include mp3 because of licensing issues. How do I encode files into MP3 on my server and respect laws in Canada and the USA ?
+2011-01-28T20:57:00.000Z	nexes	david234	It's not like DeCSS, where you're violating the DMCA. mp3 licensing is..strange.
+2011-01-28T20:57:00.000Z	nexes	david234	But you'll notice that Winamp and other free media players don't pay for mp3 licensing, only commercial, paid products and hardware.
+2011-01-28T20:58:00.000Z	david234	BluesKaj	nexes, the server is part of a commercial service.
+2011-01-28T20:58:00.000Z	nexes	david234	This may be relevant to you then: http://mp3licensing.com/royalty/
+2011-01-28T20:59:00.000Z	nexes	david234	If you're not specifically tethered to mp3 for some reason and just need an audio codec, I would also suggest ogg, naturally. :)

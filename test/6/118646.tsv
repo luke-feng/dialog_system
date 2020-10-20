@@ -1,0 +1,6 @@
+2011-03-19T13:14:00.000Z	chinthaka		I installed xampp in ubuntu
+2011-03-19T13:15:00.000Z	chinthaka		but when I go to localhost it shows the xampp homepage and when I click on the language it remains on the same page
+2011-03-19T13:15:00.000Z	ikonia	chinthaka	bad idea, xampp is a self contained platform
+2011-03-19T13:15:00.000Z	ikonia	chinthaka	you should have installed lam
+2011-03-19T13:16:00.000Z	ikonia	chinthaka	xampp has it's own support channel
+2011-03-19T13:18:00.000Z	ikonia	chinthaka	ok, well xammpp has it's own support chanel as it's a self contained product

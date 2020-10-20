@@ -1,0 +1,6 @@
+2008-08-27T04:37:00.000Z	cyberai		can anyone tell me how to get past the busybox error when installing hardy? I've even tried to alternative cd and I can't seem to burn one that works on linux or windows!
+2008-08-27T04:38:00.000Z	Expl01ted	cyberai	reburn the cd as slow as your cd burner will do.
+2008-08-27T04:38:00.000Z	Expl01ted	cyberai	its the ONLY way I got it too work.
+2008-08-27T04:39:00.000Z	cyberai		is there a way to stop the Live CD at the grub meu so I can add the all_generic_ide and irqpoll kernal arguments?
+2008-08-27T04:41:00.000Z	cyberai	Expl01ted	is there a way to stop the Live CD at the grub meu so I can add the all_generic_ide and irqpoll kernal arguments?
+2008-08-27T04:42:00.000Z	Expl01ted	cyberai	listen to unop.

@@ -1,0 +1,6 @@
+2012-06-03T06:15:00.000Z	jonathon		hello can anyone help with thunderbird 12 on ubuntu 12.04
+2012-06-03T06:17:00.000Z	jonathon		fresh install of 12.04. I cannot get Thunderbird to connect to any mail server. RSS feeds download fine but no email. Migrating from ubuntu 10.04. I copied my .thunderbird folder, which worked fine in 10.04, to this build. all my settings are from a working build but I cannot connect
+2012-06-03T06:18:00.000Z	jonathon		I am connecting through a proxy with authentication. I used Dconf editor to set the proxy settings as well as the system settings>network proxy.
+2012-06-03T06:18:00.000Z	bwayne	jonathon	try moving .thunderbird to .bak.thunderbird and resetup your accounts.  if it works, you know the Thunnderbird has changed its .config files in some way.
+2012-06-03T06:19:00.000Z	jonathon	bwayne	I tried and cannot setup a new account. It gets stuck on "checking password" with any email I try to input
+2012-06-03T06:21:00.000Z	bwayne	jonathon	well, barring any misconfiguration on your end, there may be a little bug in this version of thunderbird.  hard to say.  if you're comfortable compiling from source, try downgrading manually.

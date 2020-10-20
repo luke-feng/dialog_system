@@ -1,0 +1,6 @@
+2009-03-30T23:58:00.000Z	creator-cdsc		!tar
+2009-03-30T23:58:00.000Z	creator-cdsc		!gz
+2009-03-30T23:59:00.000Z	creator-cdsc		!help
+2009-03-31T00:00:00.000Z	creator-cdsc		are there any applications for chatting over ssh?
+2009-03-31T00:00:00.000Z	clearscreen	creator-cdsc	if you mean chatting over a shell, then yes.. apps like bitchx
+2009-03-31T00:01:00.000Z	creator-cdsc	clearscreen	yes, chatting over a shell, but i want it to connect to another computer over the LAN using ssh

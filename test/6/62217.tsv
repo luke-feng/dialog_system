@@ -1,0 +1,6 @@
+2008-03-20T04:59:00.000Z	anteaya		i am looking at my user.log file for the first time and it seems to me that when i sudo, i am not dropping back down to regular user status but staying as root.  Is there a way to confirm this?
+2008-03-20T05:00:00.000Z	Pelo	anteaya	sudo stays enabled  for a few minutes so you don't hve to enter the passw for every single command during a long series
+2008-03-20T05:00:00.000Z	anteaya	Pelo	thank you
+2008-03-20T05:00:00.000Z	anteaya	Pelo	can i execute a command to force a drop?
+2008-03-20T05:01:00.000Z	Pelo	anteaya	probably,  try man sudo , there should be options to let you do that in there
+2008-03-20T05:01:00.000Z	anteaya	Pelo	thank you

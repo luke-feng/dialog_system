@@ -1,0 +1,6 @@
+2006-11-03T17:03:00.000Z	jasper_		can someone help me with a problem im having with my sound card
+2006-11-03T17:04:00.000Z	dark_light	jasper_	tell us your problem
+2006-11-03T17:05:00.000Z	dark_light	jasper_	(what is hooked up? heh)
+2006-11-03T17:07:00.000Z	dark_light	jasper_	tried to load manually the module?
+2006-11-03T17:08:00.000Z	dark_light	jasper_	try lsmod|grep esl
+2006-11-03T17:08:00.000Z	dark_light	jasper_	or only lsmod without parameters.. it shows the loaded modules

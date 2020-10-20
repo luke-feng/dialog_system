@@ -1,0 +1,6 @@
+2008-09-04T07:20:00.000Z	gaintsura		does anyone know how to run a command at login? I tried setting it up in sessions applet, but it did not work.
+2008-09-04T07:20:00.000Z	darjeeling	gaintsura	gui command?
+2008-09-04T07:21:00.000Z	gaintsura	darjeeling	its a command line, python /home/gaintsura/new_shading.py pidgin
+2008-09-04T07:22:00.000Z	darjeeling	gaintsura	I recommand .bashrc maybe wrong
+2008-09-04T07:22:00.000Z	gaintsura	darjeeling	just put the command in there?
+2008-09-04T07:22:00.000Z	darjeeling	gaintsura	maybe =) try it

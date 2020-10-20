@@ -1,0 +1,6 @@
+2009-01-02T05:47:00.000Z	aleksN^		hollywoodb; If that is the best and easiest solution I'll do that. Will it delete som data? Will it update my ubuntu to the newest ubuntu?  do you got an guide or howto for dist-upgrade?
+2009-01-02T05:47:00.000Z	Tidus	aleksN^	in a terminal, run 'sudo update-manager -d'
+2009-01-02T05:48:00.000Z	Tidus	aleksN^	if you're on 7.04 you're in for a LONG upgrade... 7.04 -> .10 -> 8.04 -> .10
+2009-01-02T05:49:00.000Z	Tidus	aleksN^	it'll update to 7.10 first
+2009-01-02T05:50:00.000Z	Tidus	aleksN^	then 8.04
+2009-01-02T05:50:00.000Z	Tidus	aleksN^	i'd have backups, but it's generally safe

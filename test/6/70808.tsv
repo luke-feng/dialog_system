@@ -1,0 +1,6 @@
+2009-12-16T10:27:00.000Z	Lostinspace_46		Gaara:-) Yeah..what Billiard said
+2009-12-16T10:29:00.000Z	Lostinspace_46		When a window opens, does gnome set it's location
+2009-12-16T10:30:00.000Z	Lostinspace_46		ianm_:-) Hmmm, compiz?  I will check, thanks
+2009-12-16T10:31:00.000Z	soreau	Lostinspace_46	The Window Manager is responsible for that behavior. Default window manager in gnome is metacity, but you can use compiz or any other for that matter. It should be noted only one window manager can be used at any given time
+2009-12-16T10:48:00.000Z	soreau	Lostinspace_46	Your icons are controlled by nautilus, not the window manager. and I don't know enough about nautilus to say if you can tell it where to place it's icon
+2009-12-16T10:49:00.000Z	soreau	Lostinspace_46	I always disable all icons to make for a cleaner looking desktop and access whatever I need through the places menu or file browser

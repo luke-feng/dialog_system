@@ -1,0 +1,6 @@
+2008-05-29T21:47:00.000Z	gooody		can anybody help me install a .bin fiel?
+2008-05-29T21:48:00.000Z	gooody		﻿LeChacal: it's a game and i guess it's installable
+2008-05-29T21:49:00.000Z	gooody		﻿kevin_syt: ﻿what will chmod a+x   ./*.bin do?
+2008-05-29T21:49:00.000Z	gooody		﻿Ali_ix: will it automatically install the file?
+2008-05-29T21:51:00.000Z	gooody		﻿kevin_syt: ./*.bin executes the file. am i right?
+2008-05-29T21:51:00.000Z	gnuskool	gooody	http://monkeyblog.org/ubuntu/installing/#installer

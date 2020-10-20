@@ -1,0 +1,6 @@
+2006-03-22T07:46:00.000Z	GnarusLeo		does ubutu have a ftp-deamon? So I can log in with ftp with my shell user account?
+2006-03-22T07:46:00.000Z	GnarusLeo		!ftpd
+2006-03-22T07:46:00.000Z	suse78	GnarusLeo	shure use sftp :)
+2006-03-22T07:47:00.000Z	GnarusLeo	suse78	thanks :) Is it a service?
+2006-03-22T07:47:00.000Z	GnarusLeo	suse78	ok, thanks alot
+2006-03-22T07:49:00.000Z	GnarusLeo	suse78	oh .. its installed .. how do I enable it? :P I tried conencting now, and it says "refused"

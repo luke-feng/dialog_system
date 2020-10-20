@@ -1,0 +1,6 @@
+2007-10-09T09:08:00.000Z	Vuen		hey guys, how do i see how much ram my system has?
+2007-10-09T09:09:00.000Z	Vuen		i just added a 512 stick so i should have 1g now, and memtest saw it fine, but df -h seems to think i only have 512
+2007-10-09T09:09:00.000Z	randomchatter	Vuen	cat /proc/cpuinfo
+2007-10-09T09:12:00.000Z	randomchatter	Vuen	why would you do so?
+2007-10-09T09:13:00.000Z	Vuen	randomchatter	because this is meant to be a public terminal, so it kindof defeats the purpose when people lock it and i need to come around with a password to unlock it
+2007-10-09T09:15:00.000Z	randomchatter	Vuen	right click it and click remove from panel

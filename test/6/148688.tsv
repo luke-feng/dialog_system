@@ -1,0 +1,6 @@
+2007-06-08T14:27:00.000Z	k31th		Anyone had any luck running codeweavers crossover office and office 2007?
+2007-06-08T14:27:00.000Z	k31th		yes
+2007-06-08T14:28:00.000Z	k31th		are you a script kiddy?
+2007-06-08T14:29:00.000Z	k31th		hum
+2007-06-08T09:49:00.000Z	k31th		guys if apache wont start wat log would you look in?
+2007-06-08T09:50:00.000Z	kmaynard	k31th	/var/log/apache2/error.log

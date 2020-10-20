@@ -1,0 +1,6 @@
+2008-05-31T11:10:00.000Z	clayd		i am trying to install php5 and i am getting the following message.
+2008-05-31T11:11:00.000Z	clayd		Package php5-json is a virtual package provided by:
+2008-05-31T11:11:00.000Z	clayd		  php5-common 5.2.4-2ubuntu5.1
+2008-05-31T11:11:00.000Z	clayd		You should explicitly select one to install.
+2008-05-31T11:11:00.000Z	clayd		E: Package php5-json has no installation candidate
+2008-05-31T11:11:00.000Z	FloodBot3	clayd	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

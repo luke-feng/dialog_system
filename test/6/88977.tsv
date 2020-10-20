@@ -1,0 +1,6 @@
+2009-12-06T14:13:00.000Z	xxtripxx		So I'm trying to run this command "mount -o loop /media/internal/debsmall.img /media/cf
+2009-12-06T14:13:00.000Z	xxtripxx		" but this is what i get http://img412.imageshack.us/img412/542/screenshot1do.png
+2009-12-06T14:14:00.000Z	xxtripxx		i dont believe it should be in the debsmall.img
+2009-12-06T14:14:00.000Z	xxtripxx		then i need to create a mount point to the img file
+2009-12-06T14:15:00.000Z	llutz	xxtripxx	cd "Palm Pre"
+2009-12-06T14:16:00.000Z	llutz	xxtripxx	using spaces in file-/dirnames need to escape them

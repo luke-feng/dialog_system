@@ -1,0 +1,6 @@
+2008-05-06T18:59:00.000Z	laiya		you guys is there a way i could install windows like parallels desktop in mac ?
+2008-05-06T18:59:00.000Z	laiya		does it work with ubuntu ?
+2008-05-06T19:00:00.000Z	bamed	laiya	VirtualBox will work too, and it's in the repositories
+2008-05-06T19:00:00.000Z	laiya	bamed	so if i have windows on a different partition will it run that one or ill have to install it again ?
+2008-05-06T19:04:00.000Z	bamed	laiya	I don't think VirtualBox will do this, VMWare will let you use a physical partition in place of a virtual hard drive, so it's possible, but all the drivers would be different so I can't tell you how well it will work
+2008-05-06T19:05:00.000Z	bamed	laiya	I aggree with bazhang, if you're only problem is file shares, a VM is not the right solution, you want samba

@@ -1,0 +1,6 @@
+2008-07-07T05:28:00.000Z	tekryan		why doesn't this work in ubuntu, and what do i need to change .....? sudo -ivh
+2008-07-07T05:28:00.000Z	tekryan		I have a couple rpm's on desktop and want to install the things
+2008-07-07T05:29:00.000Z	tekryan		it's nomachine
+2008-07-07T05:29:00.000Z	tekryan		so i don't want rpm's or waht
+2008-07-07T05:30:00.000Z	IndyGunFreak	tekryan	what are the rpms you're trying to install.
+2008-07-07T05:31:00.000Z	IndyGunFreak	tekryan	alien is a HORRIBLE idea, what are you trying to install that needs an RPM?

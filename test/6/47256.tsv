@@ -1,0 +1,6 @@
+2009-01-03T19:31:00.000Z	littlewookie		anyone an idea how to get libqt3c102-mt ?
+2009-01-03T19:33:00.000Z	r3dux	littlewookie	- sudo apt-get apt-file
+2009-01-03T19:33:00.000Z	littlewookie	r3dux	it would be nice if the pakage were in the repos
+2009-01-03T19:34:00.000Z	littlewookie		No candidate version found for libqt3c102-mt
+2009-01-03T19:34:00.000Z	r3dux	littlewookie	- apt-file should be in the repos - then you use "apt-file search <NAME OF FILE>
+2009-01-03T19:34:00.000Z	r3dux	littlewookie	- perhaps you need to expand you repos if it's not a standard file...

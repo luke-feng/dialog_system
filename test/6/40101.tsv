@@ -1,0 +1,6 @@
+2010-01-18T12:54:00.000Z	reactor		anybody?
+2010-01-18T12:54:00.000Z	reactor		how can I check HDD for hardware errors?
+2010-01-18T12:55:00.000Z	reactor		hmm
+2010-01-18T12:55:00.000Z	reactor		I seem to have bad surface I mean
+2010-01-18T12:55:00.000Z	reactor		roger
+2010-01-18T12:56:00.000Z	meganerd	reactor	boot from a rescue disk, then scan the drive with fsck -c

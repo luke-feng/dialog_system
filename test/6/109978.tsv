@@ -1,0 +1,6 @@
+2006-10-29T17:55:00.000Z	syock		hoyo
+2006-10-29T17:56:00.000Z	syock		why does synaptic tell me to remove ubuntu-desktop if i want to remove gnome-games
+2006-10-29T17:56:00.000Z	hume	syock	its a dummy package that points to gnome-games
+2006-10-29T17:57:00.000Z	hume	syock	no problems removing it
+2006-10-29T17:57:00.000Z	syock	hume	so like i can remove at-spi and it won`t affect openoffice.org-gnome?
+2006-10-29T17:58:00.000Z	hume	syock	dont know about at-spi, if it says its a dummy package it is no risk

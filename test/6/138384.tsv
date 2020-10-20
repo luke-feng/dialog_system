@@ -1,0 +1,6 @@
+2006-01-05T07:01:00.000Z	Athame		Hello all, I have a complete newbie question. I just installed Ubuntu 5.10 x86 on a dual-boot with xp pro sp2. Running a Radeon x600 pro 256 vid card, Intel pent 4 cpu 3.2 ghz. I get to the upscreen and the system freezes, can't get past that in regular, recovery, or on the live cd. Only other thing is I'm running dual monitors with desktop extended in xp. Any ideas why or how to fix it?
+2006-01-05T07:02:00.000Z	Inf3ctedFx	Athame	yesterday was a guy with the same problem
+2006-01-05T07:02:00.000Z	Inf3ctedFx	Athame	 let me show u a website it might help
+2006-01-05T07:03:00.000Z	Inf3ctedFx	Athame	 use this one even if is for gentoo --> http://gentoo-wiki.com/HOWTO_Dual_Monitors
+2006-01-05T07:04:00.000Z	Inf3ctedFx	Athame	 can be the module on the kernel for the video card driver
+2006-01-05T07:05:00.000Z	Inf3ctedFx	Athame	 chekc that website i gave u.. it might help

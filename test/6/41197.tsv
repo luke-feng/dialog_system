@@ -1,0 +1,6 @@
+2009-03-28T07:31:00.000Z	halycon		Hi everyone! I am just wondering how to switch my java configuration so that it uses Sun Java
+2009-03-28T07:33:00.000Z	halycon		I am using Eclipe and it doesn't work with any other thing except for Sun Java
+2009-03-28T07:35:00.000Z	flippo	halycon	you used the synaptic package manager to get the sun version?
+2009-03-28T07:36:00.000Z	halycon	flippo	yeah I have it installed
+2009-03-28T07:36:00.000Z	halycon		there was an update to one of the alternatives and it changed after the update was done
+2009-03-28T07:36:00.000Z	flippo	halycon	funny, that was enough to get sun java as the default everywhere, for me.

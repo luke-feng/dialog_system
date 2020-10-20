@@ -1,0 +1,6 @@
+2012-06-23T21:13:00.000Z	BrixSat1		Hello i have a patch file and i would like to apply it using a guy or view what will change and where
+2012-06-23T21:14:00.000Z	BrixSat1		i dont understand that
+2012-06-23T21:16:00.000Z	escott	BrixSat1	im not sure its going to get much easier. there are chunks between the +++ and --- with line numbers after the @ symbol. the chunks have a + on lines that are added a - on lines that are removed and " " in front of context lines
+2012-06-23T21:17:00.000Z	escott	BrixSat1	but if you had to have a side by side comparison you could put it all into a git or mercurial archive and setup meld as your diff util
+2012-06-23T21:17:00.000Z	BrixSat1	escott	 i have meld but i cant seem to be abble to view where i put the path file for comparison, or would i have to apply it first and then compare?
+2012-06-23T21:18:00.000Z	escott	BrixSat1	meld doesnt work with patch files. you would have to apply the patch file and then use meld to compare pre and post patch variants. tools like hg and git will make those copies for you if you know how to use them

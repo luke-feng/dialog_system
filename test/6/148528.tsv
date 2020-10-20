@@ -1,0 +1,6 @@
+2005-12-20T06:25:00.000Z	mfinch		I have recently added another Linux distro to a different partition.  Ubuntu will find "other" distros on install.  How/what commands do I need to get grub to scan for other distros after bootin into Ubuntu?  Should update-grub take care of this for me?
+2005-12-20T06:26:00.000Z	albacker	mfinch	and fstab
+2005-12-20T06:28:00.000Z	mfinch	albacker	so if my other partitons are not configured in /etc/fstab they will be ignored
+2005-12-20T06:29:00.000Z	albacker	mfinch	your partition should be something like /dev/hdaX [where X is a number] , you mount the partition to some directory; as root => mkdir /mnt/partition; mount /dev/hdaX /mnt/partition [change X to the partition number] ; you can use this comand in fstab !! so its don automatically when ubuntu boots.
+2005-12-20T06:31:00.000Z	albacker	mfinch	si first you should know whats your partitions name in /dev directory, and than mount it.. or just add the automountin-line into fstab. that should be all..
+2005-12-20T06:34:00.000Z	albacker	mfinch	you want to see in grub menu ;; the other distro ? right ?

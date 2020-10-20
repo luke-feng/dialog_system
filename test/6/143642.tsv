@@ -1,0 +1,6 @@
+2007-03-06T07:53:00.000Z	tjl30		he I wanted to try out the Kdesktop how would I do that?
+2007-03-06T07:54:00.000Z	tjl30		well I am on ubuntu
+2007-03-06T07:54:00.000Z	tjl30		so is there a way I can install kde but keep gnome
+2007-03-06T07:55:00.000Z	tjl30		so do I install the kubuntu-desktop through terminal?
+2007-03-06T07:55:00.000Z	bimberi	tjl30	yes, or using a package manager such as Synaptic
+2007-03-06T07:56:00.000Z	bimberi	tjl30	'sudo apt-get install kubuntu-desktop'

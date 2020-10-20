@@ -1,0 +1,6 @@
+2005-05-23T16:42:00.000Z	RedNeck-		is it possible to  make an unattended cd for an automated installation of Ubuntu?
+2005-05-23T16:44:00.000Z	RedNeck-		Does anyone know where I can download themes for Ubuntu?
+2005-05-23T16:45:00.000Z	RedNeck-		thanks reisio..
+2005-05-23T05:13:00.000Z	RedNeck-		How can I became a root in Ubuntu?
+2005-05-23T05:13:00.000Z	RedNeck-		need to install a theme?
+2005-05-23T05:13:00.000Z	yfir	RedNeck-	sudo -s if you need a root shell

@@ -1,0 +1,6 @@
+2008-12-29T22:17:00.000Z	lyrae		how do i make my apache server available to the public?
+2008-12-29T22:18:00.000Z	w3wsrmn	lyrae	Open the port apache is listening on.
+2008-12-29T22:19:00.000Z	lyrae	w3wsrmn	how do i do that?
+2008-12-29T22:20:00.000Z	w3wsrmn	lyrae	via iptables. You can use ufw to ease the process: ' sudo ufw allow 80 ' (80 is the default port apache listens on)
+2008-12-29T22:21:00.000Z	lyrae	w3wsrmn	thank you
+2008-12-29T22:44:00.000Z	lyrae	w3wsrmn	didn't work. connection timed out. but im reading more on this, im trying to ssh into myself but i can't do it

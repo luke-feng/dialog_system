@@ -1,0 +1,6 @@
+2010-11-01T03:06:00.000Z	aaditya		GNOME panel looks ugly on my new installation. Something wrong with the settings manager?
+2010-11-01T03:07:00.000Z	raziel_	aaditya	: screenshot
+2010-11-01T03:09:00.000Z	aaditya	raziel_	macossex: http://imagebin.ca/view/d_qTL_1V.html
+2010-11-01T03:10:00.000Z	raziel_	aaditya	: thats your defaulte theme or you change it ?
+2010-11-01T03:10:00.000Z	aaditya	raziel_	that little bar next to the tray is a result of gnome settings daemon not functioning as expect. This is default.
+2010-11-01T03:10:00.000Z	aaditya	raziel_	I've run into this before, but I can't recall how to fix this.

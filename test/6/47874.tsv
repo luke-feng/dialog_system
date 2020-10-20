@@ -1,0 +1,6 @@
+2009-03-05T10:13:00.000Z	bangalibabu		applications are hanging so much these days. especially firefox and media players. what's the problem? what do i do?
+2009-03-05T10:14:00.000Z	bangalibabu		512 mb
+2009-03-05T10:16:00.000Z	bangalibabu		gnome firefox and vlc and mplayer
+2009-03-05T10:17:00.000Z	bangalibabu		i need to install more memory?
+2009-03-05T10:18:00.000Z	DasEI	bangalibabu	that works so, but is very unconvienent, other specs of that pc ?
+2009-03-05T10:21:00.000Z	DasEI	bangalibabu	yes, that works, but you mussn't have to many apps running in the same time, also vm's won't work well, see top and htop, when system is laggy

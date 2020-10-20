@@ -1,0 +1,6 @@
+2011-03-31T08:52:00.000Z	zarbula		Ubuntu, for some reason my Nvidia based motherboard's sound card isn't working so I bought this super cheap one that does work, however when I switch to the correct sound card in alsamixer I still have no sound, and the volume mixer in gnome always shows as blank, and if I click sound preference it just hangs at "waiting for sound system to respond" any idea?
+2011-03-31T08:53:00.000Z	Halzen	zarbula	could you tell me exactly what motherboard sound device you're using?
+2011-03-31T08:53:00.000Z	Halzen		ljsoftnext: that fully removes the app, like a full uninstall.
+2011-03-31T08:54:00.000Z	zarbula	Halzen	It's Nvidia based, and it's currently disabled so I can't.. It was the only way to get sound to play though the other sound card.
+2011-03-31T08:54:00.000Z	zarbula	Halzen	Now that it's the only sound card it's still doing the same thing :*(
+2011-03-31T08:54:00.000Z	Halzen	zarbula	Unfortunately, there are lot's of Nvidia-based mobos using different sound devices. I'd need you to find the name of the product for me to look up driver options.

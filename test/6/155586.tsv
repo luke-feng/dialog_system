@@ -1,0 +1,6 @@
+2007-12-23T23:29:00.000Z	iDope		hello can anyone summarize in a few lines what to sed and awk do?
+2007-12-23T23:29:00.000Z	iDope		a stream editor is too vague an explanation
+2007-12-23T23:29:00.000Z	iDope		it has something to do with text parsing and inline editing right?
+2007-12-23T23:30:00.000Z	Dr_willis	iDope	 they take the data comming in.. change it.. spit it back out.
+2007-12-23T23:31:00.000Z	Dr_willis	iDope	 awk is rather amazing in what it can do. :)
+2007-12-23T23:31:00.000Z	Dr_willis	iDope	 this is ascii/text data?

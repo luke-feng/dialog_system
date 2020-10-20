@@ -1,0 +1,6 @@
+2005-11-19T08:12:00.000Z	mclaren266		hello
+2005-11-19T08:12:00.000Z	mclaren266		does anyone know how to install wireless drivers for my wireless usb key (dwl-g122)?
+2005-11-19T08:12:00.000Z	ithiel	mclaren266	ndiswrapper
+2005-11-19T08:28:00.000Z	ithiel	mclaren266	no such thing on Linux, you can enable subpixel hinting for LCD's though
+2005-11-19T08:29:00.000Z	ithiel	mclaren266	essentially yes, it looks better in my opinion though
+2005-11-19T08:29:00.000Z	ithiel	mclaren266	try playing around with the options, choose what looks best to you

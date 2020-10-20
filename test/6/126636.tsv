@@ -1,0 +1,6 @@
+2008-04-06T09:22:00.000Z	dibblego		how can I run a script on login?
+2008-04-06T09:22:00.000Z	Dr_willis	dibblego	 depends on the window manager. Kde has .kde/Autostart Directory. Gnome has the session management features
+2008-04-06T09:22:00.000Z	dibblego	Dr_willis	I am using GNOME
+2008-04-06T09:22:00.000Z	Dr_willis	dibblego	 what program anyway?
+2008-04-06T09:23:00.000Z	dibblego	Dr_willis	mozilla lightning
+2008-04-06T09:23:00.000Z	Dr_willis	dibblego	 start the program, save the session. it should autostart i think.

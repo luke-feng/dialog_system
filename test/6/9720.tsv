@@ -1,0 +1,6 @@
+2011-12-30T11:40:00.000Z	MrHacks		Hey, guy. I think I touched something I shouldn't have.  During my oneric update, I kept seeing a message saying 'xset could not find display ""' so I went to a forum to see if it was some sort of error (on another computer, obviously) concerned it might be an error. It wasn't really, and someone had the idea of using "sudo xset dpms off" to fix the bug but at the end of the upgrade, this message showed up several times, so I type
+2011-12-30T11:41:00.000Z	DrPenguin	MrHacks	xset dpms off would just disable power management features for the monitor
+2011-12-30T11:42:00.000Z	MrHacks	DrPenguin	How to I make the screen work like it did such that if I move the mouse around the backlight turns back on as well as the LCD?
+2011-12-30T11:42:00.000Z	DrPenguin	MrHacks	turn dpms back on
+2011-12-30T11:44:00.000Z	MrHacks		DPMS was enabled, DrPenguin. the problem is I chaged something I shouldn't have I think. are you sure that 'sudo xset dpms on' will fix everything?
+2011-12-30T11:45:00.000Z	DrPenguin	MrHacks	how should I know? if you changed more than you just told me then Id have no idea how to fix ur issue

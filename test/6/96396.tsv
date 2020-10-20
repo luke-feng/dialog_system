@@ -1,0 +1,6 @@
+2007-02-01T09:54:00.000Z	cappiz		when i do sudo su i get this: sudo timestamp to far in the future
+2007-02-01T09:54:00.000Z	cappiz		how do i fix that?
+2007-02-01T09:55:00.000Z	Pici	cappiz	: sudo -k
+2007-02-01T09:55:00.000Z	Pici		!version | variant
+2007-02-01T09:56:00.000Z	cappiz	Pici	same error
+2007-02-01T09:57:00.000Z	Pici	cappiz	: try it with a capital K

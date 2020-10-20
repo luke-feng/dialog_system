@@ -1,0 +1,6 @@
+2009-07-11T16:55:00.000Z	ackbahr		Hi!
+2009-07-11T16:56:00.000Z	ackbahr		How can I copy / to a USB HD without cyclically copying this HD (as it is mounted as a subdirectory of /)?
+2009-07-11T16:58:00.000Z	oskar-	ackbahr	 cp -ax
+2009-07-11T16:58:00.000Z	ackbahr	oskar-	Thanks!
+2009-07-17T19:58:00.000Z	oskar-	ackbahr	 you could use "find" with "-type f" and "-exec"
+2009-07-17T20:00:00.000Z	ackbahr	oskar-	Ok.... Well, actually it's just to avoid an error message in a script, so it's no big deal....

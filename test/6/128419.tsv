@@ -1,0 +1,6 @@
+2007-01-24T09:27:00.000Z	awad		what's up? i'm on a fresh ubuntu system and *nothing* works! i downloaded this tool (aircrack-ng from aircrack-ng.org) and tried compiling it, that didn't work: www.home.no/hedhnta/paste.txt ... then i tried adding se basic software, apt-get install build-essential, apt-get install zsh ... but it complains it can't find any packages. i've asked in all linux channels i could find, and nobody can give me a straight answer, they just tell me to bugger of
+2007-01-24T09:29:00.000Z	rage_	awad	You are missing headers or something.
+2007-01-24T09:29:00.000Z	rage_	awad	you need to set up your package sources before you can install stuff.
+2007-01-24T09:30:00.000Z	rage_	awad	You might well be able to install aircrack from a multivers source.
+2007-01-24T09:30:00.000Z	rage_	awad	Someone might be able to point you at a sources.list generator.
+2007-01-24T09:31:00.000Z	rage_	awad	!easysource

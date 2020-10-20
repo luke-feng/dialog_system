@@ -1,0 +1,6 @@
+2011-02-15T10:36:00.000Z	ShaNayNay		unless there is an error and his/her account isn't part of the group
+2011-02-15T10:37:00.000Z	ShaNayNay		add it to startup applications
+2011-02-15T10:38:00.000Z	ShaNayNay		add it to startup applications KGBWolf
+2011-02-15T10:38:00.000Z	KGBWolf	ShaNayNay	how would i save the custom command for example date xxxxxxxxx
+2011-02-15T10:40:00.000Z	ShaNayNay	KGBWolf	use gedit to create a script with the command you want, then run chmod +x on the file then add it to statup applications
+2011-02-15T10:40:00.000Z	ShaNayNay	KGBWolf	you may have to fiddle with it

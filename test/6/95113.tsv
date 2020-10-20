@@ -1,0 +1,6 @@
+2007-06-02T12:36:00.000Z	r00tintheb0x		then install fluxbox or something
+2007-06-02T12:38:00.000Z	r00tintheb0x		what do you mean low_on_ram ?
+2007-06-02T12:38:00.000Z	r00tintheb0x		load linux from the SD card?
+2007-06-02T12:38:00.000Z	r00tintheb0x		GRUB should be able to do that.
+2007-06-02T12:39:00.000Z	qman	r00tintheb0x	I think what low_on_ram means is, the system will not boot from the SD card, so (s)he needs to boot initially from a CD
+2007-06-02T12:48:00.000Z	r00tintheb0x	qman	can grub not write a boot record to a SD card?

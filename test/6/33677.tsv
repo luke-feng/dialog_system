@@ -1,0 +1,6 @@
+2009-08-05T22:45:00.000Z	joeyeye	donnybrasco	try hcitool scan
+2009-08-05T22:46:00.000Z	joeyeye	donnybrasco	or sudo hidd --search
+2009-08-05T22:48:00.000Z	donnybrasco	joeyeye	thanks, but it didn't work hcitool scan only showed a device that's not paired and sudo hidd --search returned nothing
+2009-08-05T22:49:00.000Z	joeyeye	donnybrasco	try hcitool dev ?
+2009-08-05T22:49:00.000Z	joeyeye	donnybrasco	try hcitool inq ?
+2009-08-05T22:51:00.000Z	donnybrasco	joeyeye	hcitool dev shows the adaptor address, hcitool inq shows "00:70:E0:A9:3B:CF clock offset: 0x4f35 class: 0x100114" (no idea what that is)

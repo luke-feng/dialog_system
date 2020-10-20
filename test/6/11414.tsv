@@ -1,0 +1,6 @@
+2011-03-15T19:23:00.000Z	elHannos		Howdy again. Is 'upstart' the exclusive init controlling process or are there still parts from SysVinit around in 10.10 ?
+2011-03-15T19:25:00.000Z	genii-around	elHannos	upstart uses /etc/init/rc-sysinit.conf      to call the old-style scripts in /etc/init.d
+2011-03-15T19:26:00.000Z	elHannos	genii-around	So rc-sysinit.conf is another upstart-'job'.
+2011-03-15T19:27:00.000Z	genii-around	elHannos	As far as I can tell. But you can still call the old sysvinit stuff through it by name like sudo service old-sysvinit-name restart
+2011-03-15T19:28:00.000Z	genii-around	elHannos	But yeah, initctl list     shows rc-sysinit
+2011-03-15T19:28:00.000Z	elHannos	genii-around	ok, thx

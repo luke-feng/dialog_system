@@ -1,0 +1,6 @@
+2011-11-09T21:17:00.000Z	alex88		hi guys, i know there is a file number limit inside a folder, is there a folder limit too?
+2011-11-09T21:18:00.000Z	CJKay	alex88	Depends on what filesystem are you using
+2011-11-09T21:19:00.000Z	alex88	CJKay	i'm using glusterfs as shared fs
+2011-11-09T21:20:00.000Z	CJKay	alex88	2^64 folders I think
+2011-11-09T21:20:00.000Z	alex88	CJKay	kk i'll search more
+2011-11-09T21:20:00.000Z	CJKay	alex88	Overall that is

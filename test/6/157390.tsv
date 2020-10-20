@@ -1,0 +1,6 @@
+2005-02-20T13:20:00.000Z	floater		heyy do I open gnome back from the console with command "gnome" ?
+2005-02-20T13:20:00.000Z	floater		if I type ctrl-alt-backspace I am in full-console mode
+2005-02-20T13:21:00.000Z	floater		ohh, thanks :P
+2005-02-20T13:22:00.000Z	floater		startx ?
+2005-02-20T13:22:00.000Z	randabis	floater	if gdm is running, then it will start back up
+2005-02-20T13:24:00.000Z	randabis	floater	are you running warty or hoary?

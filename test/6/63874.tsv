@@ -1,0 +1,6 @@
+2008-02-19T03:56:00.000Z	t3ch13		Does anybody know where I can find information on getting the Realtek Audio working in Ubuntu
+2008-02-19T03:57:00.000Z	t3ch13		I've tried everything it looks like the card is there but no sound from the speakers
+2008-02-19T03:59:00.000Z	t3ch13		Card When I run alsamixer I get Card HDA Intel, Chip Realtek ID 268 and both Master and PCM 100<>100
+2008-02-19T04:00:00.000Z	t3ch13		Neverblue that is what I get when running alsamixer
+2008-02-19T04:00:00.000Z	oshi	t3ch13	do you see 82801H anywhere for your intel sound card?
+2008-02-19T04:01:00.000Z	oshi	t3ch13	or ICH8?

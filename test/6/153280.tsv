@@ -1,0 +1,6 @@
+2005-03-13T08:57:00.000Z	delltony		like setting vga for screen 0?
+2005-03-13T08:58:00.000Z	delltony		can i paste the file so yu can help me look ?
+2005-03-13T08:59:00.000Z	delltony		:( ok
+2005-03-13T08:59:00.000Z	delltony		http://rafb.net/paste/results/8eMDgJ57.html thats what i have in the log though :(
+2005-03-13T09:01:00.000Z	delltony		anyone wnna walk me thru thhis fglxconfig haha :)
+2005-03-13T09:02:00.000Z	jesus\	delltony	 just install every package with "fglrx" (not dev) and set the driver to "fglrx"

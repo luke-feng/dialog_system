@@ -1,0 +1,6 @@
+2009-04-06T02:11:00.000Z	ech0s7		hi
+2009-04-06T02:11:00.000Z	ech0s7		there is an issue for ctrl+alt+backspace for xorg 1.6 ?
+2009-04-06T02:11:00.000Z	Ienorand	ech0s7	Disable by default...
+2009-04-06T02:12:00.000Z	ech0s7	Ienorand	how it's possible to enable ?
+2009-04-06T02:12:00.000Z	Ienorand		!dontzap
+2009-04-06T02:13:00.000Z	Ienorand	ech0s7	There is also the Alt+PrntScrn+K command which is supposed to be similar (they are not exactly the same though)

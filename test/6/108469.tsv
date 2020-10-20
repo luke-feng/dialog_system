@@ -1,0 +1,6 @@
+2006-08-28T14:56:00.000Z	chris449		hi, how do i install kubuntu desktop on ubuntu. i type in sudo apt-get install kubuntu-desktop but it tells me it can't find the package
+2006-08-28T14:56:00.000Z	chris449		did i spell it wrong?
+2006-08-28T14:57:00.000Z	chris449		!kubuntu
+2006-08-28T14:57:00.000Z	chris449		how come i can't agt-get it?
+2006-08-28T14:57:00.000Z	chris449		it says it can't find package
+2006-08-28T14:57:00.000Z	lupine_85	chris449	apt-get install kubuntu-desktop

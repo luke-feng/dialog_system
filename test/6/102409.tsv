@@ -1,0 +1,6 @@
+2006-11-06T08:07:00.000Z	buti	iwaterball	interesting...
+2006-11-06T08:08:00.000Z	buti	iwaterball	but isn't this what i'm using anyways? i tried to follow https://wiki.ubuntu.com/KernelCustomBuild
+2006-11-06T08:08:00.000Z	buti	iwaterball	which is outdated, it seems
+2006-11-06T08:10:00.000Z	iwaterball	buti	I donno, I seem to remember kernel-package had you use something like "make-kpkg", I can't find it in that wiki
+2006-11-06T08:11:00.000Z	iwaterball	buti	try seing if there is a READM in /usr/share/doc/kernel-package (if you have the package installed)
+2006-11-06T08:11:00.000Z	iwaterball	buti	I.e. README

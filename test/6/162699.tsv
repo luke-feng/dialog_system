@@ -1,0 +1,6 @@
+2005-10-19T05:09:00.000Z	Blair		i take it that people have been able to install this release, so the problem i am having is limited to my hardware?
+2005-10-19T05:09:00.000Z	Blair		nderjm_...in the log?
+2005-10-19T05:11:00.000Z	Blair		the specific problem i have is that it starts unpacking packages and after it gets into the g's it starts to have errors and claim "can't download ____" and when it gets done with the z's (zlibg, I think) it thinks for a bit and then claims it couldn't install...
+2005-10-19T05:11:00.000Z	Blair		shouldn't be downloading anything as there's no network connected
+2005-10-19T05:12:00.000Z	Blair		is there any way to verify the downloaded .iso file so that i can tell whether the problem is in the download, in the burned cd, or something is bad in the .iso itself?
+2005-10-19T05:12:00.000Z	Seveas	Blair	check the md5 sum

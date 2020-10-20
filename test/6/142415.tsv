@@ -1,0 +1,6 @@
+2007-09-10T16:12:00.000Z	fermatslittlethe		hello all. have you guys tried installing intel drivers for i965 graphics chipset? fawn is treating it as generic
+2007-09-10T16:13:00.000Z	Jowi	fermatslittlethe	"sudo apt-get install xserver-xorg-video-intel" should do it.
+2007-09-10T16:15:00.000Z	Jowi	fermatslittlethe	and then simply change "i810" to "intel" in xorg.conf.
+2007-09-10T16:15:00.000Z	Jowi	fermatslittlethe	so change the "vesa" to "intel"
+2007-09-10T16:17:00.000Z	Jowi	fermatslittlethe	if your xorg.conf has got a composite section, I guess so.
+2007-09-10T16:48:00.000Z	Jowi	fermatslittlethe	you're welcome.

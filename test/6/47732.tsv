@@ -1,0 +1,6 @@
+2009-06-23T12:05:00.000Z	Stanley_		Loof: I thought there _was_ no root?
+2009-06-23T12:06:00.000Z	losher	Stanley_	there is no root password. But there is a root...
+2009-06-23T12:07:00.000Z	Stanley_	losher	how do i get in root then?
+2009-07-22T02:40:00.000Z	losher	Stanley_	my extended partition doesn't seem have its own uuid, but the secondary partitions within it do...
+2009-07-22T02:40:00.000Z	Stanley_	losher	yea my sda5 is listed and it's inside a logical
+2009-07-22T02:40:00.000Z	Stanley_	losher	but sda6 isn't

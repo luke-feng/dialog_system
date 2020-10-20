@@ -1,0 +1,6 @@
+2006-04-17T12:38:00.000Z	ReWT_AxS		is there any way to switch to kde instead of using gnome in ubuntu without fresh installing everything?
+2006-04-17T12:39:00.000Z	ReWT_AxS		will i have to remove gnome?
+2006-04-17T12:39:00.000Z	ReWT_AxS		kde will just take over?
+2006-04-17T12:40:00.000Z	slavik	ReWT_AxS	probably/hopefully
+2006-04-17T12:40:00.000Z	slavik	ReWT_AxS	sudo apt-get install ubuntu-desktop
+2006-04-17T12:41:00.000Z	slavik	ReWT_AxS	after that

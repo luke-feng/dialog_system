@@ -1,0 +1,6 @@
+2006-11-04T07:57:00.000Z	Err_		should i install WIN or LINUX first?
+2006-11-04T07:57:00.000Z	LjL	Err_	windows
+2006-11-04T07:58:00.000Z	Err_	LjL	for any particular reason?
+2006-11-04T07:58:00.000Z	LjL	Err_	because the Windows installer overwrites the MBR
+2006-11-04T07:58:00.000Z	Err_	LjL	ty
+2006-11-04T08:23:00.000Z	LjL	Err_	ext3 is the default because it's older and more tested, i think, and it is compatible with its predecessor ext2

@@ -1,0 +1,6 @@
+2008-12-02T20:12:00.000Z	vignesh	flambyx	what about sudo mount /dev/scd0 /media/cdrom -t iso9660
+2008-12-02T20:12:00.000Z	flambyx	vignesh	mount: special device /dev/scd0 does not exist
+2008-12-02T20:15:00.000Z	flambyx	vignesh	i don't understand, here is my fstab : http://paste.ubuntu.com/79350/ isn't scd0 in it ?
+2008-12-02T20:17:00.000Z	vignesh	flambyx	sfears what version u use ? cuz my hardy detected the camera when i just plugged it..
+2008-12-02T20:17:00.000Z	flambyx	vignesh	8.10
+2008-12-02T20:18:00.000Z	flambyx	vignesh	installed from a liveCD .... and i can't get any access to that CD again ( or any CD btw )

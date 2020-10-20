@@ -1,0 +1,6 @@
+2009-02-07T19:48:00.000Z	MBC		* bahram has quit (Read error: 104 (Connection reset by peer))
+2009-02-07T19:48:00.000Z	MBC		* lethu has quit ("Leaving")
+2009-02-07T19:48:00.000Z	MBC		* nico_ has quit ("Quitte")
+2009-02-07T19:48:00.000Z	MBC		<JediMaster> hey guys, it's been years since I've needed to use iptables (as behind nat firewall router until recently), what am I doing wrong here: iptables -i eth3 -A INPUT -j
+2009-02-07T19:48:00.000Z	FloodBot1	MBC	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.
+2009-02-18T23:42:00.000Z	FloodBot1	MBC	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

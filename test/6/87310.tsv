@@ -1,0 +1,6 @@
+2009-05-20T09:30:00.000Z	trevor		i just installed ubuntu with gnome, is there a way to install lxde
+2009-05-20T09:30:00.000Z	ziroday	trevor	sudo apt-get install lxde ?
+2009-05-20T09:31:00.000Z	ziroday	trevor	you need to logout and the log back in but select LXDE as your session
+2009-05-20T09:34:00.000Z	ziroday	trevor	and you're sure you have the lxde package installed?
+2009-05-20T09:34:00.000Z	ziroday	trevor	install the lxde package, like you would install any other package
+2009-05-20T09:34:00.000Z	ziroday	trevor	through synaptic, apt-get or whatever

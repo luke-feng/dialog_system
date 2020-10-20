@@ -1,0 +1,6 @@
+2009-12-25T02:30:00.000Z	Umeaboy		What's the right codec for playing Windows Media Audio-files?
+2009-12-25T02:31:00.000Z	zleap	Umeaboy	i think its in the w32codecs pack
+2009-12-25T02:35:00.000Z	Umeaboy	zleap	Nope. Can't find it here in the repo.
+2009-12-25T02:36:00.000Z	zleap	Umeaboy	you may need to enable the restricted (non free repositories)
+2009-12-25T02:38:00.000Z	Umeaboy	zleap	Huh? It IS enabled.
+2009-12-25T02:40:00.000Z	zleap	Umeaboy	i have this in my sources.list deb http://packages.medibuntu.org/ jaunty free non-free # disabled on upgrade to jaunty

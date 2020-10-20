@@ -1,0 +1,6 @@
+2010-02-10T10:49:00.000Z	DreaDy_HK		hi brothers i have a problem when install imspector say this error "imspector.h:40:25: error: openssl/ssl.h: No existe el fichero ó directorio
+2010-02-10T10:49:00.000Z	DreaDy_HK		"
+2010-02-10T10:51:00.000Z	DreaDy_HK		openssl ?
+2010-02-10T10:52:00.000Z	DreaDy_HK		fil ssl.h in the folder of program ?
+2010-02-10T10:52:00.000Z	DreaDy_HK		i dont have a file ssl.h in the folder of program
+2010-02-10T10:52:00.000Z	DasEi	DreaDy_HK	some more words.. you try to configure ssh ?

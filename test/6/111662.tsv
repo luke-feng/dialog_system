@@ -1,0 +1,6 @@
+2008-04-14T01:02:00.000Z	barjoman		hi everyone
+2008-04-14T01:02:00.000Z	barjoman		i need some help with ubuntu server edition
+2008-04-14T01:03:00.000Z	RoAkSoAx	barjoman	ask your question, if someone know the answer he will help you
+2008-04-14T01:04:00.000Z	RoAkSoAx	barjoman	press enter and log in
+2008-04-14T01:05:00.000Z	RoAkSoAx	barjoman	server edition does not have desktop
+2008-04-14T01:07:00.000Z	RoAkSoAx	barjoman	yep, start with desktop edition :) other thing you could do is to install desktop manually: sudo apt-get install ubuntu-desktop

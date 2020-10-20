@@ -1,0 +1,6 @@
+2010-08-20T06:20:00.000Z	sammarks14		okay, im on another computer
+2010-08-20T06:20:00.000Z	sammarks14		when i typed xorg -config, it told me xorg was not a command
+2010-08-20T06:21:00.000Z	sammarks14		i did that too
+2010-08-20T06:21:00.000Z	sammarks14		still didnt work
+2010-08-20T06:21:00.000Z	Zed_	sammarks14	i think its X --configure
+2010-08-20T06:22:00.000Z	sammarks14	Zed_	let me try that

@@ -1,0 +1,6 @@
+2007-11-01T12:44:00.000Z	gvsa123		hello...
+2007-11-01T12:45:00.000Z	gvsa123		how can i get the repository used with fiesty back in synaptic
+2007-11-01T12:45:00.000Z	jschiff	gvsa123	modify /etc/apt/sources.list
+2007-11-01T12:46:00.000Z	gvsa123	jschiff	what do i place there?
+2007-11-01T12:46:00.000Z	jschiff	gvsa123	the old repository site.. and whatever tree u need
+2007-11-01T12:46:00.000Z	jschiff	gvsa123	look in there and follow the formate

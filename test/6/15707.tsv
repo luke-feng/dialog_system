@@ -1,0 +1,6 @@
+2010-10-21T15:17:00.000Z	galoisfield		hi all..recently i have faced problem in booting my windows 7 after updating my ubuntu 10.04..its always going for checking errors rather than starting thr login page..any suggestions??
+2010-10-21T15:19:00.000Z	galoisfield		suigeneris:
+2010-10-21T15:19:00.000Z	galoisfield		suigeneris:
+2010-10-21T15:19:00.000Z	suigeneris	galoisfield	yes?
+2010-10-21T15:19:00.000Z	galoisfield		type sudo su..then passwd..set the root password..
+2010-10-21T15:20:00.000Z	galoisfield	suigeneris	it wont ask for root password thereafter as u ll access ur system as root..

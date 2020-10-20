@@ -1,0 +1,6 @@
+2009-02-28T10:30:00.000Z	libertarian4life		I have a question.
+2009-02-28T10:31:00.000Z	libertarian4life		Ive Just reinstalled Ubuntu 8.10, I have updated it all.. When I go to minimize, it wont minimize to my bottom panel..
+2009-02-28T10:31:00.000Z	libertarian4life		the only way to access what ive minimized is to alt+tab and the like.
+2009-02-28T10:32:00.000Z	libertarian4life		yes... Bottom panel is blank. Top panel has the normal app/places/system
+2009-02-28T10:33:00.000Z	redvamp128	libertarian4life	 try this -- right click on the bottom panel-- then choose add to panel - window list (and I hate to do this but it is late) I hope that works for you.
+2009-02-28T10:35:00.000Z	redvamp128	libertarian4life	 the other thing people remove (which they seem to think is the network manager ) is the Notification Area (which is where the network tool is)

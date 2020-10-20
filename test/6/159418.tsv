@@ -1,0 +1,6 @@
+2011-12-23T10:49:00.000Z	no-name-		hello. I need to find out what my ethernet card is (this is a PC, 2nd hand) using Ubuntu so I can get the drivers for Windows 7 :P ... anybody know how to do that?
+2011-12-23T10:49:00.000Z	no-name-		this is a new PC **
+2011-12-23T10:49:00.000Z	dr_willis	no-name-	 lspci command
+2011-12-23T10:49:00.000Z	dr_willis	no-name-	 hwinfo command
+2012-03-08T12:20:00.000Z	dr_willis	no-name-	 yes you can
+2012-03-08T12:21:00.000Z	dr_willis	no-name-	 or just dd the iso to a flash

@@ -1,0 +1,6 @@
+2011-11-16T00:03:00.000Z	trism	bullgard6	it will only search for .desktop files, create one for urxvt in ~/.local/share/applications and you can launch it from the search
+2011-11-16T00:10:00.000Z	bullgard6	trism	Do you mean that I should create a file ~/.local/share/applications/urxvt.desktop?
+2011-11-16T00:12:00.000Z	trism	bullgard6	yes, and easy way is with: gnome-desktop-item-edit --create-new ~/.local/share/applications/urxvt.desktop; if you don't know the proper syntax
+2011-11-16T01:00:00.000Z	bullgard6	trism	 This worked all right. Thank you very much for your help. --  I have a supplementary question: What programs will use the string that I have entered in the "Name:" text field of the "Create A Starter" dialog window?
+2011-11-16T01:06:00.000Z	trism	bullgard6	the search and application tabs of gnome-shell as well as the dash search in unity will use it, other apps probably use it as well, maybe gnome-do?
+2011-11-16T01:07:00.000Z	bullgard6	trism	Ok. Thank you very much for your help.

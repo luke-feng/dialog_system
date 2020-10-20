@@ -1,0 +1,6 @@
+2009-11-20T13:51:00.000Z	ActionParsnip	jove	sudo apt-get install traceroute
+2009-11-20T13:53:00.000Z	ActionParsnip	jove	you can then run: traceroute destination    and you will tracerote to whatever you need to test
+2009-11-20T13:54:00.000Z	ActionParsnip	jove	you need to have wine 0.9.35 installed to install the dev package
+2009-11-20T13:55:00.000Z	ActionParsnip	jove	sudo apt-get install wine
+2009-11-20T14:02:00.000Z	ActionParsnip	jove	try adding the wine repo, may help
+2010-03-18T02:09:00.000Z	ActionParsnip	jove	hdparm or sdparm

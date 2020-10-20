@@ -1,0 +1,6 @@
+2010-01-17T09:23:00.000Z	HTT-Bird	Snausages	learn npapi and write it ;)
+2010-01-17T09:30:00.000Z	HTT-Bird	Snausages	I'd like a standard container at least :) (that way the codec march of technology can continue going, without file format differences throwing another spanner into the works)
+2010-01-17T09:32:00.000Z	Snausages	HTT-Bird	still sounds like a tall order...  it would have to be ridiculously open (therefore open to abuse) and would likely have to avoid carrying any kind of license at all, just to be compatible with enough other licenses to make it practical & popular
+2010-01-17T09:33:00.000Z	HTT-Bird	Snausages	why would a container's license have anything to do with the licenses of the codecs used by the streams within that container?
+2010-01-17T09:34:00.000Z	Snausages	HTT-Bird	guess I was thinking more about the browsers that open the containers, rather than the content inside them.
+2010-01-17T09:36:00.000Z	Snausages	HTT-Bird	that said, the container would have to be open to all sorts of stuff inside it- multiple av streams, packaged proprietary drm schemes, all sorts of metadata and "infinite" forward extensibility

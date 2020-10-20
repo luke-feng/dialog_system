@@ -1,0 +1,6 @@
+2011-09-09T06:18:00.000Z	bjv		Q: Is there a GUI tool to edit/create custom Launchers for Unity?   alacarte is ~20Megs of extra packages and I am not sure it will do what i want..
+2011-09-09T06:18:00.000Z	bjv		/usr/share/applications and .desktop files are all just freedesktop.org stuff, right?
+2011-09-09T06:20:00.000Z	escott	bjv	yes freedesktop houses the standards (such as they are)
+2011-09-09T06:20:00.000Z	bjv	escott	does Ubuntu package a GUI tool to create launchers for it, though?
+2011-09-09T06:21:00.000Z	escott	bjv	the main one is alacarte. i dont know of any others
+2011-09-09T06:28:00.000Z	escott	bjv	it was my impression that unity still uses the launchers

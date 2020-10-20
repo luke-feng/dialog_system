@@ -1,0 +1,6 @@
+2008-06-25T18:03:00.000Z	esperegu		anyone knows how to use 'smb://' in kubuntu (probably same in ubuntu)? it worked but after upgrading to 804 i only get The file or folder smb://myip/folder does not exist.
+2008-06-25T18:03:00.000Z	gabbler	esperegu	do you want to use a mount or smb?
+2008-06-25T18:04:00.000Z	gabbler	esperegu	or mount -t cifs
+2008-06-25T18:04:00.000Z	esperegu	gabbler	I just try to reach a dir now and then.
+2008-06-25T18:04:00.000Z	esperegu	gabbler	not a permanent mount
+2008-06-25T18:05:00.000Z	gabbler	esperegu	well i used to use the smbclient but found that the mount was more flexible, it is only one command and then mounts it as a normal folder so you can do normal cp, mv etc

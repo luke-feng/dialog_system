@@ -1,0 +1,6 @@
+2010-09-15T04:21:00.000Z	nullox		hi, how can I find the partition integer for /dev/sda1 for grub configuration
+2010-09-15T04:22:00.000Z	nullox		(hd0, /dev/sda1 INT)
+2010-09-15T04:22:00.000Z	DasEi	nullox	you mean the uuid ?
+2010-09-15T04:23:00.000Z	nullox	DasEi	that gives a long hex string delimited with -
+2010-09-15T04:24:00.000Z	DasEi	nullox	grub 2 identifies partitons by this, as fstab does, though still understands devicenames
+2010-09-15T04:30:00.000Z	nullox	DasEi	thanks that uuid string works

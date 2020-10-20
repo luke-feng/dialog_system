@@ -1,0 +1,6 @@
+2007-02-09T11:06:00.000Z	spike723_		gksudo doesn't seem to change my root window
+2007-02-09T11:06:00.000Z	ardchoille	spike723_	What do yo mean?
+2007-02-09T11:10:00.000Z	spike723_	ardchoille	some programs can use the "root window" of the desktop
+2007-02-09T11:10:00.000Z	spike723_		xphoon is an example
+2007-02-09T11:10:00.000Z	spike723_		but there are other programs
+2007-02-09T11:10:00.000Z	ardchoille	spike723_	gksudo and gksu are supposed to shade your desktop while you enter the root password. That is normal.

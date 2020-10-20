@@ -1,0 +1,6 @@
+2008-07-25T19:43:00.000Z	rockenrola		I have  a system with several desktop-managers, ( gnome, xfce, fluxbox). How do I choose which one I want for each user. Note: its a remote machine
+2008-07-25T19:44:00.000Z	astra-xwork	rockenrola	~/.xession
+2008-07-25T19:45:00.000Z	rockenrola	astra-xwork	I don't have that file. how to create one?
+2008-07-25T19:46:00.000Z	astra-xwork	rockenrola	are you not in X right now?
+2008-07-25T19:46:00.000Z	rockenrola	astra-xwork	right now, just ssh
+2008-07-25T19:46:00.000Z	astra-xwork	rockenrola	when you startx from your username, X will automatically create your .xsession file

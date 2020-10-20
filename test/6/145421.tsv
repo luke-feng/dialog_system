@@ -1,0 +1,6 @@
+2007-03-17T09:39:00.000Z	HollywoodCode		salty if i have a dir called downloads on my desktop, and the file is beer.rar, how would i unrar it from the console with unrar?
+2007-03-17T09:40:00.000Z	HollywoodCode		ark doesn't support .rar
+2007-03-17T09:42:00.000Z	HollywoodCode		how do i open console from the dir where the .rar is located?
+2007-03-17T09:43:00.000Z	HollywoodCode		how do i cd into it, if its on my desktop?
+2007-03-17T09:43:00.000Z	HollywoodCode		yes
+2007-03-17T09:43:00.000Z	erUSUL	HollywoodCode	cd ~/Desktop/

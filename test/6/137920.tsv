@@ -1,0 +1,6 @@
+2006-11-28T08:09:00.000Z	maynoth		hello  can anyone here tell me where I can find a database of motherboard compatibility in edgy
+2006-11-28T08:09:00.000Z	maynoth		I am looking at buying a new ASUS Crosshair with the Nvidia 590 chipset
+2006-11-28T08:10:00.000Z	Flannel	maynoth	https://wiki.ubuntu.com/HardwareSupportComponentsMotherboards  (it's not exhaustive, obviously)
+2006-11-28T08:10:00.000Z	Flannel	maynoth	you might find google a better resource
+2006-11-28T08:15:00.000Z	Flannel	maynoth	yep.  Details change depend on your specifics though.
+2006-11-28T08:17:00.000Z	Flannel	maynoth	yep.  No troubles there.  grub will take care of making windows believe it's on hda

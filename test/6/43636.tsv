@@ -1,0 +1,6 @@
+2009-07-07T21:44:00.000Z	aresnick		Hi!  I'm trying to upgrade my kernel (right now synaptic says the package is broken), and it looks like the partition is full, a la https://bugs.launchpad.net/ubuntu/+bug/244764  -- I was wondering how I can resize my root partition?  Booting from a LiveCD didn't seem to let me use gparted to resize the partition. . .
+2009-07-07T21:46:00.000Z	mezquitale	aresnick	try installing gparted on your machine, then run gparted and see if it lets you resize the partition, you might want to try umounting your root partition before and/or after you run gparted
+2009-07-07T21:53:00.000Z	aresnick	mezquitale	Can I unmount root while running?
+2009-07-07T21:54:00.000Z	mezquitale	aresnick	try it and see what happens, just make sure you save your work, i've used gparted on my machine and I've been able to change partitions
+2009-07-07T21:54:00.000Z	aresnick	mezquitale	OK!
+2009-07-07T21:57:00.000Z	aresnick	mezquitale	it doesn't seem like it will let me unmount it.  gparted tries, but then root is still mounted.

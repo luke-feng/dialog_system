@@ -1,0 +1,6 @@
+2005-06-27T08:30:00.000Z	LordKahless		hey i have a wierd question, i have a laptop with a wireless card, i want to install ubuntu on it, but the wireless card requires ndiswrapper... is there a way i can get the drivers on there coz i know ubuntu doesnt come stock with ndiswrapper
+2005-06-27T08:31:00.000Z	LordKahless		does it?
+2005-06-27T08:31:00.000Z	LordKahless		i have the 5.04 discs that they sent me and the live cd didnt load ndis wrapper
+2005-06-27T08:31:00.000Z	bob2	LordKahless	yes, it won't load it
+2005-06-27T10:55:00.000Z	bob2	LordKahless	black and white dots?
+2005-06-27T11:12:00.000Z	bob2	LordKahless	1

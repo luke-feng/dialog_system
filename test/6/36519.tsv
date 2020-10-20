@@ -1,0 +1,6 @@
+2009-05-28T02:40:00.000Z	joebeeson1		When trying to run ./configure I get a notice that libusb cannot be found but it appears to be installed. I think I may need the 32bit version, can anyone help?
+2009-05-28T02:41:00.000Z	nrg	joebeeson1	install libusb-dev
+2009-05-28T02:42:00.000Z	nrg	joebeeson1	apt-get install libusb-dev
+2009-05-28T02:42:00.000Z	joebeeson1	nrg	Still fails.
+2009-05-28T02:42:00.000Z	joebeeson1	nrg	Vlet: Apologies. A different package failed this time. You were both correct.
+2009-05-28T02:43:00.000Z	joebeeson1	nrg	It's libiphone, to tether via usb cable.

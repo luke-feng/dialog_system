@@ -1,0 +1,6 @@
+2009-10-28T16:10:00.000Z	arvid		what is the best way to mount a slow remote filesystem?
+2009-10-28T16:10:00.000Z	arvid		nfs, sshfs?
+2009-10-28T16:10:00.000Z	arvid		or something else?
+2009-10-28T16:11:00.000Z	Dr_Willis	arvid	 i thought NFS would be used on  a local lan type setup mainly. sshfs can be used over the internet.
+2009-10-28T16:12:00.000Z	arvid	Dr_Willis	but is there any reason not to use NFS over the internet?
+2009-10-28T16:13:00.000Z	Dr_Willis	arvid	 lack of security....

@@ -1,0 +1,6 @@
+2005-06-13T09:20:00.000Z	bigfoot		hello. I have a folder of rar files. When I double click on one, it says "file type not supported." do they need to be unpacked in terminal
+2005-06-13T09:20:00.000Z	bigfoot		?
+2005-06-13T09:21:00.000Z	lok	bigfoot	apt-get install unrar-nonfree
+2005-06-13T09:21:00.000Z	bigfoot	lok	i have that. now how do i unpack a folder with rar files, all at the same time?
+2005-06-13T09:26:00.000Z	lok	bigfoot	the first is the rar one ;)
+2005-06-13T09:26:00.000Z	bigfoot	lok	metzen. Thank you so much. will try it now.

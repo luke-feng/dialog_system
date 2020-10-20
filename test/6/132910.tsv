@@ -1,0 +1,6 @@
+2005-10-22T10:54:00.000Z	miksu		what is the command for displaying active processes? i would like to be able to shutdown a process directly from the terminal with the kill command..
+2005-10-22T10:56:00.000Z	miksu		piedemaro okay and how to make terminal display a listing divided into pages
+2005-10-22T10:57:00.000Z	miksu		piedemaro the listing which is displayed with ps ax .. i mean that what do i add after the command to have the processes listed in pages ( not memory pages, actual pages)
+2005-10-22T10:58:00.000Z	miksu		piedemaro all right thankyou
+2005-10-22T10:58:00.000Z	Bentron	miksu	ps ax |less
+2005-10-22T10:58:00.000Z	Bentron	miksu	or ps aux |grep <whatever you're interested in>

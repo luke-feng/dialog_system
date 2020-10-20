@@ -1,0 +1,6 @@
+2009-02-15T06:00:00.000Z	cphillips		how do i make a playlist for mplayer?
+2009-02-15T06:00:00.000Z	jrib	cphillips	one way is to just list files one per line
+2009-02-15T06:01:00.000Z	cphillips	jrib	okay, but how do i do that automatically? i just want to shuffle my whole library.
+2009-02-15T06:02:00.000Z	jrib	cphillips	you should be able to just pass all the files on the command line to mplayer
+2009-02-15T06:03:00.000Z	cphillips	jrib	with what command?
+2009-02-15T06:03:00.000Z	jrib	cphillips	just glob them

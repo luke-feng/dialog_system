@@ -1,0 +1,6 @@
+2009-01-08T16:43:00.000Z	kiro		Hi, I'm a new Ubuntu user and need some help :D
+2009-01-08T16:45:00.000Z	kiro		So I need help installing stepmania... it's a .tar.gz, how do I install it ? I tried sudo apt-get install name.tar.gz but it doesn't find the file
+2009-01-08T16:45:00.000Z	Chousuke	kiro	that's a source tarball
+2009-01-08T16:45:00.000Z	Chousuke	kiro	installing it is complicated.
+2009-01-08T16:46:00.000Z	Chousuke	kiro	try sudo aptitude install stepmania instead, and see if it's in the repos.
+2009-01-08T16:48:00.000Z	Chousuke	kiro	or try following the instructions here http://www.stepmania.com/wiki/Install_and_Configure_StepMania

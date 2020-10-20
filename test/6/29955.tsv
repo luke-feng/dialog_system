@@ -1,0 +1,6 @@
+2009-10-18T12:01:00.000Z	lilzeus		can I re-install over a current install?
+2009-10-18T12:01:00.000Z	Desmond	lilzeus	it will destroy you old install, one suggestion is create a seperate partition for /home
+2009-10-18T12:02:00.000Z	lilzeus	Desmond	that is how I have set it up the first time
+2009-10-18T12:03:00.000Z	Desmond	lilzeus	then you can carefully install without formatting your /home and just installing the rest
+2009-10-18T12:03:00.000Z	lilzeus		3 partitions: /home swap and the filesystem
+2009-10-18T12:03:00.000Z	lilzeus	Desmond	ok

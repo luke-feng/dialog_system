@@ -1,0 +1,6 @@
+2007-09-09T16:09:00.000Z	BernardB		What does this mean, It appears after every apt-get install
+2007-09-09T16:09:00.000Z	BernardB		sh: cannot open /usr/share/app-install/channels/openftd.list.template: No such file
+2007-09-09T16:09:00.000Z	BernardB		sh: cannot open /usr/share/app-install/channels/openftd.list: No such file
+2007-09-09T16:09:00.000Z	BernardB		E: Problem executing scripts DPkg::Post-Invoke 'sed -e s/@RELEASE@/`lsb_release -sc`/ < /usr/share/app-install/channels/openftd.list.template > /usr/share/app-install/channels/openftd.list; test -e /etc/apt/sources.list.d/openftd.list && sed -e s/@RELEASE@/`lsb_release -sc`/ < /usr/share/app-install/channels/openftd.list > /etc/apt/sources.list.d/openftd.list'
+2007-09-09T16:09:00.000Z	BernardB		E: Sub-process returned an error code
+2007-09-09T16:10:00.000Z	sauvin	BernardB	are you running apt-get as root?

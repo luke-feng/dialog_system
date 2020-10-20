@@ -1,0 +1,6 @@
+2010-07-09T10:17:00.000Z	insomniac1		does anyone know how to find package configuration files that have changed?
+2010-07-09T10:17:00.000Z	insomniac1		that is, they are not the same as installed by the package?
+2010-07-09T10:17:00.000Z	insomniac1		and synaptic
+2010-07-09T10:18:00.000Z	Akuma_s	insomniac1	I had the same issue long ago... I fixed it removing that file and doing an update...
+2010-07-09T10:18:00.000Z	insomniac1	ImaLamer	yes, i'd like to restore to defaults
+2010-07-09T10:19:00.000Z	Akuma_s	insomniac1	a backup also should be a good idea :)

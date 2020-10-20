@@ -1,0 +1,6 @@
+2004-11-27T11:14:00.000Z	kiko		guys, one question.
+2004-11-27T11:15:00.000Z	kiko		xchat isn't creating .xchat2/serverlist.conf, nor can I save my new server list. any hints as to why?
+2004-11-27T11:16:00.000Z	kiko		it's weird, because all other files are created
+2004-11-27T11:16:00.000Z	kiko		this is stock warty xchat2
+2004-11-27T11:16:00.000Z	socomm	kiko	try touching serverlist.conf
+2004-11-27T11:17:00.000Z	socomm	kiko	dunno.

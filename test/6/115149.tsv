@@ -1,0 +1,6 @@
+2007-04-06T16:20:00.000Z	Chicory		Oh, uh, how do I switch my GNOME settings back to default?
+2007-04-06T16:20:00.000Z	Chicory		Desktop Effects seems to have Beryl enabled, and I can't get it to change before it freezes at startup.
+2007-04-06T16:21:00.000Z	bruenig	Chicory	not sure there is some thing you do to go back to default, unless you backed up the old settings
+2007-04-06T16:21:00.000Z	bruenig	Chicory	for all of gnome?
+2007-04-06T16:22:00.000Z	bruenig	Chicory	there isn't a gnome conf file, there is a .gnome directory and .gnome2 directory, but there isn't some conf setting around that you can default back
+2007-04-25T09:49:00.000Z	bruenig	Chicory	~/.mozilla

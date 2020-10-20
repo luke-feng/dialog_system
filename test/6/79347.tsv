@@ -1,0 +1,6 @@
+2007-09-17T11:15:00.000Z	BMT		what is another good video player i can use besides xine, gxine, and kaffeine
+2007-09-17T11:15:00.000Z	BMT		especially for .wmv files
+2007-09-17T11:16:00.000Z	afs	BMT	mplayer.
+2007-09-17T11:16:00.000Z	BMT	afs	thanks..i will try that
+2007-09-17T11:16:00.000Z	afs	BMT	in my experience that program eats everything. including iso-images containing an avi file and such
+2007-09-17T11:21:00.000Z	BMT	afs	i just installed mplayer, ...tried to play a .wmv file and got this error : eror opening/initializing the selected video_out (-vo) device

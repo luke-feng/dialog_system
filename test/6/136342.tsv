@@ -1,0 +1,6 @@
+2006-03-07T16:40:00.000Z	nitrosport_5		sudo update-alternatives automake i did that and it said unknow aregument automake
+2006-03-07T16:41:00.000Z	_jason	nitrosport_5	try update-alternatives --config automake
+2006-03-08T17:36:00.000Z	_jason	nitrosport_5	because it's not supported
+2006-03-08T17:36:00.000Z	_jason	nitrosport_5	there are ways to use it, but it is preferred that you search the repos first
+2006-03-08T17:36:00.000Z	_jason	nitrosport_5	what is it?
+2006-03-08T17:38:00.000Z	_jason	nitrosport_5	hrmm, why do you need an rpm for that?

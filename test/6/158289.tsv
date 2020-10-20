@@ -1,0 +1,6 @@
+2005-11-09T16:08:00.000Z	adri		hi all
+2005-11-09T16:10:00.000Z	adri		im a new linux user, i enjoy it a lot, but i've a problem, i dont arrive to install my wifi card (rtl8081), my linux is Ubuntu... Please help me
+2005-11-09T16:11:00.000Z	adri		im a new linux user, i enjoy it a lot, but i've a problem, i dont arrive to install my wifi card (rtl8081), my linux is Ubuntu... Please help me
+2005-11-09T16:12:00.000Z	adri		sorry i didnt see it..
+2005-11-09T16:13:00.000Z	adri		in fact, ive searched information about my wifi card over google, and from my search, my wifi card is compatible..
+2005-11-09T16:13:00.000Z	StyXman	adri	ndiswrapper is your safest way to go

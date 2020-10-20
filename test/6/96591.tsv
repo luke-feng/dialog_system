@@ -1,0 +1,6 @@
+2007-02-23T11:40:00.000Z	name		I feel pretty ignored
+2007-02-23T11:41:00.000Z	Pici	name	What seems to be the issue
+2007-02-23T11:43:00.000Z	Pici	name	afaik, the Cache cleaner is a KDE background app, if you dont use KDE it will run in the foreground.  Perhaps you installed a KDE app that is using it.
+2007-02-23T11:46:00.000Z	Pici	name	Do you use KDE?
+2007-02-23T11:46:00.000Z	name	Pici	just some kde apps
+2007-02-23T11:48:00.000Z	Pici	name	There appears to be a bug filed for that: https://launchpad.net/ubuntu/+bug/60315

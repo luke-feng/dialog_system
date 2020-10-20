@@ -1,0 +1,6 @@
+2010-10-05T19:37:00.000Z	kristiina		hi can anybody help please. how to flash the bios in ubuntu? hp mini 110-3030nr
+2010-10-05T19:39:00.000Z	magnetron	kristiina	i think most flashing tools require a version of DOS
+2010-10-05T19:41:00.000Z	kristiina	magnetron	the file i downloaded from hp site is .exe (dos/windows). i don't want to install windows just to update the bios:( is there any way around it?
+2010-10-05T19:42:00.000Z	magnetron	kristiina	you could use a FreeDOS live CD or boot floppy
+2010-10-05T19:52:00.000Z	kristiina		magetron: OK. i don't have a cddrive but usbstick i have.
+2010-10-05T20:07:00.000Z	kristiina	magnetron	would you know how to do it exactly?

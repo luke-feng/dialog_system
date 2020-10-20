@@ -1,0 +1,6 @@
+2005-04-04T10:21:00.000Z	zooko		So, I've googled and googled, but I can't find some doc that tells me "The Ubuntu Way To Fetch Your E-mail From IMAP/POP/POP3 And Stuff It Into Local Store And Read It".
+2005-04-04T10:23:00.000Z	zooko		Oh, so there isn't An Ubuntu Way to fetch your e-mail and stuff it into a local store where I can read it with my preferred, non-standard, cmdlineoriented tools, such as "grep".
+2005-04-04T10:24:00.000Z	zooko		I read this page saying that Ubuntu should always use maildir format in ~/.maildir, so I thought maybe I should learn something about new tools before plunging ahead with my normal old fetchmail and nmh.
+2005-04-04T10:24:00.000Z	zooko		However, I really do not want to use evolution or another point-and-drool interface.
+2005-04-04T10:24:00.000Z	zooko		I already have my e-mail on Mac, and the reason I am going to all this effort is to get away from that point-and-drool stuff and get my e-mail back under my own control.  ;-)
+2005-04-04T10:26:00.000Z	akk	zooko	offlineimap can pull mail from an imap server into maildir format, if you really want to try maildir.

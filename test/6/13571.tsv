@@ -1,0 +1,6 @@
+2011-02-14T09:25:00.000Z	Chipzzz	pmp6nl	have you tried changing the document root in ampache.conf?
+2011-02-14T09:27:00.000Z	Chipzzz	pmp6nl	type locate ampache.conf
+2011-02-14T09:30:00.000Z	Chipzzz	pmp6nl	I don't know much about ampache, it was just a guess. They have a forum, though: http://ampache.org/forums/
+2011-02-14T09:32:00.000Z	Chipzzz	pmp6nl	if you point it at the same doc root as apache, you might have better luck
+2011-02-14T09:34:00.000Z	Chipzzz	pmp6nl	no... if nobody here knows, I would look through the forums. somebody has probably had that problem before
+2011-02-14T09:37:00.000Z	Chipzzz	pmp6nl	sorry I couldn't be more help

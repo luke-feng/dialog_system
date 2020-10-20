@@ -1,0 +1,6 @@
+2012-09-15T14:02:00.000Z	Janos	krababbel	http://paste.ubuntu.com/1206483/ there, look for lock
+2012-09-15T14:03:00.000Z	krababbel	Janos	it locks Audio0, could be the dummy output, I don't know
+2012-09-15T14:04:00.000Z	Janos	krababbel	check the rest, it's trying to open devices that don't exist and the device is working on is "alsa_card.pci-0000_00_1b.0" that name looks a lot like a sound card to me
+2012-09-15T14:07:00.000Z	krababbel	Janos	pulse will always try to open devices automatically as far as I know
+2012-09-15T14:08:00.000Z	krababbel	Janos	could be it tried opening the real card first, and then trying "others"
+2012-09-15T14:09:00.000Z	Janos	krababbel	kk thanks for the help

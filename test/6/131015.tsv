@@ -1,0 +1,6 @@
+2007-10-06T10:30:00.000Z	dystopianray	thoreauputic	that is not right
+2007-10-06T10:31:00.000Z	thoreauputic	dystopianray	?
+2007-10-06T10:31:00.000Z	dystopianray	thoreauputic	the first grub drive is whatever your bios is set to boot from, which may very well be /dev/hdz
+2007-10-06T10:31:00.000Z	thoreauputic	dystopianray	oh I see what you mean - yes
+2007-10-06T10:31:00.000Z	thoreauputic	dystopianray	I was just making the point that you start from 0
+2007-10-06T10:34:00.000Z	thoreauputic	dystopianray	unless for ndiswrapper

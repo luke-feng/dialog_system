@@ -1,0 +1,6 @@
+2007-04-18T10:43:00.000Z	flake		where can I find my menu layout?
+2007-04-18T10:44:00.000Z	flake		instead of having to scroll up and down a huge menu of games, i want to put the games into a subfolder in the games menu
+2007-04-18T10:45:00.000Z	flake		this is gnome
+2007-04-18T10:45:00.000Z	flake		now i can do it manually but one at a time using menu layout
+2007-04-18T10:45:00.000Z	flake		drag and drop one at a time is a pain in the butt
+2007-04-18T10:46:00.000Z	r4v5	flake	the menus should be xml or something, you can hand-edit the files they're stored in if you really need to do this

@@ -1,0 +1,6 @@
+2011-08-13T10:15:00.000Z	rodhash		Hello guys.. Does anyone know how much graphical memory ubuntu need? I'm used to run lots of softwares, some took much system memory (ie notes + sametime)..
+2011-08-13T10:16:00.000Z	willwh	rodhash	how much memory do you have? not much?
+2011-08-13T10:17:00.000Z	rodhash	willwh	2GB (total), but my BIOs doesn't say the amount for video... my laptop uses a intel display card (on-board)
+2011-08-13T10:18:00.000Z	willwh		oh, interesting.
+2011-08-13T10:19:00.000Z	rodhash		So .. I'm allocating 200MB for video through some grub's option... Buuuut I'm not so sure how much should I allocate for video..
+2011-08-13T10:20:00.000Z	willwh	rodhash	128 is probably more than sufficient

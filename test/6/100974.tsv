@@ -1,0 +1,6 @@
+2006-12-10T13:42:00.000Z	gotit		:()
+2006-12-10T13:43:00.000Z	reverseblade	gotit	whats up
+2006-12-10T13:43:00.000Z	reverseblade	gotit	check its permition with ls
+2006-12-10T13:44:00.000Z	gotit	reverseblade	how? SilentDis: any dir on main as root or without root i dont know why
+2006-12-10T13:45:00.000Z	reverseblade	gotit	go to the directory one up level that you want to enter and write ls -l and inspect the permissions
+2006-12-10T13:45:00.000Z	reverseblade	gotit	if you want do a chmod  777 dir name ( I do not recommend it)  and everyone can enter

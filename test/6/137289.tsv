@@ -1,0 +1,6 @@
+2008-06-17T19:57:00.000Z	tyler		why would a drive on the desktop be named 750.2 GB Media when in my fstab its mounted to /media/music?  and how would i change the name so it just says music for the name?
+2008-06-17T19:58:00.000Z	tyler		why would a drive on the desktop be named 750.2 GB Media when in my fstab its mounted to /media/music?  and how would i change the name so it just says music for the name?
+2008-06-17T19:59:00.000Z	sipior	tyler	the label is separate from the mount point. you can rename the volume in nautilus.
+2008-06-17T20:07:00.000Z	sipior	tyler	i believe there is an option available from the right-click menu
+2008-06-17T20:07:00.000Z	tyler	sipior	its greyed out so u cant click it
+2008-06-17T20:08:00.000Z	sipior	tyler	try bringing up the volume information, and see if it changeable from there

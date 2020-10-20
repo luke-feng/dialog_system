@@ -1,0 +1,6 @@
+2011-03-04T19:39:00.000Z	llutz_	Auklet	rsync, inode-watch should help
+2011-03-04T19:41:00.000Z	Auklet	llutz_	Is it instant change though as soon as I save something?
+2011-03-04T19:41:00.000Z	llutz_	Auklet	that should be possible, using inode-watch
+2011-03-04T19:45:00.000Z	llutz_	Auklet	inotify, incrond   could be worth a look too
+2011-03-04T20:28:00.000Z	Auklet	llutz_	Sorry, I'm not understanding those solutions. It mentions it's possible, but I see no tutorials I can understand.
+2011-03-04T20:36:00.000Z	llutz_	Auklet	http://tinyurl.com/5agzrz    as an example how to use incron. use this to trigger rsync syncing your dirs

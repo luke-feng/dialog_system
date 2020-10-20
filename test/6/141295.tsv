@@ -1,0 +1,6 @@
+2006-09-21T14:07:00.000Z	teenprogrammer		hi
+2006-09-21T14:08:00.000Z	teenprogrammer		I had a question
+2006-09-21T14:10:00.000Z	teenprogrammer		I have a PC with Windows and Linux, both on seperate HDD. My Windows can run COD2 ( 3D game ) yet linux breaks when i launch the Screensaver O_O
+2006-09-21T14:11:00.000Z	ph8	teenprogrammer	Sounds like you haven't set your 3dcard up properly
+2006-09-21T14:11:00.000Z	ph8	teenprogrammer	Hop into a command prompt and apt-cache search nvidia
+2006-09-21T14:13:00.000Z	ph8	teenprogrammer	generally: chmod +x file.run && ./file.run

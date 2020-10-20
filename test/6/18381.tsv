@@ -1,0 +1,6 @@
+2010-08-01T17:54:00.000Z	cenciu		who can find out for me which is the audio driver for an hp pavilion ze5400 .please
+2010-08-01T17:55:00.000Z	cenciu		can anyone help me to find out what audio driver has hp pavilion ze5400 ?
+2010-08-01T17:56:00.000Z	duffydack	cenciu	lspci -vv | grep Audio
+2010-08-01T17:56:00.000Z	cenciu	duffydack	i don't have linux on it. this is the problem. please help me to find out. i tried on google, but nothing
+2010-08-01T17:57:00.000Z	duffydack	cenciu	well look under windows device manager then
+2010-08-01T17:59:00.000Z	cenciu	duffydack	i did, but it doesn't tell me that. please... help

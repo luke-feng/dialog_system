@@ -1,0 +1,6 @@
+2011-05-03T05:43:00.000Z	Jasonn		How do I find a folder
+2011-05-03T05:43:00.000Z	Jasonn		on the whole filesystem (Also subfolders)
+2011-05-03T05:45:00.000Z	Jasonn		How do I find a folder
+2011-05-03T05:45:00.000Z	Jasonn		on the whole filesystem (Also subfolders)
+2011-05-03T05:47:00.000Z	nothingspecial	Jasonn	find / -type d -name 'name_of_folder'
+2011-05-03T05:47:00.000Z	Jasonn	nothingspecial	Thanks :)

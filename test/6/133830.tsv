@@ -1,0 +1,6 @@
+2006-03-18T10:20:00.000Z	blumer		I'm getting a broken package upon "apt-get install php5" on an up-to-date Breezy system--help? Thanks!
+2006-03-18T10:21:00.000Z	blumer		The following packages have unmet dependencies:
+2006-03-18T10:21:00.000Z	blumer		  php5: Depends: libapache2-mod-php5 (>= 5.1.2-1) but it is not going to be installed or
+2006-03-18T10:21:00.000Z	blumer		                 libapache-mod-php5 (>= 5.1.2-1) but it is not going to be installed or
+2006-03-18T10:21:00.000Z	blumer		                 php5-cgi (>= 5.1.2-1) but it is not going to be installed
+2006-03-18T10:21:00.000Z	gnomefreak	blumer	dont paste in here please use pastebin

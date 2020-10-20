@@ -1,0 +1,6 @@
+2009-05-28T01:35:00.000Z	marko__	ZykoticK9	no, I have had these partitions for over year, I only repartitioned sda on install
+2009-05-28T01:41:00.000Z	marko__	ZykoticK9	and histo, "sudo fdisk -l" lists sdb, sdb1, sdb5, sdb6 and sdb7, so I should have those... also if I boot ubuntu 7.10 live cd, I can mount those drives
+2009-05-28T01:42:00.000Z	ZykoticK9	marko__	when you run "ls /dev/sd*" do you see the 5?
+2009-05-28T01:42:00.000Z	marko__	ZykoticK9	no, I dont
+2009-05-28T01:43:00.000Z	ZykoticK9	marko__	regardless of what fdisk is telling you, if you don't see the device you're NOT going to be able to mount it.  Good luck man.
+2009-05-28T01:44:00.000Z	marko__	ZykoticK9	ok thanks, thats what I thought

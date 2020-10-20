@@ -1,0 +1,6 @@
+2011-12-17T07:49:00.000Z	urlin2u		Python1320, there is info on the web, the vbox drivers are different.
+2011-12-17T07:50:00.000Z	pythonirc1011	urlin2u	i found the windows migration guide: https://www.virtualbox.org/wiki/Migrate_Windows -- but no ubuntu
+2011-12-17T07:51:00.000Z	urlin2u	pythonirc1011	I have tried it never with success myself.
+2011-12-17T07:51:00.000Z	pythonirc1011	urlin2u	i hope someone else succeeded here!
+2011-12-17T07:51:00.000Z	urlin2u	pythonirc1011	I think this line tells the story in the link. This should work for Win2k Vista and Windows 7 as well, but it's untested.
+2011-12-17T07:52:00.000Z	urlin2u	pythonirc1011	good luck with getting it done here. :D

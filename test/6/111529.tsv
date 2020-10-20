@@ -1,0 +1,6 @@
+2006-12-29T08:58:00.000Z	alex-weej	reiki	the UUID of a partition never changes, unlike it's kernel-assigned name (e.g. sdc4, hdb3)
+2006-12-29T08:58:00.000Z	reiki	alex-weej	wrong. I have CHANGED the UUID of a partition
+2006-12-29T08:58:00.000Z	alex-weej	reiki	never changes under normal use. sheesh!
+2006-12-29T08:59:00.000Z	alex-weej	reiki	that's the whole point of it, swap your disks around controllers and linux won't boot if you use /dev/sd* identifiers in your fstab
+2006-12-29T08:59:00.000Z	alex-weej	reiki	whereas with UUIDs, as long as the disk is in your system somewhere, it'll work :)
+2006-12-29T09:00:00.000Z	reiki	alex-weej	yes I understand WHY they are there. I am just trying to understand more about how they work. What "ties" tehm to a particular file system

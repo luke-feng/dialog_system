@@ -1,0 +1,6 @@
+2010-05-06T05:32:00.000Z	tophyr		is there a simple/quick way to convert to cmdline-only bootup?
+2010-05-06T05:32:00.000Z	hmw	tophyr	install sysv-rc-conf and remove gdm for RunLevel 2
+2010-05-06T05:33:00.000Z	hmw	tophyr	thus, after booting, you end up on the console. init 3 will further boot up to gnome
+2010-05-06T05:33:00.000Z	tophyr	hmw	is there anything other than gdm that needs to get cut out of RL2? if not i can just do that by hand
+2010-05-06T05:34:00.000Z	hmw	tophyr	that would prevent gdm from start. i think, this is what you wanted.
+2010-05-06T05:34:00.000Z	tophyr	hmw	cool, yeah pretty much

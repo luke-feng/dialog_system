@@ -1,0 +1,6 @@
+2005-07-06T10:22:00.000Z	NeoGeo64		i want to upgrade my kernel to the i686 version
+2005-07-06T10:22:00.000Z	NeoGeo64		what do i need to get in the package manager
+2005-07-06T10:24:00.000Z	cmatheson	NeoGeo64	'apt-cache search kernel-image', and then install the one you want
+2005-07-18T15:42:00.000Z	cmatheson	NeoGeo64	take the 'us' in the 'us.archive.ubuntu.com' out of sources.list
+2005-07-18T15:44:00.000Z	cmatheson	NeoGeo64	it's a quick fix
+2005-07-18T15:44:00.000Z	cmatheson	NeoGeo64	don't freakin dump that in here

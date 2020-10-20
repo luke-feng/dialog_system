@@ -1,0 +1,6 @@
+2008-12-14T21:30:00.000Z	ardchoille		How can I find out which package /usr/bin/foo was installed from?
+2008-12-14T21:31:00.000Z	TwoD	ardchoille	I have a script for that somewhere, hang on
+2008-12-14T21:35:00.000Z	TwoD	ardchoille	sending you the script now. It's called WhichPKG, just put it in ~/.gnome2/nautilus-scripts and select the file(s) you want to check then right-click Script->WhichPKG
+2008-12-14T21:36:00.000Z	ardchoille	TwoD	I can't do dcc file transfers here
+2008-12-14T21:36:00.000Z	ardchoille	TwoD	May I pm you?
+2008-12-14T21:36:00.000Z	TwoD	ardchoille	sure

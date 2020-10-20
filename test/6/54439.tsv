@@ -1,0 +1,6 @@
+2008-07-18T02:13:00.000Z	Johnny		can somebody help me with my wireless card i cant figure this out, every so often my card suddenly dies and in network manager it says its not configured, iwlist scan outputs no results and /etc/init.d/networking restart does nothing
+2008-07-18T02:15:00.000Z	Johnny		anyone
+2008-07-18T02:15:00.000Z	Johnny		i dont know what to do  my wireless card just suddenly dies
+2008-07-18T02:16:00.000Z	__yy__	Johnny	does dmesg | tail say anything helpful?
+2008-07-18T02:19:00.000Z	Johnny	__yy__	http://pastebin.com/m6e2d35c2
+2008-07-18T02:20:00.000Z	__yy__	Johnny	hmm, nothing jumps out at me... (that command should be run right after the wireless fails to get useful information btw)

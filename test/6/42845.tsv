@@ -1,0 +1,6 @@
+2009-02-10T01:45:00.000Z	mkatz_		hello
+2009-02-10T01:45:00.000Z	mkatz_		is there a trick to getting 8.1 to save teh nvidia x server settings?
+2009-02-10T01:46:00.000Z	mkatz_		Im getting a UNable to create new X config backup error.  Then when I login I have to redo my settings
+2009-02-10T01:46:00.000Z	mkatz_		this is a fresh install
+2009-02-10T01:46:00.000Z	stefg	mkatz_	run gksudo nvidia-settings
+2009-02-10T01:47:00.000Z	mkatz_	stefg	- thanks

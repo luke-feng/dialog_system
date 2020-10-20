@@ -1,0 +1,6 @@
+2010-11-15T09:07:00.000Z	ashfaq		How to check our installed version of ubuntu?
+2010-11-15T09:09:00.000Z	ashfaq		How to check our installed version of ubuntu?
+2010-11-15T09:09:00.000Z	bastidrazor	ashfaq	in terminal type: lsb_release -a
+2010-11-15T09:13:00.000Z	bastidrazor	ashfaq	nearly all of it is written for windows, so it just doesn't work on linux.
+2010-11-15T09:14:00.000Z	bastidrazor	ashfaq	what?
+2010-11-15T09:15:00.000Z	bastidrazor	ashfaq	you don't need an anti-virus program.

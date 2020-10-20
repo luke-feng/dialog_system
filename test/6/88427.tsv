@@ -1,0 +1,6 @@
+2007-09-06T05:26:00.000Z	sarthor		letme reinstall .. and will try to run the default
+2007-09-06T05:28:00.000Z	rob_p	sarthor	check your squid logfiles, cache.log, etc. for other clues too.
+2007-09-06T05:28:00.000Z	sarthor	rob_p	i have cleared that all logs. this time i have deleted /var/spool/squid too. reinstalling squid
+2007-09-06T05:30:00.000Z	rob_p	sarthor	Cleared the logs?  Why?  There's usually valuable clues in daemon logfiles. You shouldn't be deleting them...
+2007-09-06T05:32:00.000Z	sarthor	rob_p	i used to cleard the logs with echo -n '' >/var/log/squid/access.log, is it the right way?
+2007-09-06T05:32:00.000Z	rob_p	sarthor	No need to clear the logs.  They will be rotated and eventually fifo-dropped by the logrotate process...

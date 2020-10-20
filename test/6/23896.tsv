@@ -1,0 +1,6 @@
+2010-03-06T12:03:00.000Z	brjann	theadmin	if not called with the --force option, halt simply invokes shutdown. init 0 doesn't necessarily *have* to halt the system; it just runs the scripts that are assigned to runlevel 0.
+2010-03-06T12:04:00.000Z	theadmin	brjann	And the "shutdown -h"?\
+2010-03-06T12:06:00.000Z	brjann	theadmin	shutdown is basically a wrapper around init 0 that adds nice things like time delays, reboot, login disabling, etc
+2010-03-06T12:06:00.000Z	theadmin	brjann	I see
+2010-03-10T14:21:00.000Z	theadmin	brjann	Don't have it installed here :/
+2010-03-10T14:22:00.000Z	brjann	theadmin	oh, my bad. i thought it was standard, looks like i have it because of emacs-goodies-el

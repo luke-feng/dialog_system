@@ -1,0 +1,6 @@
+2010-08-11T09:59:00.000Z	aristo		you need to restart nmbd also nowimproved
+2010-08-11T09:59:00.000Z	nowimproved	aristo	that's interesting to know
+2010-08-11T10:03:00.000Z	aristo	nowimproved	are yuo checking your smb.conf with testparm?
+2010-08-11T10:03:00.000Z	nowimproved	aristo	sacarlson, i know that about the ubuntu reboot, ok, sacarlson, now that workgroup isn't showing up on the other computer at all
+2010-08-11T10:03:00.000Z	nowimproved	aristo	no
+2010-08-11T10:05:00.000Z	aristo	nowimproved	check your config file with testparm if everything is ok, then restart smbd and nmbd

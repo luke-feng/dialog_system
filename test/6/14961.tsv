@@ -1,0 +1,6 @@
+2011-02-25T01:23:00.000Z	Doinkle		Hi.  Ubuntu 10.10.  I am trying to config SSH server to run on a non-default port.  So I stop the service with "/etc/init.d/ssh stop" and edit "/etc/ssh/sshd_config".  I edit the port # to what I want and restart with "/etc/init.d/ssh start".  If I try to connect "ssh doinkle@loclhost -p 9999 it doesn't work but if I connect "ssh doinkle@localhost" it does.  What am I doing wrong?
+2011-02-25T01:24:00.000Z	jrib	Doinkle	also use "service" not "/etc/init.d/"
+2011-02-25T01:24:00.000Z	Doinkle	jrib	i tried service but it didnt recognize ssh.. was service ssh stop wrong?
+2011-02-25T01:24:00.000Z	jrib	Doinkle	service ssh stop, yes
+2011-02-25T01:25:00.000Z	Doinkle	jrib	oh ok :)
+2011-02-25T01:27:00.000Z	Doinkle	jrib	and ikonia: if i PM my ip/port do either of you mind trying a connect to determine if it is working across the public net?

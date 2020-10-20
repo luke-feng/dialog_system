@@ -1,0 +1,6 @@
+2009-09-21T00:36:00.000Z	ali_		hmm , i still dont understand , sorry but my knowledge is bad with linux
+2009-09-21T00:37:00.000Z	ali_		aaah
+2009-09-21T00:37:00.000Z	ali_		let me try
+2009-09-21T00:39:00.000Z	ali_		E: couldnt find package airecrack-ng
+2009-09-21T00:40:00.000Z	ortsvorsteher	ali_	 you see your typo?
+2009-09-21T00:41:00.000Z	ortsvorsteher	ali_	try sudo apt-get install aircrack-ng

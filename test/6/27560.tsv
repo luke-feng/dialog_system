@@ -1,0 +1,6 @@
+2010-06-12T06:39:00.000Z	julian_		I received an Ubuntu upgrade but it says it's unable to upgrade because it cannot authenticate the following packages:  gvfs-backends
+2010-06-12T06:39:00.000Z	julian_		gvfs-bin
+2010-06-12T06:39:00.000Z	julian_		gvfs-fuse
+2010-06-12T06:39:00.000Z	julian_		libgpod-common
+2010-06-12T06:39:00.000Z	julian_		libgpod4.. Should I be concerned?
+2010-06-12T06:39:00.000Z	FloodBot4	julian_	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

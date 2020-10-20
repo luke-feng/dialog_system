@@ -1,0 +1,6 @@
+2009-04-10T12:11:00.000Z	tsLight		what is a .bundle file? I want to download and install VMware Player and there is no .tar.gz download, just rpm and .bundle
+2009-04-10T12:12:00.000Z	clearscreen	tsLight	you can just execute it with sh
+2009-04-10T12:12:00.000Z	tsLight	clearscreen	ok
+2009-04-10T12:12:00.000Z	clearscreen	tsLight	chmod +x filename.bundle && sh filename.bundle
+2009-04-10T12:13:00.000Z	tsLight	clearscreen	yeah I knew that :P I just wanted to know what .bundle file is
+2009-04-10T12:16:00.000Z	clearscreen	tsLight	is probably possible, but highly discouraged

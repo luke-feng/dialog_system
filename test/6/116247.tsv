@@ -1,0 +1,6 @@
+2008-03-23T02:54:00.000Z	Tournicoti		say , can anyone tell me if there is an integrated tool to copy the content of the install cd to HD , so the installer doesn't ask for it each time i want to install pa package?
+2008-03-23T02:55:00.000Z	Pelo	Tournicoti	you can remove the cd from the sources list and just get the packages online
+2008-03-23T02:55:00.000Z	Pelo	Tournicoti	menu > systm > admin > software srouces,  , first tab ,  uncheck the cd from the bottom
+2008-03-23T02:56:00.000Z	Pelo	Tournicoti	edit the /etc/apt/sources.list file , comment out the cdrom line, at the top usualy
+2008-03-23T02:57:00.000Z	Pelo	Tournicoti	might be  sources.lst
+2008-03-23T03:00:00.000Z	Pelo	Tournicoti	np , it was an easy one

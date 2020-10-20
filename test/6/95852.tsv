@@ -1,0 +1,6 @@
+2008-09-04T14:15:00.000Z	Fckd		hello, can anyone help me?
+2008-09-04T14:15:00.000Z	Fckd		hello, I did something really stupid and I'm really new, so I need help
+2008-09-04T14:17:00.000Z	Fckd		ok then. To make a long story short... I deleted fstab. I haven't restarted my computer yet. How do I restore/recover it?
+2008-09-04T14:18:00.000Z	Fckd		great. How would I go about doing that?
+2008-09-04T14:19:00.000Z	Fckd		i'll try that, thanks
+2008-09-04T14:19:00.000Z	unop	Fckd	cabrioleur, heh .. backup /etc/fstab first

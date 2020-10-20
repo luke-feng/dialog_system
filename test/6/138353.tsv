@@ -1,0 +1,6 @@
+2005-09-16T15:04:00.000Z	drummer87		hi, i need help.. having trouble with a 2.2gig tarball and burning it to a dvd
+2005-09-16T15:05:00.000Z	drummer87		the file just won't add to the list of files to burn in gnomebaker or graveman, i select it and press 'open' but nothing shows :(
+2005-09-16T15:07:00.000Z	drummer87		anyone?? i'm very confused.. is there a file size limit for burning? or for ext3??
+2005-09-16T15:07:00.000Z	GNU-GPL	drummer87	ehm.. for burning there is a limit (the size of the medium).
+2005-09-16T15:08:00.000Z	drummer87	GNU-GPL	that's fine though (4.7gig) .. so there isn't an individual file size limit either for burning or on ext3??
+2005-09-16T15:11:00.000Z	GNU-GPL	drummer87	ehm.. it depends on the kernel. However it is known to support above 2TIB files

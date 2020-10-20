@@ -1,0 +1,6 @@
+2009-12-08T14:53:00.000Z	sunrider		for some reason ncurses clicking function will not work on this remote server
+2009-12-08T14:53:00.000Z	sunrider		as in htop, cannot click the `ram` bar to sort by ram, etc
+2009-12-08T14:53:00.000Z	sunrider		do you think not having set locale has anything to do with this?
+2009-12-08T14:53:00.000Z	sunrider		orion777, ifconfig
+2009-12-08T14:53:00.000Z	sunrider		leoneof`, what about it
+2009-12-08T14:54:00.000Z	Leoneof`	sunrider	i've wlan0 for home network, and wlan1 for external network, i need gui software to handle both wireless, coz wicd is for onle wireless only

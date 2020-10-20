@@ -1,0 +1,6 @@
+2011-04-15T03:20:00.000Z	william__		can anyone help me with split command .. split -l 10 file.txt newfile  : puts splits into named file but with no extension.. I would like the file extensions to be .txt ???
+2011-04-15T03:20:00.000Z	kdub	william__	just rename it to have .txt at the end. linux doesnt treat file extensions any differently
+2011-04-15T03:21:00.000Z	william__	kdub	i did that but then the extension was file.atxt file.btxt etc
+2011-04-15T03:22:00.000Z	kdub	william__	the file extension does not matter. the system knows its a text file regardless of what its named. just do 'mv file.atxt filea.txt
+2011-04-15T03:24:00.000Z	william__		kbud i need to do this with thousands of files what do you recomend so that the files are 1.txt 2.txt 3.txt and so on and not manual file naming ?
+2011-04-15T03:28:00.000Z	kdub	william__	make new folder. run split within that folder. you'll get thousands of files. then you can do ' for i in `ls`; do mv ${i} ${i}.txt; done

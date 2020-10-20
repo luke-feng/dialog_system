@@ -1,0 +1,6 @@
+2009-06-25T16:02:00.000Z	sphenxes01		I would like to run several g++ programs on windows? what should i use? cygwin or mingw?
+2009-06-25T16:02:00.000Z	zortec	sphenxes01	I would go with cygwin
+2009-06-25T16:03:00.000Z	sphenxes01	zortec	 http://en.wikipedia.org/wiki/Cygwin
+2009-06-25T16:03:00.000Z	zortec	sphenxes01	Why are you linking me to a wiki article?
+2009-06-25T16:04:00.000Z	sphenxes01	zortec	i am newbie in computer. i can't explain such a topic. i only know that it works
+2009-06-25T16:05:00.000Z	zortec	sphenxes01	You go to cygwin's website and download the latest version of cygwin and get a copy of the user's guide.

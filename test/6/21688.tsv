@@ -1,0 +1,6 @@
+2010-05-14T03:34:00.000Z	Loshki	dancek	that happens with closed source software too. Sometimes it's worse...
+2010-05-14T03:34:00.000Z	dancek	Loshki	that's true too, but maybe not so much with hardware drivers :P
+2010-05-17T23:47:00.000Z	dancek	Loshki	/var/lib/aptitude/pkgstates
+2010-05-17T23:48:00.000Z	dancek	Loshki	not dependencies per se but the status of each package and whether it was asked b user etc
+2010-05-17T23:49:00.000Z	Loshki	dancek	agreed, package status is different to dependency info. apt seems to rely on dpkg for that (/var/lib/dpkg/status)...
+2010-05-17T23:51:00.000Z	dancek	Loshki	yes... i didn't really read the conversation, but in case it wasnt clear, aptitude keeps track of which packages the user has asked for, and all others get removed if they aren't needed by some other package anymore

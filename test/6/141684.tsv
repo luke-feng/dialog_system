@@ -1,0 +1,6 @@
+2005-07-29T09:53:00.000Z	catolh		Are microsoft's fonts copyrighted?.. :p
+2005-07-29T09:54:00.000Z	catolh		I mean, like the fonts included in for example WinXP
+2005-07-29T09:54:00.000Z	chibifs	catolh	- On a non-commercial free use liscence.
+2005-07-29T09:55:00.000Z	catolh	chibifs	so why not include them in a linux distro? like ubuntu?
+2005-07-29T09:55:00.000Z	chibifs	catolh	- Because you'd have to read the liscence for each font during install.
+2005-07-29T09:58:00.000Z	chibifs	catolh	- apt-get install msttcorefonts

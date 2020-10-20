@@ -1,0 +1,6 @@
+2011-10-03T21:12:00.000Z	gigenieks		Da** I need that USB to work properly so I can finishm my homework for tomorrow in university. Seems like this thing will use all my night...
+2011-10-03T21:13:00.000Z	gigenieks		Barkingfish: plz give ur suggestions in paste.ubuntu because I have to meet friend now and will be afk at least 1h - 1.5h
+2011-10-03T21:15:00.000Z	gigenieks		output: "Cannot open /dev/sdb"
+2011-10-03T21:16:00.000Z	fritsch	gigenieks	you look at the wrong device
+2011-10-03T21:20:00.000Z	fritsch	gigenieks	please unplug your drive and replug it
+2011-10-03T21:20:00.000Z	fritsch	gigenieks	paste the dmesg output to a pastebin

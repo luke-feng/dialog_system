@@ -1,0 +1,6 @@
+2011-04-23T15:09:00.000Z	jiltdil		i have installed vsftpd server,from other machine it is accesible through anonymous user but when i am using another name of user to connect to the machine having vsftpd installed it is not connectioning saying that  500 OOPS: cannot change directory:/home/amit
+2011-04-23T15:11:00.000Z	jiltdil		Dr_willis:yes it exists
+2011-04-23T15:12:00.000Z	jiltdil		Dr_willis:what permisson i have to give it to
+2011-04-23T15:12:00.000Z	mman	jiltdil	permisions for that user
+2011-04-23T15:14:00.000Z	mman	jiltdil	rw
+2011-04-23T15:14:00.000Z	mman	jiltdil	and the user has to be either the owner or in the group owner

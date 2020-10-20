@@ -1,0 +1,6 @@
+2008-11-24T19:22:00.000Z	Static--		so anyone have a quick fix for my sound, worked for months, all the sudden just turned off today, no icon or anything
+2008-11-24T19:24:00.000Z	Static--		oskar : cat /proc/asound/cards
+2008-11-24T19:24:00.000Z	Static--		 0 [Intel          ]: HDA-Intel - HDA Intel
+2008-11-24T19:24:00.000Z	Static--		                      HDA Intel at 0xee400000 irq 17
+2008-11-24T19:24:00.000Z	Static--		its there
+2008-11-24T19:24:00.000Z	timri	Static--	You're part of the audio group?

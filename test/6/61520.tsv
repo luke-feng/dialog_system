@@ -1,0 +1,6 @@
+2008-04-02T15:53:00.000Z	Juhaz		kill with a pid
+2008-04-02T15:53:00.000Z	Juhaz		meh. windows users.
+2008-04-02T15:53:00.000Z	DistroJockey	Juhaz	killall accepts names
+2008-04-02T15:54:00.000Z	DistroJockey	Juhaz	fair enough
+2008-04-02T15:55:00.000Z	DistroJockey	Juhaz	but why should one work and not the other?
+2008-04-02T15:57:00.000Z	DistroJockey	Juhaz	nods, and killall does accept process numbers

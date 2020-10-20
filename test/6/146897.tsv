@@ -1,0 +1,6 @@
+2009-04-18T19:44:00.000Z	frogggy		llo
+2009-04-18T19:44:00.000Z	frogggy		hello
+2009-04-18T19:44:00.000Z	frogggy		is there macedonian language pack in the standard ubuntu cd or how can i install it if there isnt one?
+2009-04-18T19:44:00.000Z	Pupeno	frogggy	system->administratio->longuage
+2009-04-18T19:45:00.000Z	Pupeno	frogggy	as much as there is to change, I believe yes.
+2009-04-18T19:46:00.000Z	Pupeno	frogggy	from the CDs you install one or the other, but really edubuntu is ubuntu with another selection of software. If you go to Synaptic you'll find a package called edubuntu or edubuntu-desktop and by installing that you can get all the software you'd get with edubuntu.

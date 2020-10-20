@@ -1,0 +1,6 @@
+2009-09-20T06:46:00.000Z	[[thufir]]		is it possible to change the behaviour of apt-get so that, rather than downloading umpteen packages and then installing them, each package is downloaded and installed before the next one is processed?
+2009-09-20T06:47:00.000Z	[[thufir]]		is it possible to change the behaviour of apt-get so that, rather than downloading umpteen packages and then installing them, each package is downloaded and installed before the next
+2009-09-20T06:47:00.000Z	bastid_raZor	[[thufir]]	some packages need the next to be updated before it can be installed
+2009-09-20T06:48:00.000Z	[[thufir]]	bastid_raZor	righ, so in that case, install the dependany first.
+2009-09-20T06:49:00.000Z	bastid_raZor	[[thufir]]	i think that is the first time i've ever seen that question asked.
+2009-09-20T06:51:00.000Z	bastid_raZor	[[thufir]]	it would still take just as long either way, yet i don't think it is possible. but if dependency is updated and you don't update the other package then you have broken packages

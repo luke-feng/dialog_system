@@ -1,0 +1,6 @@
+2006-11-06T09:42:00.000Z	immrtl		or even a simple one such as fdisk / cfdisk
+2006-11-06T09:43:00.000Z	immrtl		is there documentation on recompiling the kernel from the edgy LIVEcd???
+2006-11-06T09:43:00.000Z	unfo	immrtl	it is usually a waste of time to recompile a kernel.
+2006-11-06T09:45:00.000Z	immrtl	unfo	the new ATI closed source driver will not use its internal AGP system if agpgart is running as a module or AGPgart is compiled into the kernel
+2006-11-06T09:45:00.000Z	unfo	immrtl	sounds frustrating.
+2006-11-06T09:45:00.000Z	immrtl	unfo	thx for the newsflash

@@ -1,0 +1,6 @@
+2006-05-14T10:39:00.000Z	HymnToLife		SiriusA> yes
+2006-05-14T10:40:00.000Z	HymnToLife		they mean the package list is the same than the one you have already downloaded
+2006-05-14T10:40:00.000Z	HymnToLife		so no need to download it again
+2006-05-14T10:40:00.000Z	SiriusA	HymnToLife	ah ok, but from the same repo, or from a different repo?
+2006-05-14T10:40:00.000Z	SiriusA	HymnToLife	because i want to force a speacial package from THIS repo
+2006-05-14T10:42:00.000Z	SiriusA	HymnToLife	i also did an "apt-get clean" before updating, shouldt i then not get this ignores?

@@ -1,0 +1,6 @@
+2009-08-22T18:00:00.000Z	remfarkas		anyone can help me restoring my kernel(s)?
+2009-08-22T18:01:00.000Z	remfarkas		all my kernels are gone, and i dont want a resinstall -.-
+2009-08-22T18:02:00.000Z	remfarkas		trying to do that, but cant run apt-get update
+2009-08-22T18:04:00.000Z	remfarkas		FATAL -> Could not set non-blocking flag error in file description <- http://security.ubuntu.com jaunty-security/main Translation-hu
+2009-08-22T18:04:00.000Z	remfarkas		and without apt-get update how am i supposed to install kernel? o.O
+2009-08-22T18:05:00.000Z	rsk	remfarkas	google on howto install a kernel manually.

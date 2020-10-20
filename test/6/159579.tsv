@@ -1,0 +1,6 @@
+2005-03-22T12:54:00.000Z	justaguy		uname -a gives current running kernel version, right?
+2005-03-22T12:55:00.000Z	justaguy		'cause I just updated recently, installed / upgraded after updating to hoary from warty yesterday
+2005-03-22T12:55:00.000Z	justaguy		kernel update today
+2005-03-22T12:56:00.000Z	justaguy		uname -a has me at ubuntu 2.6.10-4-686, is that right?
+2005-03-22T12:57:00.000Z	justaguy		oh yea, thanks crimsun
+2005-03-22T12:58:00.000Z	tolstoy-	justaguy	new kernel has "invalid" nvidia modules (well, the restricted package).

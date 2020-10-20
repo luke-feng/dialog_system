@@ -1,0 +1,6 @@
+2010-10-07T19:22:00.000Z	PotcFdk		Hello, does anybody know a tool to fragment a HDD/Device/Partition?
+2010-10-07T19:23:00.000Z	PotcFdk		no
+2010-10-07T19:23:00.000Z	PotcFdk		I want to test something out
+2010-10-07T19:23:00.000Z	PotcFdk		So is there a tool or do I have to create it on my own?
+2010-10-07T19:25:00.000Z	llutz_	PotcFdk	it depends on the used filesystems, afaik there is no such (workin) tool for ext-fs
+2010-10-07T19:26:00.000Z	PotcFdk	llutz_	FAT32 would be okay.

@@ -1,0 +1,6 @@
+2006-07-21T10:14:00.000Z	slavik		When I try to install Ubuntu on my main system, when the partitioner tries to load, it freezes at 50%. The drive which I want to install ubuntu onto is a sATA drive connectedto a Sil3114 controller. Other drives (main/windows) are connected to aPromise Ultra133X2 card (dual channel ATA133 controller).
+2006-07-21T10:15:00.000Z	slavik		anyone wants to hear something funny?
+2006-07-21T10:15:00.000Z	CyDrive	slavik	i had this problem re-download the iso and re-burn it on a new cd and try that
+2006-07-21T10:15:00.000Z	slavik		flash player 7 under wine is better than flash player 6 in native linux
+2006-07-21T10:15:00.000Z	slavik	CyDrive	could it be the slightly outdated kernel?
+2006-07-21T10:16:00.000Z	CyDrive	slavik	no one of the files was corrupted on the disk open the live disk and use the check funtion where you can choose to boot into the live cd or install in that menu theres an option to check cd see if its the cd cause it most liely is

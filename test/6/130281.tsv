@@ -1,0 +1,6 @@
+2007-11-16T23:16:00.000Z	grindcore		who can spend 20 minutes to give me some answers about install ubuntu 7.10 ? pls
+2007-11-16T23:18:00.000Z	grindcore		what i need to do before boot ubuntu for install ? i tried and was there plenty of files which wasnt loaded - i need to make all partitions without ntfs - put together to unpartitioned space,.. something more ???
+2007-11-16T23:20:00.000Z	grindcore		what i need to do before boot ubuntu for install ? i tried and was there plenty of files which wasnt loaded - i need to make all partitions without ntfs - put together to unpartitioned space,.. and something more ???
+2007-11-16T23:21:00.000Z	sethk	grindcore	the installer can do its own partitioning.  You only have to worry about partitions if you are keeping an existing installation and want to dual boot
+2007-11-16T23:23:00.000Z	sethk	grindcore	if you want to destroy what's already on the disk, just tell the installer to use the entire disk
+2007-11-16T23:24:00.000Z	sethk	grindcore	what happens, exactly?

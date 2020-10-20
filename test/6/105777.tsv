@@ -1,0 +1,6 @@
+2006-09-30T15:08:00.000Z	woekele		heya, hows the environment called that is used before X is loaded?
+2006-09-30T15:08:00.000Z	yoshiznit123	woekele	the command line?
+2006-09-30T15:09:00.000Z	woekele	yoshiznit123	nah, not commandline, but the loadingscreen and stuff
+2006-09-30T15:10:00.000Z	yoshiznit123	woekele	usplash? (upstart?) :-)
+2006-09-30T15:11:00.000Z	woekele	yoshiznit123	do you know how to change the mode its running in? I keep getting "out of range" on my monitor untill X loads, then it works fine.
+2006-09-30T15:13:00.000Z	yoshiznit123	woekele	you can change it temporarily from when you boot, press 'e' when ubuntu is selected, find the line that starts with 'kernel', press 'e' again and edit the end (vga=792,791,etc.), then 'b' to boot (http://shrimpworks.za.net/2005/01/31/change-your-console-resolution-and-colour-depth/)

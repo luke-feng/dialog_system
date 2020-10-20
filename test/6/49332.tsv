@@ -1,0 +1,6 @@
+2009-03-16T00:23:00.000Z	vocx	CarlFK1	there is a package called "libavutil49" but yours is version 50, so I assume you are on Ubuntu 9.04 or maybe running things from source, or another distro.
+2009-03-16T00:23:00.000Z	CarlFK1	vocx	jaunty, trying to build ffmpeg with x264
+2009-03-16T00:24:00.000Z	vocx	CarlFK1	please go to #ubuntu+1  but you already know that.
+2009-03-16T00:24:00.000Z	CarlFK1	vocx	oh yeah - things are working so well here i forgot it wasn't stable yet :)
+2009-03-16T00:25:00.000Z	vocx	CarlFK1	you must install "apt-file" it can tell you were a particular file is located in.
+2009-03-16T00:26:00.000Z	CarlFK1	vocx	right.  i was trying apt-cache... thanks.

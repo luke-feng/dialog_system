@@ -1,0 +1,6 @@
+2006-09-01T10:40:00.000Z	x_O		Wonder what kernel version I have. I know there's a console command for it..
+2006-09-01T10:40:00.000Z	x_O		thanks.
+2006-09-01T10:42:00.000Z	x_O		Hmm. Wonder what upgrading kernel would do...
+2006-09-01T10:42:00.000Z	x_O		More features? Or just fixes.. or more hardware support?
+2006-09-01T10:43:00.000Z	x_O		I heard it's better to install some things from SOURCE ... why? Like, for instance WINE.
+2006-09-01T10:44:00.000Z	bruenig	x_O	for wine, the idea is that you could get the latest source and that the repositories would have an older version, however there are some "bleedin edge wine repositories" that have the latest one

@@ -1,0 +1,6 @@
+2012-01-30T08:00:00.000Z	stuntmachine		What is the difference between manual and static in /etc/network/interfaces?  For example, I could say, "iface eth0 inet manual" or I could say, "iface eth0 inet static" and both will work...
+2012-01-30T08:01:00.000Z	Psi-Jack	stuntmachine	manual takes no options. It's used for bonding and/or bridge devices.
+2012-01-30T08:02:00.000Z	stuntmachine	Psi-Jack	 Any idea where I can find more information about this?  Like a manpage or something?
+2012-01-30T08:02:00.000Z	Psi-Jack	stuntmachine	man interfaces, ironically.
+2012-01-30T08:03:00.000Z	stuntmachine	Psi-Jack	 ah nice… thank you
+2012-01-30T08:03:00.000Z	stuntmachine	Psi-Jack	 It's one of those things I've done for years but never understood why…  I'm simply not satisfied with doing something and not knowing why :)

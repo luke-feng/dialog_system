@@ -1,0 +1,6 @@
+2007-11-25T23:36:00.000Z	Ax-Ax		Ctrl-Alt-F1 shows a black screen only, but commands work. But I can't read the output. Any fix?
+2007-11-25T23:38:00.000Z	Ax-Ax		Ctrl-Alt-F1 shows a black screen only, but commands work. But I can't read the output. Any fix?
+2007-11-25T23:39:00.000Z	infinitycircuit	Ax-Ax	if commands work what if you type reset
+2007-11-25T23:39:00.000Z	Ax-Ax	infinitycircuit	nothing
+2007-11-25T23:40:00.000Z	infinitycircuit	Ax-Ax	when you boot, do you see the framebuffer splash screen, or do you get a blank screen then as well?
+2007-11-25T23:41:00.000Z	Ax-Ax	infinitycircuit	usplash works

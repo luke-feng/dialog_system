@@ -1,0 +1,6 @@
+2008-01-24T07:47:00.000Z	rodolfo		if I want to run a game using wine, should I install the video driver for win as well?
+2008-01-24T07:47:00.000Z	unop	rodolfo	no -- wine takes care of that for you
+2008-01-24T07:49:00.000Z	rodolfo	unop	that's great...btw have you noticed some driver update for i915(tarball, deb or whatever)?
+2008-01-24T07:50:00.000Z	unop	rodolfo	have you tried updating with synaptic?
+2008-01-24T07:51:00.000Z	rodolfo	unop	yes I did..also I took a look @ intel's page, but there's nothing about i915...
+2008-01-24T07:52:00.000Z	unop	rodolfo	were you looking for linux drivers on intel's page?

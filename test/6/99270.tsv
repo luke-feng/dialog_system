@@ -1,0 +1,6 @@
+2007-01-01T12:19:00.000Z	Jaggz-		my latest vim is 6.4 in aptitude.. but vim is at 7.0 -- how do I know if it's just not available or if my package list is updated?
+2007-01-01T12:19:00.000Z	Jaggz-		does aptitude automatically update its list?
+2007-01-01T12:20:00.000Z	n2diy	Jaggz-	 apt-get update
+2007-01-01T12:20:00.000Z	Jaggz-	n2diy	thanks...  : ) :)
+2007-01-01T12:21:00.000Z	Jaggz-		hmm.. it doesn't really show a newer version either.. in fact, it shows 6.3 .. I must have gotten some deb packages for 6.4
+2007-01-01T12:22:00.000Z	n2diy	Jaggz-	 How soon updates appear in apt is up to the maintainers of the apt system.

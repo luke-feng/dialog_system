@@ -1,0 +1,6 @@
+2007-11-24T00:30:00.000Z	gaten		ive just changed my resolution from 1280x1024 to 1680x1050, and now my desktop background is split into 4 different "sections". it seems like the WM still thinks the machine is in 1280 resolution. im using feisty, and i changed the resolution with nvidia x settings
+2007-11-24T00:31:00.000Z	meborc	gaten	are you sure you don't have a tile/strech issue? :)
+2007-11-24T00:31:00.000Z	meborc	gaten	the picture is smaller than the screen reso?
+2007-11-24T00:31:00.000Z	gaten	meborc	yes. ive changed it to each mode, and everyone shows 4 seperate images. including stretched and scaled. each image is 'streatched' inside of its own little box
+2007-11-24T00:32:00.000Z	meborc	gaten	hmm... that is strange... i have no ideas for you... sorry :(
+2007-11-24T00:33:00.000Z	gaten	meborc	ahh well. thanks anyway.

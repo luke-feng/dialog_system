@@ -1,0 +1,6 @@
+2006-12-09T12:58:00.000Z	belfegorash		i have a question...when i install ubuntu how i make 2 partition like in windows?
+2006-12-09T12:59:00.000Z	gansinho	belfegorash	you have windows already installed?
+2006-12-09T13:00:00.000Z	gansinho	belfegorash	I think the easy way is to install windows first... =/
+2006-12-09T13:01:00.000Z	belfegorash	gansinho	to have 2 os on pc?
+2006-12-09T13:01:00.000Z	gansinho	belfegorash	there must be a easy way, but basically you need to create a new partition to install windows, install it there (don't ask me how) and set up grub
+2006-12-09T13:02:00.000Z	gansinho	belfegorash	Oh now i understand, sorry

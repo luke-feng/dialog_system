@@ -1,0 +1,6 @@
+2008-05-19T09:09:00.000Z	arrrghhh		so the livecd won't boot on my friend's computer... it starts loading, the progress bar gets 15% and it dies.  it kicks me back to a command line (initfas) or something to that effect and it doesn't even look like bash.  i tried using wubi, same thing.  wouldn't boot and kicks me back to archaic command line.  what's goin on?
+2008-05-19T09:10:00.000Z	squee	arrrghhh	this happens alot when it has issues with the ide/sata controller (at least from what i've seen).  This is it dropping to an initramfs (busybox i think) shell.  There is a command usuallyto get through it, hold on
+2008-05-19T09:10:00.000Z	arrrghhh	squee	sounds right
+2008-05-19T09:11:00.000Z	arrrghhh	squee	definitely said busybox
+2008-05-19T09:13:00.000Z	squee	arrrghhh	you could try "modprobe ide-generic && modprobe ide-disk", and it might continue, but this is kinda a specific issue, and might not be what is causing you problems
+2008-05-19T09:13:00.000Z	squee	arrrghhh	the other thing to check would be dmesg, and see if there are any errors there

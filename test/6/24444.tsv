@@ -1,0 +1,6 @@
+2012-02-17T23:52:00.000Z	mikeliss		Is there any way to determine whether not having TRIM turned on is the reason a drive is slow?
+2012-02-17T23:52:00.000Z	daftykins	mikeliss	you would have had to have written the full capacity of the SSD to it to start recycling bad blocks and thus have bad performance
+2012-02-17T23:54:00.000Z	mikeliss	daftykins	that's probably likely.
+2012-02-17T23:55:00.000Z	mikeliss	daftykins	of course, I don't think I've ever filled it completely all at once. But having it be near full, then emptied would have the same problem, right?
+2012-02-17T23:55:00.000Z	daftykins	mikeliss	are you not running a new enough kernel for TRIM to be on?
+2012-02-17T23:58:00.000Z	mikeliss	daftykins	Nope. It's a server.

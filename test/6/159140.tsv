@@ -1,0 +1,6 @@
+2004-12-07T07:01:00.000Z	GotD0t		how do i check FPS in hoary
+2004-12-07T07:03:00.000Z	GotD0t		what config file does hoary use for X
+2004-12-07T07:03:00.000Z	_Imanewbie_	GotD0t	: xfree86-4
+2004-12-07T07:04:00.000Z	GotD0t	plasmo	are you sure... i dont see xorg.conf in /etc/X11
+2004-12-07T07:04:00.000Z	GotD0t	plasmo	yea i am
+2004-12-07T07:04:00.000Z	_Imanewbie_	GotD0t	look for XFree86config-4

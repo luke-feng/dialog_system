@@ -1,0 +1,6 @@
+2005-05-19T15:06:00.000Z	geoffroy_		Ok I think that it works
+2005-05-19T15:06:00.000Z	geoffroy_		how can i config the pass for sudo ?
+2005-05-19T15:06:00.000Z	geoffroy_		cuz he doesn't ask me the password
+2005-05-19T15:06:00.000Z	geoffroy_		if anyone could paste his file /etc/sudoers, I think it would help me
+2005-05-19T15:07:00.000Z	Burgundavia	geoffroy_	what do you mean? not asking for password?
+2005-05-19T15:44:00.000Z	Burgundavia	geoffroy_	it is there

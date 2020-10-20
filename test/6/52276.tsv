@@ -1,0 +1,6 @@
+2009-03-10T18:26:00.000Z	satansaunt		hey, does anyone know how i would go about setting irssi as the default irc client to work with firefox...in relation to irc links?
+2009-03-10T18:27:00.000Z	satansaunt		hey, does anyone know how i would go about setting irssi as the default irc client to work with firefox...in relation to irc links?
+2009-03-10T18:28:00.000Z	satansaunt		thanks jharkn- i'll give it a try
+2009-03-10T18:29:00.000Z	satansaunt		also, stupid question but i'm having problems connecting directly to an i.p. in irssi- what should i be doing?
+2009-03-10T18:29:00.000Z	ActionParsnip1	satansaunt	can you ping the ip?
+2009-03-10T18:39:00.000Z	ActionParsnip1	satansaunt	can you telnet to the ip on port 6667

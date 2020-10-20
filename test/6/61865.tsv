@@ -1,0 +1,6 @@
+2008-06-01T19:56:00.000Z	noobuntu		chev_cheliot: its dist-upgrade i think, it ask me if i'm root
+2008-06-01T19:58:00.000Z	noobuntu		chev_cheliot: are you there?
+2008-06-01T19:58:00.000Z	noobuntu		chev_cheliot: it asks me if i'm root
+2008-06-01T19:58:00.000Z	noobuntu		chev_cheliot: sudo -s or how was it to change to root?
+2008-06-01T19:58:00.000Z	noobuntu		chev_cheliot: yes
+2008-06-01T19:59:00.000Z	mDemocritus	noobuntu	sudo -i if you want a root shell

@@ -1,0 +1,6 @@
+2012-05-25T23:50:00.000Z	nascentmind		Hi. How do I make the apparmor module go to quiet mode. Its very noisy in the dmesg output
+2012-05-25T23:51:00.000Z	schultza	nascentmind	what is it complaining about?
+2012-05-25T23:51:00.000Z	nascentmind	schultza	mysql process terminated with status 1
+2012-05-25T23:52:00.000Z	nascentmind	schultza	whole list of mysql nonsense.
+2012-05-25T23:52:00.000Z	schultza	nascentmind	checking
+2012-05-25T23:54:00.000Z	schultza	nascentmind	check http://tanghus.net/2012/03/yet-another-mysql-vs-apparmor-barf/ about fixing apparmor for similar messages you are getting

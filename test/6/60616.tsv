@@ -1,0 +1,6 @@
+2008-05-19T04:39:00.000Z	RenatoSilva		I've killed Synaptic and now it doesn't open (didn't free lock obviously)
+2008-05-19T04:39:00.000Z	RenatoSilva		how to free the lock?
+2008-05-19T04:39:00.000Z	RenatoSilva		please
+2008-05-19T04:40:00.000Z	Redian	RenatoSilva	"﻿Flannel: Redian: double check that you have no reason for the lock to be there, then just delete the lock file"
+2008-05-19T04:40:00.000Z	RenatoSilva	Redian	I modem it but still doesn't work
+2008-05-19T04:41:00.000Z	RenatoSilva	Redian	I *moved* it

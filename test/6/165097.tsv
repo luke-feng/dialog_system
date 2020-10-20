@@ -1,0 +1,6 @@
+2010-05-13T07:03:00.000Z	CheckMate		can someone please tell me what this means?? To install jlscp as an extension just copy jlscp.jar in the following directory: <JDK-home>/jre/lib/ext
+2010-05-13T07:04:00.000Z	CheckMate		pvl1; yes... command which java returns: /usr/bin/java
+2010-05-13T07:05:00.000Z	CheckMate		pvl1; i installed the sun jdk
+2010-05-13T07:05:00.000Z	CheckMate		pvl1; yes from synaptic
+2010-05-13T07:06:00.000Z	CheckMate		pvl1; i think I just need to move that jar file but I am confused as to where it needs to go
+2010-05-13T07:06:00.000Z	Dr_Willis	CheckMate	 java installs to a specific location where it keeps all its 'support files' thats its home. I dont recall how to find its home - Theres proverly som3e command that tells it.

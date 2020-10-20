@@ -1,0 +1,6 @@
+2006-07-10T08:08:00.000Z	Cedrics		hi! this is my first time installing ubuntu x86_64... and the first time installing it while being in raid (STRIPPIN) do i need any driver disk before launching the installation..i plan on having windows out of the pc so it be ubuntu only
+2006-07-10T08:08:00.000Z	Ng	Cedrics	you ought to be able to set up software raid from within the installer, without additional driver disks
+2006-07-10T08:09:00.000Z	Cedrics	Ng	i will be able without driver disk is this what u meant
+2006-07-10T08:10:00.000Z	Ng	Cedrics	it depends, do you have a hardware raid card?
+2006-07-10T08:14:00.000Z	Ng	Cedrics	it's generally a good idea not to use BIOS raid and use the software raid in the installer instead, get the BIOS to present it as JBOD (Just a Bunch of Disks)
+2006-07-10T08:17:00.000Z	Ng	Cedrics	if you have the bios present the raid disks as just ordinary disks then there won't be any issue. not sure about what you'll need to do if you're using the BIOS raid, but as I said, those are rarely a good idea

@@ -1,0 +1,6 @@
+2011-02-18T22:17:00.000Z	juk		!stable
+2011-02-18T22:17:00.000Z	apocalyptiq	juk	it adds x to files and directories
+2011-02-18T22:17:00.000Z	juk		!details | apocalyptiq
+2011-02-18T22:18:00.000Z	juk		!md5 > novoid
+2011-02-18T22:19:00.000Z	juk	novoid	dont be
+2011-02-18T22:19:00.000Z	apocalyptiq	juk	I have a problem with setting x for directories. I'm running Ubuntu version 10.10. When I try to do chmod -R 755 dir/, I get the following output: files and directories has 755, but i expected it to do files 655 and directories 755.

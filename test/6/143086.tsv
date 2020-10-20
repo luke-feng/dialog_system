@@ -1,0 +1,6 @@
+2005-07-26T11:00:00.000Z	qt2		 /media is a /mnt replacment, correct?
+2005-07-26T11:00:00.000Z	qt2		ok.
+2005-07-26T11:02:00.000Z	mjr	qt2	kinda; it's for removable media, mostly
+2005-07-26T11:02:00.000Z	qt2	mjr	what about for automounting windows filesystems?
+2005-07-26T11:04:00.000Z	mjr	qt2	that I'd put under /mnt
+2005-09-12T15:20:00.000Z	mjr	qt2	not really

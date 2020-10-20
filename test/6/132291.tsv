@@ -1,0 +1,6 @@
+2011-11-08T09:11:00.000Z	stow		Hi does anyone know when a more reliable upgrade from 11.10 to 12.04 will be made available?
+2011-11-08T09:12:00.000Z	stow		Oh sorry I thought it was already out
+2011-11-08T09:12:00.000Z	stow		so when is 12.04 coming out?
+2011-11-08T09:13:00.000Z	stow		so 11.10 has come out... thought I already had how do I check?
+2011-11-08T09:14:00.000Z	stow		yes I saw those and backed off from it because I don't have the skill.  Is there a way to see if I have 11.10 now?  I thought I did but maybe I don't?
+2011-11-08T09:15:00.000Z	carlosqueso	stow	easiest way is to open a terminal and type lsb_release -a

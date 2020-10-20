@@ -1,0 +1,6 @@
+2004-12-07T15:24:00.000Z	gauckler		mplayer doesn't seem to work. do I have to download and self-compile?
+2004-12-07T15:24:00.000Z	gauckler		MPlayer 1.0pre5-3.3.4
+2004-12-07T15:25:00.000Z	gauckler		marillat??? from the usual sources in sources.list
+2004-12-07T15:26:00.000Z	ironwolf	gauckler	marillat  = debian, multiverse = ubuntu try installing mplayer from multiverse.. or worst case, from hoary multiverse.
+2004-12-07T15:26:00.000Z	gauckler		Compiled for x86 CPU , and I have a P-M
+2004-12-07T15:26:00.000Z	gauckler	ironwolf	I'll try. might be that I caught the debian version..

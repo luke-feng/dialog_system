@@ -1,0 +1,6 @@
+2009-06-29T09:14:00.000Z	sdeb		hi , is it possible to install ubuntu from source like gentoo ?
+2009-06-29T09:16:00.000Z	stroyan	sdeb	You can get source and rebuild it using "apt-get source package; apt-get builddep package; debuild"
+2009-06-29T09:16:00.000Z	sdeb	stroyan	even the base package ?
+2009-06-29T09:18:00.000Z	stroyan	sdeb	I just build packages that I want to tweak or debug.  I haven't tried rebuilding every single package.  Why would you want to?
+2009-06-29T09:19:00.000Z	sdeb	stroyan	to learn everything , and to the full control
+2009-06-29T09:20:00.000Z	stroyan	sdeb	"everything" keeps getting bigger and bigger. ;-)

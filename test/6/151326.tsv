@@ -1,0 +1,6 @@
+2005-05-12T15:17:00.000Z	seraphiel		does anybody know what package provides ft2build.h?
+2005-05-12T15:19:00.000Z	fsapo	seraphiel	freetype2 i guess
+2005-05-12T15:20:00.000Z	seraphiel	fsapo	I have freetype2 installed
+2005-05-12T15:20:00.000Z	fsapo	seraphiel	thats what my friend google said.. btw http://computing.ee.ethz.ch/sepp/freetype-2.0.6-mo.SEPP/freetype-2.0.6/include/ft2build.h
+2005-05-12T15:20:00.000Z	fsapo	seraphiel	try the dev package
+2005-05-12T15:22:00.000Z	seraphiel	fsapo	can`t find the package...

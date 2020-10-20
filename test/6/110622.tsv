@@ -1,0 +1,6 @@
+2006-07-24T10:23:00.000Z	bst		hiho, i would need some help, regarding fglrx+xserver-xorg+compiz/xgl, dri support worked before changing the default display to 1:0 for the compiz/xgl without any probs, but after this change fglrxinfo and any other tools are complaining that they can't connect to display 0:0, but X is starting and running on display 1:0 with "fglrx" in the device section
+2006-07-24T10:23:00.000Z	skavenge	bst	#ubuntu-xgl
+2006-07-24T10:24:00.000Z	bst	skavenge	some more description would be helpful pls :)
+2006-07-24T10:25:00.000Z	skavenge	bst	thats where your going to get your answer if any
+2006-07-24T10:25:00.000Z	bst		oh you mean the chan
+2006-07-24T10:25:00.000Z	skavenge	bst	thats the xgl\compiz specialty channel

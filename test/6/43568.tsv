@@ -1,0 +1,6 @@
+2009-01-25T12:29:00.000Z	coffeetopia		Hello. Embarassing noob question; while updating my first(!) Ubuntu install I get "Error", then "E: Could not get lock /var/cache/apt/archives/lock - open (11 Resource temporarily unavailable)
+2009-01-25T12:29:00.000Z	coffeetopia		E: Unable to lock the download directory" ---What am I missing? Do I have a setting mis-set? Mis-set?!?! Thats not a word...  Thanks in advance!!
+2009-01-25T12:30:00.000Z	IndyGunFreak	coffeetopia	you probably have synaptic running, while trying to run an install..
+2009-01-25T12:30:00.000Z	IndyGunFreak	coffeetopia	or maybe you're doing updates.
+2009-01-25T12:30:00.000Z	IndyGunFreak	coffeetopia	only 1 thing using root can run at a time.
+2009-01-25T12:30:00.000Z	coffeetopia	IndyGunFreak	Thanks.. I'll check...

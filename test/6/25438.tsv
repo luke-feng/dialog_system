@@ -1,0 +1,6 @@
+2010-01-13T04:20:00.000Z	zynox		How can I make a .img file from a .iso? I have a iso and I need a .img for dd to put onto a usb stick.
+2010-01-13T04:21:00.000Z	Chousuke	zynox	.img files are what, exactly?
+2010-01-13T04:21:00.000Z	zynox	Chousuke	like a image of a disk.
+2010-01-13T04:22:00.000Z	Chousuke	zynox	.iso is one :)
+2010-01-13T04:22:00.000Z	Chousuke	zynox	it's a CD filesystem image.
+2010-01-13T04:22:00.000Z	Chousuke	zynox	what matters is the filesystem you need to put on the USB disk

@@ -1,0 +1,6 @@
+2008-06-08T09:34:00.000Z	amenado		!clone | aata
+2008-06-08T09:36:00.000Z	amenado		UBUNTUJAY123-> look at the command behind swfitfox, does it call firefox2?
+2008-06-08T09:38:00.000Z	amenado		UBUNTUJAY123-> you can see if swiftfox is a script and look inside it, to see if it calls firefox2
+2008-06-08T09:38:00.000Z	amenado		UBUNTUJAY123-> man file
+2008-06-08T09:40:00.000Z	amenado		UBUNTUJAY123-> first thing is find out if swift is a script or a binary, if a script then you can peek inside
+2008-06-08T09:40:00.000Z	UBUNTUJAY123	amenado	i dont know how to do that

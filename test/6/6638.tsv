@@ -1,0 +1,6 @@
+2011-09-03T06:00:00.000Z	Brite		how do i install lubuntu restricted extras on lubuntu 11
+2011-09-03T06:01:00.000Z	bazhang	Brite	sudo apt-get install lubuntu-restricted-extras
+2011-09-03T06:02:00.000Z	Brite		but i cant say yes to the licence it is stuck up
+2011-09-03T06:02:00.000Z	bazhang	Brite	tab to it , and click OK
+2011-09-03T06:02:00.000Z	Brite		let me try
+2011-09-03T06:03:00.000Z	Brite	bazhang	god bless you i got it thanks a lot

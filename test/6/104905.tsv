@@ -1,0 +1,6 @@
+2008-03-16T22:09:00.000Z	tux97		hi i can't seem to browse my network any ideas or help?
+2008-03-16T22:09:00.000Z	Fryguy--	tux97	that's awfully vague
+2008-03-17T05:08:00.000Z	Fryguy--	tux97	/etc/hosts
+2008-03-17T05:09:00.000Z	Fryguy--	tux97	?
+2008-03-17T05:09:00.000Z	Fryguy--	tux97	the one you want to connect to
+2008-03-17T05:11:00.000Z	Fryguy--	tux97	you edit the file and put the information in, just like the examples and other entries that are in there

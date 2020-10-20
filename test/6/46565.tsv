@@ -1,0 +1,6 @@
+2009-01-30T08:28:00.000Z	thief`		my uid is 1000
+2009-01-30T08:28:00.000Z	_2	thief`	uid = 0  is superuser
+2009-01-30T08:29:00.000Z	_2	thief`	uid = 1000 ~ ?   is the normal user range, as specified in some config in /etc
+2009-01-30T08:52:00.000Z	_2	thief`	only 30g for home ???   O.o
+2009-01-30T08:53:00.000Z	thief`	_2	who cares, you can change it later, or add another hd.
+2009-01-30T08:53:00.000Z	_2	thief`	"who cares"   user cares in most cases.

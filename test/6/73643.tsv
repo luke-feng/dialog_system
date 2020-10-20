@@ -1,0 +1,6 @@
+2007-11-24T20:40:00.000Z	VijayG		Hello, i need to give permission to a folder as writable
+2007-11-24T20:41:00.000Z	VijayG		chown -R user folder will do in ubuntu
+2007-11-24T20:41:00.000Z	VijayG		or is there any other command
+2007-11-24T20:41:00.000Z	VijayG		chown -R user folder
+2007-11-24T20:41:00.000Z	infinitycircuit	VijayG	that will work fine
+2007-11-24T20:41:00.000Z	infinitycircuit	VijayG	chown -R $USER or chgrp -R staff or chmod -R a+w

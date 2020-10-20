@@ -1,0 +1,6 @@
+2010-02-02T12:26:00.000Z	charles__		where is the "program files" type directory in ubuntu? i've installed a program and don't see it in my applications menu
+2010-02-02T12:26:00.000Z	charles__		hmmm
+2010-02-02T12:27:00.000Z	charles__		kinda makes tracking things down a pain in the ass, i would imagine
+2010-02-02T12:28:00.000Z	charles__		what does apt-file do? man isn't bringing anything up
+2010-02-02T12:28:00.000Z	charles__		ah
+2010-02-02T12:28:00.000Z	Flannel	charles__	It searches [all the packages] for files in packages

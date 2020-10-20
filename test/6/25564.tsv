@@ -1,0 +1,6 @@
+2010-01-09T01:07:00.000Z	haresh		need some help why my computer lag ?? i am  on 1.25 gb ram
+2010-01-09T01:08:00.000Z	haresh		how to check that pfred1
+2010-01-09T01:09:00.000Z	haresh		load average: 3.55, 3.40, 3.06
+2010-01-09T01:10:00.000Z	wqing	haresh	what programs are you running?
+2010-01-09T01:12:00.000Z	wqing	haresh	in top, type <shift> P. That will sort the list of apps running by cpu usage.
+2010-01-09T01:12:00.000Z	haresh	wqing	the command ??

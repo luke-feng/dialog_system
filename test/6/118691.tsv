@@ -1,0 +1,6 @@
+2010-03-06T02:01:00.000Z	madwill		please why does ubuntu does not allow people to do simple cut and paste of file
+2010-03-06T02:01:00.000Z	ikonia	madwill	it does
+2010-03-06T02:01:00.000Z	ikonia	madwill	it's not
+2010-03-06T02:02:00.000Z	ikonia	madwill	it's not on every folder
+2010-03-06T02:02:00.000Z	ikonia	madwill	what do you want to get into - that you can't ?
+2010-03-06T02:03:00.000Z	ikonia	madwill	ok, so you either need to a.) set the permissions on /var/www to be more open, or b.) use sudo / gksudo to move the files

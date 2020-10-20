@@ -1,0 +1,6 @@
+2008-12-16T06:00:00.000Z	Smokey		need to lock my files away from root as well, other users on my computer are accessing my files with the sudo command, how can I prevent this?
+2008-12-16T06:01:00.000Z	Smokey		yes
+2008-12-16T06:02:00.000Z	Smokey		so i need to encrypt?
+2008-12-16T06:02:00.000Z	Smokey		no
+2008-12-16T06:02:00.000Z	Smokey		they goto terminal and type sudo thunar, and it lets them access anything on the computer
+2008-12-16T06:03:00.000Z	kitche	Smokey	well you can't hide any file from root really

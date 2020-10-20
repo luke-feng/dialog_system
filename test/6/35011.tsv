@@ -1,0 +1,6 @@
+2010-04-29T23:17:00.000Z	ojii		I'm on lucid and my keyboard stopped working as of today (I used RC before and it worked yesterday evening), does anyone have an idea what I could do?
+2010-04-29T23:18:00.000Z	acicula	ojii	what kind of keyboard
+2010-04-29T23:19:00.000Z	ojii	acicula	h93 it's a notebook keyboard, so no unplugging/replugging
+2010-04-29T23:19:00.000Z	acicula	ojii	does it work at boot? can you go into/out of the bios and grub menu?
+2010-04-29T23:20:00.000Z	ojii	acicula	I don't get a GRUB
+2010-04-29T23:20:00.000Z	acicula	ojii	you get asked to press ESC on boot or wait a few seconds

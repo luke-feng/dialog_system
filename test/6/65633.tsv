@@ -1,0 +1,6 @@
+2008-03-22T16:13:00.000Z	cambazz		does ubuntu keep a log of packages installed?
+2008-03-22T16:14:00.000Z	cambazz		thanks
+2008-03-22T16:14:00.000Z	cambazz		do you know where ubuntu keeps the index files
+2008-03-22T16:15:00.000Z	cambazz		ok
+2008-03-22T16:15:00.000Z	danand	cambazz	- to list all installed packages on your system type dpkg -l in a terminal
+2008-03-22T16:16:00.000Z	danand	cambazz	- you might wanna pipe that to less - dpkg -l | less :)

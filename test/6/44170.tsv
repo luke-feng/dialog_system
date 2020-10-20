@@ -1,0 +1,6 @@
+2010-01-13T08:40:00.000Z	yva_		iflema> I'm not sure what suspend is?
+2010-01-13T08:42:00.000Z	yva_		how can I change a keyboard shortcut in a program?
+2010-01-13T08:43:00.000Z	kinja-sheep	yva_	Download the source code. Search hundreds, even thousands of line of codes to try and find the menu accelerator (or whatnot). Change it. Save it. Compile. Ta-da. (Not worth the time).
+2010-01-13T08:43:00.000Z	kinja-sheep	yva_	Easy Method -- Adapt to their shortcuts.
+2010-01-13T08:44:00.000Z	kinja-sheep	yva_	Like I said, not worth it. See !compile for more details.
+2010-01-13T08:46:00.000Z	kinja-sheep	yva_	There are Keyboard Shortcuts under System --> Preferences.  But to change the shortcut layouts for the specific program, you'd have to download the source code, edit it yourself, then compile.

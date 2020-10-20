@@ -1,0 +1,6 @@
+2008-03-09T04:07:00.000Z	brobostigon	Bruno_	use qemu, create a disk image, start the install disks, with the image mounted, install to image, and then run under emulation from that image.
+2008-03-09T04:08:00.000Z	Bruno_	brobostigon	my discs are pre-intel compatible os x. will it still work?
+2008-03-09T04:09:00.000Z	brobostigon		 Bruno_: just emulate powerpc with qemu
+2008-03-09T04:09:00.000Z	Bruno_	brobostigon	ok
+2008-03-09T04:09:00.000Z	Bruno_	brobostigon	thanks
+2008-03-09T04:22:00.000Z	Bruno_	brobostigon	how do i mount the image from the install disks?

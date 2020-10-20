@@ -1,0 +1,6 @@
+2008-04-12T12:44:00.000Z	Jo__R___		at the moment i'm using this card with the vesa driver but Game grapfics are very, very low
+2008-04-12T12:44:00.000Z	Jo__R___		*slow
+2008-04-12T12:44:00.000Z	Jo__R___		ATI RADEON X700SE
+2008-04-12T12:44:00.000Z	qinjuehang	Jo__R___	vesa does not have 3D
+2008-04-12T12:45:00.000Z	qinjuehang	Jo__R___	you need fglx
+2008-04-12T12:56:00.000Z	Jo__R___	qinjuehang	i already tested this installer

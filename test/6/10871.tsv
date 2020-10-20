@@ -1,0 +1,6 @@
+2011-03-31T05:50:00.000Z	The_Pugilist		anyone know how to set the default runlevel in ubuntu 10.10?
+2011-03-31T05:50:00.000Z	The_Pugilist		im looking configure it so it boots without the gui
+2011-03-31T05:52:00.000Z	The_Pugilist		so is there a way to configure upstart to acomplish such a goal?
+2011-03-31T05:54:00.000Z	brightspark	The_Pugilist	http://ubuntuforums.org/showthread.php?t=1688953 and see post 4
+2011-03-31T05:55:00.000Z	The_Pugilist	brightspark	thank you much :)
+2011-03-31T05:56:00.000Z	brightspark	The_Pugilist	no problem

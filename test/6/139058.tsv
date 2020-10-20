@@ -1,0 +1,6 @@
+2007-01-01T11:44:00.000Z	linuxnewbie756		is it possible to use lightscribe in ubuntu?
+2007-01-01T11:44:00.000Z	auTONYmous	linuxnewbie756	Yep
+2007-01-01T11:45:00.000Z	auTONYmous	linuxnewbie756	I forget which (nerolinux, gnomebaker or otherwise), but one of the burning programs supports it
+2007-01-01T11:46:00.000Z	auTONYmous	linuxnewbie756	man alien
+2007-01-01T11:47:00.000Z	auTONYmous	linuxnewbie756	alien will (possibly) allow you convert the RPM to a .deb
+2007-01-01T11:47:00.000Z	auTONYmous	linuxnewbie756	Then you can install on Ubuntu

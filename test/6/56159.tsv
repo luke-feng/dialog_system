@@ -1,0 +1,6 @@
+2008-06-11T12:06:00.000Z	Blue112		Hello everyone, can anyone help me with mysqld configuration ?
+2008-06-11T12:08:00.000Z	Blue112		Can someone help me with mysqld configuration ?
+2008-06-11T12:09:00.000Z	kripz	Blue112	just state the problem and if anyone can answer, they will
+2008-06-11T12:11:00.000Z	kripz	Blue112	been a while since ive worked with web servers, isnt there a apache.conf and you uncomment mysql to load the mysql module?
+2008-06-11T12:14:00.000Z	kripz	Blue112	ok now i remember, i think it was php.conf that had the modules
+2008-06-11T12:15:00.000Z	Blue112	kripz	it's possible but I think mysqld has to run before php can use it...

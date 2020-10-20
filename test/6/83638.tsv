@@ -1,0 +1,6 @@
+2007-12-25T00:48:00.000Z	B-rabbit		how do one get information about a application program which is NOT installed.... from a command line?
+2007-12-25T00:50:00.000Z	wols	B-rabbit	apt-cache search <something> and apt-cache show <package>
+2007-12-25T00:52:00.000Z	wols	B-rabbit	I gave you the commands to use
+2007-12-25T00:52:00.000Z	B-rabbit	wols	thnx
+2007-12-30T22:22:00.000Z	wols	B-rabbit	locate, find
+2007-12-30T22:23:00.000Z	B-rabbit	wols	thx

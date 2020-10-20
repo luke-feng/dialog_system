@@ -1,0 +1,6 @@
+2005-05-05T12:00:00.000Z	Levander		hey, is there any good app that will let me hit apache to play music through the sound card on the machine apache is set up on?  E.g., not streaming music the reverse.  I've been thinking about doing something for my home entertainment setup.
+2005-05-05T12:00:00.000Z	crimsun	Levander	yes, there's an xmms plugin for that
+2005-05-05T12:01:00.000Z	Levander	crimsun	remember the name?
+2005-05-05T12:01:00.000Z	crimsun	Levander	mod_xmms or something
+2005-05-09T12:26:00.000Z	crimsun	Levander	/usr/share/doc/$package/changelog.Debian.gz
+2005-05-09T12:26:00.000Z	Levander	crimsun	thanks, checking it now

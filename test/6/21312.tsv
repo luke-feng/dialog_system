@@ -1,0 +1,6 @@
+2010-05-04T02:06:00.000Z	fsaintjacques		I decided to upgrade from karmic to lucid, but while the updater was running, X died for an unknown reason. It died while dpkg was either unpacking or installing. Right now, the `lucid' process is still running. Is there any chance my update won't be trashed? I know from experience that the updater while wait for user input.
+2010-05-04T02:07:00.000Z	fsaintjacques		The best work around would be to `re-attach' the installer process to my running session...
+2010-05-04T02:09:00.000Z	fsaintjacques		I'm going to ask again, in case you missed it.
+2010-05-04T02:09:00.000Z	fsaintjacques		I decided to upgrade from karmic to lucid, but while the updater was running, X died for an unknown reason. It died while dpkg was either unpacking or installing. Right now, the `lucid' process is still running. Is there any chance my update won't be trashed? I know from experience that the updater will wait for user input.
+2010-05-04T02:11:00.000Z	acicula_	fsaintjacques	yeah you'll probably have to restart the upgrade
+2010-05-04T02:11:00.000Z	fsaintjacques	acicula_	I don't think this is really safe

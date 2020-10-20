@@ -1,0 +1,6 @@
+2010-09-06T02:06:00.000Z	saifallof		hey prometeus what wiresless is it?
+2010-09-06T02:06:00.000Z	prometeus	saifallof	erUSUL, Hopsa, thanks.
+2010-09-06T02:07:00.000Z	prometeus	saifallof	erUSUL, Hopsa: 02:03.0 Ethernet controller: Realtek Semiconductor Co., Ltd. RTL-8139/8139C/8139C+ (rev 10)
+2010-09-06T02:09:00.000Z	prometeus	saifallof	erUSUL, Hopsa, it s a realtek chipset on PCI. The eth0 is in the mobo.
+2010-09-06T02:12:00.000Z	prometeus	saifallof	erUSUL, Hopsa, it seems it s detected... but nm-applet is not showing up
+2010-09-06T02:21:00.000Z	prometeus	saifallof	ok. so lspci shows your device?

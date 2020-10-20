@@ -1,0 +1,6 @@
+2009-07-30T00:01:00.000Z	abbazabba		what would be the best way to connect two computers on one router, both running ubuntu (one running 9, the other running 8).. i'm doing this so i can move files over from 8 to 9
+2009-07-30T00:02:00.000Z	stefg	abbazabba	if there's no windows/samba involved i'd use nfs
+2009-07-30T00:05:00.000Z	abbazabba	stefg	is nfs a command based?
+2009-07-30T00:07:00.000Z	stefg	abbazabba	it requires editing some conf files (/etc/exports and /etc/fstab on the target machine). But that's not too hard to do with the How To at hand and it'S really *much* faster and easier than samba once you got the hanf of it
+2009-07-30T00:09:00.000Z	abbazabba	stefg	which are you talking about nfs or scp
+2009-07-30T00:10:00.000Z	stefg	abbazabba	nfs ... scp is ssh -based...

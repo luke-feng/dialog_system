@@ -1,0 +1,6 @@
+2008-11-07T22:30:00.000Z	TJ-42		I've heard that Ubuntu 8.10 has problems with nvidia drivers sometimes because of the change in how xorg.conf is used -- i.e. the proprietary nvidia linux drivers no longer work.  Is this accurate?
+2008-11-07T22:32:00.000Z	chuckmoney	TJ-42	Yes, somewhat.  I have a GeForce 8600 and to put it nicely it was quite the unpleasant experience getting up dual displays at a less-than-standard resolution (1440x900).  My best tip is to use the EnvyNG drivers and spend a lot of time staring at the Ubuntu Forums at 800x600.
+2008-11-07T22:33:00.000Z	TJ-42	chuckmoney	hmm, that sounds... iffy.  I already had enough trouble getting my dual displays working in 8.04 with different resolutions for each monitor.  but thanks for the response
+2008-11-07T22:34:00.000Z	chuckmoney	TJ-42	If it makes any difference, it was working great with the proprietary drivers.  Then I decided to enable desktop effects and spent 3 days getting both working at once.  If you're happy without COmpiz it's no real problem.
+2008-11-07T22:34:00.000Z	chuckmoney	TJ-42	Basically, Compiz and the proprietary drivers conflict, so you have to use Envy to get both.
+2008-11-07T22:35:00.000Z	TJ-42	chuckmoney	Hmm ok, thanks

@@ -1,0 +1,6 @@
+2009-05-25T15:59:00.000Z	dsch04		Anyone help me with networking?
+2009-05-25T15:59:00.000Z	dsch04		I'm trying to stop/disable eth1 on Jaunty
+2009-05-25T16:00:00.000Z	hateball	dsch04	"sudo ifconfig eth1 down" would bring down that device
+2009-05-25T16:01:00.000Z	dsch04	hateball	that's what I thought
+2009-05-25T16:01:00.000Z	dsch04		But it doesn't
+2009-05-25T16:03:00.000Z	hateball	dsch04	using networkmanager? is this a server install? and so on

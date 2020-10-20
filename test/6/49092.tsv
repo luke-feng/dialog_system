@@ -1,0 +1,6 @@
+2008-10-25T13:20:00.000Z	cloud-e		Hello... I just installed 8.04.1 and am getting static from my sound card. It is an Creative Sound Blaster Live! Wave card. This is an oldie but goodie. I know it works with OpenSuse 11 coz I tried it on my virtual machine. Please help! :(
+2008-10-25T13:21:00.000Z	cloud-e		Hehe :p
+2008-10-25T13:22:00.000Z	cloud-e		Anyone have any ideas, why I am getting static from my Creative SoundBlaster Live! sound card?
+2008-10-25T13:24:00.000Z	cloud-e		Outbackwifi, Nicolam... I did the terminal alsamixer, turned up the volume on it and all I hear is static.
+2008-10-25T13:25:00.000Z	forestpixie	cloud-e	check if there is a digital/analog switch - it defaults to digital
+2008-10-25T13:28:00.000Z	forestpixie	cloud-e	double click volume icon - should be tabs - if there's a switches one it'll be there or edit - preferences and look for analog/digital output jack

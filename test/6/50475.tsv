@@ -1,0 +1,6 @@
+2008-09-20T08:03:00.000Z	nabiko		I'm using a friends old edgy, and I'm not sure how to find the partition name /dev/? of an external HDD I have hooked up. How do I find it?
+2008-09-20T08:04:00.000Z	mneptok	nabiko	there is no guarantee that an external drive has a separate partion for an installed Unix-y /dev
+2008-09-20T08:04:00.000Z	mneptok	nabiko	what is it you are trying to do?
+2008-09-20T08:05:00.000Z	nabiko	mneptok	I'm installing hardy on her machine, but I need to be able to reset permissions on my external so I can save her stuff first.
+2008-09-20T08:06:00.000Z	mneptok	nabiko	df -h will tell you mount points
+2008-09-20T08:06:00.000Z	nabiko	mneptok	thank you.

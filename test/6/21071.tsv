@@ -1,0 +1,6 @@
+2010-06-15T04:33:00.000Z	Jon--		Note: I am installing BackTrack, but they both use same Debian-based installer, very very similar. Issue: It seems to be forzen on "Resizing partition..." in the prepare disk space step. Can this take a very very long time? Help.
+2010-06-15T04:34:00.000Z	Pici	Jon--	Backtrack has their own support channel: #backtrack-linux, we do not support backtrack in #ubuntu
+2010-06-16T21:06:00.000Z	Pici	Jon--	As we've said before we don't support backtrack here, even if that channel isn't busy.  Sorry.
+2010-06-16T21:07:00.000Z	Pici	Jon--	You could also try asking in ##linux
+2012-07-09T18:58:00.000Z	Pici	Jon--	1) mind your language, 2) aptitude does not handle multiarch properly, and should not really be used.
+2012-07-09T18:59:00.000Z	Jon--	Pici	is that what is causing the issue? afaik I don't have the 32-bit libs installed

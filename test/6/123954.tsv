@@ -1,0 +1,6 @@
+2009-02-06T18:09:00.000Z	harley		how do I remote desktop connect to my friends computer?
+2009-02-06T18:09:00.000Z	harley		we are both using ubuntu by the way
+2009-02-06T18:10:00.000Z	harley		can't we use the built in remote desktop viewer?
+2009-02-06T18:12:00.000Z	harley		my friends "Users can view your desktop using this command: mailto:?Body=vncviewer sean-desktop:0"
+2009-02-06T18:12:00.000Z	harley		how can I connect to him with that?
+2009-02-06T18:12:00.000Z	dr_Willis	harley	 if you are going over the internet.  that proberly wont work.. since the 'sean-desktop' is his local machine name. You wouldneed his ip#

@@ -1,0 +1,6 @@
+2010-08-21T10:09:00.000Z	Fudge		but gparted only sees the 250big drive with no partitions, and i dont want to createa  new parttion table blowing away windows
+2010-08-21T10:09:00.000Z	Fudge		was my hope to resize the ntfs parts yeah ActionParsnip
+2010-08-21T10:09:00.000Z	Fudge		not as yet havnt tried
+2010-08-21T10:10:00.000Z	Fudge		how can a file system resize itself when mounted?
+2010-08-21T10:11:00.000Z	SwedeMike	Fudge	it doesn't resize itself really.
+2010-09-13T12:25:00.000Z	SwedeMike	Fudge	"doesn't install" ? Details would help.

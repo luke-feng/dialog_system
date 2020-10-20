@@ -1,0 +1,6 @@
+2007-04-23T05:11:00.000Z	mwe	shawn34	you start gdm with sudo /etc/init.d/gdm start
+2007-04-23T05:15:00.000Z	shawn34	mwe	ran /etc/init.d/gdm start, command prompt goes away then just sits there on a black screen
+2007-04-23T05:16:00.000Z	mwe	shawn34	grep EE /var/log/Xorg.0.log
+2007-04-23T05:16:00.000Z	shawn34	mwe	ok one sec, have to reboot the laptop
+2007-04-23T05:21:00.000Z	shawn34	mwe	(II) Loading extension MIT-SCREEN-SAVER.... that was it
+2007-04-23T05:21:00.000Z	shawn34	mwe	(II) Loading extension MIT-SCREEN-SAVER.... that was it

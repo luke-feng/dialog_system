@@ -1,0 +1,6 @@
+2007-03-31T16:36:00.000Z	craigbass1976		Ok, anyon know how to configure a broadcom wireless card once you've done all the driver installing?  I don't know the network essid, and won't necessarily when I try to use wireless at a library, but I can't configure the card in the GUI without knowing ESSID as far as I can tell.
+2007-03-31T16:37:00.000Z	plb_	craigbass1976	you could try system>admin>networking
+2007-03-31T16:38:00.000Z	craigbass1976	plb_	I do that, but there's no "enable" other than the checkbox, and if you don't enter an ESSID it doesn't enable.  Now that I've done the blacklisting though, it doesn't show up even in the network GUI
+2007-03-31T16:39:00.000Z	plb_	craigbass1976	can't really help you much...I've always had wired connections....sorry
+2007-03-31T16:41:00.000Z	plb_	craigbass1976	are you trying feisty beta?
+2007-03-31T16:42:00.000Z	plb_	craigbass1976	I here wireless works better in feisty

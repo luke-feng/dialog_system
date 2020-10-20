@@ -1,0 +1,6 @@
+2007-01-02T14:44:00.000Z	phr34ck		so I clicked a .bin file and it's listed in the process tree .. what is it doing?>
+2007-01-02T14:44:00.000Z	phr34ck		the file is JDK 1.5
+2007-01-02T14:45:00.000Z	robtp	phr34ck	its running apparently, why didnt you install through apt?
+2007-01-02T14:46:00.000Z	robtp	phr34ck	it might be, you need to run it from a terminal
+2007-01-02T14:54:00.000Z	robtp	phr34ck	it might take that much for a brief moment
+2007-01-02T14:54:00.000Z	robtp	phr34ck	top, that is

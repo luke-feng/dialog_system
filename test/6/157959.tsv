@@ -1,0 +1,6 @@
+2010-04-28T11:57:00.000Z	DJ_HaMsTa		i need an image viewer close or similar to Windows Image viewer in ubuntu.
+2010-04-28T11:57:00.000Z	DJ_HaMsTa		one that i can use the shortcut keys to navigate though the image folders
+2010-04-28T11:58:00.000Z	Ileden	DJ_HaMsTa	I'
+2010-04-28T11:59:00.000Z	Ileden	DJ_HaMsTa	I'm not familiar with Windows Image viewers, but gthumb and gqview are some image viewers with rather good features. More akin to Irfanview I'd assume, if you're familiar with that.
+2010-04-28T12:03:00.000Z	DJ_HaMsTa	uofm49426	 apt-get remove ?
+2010-04-28T12:03:00.000Z	Ileden	DJ_HaMsTa	nope, he means the graphical interface

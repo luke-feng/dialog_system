@@ -1,0 +1,6 @@
+2012-05-28T03:04:00.000Z	NictraSavios		I have an interesting question...say I had a single partition housing my root, home, boot, etc. Everything. But I wanted to increase security by making /boot and /var 'mount' with the options noexec,nosuid and nodev ... would it be possible?
+2012-05-28T03:06:00.000Z	OerHeks	NictraSavios	Sure, you are very secure, your system won't /boot AFAIK
+2012-06-04T03:14:00.000Z	OerHeks	NictraSavios	type " circuit" in softwarecentre ;-)
+2012-06-04T03:15:00.000Z	NictraSavios	OerHeks	I prefer sudo apt-get install xcir<tab> :P, just a personal preference though.
+2012-06-04T03:16:00.000Z	OerHeks	NictraSavios	no, that command in softwarecentre shows you more options.
+2012-06-04T03:17:00.000Z	NictraSavios	OerHeks	Oh sorry, I though you were telling me how to install xcircuit from reis's suggestion. Yea, I know. I was looking for a recomendation instead of searching though "apt-cache search circuit" for hours haha.

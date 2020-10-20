@@ -1,0 +1,6 @@
+2011-02-16T02:20:00.000Z	Chikokishi	jimcooncat	thanks
+2011-02-16T02:13:00.000Z	jimcooncat	Chikokishi	google for "bash guide". The top hits should include a Beginners and Advanced guide.
+2011-02-16T02:19:00.000Z	Chikokishi	jimcooncat	What is "bash scripting" really?  Is it like program scripting or is it like linux commands?
+2011-02-16T02:20:00.000Z	jimcooncat	Chikokishi	when you're in terminal on Ubuntu, you're in a bash session (unless you change it).
+2011-02-16T02:20:00.000Z	Chikokishi	jimcooncat	oh cool
+2011-02-16T02:23:00.000Z	jimcooncat	Chikokishi	for some very good points, do:  yelp man:bash &

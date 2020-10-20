@@ -1,0 +1,6 @@
+2007-10-11T07:56:00.000Z	MikeDX		I still use edgy...
+2007-10-11T07:58:00.000Z	MikeDX		i dont think shockwave works in IE in wine :(
+2007-10-11T07:59:00.000Z	MikeDX		mount /dev/sdb2 /mount/point -f vfat
+2007-10-11T08:00:00.000Z	Innomen	MikeDX	please give me a safe /mount/point
+2007-10-11T08:02:00.000Z	MikeDX	Innomen	make a new folder then /media/my_mount
+2007-10-11T08:17:00.000Z	MikeDX	Innomen	is it shown in the list when you do mount -l ?

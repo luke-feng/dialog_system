@@ -1,0 +1,6 @@
+2011-01-13T23:03:00.000Z	BajK		how do I remove headers/footers on firefox printout? This dialog shown everywhere where you can chose seems not to exist on Kubuntu
+2011-01-13T23:03:00.000Z	BajK		you can only adjust margins/paper size
+2011-01-13T23:04:00.000Z	WaltherFI	BajK	firefox preferences
+2011-01-13T23:04:00.000Z	BajK	WaltherFI	where? I cant find this option
+2011-01-13T23:29:00.000Z	WaltherFI	BajK	there is complete support for KDE programs in gnome too
+2011-01-13T23:29:00.000Z	WaltherFI	BajK	sudo apt-get install konqueror :)

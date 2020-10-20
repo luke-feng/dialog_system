@@ -1,0 +1,6 @@
+2010-06-11T19:43:00.000Z	GigsWork	kreppnar	people starting over to make "1 good one" is how we wound up with so many
+2010-06-11T19:44:00.000Z	kreppnar	GigsWork	lol but how did they all end up in the repositories?? lol they could of just narrowed it down and voted for the best stable one
+2010-06-11T19:45:00.000Z	GigsWork	kreppnar	well alsa is lower level, and has a pretty basic mixer functionality
+2010-06-11T19:46:00.000Z	GigsWork	kreppnar	that left room for a more advanced mixer system like pulse.... the main reason there's so many though is because applications need to be rewritten to use different ones
+2010-06-11T19:47:00.000Z	kreppnar	GigsWork	and who thought of that stupid jack sound server? that thing makes me mad how you have to shut off your sound system to run it, separately for a program to work
+2010-06-11T19:48:00.000Z	GigsWork	kreppnar	hehe, well jack was a good concept at least

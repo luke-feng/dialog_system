@@ -1,0 +1,6 @@
+2005-09-05T15:09:00.000Z	_BIJ_		hi, how can i create a root account in order to be able to type into the console "su"
+2005-09-05T15:09:00.000Z	_BIJ_		and log in as root
+2005-09-05T15:09:00.000Z	_BIJ_		???
+2005-09-05T15:10:00.000Z	_BIJ_		i do not want to sudo... i'm used to the su command
+2005-09-05T15:10:00.000Z	Belutz	_BIJ_	use su -i
+2005-09-05T15:15:00.000Z	Belutz	_BIJ_	go to what ubotu just told you :)

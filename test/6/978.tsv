@@ -1,0 +1,6 @@
+2012-08-28T10:45:00.000Z	sikmajnd		Hello guys. I have a problem installing ubuntu with wubi. At the end this error occured -> http://shrani.si/f/1s/4O/1n9NRu75/capture.png
+2012-08-28T10:47:00.000Z	fishbait	sikmajnd	my only idea here were you running wubi as admin?
+2012-08-28T10:48:00.000Z	fishbait	sikmajnd	hmm waht windows are you using?
+2012-08-28T10:49:00.000Z	fishbait	sikmajnd	welp shoots me in the foot i'm out of ideas
+2012-08-28T10:53:00.000Z	sikmajnd	fishbait	- i tried with cd boot and installation gets terminated by signal 15 [9028]
+2012-08-28T10:54:00.000Z	fishbait	sikmajnd	try re-downloading?

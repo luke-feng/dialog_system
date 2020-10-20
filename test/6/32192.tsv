@@ -1,0 +1,6 @@
+2009-09-13T02:33:00.000Z	sci3ntist		Guys
+2009-09-13T02:34:00.000Z	sci3ntist		a Question about apache modules
+2009-09-13T02:34:00.000Z	sci3ntist		is there any apache module to block an ip when frequent request come from that ip
+2009-09-13T02:34:00.000Z	sci3ntist		?
+2009-09-13T02:35:00.000Z	xmnt	sci3ntist	iptables
+2009-09-13T02:36:00.000Z	xmnt	sci3ntist	that's not an apache module and there are none that do that that I know of ... but iptables will skip to the root of your problem

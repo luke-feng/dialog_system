@@ -1,0 +1,6 @@
+2010-05-05T04:47:00.000Z	brandon420		heyyi need some help, anyw
+2010-05-05T04:47:00.000Z	brandon420		anyone wanna give try and help me?
+2010-05-05T04:49:00.000Z	brandon420		can anyone help me to listen to the music that i have on my server? (ubuntu 9.10)
+2010-05-05T04:50:00.000Z	brandon420		apt-get remove wine?
+2010-05-05T04:51:00.000Z	brandon420		you only need sudo when you arent in root
+2010-05-05T04:51:00.000Z	BluesKaj	brandon420	sudo aptitude purge wine

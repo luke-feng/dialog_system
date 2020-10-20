@@ -1,0 +1,6 @@
+2008-02-24T12:42:00.000Z	bardyr	ArthurArchnix	aptitude reinstall the-human-theme-package --purge
+2008-02-24T12:43:00.000Z	ArthurArchnix	bardyr	I'll give it a shot, probably have to restart 'x'.
+2008-02-24T12:45:00.000Z	ArthurArchnix		geez bardyr ... it worked a treat and I didn't even have to reinstall. I've used the purge command, but only as part of the removal process, never install. What did that do?
+2008-02-24T12:45:00.000Z	ArthurArchnix		excuse me, didn't have to restart 'x'.
+2008-02-24T12:46:00.000Z	bardyr	ArthurArchnix	normally apt does not remove config files, --purge deletes them and everything else that left behind
+2008-02-24T12:46:00.000Z	ArthurArchnix	bardyr	Well, I thank you again.

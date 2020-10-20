@@ -1,0 +1,6 @@
+2011-08-09T14:07:00.000Z	bzinger		hi, i tried to add a user on ubuntu, using "useradd foo", but forgot to add home directory, how do i add home directory for it?
+2011-08-09T14:08:00.000Z	wols	bzinger	did you try the adduser -m option?
+2011-08-09T14:09:00.000Z	bzinger	wols	i tried adduser -m , but doesn't work
+2011-08-09T14:10:00.000Z	wols	bzinger	you can create it manually (editing /etc/passwd and mkdir /home/foo) but that's a bit dangerous
+2011-08-09T14:10:00.000Z	bzinger	wols	so what's the safer way to do it
+2011-08-09T14:12:00.000Z	wols	bzinger	I don't know of any

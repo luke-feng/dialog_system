@@ -1,0 +1,6 @@
+2010-05-05T22:39:00.000Z	BrightFrank		Hello. I cannot install Ubuntu 10.4 on an EEEPC 900HA. It seems that the installer doesn't like not having a CD-ROM Drive. I've tried putting on a USB the netbook, regular and alternative editions to no avail. I always get an erm 5 error. Help is appreciated.
+2010-05-05T22:40:00.000Z	BrightFrank		I think I have the same problem as Rave1
+2010-05-05T22:42:00.000Z	BrightFrank		Ok, I tried it on a USB and I got an installation error
+2010-05-05T22:42:00.000Z	BrightFrank		and this netbook was, too, working with Ubuntu Karmic
+2010-05-05T22:44:00.000Z	BrightFrank		Hello. I cannot install Ubuntu 10.4 on an EEEPC 900HA. It seems that the installer doesn't like not having a CD-ROM Drive. I've tried putting on a USB the netbook, regular and alternative editions to no avail. I always get an erm 5 error. Help is appreciated.
+2010-05-05T22:44:00.000Z	costre	BrightFrank	You have made the usbdrive bootable etc?

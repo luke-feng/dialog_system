@@ -1,0 +1,6 @@
+2010-07-30T23:23:00.000Z	TheAlchem1st		Hi, question! When I log on my ubuntu server 10.04 (ssh or ftp) I fell on /root, how can I change it to /home/jord instead...
+2010-07-30T23:24:00.000Z	TheAlchem1st		because when I log on on ftp I can't access my sutff i m stuck
+2010-07-30T23:25:00.000Z	TheAlchem1st		wow now it seems to work... ok
+2010-07-30T23:25:00.000Z	TheAlchem1st		yeah thats what i m doing
+2010-07-30T23:25:00.000Z	TheAlchem1st		ok ty.
+2010-07-30T23:27:00.000Z	slidinghorn	TheAlchem1st	login as jord instead of root

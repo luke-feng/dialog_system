@@ -1,0 +1,6 @@
+2012-05-26T15:02:00.000Z	hid		Hi. 've just install the video card nvidia driver but my new resolution is now 640x480 instead of 1366x768
+2012-05-26T15:04:00.000Z	hid		And I cannot change it either in the screen option nor with sudo nvidia-settings
+2012-05-26T15:04:00.000Z	hid		please help
+2012-05-26T15:04:00.000Z	zykotick9	hid	have you rebooted since installing the nvidia driver?
+2012-05-26T15:05:00.000Z	zykotick9		!info openssl
+2012-05-26T15:05:00.000Z	hid	zykotick9	yes of course. After the 1st reboot there was no problem. After a 2nd reboot, the problem came.

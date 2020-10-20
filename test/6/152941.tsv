@@ -1,0 +1,6 @@
+2005-04-09T06:16:00.000Z	Albacker		if the package is there it means you have downloaded it : masi. not sure if it is installed anymore, or just do "find / | grep tuxracer-data"
+2005-04-09T06:16:00.000Z	Albacker		and it will search the / "root" for that filename.
+2005-04-09T06:18:00.000Z	Albacker		never heard about it.
+2005-04-09T06:18:00.000Z	resiak	Albacker	GTK+ apt frontend.
+2005-04-09T06:19:00.000Z	Albacker	resiak	what do you use it for ?
+2005-04-09T06:20:00.000Z	resiak	Albacker	I use it for seeing if it doesn't suck yet, shaking my head, running away screaming, and returning to aptitude.

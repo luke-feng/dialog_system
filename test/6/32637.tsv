@@ -1,0 +1,6 @@
+2009-08-16T19:47:00.000Z	morecowbell		anyone know what the ubuntu netbook channel is called?
+2009-08-16T19:48:00.000Z	morecowbell		oh i thought it'd be #ubuntu-netbook
+2009-08-16T19:49:00.000Z	morecowbell		i'm getting "Errors were encountered while processing:" for firefox on a new install
+2009-08-16T19:49:00.000Z	morecowbell		is there a reinstall command for apt?
+2009-08-16T19:50:00.000Z	neil_d	morecowbell	theres the dpkg-reconfigure command
+2009-08-16T19:51:00.000Z	morecowbell	neil_d	that might work i'll give it a try

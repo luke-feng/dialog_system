@@ -1,0 +1,6 @@
+2009-05-20T04:06:00.000Z	Gigantic		Hola
+2009-05-20T04:07:00.000Z	Gigantic		what's the diff between the desktop and server versions? anywhere a list?
+2009-05-20T04:07:00.000Z	funkyHat	Gigantic	different kernel, no desktop installed by default
+2009-05-20T04:07:00.000Z	Gigantic	funkyHat	stable versio I guess... that's it?
+2009-05-20T04:09:00.000Z	funkyHat	Gigantic	yes, the rest of the system is the same. There's no need for a desktop environment on a server so it's not installed, and the kernel is optimised more for typical server usage than desktop usage. You can actually install the server kernel on a desktop install if you want to (or vice versa)
+2009-05-20T04:10:00.000Z	Gigantic	funkyHat	all rite ty... I know what you talking about, just new to the distro

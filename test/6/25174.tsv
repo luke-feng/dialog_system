@@ -1,0 +1,6 @@
+2010-01-25T04:46:00.000Z	lihobo		hiii
+2010-01-25T04:46:00.000Z	lihobo		i wannt to know
+2010-01-25T04:46:00.000Z	lihobo		how i can reset ubntu to defult
+2010-01-25T04:46:00.000Z	lihobo		any one know
+2010-01-25T04:47:00.000Z	actionParsnip	lihobo	you can delete the .gnome .gconf .gnome2 folders in a recovery root console then reboot, you will get defauly gnome settings
+2010-01-25T04:47:00.000Z	actionParsnip	lihobo	you can see the gnome gconf folders, delete or rename them all

@@ -1,0 +1,6 @@
+2005-01-21T06:17:00.000Z	imaek		Hi
+2005-01-21T06:17:00.000Z	imaek		I have a problem
+2005-01-21T06:17:00.000Z	imaek		well actually it is quite a large problem.
+2005-01-21T06:17:00.000Z	linuxjones	imaek	hwat is it ?
+2005-01-21T06:18:00.000Z	linuxjones	imaek	you probably just need to tell kde to use alsa and not oss
+2005-01-21T06:22:00.000Z	linuxjones	imaek	I use Gnome but I think it's under sound system from the K menu

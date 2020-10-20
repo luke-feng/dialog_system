@@ -1,0 +1,6 @@
+2012-10-05T16:32:00.000Z	blackhole		is there any software for router monitoring tools? using Ubuntu?
+2012-10-05T16:33:00.000Z	cfhowlett	blackhole	iftop, iptraff
+2012-10-05T16:34:00.000Z	blackhole	cfhowlett	is that on software center?
+2012-10-05T16:35:00.000Z	cfhowlett	blackhole	bad intel.  iiptraff is linux but not in any ubuntu repo.  Sorry.
+2012-10-05T16:36:00.000Z	blackhole	cfhowlett	ah... ok
+2012-10-05T16:36:00.000Z	cfhowlett	blackhole	see article  http://www.linuxscrew.com/2010/11/25/how-to-monitor-traffic-at-cisco-router-using-linux-netflow/

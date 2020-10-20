@@ -1,0 +1,6 @@
+2010-04-17T05:37:00.000Z	dante123		freezing under ubuntu and xp....memory tests ok.....could this be caused by hard drive problems???
+2010-04-17T05:37:00.000Z	calaen0	dante123	or usually temperature issues
+2010-04-17T05:38:00.000Z	calaen0	dante123	temp - did you assemble the system, or get it assembled and did you or the assembler forget the paste for the processor?
+2010-04-17T05:39:00.000Z	calaen0	dante123	also try reducing the cpufrew to 1/2 in the bios and see if that fixes it for a day or two - that way you might know its the temp issue, or not.
+2010-04-17T05:40:00.000Z	calaen0	dante123	anything in the syslog, dmesg etc?
+2010-04-17T05:41:00.000Z	calaen0	dante123	also re-seat pci card, memory etc

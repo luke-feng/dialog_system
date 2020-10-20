@@ -1,0 +1,6 @@
+2008-02-24T21:43:00.000Z	backgen		Has anyone had any experience with my kind of problem before?
+2008-02-24T21:43:00.000Z	backgen		Anyone had any experience with this kind of problem before?
+2008-02-24T21:43:00.000Z	backgen		(sorry IRC bugged up, didnt mean to spam)
+2008-02-24T21:44:00.000Z	backgen		hey guys i've got a problem. I've managed to dual boot my computer so that i've got Ubuntu Gibbon on One partition and Windows XP on the other, but now whenever i try to boot up Windows XP it gets stuck after the part where my wallpaper loads up and it's made the little "welcome song", but then no icons or anything else loads up and i can't do anything. My unbutu is fine though
+2008-02-24T21:44:00.000Z	HisChild	backgen	that is a problem related to windows. Ubuntu doesn't do anything to windows
+2008-02-24T21:45:00.000Z	HisChild	backgen	as it boots fine untill the login screen, it's safe to say that windows screwed up at some point

@@ -1,0 +1,6 @@
+2012-06-20T14:19:00.000Z	Dave-Maydew		I have a quick, possibly simple question
+2012-06-20T14:21:00.000Z	Dave-Maydew		I have a Sony VGC-V2M which is a all-in-one media PC with the GeForce FX5700 in, and it runs smooth with 10.04LTS but I have issues with 12.04 with the 173 driver, has this been fixed?
+2012-06-20T14:21:00.000Z	ActionParsnip	Dave-Maydew	what is the issue?
+2012-06-20T14:23:00.000Z	ActionParsnip	Dave-Maydew	tried Unity2D?
+2012-06-20T14:28:00.000Z	ActionParsnip	Dave-Maydew	could try it in live CD to test
+2012-06-20T14:30:00.000Z	ActionParsnip	Dave-Maydew	try the boot option:  nouveau.blacklist=1

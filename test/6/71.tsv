@@ -1,0 +1,6 @@
+2005-07-15T09:07:00.000Z	Morrowyn		morning
+2005-07-15T09:07:00.000Z	Morrowyn		where can i adjust my ipadress in ubuntu?
+2005-07-15T09:07:00.000Z	Morrowyn		at boottime
+2005-07-15T09:08:00.000Z	jdub	Morrowyn	System > Administration > Networking
+2005-07-15T09:08:00.000Z	Morrowyn	jdub	 and the file? where can i find that?
+2005-07-15T09:09:00.000Z	jdub	Morrowyn	/etc/network/interfaces if you really want to

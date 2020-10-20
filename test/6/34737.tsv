@@ -1,0 +1,6 @@
+2009-07-13T18:18:00.000Z	Xubuntnoob		i made a script to run the steam client in wine,  and it's not doing what i want it to.  it executes the command 'pasuspender wine /home/admin/.wine/drive_c/steam.exe' just fine, but i'd like to redirect the error messages into a log file ie  '&> /home/admin/game.logs/steam.log', but the messages come up in terminal still, what'd i miss?
+2009-07-13T18:19:00.000Z	jrib	Xubuntnoob	pastebin your script
+2009-07-13T18:19:00.000Z	jrib	Xubuntnoob	sure
+2009-07-13T18:48:00.000Z	Xubuntnoob	jrib	have you had a chance to peek at that script?
+2009-07-13T19:05:00.000Z	jrib	Xubuntnoob	what's the link?
+2009-07-13T19:06:00.000Z	jrib	Xubuntnoob	use bash, not sh, it probably doesn't like your &>

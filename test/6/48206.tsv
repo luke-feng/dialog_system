@@ -1,0 +1,6 @@
+2009-08-16T02:38:00.000Z	FloridaGuy		how do i get usb working in virtualbox? in ubuntu 9.04
+2009-08-16T02:38:00.000Z	guntbert	FloridaGuy	you need vbox PUEL for that (OSE doesn't support usb)
+2009-08-16T02:39:00.000Z	guntbert		!vbox | FloridaGuy
+2009-08-16T02:39:00.000Z	FloridaGuy	guntbert	i have the full...i unstalled ose
+2009-08-16T02:40:00.000Z	guntbert		then just right click on the usb icon at the bottom of the window and select the device you want
+2009-08-16T02:42:00.000Z	guntbert	FloridaGuy	then just right click on the usb icon at the bottom of the window and select the device you want

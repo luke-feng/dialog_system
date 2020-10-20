@@ -1,0 +1,6 @@
+2007-10-23T05:50:00.000Z	TornadoChas3r001		hi
+2007-10-23T05:51:00.000Z	TornadoChas3r001		i have ubuntu server with apache, and i just found out that port 80 is blocked by isp is there anyway to make port 8080 a web port i know this sounds stupied butt
+2007-10-23T05:51:00.000Z	Fryguy--	TornadoChas3r001	/etc/apache2/ has all of the configuration files for apache, just change it there
+2007-10-23T05:52:00.000Z	Fryguy--	TornadoChas3r001	you'll always have to do that
+2007-10-23T05:53:00.000Z	Fryguy--	TornadoChas3r001	http is port 80, so that's what browsers default to, you have to manually specify another port
+2007-10-23T05:53:00.000Z	Fryguy--	TornadoChas3r001	that won't help

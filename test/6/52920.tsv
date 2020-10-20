@@ -1,0 +1,6 @@
+2009-11-16T01:45:00.000Z	calvin_freeNode		hello, just installed 9.10. It takes a long time(11 seconds vs 3 seconds on 9.04) to show my desktop after I log in.  Does anyone know how to fix this?
+2009-11-16T01:47:00.000Z	calvin_freeNode		what can I remove?
+2009-11-16T01:49:00.000Z	calvin_freeNode		Ok, installed autoclean. now what?
+2009-11-16T01:50:00.000Z	calvin_freeNode		I had a clean install. so I would expect everything should be quite clean
+2009-11-16T01:50:00.000Z	calvin_freeNode		it finished in 2 secs
+2009-11-16T01:52:00.000Z	guntbert	calvin_freeNode	if I remember correctly "they" moved several things from "before login" to "after login"

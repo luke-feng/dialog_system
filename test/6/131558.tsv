@@ -1,0 +1,6 @@
+2005-11-05T13:01:00.000Z	Delvien		Anyone help a guy out, trying to install knotebook but getting alot of errors http://pastebin.com/411820
+2005-11-05T13:02:00.000Z	Coweater	Delvien	do you have the dev packages for kde/qt?
+2005-11-05T13:02:00.000Z	Delvien	Coweater	umm i dont know, what are the names?
+2005-11-05T13:03:00.000Z	Delvien		tritium how do i tell which ones i need
+2005-11-05T13:03:00.000Z	Delvien		tritium or do i just need to dl alll of the Dev files
+2005-11-05T13:04:00.000Z	Coweater	Delvien	can try apt-get build-dep knotebook

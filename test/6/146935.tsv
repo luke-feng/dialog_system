@@ -1,0 +1,6 @@
+2006-07-26T06:51:00.000Z	geokok		hi all...just tried to check for updates and I got two error messages. The first one said that some repos could not be found and after that I got this warning : W: Duplicate sources.list entry http://archive.ubuntu.com dapper-backports/main Packages (/var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_dapper-backports_main_binary-i386_Packages)
+2006-07-26T06:51:00.000Z	geokok		W: Duplicate sources.list entry http://archive.ubuntu.com dapper-backports/restricted Packages (/var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_dapper-backports_restricted_binary-i386_Packages)
+2006-07-26T06:51:00.000Z	geokok		W: Duplicate sources.list entry http://archive.ubuntu.com dapper-backports/universe Packages (/var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_dapper-backports_universe_binary-i386_Packages)
+2006-07-26T06:51:00.000Z	geokok		W: Duplicate sources.list entry http://archive.ubuntu.com dapper-backports/multiverse Packages (/var/lib/apt/lists/archive.ubuntu.com_ubuntu_dists_dapper-backports_multiverse_binary-i386_Packages)
+2006-07-26T06:52:00.000Z	geokok		sorry for the long message....my mistake
+2006-07-26T06:52:00.000Z	Madpilot	geokok	pastebin next time, please

@@ -1,0 +1,6 @@
+2010-03-16T12:30:00.000Z	jae		Yes
+2010-03-16T12:30:00.000Z	jae		:D
+2010-03-16T12:32:00.000Z	jae		Where does Ubuntu's "Network Proxy Preferences" store its data?  Or... how do I edit this from the command line (or via cfengine)?
+2010-03-16T12:33:00.000Z	wgrant	jae	It stores it in gconf.
+2010-03-16T12:33:00.000Z	wgrant	jae	system/network, in particular.
+2010-03-16T12:33:00.000Z	jae	wgrant	I was afraid of that being the answer :P

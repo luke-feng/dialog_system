@@ -1,0 +1,6 @@
+2005-11-30T14:38:00.000Z	yaoming		is there everybody tell me how to disable IPv6?
+2005-11-30T14:39:00.000Z	yaoming		is there everybody tell me how to disable IPv6?
+2005-11-30T14:39:00.000Z	yaoming		is there everybody tell me how to disable IPv6?plsssssssssssss
+2005-11-30T14:40:00.000Z	yaoming		dooglus:why?
+2005-11-30T14:40:00.000Z	Mulder	yaoming	compile it out of the kernel if it's built in, otherwise unload the module
+2005-11-30T14:41:00.000Z	Mulder	yaoming	that wont be an ipv6 bug

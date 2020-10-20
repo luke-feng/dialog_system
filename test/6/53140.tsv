@@ -1,0 +1,6 @@
+2008-08-08T21:49:00.000Z	Twile		I need help, when I try to boot ubuntu I get the following on my screen: http://www.mibbit.com/pb/OhufAU
+2008-08-08T21:49:00.000Z	Twile		Can anyone help me?
+2008-08-08T21:51:00.000Z	Twile		I need help!  When I try to boot ubuntu I get the following on my screen: http://www.mibbit.com/pb/OhufAU Can someone / anyone please help me?
+2008-08-08T21:52:00.000Z	Gnea	Twile	i'll take a look at it, but won't promise anything
+2008-08-08T21:54:00.000Z	Gnea	Twile	can you omit quiet splash from the bootup sequence?
+2008-08-08T21:54:00.000Z	Twile	Gnea	I don't think so

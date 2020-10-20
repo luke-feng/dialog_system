@@ -1,0 +1,6 @@
+2008-01-16T01:38:00.000Z	YouKnowMe		How do I remove a program, but have it also remove every other program it installed with itself? Like, If I ditch slimserver, I want mysql+the-other-crap it brought with it gone too.. Help?
+2008-01-16T01:39:00.000Z	ni1s	YouKnowMe	$ sudo apt-get remove slimserver && sudo apt-get autoremove
+2008-01-16T01:43:00.000Z	YouKnowMe	ni1s	K I'll try that!
+2008-01-16T01:44:00.000Z	YouKnowMe	ni1s	will that remove all the configuration files as well?
+2008-01-16T01:45:00.000Z	ni1s	YouKnowMe	I don't know, sorry
+2008-01-16T01:46:00.000Z	YouKnowMe	ni1s	Hmm.. I checked and it didn't, I'll just remove most of the manually, hopefully i8t wont cause probs when I reinstall it all :) :)

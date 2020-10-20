@@ -1,0 +1,6 @@
+2006-04-06T11:17:00.000Z	tanuki_		can someone tell me what this means? mount: special device /dev/sda2 does not exist
+2006-04-06T11:18:00.000Z	dli	tanuki_	is that a question?
+2006-04-06T11:19:00.000Z	dli	tanuki_	then, it means,  device /dev/sda2 does not exist
+2006-04-06T11:20:00.000Z	dli	tanuki_	because you have /dev/sda2 in your /etc/fstab
+2006-04-06T11:20:00.000Z	dli	tanuki_	sg_map
+2006-04-06T11:20:00.000Z	dli	tanuki_	 vi /etc/fstab

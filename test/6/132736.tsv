@@ -1,0 +1,6 @@
+2005-11-03T13:44:00.000Z	colen		can someone give me a quick hand with something?
+2005-11-03T13:45:00.000Z	colen		I am a new ubuntu, well new linux user.  I just installed unbuntu, and would like to changae permissions on a file
+2005-11-03T13:45:00.000Z	colen		how do I log in as root
+2005-11-03T13:45:00.000Z	colen		I do not know the password
+2005-11-03T13:45:00.000Z	colen		I was never asked for a root password during install
+2005-11-03T13:45:00.000Z	KinkoBlast	colen	Use sudo (command)

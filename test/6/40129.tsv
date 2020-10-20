@@ -1,0 +1,6 @@
+2011-02-25T14:57:00.000Z	shomon		hi, I've tried to set up my site with dyndns and it has been working, but every time I reboot, ufw seems to reset itself... anyone know why?
+2011-02-25T14:57:00.000Z	shomon		also I just told it to open port 80 and I can't reach it even just via the IP from outside.
+2011-02-25T14:58:00.000Z	shomon		how can I check what is actually open on my box? maybe another firewall program is interfering...
+2011-02-25T14:58:00.000Z	iceroot	shomon	nmap hostname
+2011-10-19T12:48:00.000Z	iceroot	shomon	#perl
+2012-02-23T16:10:00.000Z	iceroot	shomon	maybe some usefull infos there for you

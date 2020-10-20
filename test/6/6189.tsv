@@ -1,0 +1,6 @@
+2012-06-12T11:29:00.000Z	Sidvee		There are few update recommendation by update Manager, but I can't download+install them due to proxy. What is the way to do so using terminal?
+2012-06-12T11:31:00.000Z	gogeta	Sidvee	i think you can configue it to use a proxy
+2012-06-12T11:31:00.000Z	Sidvee	gogeta	How can I do that? Steps please.
+2012-06-12T11:32:00.000Z	Sidvee		"The action would require the installation of packages from not authenticated sources."
+2012-06-12T11:32:00.000Z	Sidvee		How can I view the value of http_proxy?
+2012-06-12T11:32:00.000Z	gogeta	Sidvee	settings i assume

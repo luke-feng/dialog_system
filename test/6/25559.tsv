@@ -1,0 +1,6 @@
+2010-01-18T21:58:00.000Z	gui7		what's the most efficient way of transferring a rather large file from one ubuntu server to anotehr?
+2010-01-18T21:58:00.000Z	NotTooSmart	gui7	nfs-kernel-server
+2010-01-18T21:58:00.000Z	gui7	NotTooSmart	they're not in the same network
+2010-01-18T21:59:00.000Z	NotTooSmart	gui7	ftp then?
+2010-01-18T21:59:00.000Z	gui7	NotTooSmart	i dont want to have to setup an ftp server
+2010-01-18T22:00:00.000Z	NotTooSmart	gui7	hrm........ dont know then

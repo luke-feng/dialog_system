@@ -1,0 +1,6 @@
+2010-10-15T05:39:00.000Z	jay_		10.10is logging me out spontaneously it would appear
+2010-10-15T05:39:00.000Z	jay_		anyone else getting this?
+2010-10-15T05:39:00.000Z	jay_		if I disappear be patient..
+2010-10-15T05:40:00.000Z	jay_		is there a way to "record what is happening, like a debug mode?
+2010-10-15T05:41:00.000Z	jay_		where is that por favor
+2010-10-15T05:41:00.000Z	bastidrazor	jay_	look in ~/.xsession-errors

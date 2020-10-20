@@ -1,0 +1,6 @@
+2008-04-02T19:58:00.000Z	e-head		hey guys
+2008-04-02T19:58:00.000Z	e-head		I'm at the command line. How do I get detailed info about an available package?
+2008-04-02T19:59:00.000Z	e-head		yeah, i did that already.
+2008-04-02T19:59:00.000Z	e-head		I found the package. I seem to remember some command line tool that would give you a little synopsis of it.
+2008-04-02T19:59:00.000Z	e-head		The version mainly.
+2008-04-02T19:59:00.000Z	amenado	e-head	man dpkg

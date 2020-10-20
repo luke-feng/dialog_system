@@ -1,0 +1,6 @@
+2010-08-23T13:30:00.000Z	swifty		hi.....i was wondering if anyone could help me out with an ssh query?
+2010-08-23T13:31:00.000Z	swifty		I'm using ubuntu and there are two servers (both cent os i i think) and i would like to copy a folder from one to the other
+2010-08-23T13:32:00.000Z	swifty		i have tried just using 'connect to server' but that only seems to work for one of the servers
+2010-08-23T13:33:00.000Z	erUSUL	swifty	scp user1@machine1:/path/to/source user2@machine2:/path/to/destination ?
+2010-08-23T13:34:00.000Z	erUSUL	swifty	probably
+2010-08-23T13:34:00.000Z	erUSUL	swifty	try it and see

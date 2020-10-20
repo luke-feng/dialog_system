@@ -1,0 +1,6 @@
+2009-09-29T23:46:00.000Z	wongon		when I use aptitude install, it prompts me whether I want to install dependencies.  How do I default the answer to Y so that I don't have to stick around the computer?
+2009-09-29T23:46:00.000Z	llutz_	wongon	aptitude -y
+2009-09-29T23:47:00.000Z	llutz_	wongon	no, different frontends to apt
+2009-09-29T23:55:00.000Z	llutz_	wongon	try "|yes"
+2009-09-29T23:56:00.000Z	llutz_	wongon	yes
+2009-09-29T23:58:00.000Z	llutz_	wongon	not really, was just a guess, sry

@@ -1,0 +1,6 @@
+2009-05-11T03:47:00.000Z	helper		what's command to check in terminal the uptime of server running ?
+2009-05-11T03:47:00.000Z	joaopinto	helper	uptime
+2009-05-19T03:06:00.000Z	joaopinto	helper	you should not perform random commands whithout understanding them, what is the uid of the kal user ?
+2009-05-19T03:06:00.000Z	helper	joaopinto	1000
+2009-05-19T03:07:00.000Z	helper	joaopinto	now i am in root: kad:x:1000:1000:Moe Kad:/home/kad:/bin/bash
+2009-05-19T03:09:00.000Z	helper	joaopinto	so ?

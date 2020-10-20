@@ -1,0 +1,6 @@
+2009-12-19T06:29:00.000Z	t__		say I want do put a virtual system I use in virtualbox in a different partition so I can install a new OS and reformat and not loose this.  where is the file at?
+2009-12-19T06:29:00.000Z	t__		er
+2009-12-19T06:30:00.000Z	t__		i have a program installed in my virtual system
+2009-12-19T06:30:00.000Z	t__		that i dont want to loose
+2009-12-19T06:30:00.000Z	t__		but i do want to chang my native os to ubuntu
+2009-12-19T06:31:00.000Z	switch10_	t__	/home/"user"/.virtualbox

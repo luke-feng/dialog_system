@@ -1,0 +1,6 @@
+2005-06-24T12:40:00.000Z	bionic		Hello, i get this when trying to run make menuconfig in the kernel source tree, You must install ncurses-devel in order to run make menuconfig. But theres no such package ncurses-devel. I searched for ncurses packages installed, and there was quite a bunch. Plain Ubuntu 5.04 install.
+2005-06-24T12:42:00.000Z	HappyFool	bionic	try libncurses5-dev
+2005-06-24T12:45:00.000Z	HappyFool	bionic	i think the .config is in /boot
+2005-06-24T12:46:00.000Z	HappyFool	bionic	e.g., i have /boot/config-2.6.10-5-386
+2005-06-24T12:46:00.000Z	bionic	HappyFool	yeah it was there thanks, i can use that when i compile the new kernel ?
+2005-06-24T12:48:00.000Z	HappyFool	bionic	i'm not sure -- i think there's a kernel build howto on the wiki

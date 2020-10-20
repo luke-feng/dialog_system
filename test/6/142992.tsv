@@ -1,0 +1,6 @@
+2007-07-04T07:44:00.000Z	unique		how can i get dmesg written in a file?
+2007-07-04T07:44:00.000Z	wastrel	unique	 dmesg > filename
+2007-07-04T07:44:00.000Z	wastrel	unique	 or /var/log/dmesg
+2007-08-29T09:12:00.000Z	wastrel	unique	 there's no root password, instead use sudo
+2007-08-29T09:14:00.000Z	wastrel	unique	 sudo <some command>
+2007-08-29T09:17:00.000Z	unique	wastrel	thank you

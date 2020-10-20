@@ -1,0 +1,6 @@
+2004-11-11T16:19:00.000Z	calc	ahood	download it on another computer and copy it over using a cd
+2004-11-11T16:21:00.000Z	ahood	calc	Thanks. Do I download the linux-image-2.6.8.1-3-386. Is this easy to download and install without Synaptic?
+2004-11-11T16:21:00.000Z	calc	ahood	you can find it in the repository but you have to navigate throught the dirs without synaptic
+2004-11-11T16:22:00.000Z	ahood	calc	Please forgive my ignorance (hehe). Is the repository on the CD?
+2004-11-11T16:28:00.000Z	ahood	calc	Thanks! I think I would also need to manually download the ndiswrapper-utils. Where would I find this at http://archive.ubuntulinux.org/ubuntu/pool/main  ?
+2004-11-11T16:29:00.000Z	ahood	calc	I found it!

@@ -1,0 +1,6 @@
+2012-05-02T17:53:00.000Z	myhero		root@ubuntu:/media/PENDRIVE# dd if='/media/Movie's/OS/linux/Debian/buntu platform/Ubuntu/ubuntu-12.04-desktop-amd64.iso' of=/dev/PENDRIVE
+2012-05-02T17:53:00.000Z	myhero		>
+2012-05-02T17:53:00.000Z	myhero		now thats ubuntu drive location now y no dd ?
+2012-05-02T17:53:00.000Z	myhero		ohh
+2012-05-02T17:54:00.000Z	myhero		how to unmount it frm terminal ?
+2012-05-02T17:54:00.000Z	alankila	myhero	the problem you have is the 3 ' on the command line. You sure you have folder called Movie's ?

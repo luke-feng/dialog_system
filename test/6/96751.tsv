@@ -1,0 +1,6 @@
+2007-01-15T17:15:00.000Z	sleepy742		what commands to type to get flash 9?
+2007-01-15T17:16:00.000Z	bruenig	sleepy742	wget http://3v1n0.tuxfamily.org/pool/edgy/3v1n0/flashplugin-nonfree_9.0.21.78-3v1ubuntu0_i386.deb && sudo dpkg -i flashplugin-nonfree_9.0.21.78-3v1ubuntu0_i386.deb
+2007-01-15T17:17:00.000Z	sleepy742	bruenig	will that work for kubuntu?
+2007-01-15T17:17:00.000Z	bruenig	sleepy742	yes
+2007-01-15T17:17:00.000Z	bruenig	sleepy742	if you get any errors, do sudo apt-get -f install
+2007-01-15T17:21:00.000Z	bruenig	sleepy742	can't be positive on that since I have never been in that position, but I would think probably not

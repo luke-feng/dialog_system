@@ -1,0 +1,6 @@
+2005-10-21T16:04:00.000Z	leggy		hi...i've mounted a ntfs partition by console: problem - only the root can see the files. then i tried to mount it by using /etc/fstab! now all users have access to the directory. but there are no files in it
+2005-10-21T16:04:00.000Z	leggy		i have mounted the right partition
+2005-10-21T16:04:00.000Z	leggy		so does anyone know where the mistake is
+2005-10-21T16:05:00.000Z	sn9	leggy	are you sure there is actually something there?
+2005-10-21T16:14:00.000Z	sn9	leggy	if mount by itself doesn't list it, you need to mount it
+2005-10-21T16:15:00.000Z	sn9	leggy	fstab is not the same; you need both

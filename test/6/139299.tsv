@@ -1,0 +1,6 @@
+2006-03-21T10:56:00.000Z	JayR888		im troubled by this
+2006-03-21T10:57:00.000Z	JayR888		is it posible to downgrade my kernel?
+2006-03-21T10:58:00.000Z	JayR888		how to find older kernels?
+2006-03-21T10:58:00.000Z	JayR888		its not in apt-cache
+2006-03-21T10:59:00.000Z	intelikey	JayR888	apt-cache search kerenl ;apt-cache search linux
+2006-03-21T11:01:00.000Z	intelikey	JayR888	apt-cache search kerenl ;apt-cache search linux | grep -ie'^linux'    <--- that filter will shorten it for you.

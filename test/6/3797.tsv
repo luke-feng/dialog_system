@@ -1,0 +1,6 @@
+2012-02-29T10:51:00.000Z	chipotle		i want my AVR to have sound passthru from the file to the AVR and then the AVR spit out the 5 channel sound i have
+2012-02-29T10:53:00.000Z	chipotle		my htpc is connected via hdmi to my avr
+2012-02-29T10:54:00.000Z	chipotle		i'm using sandy bridge, so is that why hd audio isn't working?
+2012-02-29T10:55:00.000Z	chipotle		i guess i need to buy a video card to get surround sound to work via hdmi?
+2012-02-29T10:55:00.000Z	nathan28	chipotle	you can just wait for the kernel upgrade to get pushed to your repos
+2012-02-29T10:55:00.000Z	chipotle	nathan28	when will that be?

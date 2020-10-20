@@ -1,0 +1,6 @@
+2010-11-26T14:41:00.000Z	matthiaskrgr		No command 'audicity' found, did you mean: Command 'audacity' from package 'audacity' (universe)
+2010-11-26T14:41:00.000Z	matthiaskrgr		audicity: command not found
+2010-11-26T14:41:00.000Z	matthiaskrgr		what programm gives this output?
+2010-11-26T14:42:00.000Z	matthiaskrgr		the prog that detects the package that is needed for executing that command
+2010-11-26T14:42:00.000Z	bazhang	matthiaskrgr	command-not-found
+2010-11-26T14:43:00.000Z	matthiaskrgr	bazhang	ah, thanks :)

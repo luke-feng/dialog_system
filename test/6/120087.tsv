@@ -1,0 +1,6 @@
+2008-04-12T17:18:00.000Z	Peanut		I have a machine (Intel C2duo) with 4GB of RAM but meminfo only shows 3.6GB. Is this a limitation of the chipset, or the kernel (running 7.10/2.6.22-14-generic) ?
+2008-04-12T17:18:00.000Z	Dr_willis	Peanut	 a bit of both.
+2008-04-12T17:19:00.000Z	Dr_willis	Peanut	 technicially you need to use a 64bit disrto to access over 4gb of ram.. BUT the machines bios/other hardware  can take away from the mazimum of 4gb of addressable space that a 32bit os can access.
+2008-04-12T17:19:00.000Z	Dr_willis	Peanut	 with 64bit os  you still may not access all 4gb in your case.
+2008-04-12T17:20:00.000Z	Peanut	Dr_willis	Ah, thanks - I knew I should never have switched away from UltraSparc ;-) Unfortunately, the application I run isn't available for 64bit Linux (at least not for free).
+2008-04-12T17:20:00.000Z	Dr_willis	Peanut	 i dont bother with 64bit linux anyway. :)

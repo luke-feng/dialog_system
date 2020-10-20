@@ -1,0 +1,6 @@
+2008-11-21T18:09:00.000Z	syslq		What do I need to setup 5.1 sound
+2008-11-21T18:09:00.000Z	syslq		I only hear sound on my headphones
+2008-11-21T18:09:00.000Z	bugaloo	syslq	laptop?
+2008-11-21T18:10:00.000Z	syslq	bugaloo	no, desktop
+2008-11-21T18:11:00.000Z	bugaloo	syslq	I had this problem with laptops... you can try the alsamixer
+2008-11-21T18:11:00.000Z	syslq	bugaloo	everything is fine there

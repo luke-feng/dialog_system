@@ -1,0 +1,6 @@
+2012-04-13T20:26:00.000Z	aggrav8d		hi, ubuntu.  I'm getting a LOT of error emails about "unable to load mhash.so".  I found some google docs about deleting /etc/php5/conf.d/mhash.ini.  it didn't help.
+2012-04-13T20:26:00.000Z	aggrav8d		any ideas, please?
+2012-04-13T20:26:00.000Z	jbs	aggrav8d	they'll just tell you to use python or something here
+2012-04-13T20:27:00.000Z	aggrav8d	jbs	- not really applicable.
+2012-04-13T20:27:00.000Z	jbs		i asked about gnome2 and just got nonsense
+2012-04-13T20:27:00.000Z	aggrav8d	jbs	- well did you sweet talk them first by saying thank you for all the great advice with the last problem you had?

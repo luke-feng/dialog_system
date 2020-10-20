@@ -1,0 +1,6 @@
+2010-01-13T03:05:00.000Z	maggs_		hey, i have what may be a slightly noobish question, i'm trying to run docker on openbox it, to do this the command appears to be "docker -display DISPLAY" with DISPLAY being the x display it connects to, what do i need to put in for DISPLAY?
+2010-01-13T03:07:00.000Z	maggs_		you've already had more ideas than me :D
+2010-01-13T03:08:00.000Z	maggs_		i got the same
+2010-01-13T03:09:00.000Z	djustice	maggs_	the -display option shouldnt be needed. but ":0.0" is the actual name of it.
+2010-01-13T03:09:00.000Z	djustice	maggs_	if your having a segmentation, there is a failure with that particular version for some reason...
+2010-01-13T03:10:00.000Z	djustice	maggs_	still segmenting?

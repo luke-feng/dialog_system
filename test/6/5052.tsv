@@ -1,0 +1,6 @@
+2011-11-26T22:22:00.000Z	sovzed		hello, i am pretty new to linux. I just installed 11.10 and some apps, like irssi. I know how to execute them but, I would like to know how can i create shortcuts for my desktop/left bar. I really couldnt find any explanation on something that simple, i guess everyone knows that but i dont :P
+2011-11-26T22:24:00.000Z	sovzed		so you guys always start applications from a terminal?
+2011-11-26T22:25:00.000Z	ActionParsnip	sovzed	I do personally
+2011-11-26T22:28:00.000Z	ActionParsnip	sovzed	irssi is very powerful as it can use python scripts
+2011-11-26T22:32:00.000Z	ActionParsnip	sovzed	apt-cache search something
+2011-11-26T22:33:00.000Z	sovzed	ActionParsnip	i installed gtalk but it doesnt seem to run, i used "gtalkd" to start it but it does nothing

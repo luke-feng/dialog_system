@@ -1,0 +1,6 @@
+2009-09-19T17:57:00.000Z	o_portista17		does anyone know how to change the network adapter, from eth1 to eth0 ? it was eth0, but since an update, its eth1, and it's causing some problems with some programs..
+2009-09-19T17:58:00.000Z	erUSUL	o_portista17	edit /etc/udev/rules.d/70-persistent-net.rules
+2009-09-19T17:58:00.000Z	o_portista17	erUSUL	tks
+2009-09-19T17:59:00.000Z	erUSUL	o_portista17	no problem
+2009-09-19T18:01:00.000Z	o_portista17	erUSUL	sorry about the dumb question, but i have to change all fields with "eth1" back to "eth0" ?
+2009-09-19T18:02:00.000Z	erUSUL	o_portista17	probably. check the MAC of your wifi and see what of the rules apply to it. change that to eth0 then edit the others so two cards do not get the same iface name

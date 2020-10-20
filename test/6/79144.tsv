@@ -1,0 +1,6 @@
+2007-09-13T16:05:00.000Z	x_		hi everyone   i need some help... during the update i have this erroe message... what's wrong ????:
+2007-09-13T16:05:00.000Z	x_		Could not initialize the package information
+2007-09-13T16:05:00.000Z	x_		A unresolvable problem occurred while initializing the package information.
+2007-09-13T16:05:00.000Z	x_		Please report this bug against the 'update-manager' package and include the following error message:
+2007-09-13T16:05:00.000Z	x_		'E:Dynamic MMap ran out of room, E:Error occurred while processing sylpheed (NewVersion1), E:Problem with MergeList /var/lib/apt/lists/dk.archive.ubuntu.com_ubuntu_dists_feisty_universe_binary-i386_Packages, E:The package lists or status file could not be parsed or opened.'
+2007-09-13T16:06:00.000Z	Ubotu	x_	pastebin is a service to post large texts so you don't flood the channel. The Ubuntu pastebin is at http://paste.ubuntu-nl.org (make sure you give us the URL for your paste - see also the #ubuntu channel topic)

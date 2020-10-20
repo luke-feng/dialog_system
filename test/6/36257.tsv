@@ -1,0 +1,6 @@
+2009-06-29T23:44:00.000Z	badr		hello all
+2009-06-29T23:46:00.000Z	badr		+1
+2009-06-29T23:46:00.000Z	badr		i had some problems with ext4 lately when deleting a big bunch of files
+2009-06-29T23:47:00.000Z	badr		i heard it was a kernel issue
+2009-06-29T23:47:00.000Z	cabrey	badr	2.6.30 clears up a lot of ext4 related issues
+2009-06-29T23:50:00.000Z	badr	cabrey	i installed the kernel on my secondary pc, i gotta recompile lirc stuff, but deleting lotsa files seems ok, thx

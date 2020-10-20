@@ -1,0 +1,6 @@
+2012-11-02T02:09:00.000Z	dr_willis		but he may to get teh bootloader written to the flash.
+2012-11-02T02:11:00.000Z	dr_willis		http://www.keyxl.com/aaac887/409/Xfce-Window-Manager-keyboard-shortcuts.htm
+2012-11-02T02:12:00.000Z	dr_willis		you use a windows disk/usb/tools to reinstall the windows bootloader to the mbr Steelcased_Sambo
+2012-11-02T02:13:00.000Z	Steelcased_Sambo	dr_willis	- How do I do that? I have a laptop, a netbook and an SD card. I am semi-competent at best.
+2012-11-02T02:14:00.000Z	dr_willis	Steelcased_Sambo	 people in #windows may be able to suggest some tools.
+2012-11-02T02:19:00.000Z	dr_willis	Steelcased_Sambo	 you need to reinstall the windows mbr to the mbr of the hard disk if you want it to boot windows

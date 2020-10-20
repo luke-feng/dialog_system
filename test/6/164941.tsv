@@ -1,0 +1,6 @@
+2009-08-23T09:15:00.000Z	ccb0x45		hey I am getting an error when I try to do a sudo apt-get install -f to install the nvidia drivers: says cannong remove /usr/src/nicidia-185blah blah no such file or directory
+2009-08-23T09:17:00.000Z	ccb0x45		when I do
+2009-08-23T09:18:00.000Z	ccb0x45		sudo /etc/init.d/gdm restart
+2009-08-23T09:18:00.000Z	ccb0x45		X never comes up, but it says [OK]
+2009-08-23T09:19:00.000Z	ccb0x45		whats control-alt-f7 do? I just rebooted, trying to see if that fixes it
+2009-08-23T09:19:00.000Z	Dr_Willis	ccb0x45	 that goes to the consoles  F7 is normally the X display however.

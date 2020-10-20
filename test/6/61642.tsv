@@ -1,0 +1,6 @@
+2008-07-04T14:31:00.000Z	doktoreas		wich application is used to make the autorun things for windows inside Ubuntu?
+2008-07-04T14:31:00.000Z	lclimber	doktoreas	wine
+2008-07-04T14:34:00.000Z	doktoreas	lclimber	I mean the application that appear if you put ubuntu livecd in win
+2008-07-04T14:35:00.000Z	lclimber	doktoreas	: ohh, try wuby
+2008-07-04T14:40:00.000Z	doktoreas		thx lclimber
+2008-07-04T14:40:00.000Z	lclimber	doktoreas	you are welcome, ubuntu hardy included that app on their livecd

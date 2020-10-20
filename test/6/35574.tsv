@@ -1,0 +1,6 @@
+2009-06-14T22:41:00.000Z	Cloudef		Does anybody know is it possible to get Analog Mix, or record sound from sound card with HDA Intel?
+2009-06-14T22:42:00.000Z	forceflow	Cloudef	install audacity and select the correct line ?
+2009-06-14T22:42:00.000Z	Cloudef		I want to record some Fallout 3 on Wine videos but recording sound thro mic is pretty bad :D
+2009-06-14T22:42:00.000Z	Cloudef	forceflow	The alsamixer does not detect Analog Mix in my Sound card
+2009-06-14T22:42:00.000Z	forceflow		!audacity
+2009-06-14T22:42:00.000Z	Cloudef	forceflow	Theforce audacity cant record my sound card aswell

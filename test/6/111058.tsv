@@ -1,0 +1,6 @@
+2006-09-27T08:46:00.000Z	Cruvader		Hi guys, I just installed ubuntu my first linux distro!, but i really need some help
+2006-09-27T08:46:00.000Z	Cruvader		i plugged in my laptops wireless card after install and i dont know how to install it? :(
+2006-09-27T08:47:00.000Z	Cruvader		is their a command i can run or something
+2006-09-27T08:47:00.000Z	cpk2	Cruvader	what kind of wireless card?
+2006-09-27T08:47:00.000Z	cpk2	Cruvader	hopefully it will show up in lspci
+2006-09-27T08:48:00.000Z	cpk2	Cruvader	can you see it in lspci when it is in your laptop?

@@ -1,0 +1,6 @@
+2010-05-22T19:50:00.000Z	systest		Can anyone point me to a URL for the alternate installer boot files?  (don't need the whole CD)
+2010-05-22T19:52:00.000Z	Guest91163	systest	what do you mean by alternate installer boot files?
+2010-05-22T19:53:00.000Z	systest	Guest91163	The InitRD and kernel, e.g. http://archive.ubuntu.com/ubuntu/dists/lucid/main/installer-amd64/current/images/netboot/ubuntu-installer/amd64/
+2010-05-22T19:53:00.000Z	systest	Guest91163	but for the alternate CD, not the network installer
+2010-05-22T19:54:00.000Z	Guest91163	systest	Well, I didn't understand a thing. You are looking for jsut the kernel and InitRd? No idea :(
+2010-05-22T19:56:00.000Z	systest	Guest91163	I generally don't pull down the whole CD.  It's usually easer just to pull the boot files to an existing linux box, boot to them then do a clean install

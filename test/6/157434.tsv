@@ -1,0 +1,6 @@
+2010-01-08T22:21:00.000Z	DSheth		pelo, i can delete the words 'splash' and 'quiet' but i cant press b to boot its ctrl+x to boot and the same screen with ubuntu name and flashing light comes up
+2010-01-08T22:22:00.000Z	DSheth		pelo, ok
+2010-01-08T22:22:00.000Z	DSheth		pelo, ok
+2010-01-08T22:23:00.000Z	DSheth		pelo, sorry but how do i check the logs
+2010-01-08T22:23:00.000Z	DSheth		pelo, im new to ubuntu too ;o
+2010-01-08T22:24:00.000Z	shawn_	DSheth	dmesg /var/log/boot

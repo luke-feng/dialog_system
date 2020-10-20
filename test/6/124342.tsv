@@ -1,0 +1,6 @@
+2006-03-21T06:35:00.000Z	rukuartic		Anyone know how I can list the files which grep finds matches? eg: if I type grep key *.log, to get it to name the files it finds it in?
+2006-03-21T06:35:00.000Z	YukiCuss	rukuartic	-H
+2006-03-21T06:35:00.000Z	YukiCuss		ie. grep -H key *.log
+2006-03-21T06:36:00.000Z	rukuartic	YukiCuss	Doh... read manpage first. T_T Thanks
+2006-03-21T06:36:00.000Z	YukiCuss	rukuartic	or even just --help. :)
+2006-03-21T06:38:00.000Z	rukuartic	YukiCuss	What about looking for two words (eg: kicked AND banned)?

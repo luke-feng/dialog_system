@@ -1,0 +1,6 @@
+2008-02-05T18:25:00.000Z	moDumass		hey all, does anyone know of noise cancelation software that works in ubuntu
+2008-02-05T18:25:00.000Z	moDumass		i live across the road from a new nightclub, and their music is crap
+2008-02-05T18:26:00.000Z	moDumass		haha
+2008-02-05T18:27:00.000Z	ali1234	moDumass	that would require a real time kernel among other things...
+2008-02-05T18:28:00.000Z	ali1234	moDumass	to cancel the noise you have to sample it, invert it, and play it back *really fast* other wise you just get an echo
+2008-02-05T18:29:00.000Z	ali1234	moDumass	exactly.  a PC is not a DSP

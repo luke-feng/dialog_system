@@ -1,0 +1,6 @@
+2009-01-29T16:40:00.000Z	therootest		does anyone know how to install compiz on ubuntu 8.0.4?
+2009-01-29T16:40:00.000Z	YankDownUnder	therootest	apt-get install compiz
+2009-01-29T16:41:00.000Z	therootest	YankDownUnder	i did. now, how i make it work over the current?
+2009-01-29T16:41:00.000Z	YankDownUnder	therootest	ALT-F2 => compiz --replace
+2009-01-29T16:42:00.000Z	therootest	YankDownUnder	the prompt says that compiz --replace couldnt be executed.
+2009-01-29T16:43:00.000Z	YankDownUnder	therootest	Then it's not properly installed...

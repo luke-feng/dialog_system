@@ -1,0 +1,6 @@
+2005-08-31T12:40:00.000Z	Rimu		you need a web server
+2005-08-31T12:40:00.000Z	Rimu		the web server interprets PHP and spits out HTML, which browsers can handle
+2005-08-31T12:42:00.000Z	Rimu		chmod 644 <filename>
+2005-08-31T12:43:00.000Z	Rimu		you should also be able to change the access permissions by right-clicking on the file and going 'properties'
+2005-08-31T12:43:00.000Z	Rimu		anyway, gotta run. thanks for the help
+2005-08-31T12:44:00.000Z	onkarshinde	Rimu	I know how chmod works. I want to do it automatically for any file copied from this particular partition.

@@ -1,0 +1,6 @@
+2006-09-15T14:11:00.000Z	Subhuman	ladydoor	yeah frostwire is good, you need to run it like "bash /usr/lib/frostwire/RunFrost.sh"
+2006-09-15T14:11:00.000Z	Subhuman		cuz bash symlinks to dash now.
+2006-09-15T14:11:00.000Z	ladydoor	Subhuman	unless, of course, you made a symlink in /usr/local
+2006-09-15T14:11:00.000Z	ladydoor	Subhuman	*/usr/local/bin
+2006-09-15T14:12:00.000Z	ladydoor	Subhuman	in which case you could just run it with the name of the symlink
+2006-09-15T14:12:00.000Z	Subhuman	ladydoor	yeah you can do that too.

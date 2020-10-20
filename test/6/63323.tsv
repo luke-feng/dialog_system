@@ -1,0 +1,6 @@
+2008-02-22T23:24:00.000Z	bluefoxx		anyone know anything bout scsi?
+2008-02-22T23:25:00.000Z	Xorothal	bluefoxx	what do you want to know
+2008-02-22T23:27:00.000Z	bluefoxx	Xorothal	i have a scsi drive that was in my system on startup, but wont be detected as a mount option, scsiadd detects it, but other than that i dont know how to access it. i can't power down or else i lose my sata drive, the cable for it is buggy and ubuntu will detect it only once out of about 20 bootups
+2008-02-22T23:27:00.000Z	Xorothal	bluefoxx	sorry. no idea
+2008-02-22T23:27:00.000Z	Xorothal		yeah...
+2008-02-22T23:28:00.000Z	bluefoxx	Xorothal	i wish to know how to make it a mount option, its an externally connected 4 gig seagate that i know is working, the cables ar connected and i know the scsi id is set to id two on the adaptor, while the host is scsi id 15

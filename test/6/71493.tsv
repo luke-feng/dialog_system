@@ -1,0 +1,6 @@
+2012-07-09T02:18:00.000Z	haxxpop		#include<stdio.h>
+2012-07-09T02:18:00.000Z	haxxpop		#include<string.h>
+2012-07-09T02:18:00.000Z	haxxpop		int main(){
+2012-07-09T02:18:00.000Z	haxxpop		 char s[1000];
+2012-07-09T02:18:00.000Z	haxxpop		 int pos[1000];
+2012-07-09T02:18:00.000Z	FloodBot1	haxxpop	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

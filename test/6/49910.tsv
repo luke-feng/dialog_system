@@ -1,0 +1,6 @@
+2008-10-13T11:08:00.000Z	pantaloon		Can someone help me set my default video player to VLC instead of Totem? I changed it under System->Preferences->Preferred Applications to 'custom' and 'vlc' but it still opens up totem :(
+2008-10-13T11:09:00.000Z	drumstyk1	pantaloon	right-click on vlc and click properties and copy that command line to your pref apps command line
+2008-10-13T11:12:00.000Z	pantaloon	drumstyk1	I tried and it still launches Totem
+2008-10-13T11:14:00.000Z	drumstyk1	pantaloon	try going into the properties of the actual video file and change it to VLC under the "open with" tab... that's the only other thing i can think of
+2008-10-13T11:18:00.000Z	drumstyk1	pantaloon	any luck?
+2008-10-13T11:22:00.000Z	pantaloon	drumstyk1	that did it. PITA though, because I'll have to do that for every video filetype.

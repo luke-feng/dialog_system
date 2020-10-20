@@ -1,0 +1,6 @@
+2006-04-01T16:32:00.000Z	frederik		How do I force close the root-like access I get from e.g. "sudo su root"? It seems to stay open for a while, I can exit and reenter w/o typing the password again
+2006-04-01T16:33:00.000Z	sfar-ubu	frederik	use "sudo -i" instead
+2006-04-01T16:34:00.000Z	frederik	sfar-ubu	thx, I'll do that. And I admit it's about time I start using the man rtfm too ^^
+2006-04-01T16:35:00.000Z	sfar-ubu	frederik	 :D
+2006-04-01T16:36:00.000Z	frederik	sfar-ubu	I'm exploiting the fact ppl in here are so nice and helpful. I save 30 mins each time I just ask a question here instead of exploring the google-jungle ;)
+2006-04-01T16:37:00.000Z	sfar-ubu	frederik	i do that too sometimes.. but mostly i try to google first.. but your perticular question was not that "google-friendy" so asking in here was much smarter :)

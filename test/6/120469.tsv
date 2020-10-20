@@ -1,0 +1,6 @@
+2011-11-06T15:41:00.000Z	Fudge		any idea how i can fix my sound, accidently changed in sound  my speakers to be an input device and now i have no audio, but i cant change it back because i depend on text to speech
+2011-11-06T15:41:00.000Z	usr13_	Fudge	alsamixer
+2011-11-06T15:41:00.000Z	Fudge	usr13_	 it doesnt show any of the normal siders, its acer aspire 5560G
+2011-11-06T15:42:00.000Z	usr13_	Fudge	Does it identify the proper sound card in upper left corner?
+2011-11-06T15:45:00.000Z	Fudge	usr13_	 i think so ill try to ssh in
+2011-11-06T16:06:00.000Z	Fudge	usr13_	 im thinking theres an asound file or something alsact stores to but do not remember where it is, /var/lib somewhere

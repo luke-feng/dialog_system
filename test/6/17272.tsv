@@ -1,0 +1,6 @@
+2010-09-15T14:01:00.000Z	miyamoto		can any help me coz installing ubuntu in my laptop head phone is not working
+2010-09-15T14:03:00.000Z	rockhopper	miyamoto	Did you check the sound preferences?
+2010-09-15T14:04:00.000Z	miyamoto	rockhopper	no i havnt
+2010-09-15T14:05:00.000Z	miyamoto	rockhopper	just connect headset for listning music but it isnt working
+2010-09-15T14:08:00.000Z	rockhopper	miyamoto	use sudo alsamixer
+2010-09-15T14:12:00.000Z	miyamoto	rockhopper	so wat sud i change in alsamixer

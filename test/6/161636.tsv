@@ -1,0 +1,6 @@
+2004-11-05T10:50:00.000Z	wulfy	iminj	you can just do "run sudo gedit"
+2004-11-05T10:50:00.000Z	iminj	bob2	thanks ... I think I got it already ... sudo gedit /etc modules
+2004-11-05T10:50:00.000Z	wulfy		then you will have root priveleges with gedit
+2004-11-05T10:51:00.000Z	iminj		:)
+2004-11-05T10:56:00.000Z	iminj		Anyone else experiencing hotplug FATAL errors inserting shpchp and pciehp during the boot sequence ?
+2004-11-05T10:56:00.000Z	wulfy	iminj	yes

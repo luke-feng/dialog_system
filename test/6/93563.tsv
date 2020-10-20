@@ -1,0 +1,6 @@
+2007-08-26T07:25:00.000Z	southafrikanse		hello. My Ubuntu sometimes just freezes. Is there anyway to know how?
+2007-08-26T07:26:00.000Z	southafrikanse		why does it freeze?
+2007-08-26T07:26:00.000Z	salah	southafrikanse	maybe hardware gets to hot?
+2007-08-26T07:26:00.000Z	southafrikanse	salah	is there anyway to confirm it's the hardware?
+2007-08-26T07:28:00.000Z	salah	southafrikanse	yes, restart your PC, turn into the bios, and go to PC Health Status, check what the CPU temperature is. Or it might be some other hardware that is unstable
+2007-08-26T07:28:00.000Z	southafrikanse	salah	it's a laptop

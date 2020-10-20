@@ -1,0 +1,6 @@
+2006-05-27T14:21:00.000Z	Snake007uk		hey guys quick question can i resize windows partition with ubuntu installer ?
+2006-05-27T14:23:00.000Z	carthik_zZz	Snake007uk	use gparted, if it is not NTFS, you should be good.
+2006-05-27T14:24:00.000Z	Snake007uk	carthik_zZz	its ntfs :(
+2006-05-27T14:24:00.000Z	carthik_zZz	Snake007uk	you cant resize using just that cd
+2006-05-27T14:24:00.000Z	Snake007uk	carthik_zZz	knoppix can if i download that ?
+2006-05-27T14:25:00.000Z	carthik_zZz	Snake007uk	NTFS? I doubt it, but you can check if that's possible on google

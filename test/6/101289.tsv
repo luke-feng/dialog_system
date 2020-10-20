@@ -1,0 +1,6 @@
+2008-06-03T21:51:00.000Z	will00		does anyone know how i can mount a samba share locally?
+2008-06-03T21:52:00.000Z	Slart	will00	smbmount
+2008-06-03T21:52:00.000Z	Slart	will00	or just use the regular mount command as use.. hmm.. cifs as filetype ?? not sure if it's cifs or smb.. check the man page
+2008-06-03T21:54:00.000Z	Slart	will00	yea.. they changed it around recently.. but take a look in the man page or chech the ubuntu forums
+2008-06-03T21:54:00.000Z	Slart	will00	you're welcome
+2008-07-17T22:06:00.000Z	Slart	will00	monitor? snmp can give you quite a lot of info

@@ -1,0 +1,6 @@
+2010-03-30T17:43:00.000Z	suunto		hello, i have a server in my office running websites. i can only reach it via ssh. and i need to reach these sites, so i tried doing ssh -L 3128:localhost:3128 username@host and then adding localhost:3128 as a proxy in my browser, but i still cant reach the sites, is there anything else i can try?
+2010-03-30T17:45:00.000Z	gottto	suunto	tried vnc then a browser to localhost?
+2010-03-30T17:45:00.000Z	suunto	gottto	meh..ubuntu server...headless
+2010-03-30T17:47:00.000Z	gottto	suunto	I have similar and a minimal X comes with twm all you need then is dillo or similar
+2010-03-30T17:47:00.000Z	gottto	suunto	or you could ask in #ubuntu-server
+2010-03-30T17:47:00.000Z	suunto	gottto	thanks man, lemme try - ledgend! forgot about that channel

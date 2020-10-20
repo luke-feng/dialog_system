@@ -1,0 +1,6 @@
+2011-11-09T04:30:00.000Z	notlistening		Any ideas why i am not getting all the files asscoated with the package I am installing?
+2011-11-09T04:32:00.000Z	notlistening		can you choose the recovery option in grub?
+2011-11-09T04:34:00.000Z	notlistening		okay jhjh got it :)
+2011-11-09T04:35:00.000Z	notlistening		Anyone else in the room, why would have not have to recovery console installed under grub?
+2011-11-09T04:36:00.000Z	escott	notlistening	the grub menu is hidden by default on single boot systems. you have to press some key to get the menu, is that your question?
+2011-11-09T04:38:00.000Z	notlistening	escott	not really as he seems to say there is only one option in his grub boot menu unless he is not sure what i mean

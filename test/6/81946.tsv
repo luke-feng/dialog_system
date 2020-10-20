@@ -1,0 +1,6 @@
+2009-06-28T11:29:00.000Z	aurilliance		How can i remove a directory? rm gives me an error
+2009-06-28T11:29:00.000Z	aurilliance		ty
+2009-06-28T11:29:00.000Z	mechdave	aurilliance	what directory are you trying to delete?
+2009-06-28T11:30:00.000Z	mechdave	aurilliance	try rm -rv .blender
+2009-06-28T11:31:00.000Z	mechdave	aurilliance	if you type "man rm" (without quotes) in the terminal that will give you all options and possibly a couple of examples
+2009-06-28T11:31:00.000Z	mechdave	aurilliance	np

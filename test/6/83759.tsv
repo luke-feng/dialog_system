@@ -1,0 +1,6 @@
+2008-02-18T03:42:00.000Z	Echoside		Hello everyone. I have a problem. I am trying to use apt-get to install the restricted moduels, but it asks for a CD, well i dont have the CD anymore, what do I do to make it get it from the internet?
+2008-02-18T03:42:00.000Z	dduong	Echoside	 go to /etc/apt/sources.list and comment out the deb cdrom entry
+2008-02-18T03:43:00.000Z	Echoside	dduong	Thank you.
+2008-02-18T03:43:00.000Z	dduong	Echoside	 np, let me know if that works :0
+2008-02-18T03:44:00.000Z	Echoside	dduong	Worked great. Thanks alot, i appriciate it.
+2008-02-18T03:44:00.000Z	dduong	Echoside	 Not a problem :)

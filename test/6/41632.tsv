@@ -1,0 +1,6 @@
+2010-09-03T21:13:00.000Z	mrp		how do i get a version of a package from maverick into lucid?
+2010-09-03T21:13:00.000Z	mrp		eg, deluge
+2010-09-03T21:14:00.000Z	ZykoticK9	mrp	see if the version you want is in a PPA
+2010-09-03T21:14:00.000Z	ZykoticK9		!ppa | mrp
+2010-09-03T21:14:00.000Z	mrp	ZykoticK9	PPA is not update to date :(
+2010-09-03T21:16:00.000Z	ZykoticK9	mrp	you can just try the deb from maverick on your lucid - but there will probably be dependecy issues (thus it's not really recommended/supported), ubuntu isn't designed to be running the !latest of everything ;)  good luck though

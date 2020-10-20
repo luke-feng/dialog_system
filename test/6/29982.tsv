@@ -1,0 +1,6 @@
+2010-06-22T10:43:00.000Z	mataks		anyone knows 5 steps how application programs transfer in and out of RAM?
+2010-06-22T10:44:00.000Z	codebrainz	mataks	school assignment?
+2010-06-22T10:44:00.000Z	mataks	codebrainz	ahmm.. yeah
+2010-06-22T10:45:00.000Z	codebrainz	mataks	look under "MEmory and Resource Management" here: http://wiki.osdev.org/Main_Page
+2010-06-22T10:45:00.000Z	codebrainz	mataks	that's more of a os-side verion though
+2010-06-22T10:45:00.000Z	mataks	codebrainz	thanks i'll take a look

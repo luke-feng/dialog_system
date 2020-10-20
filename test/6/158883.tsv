@@ -1,0 +1,6 @@
+2005-12-20T06:45:00.000Z	westymatt		hey mjr
+2005-12-20T06:45:00.000Z	westymatt		can i apt-get gcc?
+2005-12-20T06:46:00.000Z	westymatt		new debian user sorry for dumb question
+2005-12-20T06:46:00.000Z	westymatt		its not in the $PATH
+2005-12-20T06:46:00.000Z	mcphail	westymatt	apt-get build-essential
+2005-12-20T06:47:00.000Z	mcphail	westymatt	yes

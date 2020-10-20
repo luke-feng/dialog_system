@@ -1,0 +1,6 @@
+2008-11-13T23:16:00.000Z	yates		what's the package command to search for an application?
+2008-11-13T23:16:00.000Z	yates		the command-line version
+2008-11-13T23:17:00.000Z	yates		,apt
+2008-11-13T23:17:00.000Z	hwilde	yates	aptitude search <packagenamehere>
+2008-11-13T23:17:00.000Z	hwilde	yates	do you know about the tab key?  type in apt and hit tab twice
+2008-11-13T23:18:00.000Z	yates	hwilde	SOF4LNX: thanks

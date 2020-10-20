@@ -1,0 +1,6 @@
+2012-06-21T01:58:00.000Z	Leif_Bork		Hi!
+2012-06-21T01:58:00.000Z	Leif_Bork		I have a serious problem
+2012-06-21T01:58:00.000Z	Leif_Bork		I can't turn of my computer
+2012-06-21T01:58:00.000Z	Leif_Bork		there's a mount that hangs, ps gives this: 1199 ?        R    334:00 /bin/mount -o relatime,sync /dev/sda2 /media/usbhd-sda2
+2012-06-21T01:59:00.000Z	MonkeyDust	Leif_Bork	 i had that too, do sudo shutdown -h now and the next time it will be okay
+2012-06-21T01:59:00.000Z	Leif_Bork	MonkeyDust	Thanks! =)

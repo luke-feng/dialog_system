@@ -1,0 +1,6 @@
+2008-06-20T10:03:00.000Z	robotgeek		hi, i have kubuntu hardy installed. my computer has 4gb of ram (bios reports so). how come free -m does not report 4 gb. !pastebin is here: http://pastebin.com/d45696b63
+2008-06-20T10:03:00.000Z	Jack_Sparrow	robotgeek	you should see 3.4 or so
+2008-06-20T10:05:00.000Z	Jack_Sparrow	robotgeek	It is in use.. if you need to see the 4 gigs free .. install the server kernel
+2008-06-20T10:05:00.000Z	robotgeek	Jack_Sparrow	so, if i understand this right, ubuntu is using it, just displaying it incorrectly?
+2008-06-20T10:06:00.000Z	Jack_Sparrow	robotgeek	the desktop kernel will only show you 3.4 or so...  but it is not lost..
+2008-06-20T10:06:00.000Z	robotgeek	Jack_Sparrow	thanks.

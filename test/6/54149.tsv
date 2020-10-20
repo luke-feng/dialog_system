@@ -1,0 +1,6 @@
+2009-01-02T05:02:00.000Z	rivitingone	lumpycam	The files I need are on another computer. I need to network them somehow.
+2009-01-02T05:02:00.000Z	lumpycam	rivitingone	sounds like you need samba.
+2009-01-02T05:05:00.000Z	rivitingone	lumpycam	This doc says I don't need samba, just smbfs. https://help.ubuntu.com/community/MountWindowsSharesPermanently
+2009-01-02T05:05:00.000Z	rivitingone	lumpycam	Is samba better?
+2009-01-02T05:07:00.000Z	lumpycam	rivitingone	i never used it, i assume that url is the way to go.
+2009-01-02T05:08:00.000Z	lumpycam	rivitingone	smb stands for samba, i believe. or you can dance the samba but that won't work :)

@@ -1,0 +1,6 @@
+2006-09-15T05:21:00.000Z	asodesign		mate I wrote what you said sudo /etc/init.d/gdm restart
+2006-09-15T05:21:00.000Z	asodesign		but it said command not found
+2006-09-15T05:22:00.000Z	asodesign		some one please help me
+2006-09-15T05:24:00.000Z	jrib	asodesign	apt-cache policy ubuntu-desktop says it is installed?
+2006-09-15T05:29:00.000Z	jrib	asodesign	apt-cache policy ubuntu-desktop | grep -i Installed      <-- what does this command return?
+2006-09-15T05:30:00.000Z	jrib	asodesign	can you pastebin the output of 'sudo apt-get install ubuntu-desktop'?

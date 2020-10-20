@@ -1,0 +1,6 @@
+2006-08-01T09:42:00.000Z	dragger		hi
+2006-08-01T09:42:00.000Z	dragger		I'm really new to ubuntu and linux for that matter
+2006-08-01T09:42:00.000Z	dragger		does anyone know why a driver wouldn't show up in the xorg.conf file?
+2006-08-01T09:42:00.000Z	dragger		I'm trying to get my synaptics touchpad set up - downloaded driver but I don't think it's loading
+2006-08-01T09:43:00.000Z	AngryElf	dragger	last i checked there's an extensive wiki article on the synaptics touchpad
+2006-08-01T09:43:00.000Z	AngryElf	dragger	wiki.ubuntu.com

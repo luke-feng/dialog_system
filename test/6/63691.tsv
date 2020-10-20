@@ -1,0 +1,6 @@
+2010-03-27T00:32:00.000Z	mehgahbleh		Anyone know how to kill all instances of firefox on a computer without access to root, and without having the ability to reboot.
+2010-03-27T00:32:00.000Z	mehgahbleh		I tried killall -9 firefox
+2010-03-27T00:32:00.000Z	mehgahbleh		but it didn't do shit
+2010-03-27T00:34:00.000Z	mehgahbleh		firefox
+2010-03-27T00:34:00.000Z	mehgahbleh		Gtk-Message: Failed to load module "canberra-gtk-module": /usr/lib/gtk-2.0/modules/libcanberra-gtk-module.so: wrong ELF class: ELFCLASS64
+2010-03-27T00:34:00.000Z	DaZ	mehgahbleh	and you're using 64bit distro?

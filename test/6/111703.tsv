@@ -1,0 +1,6 @@
+2006-07-16T14:12:00.000Z	corran		whom should I report a bug to when the bug comes from two packages?
+2006-07-16T14:12:00.000Z	erUSUL	corran	file the bug against both packages in launchpad
+2006-07-16T14:13:00.000Z	corran	erUSUL	What is this "launchpad"?
+2006-07-16T14:13:00.000Z	erUSUL		!bugs
+2006-07-16T14:13:00.000Z	erUSUL		!bugs > corran
+2006-07-16T14:14:00.000Z	corran	erUSUL	wouldn't you normally use reportbug?

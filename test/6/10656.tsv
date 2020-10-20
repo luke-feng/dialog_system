@@ -1,0 +1,6 @@
+2011-05-06T18:31:00.000Z	gidorah		hello, i have hp pavillon dv6-3005 notebook, has dual graphics cards. i have problems on booting. every 4 of 5 booting ubuntu wont start and  seperately from that problem when i install the driver of ati radeon 5650   it wont boot at all. . is there a way to disable intel graphics card, or any other solution?
+2011-05-06T18:32:00.000Z	mathews	gidorah	u installed along with windows
+2011-05-06T18:34:00.000Z	gidorah	mathews	yes
+2011-05-06T18:35:00.000Z	mathews	gidorah	there might problem with the boot loader
+2011-05-06T18:37:00.000Z	gidorah	mathews	how will i know that?
+2011-05-06T18:38:00.000Z	mathews	gidorah	just search with some key words in www.askubuntu.com

@@ -1,0 +1,6 @@
+2005-12-24T13:05:00.000Z	xcm		kde is listed under ubuntu packages, so what's kubuntu?
+2005-12-24T13:06:00.000Z	xcm		but i mean ubuntu has both, so why wouldn't you just use it?
+2005-12-24T13:07:00.000Z	johnblackhorse	xcm	kde is just a small subset of the packages in kubuntu-desktop
+2005-12-24T13:07:00.000Z	johnblackhorse	xcm	installing just "kde" onto a base install will get you just basic KDE apps, but instaling kubuntu will get you a full featured kde desktop system
+2005-12-24T13:08:00.000Z	johnblackhorse	xcm	you'll have to install "kubuntu-desktop" package
+2005-12-24T13:09:00.000Z	johnblackhorse	xcm	yes, for kubuntu and xubuntu

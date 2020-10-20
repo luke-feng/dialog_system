@@ -1,0 +1,6 @@
+2011-05-26T18:35:00.000Z	d1gital		I want to enable progress bar on a running rsync.  Can I stop it and resume where it left off?
+2011-05-26T18:36:00.000Z	Hyperbyte	d1gital	you mean in the middle of one big file?
+2011-05-26T18:36:00.000Z	d1gital	Hyperbyte	no, many small files
+2011-05-26T18:37:00.000Z	Hyperbyte	d1gital	rsync only syncs what -needs- to be synced.  That's the whole difference between rsync and cp.
+2011-05-26T18:37:00.000Z	d1gital	Hyperbyte	cool, thanks.
+2011-05-26T18:37:00.000Z	Hyperbyte	d1gital	if it has already synced half, you ^C it and restart, it won't sync that again obviously.

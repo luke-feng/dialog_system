@@ -1,0 +1,6 @@
+2007-02-01T15:51:00.000Z	tito_linux		I have accidentally rm -rf the contents of my home directory, is there anything I can do
+2007-02-01T15:51:00.000Z	LjL	tito_linux	not much
+2007-02-01T15:52:00.000Z	LjL	tito_linux	photorec is a recovery program included with testdisk, which is the package the bot pointed you to
+2007-02-01T15:55:00.000Z	LjL	tito_linux	i've never actually used it to be honest, i just know it's the only recovery tool available from the repositories
+2007-02-01T15:56:00.000Z	LjL	tito_linux	well, it tries to recover *files* from lost partitions. if the partition is not actually lost, i don't think it make a difference to it
+2007-02-01T15:57:00.000Z	LjL	tito_linux	still, best you'll be able to do is recover single files here and there, nothing will just give you back your virgin /home directory as it was

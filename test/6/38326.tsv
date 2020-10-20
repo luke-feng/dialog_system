@@ -1,0 +1,6 @@
+2010-09-10T02:14:00.000Z	hihihi100		hi there, can I use ALSA with a Silicon Integrated Systems [SiS] Azalia Audio Controller sound card?
+2010-09-10T02:15:00.000Z	hihihi100		any idea how?
+2010-09-10T02:16:00.000Z	hihihi100		yes it is a laptop
+2010-09-10T02:17:00.000Z	hihihi100		any idea how can i install alsamixer?
+2010-09-10T02:18:00.000Z	VCoolio	hihihi100	install alsa-utils
+2010-09-10T02:19:00.000Z	VCoolio	hihihi100	then run alsamixer, isn't it there?

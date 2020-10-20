@@ -1,0 +1,6 @@
+2010-12-17T23:07:00.000Z	salil		hi how can I add a custom session at logon. Like there is "Gnome", "KDE".. etc.. I want to add a custom session of mine that will run only those programs that i define in it..
+2010-12-17T23:08:00.000Z	ilovefairuz	salil	 /usr/share/xsessions/
+2010-12-17T23:46:00.000Z	salil	ilovefairuz	I made the a ".desktop" there.. But it is not showing up at the login..
+2010-12-17T23:49:00.000Z	ilovefairuz	salil	are you sure the file syntax is correct ?
+2010-12-17T23:50:00.000Z	salil	ilovefairuz	http://pastebin.ubuntu.com/544993/
+2010-12-17T23:55:00.000Z	salil	ilovefairuz	?

@@ -1,0 +1,6 @@
+2009-04-29T18:58:00.000Z	Serenka1		 Azur3Light: still no new packages
+2009-04-29T18:59:00.000Z	Serenka1		 Azur3Light: I also tried through the terminal
+2009-04-29T18:59:00.000Z	Serenka1		 Azur3Light: well its like Synaptic is not seeing anything new on the Kubuntu CD
+2009-04-29T19:00:00.000Z	Serenka1		 Azur3Light: I reloaded the CD through the terminal and its all good ...
+2009-04-29T19:00:00.000Z	Serenka1		 Azur3Light: but then I do sudo apt-get install kubuntu-desktop and it says it cannot find it
+2009-04-29T19:01:00.000Z	Coleys	Serenka1	did you update? sudo apt-get update?

@@ -1,0 +1,6 @@
+2010-07-23T22:19:00.000Z	nickwebcoukubunt		is osd notifications logged anywhere? My keyboard stops responding till i pound on it, but an icon that looks like a trackpad pops up on the screen whenever it happens.. Im trying to figure out what the icon is so i can find the root of the problem.. 10.04 / not a laptop.. Thanks! :D
+2010-07-23T22:21:00.000Z	trism	nickwebcoukubunt	they are logged to ~/.cache/notify-osd.log
+2010-07-23T22:22:00.000Z	nickwebcoukubunt	trism	i've checked that, but theres no record of it..
+2010-07-23T22:22:00.000Z	nickwebcoukubunt		thats why this is hard to track down..
+2010-07-23T22:27:00.000Z	trism	nickwebcoukubunt	yeah, it ignores some messages: the following command will listen on dbus for all desktop notification methods, may help, it's what my notification applet uses: dbus-monitor "type='method_call',interface='org.freedesktop.Notifications',member='Notify'"
+2010-07-23T22:30:00.000Z	nickwebcoukubunt	trism	thanks, ill keep iot running and see if ti happens again.. Grr.. lulz..

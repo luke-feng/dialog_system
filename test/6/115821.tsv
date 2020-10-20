@@ -1,0 +1,6 @@
+2006-06-07T14:50:00.000Z	Hamppari		err, so winxp on vmware cant handle hardware like usb devices?
+2006-06-07T14:50:00.000Z	LeaChim	Hamppari	works for me. if i have vmware up when i plug in a usb thing, it takes control instead of linux
+2006-06-07T14:51:00.000Z	Hamppari	LeaChim	awesome, maybe now I can get rid of windows partition for good
+2006-06-07T15:09:00.000Z	Hamppari	LeaChim	does usb devices that dont work on ubuntu, work on winxp @ vmware ?
+2006-06-07T15:13:00.000Z	LeaChim	Hamppari	afaik vmware just takes control totally, so it is exactly as if windows was using it directly
+2006-06-07T15:13:00.000Z	Hamppari	LeaChim	ok

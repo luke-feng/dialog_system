@@ -1,0 +1,6 @@
+2009-07-02T13:32:00.000Z	lesshaste		I've remove the /var/cache/debconf directory by mistake, how can I restore it? It makes apt-get install unhappy
+2009-07-02T13:33:00.000Z	Slemming	lesshaste	Try sudo dpkg-reconfigure debconf
+2009-07-02T13:33:00.000Z	lesshaste	Slemming	that gives ebconf: DbDriver "config": could not open /var/cache/debconf/config.dat
+2009-07-02T13:34:00.000Z	lesshaste	Slemming	well.. debconf...
+2009-07-02T13:34:00.000Z	lesshaste	Slemming	can I just reinstall it somehow?
+2009-07-02T13:36:00.000Z	Slemming	lesshaste	I'd presume apt-get install --reinstall debconf doesn't work

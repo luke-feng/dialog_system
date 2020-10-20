@@ -1,0 +1,6 @@
+2007-07-24T06:29:00.000Z	jrz		n
+2007-07-24T06:30:00.000Z	jrz		anyone have any idea why in windows my monitor can go 1280x1024 but in ubuntu it only goes 1024x768?
+2007-07-24T06:31:00.000Z	Pelo	jrz	 what video card ?
+2007-07-24T06:31:00.000Z	Pelo	jrz	check in the forum, there is a way to fix that,
+2007-07-24T06:32:00.000Z	Pelo	jrz	 i know the way for the regular cheap onboard card but for nvdia and ati it is a bit more special because of the restricted drivers
+2007-07-24T06:34:00.000Z	Pelo	jrz	laptop ? possibly but usualy it's related to the video card,  you can always try to add the extra resolutions manualy in xorg.conf and see if that works for you

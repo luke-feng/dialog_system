@@ -1,0 +1,6 @@
+2007-09-29T06:23:00.000Z	momal		add sudo in front of that
+2007-09-29T06:24:00.000Z	cwillu	momal	I might note that "sudo foo*" is a problem waiting to happen;  better to use completion on the glob, verify its the command you want, and then hit enter
+2007-09-29T06:25:00.000Z	momal	cwillu	yeah i know but he has it in folder and it is easer for him to type NVIDIA*.run rather then NVIDIA-Linux-x86-100.14.19-pkg1.run
+2007-09-29T06:26:00.000Z	cwillu	momal	hence why I mentioned the use of completion :p
+2007-09-29T06:26:00.000Z	momal	cwillu	ahh didn't see the second line :p
+2007-09-29T06:36:00.000Z	cwillu	momal	shiznit, do I really need to melt your computers?

@@ -1,0 +1,6 @@
+2008-02-10T01:14:00.000Z	cherva		can someone explain to me what should i do to a *.c file when i have this "patch" ( http://paste.ubuntu-nl.org/55413/ ) should I remove the lines beginning with - and add the lines beginning with + ?
+2008-02-10T01:15:00.000Z	Starnestommy	cherva	use the "patch" program
+2008-02-10T01:16:00.000Z	cherva	Starnestommy	can u give me a tip how to do it i mean should i have this in a text file and then just start patch with this text file and the file that i want to patch ?
+2008-02-10T01:17:00.000Z	Starnestommy	cherva	go to the directory where the 'dlls' directory is using cd
+2008-02-17T14:08:00.000Z	Starnestommy	cherva	export PATH=`echo $PATH`:~/Scripts
+2008-02-17T14:11:00.000Z	cherva	Starnestommy	thx

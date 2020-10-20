@@ -1,0 +1,6 @@
+2006-03-26T06:47:00.000Z	nalioth	Mischevious	parts of grub reside in both places
+2006-03-27T09:05:00.000Z	nalioth	Mischevious	smp kernels are for dual core or dual processor machines
+2006-03-27T09:05:00.000Z	Mischevious	nalioth	oh, but it says celeron
+2006-03-27T09:05:00.000Z	Mischevious	nalioth	they don't have dual core celeron's i don't think ..?
+2006-03-27T09:06:00.000Z	nalioth	Mischevious	unless you are running a dualcore proc or have 2 procs on the mobo, you don't need smp
+2006-03-27T09:06:00.000Z	Mischevious	nalioth	okay

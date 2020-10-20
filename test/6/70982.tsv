@@ -1,0 +1,6 @@
+2007-12-09T06:16:00.000Z	Biohazard		Does anyone has a link where it is explained, why you shouldn't use sudo instead of gksudo with GUI applications?
+2007-12-09T06:17:00.000Z	loke	Biohazard	Using sudo for GUI applications could cause minor problems like Firefox not keeping extentions, or serious problems such as not being able to log in anymore.
+2007-12-09T06:18:00.000Z	loke	Biohazard	It could possibly change the permissions in the .ICEauthority file.
+2007-12-09T06:18:00.000Z	loke	Biohazard	And since you asked for a link...http://ubuntuforums.org/showthread.php?t=96661
+2007-12-09T06:19:00.000Z	Biohazard	loke	thanks a lot
+2007-12-09T06:19:00.000Z	loke	Biohazard	Not a problem.

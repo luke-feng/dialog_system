@@ -1,0 +1,6 @@
+2010-05-27T03:44:00.000Z	ph0n7r1c		does anyone know how i can change the resolution  of my computer in U10.4
+2010-05-27T03:45:00.000Z	ph0n7r1c		i have looked for the xorg.config file in /etc/X11 but no file
+2010-05-27T03:46:00.000Z	ph0n7r1c		my monitor supports 1600X1200 but it does not show up on the GUI
+2010-05-27T03:47:00.000Z	ph0n7r1c		so where is the config read from then
+2010-05-27T03:47:00.000Z	ph0n7r1c		some other directory
+2010-05-27T03:47:00.000Z	Vroomfondle	ph0n7r1c	the configuration is auto-generated these days, in theory

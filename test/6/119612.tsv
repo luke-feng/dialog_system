@@ -1,0 +1,6 @@
+2008-03-20T07:14:00.000Z	joshritger		can someone help me with keyring manager? it is my first time using a wifi card
+2008-03-20T07:15:00.000Z	joshritger		!keyring
+2008-03-20T07:17:00.000Z	joshritger		I just setup ubuntu with wifi for the first time, i type in my password and it connects. do i let keyring manager allow once or allow so it will remember the passkey
+2008-03-20T07:17:00.000Z	tritium	joshritger	that's up to you
+2008-03-20T07:18:00.000Z	joshritger	tritium	what is the difference? I couldn't find any documentation
+2008-03-20T07:19:00.000Z	tritium	joshritger	it's a matter of if you want to type your password each time you log in, or if you want the keyring manager to always remember it

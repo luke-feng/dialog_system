@@ -1,0 +1,6 @@
+2011-04-26T23:20:00.000Z	Ulovlig		chown: changing ownership of `/home/downloads/pyro/.session/': Operation not per
+2011-04-26T23:20:00.000Z	Ulovlig		[8:19pm] <Ulovlig> mitted
+2011-04-26T23:20:00.000Z	Ulovlig		What am I doing wrong?
+2011-04-26T23:22:00.000Z	Ulovlig		rtorrent: Could not lock session directory: "/home/downloads/pyro/.session/", Permission denied
+2011-04-26T23:22:00.000Z	Dr_Willis	Ulovlig	 check your permissions and ownership of that dir. what is your user name anyway?
+2011-04-26T23:23:00.000Z	Dr_Willis	Ulovlig	 well that path is wrong then...  /home/pyro/downloads

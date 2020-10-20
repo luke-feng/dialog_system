@@ -1,0 +1,6 @@
+2012-05-09T18:58:00.000Z	killemall		hey guys, any way to select classic gnome session? I have old gpu and if I log out, my screen goes black and wont come back but I can hear the login sound
+2012-05-09T18:59:00.000Z	killemall		im using 12.04
+2012-05-09T19:00:00.000Z	penreturns	killemall	 refer this http://www.psychocats.net/ubuntu/classicgnome
+2012-05-09T19:00:00.000Z	killemall	penreturns	I need to select without gui login screen
+2012-05-09T19:01:00.000Z	killemall	penreturns	ome: yes I just can't see the login screen to do it. I need to select classic gnome from cli method
+2012-05-09T19:02:00.000Z	penreturns	killemall	im sorry, cant help :(

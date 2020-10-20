@@ -1,0 +1,6 @@
+2009-02-01T20:11:00.000Z	gbrethen		seahorse nautilus module initialized
+2009-02-01T20:11:00.000Z	gbrethen		Initializing nautilus-share extension
+2009-02-01T20:11:00.000Z	gbrethen		**
+2009-02-01T20:11:00.000Z	gbrethen		Eel:ERROR:eel-preferences.c:117:preferences_gconf_value_get_string: assertion failed: (value->type == GCONF_VALUE_STRING)
+2009-02-01T20:11:00.000Z	gbrethen		Aborted
+2009-02-01T20:11:00.000Z	FloodBot1	gbrethen	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

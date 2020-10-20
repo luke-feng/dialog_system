@@ -1,0 +1,6 @@
+2007-08-24T05:34:00.000Z	OntzA	dho_ragus	there is a logical explanation to 1 connection limit... but it's really strange, it would mean he has a limit of 1 connection in the NAT translation table, which is... way weird, lol
+2007-08-24T05:35:00.000Z	dho_ragus	OntzA	having one connection to a NAT table is very illogical in itself.
+2007-08-24T05:35:00.000Z	dho_ragus	OntzA	in fact, that wouldn't be a NAT table, it'd be a NAT entry.
+2007-08-24T05:36:00.000Z	dho_ragus	OntzA	besides, the fact that he's getting pings and successful DNS lookups would indicate more than one connection through NAT.
+2007-08-24T05:37:00.000Z	dho_ragus	OntzA	precisely.  that's more than one socket being tracked in NAT.
+2007-08-24T05:39:00.000Z	dho_ragus	OntzA	right, but they're all handled by conntrack

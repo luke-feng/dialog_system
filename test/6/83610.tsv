@@ -1,0 +1,6 @@
+2007-06-29T08:02:00.000Z	ponicg	PurpZeY	any idea where gnome stores its config files for hte keyboard?
+2007-06-29T08:02:00.000Z	PurpZeY	ponicg	There is a way to change the keyboard layout...System--> Admin I think
+2007-06-29T08:03:00.000Z	ponicg	PurpZeY	Yeah - it doesn't work though. I had to manually edit my xorg.conf to add the superkey --> windows key mapping on this thinkpad t60p
+2007-06-29T08:03:00.000Z	PurpZeY	ponicg	Then I don't know.
+2007-06-29T08:03:00.000Z	ponicg	PurpZeY	Thanks anyway.
+2007-06-29T08:11:00.000Z	PurpZeY	ponicg	Dapper, Edgy, Feisty  I believe

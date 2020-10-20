@@ -1,0 +1,6 @@
+2007-02-08T10:59:00.000Z	rendo		Why isn't public_html being called properly?  It's displaying the folder directories opposed to the webpage?
+2007-02-08T11:00:00.000Z	kitche	rendo	you sure do you have a index.html file or index.htm?
+2007-02-08T11:03:00.000Z	rendo	kitche	I have index.html
+2007-02-08T11:04:00.000Z	kitche	rendo	try index.htm just to see if it will work
+2007-02-08T11:38:00.000Z	rendo	kitche	It was the stupid default webpage checking in var/www instead of public_html, thanks for the suggestion though.
+2007-02-10T11:21:00.000Z	kitche	rendo	edit /boot/grub/menu.lst

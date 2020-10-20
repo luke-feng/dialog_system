@@ -1,0 +1,6 @@
+2007-06-04T14:44:00.000Z	eetfuk		my laptop has Unichrome graphics, and im using OpenChrome,but i cant get them to work, glxinfo return "X Error of failed request:  BadAlloc (insufficient resources for operation)"
+2007-06-04T14:45:00.000Z	Jowi	eetfuk	depends on the chipset. the "via" driver should have dri enabled (for via chipsets that is)
+2007-06-04T14:46:00.000Z	eetfuk	Jowi	i think my card is VN800, not sure about the chipset thought
+2007-06-04T14:49:00.000Z	eetfuk	Jowi	thanks it worked
+2007-06-04T14:49:00.000Z	Jowi	eetfuk	you're welcome
+2007-06-04T15:03:00.000Z	Jowi	eetfuk	I doubt beryl will work with the via chipset since it only provides very simple 3d accelleration. only intel, ati and nvidia supported I think.

@@ -1,0 +1,6 @@
+2009-10-10T04:49:00.000Z	Shirakawasuna		I'm new to ubuntu/debian package management.  Are old package sources stored or deleted automatically and if stored, is there a way to delete them easily?
+2009-10-10T04:49:00.000Z	funkyHat	Shirakawasuna	apt-get clean
+2009-10-10T04:50:00.000Z	funkyHat	Shirakawasuna	or apt-get autoclean
+2009-10-10T04:50:00.000Z	Shirakawasuna	funkyHat	is there a gui method?  The primary user of this netbook will be a non-techie.
+2009-10-10T04:50:00.000Z	funkyHat	Shirakawasuna	not that I know of. You could set up a cron job to do it for them though. It's quite a quick operation
+2009-10-10T04:51:00.000Z	Shirakawasuna	funkyHat	alright, thanks!

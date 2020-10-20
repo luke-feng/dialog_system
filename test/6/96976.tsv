@@ -1,0 +1,6 @@
+2008-01-20T07:49:00.000Z	twiztr		How do I set up GRUB so WinXP is the default boot OS?
+2008-01-20T07:50:00.000Z	Jack_Sparrow	twiztr	gedit /boot/grub/menu.lst
+2008-02-14T01:27:00.000Z	Jack_Sparrow	twiztr	Sorry to come into this late, what was the problem
+2008-02-14T01:28:00.000Z	twiztr	Jack_Sparrow	I have to reconfig my xserver, since my new screen won't display, since it wont do higher res then 1024, and I dont know what xserver to use for a ati x1550 card
+2008-02-14T01:29:00.000Z	Jack_Sparrow	twiztr	sudo dpkg-reconfigure xserver-xorg   select vesa NO ATI   1024 x 768  to get back basic gui
+2008-02-14T01:33:00.000Z	Jack_Sparrow	twiztr	That is just basic mode, you are not yet running the ati drivers

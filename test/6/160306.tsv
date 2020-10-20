@@ -1,0 +1,6 @@
+2004-11-14T15:58:00.000Z	FreddyF		anyone? how do i get my sound working
+2004-11-14T15:59:00.000Z	FreddyF		How do I get my sound working?
+2004-11-14T16:01:00.000Z	Cuga_	FreddyF	what sound card do you have?
+2004-11-14T16:03:00.000Z	Cuga_	FreddyF	Well thats about the most common onboard card out there... you say you dont have any alsa stuff.. why don't you install alsa-base and alsa-utils ?
+2004-11-14T16:04:00.000Z	Cuga_	FreddyF	yep
+2004-11-14T16:04:00.000Z	Cuga_	FreddyF	also, are you running a stock kernel? or custom?

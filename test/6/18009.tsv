@@ -1,0 +1,6 @@
+2010-10-16T09:59:00.000Z	rypervenche		I need help. There was a fix for a bug in ibus in Maverick. However, my ibus still has this bug. How can I get my ibus updated? (I have tried purging it and reinstalling it, but to no avail)
+2010-10-16T09:59:00.000Z	Gryllida	rypervenche	link to the bug?
+2010-10-16T10:00:00.000Z	rypervenche	Gryllida	https://bugs.launchpad.net/ubuntu/+source/ibus/+bug/637671
+2010-10-16T10:00:00.000Z	rypervenche	Gryllida	If you look at the last 3 comments you will see my problem.
+2010-10-16T10:01:00.000Z	Gryllida	rypervenche	I'm asking because I'm sure people here need the bug number to troubleshoot you, not because I really know anything about it myself
+2010-10-16T10:01:00.000Z	rypervenche	Gryllida	Understood.

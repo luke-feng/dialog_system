@@ -1,0 +1,6 @@
+2008-11-20T07:54:00.000Z	raven		i want to set up my file associations so that double clicking on a rar or zip will do "Extract Here"
+2008-11-20T07:54:00.000Z	raven		how can i do that
+2008-11-20T07:55:00.000Z	PassionFRUI7E	raven	Just make a nautilus script to do it.
+2008-11-20T07:55:00.000Z	PassionFRUI7E	raven	You're thinking in windows mode.
+2008-11-20T07:55:00.000Z	PassionFRUI7E	raven	Then you right click and could extract all archives in said folder to current directory.
+2008-11-20T07:58:00.000Z	PassionFRUI7E	raven	Check drivers?

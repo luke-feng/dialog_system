@@ -1,0 +1,6 @@
+2010-08-05T10:18:00.000Z	razz1		which vnc server is considered to be secure and efficient? I am looking at x11vnc and freenx to replace vino.
+2010-08-05T10:18:00.000Z	PythonPup	razz1	freenx is much faster than vnc.  No vnc is very secure.  If you want that, tunnel it through a vpn or ssh.
+2010-08-05T10:23:00.000Z	PythonPup	razz1	I don't know remmina.  I would get an nx client.
+2010-08-05T10:24:00.000Z	razz1	PythonPup	will install freenx and see how it goes, thnx
+2010-08-05T10:25:00.000Z	razz1	PythonPup	by the way how it change between users on the server with out losing the connection?
+2010-08-05T12:11:00.000Z	PythonPup	razz1	I used the default one under System/Preferences/Remote Desktop.  On xubuntu, I setup vino.

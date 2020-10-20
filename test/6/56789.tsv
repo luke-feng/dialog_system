@@ -1,0 +1,6 @@
+2011-12-12T07:00:00.000Z	woogi		my disk utility shows i have 3 partitions. one wld be for ubuntu, another for windows, and the last is (i guess) my free disk space. windows crashed hard on me and i want to just format it off my drive. how do i know which  partition is windows
+2011-12-12T07:01:00.000Z	woogi		can anyone help me?
+2011-12-12T07:01:00.000Z	woogi		better yet, how useful is this channel?
+2011-12-12T07:02:00.000Z	woogi		my disk utility shows i have 3 partitions. one wld be for ubuntu, another for windows, and the last is (i guess) my free disk space. windows crashed hard on me and i want to just format it off my drive. how do i know which  partition is windows
+2011-12-12T07:02:00.000Z	Gaming4JC	woogi	try gparted, look for NTFS and/or Fat32 partition. That's windows
+2011-12-12T07:04:00.000Z	Gaming4JC	woogi	wouldn't make much sense - Linux is always Ext2/3 filesystem, plus a swap space.

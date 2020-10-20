@@ -1,0 +1,6 @@
+2006-04-19T09:47:00.000Z	rebel2		totem doesnt come prepackaged with wmv or mov support etc
+2006-04-19T09:47:00.000Z	rebel2		Whole Linux liability thing
+2006-04-19T09:49:00.000Z	rebel2		Does anyone have some good Ubuntu related docs to help with installing ubuntu as a network office server? I want to set it up so all the machines in the office want to connect through the machine to even get past the router. Also I plan on running samba to do weekly backups of all of the local IP machines
+2006-04-19T09:50:00.000Z	rebel2		I guess I want to use it to hand out IPs... I just don't know the terminology
+2006-04-19T09:51:00.000Z	rebel2		Ah, where would I look at docs for that wastrel?
+2006-04-19T09:52:00.000Z	noiesmo	rebel2	http://ubuntuguide.org/#installdhcpserver

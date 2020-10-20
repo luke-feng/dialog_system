@@ -1,0 +1,6 @@
+2009-06-21T10:46:00.000Z	chehab		hello! Guys help plz.  i was trying to install Maya 2009 on ubuntu 9.04 64x but I get this error " error while loading shared libraries: libXinerama.so.1: cannot open shared object file: No such file or directory "
+2009-06-21T10:46:00.000Z	chehab		can any one help with maya2009 install
+2009-06-21T10:47:00.000Z	GreyGhost	chehab	try and install a package that has libXinerama
+2009-06-21T10:48:00.000Z	GreyGhost	chehab	try "sdo apt-get install libxinerama1'
+2009-06-21T11:06:00.000Z	GreyGhost	chehab	did u install the package i asked u to install?
+2009-06-21T11:26:00.000Z	GreyGhost	chehab	there is a linux version of Maya?

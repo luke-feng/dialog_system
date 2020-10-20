@@ -1,0 +1,6 @@
+2008-11-11T05:44:00.000Z	PeterBye		I have a question on unraring files - the man page says the "-x" option extracts the files from the rar archive, but each time I typing "unrar -x <filename>" it just lists all the options for unrar
+2008-11-11T05:44:00.000Z	PeterBye		!unrar
+2008-11-11T05:45:00.000Z	mcphail	PeterBye	try "unrar x filename" (i.e. without the - )
+2008-11-11T05:45:00.000Z	PeterBye	mcphail	wow how embarassing
+2008-11-11T05:45:00.000Z	PeterBye	mcphail	I got it - thank you *embarassed*
+2008-11-11T05:45:00.000Z	mcphail	PeterBye	not your fault. The developers are to blame

@@ -1,0 +1,6 @@
+2009-12-01T11:29:00.000Z	Anorien		could someone recommend me a much more lighter Desktop Environment than Gnome or KDE?
+2009-12-01T11:29:00.000Z	ardchoille	Anorien	xfce
+2009-12-01T11:30:00.000Z	ardchoille	Anorien	try them both and see which one meets your needs
+2009-12-01T13:13:00.000Z	ardchoille	Anorien	log out. when you get to the GDM screen, there should be a for "Session", click that and choose your desired session. After entering the username and password, the system will ask if you want to make it the default
+2009-12-01T13:13:00.000Z	Anorien	ardchoille	 i dont have it, just a "username" window
+2009-12-01T13:14:00.000Z	ardchoille	Anorien	there should be a button or link for "session" along with others like "restart", "shutdown" etc

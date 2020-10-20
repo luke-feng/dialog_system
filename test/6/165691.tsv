@@ -1,0 +1,6 @@
+2005-11-29T15:10:00.000Z	bolrod		why
+2005-11-29T15:11:00.000Z	bolrod		hrm
+2005-11-29T15:11:00.000Z	bolrod		dist-upgrade should fix that
+2005-11-29T15:11:00.000Z	bolrod		apt-get upgrade doesn't take those things to seriously
+2005-11-29T15:11:00.000Z	crimsun	bolrod	it will fix it when the drivers are available
+2005-11-29T15:12:00.000Z	crimsun	bolrod	otherwise if you slam through a dist-upgrade you'll end up with the precise issue that zygis described

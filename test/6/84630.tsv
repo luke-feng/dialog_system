@@ -1,0 +1,6 @@
+2007-06-27T08:04:00.000Z	benmayim		I have ubuntu 6.06 server installed. How do I find out the name of my database used for file serving with php, and its password, or is the password the same as my user/admin password?
+2007-06-27T08:04:00.000Z	benmayim		With the LAMP that comes with the install (second item menu during install).
+2007-06-27T08:06:00.000Z	variant	benmayim	http://www.howtoforge.com/perfect_setup_ubuntu_6.06
+2007-06-27T08:07:00.000Z	benmayim	variant	is that ubuntu 6.06 server or desktop. I don't feel like reading all that to find out later that it's talking about the desktop and not the server.
+2007-06-27T08:09:00.000Z	benmayim	variant	went to the site, it is about server, thx.
+2007-06-27T08:22:00.000Z	benmayim	variant	upon further reading of that website, he specifically states that he did not us option 2 - Install LAMP server, and I don't want to start over.

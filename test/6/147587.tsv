@@ -1,0 +1,6 @@
+2006-01-22T09:42:00.000Z	a8s0lut0		i have ubuntu then installed windows, which wrote over Grub in MBR.  It seems like there are MULTIPLE easy solutions but none of them work
+2006-01-22T09:42:00.000Z	a8s0lut0		* PokeThePenguin has joined #ruslug
+2006-01-22T09:42:00.000Z	a8s0lut0		* PokeThePenguin has left #ruslug
+2006-01-22T09:42:00.000Z	a8s0lut0		<a8s0lut0> here's my issue: everyone of the simple fixes leads me to believe it's something to do with partitions, since all these progs say they can't even find (hd0,0) or /dev/hda
+2006-01-22T09:42:00.000Z	a8s0lut0		suggestions?
+2006-01-22T09:42:00.000Z	nalioth	a8s0lut0	why are you pasting crap in here/

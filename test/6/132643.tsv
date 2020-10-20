@@ -1,0 +1,6 @@
+2006-01-14T14:41:00.000Z	brian_		my other issue is when i go to device manager all of my devices say unknown vendor and status is just "status". my biggest concern is that my laptop is hyperthreaded and its only registering one processor. does anyone know what might be causing all of this??
+2006-01-14T14:42:00.000Z	Fujitsu	brian_	Have you got the smp kernel?
+2006-01-14T14:42:00.000Z	Fujitsu		Apparnelt.y
+2006-01-14T14:43:00.000Z	brian_		fujitsu and liable: imsorry im very new to linux, what is the smp kernel?
+2006-01-14T14:43:00.000Z	brian_	trukulo	where would i get the smp kernel?
+2006-01-14T14:43:00.000Z	Fujitsu	brian_	Install linux-image-686-smp

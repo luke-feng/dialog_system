@@ -1,0 +1,6 @@
+2012-02-12T18:54:00.000Z	zer0-day		-> anyone know the solution /usr/bin/ld: /usr/lib/x86_64-linux-gnu/libgtk-x11-2.0.so: undefined reference to symbol?
+2012-02-12T18:56:00.000Z	acicula	zer0-day	it means that the loader encountered a symbol it cannot find. typically its a compiling issue where you are trying to run a program with different libs
+2012-02-12T19:01:00.000Z	acicula	zer0-day	please ask your questions here instead of in a pm.
+2012-02-12T19:17:00.000Z	acicula	zer0-day	this is a bit outside of scope for this channel tbh, but if you read the pastebin it already tells you what to do. symbols from the gtk libs are missing, but prsent in the lib/x86_64/gdB.* lib, try adding the flags to the linker. basically its telling you that you should add a library reference to /usr/lib/x86_64 for the linker to look In
+2012-02-12T19:18:00.000Z	acicula	zer0-day	could also be
+2012-02-12T19:19:00.000Z	acicula	zer0-day	that you are trying to link to stuff in lib while you should be linking to stuff in x86`_64 only. seem to recall that lib might just be 32bit

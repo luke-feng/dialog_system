@@ -1,0 +1,6 @@
+2011-09-19T23:56:00.000Z	BarkingFish	SIFTU	- I've never known rm -rf to be undo-able. If it is, I wish I'd known years ago, I've lost upwards of a half million mp3s because of that :)
+2011-09-20T00:07:00.000Z	SIFTU	BarkingFish	well it can be recovered.. if the deleted file hasnt been over written yet
+2011-09-20T00:09:00.000Z	SIFTU	BarkingFish	trinimoses http://www.youtube.com/watch?v=X91sKWXqW6w
+2011-09-29T02:39:00.000Z	SIFTU	BarkingFish	its hitting the mbr
+2011-09-29T02:40:00.000Z	BarkingFish	SIFTU	so it's picking up the USB boot record, but not going any further, right?
+2011-09-29T02:40:00.000Z	SIFTU	BarkingFish	yes

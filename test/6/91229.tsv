@@ -1,0 +1,6 @@
+2007-10-08T05:10:00.000Z	Ashfire908		does ubuntu come with the "Advanced Bash-Scripting Guide" in the help center program?
+2007-10-08T05:11:00.000Z	Lamego	Ashfire908	no, not on the help center
+2007-10-08T05:12:00.000Z	Lamego	Ashfire908	apt-cache search advanced bash scripting
+2007-10-08T05:12:00.000Z	Ashfire908	Lamego	still on 7.04
+2007-10-08T05:13:00.000Z	Lamego	Ashfire908	it should be an architecture independent package (.all), which you can install from packages.ubuntu.com
+2007-10-08T05:14:00.000Z	Ashfire908	Lamego	eh, i'll just access it from the web

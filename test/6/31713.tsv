@@ -1,0 +1,6 @@
+2009-09-11T08:31:00.000Z	herenbdy_		hello, how can I get SSH access into a friend's computer?
+2009-09-11T08:31:00.000Z	Ubuntu_Helper_00	herenbdy_	With his password
+2009-09-11T08:32:00.000Z	Ubuntu_Helper_00	herenbdy_	With that same way. When you ssh into the computer you use the same username and password as if by logging in locally.
+2009-09-11T08:32:00.000Z	herenbdy_	Ubuntu_Helper_00	thanks... then I can use ssh his_ip_address ?
+2009-09-11T08:33:00.000Z	Ubuntu_Helper_00	herenbdy_	Yes exactly.
+2009-09-11T08:34:00.000Z	Ubuntu_Helper_00	herenbdy_	You can also use SFTP to transfer files.

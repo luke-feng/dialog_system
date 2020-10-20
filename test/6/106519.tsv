@@ -1,0 +1,6 @@
+2007-01-26T09:19:00.000Z	devilsadvocate		im having trouble mounting my ubuntu drive on windows using the ext2 ifs.. can anyone help me? it says the drive is not formatted
+2007-01-26T09:19:00.000Z	snail	devilsadvocate	windows basically can't mount ext2
+2007-01-26T09:19:00.000Z	devilsadvocate		i know mooky
+2007-01-26T09:20:00.000Z	snail	devilsadvocate	you need to use FAT / NTFS
+2007-01-26T09:20:00.000Z	devilsadvocate	snail	i know. i used a kernel module that adds ext support to windows
+2007-01-26T09:21:00.000Z	snail	devilsadvocate	we're not telepathic. competely describe your problem or go hassle someone else

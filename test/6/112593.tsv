@@ -1,0 +1,6 @@
+2006-07-07T14:11:00.000Z	Daveyboy		what port does samba run on?
+2006-07-07T05:18:00.000Z	Daveyboy		can you look at this error code please http://pastebin.ca/81327
+2006-07-07T05:19:00.000Z	Daveyboy		can you look at this error code please http://pastebin.ca/81327
+2006-07-07T05:20:00.000Z	Daveyboy		can you look at this error code please http://pastebin.ca/81327
+2006-07-07T05:21:00.000Z	Xappe	Daveyboy	do you have make installed? (or build-essential, apt-get install build-essential)
+2006-07-07T05:21:00.000Z	Daveyboy	Xappe	how do i test for make installed?

@@ -1,0 +1,6 @@
+2007-10-19T22:47:00.000Z	cousin_luigi		usb is evil
+2007-10-19T22:49:00.000Z	ganesh	cousin_luigi	before logging in a warning "ubuntu is running in low graphics mode graphics may not be detected configure manually"can u help me?
+2007-10-19T22:53:00.000Z	cousin_luigi	ganesh	not sure... how did that happen?
+2007-10-19T22:55:00.000Z	cousin_luigi	ganesh	what if you stop gdm and do a startx from console
+2007-10-19T22:55:00.000Z	cousin_luigi	ganesh	you will have some immediate log
+2007-10-19T22:59:00.000Z	cousin_luigi	ganesh	I'm sorry... not sure how to help you

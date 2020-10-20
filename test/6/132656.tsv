@@ -1,0 +1,6 @@
+2007-04-22T08:41:00.000Z	TokenBad		what does this mean: Setting up k3d (0.6.6.0.ds1-1) ...
+2007-04-22T08:41:00.000Z	TokenBad		WARNING: compile error while trying to byte-compile /usr/share/k3d/tutorials/gts_boolean.py: Sorry: TypeError: ('compile() expected string without null bytes',)
+2007-04-22T08:43:00.000Z	TokenBad		what does this mean? WARNING: compile error while trying to byte-compile /usr/share/k3d/tutorials/gts_boolean.py: Sorry: TypeError: ('compile() expected string without null bytes',)
+2007-04-22T08:44:00.000Z	Fujitsu	TokenBad	It means that you should look for a bug report, and file one if it isn't already there. Something is broken.
+2007-04-22T08:44:00.000Z	TokenBad	Fujitsu	ok how do I do the bug report?
+2007-04-22T08:45:00.000Z	Fujitsu	TokenBad	It's bug #91392

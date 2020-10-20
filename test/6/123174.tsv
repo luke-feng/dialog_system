@@ -1,0 +1,6 @@
+2009-04-24T05:27:00.000Z	miickee		Hey, sdparm and hdparm will not work to set dma.. I need to because I need to install freenas bsd server on and it needs dma. All threads on this subject discuss everything but how to fix the problem
+2009-04-24T05:28:00.000Z	miickee		So how i set dma when it says "HDIO_SET_DMA failed: Inappropriate ioctl for device ubuntu"
+2009-04-24T05:28:00.000Z	miickee		Anyone know about this error:HDIO_SET_DMA failed: Inappropriate ioctl for device ubuntu
+2009-04-24T05:29:00.000Z	miickee		Anyone know what I can do to avoid this error while trying to set dma "HDIO_SET_DMA failed: Inappropriate ioctl for device ubuntu"
+2009-04-24T05:31:00.000Z	miickee		I love how helpful the ubuntu community is. Can anyone help me this this error "HDIO_SET_DMA failed: Inappropriate ioctl for device ubuntu"
+2009-04-24T05:32:00.000Z	Scunizi	miickee	looks like nobody in here has experience with that.. might try #ubuntu-server

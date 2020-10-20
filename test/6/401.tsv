@@ -1,0 +1,6 @@
+2012-10-29T04:33:00.000Z	PatrickDickey		!grub | taylor1
+2012-10-29T04:33:00.000Z	PatrickDickey		That'll help you to edit the grub files.
+2012-10-29T04:35:00.000Z	PatrickDickey		And taylor1, here's a link that explains what nomodset is doing http://askubuntu.com/questions/207175/what-does-nomodeset-do
+2012-10-29T04:37:00.000Z	schmitt9531	PatrickDickey	Are you familiar with ubuntu's default setup with qemu+kvm?
+2012-10-29T04:37:00.000Z	schmitt9531		I'm having issues with qemu:///session trying to connect to the qemu system libvirt daemon
+2012-10-29T04:38:00.000Z	PatrickDickey	schmitt9531	no, i'm not. I've never actually tried quemu or kvm. I always use third party stuff like Virtualbox or VMWare.

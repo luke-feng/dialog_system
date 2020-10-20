@@ -1,0 +1,6 @@
+2011-11-15T02:17:00.000Z	rich3		can i mount my /dev/sda1 in several different directories?
+2011-11-15T02:17:00.000Z	rich3		at once?
+2011-11-15T02:17:00.000Z	iceroot	rich3	no
+2011-11-15T02:17:00.000Z	iceroot	rich3	use symlinks instead
+2011-11-15T02:17:00.000Z	iceroot	rich3	but normally sda1 i / or /boot so dont mess the system with symlinks
+2011-11-15T02:18:00.000Z	iceroot	rich3	ok

@@ -1,0 +1,6 @@
+2009-05-06T02:49:00.000Z	sjzzalx		Hey, Ubuntu has a version of kdiff3 that makes git mergetool die
+2009-05-06T02:49:00.000Z	sjzzalx		Someone should update it.
+2009-05-06T02:49:00.000Z	sjzzalx		I don't like going the slow way, you dudes
+2009-05-06T02:50:00.000Z	hatter243	sjzzalx	nothing gets fixed if no one tells us what's wrong
+2009-05-06T02:55:00.000Z	sjzzalx	hatter243	Slart: https://bugs.launchpad.net/ubuntu/+bug/372454
+2009-05-06T02:55:00.000Z	hatter243	sjzzalx	thanks!

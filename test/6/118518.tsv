@@ -1,0 +1,6 @@
+2011-07-30T23:53:00.000Z	morph3k		guys i need some advice
+2011-07-30T23:53:00.000Z	morph3k		http://pastebin.com/VmV0jx9u
+2011-07-30T23:53:00.000Z	morph3k		i cant figure out what the problem is here
+2011-07-30T23:54:00.000Z	ikonia	morph3k	that file is meant for debian
+2011-07-30T23:55:00.000Z	ikonia	morph3k	it's for debian
+2011-07-30T23:57:00.000Z	ikonia	morph3k	run "file mediainfo_0.7.47-1_amd64.Debian_5.deb"

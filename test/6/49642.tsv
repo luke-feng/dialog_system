@@ -1,0 +1,6 @@
+2008-10-20T17:22:00.000Z	LjjjL		if my neighbors are using wifi channels 1, 6 and 11 (and 5 with very weak signal), is there any preferred channel i'd best put my own network on?
+2008-10-20T17:24:00.000Z	jrib	LjjjL	gnome-open is broken in 8.04, gvfs-open does the right thing
+2008-10-20T17:24:00.000Z	LjjjL	jrib	how broken?
+2008-10-20T17:25:00.000Z	jrib	LjjjL	doesn't respect your default apps
+2008-10-20T17:26:00.000Z	LjjjL	jrib	uhm gvfs-open isn't provided by default though is it?
+2008-10-20T17:27:00.000Z	jrib	LjjjL	right

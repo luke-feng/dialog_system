@@ -1,0 +1,6 @@
+2007-05-08T13:28:00.000Z	sotzing		has anyone heard of a problem logging into Ubuntu 6.10 as root after a fresh install?  i can use sudo (it accepts the password) but when I run su, or try to login from the X login dialogue is says password incorrect
+2007-05-08T13:29:00.000Z	sotzing		=/
+2007-05-08T13:29:00.000Z	eyequeue	sotzing	you seem to be logging in using gdm, right?  reconfigure it to accept root logins, if that's what you want.  "fresh install" means you have the defaults, and ot defaults to not allowing root (which is a wise default)
+2007-05-08T13:31:00.000Z	sotzing	eyequeue	predaeus - i don't really need to login gdm as root, but i can't even change to root in the terminal with su
+2007-05-08T13:31:00.000Z	eyequeue	sotzing	did you read the part about "sudo -i" on the web page the bot gave you?
+2007-05-08T13:36:00.000Z	sotzing	eyequeue	RAOF, predaeus - ahhhh thanks for your help

@@ -1,0 +1,6 @@
+2008-01-17T15:55:00.000Z	bullgard4		I have read 'man telinit' but not understood in what situation one would instruct 'telinit 2'.
+2008-01-17T15:55:00.000Z	zt34528	bullgard4	telinit 2 tells init to change to runlevel 2
+2008-01-17T15:55:00.000Z	zt34528	bullgard4	if you are already in runlevel 2, it's pointless
+2008-01-17T15:56:00.000Z	bullgard4	zt34528	I know that and I have asked in what situations I might need to to give such an instruction.
+2008-01-17T15:58:00.000Z	zt34528	bullgard4	for example if you have defined runlevel 5 as a set of services without sshd and without gdm, you would change to that set of services with telinit 5 (or simply init 5)
+2008-01-17T15:59:00.000Z	bullgard4	zt34528	I see.

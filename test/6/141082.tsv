@@ -1,0 +1,6 @@
+2005-12-25T10:59:00.000Z	loorni		Where can I remove programs installed like Open Office?
+2005-12-25T10:59:00.000Z	deltron	loorni	synaptic can
+2005-12-25T10:59:00.000Z	deltron		or apt-get remove
+2005-12-25T11:01:00.000Z	loorni	deltron	Is there somewhere a list what programs there are installed
+2005-12-25T11:03:00.000Z	deltron	loorni	it's somewhere under system that shows all installed apps I think
+2005-12-25T11:03:00.000Z	deltron	loorni	if not, synaptic can filter it I believe

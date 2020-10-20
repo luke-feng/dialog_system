@@ -1,0 +1,6 @@
+2007-11-04T19:46:00.000Z	Sinlore_		Anyone here know how to install Steam into Wine?
+2007-11-04T19:47:00.000Z	Sinlore_		Can someone help me install Steam using Wine??
+2007-11-04T19:48:00.000Z	compwiz18	Sinlore_	tried any guides?
+2007-11-04T19:49:00.000Z	Sinlore_	compwiz18	Yes, although I'm still having troubles. I have the SteamInstall.MSI on my desktop, but can't figure out what to do from there.
+2007-11-04T19:49:00.000Z	compwiz18	Sinlore_	just a guess, open a terminal and run wine ~/Desktop/SteamInstall.MSI
+2007-11-04T19:50:00.000Z	Sinlore_	compwiz18	I get "bash: /home/sinlore/Desktop/SteamInstall.msi: Permission denied" when I used the command.

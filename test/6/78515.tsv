@@ -1,0 +1,6 @@
+2010-11-27T01:51:00.000Z	s3a		Could someone please tell me why I get this error message?: "mount: you must specify the filesystem type"      http://pastebin.com/XYA4mxVe
+2010-11-27T01:51:00.000Z	s3a		(Ubuntu 9.10 live cd)
+2010-11-27T01:51:00.000Z	s3a		32-bit
+2010-11-27T01:52:00.000Z	thunkee	s3a	the mountpoint is not listed in /etc/fstab
+2010-11-27T01:52:00.000Z	s3a		mount -t ext3     ?
+2010-11-27T01:52:00.000Z	s3a	thunkee	what do i put there exactly?

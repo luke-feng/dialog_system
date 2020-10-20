@@ -1,0 +1,6 @@
+2009-05-14T10:34:00.000Z	simoncpu		hello
+2009-05-14T10:34:00.000Z	simoncpu		do you guys know the path where virtualbox installs its guest os?
+2009-05-14T10:34:00.000Z	simoncpu		virtualbox seems to have been mysteriously deleted from our system
+2009-05-14T10:34:00.000Z	ttmrichter	simoncpu	VirtualBox puts all its stuff under ~/.VirtualBox, I think.
+2009-05-14T10:35:00.000Z	ttmrichter	simoncpu	It got a better offer from Oracle.  :D
+2009-05-14T10:36:00.000Z	ttmrichter	simoncpu	Not thus far, I don't think.  There is work on standardizing virtual machine file formats though.

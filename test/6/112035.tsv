@@ -1,0 +1,6 @@
+2007-10-22T05:02:00.000Z	radioaktivstorm		hello, is there a way i can make a connection to an open wireless network and maintain it? ive got the broadcom 4306 wireless enabled through fwcutter.
+2007-10-22T05:03:00.000Z	astro76	radioaktivstorm	I have a 4306 that works flawlessly... you see networks and can connect, but it drops?
+2007-10-22T05:04:00.000Z	radioaktivstorm	astro76	some of the time i can connect some of the time i can only see the networks and cannot connect... its driving me batty; i need my wireless to get work done :(
+2007-10-22T05:05:00.000Z	radioaktivstorm	astro76	i tried to do network-manager, wifi-radar, and even attempted very unsuccessfully to get wicd to work
+2007-10-22T05:09:00.000Z	radioaktivstorm	astro76	if it helps any, I am running a dell d800, using the bcm 4306 with bcm43xx-fwcutter from the resricte drivers manager. I used ndiswrapper on feisty, but it was fussy too.
+2007-10-22T05:10:00.000Z	astro76	radioaktivstorm	not really,  it just worked for me on feisty on my hp after installing the firmware, sorry

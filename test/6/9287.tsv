@@ -1,0 +1,6 @@
+2011-05-24T09:13:00.000Z	rob_p	brandenburg	No.  It just means the kernel module you tried to load doesn't exist.
+2011-05-24T09:18:00.000Z	brandenburg	rob_p	i just reloaded the synaptic packages, and all are already installed, or at least thats what the terminal said
+2011-05-24T09:23:00.000Z	rob_p	brandenburg	Well, your system didn't find that kernel module so it complained. Whatever the reason it's not there, I don't know.  But you were worried that your wireless interface had, "died" and I was only letting you know that the error you saw was not trying to tell you that! :)
+2011-05-24T09:28:00.000Z	rob_p	brandenburg	Are you following the info listed here: https://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx
+2011-05-24T09:32:00.000Z	brandenburg	rob_p	 yes that is the link i was following
+2011-05-24T09:38:00.000Z	brandenburg	rob_p	 also I should make you aware that my wireless card was 'having issues' prior to Ubuntu install.  im running an hp:dv2000, had the MB replaced by HP [faulty; were under a law suit] and the wireless card was intermittent at the time but wasnt covered and was expensive so i opted to deal with intermittent.  I installed Ubuntu because Windows Vista had a Windows Virus.

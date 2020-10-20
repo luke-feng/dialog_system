@@ -1,0 +1,6 @@
+2009-01-28T23:45:00.000Z	quizme		how do i install a *.deb file?
+2009-01-28T23:45:00.000Z	quizme		apt-get install blah.deb ?
+2009-01-28T23:45:00.000Z	unop	quizme	 sudo dpkg -i  file.deb
+2009-01-28T23:45:00.000Z	quizme	unop	thanks
+2009-06-22T05:21:00.000Z	quizme	unop	thanks again
+2009-06-22T05:20:00.000Z	unop	quizme	sed -i ...

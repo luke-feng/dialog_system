@@ -1,0 +1,6 @@
+2009-01-30T01:52:00.000Z	thebishop		what's the best way to convert audio formats?  Soundconverter isn't working for me
+2009-01-30T01:53:00.000Z	mogwai	thebishop	You could try Audacity
+2009-01-30T01:53:00.000Z	thebishop	kfogel	meh, that's a pretty heavyweight app.  I've got a bunch of wavs I want to be mp3, but sometimes i have flac.  isn't there some lightweight app that can batch process?
+2009-01-30T01:54:00.000Z	thebishop	kfogel	i used to have a nautilus script that did it
+2009-01-30T01:54:00.000Z	mogwai	thebishop	but it depends on what format the file is in and what format you want to convert it to
+2009-01-30T01:55:00.000Z	mogwai	thebishop	you could whack together a script and use mencoder on the command-line

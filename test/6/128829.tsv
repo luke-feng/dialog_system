@@ -1,0 +1,6 @@
+2007-07-12T05:25:00.000Z	Paul^		can anyone point me in the right direction? I'd like to make spiffy domain names for my LAN intranet. like dc.tb.lan or www.tb.lan or um.. well, things like that
+2007-07-12T05:25:00.000Z	astro76	Paul^	you can add them to /etc/hosts
+2007-07-12T05:29:00.000Z	astro76	Paul^	sure if you're running a dns server you can add them
+2007-07-12T05:29:00.000Z	Paul^	astro76	I'm stil um.. finding out how stuff works, but you'd say that would be managable on bind9?
+2007-07-12T05:30:00.000Z	astro76	Paul^	I believe so
+2007-07-12T05:30:00.000Z	Paul^	astro76	k, awesome, then I'm gonna find out :))

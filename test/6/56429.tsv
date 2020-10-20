@@ -1,0 +1,6 @@
+2008-07-15T16:31:00.000Z	Harde		When I try to install Gambas2, it tells me to put cd-rom on. I've got no cd-rom (Hardy) right now, what's wrong?
+2008-07-15T16:33:00.000Z	bringatowel	Harde	if you have the CD, put it in. otherwise, go to System -> Admin -> Software sources, and make sure something is selected for download sources
+2008-07-15T16:34:00.000Z	bringatowel		!universe the9a3eedi
+2008-07-15T16:34:00.000Z	bringatowel		!universe | the9a3eedi
+2008-07-15T16:35:00.000Z	bringatowel		!rpm
+2008-07-15T16:36:00.000Z	Harde	bringatowel	I took cd-option away from sources, all is well now

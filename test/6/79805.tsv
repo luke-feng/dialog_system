@@ -1,0 +1,6 @@
+2007-09-01T16:35:00.000Z	lucashungaro	scipio	okay... I'm trying to be sure that I'm not going to lose my files... I have a 200GB hd, I want three partitions on it: 30 GB for Linux, ? GB for Swap and the remainder for my files
+2007-09-01T16:36:00.000Z	scipio	lucashungaro	well if you already have files on it you know that there is no way to be 100% sure you won't lose something in the partitioning process. that being said i've done it many times without problems. swap size is dependant on your ram. how much for you?
+2007-09-01T16:37:00.000Z	lucashungaro	scipio	1 gb
+2007-09-01T16:37:00.000Z	scipio	lucashungaro	1 G of swap is enough then i think. ask again see if there are other opinions
+2007-09-01T16:38:00.000Z	lucashungaro	scipio	ok, thank you very much
+2007-09-01T16:38:00.000Z	scipio	lucashungaro	you're welcome

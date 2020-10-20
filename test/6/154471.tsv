@@ -1,0 +1,6 @@
+2005-10-20T15:22:00.000Z	sunshine		liable
+2005-10-20T15:22:00.000Z	sunshine		liable  wrong fs type, bad option, bad superblock on /dev/hdb1,
+2005-10-20T15:23:00.000Z	sunshine		       missing codepage or other error
+2005-10-20T15:23:00.000Z	sunshine		       In some cases useful info is found in syslog - try
+2005-10-20T15:23:00.000Z	sunshine		       dmesg | tail  or so
+2005-10-20T15:24:00.000Z	ompaul	sunshine	to paste use paste.ubuntulinux.nl

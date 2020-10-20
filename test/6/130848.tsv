@@ -1,0 +1,6 @@
+2007-10-31T15:04:00.000Z	jburd		Can one attach tags to file system objects?
+2007-10-31T15:04:00.000Z	jburd		I don't like organizing files in directory trees.  I'd rather use tags instead.
+2007-10-31T15:06:00.000Z	jburd		I think we'll need a file system that explicitly does tagging.
+2007-10-31T15:07:00.000Z	gordonjcp	jburd	a filesystem that "does" tagging?
+2007-10-31T15:07:00.000Z	jburd	gordonjcp	"can handle"
+2007-10-31T15:07:00.000Z	gordonjcp	jburd	ext3 and extended attributes?

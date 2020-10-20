@@ -1,0 +1,6 @@
+2009-06-01T11:42:00.000Z	SkyNetMaster		any ideas how to brake usb port free?
+2009-06-01T11:43:00.000Z	robtp	SkyNetMaster	which port is it?
+2009-06-01T11:43:00.000Z	SkyNetMaster	robtp	it is usb port,
+2009-06-01T11:43:00.000Z	SkyNetMaster	robtp	it is busy for some reason and I cant access it
+2009-06-01T11:44:00.000Z	robtp	SkyNetMaster	its busy so you cant swuspend?
+2009-06-01T11:45:00.000Z	SkyNetMaster	robtp	I saw that ksuspend had that port, so I killed it, but I m still unable to access it

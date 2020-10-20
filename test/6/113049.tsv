@@ -1,0 +1,6 @@
+2006-11-17T17:41:00.000Z	Juanchito2006		Hello again, I've sucessfully intalled xubuntu - I think so - but when I restart i get an error message fron GRUB which is showing ERROR 21, So I couldn't run it. I was trying to dualboot with Windows xp
+2006-11-17T17:42:00.000Z	Juanchito2006		Hello? Nobody cares?
+2006-11-17T17:43:00.000Z	Juanchito2006		Where's the sheep when needed?
+2006-11-17T17:43:00.000Z	Jack_Sparrow	Juanchito2006	Try a little patience
+2006-11-17T17:45:00.000Z	Jack_Sparrow	Juanchito2006	Can you bring up either OS on your dual boot?
+2006-11-17T17:46:00.000Z	Jack_Sparrow	Juanchito2006	Once you repair the mbr with fdisk you dont have grub..

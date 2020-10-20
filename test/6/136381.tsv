@@ -1,0 +1,6 @@
+2005-12-20T09:06:00.000Z	ajulius		how do i scan my ports in linux?
+2005-12-20T09:06:00.000Z	ajulius		to see whos using my active ports
+2005-12-20T09:08:00.000Z	ajulius		whos using a fake firewall
+2005-12-20T09:08:00.000Z	ajulius		whatever comes in ubuntu i mean
+2005-12-20T09:09:00.000Z	_jason	ajulius	capital L: iptables -L
+2005-12-20T09:10:00.000Z	_jason	ajulius	you don't need anything with a default install, ubuntu has no services running to make you vulnerable

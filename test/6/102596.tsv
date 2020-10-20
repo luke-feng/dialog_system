@@ -1,0 +1,6 @@
+2010-06-15T10:48:00.000Z	grumbly		hey all... How can I tell/discover if my computer uses an EFI or is compatible with it?  Forgive the newbieness of this
+2010-06-15T10:48:00.000Z	grumbly		please
+2010-06-15T10:48:00.000Z	Jordan_U	grumbly	If it's not a mac then even if it is EFI compatible, you probably don't want to use EFI.
+2010-06-15T10:49:00.000Z	grumbly	Jordan_U	why is that?  and no, it's an Asus k50
+2010-06-15T10:51:00.000Z	Jordan_U	grumbly	EFI implementations tend to be more buggy than BIOS implementations, and EFI doesn't really present many advantages over BIOS. Also, most FOSS developers that have to work with EFI dislike it.
+2010-06-15T10:51:00.000Z	grumbly	Jordan_U	point well taken... however, how can I discern the efi compatibility of my present laptop?

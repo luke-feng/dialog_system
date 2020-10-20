@@ -1,0 +1,6 @@
+2011-10-17T18:31:00.000Z	jbkc85		how do i configure unity to automatically start up?  It is turned off on my user for some reason
+2011-10-17T18:32:00.000Z	jbkc85		I have to actively open terminal to get it to work
+2011-10-17T18:32:00.000Z	jbkc85		unity --reset doesn't work either
+2011-10-17T18:32:00.000Z	jatt	jbkc85	sudo apt-get install gdm
+2011-10-17T18:32:00.000Z	jbkc85	jatt	at newest version
+2011-10-17T18:32:00.000Z	jbkc85	jatt	Uninstall and reinstall maybe?  This appears to be a profile issue; it works fine on other users

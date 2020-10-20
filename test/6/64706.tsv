@@ -1,0 +1,6 @@
+2009-04-30T23:41:00.000Z	maginot		on cups when you print a file who converts the file to ps to be sent to printer?
+2009-04-30T23:42:00.000Z	erUSUL	maginot	depends on filtype i guess but ghostscript
+2009-04-30T23:43:00.000Z	maginot	erUSUL	so ... its   [ pdf file -> cups -> gs filter -> printer ?
+2009-04-30T23:44:00.000Z	erUSUL	maginot	yep
+2009-04-30T23:45:00.000Z	maginot	erUSUL	 so its not even converted to ps ?
+2009-04-30T23:46:00.000Z	erUSUL	maginot	http://en.wikipedia.org/wiki/Common_Unix_Printing_System#Filter_system

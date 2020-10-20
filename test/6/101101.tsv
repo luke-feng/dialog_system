@@ -1,0 +1,6 @@
+2006-11-19T14:24:00.000Z	revartj		hello
+2006-11-19T14:24:00.000Z	revartj		somebody help me, with scanner
+2006-11-19T14:24:00.000Z	revartj		the scanner is HP SCANJET 4400C
+2006-11-19T14:24:00.000Z	revartj		i don't know, how configure it
+2006-11-19T14:25:00.000Z	revartj		helppp
+2006-11-19T14:25:00.000Z	nandhp	revartj	try using Graphics->XSane. I can't help you very much using it though. But if it finds a scanner it should work.

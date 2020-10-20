@@ -1,0 +1,6 @@
+2005-04-20T14:13:00.000Z	FreezerX		How can I check if dma is enable. I am copying a large file from cdrom to hd, and everything is much slower
+2005-04-20T14:13:00.000Z	Seveas	FreezerX	sudo hdparm -d /dev/hda (or your harddisks device)
+2005-04-20T13:08:00.000Z	Seveas	FreezerX	checkt the mplayer.conf, see is the sound device is set to esd
+2005-04-20T13:13:00.000Z	FreezerX	Seveas	thanks, with esd mplayer plays my file :-)
+2005-04-20T13:13:00.000Z	Seveas	FreezerX	yw :)
+2005-05-24T05:42:00.000Z	Seveas	FreezerX	hm?

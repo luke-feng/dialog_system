@@ -1,0 +1,6 @@
+2006-03-14T13:52:00.000Z	keithhhhhhhhh		Hi, I have a full version windows xp and ubuntu linux running, can I use vmware to access my windows xp inside linux??
+2006-03-14T13:53:00.000Z	reinheart	keithhhhhhhhh	: No.  VMWare is a virtual machine and you have to install Windows XP inside it again
+2006-03-14T13:53:00.000Z	keithhhhhhhhh	reinheart	- is there anyway to do what I said?
+2006-03-14T13:54:00.000Z	reinheart	keithhhhhhhhh	: Depends on how you define "access"
+2006-03-14T13:54:00.000Z	reinheart	keithhhhhhhhh	: If you meant accessing the partition and running Windows programs you need Wine
+2006-03-14T13:54:00.000Z	keithhhhhhhhh	reinheart	- I meant run windows programs

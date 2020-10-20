@@ -1,0 +1,6 @@
+2009-02-08T17:50:00.000Z	rakudave	jfcgauss_	have you tried to unmount it in a terminal? "sudo umount /media/cdrom"
+2009-02-08T17:50:00.000Z	rakudave		!sound | ronny
+2009-02-08T17:52:00.000Z	jfcgauss_	rakudave	tried sudo umount but it said /media/cdrom0: device is busy
+2009-02-08T17:53:00.000Z	rakudave	jfcgauss_	here is a tutorial on how to unmount busy drives: http://ocaoimh.ie/2008/02/13/how-to-umount-when-the-device-is-busy/
+2009-02-08T17:54:00.000Z	jfcgauss_	rakudave	im not sure i need to umount the cdrom, but instead kill the daemon that makes it busy, is it not?
+2009-02-08T17:55:00.000Z	rakudave	jfcgauss_	yes, something is blocking the unmount, so kill it

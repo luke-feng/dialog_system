@@ -1,0 +1,6 @@
+2006-10-05T05:39:00.000Z	chupacabra		is there a list of ubuntu packages?  I cannot find mc.
+2006-10-05T05:39:00.000Z	chupacabra		in the online packages.
+2006-10-05T05:40:00.000Z	sethk	chupacabra	you mean the program mc?
+2006-10-05T05:40:00.000Z	sethk	chupacabra	package name is mc
+2006-10-05T05:40:00.000Z	sethk	chupacabra	so   sudo apt-get install mc
+2006-10-05T05:40:00.000Z	sethk	chupacabra	if you don't find it, your repository list needs work

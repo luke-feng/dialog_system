@@ -1,0 +1,6 @@
+2010-02-25T02:48:00.000Z	CamFox	switchgirl	why do you want to do that?
+2010-02-25T02:49:00.000Z	CamFox	switchgirl	possibly because too many people on your isp are running network hungry scripts every 5 minutes :-)
+2010-02-25T02:51:00.000Z	CamFox	switchgirl	do you ever get good speed, or is that what you're trying to find out?
+2010-02-25T02:52:00.000Z	CamFox	switchgirl	what country/isp?
+2010-02-25T02:53:00.000Z	switchgirl	CamFox	 just trying to find out so i can log it for a year and publish my findings on my blog, get others to do the same etc and see whats what
+2010-02-25T02:54:00.000Z	CamFox	switchgirl	probably not too difficult to write a script to do this, but you'll have to do that yourself. Look in to shell scripts, wget etc...

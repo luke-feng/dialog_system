@@ -1,0 +1,6 @@
+2006-09-11T08:05:00.000Z	lupine_85		ok, can you pastebin that console output + the current output of iwconfig and "sudo iwlist wlan0 scan" ?
+2006-09-11T08:05:00.000Z	lupine_85		!pastebin
+2006-09-11T08:07:00.000Z	lupine_85		ah :/
+2006-09-11T08:07:00.000Z	lupine_85		ok, can you tell me if "sudo iwlist wlan0 scan" gives you any results?
+2006-09-11T08:07:00.000Z	lupine_85		you'd hopefully get something like "Cell 1 -  blah"
+2006-09-11T08:07:00.000Z	Nep8750	lupine_85	it should be: sudo iwlist scan wlan0

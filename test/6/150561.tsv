@@ -1,0 +1,6 @@
+2005-10-24T16:30:00.000Z	sigwada		i really want to open my torrent files, and i download a bittorent client but when i install any theres an error. how could i resolve my problem?
+2005-10-24T16:31:00.000Z	sigwada		yeah but there is no gnome-bittorent in application>internet , it means that there is no bittorent or not yet install.
+2005-10-24T16:32:00.000Z	rob^	sigwada	click on bittorrent
+2005-10-24T16:32:00.000Z	rob^	sigwada	its installed by default
+2005-10-24T16:34:00.000Z	rob^	sigwada	open a terminal and type gnome-btdownload
+2005-10-24T16:35:00.000Z	rob^	sigwada	in a terminal type: sudo apt-get install gnome-btdownload

@@ -1,0 +1,6 @@
+2011-10-20T23:11:00.000Z	NewUbuntuDiscipl		Hello? Is this the English (US) chat channel?
+2011-10-20T23:12:00.000Z	NewUbuntuDiscipl		Okay.
+2011-10-20T23:13:00.000Z	NewUbuntuDiscipl		I'm looking for some help in installing Ubuntu on my ASUS Eee PC 1001PXD (Windows Starter pre-installed).  I don't want to delete windows and install Ubuntu over it, so I clicked on the "Something Else" button in the installation interface, but I don't know what to do next.
+2011-10-20T23:14:00.000Z	NewUbuntuDiscipl		I've googled the topic, but nothing seeems helpful
+2011-10-20T23:14:00.000Z	B0g4r7	NewUbuntuDiscipl	The usual approach is to use gparted live to reduce the size of the windows partition.
+2011-10-20T23:17:00.000Z	B0g4r7	NewUbuntuDiscipl	http://gparted.sourceforge.net/livecd.php

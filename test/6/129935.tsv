@@ -1,0 +1,6 @@
+2007-10-05T13:22:00.000Z	van		hi guys i installed kbuntu, but i cannot acces to root under shell.
+2007-10-05T13:22:00.000Z	van		someone know the reason
+2007-10-05T13:23:00.000Z	DShepherd	van	sudo -i maybe?
+2007-10-05T13:23:00.000Z	van	DShepherd	oh it work thanks yo
+2007-10-05T13:23:00.000Z	van	DShepherd	i tried su
+2007-10-05T13:23:00.000Z	DShepherd	van	ok.. kool

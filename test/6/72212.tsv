@@ -1,0 +1,6 @@
+2011-04-07T13:37:00.000Z	rodhash		rodhash@rod-t400:~$ dpkg -l | grep gnome | wc -l
+2011-04-07T13:37:00.000Z	rodhash		111
+2011-04-07T13:37:00.000Z	rodhash		There're a lot of packages from gnome2 installed.. Should I install all of them again if I decide to go back to gnome2?
+2011-04-07T13:37:00.000Z	FloodBot1	rodhash	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.
+2011-07-20T04:59:00.000Z	FloodBot1	rodhash	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.
+2011-11-26T15:00:00.000Z	FloodBot1	rodhash	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

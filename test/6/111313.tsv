@@ -1,0 +1,6 @@
+2006-08-21T06:32:00.000Z	Dimensions		another question is ... how can i auto login by default from shell instead of GUI Login windows (System-->> Preferences -->>Security -->Enable automatic) login
+2006-08-21T06:33:00.000Z	Dimensions		yes i did bimberi ...
+2006-08-21T06:33:00.000Z	lamego	Dimensions	what are you tring to achieve ?
+2006-08-21T06:37:00.000Z	lamego	Dimensions	why do you need to autologin in case of a power failure ?
+2006-08-21T06:40:00.000Z	Dimensions	lamego	... well i have deployed some computer some where ... if power failure occurs and system reboots ... i can't manually login so i want to enable auto login for those systems ...
+2006-08-21T06:41:00.000Z	lamego	Dimensions	why do you need to autologin to login ?

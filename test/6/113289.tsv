@@ -1,0 +1,6 @@
+2009-05-29T18:37:00.000Z	Guest42447		is there a default root password?
+2009-05-29T18:37:00.000Z	Jack_Sparrow	Guest42447	the password for the first default account
+2009-05-29T18:44:00.000Z	Jack_Sparrow	Guest42447	To get live cd to run this often helps..At start or install press F4 and select safe graphics mode then press F6 and remove Quiet and Splash from the command line. If it still fails.. Repeat and after removing quiet and splash use the noapic acpi=off options before the "--"
+2009-05-29T18:46:00.000Z	Jack_Sparrow	Guest42447	One sec
+2009-05-29T18:47:00.000Z	Jack_Sparrow	Guest42447	If you get a blank screen, try ctrl-alt-F2 and see if you get a terminal
+2009-05-29T18:47:00.000Z	Jack_Sparrow	Guest42447	That will be an indicator that the video detection went wrong

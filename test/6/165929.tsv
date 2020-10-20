@@ -1,0 +1,6 @@
+2005-10-08T16:09:00.000Z	Stricklin		!tell Stricklin about fonts
+2005-10-08T16:09:00.000Z	Stricklin		An encrypted page?!?
+2005-10-08T05:18:00.000Z	Stricklin		xmms says it's playing an mp3, and my speakers are working for other things like alerts and such, but no music. Help?
+2005-10-08T05:19:00.000Z	HrdwrBoB	Stricklin	check the output plugin of XMMS in it's preferences
+2005-10-08T05:19:00.000Z	HrdwrBoB	Stricklin	change it to 'esd'
+2005-10-08T05:20:00.000Z	HrdwrBoB	Stricklin	yes, under output plugin

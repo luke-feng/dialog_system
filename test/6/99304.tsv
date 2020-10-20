@@ -1,0 +1,6 @@
+2009-03-11T09:19:00.000Z	FaMott		!Display Variable
+2009-03-11T09:19:00.000Z	FaMott		Aruumph.
+2009-03-11T09:19:00.000Z	FaMott		Need to set it to...
+2009-03-11T09:20:00.000Z	FaMott		DISPLAY=:0 ; export DISPLAY
+2009-03-11T09:20:00.000Z	FaMott		csh: setenv DISPLAY :0
+2009-03-11T09:21:00.000Z	n2diy	FaMott	are you sure of that syntax, it looks funny?

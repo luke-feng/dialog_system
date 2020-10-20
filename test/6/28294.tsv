@@ -1,0 +1,6 @@
+2009-11-07T20:22:00.000Z	natrixnatrix89		"The package adobe-flashplugin needs to be reinstalled, but I can't find an archive for it." Where can i put it so that apt-get could find it?
+2009-11-07T20:23:00.000Z	Darren-Tod	natrixnatrix89	have a look at this http://ubuntuforums.org/showthread.php?t=1315380
+2009-11-07T20:24:00.000Z	Darren-Tod	natrixnatrix89	You defo need this http://ubuntuforums.org/showthread.php?t=1315380 I had same error
+2009-11-07T20:25:00.000Z	Darren-Tod	natrixnatrix89	The reply from mac9416 fixes it.
+2009-11-07T20:27:00.000Z	natrixnatrix89	Darren-Tod	Yes. thats exactly what I was looking for. Thanks
+2009-11-07T20:27:00.000Z	Darren-Tod	natrixnatrix89	NP, I was pulling my hair out over it :)

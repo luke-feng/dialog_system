@@ -1,0 +1,6 @@
+2010-05-21T15:00:00.000Z	justme`		does ubuntu carry GTK 1?
+2010-05-21T15:00:00.000Z	jussi	justme`	I dont think it does anymore
+2010-05-21T15:01:00.000Z	jussi		got dropped sometime back
+2010-05-21T15:01:00.000Z	justme`		yeah i know it "uses" GTK 2, but i only like 1 :)
+2010-05-21T15:01:00.000Z	justme`	jussi	sounds like a compile job then
+2010-05-21T15:02:00.000Z	jussi	justme`	yeah, sounds like it. Mind, do an apt-cache search just in case Im wrong

@@ -1,0 +1,6 @@
+2012-08-09T23:53:00.000Z	mofux		hi, is there a way to upgrade to quantal alpha 3 from 12.04 via software sources?
+2012-08-09T23:53:00.000Z	primefalcon	mofux	run the command sudo update-manager -d
+2012-08-09T23:55:00.000Z	mofux	primefalcon	wow, that was easy, thanks alot
+2012-08-09T23:55:00.000Z	primefalcon	mofux	your welcome
+2012-08-09T23:56:00.000Z	primefalcon	mofux	you do realize though that 12.10 is still alpha though right
+2012-08-09T23:56:00.000Z	primefalcon	mofux	and it may not be 100% stable

@@ -1,0 +1,6 @@
+2006-05-04T10:40:00.000Z	Dark-Night		it says i need to sort out my CC Compiler so that it can compile my Kernal. dose that mean i need to install my C++ Programming files, um like gcc etc?
+2006-05-04T10:42:00.000Z	Dark-Night		A hammer helps me with that
+2006-05-04T10:42:00.000Z	Dark-Night		sudo -s
+2006-05-04T10:42:00.000Z	Dark-Night		su
+2006-05-04T10:42:00.000Z	_jason	Dark-Night	sudo -i is preferred
+2006-05-04T10:43:00.000Z	_jason	Dark-Night	-i resets the environment variables, see man sudo :)

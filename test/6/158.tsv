@@ -1,0 +1,6 @@
+2005-04-01T11:22:00.000Z	Jeezis		after install packages using apt-get do you have to reboot before you can use them?
+2005-04-01T11:22:00.000Z	jdub	Jeezis	no
+2005-04-01T11:23:00.000Z	jdub	Jeezis	what did you install?
+2005-04-01T11:24:00.000Z	jdub	Jeezis	you should be able to type all of those names in at the command line, and they will work
+2005-04-01T11:25:00.000Z	jdub	Jeezis	dpkg -L <package>
+2005-04-01T11:26:00.000Z	Jeezis	jdub	many thanks

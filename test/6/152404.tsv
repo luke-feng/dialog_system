@@ -1,0 +1,6 @@
+2005-05-28T06:47:00.000Z	nubbe		How do I schedule a fsck (with repair) on the next boot (ext3)?
+2005-05-28T06:49:00.000Z	ka24	nubbe	touch /forcefsck will do, or shutdown -F -r
+2005-05-28T06:50:00.000Z	nubbe	ka24	Thanks a lot
+2005-05-28T06:52:00.000Z	nubbe	ka24	do I need to remove /forcefsck after check or just touch it next time I need to check?
+2005-05-28T06:52:00.000Z	ka24		not sure whether it removes that or not.. my guess would be that you have to do it
+2005-05-28T06:55:00.000Z	nubbe	ka24	okidoki

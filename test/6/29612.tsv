@@ -1,0 +1,6 @@
+2009-10-21T02:46:00.000Z	Garnol9956	ZykoticK9	i need to compile the software i think
+2009-10-21T02:47:00.000Z	ZykoticK9	Garnol9956	yes typically a tar.bz2 would be source code -- perfect world -- cd into the directory and run "./configure" then "make" then "sudo make install" - but that rarely goes smoothly :)
+2009-10-21T02:48:00.000Z	Garnol9956	ZykoticK9	I dont know whats wrong with this command:sudo apt-get install cvs svn git-core mercurial
+2009-10-21T02:49:00.000Z	ZykoticK9	Garnol9956	svn is not available in my install???
+2009-10-21T02:50:00.000Z	ZykoticK9	Garnol9956	try "sudo apt-get install cvs git-core mercurial"
+2009-10-21T02:51:00.000Z	Garnol9956	ZykoticK9	ah now it works. The official ubuntu tutorial needs a correction i think

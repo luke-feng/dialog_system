@@ -1,0 +1,6 @@
+2011-12-23T06:44:00.000Z	kcm1700		bash hangs on 'git diff somebranch...[Tab]'
+2011-12-23T06:44:00.000Z	kcm1700		is it bash issue?
+2011-12-23T06:44:00.000Z	kcm1700		or git issue?
+2011-12-23T06:44:00.000Z	kcm1700		ah, no, not three dots, but four dots.
+2011-12-23T06:45:00.000Z	DrPenguin	kcm1700	id say neither
+2011-12-23T06:46:00.000Z	DrPenguin	kcm1700	well a hang would mean it would be doing nothing, and its obviously doing something

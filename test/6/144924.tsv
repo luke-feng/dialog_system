@@ -1,0 +1,6 @@
+2005-06-18T16:28:00.000Z	newbie01		has anybody an idea how to recover the partition marked in the screenshot ? http://img247.echo.cx/my.php?image=snapshot18gt.png
+2005-06-18T16:29:00.000Z	konrad	newbie01	what was this partition - fat?
+2005-06-18T16:29:00.000Z	newbie01	konrad	ext2
+2005-06-18T16:31:00.000Z	konrad	newbie01	try this :)
+2005-06-18T16:31:00.000Z	konrad	newbie01	I am not an expert in this, but it will be very hard to do this
+2005-06-18T16:34:00.000Z	konrad	newbie01	i have program to recover data from ext2, for windows, but never tested

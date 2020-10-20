@@ -1,0 +1,6 @@
+2010-07-22T18:56:00.000Z	babzog		Hi!
+2010-07-22T18:56:00.000Z	babzog		Hopefully a quick Q.
+2010-07-22T18:57:00.000Z	babzog		I am trying to compile a program (C) that links against md5.  I cannot find this lib on ubuntu 10.04... what package do I need to install to get the md5 lib for C?
+2010-07-22T18:58:00.000Z	babzog		I need libmd5.so
+2010-07-22T18:58:00.000Z	Kwpolska	babzog	search for libmd5-devel or something that contains md5 and devel
+2010-07-22T19:45:00.000Z	Kwpolska	babzog	no idea, they maybe not adde dit

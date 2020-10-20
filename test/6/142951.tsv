@@ -1,0 +1,6 @@
+2005-07-12T07:46:00.000Z	Kyral		sudo apt-get install w32codecs
+2005-07-12T07:48:00.000Z	Kyral		Hmm
+2005-07-12T07:48:00.000Z	Kyral		WTF mate, I'm finding it
+2005-07-12T07:49:00.000Z	Kyral		try this
+2005-07-12T07:49:00.000Z	Kyral		apt-cache search w32codecs
+2005-07-12T07:49:00.000Z	tjrtjiceGa	Kyral	you have, and he does not backports.

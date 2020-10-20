@@ -1,0 +1,6 @@
+2012-03-02T06:30:00.000Z	yaakow		Hello
+2012-03-02T06:30:00.000Z	yaakow		anyone to help me with an issue?
+2012-03-02T06:30:00.000Z	yaakow		please
+2012-03-02T06:31:00.000Z	MonkeyDust	yaakow	 if you're sweet
+2012-03-02T06:34:00.000Z	MonkeyDust	yaakow	 use ssh -Y to launch gparted on the remote pc, but make sure the active remote partition does not get dammaged
+2012-03-02T06:37:00.000Z	MonkeyDust	yaakow	 tricky workaround: use a live cd on the remote pc, change the network range, then ssh -Y to it and use gparted -- does that make sense?

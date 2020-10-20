@@ -1,0 +1,6 @@
+2011-02-21T19:28:00.000Z	alienkid10		I was directed to uninstall Network Manager while troubleshooting network issues how do I get it back now? I reinstalled it but it's icon doesn't appear
+2011-02-21T19:30:00.000Z	alienkid10		nm-applet is now running but no icon
+2011-02-21T19:31:00.000Z	IdleOne	alienkid10	right click on the panel and add Indicator Applet, that should put it back on the panel.
+2011-02-21T19:32:00.000Z	alienkid10	IdleOne	indicator applet is there already Banshee's icon is sitting in it
+2011-02-21T19:33:00.000Z	alienkid10		I'll try relogging in. Then I've got another odd issue be back in a sec
+2011-02-21T19:33:00.000Z	IdleOne	alienkid10	err NetworkManager Applet

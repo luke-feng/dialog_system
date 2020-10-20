@@ -1,0 +1,6 @@
+2012-04-06T17:25:00.000Z	DrCode		hi all
+2012-04-06T17:25:00.000Z	DrCode		I can\t use bluetooth headset in ubuntu 11.10
+2012-04-06T17:25:00.000Z	DrCode		I have install bluez-sco and so
+2012-04-06T17:25:00.000Z	DrCode		but still dosn't work
+2012-04-06T17:26:00.000Z	DrCode		it connec to bluetooth but no sound device, any idea?
+2012-04-06T17:27:00.000Z	Dr_willis	DrCode	  you may need to select the default audio devices using the pavchooser or pavcontrol tool.

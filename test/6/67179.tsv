@@ -1,0 +1,6 @@
+2008-07-18T02:48:00.000Z	_xyz		can I install Ubuntu and the Grub loader to one HDD while leaving the Windows HDD untouched? or do I HAVE to plug out the Windows HDD for this?
+2008-07-18T02:50:00.000Z	notwist	_xyz	you can have GRUB and list both linux and windows
+2008-07-18T02:50:00.000Z	notwist	_xyz	you can also choose windows as the default
+2008-07-18T03:11:00.000Z	_xyz	notwist	how can I make sure the GRUB writes itself to the same HDD as the Ubuntu and not to the Windows HDD?
+2008-07-18T03:25:00.000Z	notwist	_xyz	being root isnt necessary, just so you know
+2008-07-18T03:25:00.000Z	notwist	_xyz	sudo works fine :)

@@ -1,0 +1,6 @@
+2010-12-14T02:00:00.000Z	Noobster		I added backports to my /etc.apt/sources.list and installed bind9, but I get errors
+2010-12-14T02:01:00.000Z	Noobster		named -v
+2010-12-14T02:01:00.000Z	Noobster		named: error while loading shared libraries: libdns.so.69
+2010-12-14T02:02:00.000Z	Noobster		can someone help with getting bind9 installed on ubuntu 10.04 lts server?
+2010-12-14T02:03:00.000Z	guntbert	Noobster	#ubuntu-server is probably a better place for your question
+2010-12-14T02:04:00.000Z	Noobster	guntbert	thanx

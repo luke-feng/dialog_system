@@ -1,0 +1,6 @@
+2008-02-18T04:31:00.000Z	amenado		IamReck-> that is just a front end, the config file is still in /etc/network/interfaces
+2008-02-18T04:32:00.000Z	IamReck	amenado	no idea what your talking about
+2008-02-18T04:32:00.000Z	amenado		gnoshi-> cat /boot/config-`uname -r`
+2008-02-18T04:33:00.000Z	IamReck		no
+2008-02-18T04:33:00.000Z	amenado	IamReck	which part of what I said you dont understand? front end? it means what the users see..
+2008-02-18T04:34:00.000Z	IamReck	amenado	oh okay, well there was an icon with which I could see my wireless networks available to me and choose one, or choose a wired.

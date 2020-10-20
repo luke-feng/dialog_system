@@ -1,0 +1,6 @@
+2010-02-22T09:15:00.000Z	darolu		there is no xorg.conf file anymore, any idea of where can I modify whatever it uses now?
+2010-02-22T09:16:00.000Z	scunizi	darolu	xrandr controls video
+2010-02-22T09:17:00.000Z	darolu	scunizi	xrandr has a xorg.conf substitute file?
+2010-02-22T09:19:00.000Z	scunizi	darolu	xrandr will dynamically generate the appropriate settings.. the biggest question is weather or not ATI has depreciated your card in their latest drivers that are compatible with the latest X.org.. check their site first before you spinn your wheels.. look for the driver and if they mention an older driver to use they will typically say it's not compatible with the current Xorg
+2010-02-22T09:20:00.000Z	darolu	scunizi	already checked, my card is no longer supported in Linux, the "legacy driver" doesn't work with my current kernel (2.6.31)
+2010-02-22T09:20:00.000Z	scunizi	darolu	then you're stuck.. time to get a new card that is compatible or wait for the ATI drivers to catch up

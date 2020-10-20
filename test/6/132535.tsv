@@ -1,0 +1,6 @@
+2007-03-08T13:56:00.000Z	threeseas		how do I find out how much space I have avialable on the drives I have in may system?
+2007-03-08T13:56:00.000Z	mneptok	threeseas	df -h
+2007-03-08T14:02:00.000Z	mneptok	threeseas	man mount
+2007-03-08T15:27:00.000Z	mneptok	threeseas	sleep, now.
+2007-03-08T15:27:00.000Z	mneptok	threeseas	reinstall and tell the installer not to format
+2007-03-08T15:31:00.000Z	threeseas	mneptok	thats a trust thing.... since the first install didn't really make the /home partition I told it to...hmmm - it won't write to cd/dvd ...I'm being held hostage

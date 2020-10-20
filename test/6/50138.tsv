@@ -1,0 +1,6 @@
+2009-01-01T19:02:00.000Z	GodfatherofEire		OK, /NOW/ I need some help
+2009-01-01T19:03:00.000Z	GodfatherofEire		Somehow I borked the xorg in that its not loading, and I cant use sudo nano to fix it because I get the "read only file system" feedback. Help please
+2009-01-01T19:04:00.000Z	Dr_willis_	GodfatherofEire	 if  the filesystem is some how currupted. it will get mounted read only. You proberly need to 'fsck' it first and fix any errors with the filesystem first.
+2009-01-01T19:05:00.000Z	GodfatherofEire	Dr_willis_	it was working fine not 10 minutes ago, and I know its the xorg, cause it tells me that X11 cant start up, but when I go to mod xorg.conf, it doesnt save, stating that its a read only fs
+2009-01-01T19:06:00.000Z	Dr_willis_	GodfatherofEire	 if a filesystem some how triggers an error - the system will 'remount' it as read only to pervent data curruption.. this can happen '10 min ago' or at any time..chedk dmesg logs.. and i would strongly suggest booting a live cd and manyually fscking the filesystem. xorg.conf changes will not affect the filesystem. :)
+2009-01-01T19:07:00.000Z	Dr_willis_	GodfatherofEire	 assuming this is a normal install and not some live-cd you are running from now.. at least. :)

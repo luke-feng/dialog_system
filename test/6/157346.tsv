@@ -1,0 +1,6 @@
+2005-03-24T09:37:00.000Z	bretze1		Hi there, Question: I have a ttf font file, but ubuntuguide.org doesn contains guide for individual font install... How can I install that ttf font system-wide, or simply locally ?
+2005-03-24T09:39:00.000Z	thoreauputic	bretze1	try just dumping the font in ~/.fonts
+2005-03-24T09:39:00.000Z	thoreauputic	bretze1	usually works fine
+2005-03-24T09:40:00.000Z	bretze1	thoreauputic	hehehe, okay, but system-wide then ?
+2005-03-24T09:41:00.000Z	thoreauputic	bretze1	frankly I don't know - I just did it that way
+2005-03-24T09:42:00.000Z	bretze1	thoreauputic	Oh! I see /.fonts/myfont.ttf etc.. is already there... I think I need to restart xwindow ...

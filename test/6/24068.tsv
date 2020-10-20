@@ -1,0 +1,6 @@
+2011-05-15T21:00:00.000Z	kasun		Hi, I have installed another Linux distro along side Ubuntu. Now, I need to add an entry to grub. I've mounted the /boot of that distro and ran update-grub in ubuntu. It discovers the other distro, but the entry is NOT in grub.cfg.
+2011-05-15T21:00:00.000Z	kasun		can anybody help me pls
+2011-05-15T21:01:00.000Z	BluesKaj	kasun	have yoy tried rebooting update-grub?
+2011-05-15T21:02:00.000Z	kasun	BluesKaj	no, I haven't? should I?
+2011-05-15T21:04:00.000Z	kasun	BluesKaj	sure. thanks
+2011-05-15T21:11:00.000Z	kasun	BluesKaj	so i rebooted, still no luck

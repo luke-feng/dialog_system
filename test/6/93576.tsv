@@ -1,0 +1,6 @@
+2007-05-01T10:37:00.000Z	deadeyes		what is the tool to shut down services permanently in ubuntu?
+2007-05-01T10:37:00.000Z	deadeyes		or start them on bootup
+2007-05-01T10:39:00.000Z	deadeyes		what is the tool to change which services start at bootup in ubuntu?
+2007-05-01T10:39:00.000Z	concept10	deadeyes	sysv-rc-conf
+2007-05-01T10:39:00.000Z	deadeyes	concept10	thanks!
+2007-05-01T10:40:00.000Z	concept10	deadeyes	np, use with caution

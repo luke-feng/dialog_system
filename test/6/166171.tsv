@@ -1,0 +1,6 @@
+2005-11-19T17:01:00.000Z	d_pelaez		Hello everyone
+2005-11-19T17:02:00.000Z	d_pelaez		I have a weird problem in my 5.10 ubuntu
+2005-11-19T17:02:00.000Z	d_pelaez		anyone can help
+2005-11-19T17:03:00.000Z	d_pelaez		when i try to open any app in the System -> Administration menu, it prompts me to type a password, it does not say it's the root password. However i've typed root passwd and sometime it does not say the pass is wrong, but it keep on loading the program and no program is openes, anyone can help me please?
+2005-11-19T17:03:00.000Z	bob2	d_pelaez	it's asking for your password
+2005-11-19T17:03:00.000Z	bob2	d_pelaez	please don't enable rhe root account

@@ -1,0 +1,6 @@
+2005-10-08T06:32:00.000Z	mkyb14		is there a way to upgrade from hoary to breezy through terminal?
+2005-10-08T06:33:00.000Z	mkyb14		i did the dist-upgrade
+2005-10-08T06:33:00.000Z	mkyb14		so that means i'm at 5.10
+2005-10-08T06:33:00.000Z	kbrooks	mkyb14	cat /etc/issue
+2005-10-08T06:35:00.000Z	kbrooks	mkyb14	type /topic
+2005-10-08T06:36:00.000Z	kbrooks	mkyb14	type this and exactly this: '/topic', no quotes

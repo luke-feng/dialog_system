@@ -1,0 +1,6 @@
+2012-04-03T23:27:00.000Z	unkn-error		hello
+2012-04-03T23:27:00.000Z	unkn-error		is there a setting for make the mouse scroll more lines?
+2012-04-03T23:27:00.000Z	unkn-error		when I am brownsing (for example on a forum/blog with a long page) I have to do a lot of scroll down with the wheel, and It is scrolling so little lines
+2012-04-03T23:27:00.000Z	GeorgeJ	unkn-error	You might be having the same problem I was having, after rebooting into Ubuntu from Windows, the scroll wheel scrolled like 3 times per click.
+2012-04-03T23:28:00.000Z	GeorgeJ	unkn-error	I unplug and plug back my mouse transciever, it fixed it.
+2012-04-03T23:29:00.000Z	unkn-error	GeorgeJ	I am booting from diffrent linux distro;s now windows here, but I see they are all affected by this problem, or maybe is my insensivity

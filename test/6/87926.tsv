@@ -1,0 +1,6 @@
+2007-05-27T16:31:00.000Z	aldin		anyone could help me with mysql? i have user guest and database called guestdb, how can i give all rights on table guestdb to user guest, without giving him rights to see or to use any other databases and tables outside guestdb?
+2007-05-27T16:32:00.000Z	aldin		btw sorry guys for offtpic
+2007-05-27T16:33:00.000Z	Gnea	aldin	i would ask in #mysql
+2007-05-27T16:34:00.000Z	aldin	Gnea	ok, i am in #mysql thanks
+2007-05-29T09:32:00.000Z	Gnea	aldin	have you tried #postfix?
+2007-05-29T09:32:00.000Z	aldin	Gnea	no, i will give it try now

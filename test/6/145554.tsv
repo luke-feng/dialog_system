@@ -1,0 +1,6 @@
+2008-05-29T00:04:00.000Z	Linux_User		hi all
+2008-05-29T00:05:00.000Z	Linux_User		i have fedora9 and win XP installed on my system. If i install Ubuntu will the Grub autommatically add fedora 9 and Win XP or not?
+2008-05-29T00:05:00.000Z	erUSUL	Linux_User	windows probably ; fedora not likely
+2008-05-29T00:07:00.000Z	erUSUL	Linux_User	just add fedora yourself it shouldn't be that hard
+2008-05-29T00:07:00.000Z	erUSUL	Linux_User	you have to edit /boot/grub/menu.lst and add a "stanza" for booting fedora you can copy that from the fedora /boot/grub/menu.lst
+2008-05-29T00:11:00.000Z	erUSUL	Linux_User	at the end after the windows entry for example

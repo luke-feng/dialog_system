@@ -1,0 +1,6 @@
+2005-10-20T07:14:00.000Z	ryanduff		i dont' remember setting a root pw during setup, was i sleeping or am i correct?
+2005-10-20T07:15:00.000Z	chris_bloke	ryanduff	no root password, use "sudo" instead
+2005-10-20T07:17:00.000Z	chris_bloke	ryanduff	root account is locked by default
+2005-10-20T07:17:00.000Z	chris_bloke	ryanduff	you can just do "sudo passwd" to set a root password if you need it
+2005-10-20T07:18:00.000Z	ryanduff	chris_bloke	thanks
+2005-10-20T07:19:00.000Z	chris_bloke	ryanduff	I believe so

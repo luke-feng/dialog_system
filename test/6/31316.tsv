@@ -1,0 +1,6 @@
+2010-05-13T01:59:00.000Z	jfb_h2o		how to remove a lock from apt-get? I was dropped during an ssh session...
+2010-05-13T02:01:00.000Z	jfb_h2o		then all the 32 bit stuff basically works.
+2010-05-13T02:02:00.000Z	jfb_h2o		anyone know how to remove apt-get lock?
+2010-05-13T02:02:00.000Z	jfb_h2o		can I just delete /var/cache/apt/archives/lock
+2010-05-13T02:04:00.000Z	bastid_raZor	jfb_h2o	just to prevent anything in the future like this.. look into using screen
+2010-05-13T02:04:00.000Z	jfb_h2o	bastid_raZor	screen rules! but was not installed yet ;)

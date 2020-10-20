@@ -1,0 +1,6 @@
+2008-09-11T20:12:00.000Z	snitko		what could be the reason for a service not to start at boot time, when it starts just fine manually with 'service name start' and has all appropriate symlinks in rcN.d dirs?
+2008-09-11T20:12:00.000Z	Gnea	snitko	could be something in /etc/default/ telling it not to
+2008-09-11T20:13:00.000Z	snitko	Gnea	what could it be in /etc/default, I'm just not sure. I've just added it, it's 'mongrel_cluster' service.
+2008-09-11T20:14:00.000Z	Gnea	snitko	usually there's a name there that directly relates to the name of the application in question.
+2008-09-11T20:15:00.000Z	snitko	Gnea	and if there's no such file, the service doesn't start? I'm just not familiar with /etc/default and it's purposes
+2008-09-11T20:17:00.000Z	Gnea	snitko	some programs have them there, some don't. try looking at some of the files there to get a better idea.

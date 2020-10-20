@@ -1,0 +1,6 @@
+2009-09-28T20:24:00.000Z	andrewmin		I just switched from a 20" Acer to a 21.5" Lenovo L215. The old Acer's default resolution was 1680x1050. The L215's is 1920x1080. However, whenever I turn on Ubuntu, it defaults to 1680x1050. (my graphics card is a Nvidia 9800GT with proprietary drivers) I even used Nvidia's setting tool; it would set it perfectly (even writing a xorg.conf file), but once I rebooted, back to 1680x1050.
+2009-09-28T20:24:00.000Z	andrewmin		Here's my xorg.conf: http://pastebin.com/f74a3dd8a
+2009-09-28T20:26:00.000Z	thiebaude	andrewmin	im on 9.10 and using 185
+2009-09-28T20:27:00.000Z	andrewmin	thiebaude	ah, in that case, i'll just wait utnil october
+2009-09-28T20:27:00.000Z	andrewmin	thiebaude	thanks man :)
+2009-09-28T20:27:00.000Z	thiebaude	andrewmin	hey, np

@@ -1,0 +1,6 @@
+2008-08-08T18:35:00.000Z	mehul		isn't there xserver-xorg-virtualbox available in hardy?
+2008-08-08T18:35:00.000Z	ActionParsnip	mehul	yeppers
+2008-08-08T18:35:00.000Z	ActionParsnip		!find virt
+2008-08-08T18:35:00.000Z	ActionParsnip		!find virtualbox
+2008-08-08T18:35:00.000Z	ActionParsnip		pretty much nails it
+2008-08-08T18:36:00.000Z	mehul	ActionParsnip	well aptitude doesn't return me anything as such

@@ -1,0 +1,6 @@
+2011-05-24T23:32:00.000Z	ziikutv		How can I access my C drive of windows from Ubuntu?
+2011-05-24T23:33:00.000Z	ziikutv		I clicked on Browse all local disks
+2011-05-24T23:33:00.000Z	ziikutv		it shwos all partitions
+2011-05-24T23:34:00.000Z	ziikutv		except C drive (where I installed ubuntu as a partition)
+2011-05-24T23:34:00.000Z	tensorpudding	ziikutv	C:\ refers to a partition, not a disk, and you can't install ubuntu on an ntfs partition
+2011-05-24T23:34:00.000Z	tensorpudding	ziikutv	are you sure that your windows partition isn't listed?

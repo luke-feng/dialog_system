@@ -1,0 +1,6 @@
+2007-04-17T10:50:00.000Z	bowarv		Where can I find my php.ini file?
+2007-04-17T10:51:00.000Z	disasm	bowarv	cli or apache?
+2007-04-17T10:51:00.000Z	bowarv	disasm	apache
+2007-04-17T10:52:00.000Z	disasm	bowarv	/etc/php5/apache2
+2007-04-17T10:52:00.000Z	disasm	bowarv	will be /etc/php4/apache2 if you use v4
+2007-04-17T10:52:00.000Z	bowarv	disasm	nice, thx

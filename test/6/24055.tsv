@@ -1,0 +1,6 @@
+2010-11-27T04:27:00.000Z	magicjoe		ANYONE. i need to run make menuconfig but it says my display is too small. what do i do?
+2010-11-27T04:28:00.000Z	magicjoe		xumuk....its a laptop. i mean, is there a setting i can change to make it work, or can i do it through command line only?
+2010-11-27T04:29:00.000Z	magicjoe		and has anyone seen JORDANU?
+2010-11-27T04:30:00.000Z	magicjoe		ANYONE....is there a way to change the screen resolution, so i can fit more on the screen? need to run make menuconfig to edit my kernel
+2010-11-27T04:30:00.000Z	zeroseven0183	magicjoe	What have you tried so far?
+2010-11-27T04:33:00.000Z	zeroseven0183	magicjoe	have you checked Preferences > Monitors?

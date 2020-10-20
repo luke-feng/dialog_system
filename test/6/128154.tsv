@@ -1,0 +1,6 @@
+2006-01-01T09:27:00.000Z	sobersabre		for N mb of RAM you need about 2-2.5N mb of swap.
+2006-01-01T09:28:00.000Z	sobersabre		because disk is very slow comparing to memory.
+2006-01-01T09:28:00.000Z	Shadyman	sobersabre	You still have to tell FF about it, though.
+2006-01-01T09:29:00.000Z	sobersabre	Shadyman	you don't tell it to FF specifically, you tell it to user's environment. so everybody know of it.
+2006-01-01T09:29:00.000Z	sobersabre	Shadyman	there is root. sudo su -
+2006-01-01T09:29:00.000Z	Shadyman	sobersabre	I know, but it is not a "login"

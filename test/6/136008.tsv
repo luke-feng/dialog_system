@@ -1,0 +1,6 @@
+2005-10-08T16:03:00.000Z	Jehfvel		anyone been able to solve the problem with xorg/gnome eating the cpu (nvida card) ?
+2005-10-08T16:04:00.000Z	ProN00b	Jehfvel	thats normal behavior
+2005-10-08T16:04:00.000Z	Jehfvel	ProN00b	hehe, then ubuntu is finished for me
+2005-10-08T16:09:00.000Z	ProN00b	Jehfvel	how much does it eat on your system ?
+2005-10-08T16:10:00.000Z	Jehfvel	ProN00b	not much right now, but firefox i really slow, and if i start gedit and grab the lower corner and drags it around, 100%
+2005-10-08T16:13:00.000Z	Jehfvel	ProN00b	yes, tried the option renderaccel too, but then X locks up when scrolling with mousewheel in firefox

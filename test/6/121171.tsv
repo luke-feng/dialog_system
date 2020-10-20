@@ -1,0 +1,6 @@
+2008-10-19T06:17:00.000Z	Dreamglider		is there any way to get ubuntu to speed up CPU i am currently running at 50%  !
+2008-10-19T06:17:00.000Z	MTecknology	Dreamglider	dual core?
+2008-10-19T06:18:00.000Z	Dreamglider	MTecknology	yes
+2008-10-19T06:18:00.000Z	MTecknology	Dreamglider	then you have one process that's eating upu one proc, and the other proc is serving other processes
+2008-10-19T06:20:00.000Z	MTecknology	Dreamglider	If you want to get ambitious, you can try to recompile the application to support dual core - if they coded it
+2008-10-19T06:21:00.000Z	Dreamglider	MTecknology	that's way to complicated for a newb like me.

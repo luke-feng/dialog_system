@@ -1,0 +1,6 @@
+2007-02-24T08:47:00.000Z	scienceboy		hello again. i am a complete linux n00b. i use the synaptic program to download and install gnuchess, but it didn't turn up under applications>games. also, i don't know how to acess ~/.mozilla/firefox/ so that i can transfer my firefox settings from one computer to another
+2007-02-24T08:48:00.000Z	AndrewB	scienceboy	a .foo folder is hidden. on your browser go to View.. then hidden files.
+2007-02-24T08:48:00.000Z	AndrewB	scienceboy	as for the other go into a terminal and enter gnuchess   and hit enter.
+2007-02-24T08:49:00.000Z	AndrewB	scienceboy	any directory with a . at the beginning [a prefix]  is a hidden dir.
+2007-02-24T08:49:00.000Z	AndrewB	scienceboy	normally for settings of programs.
+2007-02-24T08:51:00.000Z	AndrewB	scienceboy	try going into a terminal and typing   'gnuchess'

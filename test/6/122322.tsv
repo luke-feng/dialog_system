@@ -1,0 +1,6 @@
+2006-08-28T11:39:00.000Z	rugbythomas		I'm following the directions at http://www.ubuntuforums.org/archive/index.php/t-33213.html when I  ./configure I get the following checking how to run the C++ preprocessor... /lib/cpp configure: error: C++ preprocessor "/lib/cpp" fails sanity check anyone have any idea how to fix this
+2006-08-28T11:40:00.000Z	fyrestrtr	rugbythomas	what are you trying to build?
+2006-08-28T11:42:00.000Z	fyrestrtr	rugbythomas	sudo apt-get install build-essential
+2006-08-28T11:45:00.000Z	fyrestrtr	rugbythomas	what are you trying to compile?
+2006-08-28T11:47:00.000Z	fyrestrtr	rugbythomas	read https://wiki.ubuntu.com/RestrictedFormats
+2006-08-28T11:47:00.000Z	fyrestrtr	rugbythomas	are you using hoary or dapper?

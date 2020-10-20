@@ -1,0 +1,6 @@
+2012-08-10T17:05:00.000Z	sergiu[1]		how iis possible to remove all windows effects in ubuntu 12.04? :)
+2012-08-10T17:06:00.000Z	sergiu[1]		how to turn of compiz
+2012-08-10T17:06:00.000Z	sergiu[1]		:))
+2012-08-10T17:06:00.000Z	sergiu[1]		!compiz >sergiu[1]
+2012-08-10T17:08:00.000Z	sergiu[1]		I am trying to remove compiz, unity with synaptic but the files are deleted only by one, not all files related with name unity
+2012-08-10T17:09:00.000Z	MonkeyDust	sergiu[1]	 nop need to remove anything, just install a different DE and select it in lightDM

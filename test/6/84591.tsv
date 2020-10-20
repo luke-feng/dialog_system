@@ -1,0 +1,6 @@
+2008-02-13T09:42:00.000Z	Hammer89		*tries again a bit more orderly* I just logged out of Ubuntu, and when I tried to log back in it wouldn't load my desktop (only gave me an X as my curser)... this is kinda urgent,,, can anyone help?
+2008-02-13T09:44:00.000Z	stroyan	Hammer89	Use <ctrl><alt><F1> to get to the text console.  Then you can log in and poke around the log files and ps output.
+2008-02-13T09:45:00.000Z	Hammer89	ushimitsudoki	what command would I use to start GDM?
+2008-02-13T09:45:00.000Z	Hammer89		okay
+2008-02-13T09:46:00.000Z	Hammer89		**gone**
+2008-02-13T09:46:00.000Z	stroyan	Hammer89	Since gdm is already running you would use    sudo /etc/init.d/gdm restart

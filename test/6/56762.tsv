@@ -1,0 +1,6 @@
+2008-06-04T03:15:00.000Z	unavailable		does anyone know how i can see my sanyo s1 as a usb drive
+2008-06-04T03:16:00.000Z	[RICE]	unavailable	Look in: /media/
+2008-06-04T03:16:00.000Z	[RICE]	unavailable	When you unplug and replug it in, can you find it in /dev/?
+2008-06-04T03:19:00.000Z	[RICE]	unavailable	mount /dev/usb007
+2008-06-04T03:20:00.000Z	[RICE]	unavailable	Well it seems that simple from what you've said. >>
+2008-06-04T03:21:00.000Z	[RICE]	unavailable	Well, I'm out of ideas. ._.

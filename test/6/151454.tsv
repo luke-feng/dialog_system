@@ -1,0 +1,6 @@
+2005-04-19T11:44:00.000Z	vrln		a friend of mine is just trying to use ubuntu hoary - but his network card isn't detected
+2005-04-19T11:44:00.000Z	vrln		and it seems like dhcpcd is not part of the default installation
+2005-04-19T11:45:00.000Z	vrln		how can one start the eth0/1 interface on ubuntu?
+2005-04-19T11:45:00.000Z	vrln		I haven't used anything debian based for a long time
+2005-04-19T11:45:00.000Z	vrln		was it ifup eth0 or something like that?
+2005-04-19T11:45:00.000Z	EvilIdler	vrln	dhclient is installed by default

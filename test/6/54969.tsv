@@ -1,0 +1,6 @@
+2008-07-08T02:55:00.000Z	Kovert		running ubuntu in terminal mode need some software to limit the desktops for certain users
+2008-07-08T02:55:00.000Z	Kovert		Sebyon didnt cut iot
+2008-07-08T02:55:00.000Z	Dr_willis	Kovert	 what kind of limits?
+2008-07-08T02:56:00.000Z	Kovert	Dr_willis	to not allow them certian app or make changes or write to disk
+2008-07-08T02:57:00.000Z	Dr_willis	Kovert	 Hmm.. Other then putting the apps in  a specif dir/path and locking down the users path.. not sure how to do that properly. There may be some more advanced stuff i have never used that can do that.  -  If you  dont want the users to alter their own settings, I know kde has a koisk mode. not sure about gnome.
+2008-07-08T03:01:00.000Z	Kovert	Dr_willis	keosk on kde can be used in terminal server

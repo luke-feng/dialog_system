@@ -1,0 +1,6 @@
+2006-01-01T10:21:00.000Z	_mike		why can i not unrar certain archives?
+2006-01-01T10:21:00.000Z	nalioth	_mike	install 'unrar-nonfree'
+2006-01-01T10:21:00.000Z	nalioth	_mike	then the archives may be damaged
+2006-01-01T10:30:00.000Z	nalioth	_mike	dont use unrar-free, use unrar-nonfree
+2006-01-01T10:30:00.000Z	nalioth	_mike	in the universe repository
+2006-01-01T10:31:00.000Z	nalioth	_mike	while you're at it, enable the multiverse repo, too

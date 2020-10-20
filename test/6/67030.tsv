@@ -1,0 +1,6 @@
+2008-01-17T03:09:00.000Z	EyePulp		if I was running out of memory and freezing, killing various processes (sshd, apache2) would there be some evidence left in a log that I could check after the fact?  I'm trying to diagnose a lockup that appears every few days
+2008-01-17T03:10:00.000Z	EyePulp		I certainly fail in that dept.
+2008-01-17T03:10:00.000Z	soundray	EyePulp	please respond in #ubuntu-offtopic
+2008-01-17T03:11:00.000Z	soundray	EyePulp	I missed your question, please repeat
+2008-01-17T03:14:00.000Z	soundray	EyePulp	I would expect out-of-memory conditions to be logged in /var/log/syslog
+2008-01-17T03:14:00.000Z	EyePulp	soundray	nice

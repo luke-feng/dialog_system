@@ -1,0 +1,6 @@
+2007-03-22T13:40:00.000Z	Chamuco		what would I need to fix if I copy my ubuntu partition from one partition to another?
+2007-03-22T13:42:00.000Z	Chamuco		anyone knows what system file/settings would i need to fix if I copy my ubuntu system partition to another?
+2007-03-22T13:43:00.000Z	dyrne	Chamuco	well im guessing fstab would be wrong :)
+2007-03-22T13:44:00.000Z	dyrne	Chamuco	well even fstab might not be now that theyre using uuids
+2007-03-22T13:44:00.000Z	dyrne	Chamuco	it might actually just work
+2007-03-22T13:45:00.000Z	dyrne	Chamuco	grub of course

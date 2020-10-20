@@ -1,0 +1,6 @@
+2007-01-18T15:47:00.000Z	nomego		how do I solve: configure:3098: error: C compiler cannot create executables
+2007-01-18T15:47:00.000Z	ikonia_	nomego	depends what your trying to do and what you've done
+2007-01-18T15:47:00.000Z	nomego	ikonia_	fresh edgy install, trying to ./configure a source
+2007-01-18T15:48:00.000Z	ikonia_	nomego	a.) what are you trying to build
+2007-01-18T15:48:00.000Z	nomego	ikonia_	simias
+2007-01-18T15:50:00.000Z	nomego	ikonia_	config.log fails on "gcc conftest.c >&5" and then ld can't find crtl.o

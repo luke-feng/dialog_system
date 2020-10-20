@@ -1,0 +1,6 @@
+2005-10-14T16:39:00.000Z	nipplesrulz		even better :)
+2005-10-14T16:41:00.000Z	nipplesrulz		ok one last question for a bit here i HOPE lol: /dev/hdc1              36G  1.7G   33G   5% /
+2005-10-14T16:41:00.000Z	nipplesrulz		 <<-=-= that is my primary hdd.. so would the second hdd then be hdd ?
+2005-10-14T16:42:00.000Z	nipplesrulz		yeah same cable, different phisical hdd.. why did it make first hard disk hdc? [default instal] 
+2005-10-14T16:43:00.000Z	intelikey	nipplesrulz	if that is your primary.    the secondary on the same cable is hdd yes.   but that is second ide channel    first ide is hda
+2005-10-14T16:44:00.000Z	intelikey	nipplesrulz	no

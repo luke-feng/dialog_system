@@ -1,0 +1,6 @@
+2007-05-12T05:58:00.000Z	barbarella_me		C0stigan:do you install ubuntu from a cd?
+2007-05-12T05:58:00.000Z	barbarella_me		chamberlain:mount /dev/??? umount /dev/???
+2007-05-12T05:59:00.000Z	barbarella_me		chamberlain:or umount /mount/point
+2007-05-12T05:59:00.000Z	chamberlain	barbarella_me	i dont need to mount or unmount drives...?
+2007-05-12T06:00:00.000Z	chamberlain	barbarella_me	yes, the sound (volume) up and down
+2007-05-12T06:01:00.000Z	chamberlain	barbarella_me	i can't use alsamixer, i need a command that can be used by my remote control

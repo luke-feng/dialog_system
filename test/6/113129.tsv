@@ -1,0 +1,6 @@
+2007-07-21T08:20:00.000Z	BadRobot		anyone there able to give a quick help?
+2007-07-21T08:21:00.000Z	Jack_Sparrow	BadRobot	Have you enabled universe and multiverse repos
+2007-07-21T08:22:00.000Z	Jack_Sparrow	BadRobot	It isnt in the repos anyhow
+2007-07-21T08:23:00.000Z	Jack_Sparrow	BadRobot	How far do you get with booting the cd?
+2007-07-21T08:24:00.000Z	Jack_Sparrow	BadRobot	You can add that during the bootup even now
+2007-07-21T08:27:00.000Z	Jack_Sparrow	BadRobot	when you power up there is a msg that will let you into grub if only single booting

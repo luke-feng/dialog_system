@@ -1,0 +1,6 @@
+2011-04-11T14:35:00.000Z	s0phi3		question: i use kubuntu, and my USB headphones work fine for desktop stuff,but do not work for browser(firefox), how can i fix headphones so i can listen to music on youtube on them? i've tried lots of stuff, and haven't received an answer yet that has worked
+2011-04-11T14:35:00.000Z	s0phi3		no one knows...
+2011-04-11T14:35:00.000Z	Morgz	s0phi3	- try your sound settings in the system menu
+2011-04-11T14:40:00.000Z	s0phi3	Morgz	testing my sound with Phonon yields sound in the headphones, but my issue is that no sound works from my browser
+2011-04-11T14:41:00.000Z	Morgz	s0phi3	- not sure, but it sounds like your browser doesn't use the default output. either use system-sound or look through the sound settings in the browser for the problem
+2011-04-11T14:43:00.000Z	s0phi3	Morgz	i know nothing about system-sound or how to look through sound settings in Firefox :/

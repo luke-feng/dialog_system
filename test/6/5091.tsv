@@ -1,0 +1,6 @@
+2012-01-14T06:18:00.000Z	RokcStar		anybody have experience installing/editing grub2 on usb -- from scratch?
+2012-01-14T06:18:00.000Z	alien2050	RokcStar	not from scratch but I usually play a lot with it so ask your Q
+2012-01-14T06:19:00.000Z	alien2050	RokcStar	someone may be able to help
+2012-01-17T05:49:00.000Z	alien2050	RokcStar	there are many but NFS works really well
+2012-01-17T05:51:00.000Z	alien2050	RokcStar	yes, but the client only so you need some *nix box setup. I think the server will require a license or something, there might be other free solutions for windows, I don't know.
+2012-01-17T05:52:00.000Z	alien2050	RokcStar	I wouldn't let windows handle any other thing than games imho... :)

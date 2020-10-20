@@ -1,0 +1,6 @@
+2009-03-15T06:23:00.000Z	blahblahblah		I installed Adobe Flash Player. YouTube (with firefox) still doesn't want to accept that its been installed. Solution?
+2009-03-15T06:25:00.000Z	blahblahblah		I installed Adobe Flash Player. YouTube (with firefox) still doesn't want to accept that its been installed. Solution?
+2009-03-15T06:26:00.000Z	Happy-Dude	blahblahblah	how'd you install flash?
+2009-03-15T06:26:00.000Z	blahblahblah	Happy-Dude	downloaded the .tar.gz, extracted and ran the install file as a terminal app as my admin user
+2009-03-15T06:28:00.000Z	Happy-Dude	blahblahblah	if you got FF (or a gecko based browser) -- you coulda gotten the .deb; unless you didn't want to do that?
+2009-03-15T06:28:00.000Z	blahblahblah	Happy-Dude	the package manager doesn't seem to like the .deb

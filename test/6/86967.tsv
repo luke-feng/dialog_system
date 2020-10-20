@@ -1,0 +1,6 @@
+2007-05-10T08:32:00.000Z	nonlinear		quick quesiotn.... is it possible to make an option to boot from CD rom in grub? my attempt didn't work (got invalide partoin error wsomething).  i was using: #title CD/DVD #root (cdrom0) #savedefault
+2007-05-10T08:32:00.000Z	stanthecaddy22	nonlinear	Usually you set that option in your BIOS settings
+2007-05-10T08:33:00.000Z	stanthecaddy22	nonlinear	have it check for CD boot before booting to hard drive
+2007-05-10T08:33:00.000Z	nonlinear	stanthecaddy22	yea, but i would like to add the CD option to grub, so that I don't have to hit F12 if i want to boot CD... i can just select it in grub
+2007-05-10T08:34:00.000Z	nonlinear	stanthecaddy22	yea, i can do it in bios but i'm lazy and it would be nice to have in grub
+2007-05-10T08:34:00.000Z	stanthecaddy22	nonlinear	ah, my mistake then, I can't help ya there. Good luck though

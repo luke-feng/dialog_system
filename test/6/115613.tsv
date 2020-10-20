@@ -1,0 +1,6 @@
+2006-08-30T14:48:00.000Z	eetfunk		how do i associate .rb files to my ruby interpreter on the command line?  i'm sick of typing ruby before every .rb file i want to execute!
+2006-08-30T14:49:00.000Z	nocti	eetfunk	#!/usr/bin/ruby on the first line of the script
+2006-08-30T14:51:00.000Z	eetfunk	nocti	it doesnt work.  says command not found
+2006-08-30T14:53:00.000Z	nocti	eetfunk	chmod +x script.rb
+2006-08-30T14:54:00.000Z	nocti	eetfunk	and when you execute the script, do a "./script.rb" instead of "script.rb" because most probably the script is not in your path
+2006-08-30T14:54:00.000Z	eetfunk	nocti	 oh!  thats why

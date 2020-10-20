@@ -1,0 +1,6 @@
+2009-04-10T14:04:00.000Z	Entherman		Hey. Can anybody help me with remote connecting ?
+2009-04-10T14:05:00.000Z	Entherman		I have SSH Access on my friends PC, i Want to set up Remote xdmcp server on hist PC, so I could connect. Google shows me how to do it with graphical interface, I need to do it with terminal. How ?
+2009-04-10T14:05:00.000Z	g4lt-lappy	Entherman	why do you ned an entire xdmcp session over ssh, you can forward individual X clients over ssh with ssh -X
+2009-04-10T14:06:00.000Z	Entherman	g4lt-lappy	What ? How ?
+2009-04-10T14:07:00.000Z	g4lt-lappy	Entherman	in a X terminal type ssh -X user@host (you have to have x forwarding enabled in /etc/ssh/ssd_config, but I think it's default), then just type in the name of the  X client you want to run
+2009-04-10T14:09:00.000Z	Entherman	g4lt-lappy	WHat do I type for the x client ? like ssh -x entherman@lalala.com gnome ?

@@ -1,0 +1,6 @@
+2005-04-06T15:08:00.000Z	Zugot		and you don't have to run it as root either
+2005-04-06T15:09:00.000Z	Zugot		i run hoary on x86 and amd64
+2005-04-06T15:09:00.000Z	Zugot		runs just find for the most part
+2005-04-06T15:09:00.000Z	ewhitte1	Zugot	 have you had any weirdness on  your amd64 box?
+2005-04-06T15:10:00.000Z	Zugot	ewhitte1	only with vpn software...
+2005-04-06T15:13:00.000Z	Zugot	ewhitte1	don't do a ./jre1.5whatever... do a "sh ./jre1.5whatever"

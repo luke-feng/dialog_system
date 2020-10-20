@@ -1,0 +1,6 @@
+2012-04-14T17:55:00.000Z	haqking		@ viktor what is your GPU and what res does it support and what drivers are you using ?
+2012-04-14T17:56:00.000Z	haqking		@ voldyman https://help.ubuntu.com/community/Partitioning/Home/Moving
+2012-04-14T17:56:00.000Z	viktor	haqking	highest res supported 1280x1024, driver is the opensource for my card (Radeon Xpress 200M) (think it's called flrgx), what is "GPU"?
+2012-04-14T17:59:00.000Z	viktor	haqking	running 1280x800, that's enough 4 my laptop screen, but i got a VGA cable connected to a 30" screen that requires min 2560x800
+2012-04-14T18:04:00.000Z	viktor	haqking	you're right, that's not gonna work... i got another comp here but i don't know the gpu, could you give me the command again to find that out? i forgot...
+2012-04-14T18:06:00.000Z	viktor	haqking	nevermind, got it

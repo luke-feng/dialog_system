@@ -1,0 +1,6 @@
+2010-11-25T14:47:00.000Z	nomtv80		ntfs-3g driver w00t
+2010-11-25T14:48:00.000Z	nomtv80		your own responsibility. For example type on the command line: mount -t ntfs-3g /dev/sda1 /media/sda1/ -o force
+2010-11-25T14:49:00.000Z	nomtv80		stop using media keys k
+2010-11-25T14:49:00.000Z	nomtv80		jk
+2010-11-25T14:51:00.000Z	foo-nix	nomtv80	are you seriously suggesting to stop using media keys? btw, these problems were posted on the forum in August. Given the popularity of the bug, I would think someone has a fix
+2010-11-25T14:58:00.000Z	nomtv80	foo-nix	yes, https://help.ubuntu.com/community/KeyboardShortcuts  ¯\(°_o)/¯

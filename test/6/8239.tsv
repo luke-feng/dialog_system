@@ -1,0 +1,6 @@
+2012-02-26T03:24:00.000Z	asstreks		Greetings, I was here a second ago under the name zhuang.
+2012-02-26T03:24:00.000Z	asstreks		Upon installing slim and settlign it as my default display manager and then removing slims via sudo-apt-get remove slim, I'm now unable to reach my login screen, that would be nornmally shown with lightdm.
+2012-02-26T03:25:00.000Z	asstreks		How can I get back to my login screen? I get stuck at the ubuntu stratup screen with the few dots, but nothing changes.
+2012-02-26T03:25:00.000Z	zykotick9	asstreks	try "sudo service lightdm start"
+2012-02-26T03:25:00.000Z	zykotick9	asstreks	where are you right now?
+2012-02-26T03:26:00.000Z	zykotick9	asstreks	ya

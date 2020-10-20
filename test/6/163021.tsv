@@ -1,0 +1,6 @@
+2004-10-14T14:45:00.000Z	center		Seems this distro is rather active.  I'm impressed in the design, might just have to give up Gentoo for a while.  Just wanted to check and see if anyone can answer a couple of Q's for me.
+2004-10-14T14:45:00.000Z	center		Thanks, LinuxJones.
+2004-10-14T14:47:00.000Z	center		1st, is there a way to load the ppd files for gimp-print, foomatic, etc?  I have an epson CX-5200 and have no luck getting it to work with the drivers listed.  Under Gentoo I had to explicity flag ppds to get it to work.
+2004-10-14T14:47:00.000Z	center		yes, LJ
+2004-10-14T14:49:00.000Z	center		Ok, will check it out again.  2nd, wanted to see how compatible the packages of ubuntu were to Debian's packages.  ie, could I add, let's say Sarge to my apt repositories to add mplayer or some other software pieces?
+2004-10-14T14:51:00.000Z	festis_	center	mplayer can be found in this repo: deb ftp://ftp.nerim.net/debian-marillat/ unstable main

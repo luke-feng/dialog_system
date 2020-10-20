@@ -1,0 +1,6 @@
+2007-12-28T01:14:00.000Z	zcat[1]	bardyr	bad idea.. yuk. If it doesn't work, all future xorg updates will end up with X not working and it's really painful tryint to remove the binary mess and go back to packages
+2007-12-28T01:14:00.000Z	bardyr	zcat[1]	not if he used the latest envy with dkms support
+2007-12-28T01:15:00.000Z	zcat[1]	bardyr	any reason not to just use nvidia-glx-new? It's the same driver, but packaged so it doesn't get broken every time other packages are updated
+2007-12-28T01:16:00.000Z	bardyr	zcat[1]	its not the same, its very old
+2007-12-28T01:16:00.000Z	bardyr	zcat[1]	-new means the new cards and a new driver version
+2007-12-28T01:17:00.000Z	bardyr	zcat[1]	new cards not new driver version*

@@ -1,0 +1,6 @@
+2010-03-12T15:57:00.000Z	friendishan		Hello
+2010-03-12T15:59:00.000Z	friendishan		I want to make a backup of my evolution so that i can transfer every mail and accounts to my other computer, please tell me how to do that, thanks
+2010-03-12T15:59:00.000Z	friendishan		!backup evolution
+2010-03-12T15:59:00.000Z	Emanon	friendishan	it will be an option in evolution's file menu
+2010-03-12T16:00:00.000Z	Emanon	friendishan	File>Backup Settings
+2010-03-12T16:00:00.000Z	Emanon	friendishan	will back up everything but saved passwords

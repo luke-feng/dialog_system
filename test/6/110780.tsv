@@ -1,0 +1,6 @@
+2006-09-27T14:31:00.000Z	weex	househead	if you try to resize it with a lower start what does it do?
+2006-09-27T14:33:00.000Z	househead	weex	yea, but I am resizing an existing partition
+2006-09-27T14:34:00.000Z	weex	househead	the resize option does have a start end so as long as the space is available, the syntax of the command seems to allow it
+2006-09-27T14:34:00.000Z	househead	weex	not sure where I am going wrong then
+2006-09-27T14:34:00.000Z	weex	househead	where does your partition start?
+2006-09-27T14:35:00.000Z	househead	weex	i sec, will find out

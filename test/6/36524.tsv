@@ -1,0 +1,6 @@
+2009-06-15T02:20:00.000Z	Rawz		anyone know a decently good webdesign program that i can run on ubuntu ?
+2009-06-15T02:20:00.000Z	texasjack	Rawz	Amaya? Bluefish? Screem?
+2009-06-15T02:21:00.000Z	Rawz	texasjack	witch of those are the best? ever tried any of them ?
+2009-06-15T02:22:00.000Z	texasjack	Rawz	I've tried the three.  Depends what you mean with web-design.... You wanna a Dreamweaver substitute?
+2009-06-15T02:23:00.000Z	texasjack	Rawz	there's is no Dreamweaver substitute... Try Amaya first.  If you don't like, just purge it...  And gonna installing the others and testing.
+2009-06-15T02:25:00.000Z	texasjack	Rawz	«sudo apt-get install wine» and try it... It's easy.

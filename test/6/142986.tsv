@@ -1,0 +1,6 @@
+2005-07-11T14:02:00.000Z	zeenix		i installed ubuntu on this newly bought notebook of mine yesterday and all was working good but this monring when i booted, it gave me a kernel panic
+2005-07-11T14:02:00.000Z	zeenix		i rebooted many times but it didnt help, so i tried something very stupid: re-install grub
+2005-07-11T14:02:00.000Z	zeenix		but the grub didn't install successfully and now even the grub doesn't load successfully
+2005-07-11T14:03:00.000Z	s0n1cm0nk3y_	zeenix	i can help a lil, i just learned how the whole grub number scheme goes ^^ (slightly proud of self*
+2005-07-11T14:04:00.000Z	zeenix	s0n1cm0nk3y_	cool, let me paste the problem i am having now
+2005-07-11T14:06:00.000Z	s0n1cm0nk3y_	zeenix	lol, i dont know how much i can help, i just learned the numbering scheme so far for the install on my gentoo box, hehe, im not sure at my abilities to help you but i will try

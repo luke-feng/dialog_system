@@ -1,0 +1,6 @@
+2010-04-17T23:19:00.000Z	xyz		ok guys i will stary reading bash command
+2010-04-17T23:21:00.000Z	xyz		guys just now i installed  mysql bt couldnot able to find its location
+2010-04-17T23:21:00.000Z	xyz		its already installed
+2010-04-17T23:21:00.000Z	xyz		how to find its location?
+2010-04-17T23:21:00.000Z	brianherman	xyz	type mysql
+2010-04-17T23:21:00.000Z	brianherman	xyz	type "which mysql" into the terminal

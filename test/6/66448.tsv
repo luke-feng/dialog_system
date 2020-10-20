@@ -1,0 +1,6 @@
+2012-11-12T17:39:00.000Z	alinmear		i want to open a terminal (urxvt) and  when the terminal spawns the should be some kind of text befor you can type some command
+2012-11-12T17:40:00.000Z	alinmear		similar to the archbang behaviour
+2012-11-12T17:40:00.000Z	alinmear		their you can open a terminal and the archlinux logo with some cpu specs pops up
+2012-11-12T17:41:00.000Z	alinmear		i am using the bash shell at the moment
+2012-11-12T17:41:00.000Z	ActionParsnip	alinmear	what is the output of:  lsb_release -sc
+2012-11-27T18:24:00.000Z	ActionParsnip	alinmear	can you please check your nick out, its spamming the channel

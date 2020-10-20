@@ -1,0 +1,6 @@
+2007-10-26T16:26:00.000Z	mizzer0ni		i want to see the boot text when i start ubuntu 7.10, I set it to show the text with startupmanager and i delete quiet splash from grub config, but all i see is a black screen in boot, anyone know how 2 fix?? what's this stuff about framebuffer bug blah
+2007-10-26T16:27:00.000Z	Atomic_UE	mizzer0ni	did you change the screen resolution or colour depth in startup manager?
+2007-10-26T16:28:00.000Z	Atomic_UE	mizzer0ni	you may of picked a resolution that your monitor doesn't support perhaps, so pick something lower/more appropriate
+2007-10-26T16:29:00.000Z	mizzer0ni	Atomic_UE	yer i picked 1024 x 768 or whatever it is, i have 1280 x 800 monitor, i used 1024 x 768 in fiesty and it worked
+2007-10-26T16:31:00.000Z	Atomic_UE	mizzer0ni	in startup manager, make sure you enable Show Boot Slapsh in the Misc section
+2007-10-26T16:32:00.000Z	Atomic_UE	mizzer0ni	I found out that refers to the OS splash screen and not Grub's splash screen

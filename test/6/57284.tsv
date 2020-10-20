@@ -1,0 +1,6 @@
+2009-05-23T04:36:00.000Z	owner		hello
+2009-05-23T04:37:00.000Z	owner		could anyone point me to the right direction to reinstall wireless card
+2009-05-23T04:38:00.000Z	harpreet_	owner	which wireless card?
+2009-05-23T04:46:00.000Z	harpreet_	owner	lets work on your wireless
+2009-05-23T04:46:00.000Z	harpreet_	owner	can you tell me your card please? proper name
+2009-05-23T04:47:00.000Z	harpreet_	owner	you may use madwifi or ndiswapper , your choice. you have to download xp driver and compile driver for linux and then use ndiswapper to load that driver, it will work

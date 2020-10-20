@@ -1,0 +1,6 @@
+2009-06-06T00:50:00.000Z	burvowski		Hi all, what do you reccomend I format my external harddrive as for use with Ubuntu 9.04? ext3? ext4? other?
+2009-06-06T00:50:00.000Z	WNz	burvowski	ext3 is the best choice, ext4 might work for you though
+2009-06-06T00:51:00.000Z	burvowski	WNz	and if I went with that, it wouldn't be compatible with Windows, yeah?
+2009-06-06T00:51:00.000Z	WNz	burvowski	there is a way for ext to be read in winblows
+2009-06-06T00:53:00.000Z	burvowski	WNz	how would I do that? some application in windows?
+2009-06-06T00:53:00.000Z	WNz	burvowski	i haven't done it, google is your friend

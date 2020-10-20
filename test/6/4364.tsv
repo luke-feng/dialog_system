@@ -1,0 +1,6 @@
+2012-02-28T21:01:00.000Z	hatop		biebian: do not remove the root user. It is necessary to actually do things. You can add a "comment" but otherwise, please leave it alone.
+2012-02-28T21:02:00.000Z	hatop		tostada: that depends on the type of file and if you like the command line.
+2012-02-28T21:04:00.000Z	hatop		if by index you mean search, then it does
+2012-02-28T21:04:00.000Z	hatop		try the locate command
+2012-02-28T21:04:00.000Z	Tostada	hatop	I'm not very good with linux but I do know how to use the command line.. Right now I'm trying: grep -i -n ‘people123.com’ * but it doesn't do anything.
+2012-02-28T21:07:00.000Z	Tostada	hatop	No, this morning when I went to shut firefox for a reboot there was one tiny little window open.. it said transfering people123.com I've never been to people123.com

@@ -1,0 +1,6 @@
+2007-01-21T10:27:00.000Z	ubuntu		could i get some help with my grub configuration plz
+2007-01-21T10:28:00.000Z	pradeep	ubuntu	sure
+2007-01-21T10:30:00.000Z	pradeep	ubuntu	what does it say when you try to boot using the first option?
+2007-01-21T10:31:00.000Z	ubuntu	pradeep	unknown partition type
+2007-01-21T10:34:00.000Z	pradeep	ubuntu	you seem to have two ditros ... are you able to boot into the other one?
+2007-01-21T10:34:00.000Z	ubuntu	pradeep	i cant boot into anything my grub configuration is major borked

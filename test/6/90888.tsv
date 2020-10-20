@@ -1,0 +1,6 @@
+2007-06-27T15:35:00.000Z	ParanoyaM		guys, i have a trouble with iptables
+2007-06-27T15:35:00.000Z	ParanoyaM		iptables v1.3.6: can't initialize iptables table `-tee': Table does not exist (do you need to insmod?)
+2007-06-27T15:35:00.000Z	ParanoyaM		Perhaps iptables or your kernel needs to be upgraded.
+2007-06-27T15:37:00.000Z	ParanoyaM		what wrong in this command? sudo iptables -t mangle -p udp --dport 50138 -A OUTPUT -s 10.0.1.21 -d 234.0.0.1 -j ROUTE --oif eth0 --tee
+2007-06-27T15:38:00.000Z	ParanoyaM		what wrong in this command? sudo iptables -t mangle -p udp --dport 50138 -A OUTPUT -s 10.0.1.21 -d 234.0.0.1 -j ROUTE --oif eth0 --tee
+2007-06-27T15:38:00.000Z	fuzzy_logic	ParanoyaM	i'm sure 1 time asking is more than enough

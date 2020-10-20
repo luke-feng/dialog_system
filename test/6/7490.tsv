@@ -1,0 +1,6 @@
+2011-08-03T05:39:00.000Z	seanmc98		can someone help me set up ADB in ubuntu 11.04 please
+2011-08-03T05:40:00.000Z	seanmc98		android debugging bridge
+2011-08-03T05:41:00.000Z	seanmc98		i was following the guide here http://board.teamwhiskey.com/viewtopic.php?f=29&t=1234
+2011-08-03T05:41:00.000Z	seanmc98		howere i am stumped when it says to let drivers see phone. i though linux didnt use drivers
+2011-08-03T05:42:00.000Z	seanmc98		oh yes that part is stupid sorry
+2011-08-03T05:42:00.000Z	somsip_	seanmc98	I got ADB working fine, but didn't try with connnected to phone - just on emulator. Try here? http://forum.xda-developers.com/showthread.php?p=11823740#post11823740

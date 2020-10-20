@@ -1,0 +1,6 @@
+2011-05-08T21:11:00.000Z	ampletime		hello there
+2011-05-08T21:12:00.000Z	ampletime		I have installed ubuntu 11 (64 bit) under vmware workstation 7.1 and unity does not work. Is this a known issue and if so, can it be fixed? Should I switch to 32 bit?
+2011-05-08T21:13:00.000Z	izinucs	ampletime	vmware .. virtualbox.. I can't get it to run there either..
+2011-05-08T21:13:00.000Z	ampletime	izinucs	oh ok so it wont run regardless of 32 or 64 bit versions
+2011-05-08T21:14:00.000Z	izinucs	ampletime	don't think so.. 3d hardware support in vbox pretty much sucks.. not sure about vmware at this point.. I haven't used it in a couple of years.
+2011-05-08T21:14:00.000Z	ampletime	izinucs	ok cool thanks :)

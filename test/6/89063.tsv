@@ -1,0 +1,6 @@
+2007-11-23T09:00:00.000Z	rattts		hi all. what is the port that youtube uses? i want to block it
+2007-11-23T09:00:00.000Z	rattts		can someone tell me what port youtube uses. i need t block it
+2007-11-23T09:01:00.000Z	usser	rattts	80
+2007-11-23T09:01:00.000Z	usser	rattts	and if u block it u'll block all http requests
+2007-11-23T09:02:00.000Z	usser	rattts	just uninstall flash and youtube wont work
+2007-11-23T09:02:00.000Z	usser	rattts	or make flash plugin file root readable only

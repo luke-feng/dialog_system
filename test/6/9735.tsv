@@ -1,0 +1,6 @@
+2011-05-07T16:46:00.000Z	Rennon		QUESTION: WHenever I try to connect to my wifi on the live USB for both Ubuntu and Kubuntu 11.04 on my eeePC, the computer freezes and I can't do anything. Anyone have any idea what's wrong?
+2011-05-07T16:46:00.000Z	qjqqyy	Rennon	bad device driver. What card?
+2011-05-07T16:47:00.000Z	Rennon	qjqqyy	I'm not sure, the eeePC is a 1001px
+2011-05-07T16:48:00.000Z	qjqqyy		Try googling for specs, then use ndiswrapper and disable the linux native drivers
+2011-05-07T16:49:00.000Z	Rennon		:qjqqyy: I'm not sure, the eeePC is a 1001px, apparently it has "WLAN 802.11b/g"
+2011-05-07T16:52:00.000Z	qjqqyy	Rennon	download windows xp drivers for eeepc 1001px, then use ndiswrapper, and remember to uninstall the linux wireless drivers.

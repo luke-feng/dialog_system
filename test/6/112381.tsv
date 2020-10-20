@@ -1,0 +1,6 @@
+2006-10-22T16:29:00.000Z	snedar	Scorpmoon	look at the help site of ubuntu
+2006-10-22T16:30:00.000Z	Scorpmoon	snedar	so I did.. I'm still clueless
+2006-10-22T16:30:00.000Z	snedar	Scorpmoon	have you checked https://help.ubuntu.com/ubuntu/serverguide/C/ftp-server.html ?
+2006-10-22T16:31:00.000Z	Scorpmoon	snedar	yes I am exactly at that point.. but this is where user/group setup starts
+2006-10-22T16:33:00.000Z	snedar	Scorpmoon	do you already have the web user set up?
+2006-10-22T16:36:00.000Z	snedar	Scorpmoon	I haven't got much experience with it, but you can try creating a "web" user (through the System Administration thing), then perform "sudo chown web:web /var/www -R". then the local stuff has been set, and you only need to change /etc/vsftpd.conf so that the web user can login (I can help you with that)

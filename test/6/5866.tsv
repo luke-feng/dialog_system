@@ -1,0 +1,6 @@
+2011-10-19T22:23:00.000Z	jimmy8888		pessimist: when i am a non-priveledged user i try to run a sudo command, the part after sudo (such as "sudo aptit...") does not tab-complete
+2011-10-19T22:23:00.000Z	jimmy8888		so i have to sudo bash to get elevated privs
+2011-10-19T22:24:00.000Z	jimmy8888		actionparsnip: i do not have a .bashrc for my user
+2011-10-19T22:24:00.000Z	arghx	jimmy8888	that is very doubtful. unless you deleted it on purpose
+2011-10-19T22:26:00.000Z	jimmy8888	arghx	actually i did can my old profile, i thought on logon it would recreate a skeleton config? i will restore this file from backup
+2011-10-19T22:27:00.000Z	jimmy8888	arghx	and ActionParsnip: thanks for the help! it was because i deleted my .bashrc when recreating my profile for 11.10 - after restoring this file from backup the issue is resolved!

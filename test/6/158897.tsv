@@ -1,0 +1,6 @@
+2004-12-11T15:01:00.000Z	Timerever		but that gives all users the possibility to rm -rf /usr
+2004-12-11T15:02:00.000Z	Timerever		right, can i name that first user root so i don't get confused :-D
+2004-12-11T15:03:00.000Z	Timerever		that user name is blocked?
+2004-12-11T15:03:00.000Z	farrioth	Timerever	root is used by root. When you create an account, you are adding another user. root is already there.
+2004-12-11T15:06:00.000Z	farrioth	Timerever	Thats also a very bad password.
+2004-12-11T15:08:00.000Z	farrioth	Timerever	No.

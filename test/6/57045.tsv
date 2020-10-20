@@ -1,0 +1,6 @@
+2008-07-28T16:03:00.000Z	soldering_x		Installing Samba
+2008-07-28T16:03:00.000Z	soldering_x		Connect to your server on the shell, or open a shell window if your Ubuntu server has a desktop installed. To become root user, execute this command:
+2008-07-28T16:03:00.000Z	soldering_x		sudo su
+2008-07-28T16:03:00.000Z	soldering_x		and enter the password of the user that you created during Ubuntu installation.
+2008-07-28T16:03:00.000Z	soldering_x		Install the Samba packages:
+2008-07-28T16:03:00.000Z	jpds	soldering_x	^

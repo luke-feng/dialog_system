@@ -1,0 +1,6 @@
+2010-05-27T00:16:00.000Z	Lurner		I've been trying to set up file sharing between Ubuntu and Linux.
+2010-05-27T00:16:00.000Z	Lurner		I've installed Samaba, Personal File Sharing is installed but only gives the mystery message of
+2010-05-27T00:16:00.000Z	Lurner		"this feature cannot be enabled because the required packages are not installed on your system" but it does say which packages need to be installed.
+2010-05-27T00:16:00.000Z	Lurner		I've installed samba and smbfs but that didn't do the trick because now
+2010-05-27T00:16:00.000Z	Lurner		When I go into the "Network' area, I see the workgroup. I see the computers in the workgroup but when I go to click on one I get the message
+2010-05-27T00:16:00.000Z	FloodBot3	Lurner	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

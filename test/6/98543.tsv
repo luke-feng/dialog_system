@@ -1,0 +1,6 @@
+2006-12-23T17:34:00.000Z	rb_laptop	clintiepoo	shouldn't u be using an ati driver here ... Driver  "vesa" ?
+2006-12-23T17:34:00.000Z	clintiepoo		That xorg.conf does not work.  I feel like everything is correct, but x fails to start.  Someone earlier told me to use a vesa driver, ati doesn't work either.
+2006-12-23T17:36:00.000Z	clintiepoo		here's what I know: ATI Technologies Inc RV370 [Radeon X300SE] 
+2006-12-23T17:38:00.000Z	clintiepoo		The monitor is running using DVI, which might be relevant.
+2006-12-23T17:38:00.000Z	rb_laptop	clintiepoo	probably vesa driver can't handle that resolution. why aren't u using an ati driver?
+2006-12-23T17:40:00.000Z	clintiepoo	rb_laptop	I tried an ATI driver first and it didn't work.  Someone told me to use vesa, so I did.  Is there another one that I should use?

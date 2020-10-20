@@ -1,0 +1,6 @@
+2012-06-20T21:22:00.000Z	linux_is_my_hero		how do i find out what kidna keyboard i have if theres no label plate on it?
+2012-06-20T21:22:00.000Z	mobius420	linux_is_my_hero	 try  lsusb
+2012-06-20T21:22:00.000Z	linux_is_my_hero	mobius420	all i got from that was Bus 002 Device 010: ID 04d9:1702 Holtek Semiconductor, Inc.
+2012-06-20T21:23:00.000Z	mobius420	linux_is_my_hero	 is that a bluetooth keyboard?
+2012-06-20T21:26:00.000Z	linux_is_my_hero	mobius420	no it is bluetooth
+2012-06-20T21:27:00.000Z	linux_is_my_hero	mobius420	***USB

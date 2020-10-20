@@ -1,0 +1,6 @@
+2006-10-18T09:07:00.000Z	Abst		Can I fix this?
+2006-10-18T09:07:00.000Z	Abst		dpkg: error processing tzdata_2006m-1_all.deb (--install):
+2006-10-18T09:07:00.000Z	Abst		 trying to overwrite `/usr/share/zoneinfo/zone.tab', which is also in package locales
+2006-10-18T09:09:00.000Z	timfrost	Abst	where did you get that tzdata deb from?  tzdata isn't a standard ubuntu package.
+2006-10-18T09:09:00.000Z	Abst	timfrost	debian
+2006-10-18T09:11:00.000Z	Abst	timfrost	http://paste.ubuntu-nl.org/27178/

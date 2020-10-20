@@ -1,0 +1,6 @@
+2012-09-01T13:11:00.000Z	Nephelo		I've got a problem with my Ubuntu 10.04 Server. I'm using smbd and mdadm (raid 5). Now I've got the problem that the server freezes after a time, accessing via smb. Nothing in syslog and RAM seems ok.
+2012-09-01T13:12:00.000Z	gordonjcp	Nephelo	can you still ssh in?
+2012-09-01T13:13:00.000Z	Nephelo		No I can't and using a keyboard directly connected also doesn't work.
+2012-09-01T13:15:00.000Z	gordonjcp	Nephelo	anything on the screen?
+2012-09-01T13:17:00.000Z	Nephelo		gordonjcp
+2012-09-01T13:17:00.000Z	Nephelo	gordonjcp	no nothing on the screen. and also htop stops working an freezes

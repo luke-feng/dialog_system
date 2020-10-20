@@ -1,0 +1,6 @@
+2007-05-05T10:16:00.000Z	demon_spork		't work
+2007-05-05T10:16:00.000Z	demon_spork		well, that isn't what you said
+2007-05-05T10:16:00.000Z	demon_spork		you just said sudo apt-get libc
+2007-05-05T10:17:00.000Z	demon_spork		I figured I needed the install part, just not hte 6 at the end :(
+2007-05-05T10:18:00.000Z	demon_spork		I need the libc header files installed on my system to install the nforce drivers, can anyone tell me how to install these?
+2007-05-05T10:19:00.000Z	StoneNote	demon_spork	sudo apt-get install libc6-dev  or sudo apt-get install libc6-dev-amd64   depending on your system

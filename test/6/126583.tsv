@@ -1,0 +1,6 @@
+2006-01-17T16:58:00.000Z	ashyg		what's the difference of erase entire disc and erase entire disk and use LVM?
+2006-01-17T16:58:00.000Z	ashyg		what is LVM?
+2006-01-17T16:58:00.000Z	dooglus	ashyg	it's the Logical Volume Manager
+2006-01-17T16:59:00.000Z	ashyg	dooglus	so which should i choose
+2006-01-17T16:59:00.000Z	ashyg		erase entire disk or erase and use LVM?
+2006-01-17T16:59:00.000Z	dooglus	ashyg	apparently it makes it easier to resize partitions later, 'cos it doesn't use "real" partitions.  I've never tried using it personally.

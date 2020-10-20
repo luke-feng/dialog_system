@@ -1,0 +1,6 @@
+2005-04-10T14:18:00.000Z	Zevin		hey
+2005-04-10T14:18:00.000Z	Zevin		is there a way to  make it so when i cloe my laptop lid, ubuntu doesn't shutdown?
+2005-04-10T14:19:00.000Z	Zevin		ouch
+2005-04-10T14:20:00.000Z	Zevin		i wanna see someone install it on one of thoes new P4's that use the amd64 commands
+2005-04-10T14:20:00.000Z	Zevin		NOOOO!!!
+2005-04-10T14:20:00.000Z	dwa_	Zevin	: checkout /etc/acpi/lid.sh

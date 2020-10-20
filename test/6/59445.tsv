@@ -1,0 +1,6 @@
+2008-04-26T17:07:00.000Z	jdolan		hi, if i don't have my CD handy, is there a way to force synaptic to download packages like g++?
+2008-04-26T17:08:00.000Z	Yapsey	jdolan	just using a network source?
+2008-04-26T17:08:00.000Z	jdolan	Yapsey	sure, how do i tell it to do that?
+2008-04-26T17:08:00.000Z	jdolan		just remove the CD from my sources list?
+2008-04-26T17:08:00.000Z	Yapsey	jdolan	place a # in front of your CD is the easiest way I guess :)
+2008-04-26T17:09:00.000Z	jdolan	Yapsey	hah, why didn't i think of that?  (just disabling the source), hehe :)

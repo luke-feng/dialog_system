@@ -1,0 +1,6 @@
+2006-08-28T05:12:00.000Z	gwz		and one more question: since there are so many problems with wireless nics in linux, why are there not out-of-the-box support for these things? since there is countless documents on this, i think there should be enough manpower, and i guess many of the open source-types could program most anything?
+2006-08-28T05:12:00.000Z	lupine_85	gwz	rt2500 is supported in Ubuntu
+2006-08-28T05:02:00.000Z	lupine_85	gwz	"sudo make install" if you've already compiled them :)
+2006-08-28T05:02:00.000Z	lupine_85	gwz	Or I've got a repository running for those cards
+2006-08-28T05:13:00.000Z	lupine_85	gwz	did you get my messages above?
+2006-08-28T05:14:00.000Z	lupine_85	gwz	once you get the right config utility, it's easy as pie

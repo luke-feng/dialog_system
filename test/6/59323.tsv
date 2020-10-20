@@ -1,0 +1,6 @@
+2008-04-27T15:14:00.000Z	barata		guys, how do you call imagemagick?
+2008-04-27T15:14:00.000Z	barata		display?
+2008-04-27T15:15:00.000Z	barata		how to install it with synaptic, what's the name nbkr ?
+2008-04-27T15:16:00.000Z	barata		I have synaptic ... I need to install imagemagick
+2008-04-27T15:16:00.000Z	barata		what's the name?
+2008-04-27T15:18:00.000Z	morpholology	barata	sudo aptitude install imagemagick, and note that you can press tab to complete package names.

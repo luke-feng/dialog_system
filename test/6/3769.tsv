@@ -1,0 +1,6 @@
+2012-02-17T01:15:00.000Z	mputtr		heya, i'm trying to install linux for the first time. I just installed ubuntu on a dell xp m1530 and for some reason it will not allow me to choose what to OS to boot
+2012-02-17T01:16:00.000Z	recon_lap	mputtr	did you remove the cd/usb?
+2012-02-17T01:17:00.000Z	recon_lap	mputtr	what option did you select for installing ubuntu
+2012-02-17T01:18:00.000Z	mputtr	recon_lap	at first i ran ubuntu from usb drive, then i installed ubuntu on hdd. i resized teh hdd half and half
+2012-02-17T02:16:00.000Z	mputtr	recon_lap	i finally got it to show the boot menu. apparently i never restarted it and pulled the usb stick then press enter. i just shut it down
+2012-02-17T02:18:00.000Z	recon_lap	mputtr	:)

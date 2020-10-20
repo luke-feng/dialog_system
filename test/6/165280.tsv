@@ -1,0 +1,6 @@
+2010-05-30T18:20:00.000Z	demifuror		hey guys, ive downloaded an iso file. i was hoping i could mount the iso and it would run automatically, as if it were a physical cd
+2010-05-30T18:20:00.000Z	demifuror		the thing is, the launch program is an exe, and if i mount the iso, and try to run it in wine, it eventually crashes. is there anyway i can make it run without needing wine?
+2010-05-30T18:22:00.000Z	Dr_Willis	demifuror	 i tend to copy all teh binaries from a a cd to  (for example )  the .wine/drive_C/GameInstall dir.   then  run the installer from there.
+2010-05-30T18:23:00.000Z	Dr_Willis	demifuror	 some games are ok with it. some are not.
+2010-05-30T18:23:00.000Z	Dr_Willis	demifuror	 it whould work then i imagine
+2010-05-30T18:23:00.000Z	Dr_Willis	demifuror	 unless its badly written program

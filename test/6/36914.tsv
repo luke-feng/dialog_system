@@ -1,0 +1,6 @@
+2009-06-09T05:20:00.000Z	aaditya		he forgot the /
+2009-06-09T05:20:00.000Z	commaCamel	aaditya	i've gone through both of those pages amongst many others, i have all packages installed that they suggest, some dvds work, it seems movie dvds will not (all dvds i have tried are commercial copies)
+2009-06-09T05:21:00.000Z	aaditya	commaCamel	so none of the movie DVDs work?
+2009-06-09T05:22:00.000Z	commaCamel	aaditya	correct
+2009-06-09T05:23:00.000Z	aaditya	commaCamel	you need the medibuntu packages. try that if you haven't already
+2009-06-09T05:26:00.000Z	commaCamel	aaditya	so this may be a symptom, because when i run regionset with one of the dvds that do not work, regionset returns an error saying "could not open disc (null)" but when i run it with a dvd that is already working then regionset works fine

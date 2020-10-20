@@ -1,0 +1,6 @@
+2009-09-18T00:44:00.000Z	dragon		what's the best alternative of MS Exchange for Ubuntu?
+2009-09-18T00:44:00.000Z	grawity	dragon	Server or client?
+2009-09-18T00:45:00.000Z	dragon	grawity	client
+2009-09-18T00:45:00.000Z	grawity	dragon	Evolution kind of supports Exchange, but only through its OWA thing.
+2009-09-18T00:46:00.000Z	dragon	grawity	I tried that, but this server is 2007, so evolution didn't work. evolution-mapi is buggy and incomplete.
+2009-09-18T00:46:00.000Z	grawity	dragon	In that case, all you have is IMAP for mail.

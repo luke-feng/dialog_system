@@ -1,0 +1,6 @@
+2007-11-21T01:16:00.000Z	chippy		hi, whats a quick way (grep?) to find out what a command was, like if I knew I did a "wget massivelycomplexurl" grep "wget" | history ?
+2007-11-21T01:17:00.000Z	juanez	chippy	'history' in bash
+2007-11-21T01:17:00.000Z	chippy	bradv	how can i use grep for that? I don't want to go through that huge file.
+2007-11-21T01:18:00.000Z	juanez	chippy	"history | grep wget"
+2007-11-21T01:18:00.000Z	chippy		thanks juanez , bradv and riotkittie :)
+2007-11-21T01:19:00.000Z	juanez	chippy	note that 'history' prints the contents of bash_history ... ;)

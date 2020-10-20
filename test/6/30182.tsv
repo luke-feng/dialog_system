@@ -1,0 +1,6 @@
+2009-10-17T15:48:00.000Z	j1mp492		i have 2 ubuntu to choose from when i start the computer after an upgrade, how do i get rid of the old one?
+2009-10-17T15:48:00.000Z	bazhang	j1mp492	two kernels?
+2009-10-17T15:48:00.000Z	j1mp492	bazhang	think so, i can choose 2 ubuntus, 2 safe mode, 2 memtest but the other one is just an old version
+2009-10-17T15:49:00.000Z	bazhang	j1mp492	best practices is to keep an extra one around
+2009-10-17T15:49:00.000Z	j1mp492	bazhang	what? i just want 1
+2009-10-17T15:50:00.000Z	bazhang	j1mp492	then you can remove with synaptic package manager

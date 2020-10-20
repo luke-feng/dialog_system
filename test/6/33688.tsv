@@ -1,0 +1,6 @@
+2009-11-15T08:29:00.000Z	infid		should normal desktop users of ubuntu enable the iptables firewall?
+2009-11-15T08:29:00.000Z	jonaskoelker	infid	I think normal users should use ufw
+2009-11-15T08:29:00.000Z	jonaskoelker	infid	rather than writing their own iptables rule set :)
+2009-11-15T08:30:00.000Z	infid	jonaskoelker	right but i'm saying should normal users even have the firewall enabled at all, since ubuntu comes with all ports not open on the public interface
+2009-11-15T08:30:00.000Z	jonaskoelker	infid	ah, that's a fair point.  Not sure
+2009-11-15T08:31:00.000Z	jonaskoelker	infid	it all depends on what you run on your box

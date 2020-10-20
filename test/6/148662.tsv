@@ -1,0 +1,6 @@
+2006-06-02T16:47:00.000Z	to0om		why doesn sudo smbpasswd -a share not work for me?
+2006-06-02T16:47:00.000Z	to0om		it alway says Failed to initialise SAM_ACCOUNT for user share. Does this user exist in the UNIX password database ?
+2006-06-02T16:47:00.000Z	to0om		but the user doesn't exist in fact
+2006-06-02T16:48:00.000Z	to0om		yeah Fujitsu, and when i create the user before with useradd - the same
+2006-06-02T16:48:00.000Z	to0om		but the option -a should create it (add)
+2006-06-02T16:48:00.000Z	rixth	to0om	no,, it adds it to the samba passwd file

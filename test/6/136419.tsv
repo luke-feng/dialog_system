@@ -1,0 +1,6 @@
+2006-04-09T08:13:00.000Z	ESPOiG		wen i do ./configure and it doesnt show errors and i see makefile and i think it has been made... does it make a .deb file and if it does were does it go?
+2006-04-09T08:13:00.000Z	ESPOiG		who me
+2006-04-09T08:13:00.000Z	ESPOiG		k
+2006-04-09T08:13:00.000Z	ESPOiG		yeh tell me
+2006-04-09T08:14:00.000Z	_jason	ESPOiG	he did
+2006-04-09T08:26:00.000Z	_jason	ESPOiG	apt-get source packagename

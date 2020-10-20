@@ -1,0 +1,6 @@
+2011-01-17T16:01:00.000Z	Randomerest		what does ubuntu have by default that prevents connecting to localhost? (setting up mail and chat thru ssh)?
+2011-01-17T16:03:00.000Z	ActionParsnip	Randomerest	you can tell the service you are setting up to not allow connections from localhost in most cases
+2011-01-17T16:06:00.000Z	Randomerest	ActionParsnip	i keep getting a connection refused when trying to connect to localhost for my ssh,
+2011-01-17T16:06:00.000Z	Randomerest	ActionParsnip	even when telnting to localhost gets connection refused, its weird ..
+2011-01-17T16:07:00.000Z	ActionParsnip	Randomerest	are you conecting to the right port?
+2011-01-17T16:09:00.000Z	Randomerest	ActionParsnip	I am positive, running just pop/smtp over ssh and they get connection refused, just to test i try telneting to myself and get it also :S

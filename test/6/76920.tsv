@@ -1,0 +1,6 @@
+2008-01-10T02:13:00.000Z	matkix		Question. Using IFCONFIG (because my network manager won't work) How can I set an interface to connect and use dchp?
+2008-01-10T02:13:00.000Z	brobostigon	matkix	/etx/network/interfaces
+2008-01-10T02:16:00.000Z	matkix	brobostigon	"/etx/network/interfaces" there is no folder named interfaces
+2008-01-10T02:17:00.000Z	matkix	brobostigon	"/etx/network/interfaces" there is no folder named interfaces
+2008-01-10T02:17:00.000Z	brobostigon	matkix	ifs a file, /etc/network/interfaces
+2008-01-10T02:20:00.000Z	brobostigon	matkix	have a look at dhclient.

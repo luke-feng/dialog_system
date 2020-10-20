@@ -1,0 +1,6 @@
+2006-05-04T14:39:00.000Z	kracker		hmm so i have been runing ubuntu 5.10 for quite a while and i just got an old netgeer pcmcia network card WG511 (802.11 G, V2, MADE IN TIWAN)
+2006-05-04T14:40:00.000Z	kracker		and i'm trying to get it working
+2006-05-04T14:40:00.000Z	kracker		but i'm not sure how i can "install" the hardware ...
+2006-05-04T14:40:00.000Z	kracker		i plugged in the card before i started ubuntu but ... no lights turned on ..
+2006-05-04T14:41:00.000Z	Howitzer	kracker	you have to modprobe the drivers i think
+2006-05-04T14:43:00.000Z	kracker	Howitzer	i thought i tried ... using:  sudo modprobe prism54

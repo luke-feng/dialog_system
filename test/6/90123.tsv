@@ -1,0 +1,6 @@
+2007-04-08T14:17:00.000Z	beg1689		anyone recommened a good gnutella client like frostwire that doesnt use java? i have limited memory available and frostwire kills it
+2007-04-08T11:24:00.000Z	beg1689		gaim ftw!
+2007-04-08T11:24:00.000Z	beg1689		gaim is much easier off the livecd though
+2007-04-08T11:25:00.000Z	beg1689		so anyway... im installing ubuntu on a laptop and i have to problems. first, the wifi works perfectly, but it requires me to run dhclient for the device everytime i boot up or enable the wifi device
+2007-04-08T11:26:00.000Z	crazifyngers	beg1689	what chipset does the card have?
+2007-04-08T11:27:00.000Z	crazifyngers	beg1689	ralink chipsets do that if your using nework-manager-gnome in feisty

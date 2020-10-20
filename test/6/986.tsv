@@ -1,0 +1,6 @@
+2012-08-28T03:11:00.000Z	zohjz		hello, i'm trying to recover a WEP password, does someone have a good recent tutorial about that?
+2012-08-28T03:11:00.000Z	zohjz		the aircrack-ng package seems outdated according to apt-get
+2012-08-28T03:12:00.000Z	Dr_Willis	zohjz	 thats not really supriseing. there may be newer PPA's for it.
+2012-08-28T03:12:00.000Z	Dr_Willis		!ppa | zohjz
+2012-08-28T03:26:00.000Z	zohjz	Dr_Willis	can't find a ppa for it
+2012-08-28T03:26:00.000Z	zohjz	Dr_Willis	i don't get it, according to https://launchpad.net/ubuntu/+source/aircrack-ng, it should be supported

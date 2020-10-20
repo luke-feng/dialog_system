@@ -1,0 +1,6 @@
+2008-10-21T13:59:00.000Z	Cyr4x		hi
+2008-10-21T13:59:00.000Z	Cyr4x		how to redirect a port with iptables?
+2008-10-21T13:59:00.000Z	Cyr4x		i want to redirect 443 to 22
+2008-10-21T13:59:00.000Z	Cyr4x		i've tried iptables -t nat -A PREROUTING -i eth0 -p tcp --dport 443 -j REDIRECT --to-port 22 but doesn't work
+2008-10-21T13:59:00.000Z	ikonia	Cyr4x	join #netfilter or #iptables
+2008-10-21T14:02:00.000Z	ikonia	Cyr4x	#netfilter

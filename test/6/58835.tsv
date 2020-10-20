@@ -1,0 +1,6 @@
+2008-05-03T01:46:00.000Z	sortudo_78	fde	may i wait for your help?
+2008-05-03T01:46:00.000Z	fde	sortudo_78	Ask your question of the whole channel, if I know the answer, I'll tell you  :)
+2008-05-03T01:52:00.000Z	fde	sortudo_78	Did you ever ask your question? I still don't see it?
+2008-05-03T02:02:00.000Z	sortudo_78	fde	! i am installing a PCMCIA modem (yiso c893), i am folowing thise steps: http://www.luxicomwireless.com/suporte/c893/manual_linux.pdf -> i used this driver: insmod /lib/modules/`uname –r`/kernel/drivers/usb/serial/usbserial.ko vendor=0x0eab product=0xc893 -> but i do not have thise directory /dev/usb/ttyUSB0 -> for with directory i have to create a simbolic link to run my modem ?
+2008-05-03T02:02:00.000Z	fde	sortudo_78	I saw, and didn't know the answer, so didn't reply  ;)
+2008-05-03T05:57:00.000Z	sortudo_78	fde	! i am installing a PCMCIA modem (yiso c893), i am folowing thise steps: http://www.luxicomwireless.com/suporte/c893/manual_linux.pdf -> i used this driver: insmod /lib/modules/`uname –r`/kernel/drivers/usb/serial/usbserial.ko vendor=0x0eab product=0xc893 -> but i do not have thise directory /dev/usb/ttyUSB0 -> for with directory i have to create a simbolic link to run my modem ?

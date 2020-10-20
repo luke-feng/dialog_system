@@ -1,0 +1,6 @@
+2005-11-23T13:41:00.000Z	liquidboy		couldn't find anything called ".xfce"
+2005-11-23T13:42:00.000Z	liquidboy		but i did find an "xfce4-session" and an "xfce" (under /etc/xdg)
+2005-11-23T13:44:00.000Z	liquidboy		...
+2005-11-23T13:46:00.000Z	liquidboy		how do i get permanant root privelages
+2005-11-23T13:46:00.000Z	liquidboy		?
+2005-11-23T13:46:00.000Z	HiddenWolf	liquidboy	sudo -s

@@ -1,0 +1,6 @@
+2007-05-07T10:34:00.000Z	cello_rasp		wtf?! sudo doesn't work anymore!
+2007-05-07T10:35:00.000Z	aro	cello_rasp	what?
+2007-05-07T10:35:00.000Z	cello_rasp	aro	seriously, sudo -s : nothing. sudo apt-get install * , nothing
+2007-05-07T10:35:00.000Z	aro	cello_rasp	any errors?
+2007-05-07T10:35:00.000Z	cello_rasp		i rebooted and it still doesnt work
+2007-05-07T10:35:00.000Z	cello_rasp	aro	nothing is returned

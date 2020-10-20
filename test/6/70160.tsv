@@ -1,0 +1,6 @@
+2009-05-10T10:48:00.000Z	philipp		office... mount point does not exist
+2009-05-10T10:49:00.000Z	philipp		wrong fs type, bad option, bad superblock on /dev/loop0,
+2009-05-10T10:49:00.000Z	philipp		       missing codepage or helper program, or other error
+2009-05-10T10:49:00.000Z	philipp		       Manchmal liefert das Syslog wertvolle Informationen – versuchen
+2009-05-10T10:49:00.000Z	philipp		       Sie  dmesg | tail  oder so
+2009-05-10T10:49:00.000Z	FloodBot3	philipp	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

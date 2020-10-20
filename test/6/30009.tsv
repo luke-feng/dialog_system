@@ -1,0 +1,6 @@
+2009-10-13T09:22:00.000Z	zetwale69		hi everybody
+2009-10-13T09:22:00.000Z	zetwale69		I am a newbie to ubuntu
+2009-10-13T09:23:00.000Z	zetwale69		have not used it much
+2009-10-13T09:23:00.000Z	zetwale69		i have a question about using applications from ubuntu server console
+2009-10-13T09:23:00.000Z	zetwale69		i would like to launch gui apps without having to start kde or gnome. Is this possible?
+2009-10-13T09:24:00.000Z	thedude42	zetwale69	well, you kinda need something handling X in order to launch gui apps.... you can use a different window manager if you prefer

@@ -1,0 +1,6 @@
+2007-04-13T08:38:00.000Z	Rio79		when you use the command chmod, is there a way for its child directories to inherit the same permissions?  (i just configured the samba server but i cant write to it from a windows pc)
+2007-04-13T08:38:00.000Z	xtknight	Rio79	-R for recursive
+2007-04-13T08:42:00.000Z	Rio79	xtknight	wastrel> "-R" only effects the child directories, right? it doesnt go up through the parent directories?
+2007-04-13T08:43:00.000Z	xtknight	Rio79	no it does not traverse the parents.  only the hcildren
+2007-04-17T09:21:00.000Z	xtknight	Rio79	ogm is a container for any multitude of video and audio streams
+2007-04-17T09:22:00.000Z	xtknight	Rio79	mplayer can switch between audio streams.  youll have to read the manual for that one though.  'man mplayer'.  VideoLAN client (VLC) may be able to also via GUI

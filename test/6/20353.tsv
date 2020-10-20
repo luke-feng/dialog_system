@@ -1,0 +1,6 @@
+2010-05-28T06:11:00.000Z	joesuffceren		is there a specific IRC channel for rescue remix and/or data recovery questions, or should I ask in here?
+2010-05-28T06:13:00.000Z	joesuffceren		I recovered an HFS partition using rescue remix (ddrescue) into an image file. I have mounted the image file and am attempting to give the data back to my friend on a USB hdd formatted with FAT32. Rescue Remix can read the 500GB fat32 partition, but it's only wanting to write 128GB of data to it. Any way to get it to write past the 128GB barrier?
+2010-05-28T06:15:00.000Z	magikid	joesuffceren	I think that's a limitation of the fat32 file system
+2010-05-28T06:19:00.000Z	joesuffceren	magikid	any suggestions for getting rescue remix to write past 128GB?
+2010-05-28T06:19:00.000Z	magikid	joesuffceren	all I can think of is maybe partitioning the disk up into smaller-than-128gb partitions and splitting up your files amongst them
+2010-05-28T06:20:00.000Z	joesuffceren	magikid	I'll give that a try. thanks

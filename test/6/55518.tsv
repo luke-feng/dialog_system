@@ -1,0 +1,6 @@
+2008-07-15T07:11:00.000Z	Blaqlight		lol everytime I log off, my appearence setting i.e. window shadows and stuff aren't remembered specifically compiz options. what can I do to make sure I get the same eyecandy each time I start x
+2008-07-15T07:11:00.000Z	Corkster	Blaqlight	sessions management > save session
+2008-07-15T07:12:00.000Z	Blaqlight	Corkster	Ive tried that, it doesn't actually remember it, done both automatically, and manually by pressing the button
+2008-07-15T07:15:00.000Z	Blaqlight		it just doesn't seem to want to remember the settings.
+2008-07-15T07:16:00.000Z	Corkster	Blaqlight	in emerald theme manager have you tried saving settings as a custom theme
+2008-07-15T07:17:00.000Z	Blaqlight	Corkster	Im not using that, I just want to use the built in appearence stuff in Gnome. not compiz-fusion-icon or ccsm

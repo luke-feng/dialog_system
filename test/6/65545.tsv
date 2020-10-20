@@ -1,0 +1,6 @@
+2008-01-22T23:07:00.000Z	MitsuoDeshoDesho		i need some help, my partition table got messed up, can i restore it without formatting?(its important, cause all my source for my project is there :( )
+2008-01-22T23:08:00.000Z	ikonia	MitsuoDeshoDesho	partition table gone = data gone
+2008-01-22T23:09:00.000Z	MitsuoDeshoDesho	ikonia	data is still there, i am 100% sure, just programs get all messed up and i cant mount shit
+2008-01-22T23:10:00.000Z	ikonia	MitsuoDeshoDesho	that language won't get you very far
+2008-01-22T23:10:00.000Z	ikonia	MitsuoDeshoDesho	the data is there, but without a partition table you can't do anything with it
+2008-01-22T23:11:00.000Z	MitsuoDeshoDesho	ikonia	some stuff can read it.. but some cant

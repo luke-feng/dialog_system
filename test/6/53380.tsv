@@ -1,0 +1,6 @@
+2008-08-12T04:19:00.000Z	unop	qr_	do you mean arguments .. instead of "command line options"? :)
+2008-08-12T04:19:00.000Z	qr_	unop	yes, yes I do
+2008-08-27T03:18:00.000Z	unop	qr_	you can get dd to give you a status update while it is running
+2008-08-27T03:19:00.000Z	qr_	unop	oh really? I didn't know that.
+2008-08-27T03:19:00.000Z	unop	qr_	kill -USR1 $pid_of_dd
+2008-08-27T03:20:00.000Z	qr_	unop	cool ... rebel_kid  do what unop says above, apparently you can get progress that way.

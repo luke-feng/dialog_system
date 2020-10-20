@@ -1,0 +1,6 @@
+2008-01-08T17:28:00.000Z	bziobnic		anyone know how to get mysql support in maildrop on ubuntu?
+2008-01-08T17:29:00.000Z	ikonia	bziobnic	is maildrop linked against mysql in the ubuntu package ?
+2008-01-08T17:29:00.000Z	bziobnic	ikonia	how do I tell? I am kind of new to ubuntu...
+2008-01-08T17:29:00.000Z	bziobnic		ldd shows no mysql libraries linked to maildrop, so probably not
+2008-01-08T17:30:00.000Z	ikonia	bziobnic	there you go then, no mysql support for you
+2008-01-08T17:30:00.000Z	bziobnic	ikonia	so the only option is compile from source?

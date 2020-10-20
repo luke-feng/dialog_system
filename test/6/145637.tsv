@@ -1,0 +1,6 @@
+2005-07-27T16:33:00.000Z	occy		I've got an external raid array that has dual power sources.  (two power cables)  I was wondering if I could have it hooked up to my desktop [it's an old 120G raid array]  and power it on and off when I want to transfer files.  I don't want to have to pay the electricity to have it constantly on.
+2005-07-27T06:50:00.000Z	occy		root@atomic:~ # umount /mnt
+2005-07-27T06:50:00.000Z	occy		umount: /mnt: device is busy
+2005-07-27T06:50:00.000Z	occy		how can I see what's using /mnt ?
+2005-07-27T06:52:00.000Z	occy		gam_serve  9039    october   73r      DIR       48,8    4096          2 /mnt
+2005-07-27T06:52:00.000Z	A[D] minS	occy	what do u want to do?

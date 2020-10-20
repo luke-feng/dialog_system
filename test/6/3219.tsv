@@ -1,0 +1,6 @@
+2012-03-11T19:46:00.000Z	iLogical		/dev/sdb on /media/PENDRIVE type vfat  ?
+2012-03-11T19:46:00.000Z	iLogical		/dev/sdb?
+2012-03-11T19:46:00.000Z	iLogical		MonkeyDust,
+2012-03-11T19:46:00.000Z	iLogical		yes?
+2012-03-11T19:47:00.000Z	cotterall	iLogical	/dev/sdb sounds right to me, I think unetbootin should only show usb devices in the dropdown list by default as well
+2012-03-11T19:48:00.000Z	iLogical	cotterall	MonkeyDust  thanks

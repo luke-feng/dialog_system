@@ -1,0 +1,6 @@
+2009-02-20T01:36:00.000Z	Cristi		hy! how can i get to automount with the fsab.conf? i am using these line /dev/sda1 /media/linux120 ext3 defaults 0 0 . Somehow it doesn't start on login. What is wrong?
+2009-02-20T01:37:00.000Z	fx3	Cristi	run sudo mount -a
+2009-02-20T01:37:00.000Z	fx3		if it doesnt mount then there is a problem and it wont mount at boot time
+2009-02-20T01:37:00.000Z	Cristi	fx3	they are mounted now
+2009-02-20T01:38:00.000Z	Cristi	fx3	however i want them to automount on startup? should i just try to restart? i just reloged after reediting fstab
+2009-02-20T01:38:00.000Z	fx3	Cristi	no, edit fstab and run sudo mount -a, if the file systems mount sucessfully they will automount on startu

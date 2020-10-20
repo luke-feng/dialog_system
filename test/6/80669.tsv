@@ -1,0 +1,6 @@
+2008-05-03T10:51:00.000Z	javaTN		any ideas anyone? http://pastebin.ca/1005742 i cant mount my NTFS drive... i atleast want read permission
+2008-05-03T10:53:00.000Z	chuy_max	javaTN	did you follow the wiki ubotu told you?, you can read mount it using this: sudo mount -o uid=your_user /dev/hda1 /mountpoint/
+2008-05-03T10:54:00.000Z	chuy_max	javaTN	that uses the kernel driver and youll be able to read without problems, ntfs3g is safer, you should check the wiki
+2008-05-03T10:54:00.000Z	chuy_max	javaTN	its ubottu someone changed the name, it is the bot
+2008-05-03T10:56:00.000Z	chuy_max	javaTN	well, then follow the instructions there, you have 2 choices
+2008-05-03T10:57:00.000Z	chuy_max	javaTN	sry I can't be of more help

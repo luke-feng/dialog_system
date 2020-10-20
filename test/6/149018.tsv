@@ -1,0 +1,6 @@
+2005-05-04T05:45:00.000Z	Larre		The kdelibs package is broken in hoary. Is the dev team working on it?
+2005-05-04T05:45:00.000Z	frank__	Larre	you can workaround it
+2005-05-04T05:46:00.000Z	frank__	Larre	uninstall knetworkconfig (or whatever the conflict is) install kdelibs-data then reinstall knetworkconf
+2005-05-04T05:46:00.000Z	Larre	frank__	thanks, ill try. Wait here.
+2005-05-04T05:49:00.000Z	frank__	Larre	hope it works but I gotta go
+2005-05-04T05:51:00.000Z	Larre	frank__	it worked! Thank you!

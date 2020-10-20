@@ -1,0 +1,6 @@
+2006-10-17T15:55:00.000Z	Smotang		Does anyone have the link for popular programs from windows and their respective partner programs on linux?
+2006-10-17T15:55:00.000Z	Smotang		Im after a Web page Design program
+2006-10-17T15:55:00.000Z	cherubiel	Smotang	bluefish
+2006-10-17T15:56:00.000Z	Smotang	cherubiel	thanks!
+2006-10-17T15:58:00.000Z	cherubiel	Smotang	enable the universe repo, apt-get update; apt-get install bluefish
+2006-10-17T16:00:00.000Z	cherubiel	Smotang	if you need help in enabling the univ repo, paste your /etc/apt/sources.lst

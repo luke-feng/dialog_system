@@ -1,0 +1,6 @@
+2009-12-15T21:03:00.000Z	luist		hey... i need to download a package repository with all subdirectories (everything under http://repo.moblin.org/moblin/)... how can i do that from terminal?
+2009-12-15T21:03:00.000Z	Slart	luist	wget or curl might be useful
+2009-12-15T21:04:00.000Z	luist	Slart	can help me with the parameters? i tried it but didnt really work
+2009-12-15T21:05:00.000Z	Slart	luist	I think there is a "create mirror" switch.. let me check
+2009-12-15T21:19:00.000Z	Slart	luist	sorry.. got a phone call.. I'll be right with you
+2009-12-15T21:24:00.000Z	Slart	luist	try "wget --mirror http://your-url" . I think that should be enough

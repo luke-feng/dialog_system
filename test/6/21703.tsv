@@ -1,0 +1,6 @@
+2010-10-28T07:36:00.000Z	ahaney3		should the mount command take a long time to complete?
+2010-10-28T07:36:00.000Z	ahaney3		any ideas what would cause it to hang?
+2010-10-28T07:36:00.000Z	ahaney3		sudo mount /dev/sdb7 /mnt/storage
+2010-10-28T07:37:00.000Z	Loshki	ahaney3	usually it's pretty quick, unless the drive has to spin up or it's a networked drive. Does the partition fsck ok?
+2010-10-28T07:40:00.000Z	Loshki	ahaney3	maybe, or it might just be the partition got corrupted. I agree with ironsight. Check the SMART data next...
+2010-10-28T07:42:00.000Z	Loshki	ahaney3	sudo gsmartcontrol if you have it. sudo smartctl /dev/sdb if you don't. Then look at http://en.wikipedia.org/wiki/S.M.A.R.T.

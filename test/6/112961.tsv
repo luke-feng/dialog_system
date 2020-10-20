@@ -1,0 +1,6 @@
+2008-01-16T20:20:00.000Z	strike		is there any way to set the vga= mode to one of the options when you type ask? like 132x50 or something
+2008-01-16T20:21:00.000Z	strike		are you using an lcd bullguard4?
+2008-01-16T20:22:00.000Z	strike		bullguard make sure your console res matches your x res vga=792 or something along those lines
+2008-01-16T20:24:00.000Z	strike		274 sounds too low for a console resolution
+2008-01-16T20:26:00.000Z	strike		i meant try 769 i think that is 640x400 about the lowest you can set
+2008-01-16T20:27:00.000Z	Jack_Sparrow	strike	Here is a chart for console res..  http://ubuntuforums.org/showthread.php?t=215566

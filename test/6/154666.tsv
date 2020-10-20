@@ -1,0 +1,6 @@
+2005-02-21T12:51:00.000Z	El_Cris		hey ppl
+2005-02-21T12:52:00.000Z	El_Cris		am I just blind or is there no kde available yet on the ubuntu-archive?
+2005-02-21T12:52:00.000Z	El_Cris		# apt-cache search kde ... shows nothing useful :)
+2005-02-21T12:53:00.000Z	maximaus	El_Cris	 Enable "Universe" in Synaptic and you'll find KDE.
+2005-02-21T12:53:00.000Z	maximaus		jinx
+2005-02-21T12:54:00.000Z	El_Cris	maximaus	thx

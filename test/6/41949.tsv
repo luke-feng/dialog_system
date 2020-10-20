@@ -1,0 +1,6 @@
+2011-02-04T21:24:00.000Z	milamber	Bushman	what bluetooth controller are you using bluez or gnome?
+2011-02-04T21:27:00.000Z	Bushman	milamber	gnome
+2011-02-04T21:28:00.000Z	milamber	Bushman	just a shot, but remove the gnome-bluetooth and try bluez (it is in a ppa)
+2011-02-04T21:28:00.000Z	Bushman	milamber	works like a charm with other devices, never crashed
+2011-02-04T21:41:00.000Z	Bushman	milamber	i removed gnome-bluetooth and bluez is already installed (ubuntu repos)
+2011-02-05T04:54:00.000Z	Bushman	milamber	sorry, but removing gnome-bluetooth didn't helped. the problem is still there.

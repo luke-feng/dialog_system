@@ -1,0 +1,6 @@
+2007-05-14T15:42:00.000Z	zezu_		after upgrading to feisty from LTS, glxinfo reports: Xlib:  extension "GLX" missing on display ":0.0".
+2007-05-14T15:43:00.000Z	zezu_		using nvidia drivers
+2007-05-14T15:44:00.000Z	zezu_		glx, dri modules are set to load
+2007-05-14T15:44:00.000Z	crdlb	zezu_	actually you don't want Load "dri"
+2007-05-14T15:45:00.000Z	zezu_	crdlb	i've read that, but it was working prop. i'll try removing it if reconf. desn't work prop.
+2007-05-14T15:46:00.000Z	crdlb	zezu_	run sudo nvidia-xconfig

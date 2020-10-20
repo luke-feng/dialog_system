@@ -1,0 +1,6 @@
+2010-05-06T03:40:00.000Z	DonaldShimoda		anybody knows why mplayer dont show in the menu on lucid?
+2010-05-06T03:40:00.000Z	hmw	DonaldShimoda	because you didnt install mplayer-gui probably. mplayer is a command line prog
+2010-05-06T03:40:00.000Z	DonaldShimoda		mmm... then was disabled on the upgrade
+2010-05-06T03:41:00.000Z	hmw	DonaldShimoda	it might just be "hidden" - there is some bug - go to the menu editor and uncheck/recheck the entry, if you find it
+2010-05-06T03:41:00.000Z	DonaldShimoda		ok
+2010-05-06T03:42:00.000Z	DonaldShimoda	hmw	thanks

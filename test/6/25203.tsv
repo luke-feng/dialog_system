@@ -1,0 +1,6 @@
+2010-07-28T06:06:00.000Z	steve6		i just installed ubuntu, and im getting 'error: no suitable mode found
+2010-07-28T06:06:00.000Z	steve6		and error: unknown command terminal
+2010-07-28T06:06:00.000Z	steve6		on startup, what gives?
+2010-07-28T06:06:00.000Z	actionParsnip	steve6	boot to root recovery mode and run: dpkg-reconfigure xserver-xorg
+2010-07-28T06:07:00.000Z	steve6	actionParsnip	i still get login proimpt after about 30 seconds
+2010-07-28T06:07:00.000Z	actionParsnip	steve6	hold shift at boot, select recovery mode, select root

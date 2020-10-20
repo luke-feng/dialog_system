@@ -1,0 +1,6 @@
+2006-07-29T14:11:00.000Z	nrdb		I am installing a new ubuntu, I was wondering how you stop it automattically starting the X server (gdm), but allow it to be still started manually by startx?
+2006-07-29T14:12:00.000Z	fyrestrtr	nrdb	use bum or update-rc.d to edit what runs at bootup, and remove gdm
+2006-07-29T14:26:00.000Z	fyrestrtr	nrdb	why do you want to remove it?
+2006-07-29T14:27:00.000Z	nrdb	fyrestrtr	I don't want to auto start the x server or any update to reset it to start automatically.
+2006-07-29T14:28:00.000Z	fyrestrtr	nrdb	use bum, and remove gdm from the startup scripts.
+2006-07-29T14:28:00.000Z	nrdb	fyrestrtr	what is 'bum

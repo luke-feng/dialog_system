@@ -1,0 +1,6 @@
+2010-11-08T14:09:00.000Z	llutz_	greppy	fsck will create that folder if it isn't present
+2010-11-08T14:09:00.000Z	greppy	llutz_	yes, but if you delete it, and it gets recreated after a X reboots, you'll have to delete it again, and there may be data in it that you want :)
+2010-11-08T14:10:00.000Z	llutz_	greppy	if theres data in you already had a problem
+2010-11-08T14:17:00.000Z	greppy	llutz_	byobu is just an addon to screen, it doesn't replace it.
+2010-11-08T14:18:00.000Z	greppy	llutz_	just using GNU screen will do what he needs.
+2010-11-08T14:18:00.000Z	llutz_	greppy	ok, got it wrong then, i never usedbyobu

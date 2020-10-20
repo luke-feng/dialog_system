@@ -1,0 +1,6 @@
+2009-07-18T08:15:00.000Z	EnragedOstrich		can someone tell me why this is happening?
+2009-07-18T08:15:00.000Z	EnragedOstrich		root@KublaKhan:~# cd ~
+2009-07-18T08:15:00.000Z	EnragedOstrich		root@KublaKhan:~# mkdir ePSXe_install
+2009-07-18T08:15:00.000Z	EnragedOstrich		root@KublaKhan:~# cd mkdir ePSXe_install
+2009-07-18T08:15:00.000Z	EnragedOstrich		-bash: cd: mkdir: No such file or directory
+2009-07-18T08:15:00.000Z	FloodBot2	EnragedOstrich	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

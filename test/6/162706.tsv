@@ -1,0 +1,6 @@
+2005-07-02T16:15:00.000Z	honor		I've got a little question for you gurus I'm a newbie with linux and now I want to change my windows partition to ext2 and mount it does anyone has a good url for me?
+2005-07-02T16:16:00.000Z	Seveas	honor	you know that if you change it to ext2, you will lose all data?
+2005-07-02T16:17:00.000Z	Seveas	honor	and you know that windows cannot use ext2?
+2005-07-02T16:17:00.000Z	Seveas	honor	then simply do mkfs.ext2 /dev/YOUR_DISK
+2005-07-02T16:34:00.000Z	Seveas	honor	then you gave it the bad partition type
+2005-07-02T16:35:00.000Z	Seveas	honor	it should be 83

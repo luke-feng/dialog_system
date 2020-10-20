@@ -1,0 +1,6 @@
+2010-09-23T19:55:00.000Z	DrPoO		hi, how do i recursively find files of a given filetype using the command line on a given directory?
+2010-09-23T19:55:00.000Z	undecim	DrPoO	You need to use the "find" command
+2010-09-23T19:56:00.000Z	undecim	DrPoO	I think it will only recognize file extensions though, not mime types
+2010-09-23T19:56:00.000Z	DrPoO	undecim	thnx
+2010-09-23T19:57:00.000Z	undecim	DrPoO	For example, to find all .jpg files in Pictures, "find Pictures -iname *.jpg"
+2010-09-23T19:58:00.000Z	undecim	DrPoO	You should put a "\" before that * though so that bash sends it the find command rather than expanding it itself.

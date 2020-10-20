@@ -1,0 +1,6 @@
+2007-12-10T01:04:00.000Z	askand		My totem media player is stuck in fullscreen..someone knows how to fix that?
+2007-12-10T01:05:00.000Z	nickrud	askand	alt-ctl-f1 , log in, killall totem
+2007-12-10T01:06:00.000Z	nickrud	askand	alt-f7 to get back to gui
+2007-12-10T01:06:00.000Z	askand	nickrud	EtteSB: the problem is not quitting it..that I can simply do with alt+f4..
+2007-12-10T01:08:00.000Z	askand	nickrud	yea but it doesnt hlp with restart..
+2007-12-10T01:08:00.000Z	nickrud	askand	I switched to vlc for my viewing needs, I just plain got tired of totem

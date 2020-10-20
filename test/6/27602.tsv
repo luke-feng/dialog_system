@@ -1,0 +1,6 @@
+2010-09-14T15:16:00.000Z	d3vic3		after trying to mount wmii socket using 9mount this way
+2010-09-14T15:16:00.000Z	d3vic3		"sudo modprobe 9pnet && sudo modprobe 9p && export WMII_NS_DIR=/tmp/ns.myhome.:0 && 9mount -i 'unix!'$WMII_NS_DIR/wmii /mnt/wmii"
+2010-09-14T15:16:00.000Z	d3vic3		i get no access to /mnt/wmii directory!
+2010-09-14T15:16:00.000Z	d3vic3		"ls -lh /mnt/wmii" gives me "d????????? ? ?    ?       ?                ? wmii"
+2010-09-14T15:16:00.000Z	d3vic3		any operation on /mnt/wmii gives an input/output error!
+2010-09-14T15:16:00.000Z	FloodBot4	d3vic3	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

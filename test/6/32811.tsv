@@ -1,0 +1,6 @@
+2009-08-13T18:02:00.000Z	RorZa		Hello I am scp ing a file from my local to my Slicehost server
+2009-08-13T18:02:00.000Z	RorZa		but I cannot locate the file
+2009-08-13T18:02:00.000Z	RorZa		How ccan I search for aa file in Ubuntu from command line
+2009-08-13T18:02:00.000Z	gartral	RorZa	locate
+2009-08-13T18:03:00.000Z	RorZa	gartral	 whats the full syntax
+2009-08-13T18:04:00.000Z	gartral	RorZa	locate <filename>

@@ -1,0 +1,6 @@
+2009-02-02T04:34:00.000Z	bigzero		hey guys. Having trouble using time command under ubuntu. I'm trying to set the --format flag, but time keeps trying to execute the flags as bash commands. "time -v echo hi" fr instance gives me "-bash: -v: command not found"
+2009-02-02T04:35:00.000Z	uncmar	bigzero	time is a timer.
+2009-02-02T04:35:00.000Z	uncmar	bigzero	I think you want date.
+2009-02-02T04:35:00.000Z	bigzero	uncmar	i want to measure execution time of my script.
+2009-02-02T04:36:00.000Z	bigzero	uncmar	i just want to specify the output format
+2009-02-02T04:38:00.000Z	uncmar	bigzero	I understand and don't have a solution.  Hopefully someone else does.

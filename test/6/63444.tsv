@@ -1,0 +1,6 @@
+2008-02-23T03:00:00.000Z	iositd	macogw	i disagree. If you can overflow a buffer and fill it with shellcode, you could, if the program you've exploited had root, get a rootshell ;-)
+2008-02-23T03:00:00.000Z	macogw	iositd	ok fine, you're 99% secure :P
+2008-02-23T03:00:00.000Z	iositd	macogw	yeah that's more like it :p
+2008-02-23T03:00:00.000Z	iositd	macogw	compare that to the 1% secure from m$
+2008-02-23T03:01:00.000Z	macogw	iositd	thats not something a firewall has any effect on though...well, except the phone home part...in which case you block outgoing ports, not incoming ones
+2008-02-23T03:01:00.000Z	iositd	macogw	if it's a smart firewall it'll filter out the shellcode and thus preventing the overflow ;-)

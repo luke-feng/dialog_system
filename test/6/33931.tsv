@@ -1,0 +1,6 @@
+2010-05-05T15:07:00.000Z	JenniferB		Hi folks, I am new to linux. Everytime I want to start Intellij I have to open up a terminal and type : /home/jennifer/Installed/Intellij/idea-9.01/bin/idea.sh &
+2010-05-05T15:07:00.000Z	JenniferB		but I'd like to create a shortcut for it... how do I do that?
+2010-05-05T15:07:00.000Z	JenniferB		it will also run in the terminal btw, so when I close the terminal the program dies :(
+2010-05-05T15:09:00.000Z	Guillem_	JenniferB	you can disown jobs from the shell (just type 'disown' ): if you close the terminal your job won't die
+2010-05-05T15:10:00.000Z	Guillem_	JenniferB	you may start idea.sh from Nautilus also (and if it works, you could create a launcher as well)
+2010-05-05T15:11:00.000Z	JenniferB	Guillem_	 no, it doesnt work from nautilus.

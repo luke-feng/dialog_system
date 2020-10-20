@@ -1,0 +1,6 @@
+2007-01-07T11:35:00.000Z	Chest		how do i stop a running X server?
+2007-01-07T11:37:00.000Z	Chest		how do i stop a running X server?
+2007-01-07T11:38:00.000Z	Chest		no it will restart it
+2007-01-07T11:38:00.000Z	Chest		i want to stop it
+2007-01-07T11:39:00.000Z	castoff	Chest	init 3
+2007-01-07T11:39:00.000Z	castoff	Chest	telinit 3

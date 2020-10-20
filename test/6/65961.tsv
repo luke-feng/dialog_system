@@ -1,0 +1,6 @@
+2012-06-12T10:07:00.000Z	tjpoe		once I have added a custom PPA, how do I install the package if the current package is newer than the one from the PPA?
+2012-06-12T10:08:00.000Z	ActionParsnip	tjpoe	sudo apt-get update; sudo apt-get install packagename
+2012-06-12T10:09:00.000Z	ActionParsnip	tjpoe	have you checked the version on the ppa?
+2012-06-12T10:12:00.000Z	ActionParsnip	tjpoe	what package name please?
+2012-06-12T10:12:00.000Z	ActionParsnip	tjpoe	are you adding the xorg edgers ppa?
+2012-06-13T04:36:00.000Z	ActionParsnip	tjpoe	is the screen ok otherwise?

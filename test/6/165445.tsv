@@ -1,0 +1,6 @@
+2009-01-01T10:49:00.000Z	lain_wired		Hiya, I'm trying to use a digital keychain (usb) on ubuntu. It mounts, but it seems to think it's a cd-rw. it has an DPFMate.exe program which I can't run, even under wine.
+2009-01-01T10:50:00.000Z	lain_wired		The brand is kaiserbaas. anyone have any ideas what to do?
+2009-01-01T10:51:00.000Z	maco	lain_wired	its a crappy PortableApps knockoff that makes a fake Start Menu on Windows after displaying an annoying splash screen and it requires Windows to get rid of it
+2009-01-01T10:52:00.000Z	maco	lain_wired	it tricks windows into doing auto-run by pretending to be a CD.  its a wonderful security nightmare.
+2009-01-01T10:52:00.000Z	maco	lain_wired	the app to get rid of it can be gotten from u3.com but yeah...windows only. or wine. ive heard it works in wine.
+2009-01-01T10:53:00.000Z	maco	lain_wired	oh...not a flash drive thing?

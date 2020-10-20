@@ -1,0 +1,6 @@
+2012-10-06T21:39:00.000Z	ARcaneWater		Hello, i am trying to install linux to make dual boot, but when i just boot it it says cannot read a file and after thath it shows me menu and i click install ubuntu...And then it shows me screen with some kind of erros like: Kernel panic - not syncing : VFS: Unable to mount root fson unknown block (0,0)
+2012-10-06T21:39:00.000Z	ARcaneWater		What should i do?
+2012-10-06T21:39:00.000Z	ARcaneWater		I am trying thath on Lenovo G780
+2012-10-06T21:41:00.000Z	escott	ARcaneWater	the kernel cannot find the root filesystem. use the bootinfo script and send us the output of it
+2012-10-06T21:43:00.000Z	escott	ARcaneWater	is this error from the install cd? in that case ignore my previous and check the md5sum's
+2012-10-06T21:43:00.000Z	ARcaneWater	escott	yes it is from install cd.

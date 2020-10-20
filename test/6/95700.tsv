@@ -1,0 +1,6 @@
+2007-07-07T15:33:00.000Z	AnObfuscator	TaJMoX	depending on the effects enabled, Beryl actually lowered CPU usage for me
+2007-07-07T15:34:00.000Z	AnObfuscator	TaJMoX	what settings do you use?
+2007-07-07T15:34:00.000Z	TaJMoX	AnObfuscator	XGL  ... i can't use aiglx with the fglrx driver (ATI Mobility X1300)
+2007-07-07T15:35:00.000Z	AnObfuscator	TaJMoX	ah, I use aiglx, so YMMV (XGL had tons of java swing issues for me, that were showstopping)
+2007-07-07T15:35:00.000Z	TaJMoX	AnObfuscator	yeah until ATI comes out with a driver that supports my card - I'm stuck with fglrx and XGL for beryl ...which pretty much burns a hole in my CPU and leaks memmory pretty quick
+2007-07-07T15:36:00.000Z	AnObfuscator	TaJMoX	http://www.newegg.com/Product/ProductList.aspx?Submit=ENE&N=2010380048+1305520548&Configurator=&Subcategory=48&description=&Ntk=&srchInDesc=

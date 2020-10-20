@@ -1,0 +1,6 @@
+2008-05-03T14:55:00.000Z	Gnea	abyss_	http://www.usalug.org/phpBB2/viewtopic.php?p=33142
+2008-05-03T14:57:00.000Z	abyss_	Gnea	i think that i cannot enable dma on an scsi/sata device
+2008-05-03T14:57:00.000Z	Gnea	abyss_	you won't know if you don't try :)
+2008-05-03T15:01:00.000Z	abyss_	Gnea	and btw i checked out your post but hdparm ignores it cause dma mode on sata device are handled by the disc
+2008-05-03T15:01:00.000Z	abyss_	Gnea	thanks anyway
+2008-05-03T15:03:00.000Z	Gnea	abyss_	ack, forgot about sdparm

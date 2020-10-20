@@ -1,0 +1,6 @@
+2007-02-07T11:47:00.000Z	scratchme		How do you create a floppy image file of unusual size, like the 1772KB ones or 2.88MB ones?
+2007-02-07T11:47:00.000Z	scratchme		Assuming you don't have the media, but you want to make a blank image file.
+2007-02-07T11:48:00.000Z	unop	scratchme	 you want to create an image of a floppy drive when the media doesnt exist?? can you please explain that again?
+2007-02-07T11:49:00.000Z	scratchme	unop	Basically I need an image file like the ones you would dd over to a floppy, but for a blank media.
+2007-02-07T11:49:00.000Z	scratchme		(like unformatted floppy)
+2007-02-07T11:50:00.000Z	unop	scratchme	 i dont think i follow -- you have a blank floppy and you want to write an image to it?? is that it?

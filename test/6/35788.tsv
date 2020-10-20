@@ -1,0 +1,6 @@
+2010-11-07T09:09:00.000Z	snarkster		im trying to image a hard drive, but want the entire drive including empty areas, what is the best app to do this
+2010-11-07T09:09:00.000Z	zakwilson	snarkster	dd
+2010-11-07T09:10:00.000Z	snarkster	zakwilson	 when i use dd i just end up with 210 mb img not the entire 160gb
+2010-11-07T09:11:00.000Z	zakwilson	snarkster	that is not the expected result.
+2010-11-07T09:12:00.000Z	snarkster	zakwilson	no i wanted the entire drive... ala ghost it
+2010-11-07T09:12:00.000Z	zakwilson	snarkster	I know. dd should have that result. If it didn't, something's wrong.

@@ -1,0 +1,6 @@
+2008-08-14T07:43:00.000Z	Adrian	CostaRicanQuaker	you will need to start it when you start fluxbox, i thing there is a startup file in ~/.fluxbox/ but you are probably best to ask in #fluxbox
+2008-08-14T07:44:00.000Z	CostaRicanQuaker	Adrian	how do oyu mean when i start fluxbox? i'm already on fluxbox
+2008-08-14T07:44:00.000Z	CostaRicanQuaker		i already asked at fluxbox and they just said rox, i got it but i don't know hwo to use it yet
+2008-08-14T07:45:00.000Z	Adrian	CostaRicanQuaker	but you will want it to start everytime you startup
+2008-08-14T07:45:00.000Z	CostaRicanQuaker	Adrian	so i reboot or log out and back in?
+2008-08-14T07:46:00.000Z	Adrian	CostaRicanQuaker	for now you can try and start it from the command line

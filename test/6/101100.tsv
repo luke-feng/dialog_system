@@ -1,0 +1,6 @@
+2007-01-27T09:30:00.000Z	cmweb		just to use a regular text file. That way it is faster and only has to add programs that are installed once
+2007-01-27T09:31:00.000Z	cmweb		ljl, probrubly the compresion part that get me
+2007-01-27T09:33:00.000Z	cmweb		ljl, ive no clue but i think it operates by scaning the entire harddrive at certain times then makes and updates a list. You may could eliminate that by making it add programs once that are created or installed
+2007-01-27T09:34:00.000Z	moodog	cmweb	how would you remove items from a plain text files reliabily?
+2007-01-27T09:34:00.000Z	cmweb		ljl, one minutes im trying loadwatch
+2007-01-27T09:35:00.000Z	cmweb	moodog	when they are deleted or removed it will send some sort of command to updatedb and remove it from registery

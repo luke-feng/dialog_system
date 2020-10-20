@@ -1,0 +1,6 @@
+2007-05-24T08:37:00.000Z	gui_		hi
+2007-05-24T08:37:00.000Z	gui_		I installed xubuntu64 (after similar problems under ubuntu32) and nothing change! My mouse become crazy, I receive the following message : [  979.152364]  psmouse.c: bad data from KBC - timeout bad parity
+2007-05-24T08:37:00.000Z	gui_		[  985.288424]  psmouse.c: Wheel Mouse at isa0060/serio1/input0 lost synchronization, throwing 3 bytes away.
+2007-05-24T08:37:00.000Z	gui_		I'm lost !
+2007-05-24T08:38:00.000Z	orville	gui_	get found.
+2007-05-24T08:38:00.000Z	gui_	orville	?

@@ -1,0 +1,6 @@
+2006-08-07T05:49:00.000Z	mwe	Phantom784	you know fglrx wont work with that?
+2006-08-07T05:49:00.000Z	Phantom784	mwe	so there's nothing I can do?
+2006-08-07T05:49:00.000Z	mwe	Phantom784	install the open source driver I think
+2006-08-07T05:49:00.000Z	Phantom784	mwe	where can I get that?
+2006-08-07T05:50:00.000Z	mwe	Phantom784	I'm not into the details but I think it's called radeon in xorg.conf
+2006-08-07T05:52:00.000Z	mwe	Phantom784	I think you need xserver-xorg-driver-fbdev

@@ -1,0 +1,6 @@
+2005-12-26T08:34:00.000Z	HighHopes		Hello folks! I recently installed Ubuntu Breezy 5.10 in an old laptop (Pentium II 233MHz) and I have an RT2500 802.11g PCMCIA wireless card plugged in. I wish I could install kernel modules to activate my card... How can I do that?
+2005-12-26T08:34:00.000Z	gnube	HighHopes	You need to make sure there is a drive for your card for linux.
+2005-12-26T08:35:00.000Z	HighHopes	gnube	yes, I know there is a driver because I used this card on Kanotix and Knoppix
+2005-12-26T08:35:00.000Z	gnube	HighHopes	Great, did you download the drive?
+2005-12-26T08:36:00.000Z	HighHopes	gnube	nop... I have no network in that computer. For that I want to install that card... I wish I could get driver from Ubuntu CD... Is that possible?
+2005-12-26T08:40:00.000Z	HighHopes	gnube	oh! sorry... Ubuntu detected my card! :-) Great! I saw that doing a "iwconfig"... I see "ra0".. Now I need to know how to configure ESSID, and those things to connect to my Access Point

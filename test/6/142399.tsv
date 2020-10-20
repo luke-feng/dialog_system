@@ -1,0 +1,6 @@
+2005-09-29T10:37:00.000Z	XoloX		Uhm, I just tried out the "System / Administration / Boot" tool, and it deleted my Windows entries in "/boot/grub/menu.lst"... Didn't even save a backup file it seems... Where am I to report this bug?
+2005-09-29T10:38:00.000Z	XoloX		hehe
+2005-09-29T10:39:00.000Z	XoloX		So no any one has any idea on the boot tool? --> "Uhm, I just tried out the "System / Administration / Boot" tool, and it deleted my Windows entries in "/boot/grub/menu.lst"... Didn't even save a backup file it seems... Where am I to report this bug?"
+2005-09-29T10:40:00.000Z	XoloX		I changed the label on two W2K boot entries that were added by the 5.10 installer
+2005-09-29T10:40:00.000Z	XoloX		Through the boottoolin the GNOME menu that is
+2005-09-29T10:41:00.000Z	test34	XoloX	did the same to me, eveytime it updates the kernel

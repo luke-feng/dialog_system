@@ -1,0 +1,6 @@
+2005-06-29T07:03:00.000Z	Ghetek		this isnt working
+2005-06-29T07:04:00.000Z	Ghetek		sudo mount '/hdc1/ISO/Worms Armageddon/WA.ISO' /mnt/iso -o loop
+2005-06-29T07:05:00.000Z	Ghetek		!dict tomato
+2005-06-29T07:06:00.000Z	Ghetek		but seriously... sudo mount '/hdc1/ISO/Worms Armageddon/WA.ISO' /mnt/iso -o loop
+2005-06-29T07:06:00.000Z	Ghetek		what am i doing wrong?
+2005-06-29T07:06:00.000Z	cthulfuego	Ghetek	-t iso9660

@@ -1,0 +1,6 @@
+2010-03-15T09:08:00.000Z	MobiusJedi		I'm scared: http://ubuntu.pastebin.com/YgLd6LCA
+2010-03-15T09:09:00.000Z	theadmin	MobiusJedi	You just don't have fsck for ntfs
+2010-03-15T09:38:00.000Z	theadmin	MobiusJedi	It means you made a hard shutdown/reboot which corrupted the system
+2010-03-15T09:38:00.000Z	theadmin	MobiusJedi	Seems it got fixed though
+2010-03-16T12:14:00.000Z	theadmin	MobiusJedi	Yeah, it's a gnome tool
+2010-03-16T12:14:00.000Z	theadmin	MobiusJedi	Just poke around in /var/log

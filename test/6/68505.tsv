@@ -1,0 +1,6 @@
+2008-01-11T21:31:00.000Z	ajitam		hi I get "XAMPP: Another web server daemon is already running." how can I see witch daemon is running and how do I stop it ?
+2008-01-11T21:32:00.000Z	a4ndr3c	ajitam	/etc/init.d/<daemon> start|stop
+2008-01-11T21:33:00.000Z	ajitam	a4ndr3c	thx but how do I found out which daemon I'm dealing with
+2008-01-11T21:34:00.000Z	a4ndr3c	ajitam	cd /etc/init.d then see which daemon u want to stop
+2008-01-11T21:34:00.000Z	ajitam	a4ndr3c	thx
+2008-01-11T21:46:00.000Z	ajitam	a4ndr3c	can I remove daemon from init.d (so that it doesn't start with next reboot)

@@ -1,0 +1,6 @@
+2012-04-28T22:42:00.000Z	kapz		help guys I am lost now....fresh install ubuntu 12.04, installation finishes successfully, however after reboot system cannot boot i.e like there is no grub or bootloader....I installed twice now
+2012-04-28T22:44:00.000Z	kapz		wat! no-one with ANY hint?
+2012-04-28T22:45:00.000Z	Fyodorovna	kapz	your only install?
+2012-04-28T22:45:00.000Z	Fyodorovna		or OS
+2012-04-28T22:47:00.000Z	kapz	Steve132	nope...and the CD I installed with works fine on another laptop...on a note, the first time I tried to install, Ubuntu warned that there was some alignment issue with disc and that I should delete and re-create partitions, which I did
+2012-04-28T22:48:00.000Z	Fyodorovna	kapz	using a live ubuntu cd download this script extract it to your desktop and run this command and pastebin the results text http://sourceforge.net/projects/bootinfoscript/     sudo bash ~/Desktop/bootinfoscript

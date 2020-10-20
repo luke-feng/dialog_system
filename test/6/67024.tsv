@@ -1,0 +1,6 @@
+2009-10-22T17:54:00.000Z	jonnor		how fast is your connection when downloading say the latest karmic release in Ubuntu?
+2009-10-22T17:54:00.000Z	jonnor		as expected or slow?
+2009-10-22T17:55:00.000Z	jonnor		also, did this problem start recently or has it always been this way
+2009-10-22T17:55:00.000Z	jonnor		so it seems that http is slow in general.. what about ftp?
+2009-10-22T17:56:00.000Z	ActionParsnip	jonnor	torrents are multiple source so will be faster
+2010-10-07T23:31:00.000Z	ActionParsnip	jonnor	dpkg x filename ,to extract debs. If there is a package with duplicated files so refuses to install use: --force-all ,option and log a bug

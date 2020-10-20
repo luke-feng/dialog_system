@@ -1,0 +1,6 @@
+2010-04-14T14:22:00.000Z	navi		after fresh clamtk instaltion , it's ready for full scan ? Or I need to find virus definitions/database somewhere ?
+2010-04-14T14:23:00.000Z	navi		I know
+2010-04-14T14:23:00.000Z	geekphreak	navi	 update it
+2010-04-14T14:23:00.000Z	geekphreak	navi	 open terminal
+2010-04-14T14:24:00.000Z	geekphreak	navi	type sudo freshclam
+2010-04-14T14:29:00.000Z	geekphreak	navi	not that i know off, but u can get something like ubcd

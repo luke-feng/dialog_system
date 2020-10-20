@@ -1,0 +1,6 @@
+2010-06-11T22:53:00.000Z	orangeppop		I've got an old HP Compaq NX9020 (with an Intel 82852 graphics thingy and a Celeron M CPU @ 1.4 GHz) and I can't get the 10.4 graphical installer to work - after having the ubuntu splash and the loading 'dots' for a while, they disappear with a flash of artifacting and then the screen turns black. I've tried the "fb=false video=vga16:off" boot parameters but the same thing happens. Is it worth burning off the 'alternative installer
+2010-06-11T22:55:00.000Z	DJones	orangeppop	I had a similar problem with an old laptop, I used the alternate install cd, then had to log into recovery mode before using the enable KMS solution in this website https://wiki.ubuntu.com/X/Bugs/Lucidi8xxFreezes
+2010-06-11T22:56:00.000Z	orangeppop	DJones	Thanks, I'll try that :D
+2010-06-11T22:56:00.000Z	DJones	orangeppop	Good luck, it was a bit messy, but solvable in the end
+2010-06-11T22:57:00.000Z	orangeppop	DJones	Messy is usually more fun ;)
+2010-06-11T23:04:00.000Z	orangeppop	DJones	The graphical installer is looking hopeful with the "i915.modeset=1" boot option - no need for alternative installer - so thanks for pointing me to that page! <3

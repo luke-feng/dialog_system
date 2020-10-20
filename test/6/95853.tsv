@@ -1,0 +1,6 @@
+2007-03-01T16:39:00.000Z	graabein		howdy i wonder how i can send a program to another x screen?
+2007-03-01T16:40:00.000Z	graabein		i want to start freevo on my tv which is set up as screen2 i think
+2007-03-01T16:40:00.000Z	unop	graabein	 provided you know the display's name it's as simple as.  DISPLAY=0.1 gui_application_launcher (1 being the display name here)
+2007-03-01T16:42:00.000Z	graabein	unop	how do i check to make sure which are telly and which are monitor?
+2007-03-01T16:42:00.000Z	unop	graabein	 open up terminals in each of the display and run this command.  echo $DISPLAY
+2007-03-01T16:43:00.000Z	graabein	unop	thanks

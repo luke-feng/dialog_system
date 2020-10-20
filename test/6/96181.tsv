@@ -1,0 +1,6 @@
+2007-10-24T16:30:00.000Z	ME_AGAIN		hi
+2007-10-24T16:30:00.000Z	ME_AGAIN		how do i manually download a package to my usb drive?
+2007-10-24T16:31:00.000Z	ME_AGAIN		like i want to download sun-java5-plugin package
+2007-10-24T16:32:00.000Z	ME_AGAIN		how do i manually download a package to my usb drive? sponix
+2007-10-24T16:33:00.000Z	Pici	ME_AGAIN	Either grab it from packages.ubuntu.com or `aptitude download packagename`
+2007-10-24T16:36:00.000Z	Pici	ME_AGAIN	your current directory.

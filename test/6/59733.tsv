@@ -1,0 +1,6 @@
+2008-04-27T14:40:00.000Z	insmod	absnt	sed s/=//
+2008-04-27T14:41:00.000Z	absnt	insmod	thanks, any way to make that replace more than the first = though
+2008-04-27T14:41:00.000Z	insmod	absnt	are they always in the same spot?
+2008-04-27T14:42:00.000Z	absnt	insmod	no =/ wouldnt it be with s and g
+2008-04-27T14:43:00.000Z	absnt	insmod	lookgs like s/=//g does it =D
+2008-04-27T14:43:00.000Z	insmod	absnt	:)

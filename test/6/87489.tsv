@@ -1,0 +1,6 @@
+2008-02-02T17:07:00.000Z	Industrial		How do I disable the pcspeaker?
+2008-02-02T17:07:00.000Z	Industrial		I want it gone forever not just from one or 2 apps by config
+2008-02-02T17:07:00.000Z	Industrial		shitty beep :P
+2008-02-02T17:08:00.000Z	Industrial		but there is no way to blacklist the module?
+2008-02-02T17:09:00.000Z	Industrial		thats what i'd do in eg archlinux. blacklist it so it doesnt load
+2008-02-02T17:09:00.000Z	bardyr	Industrial	/etc/modprobe/blacklist

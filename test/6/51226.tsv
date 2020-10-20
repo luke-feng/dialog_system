@@ -1,0 +1,6 @@
+2012-07-26T23:48:00.000Z	AchlysEpithet		I use a VIA VT17085 audio chipset and the front panel audio is not working on my Ubuntu 12.04 installation.
+2012-07-26T23:48:00.000Z	AchlysEpithet		how do I solve this?
+2012-07-26T23:50:00.000Z	AchlysEpithet		Not quite, retromingent.
+2012-07-26T23:50:00.000Z	AchlysEpithet		Unity 3D takes up some resources when running on Ubuntu 64 bit.
+2012-07-26T23:51:00.000Z	AchlysEpithet		Though, it works well enough, provided you have the required graphic processor.
+2012-07-26T23:51:00.000Z	bekks	AchlysEpithet	It does the same when using 32bit.

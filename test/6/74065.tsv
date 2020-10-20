@@ -1,0 +1,6 @@
+2008-05-14T20:03:00.000Z	niki		bytheway what is the system-tool-backends?
+2008-05-14T20:04:00.000Z	niki		is there any way to get the amount of memory used by the kernel?
+2008-05-14T20:05:00.000Z	Daisuke_Ido	niki	go into network settings and disable the card (system > administration > network)
+2008-05-14T20:06:00.000Z	niki	Daisuke_Ido	why?
+2008-05-14T20:07:00.000Z	Daisuke_Ido	niki	you asked how to disable a nic, right?
+2008-05-14T20:07:00.000Z	Daisuke_Ido	niki	whoops, i can't read!

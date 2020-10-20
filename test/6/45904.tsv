@@ -1,0 +1,6 @@
+2008-12-16T01:52:00.000Z	cbarreda		How do I un-install flash?
+2008-12-16T01:52:00.000Z	lufis	cbarreda	how did you install it?
+2008-12-16T01:52:00.000Z	cbarreda		From the web site.
+2008-12-16T01:53:00.000Z	cbarreda	lufis	From the web site.
+2008-12-16T01:53:00.000Z	lufis	cbarreda	navigate to /usr/lib/mozilla/firefox/plugins or /usr/lib/firefox/plugins and delete the libflashplayer.so file
+2008-12-16T01:53:00.000Z	cbarreda	lufis	ok thanks

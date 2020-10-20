@@ -1,0 +1,6 @@
+2009-11-23T16:57:00.000Z	Leoneof`		softwares from DVD ubuntu 9.04 will work in Ubuntu 9.10 ?
+2009-11-23T16:58:00.000Z	ardchoille	Leoneof`	It's not a good thing to mix things like that
+2009-11-23T16:58:00.000Z	Leoneof`	ardchoille	why? i think they are just old versions :/
+2009-11-23T16:59:00.000Z	ardchoille	Leoneof`	if it replaces a certain versionof a lib that another app needs
+2009-11-23T17:00:00.000Z	ardchoille	Leoneof`	use the package manager, that way deps will be satisfied properly
+2009-11-23T17:01:00.000Z	Leoneof`	ardchoille	thanks ;)

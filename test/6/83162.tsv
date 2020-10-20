@@ -1,0 +1,6 @@
+2007-07-07T05:29:00.000Z	N1degenarx		Hey, could anyone with the knowledge of ubuntu installation open a private chat with me, I am having a resolution error and it wont let me install.
+2007-07-07T05:31:00.000Z	N1degenarx		!ask iShick
+2007-07-07T05:31:00.000Z	N1degenarx		ishock i sent to a chat invite
+2007-07-07T05:33:00.000Z	taylor	N1degenarx	I just had this problem last night, your best bet is to hit Ctrl+ALT+F1 when your moniter says "cannot disply...", then in the terminal type sudo nano /etc/x11/xorg.conf  then just hit enter/follow prompt unitl you get to resolution screen.  The just hit enter to enable/disbale a resolution
+2007-07-07T05:39:00.000Z	N1degenarx	taylor	Thanks for the help, im going to try it out and see if it will let me install
+2007-07-07T05:39:00.000Z	taylor	N1degenarx	np, if not try the second option "Run in safe graphics mode"

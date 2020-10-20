@@ -1,0 +1,6 @@
+2006-11-27T16:29:00.000Z	phpnuborn		all i get is the blinking underline cursor.. mouse has no functions..
+2006-11-27T16:30:00.000Z	phpnuborn		oh.. yea..  redirect screen output to a file
+2006-11-27T16:30:00.000Z	infest	phpnuborn	are you trying to boot ubuntu, under vmware?
+2006-11-27T16:31:00.000Z	infest	phpnuborn	like ubuntu as a GuestOS
+2006-11-27T16:32:00.000Z	infest	phpnuborn	On *phyisical hard drive" ?
+2006-11-27T16:33:00.000Z	infest	phpnuborn	you need a bootable floppy or *.img to do so

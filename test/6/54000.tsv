@@ -1,0 +1,6 @@
+2008-11-05T16:08:00.000Z	burkesbythebay		I am getting an Errot 17 on boot 1ith 8.10 just after grub.  Has anyone had this error and know how to fix it.  I have a Sata hard disk.
+2008-11-05T16:09:00.000Z	siccness	burkesbythebay	simple
+2008-11-05T16:11:00.000Z	siccness	burkesbythebay	im confuse, just seems like a basic mbr issue
+2008-11-05T16:15:00.000Z	burkesbythebay	siccness	 i think the hard disk is faulty as it clicks every now and then.  bit alot of the threads point to grub or mbr being the problem
+2008-11-05T16:16:00.000Z	siccness	burkesbythebay	sure but that doesnt explain why usb doesnt work
+2008-11-05T16:17:00.000Z	burkesbythebay	siccness	what's usb got to do with it im running a sata hard disk

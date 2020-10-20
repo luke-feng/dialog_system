@@ -1,0 +1,6 @@
+2012-05-04T20:17:00.000Z	MirkoKa	drPoO	the hex id's are b for FAT32 and c for FAT32 LBA
+2012-05-04T20:18:00.000Z	drPoO	MirkoKa	do I *need* to specify the disk type in fdisk before using mkfs?
+2012-05-04T20:19:00.000Z	MirkoKa	drPoO	yes, at least windows won't recognize an FAT/NTFS partition if the id is not set
+2012-05-04T20:19:00.000Z	drPoO	MirkoKa	so using mkfs -T FAT32 should be mountable on a Windoze machine correct?
+2012-05-04T20:20:00.000Z	drPoO		assuming i picked FAT32 LBA as a label
+2012-05-04T20:21:00.000Z	MirkoKa	drPoO	actually it's -t but yes, should work, you might better used mkfs.vfat instead

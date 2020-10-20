@@ -1,0 +1,6 @@
+2010-04-12T01:18:00.000Z	skypce		hi guys, i want create a official deb package for intel gma 3150 and others) how can i do it?
+2010-04-12T01:18:00.000Z	skypce		hi guys, i want create a official deb package for intel gma 3150 and others) how can i do it? do you know people working on that?
+2010-04-12T01:19:00.000Z	iceroot	skypce	have a look at dh_make
+2010-04-12T01:19:00.000Z	iceroot	skypce	and for building the package (after creting with dh_make) you can use  dpkg-buildpackage -rfakeroot
+2010-04-12T01:22:00.000Z	iceroot	skypce	you have to do it all by yourself, dh_make is just building the deb-package strcutur with debian/rules and so on
+2011-03-14T02:56:00.000Z	iceroot	skypce	i have 1005px, dont know the difference to 1005pe

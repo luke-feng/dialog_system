@@ -1,0 +1,6 @@
+2012-10-04T22:05:00.000Z	msmith09571	neglesaks	theadmin so i checked my config, its setup properly to accept an ip via dhcp from the router, i even tried checking the box saying that it must use ipv4, and also tried removing the saved configuration and starting fresh. no go. still only gives me an ipv6 address, no v4
+2012-10-04T22:06:00.000Z	msmith09571		works fine from windows ? lol
+2012-10-04T22:06:00.000Z	msmith09571		i'm not sure what to try
+2012-10-04T22:06:00.000Z	msmith09571		im thinking of disabling v6 from the router
+2012-10-04T22:06:00.000Z	msmith09571		no real need for it.. right ?
+2012-10-04T22:07:00.000Z	neglesaks	msmith09571	i agree with theadmin , its not your pcs fault...

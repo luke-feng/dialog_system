@@ -1,0 +1,6 @@
+2009-05-06T08:15:00.000Z	Severian	mantis_	I see you are trying to setup a network share.  Do you want the directory to be on the Linux machine or the Windows one?
+2009-05-06T08:15:00.000Z	mantis_	Severian	The share is from an ubuntu box.
+2009-05-06T08:16:00.000Z	Severian	mantis_	Maybe someone else has helped you.  I can give you what I use.  I share it to windows, mac and linux machines.
+2009-05-06T08:17:00.000Z	mantis_	Severian	that'd be cool if I could look at your conf. I'm about to paste mine to a pastebin for [vali] to look at.
+2009-05-06T08:19:00.000Z	mantis_	Severian	thanks
+2009-05-06T08:26:00.000Z	Severian	mantis_	My config file is at  http://pastebin.com/f7d0e936c

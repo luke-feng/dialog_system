@@ -1,0 +1,6 @@
+2011-06-18T02:33:00.000Z	jon8		how can i reset the packet numbers that are displayed in ifconfig?
+2011-06-18T02:34:00.000Z	beli	jon8	for what reason?
+2011-06-18T02:34:00.000Z	jon8	beli	i would like to use it to track easily track some statitics
+2011-06-18T02:36:00.000Z	beli	jon8	thats not what ifconfig is ment to do...you could script something and calculate the difference manually...but there are better tools for countung packages sent...
+2011-06-18T02:36:00.000Z	jon8	beli	so is there or is there not a way to reset the packet counters in ifconfig
+2011-06-18T02:37:00.000Z	beli	jon8	i guess not, you might trick it with overwriting some proc tree entries...but there are tools to do what you want

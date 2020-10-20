@@ -1,0 +1,6 @@
+2008-11-24T00:37:00.000Z	eLtangaZ		how can i change for console to paste with ctrl + v instead of control + shift + v?
+2008-11-24T00:38:00.000Z	jrib	eLtangaZ	many terminal programs use ctrl-v
+2008-11-24T00:38:00.000Z	jrib	eLtangaZ	(for other things)
+2008-11-24T00:39:00.000Z	jrib	eLtangaZ	if you don't know about it yet, you can highlight to copy and middle click to paste in X
+2008-11-24T00:43:00.000Z	jrib	eLtangaZ	you really shouldn't be pasting that much into a terminal...
+2008-11-24T00:44:00.000Z	jrib	eLtangaZ	well I don't see why you need a terminal at all then

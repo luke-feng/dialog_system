@@ -1,0 +1,6 @@
+2005-07-13T14:36:00.000Z	ubuntu_new		hi
+2005-07-13T14:37:00.000Z	ubuntu_new		I am using live CD, how can I use Kdevelop ?
+2005-07-13T14:37:00.000Z	ubuntu_new		why are there no significant programs with the liveCD ?
+2005-07-13T14:38:00.000Z	ubuntu_new		no IDE
+2005-07-13T14:40:00.000Z	tiglionabbit	ubuntu_new	it is very easy to install new software over apt once you have a base install going
+2005-07-13T14:41:00.000Z	tiglionabbit	ubuntu_new	ubuntu is a desktop distro.  It has media players, internets, chat, and drawing stuff by default.  If you want more, install it

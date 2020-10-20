@@ -1,0 +1,6 @@
+2011-04-09T14:15:00.000Z	dee|dee		hi all, how to make ubuntu run on text mode?
+2011-04-09T14:15:00.000Z	dee|dee		I don;t find gdm on rc2.d
+2011-04-09T14:16:00.000Z	bullgard4	dee|dee	Open a terminal. then you will be able to run Ubuntu in text mode.
+2011-04-09T14:17:00.000Z	dee|dee	bullgard4	i mean i don;t want gdm start on startup
+2011-04-09T14:19:00.000Z	bullgard4	dee|dee	If you do not login to gdm, the program gdm will not start.
+2011-04-09T14:21:00.000Z	dee|dee	bullgard4	 I think u did't got the point. I don't want gdm stuff  start on startup. which mean no login with GUI stuff.

@@ -1,0 +1,6 @@
+2010-02-03T23:22:00.000Z	Santiago	ActionParsnip	 yes I know that... I connect the disk to the computer, and it mount the partition.. so the problems is tha nautilus don't allows me to write into the disk..but the partition is mounted
+2010-02-03T23:22:00.000Z	ActionParsnip	Santiago	use beter mount options in fstab or command line when you mount it. I'm guessing its an ntfs partition
+2010-02-03T23:23:00.000Z	Santiago	ActionParsnip	mmm but it have an unique partition in ext2, I've just done it with gparted
+2010-02-03T23:23:00.000Z	ActionParsnip	Santiago	then add an entry in fstab so users have full access to it
+2010-02-03T23:26:00.000Z	ActionParsnip	Santiago	fat32 isnt robust to random power offs, ntfs is much sturdier
+2010-02-03T23:27:00.000Z	Santiago	ActionParsnip	but ntfs is proprietary.. and I use only GNU/Linux systems, ubuntu jaunty, and ArchLinux

@@ -1,0 +1,6 @@
+2008-01-22T02:56:00.000Z	Jinn		How do i install Java on ubuntu PS3 ??
+2008-01-22T02:56:00.000Z	Jinn		Help!
+2008-01-22T02:56:00.000Z	Jinn		How do i install Java on ubuntu ps3 ??
+2008-01-22T02:56:00.000Z	Dr_willis__	Jinn	 i would be suprised if java has been ported to the ps3 cpus
+2008-01-22T02:58:00.000Z	Dr_willis__	Jinn	 Im not sure if the PS3 actually counts as a PPC or not.  I imagine theres some PS3 linux forums on the web.
+2008-01-22T03:00:00.000Z	Dr_willis__	Jinn	 then somthing is very confused in the land of ps3 linux. the PS3 uses the cell processors that are PPC variants. if its really a i386 - the  You just install the normal java packages.

@@ -1,0 +1,6 @@
+2008-12-22T08:36:00.000Z	Lexvegas		Does anyone know why 8.10 can't connect directly to a windows box, when 8.04 could? (I am simply connecting two computers via their lan ports. no routers or anything involved)'
+2008-12-22T08:36:00.000Z	Ward1983	Lexvegas	giveboth an ip in the same subnet and they can ping eachother
+2008-12-22T08:37:00.000Z	Lexvegas	Ward1983	thanks, ill try
+2008-12-22T08:37:00.000Z	Ward1983	Lexvegas	don't rely on this 169 ip crap :p its garbage
+2008-12-22T08:38:00.000Z	Lexvegas	Ward1983	lol. yeah.
+2008-12-22T08:39:00.000Z	Ward1983	Lexvegas	thats "goodluck" networking lol, its much better to just set it up manually

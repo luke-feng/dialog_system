@@ -1,0 +1,6 @@
+2011-04-22T21:29:00.000Z	Kruptein		hm I just logged in again after locking my screen,   and somehow my terminal session is freezed,   I can see the window but I can't type anything
+2011-04-22T21:29:00.000Z	Jasonn	Kruptein	restart
+2011-04-22T21:29:00.000Z	Kruptein	Jasonn	just joined, about what are you talking? :)
+2011-04-22T21:30:00.000Z	Kruptein	Jasonn	I hoped I could save the terminal session :f, I'm just going to kill gnome-terminal then
+2011-04-22T21:30:00.000Z	Jasonn	Kruptein	That would really be your best bet, or kill other high-mem processes...
+2011-04-22T21:32:00.000Z	Kruptein	Jasonn	this is awkward :D If I press ctrl+shift+t  a new tab appears in the terminal session in which I can type :p but the other tabs are still non-typable xD

@@ -1,0 +1,6 @@
+2009-06-15T10:24:00.000Z	om26er		while installing xubuntu or xfce whatever i am getting this error
+2009-06-15T10:24:00.000Z	om26er		 I wasn't able to locate a file for the kde-window-manager package. This might mean you need to manually fix this package
+2009-06-15T10:25:00.000Z	om26er		plz help me
+2009-06-15T10:25:00.000Z	om26er		 I wasn't able to locate a file for the kde-window-manager package. This might mean you need to manually fix this package
+2009-06-15T10:25:00.000Z	tiede	om26er	try sudo dpkg --configure -a in a terminal
+2009-06-15T10:36:00.000Z	tiede	om26er	did you try sudo dpkg --configure kde-window-manager?

@@ -1,0 +1,6 @@
+2010-01-11T06:50:00.000Z	webfox		can someone help me with some SSH?
+2010-01-11T06:50:00.000Z	sync3times	webfox	yup
+2010-01-11T06:51:00.000Z	webfox		Well, I can connect and run commands on my server just fine. The problem is that once I terminate the connection, it kills the terminal too. Is there any way for it to continue the task? Thanks for the help!
+2010-01-11T06:52:00.000Z	webfox	blakkheim	No screen support on DROID, plus its laggy. :P
+2010-01-11T06:53:00.000Z	webfox	blakkheim	>:\
+2010-01-11T06:53:00.000Z	sync3times	webfox	the screen command should be what you need

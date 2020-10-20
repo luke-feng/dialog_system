@@ -1,0 +1,6 @@
+2008-06-15T04:11:00.000Z	lejon		anyone know a good command to figure out what motherboard you have in ubuntu?
+2008-06-15T04:11:00.000Z	ompaul	lejon	a screwdriver it the best way - you can identify lots if you know the make and model of the machine in some cases
+2008-06-15T04:12:00.000Z	ompaul		!xen | onisciente
+2008-06-15T04:12:00.000Z	lejon	ompaul	ah, gotta do it the old fashion way then I guess >.< I had hoped I wouldnt have to take the lappy apart,
+2008-06-15T04:12:00.000Z	ompaul	lejon	what info are you looking for chipsets are available in /proc and lshw
+2008-06-15T04:13:00.000Z	lejon	ompaul	I know what pci and usb devices I got, I need to know my motherboard model so I can figure out if coreboot v2 would work on my lappy

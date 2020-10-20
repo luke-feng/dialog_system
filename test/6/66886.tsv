@@ -1,0 +1,6 @@
+2009-12-15T03:31:00.000Z	Bigrobc		can somebody help uninstall wine
+2009-12-15T03:32:00.000Z	Bigrobc		well i used the package manager to remove it
+2009-12-15T03:32:00.000Z	Bigrobc		but its still in my applications menu
+2009-12-15T03:33:00.000Z	Bigrobc		i typed that cptblood and it says there's no such package found
+2009-12-15T03:33:00.000Z	ActionParsnip	Bigrobc	look in ~/.config/menus
+2009-12-15T03:34:00.000Z	ActionParsnip	Bigrobc	the extra menu items you see are stored there

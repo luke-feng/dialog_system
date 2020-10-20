@@ -1,0 +1,6 @@
+2006-09-02T07:20:00.000Z	Ayabara		I need a program for taking backup of a partition on my laptop to an external harddrive. What I'd like is a program that automates the process and does incremental backup. Anyone know of such an app?
+2006-09-02T07:22:00.000Z	pilpi	Ayabara	rsync is a command line tool which I'm planning to use. it requires a bit of manual work to get it working, but then how it works is brilliant :).
+2006-09-02T07:23:00.000Z	Ayabara	pilpi	aaahh. I've used that one at work, but I didn't think about it :-)
+2006-09-02T07:23:00.000Z	pilpi	Ayabara	http://www.mikerubel.org/computers/rsync_snapshots/
+2006-09-02T07:28:00.000Z	pilpi	Ayabara	someone also recommended kdar or bacula to me but don't know about those. kdar has good encryption at least
+2006-09-02T07:30:00.000Z	Ayabara	pilpi	I'm soon getting too many alternatives ;-)

@@ -1,0 +1,6 @@
+2010-06-12T21:09:00.000Z	sadidiot		please i need some help, i've removed in synaptic a lot of packages to free up space and now i've messed up my system, after the restart i can't use my keyboard or mouse properly, can't click the System menu, etc. but they work very good on the startup user login. is there any way i could restore the packages i've uninstalled or find out their names from the logs or anything ? now i'm in the xterm environment and everything works just fine (limited to one appl
+2010-06-12T21:09:00.000Z	sadidiot		ication at a time). please help me, i'm desperate :(
+2010-06-12T21:10:00.000Z	Slart	sadidiot	you could install   ubuntu-desktop   , that should get you back
+2010-06-12T21:10:00.000Z	sadidiot	Slart	but the desktop works
+2010-06-12T21:10:00.000Z	sadidiot		it wasn't removed
+2010-06-12T21:11:00.000Z	Slart	sadidiot	ok, I might have misunderstood you then

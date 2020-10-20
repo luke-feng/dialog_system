@@ -1,0 +1,6 @@
+2005-03-20T14:12:00.000Z	membreya		hmmm is there any way to force nautilus to reload the thumbnails it has stored for videos?
+2005-03-20T14:13:00.000Z	aquarius	membreya	you could empty out ~/.thumbnails, but that'll delete *all* your thumbnails.
+2005-03-20T14:15:00.000Z	aquarius	membreya	probably got them cached in memory...?
+2005-03-20T14:16:00.000Z	membreya	aquarius	nope, it's not even displaying the thumbnails now :| will figure it out :P
+2005-03-20T14:16:00.000Z	aquarius	membreya	er. oops. hope i haven't broken it for you :)
+2005-03-20T14:22:00.000Z	membreya	aquarius	it's rebuilding the cached thumbnails for pics, but not movies :\

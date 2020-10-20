@@ -1,0 +1,6 @@
+2005-08-10T07:47:00.000Z	{cYanide}		erm what would be the app-get thing (cant remember the line :/) to install a pack
+2005-08-10T07:48:00.000Z	topyli	{cYanide}	apt-get install <package>
+2005-08-10T14:25:00.000Z	topyli	{cYanide}	in short: boot from a live cd or whatever to get into linux. chroot to your root partition. run grub-install
+2005-08-10T14:50:00.000Z	topyli	{cYanide}	/var/cache/apt/archives
+2005-08-10T14:52:00.000Z	{cYanide}	topyli	 is that the only place the install stores stuff?
+2005-08-10T14:52:00.000Z	topyli	{cYanide}	the packages, yes

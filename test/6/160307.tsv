@@ -1,0 +1,6 @@
+2004-11-14T12:57:00.000Z	epod		The other day someone sent me to an ubuntulinux.org page that not only showed how to install the ndiswrapper, but how to save the settings for it.  Can anyone refer me to that url?
+2004-11-14T12:59:00.000Z	epod		one of the ubuntu pages had a whole writeup on it
+2004-11-14T12:59:00.000Z	epod		but it's *not* the ndiswrapper howto, that just says how to install it
+2004-11-14T12:59:00.000Z	strestout1__	epod	im having the same problem
+2004-11-14T13:00:00.000Z	strestout1__		sometimes i even have to rmmod ndiswrapper, modprobe ndiswrapper before it works
+2004-11-14T13:00:00.000Z	epod	strestout1__	yeah, and I know the answer is on the ubunti site, I just can't find the page :D

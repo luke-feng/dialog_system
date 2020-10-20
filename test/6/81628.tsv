@@ -1,0 +1,6 @@
+2007-08-09T14:16:00.000Z	Daniel1979		I have a problem with a new laptop, I successfully installed Ununtu 7.04 with Vista as dual boot. The network works when Ubuntu is sole operating system or when you boot the live CD, but not after the install with vista on a separate partition! Any body think they can help me?
+2007-08-09T14:16:00.000Z	Daniel1979		yip
+2007-08-09T14:18:00.000Z	Daniel1979		it boots ubuntu and vista fine, its just the lan card thats down in Ubuntu
+2007-08-09T14:19:00.000Z	kousotu	Daniel1979	what card is your LAN on Vista?
+2007-08-09T14:21:00.000Z	kousotu	Daniel1979	on vista, go to device manager
+2007-08-09T14:22:00.000Z	kousotu	Daniel1979	if you're on vista right now

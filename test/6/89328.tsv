@@ -1,0 +1,6 @@
+2007-04-22T08:40:00.000Z	linux__alien		can ubuntu be used as a development platform also?
+2007-04-22T08:40:00.000Z	linux__alien		i mean i want to install ubuntu in machines where development is done can it be installed?
+2007-04-22T08:40:00.000Z	magnetron	linux__alien	yes
+2007-04-22T08:41:00.000Z	linux__alien	magnetron	this is the first time i am gonna install Ubuntu . Just downloaded Fiesty Fawn is there anything that i ve to take care before installing Ubuntu. I am using pppoe for connecting to Internet will it work in Ubuntu?
+2007-04-22T08:44:00.000Z	magnetron	linux__alien	what graphics card are you using? some with ATI X... cards need the "alternate" installation cd. about ppoe: i haven't used it, but i know there is software for it
+2007-09-13T10:16:00.000Z	magnetron	linux__alien	it's enabled by default in ubuntu. however, your router may be blocking it

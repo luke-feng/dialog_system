@@ -1,0 +1,6 @@
+2008-11-11T09:08:00.000Z	plouffe		Can't install "Distribution updates>ubuntu-desktop (26KB)", update manager won't let me select the check box. Any idea why? (8.10,64AMD,desktop)
+2008-11-11T09:08:00.000Z	KillerOrca	plouffe	need to unlock it maybe?
+2008-11-11T09:08:00.000Z	plouffe	KillerOrca	How do I unlock it?
+2008-11-11T09:09:00.000Z	KillerOrca	plouffe	if it is locked there will be a locked icon on the window
+2008-11-11T09:10:00.000Z	plouffe	KillerOrca	there is none
+2008-11-11T09:10:00.000Z	KillerOrca	plouffe	then I would take the terminal suggestion

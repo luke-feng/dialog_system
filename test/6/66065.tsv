@@ -1,0 +1,6 @@
+2009-09-14T14:22:00.000Z	bbrewer69		i have a question about booting ubuntu from a usb drive
+2009-09-14T14:23:00.000Z	bbrewer69		is there anyone that could possibly help me
+2009-09-14T14:24:00.000Z	bbrewer69		i need to get ubuntu onto a usb drive to put on a harddrive with no OS
+2009-09-14T14:25:00.000Z	bbrewer69		yeah i need jaunty there in lies my prob
+2009-09-14T14:25:00.000Z	ActionParsnip	bbrewer69	i use this: http://www.pendrivelinux.com/usb-kubuntu-904-persistent-install-windows/
+2009-09-14T14:28:00.000Z	ActionParsnip	bbrewer69	you need to put the files on in a special way, then install the bootloader. Those programs will manage that for you

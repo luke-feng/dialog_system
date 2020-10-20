@@ -1,0 +1,6 @@
+2010-03-23T22:37:00.000Z	Arkava		hi, im having problems installing gloobus-flow, can someone help me?
+2010-03-23T22:39:00.000Z	Arkava		okey, when i 'make' the folder it returns /home/castro/gloobus-flow/src/clutter-black-texture.cpp:40: undefined reference to `cogl_rectangle(float, float, float, float)'
+2010-03-23T22:39:00.000Z	Arkava		collect2: ld returned 1 exit status
+2010-03-23T22:39:00.000Z	Arkava		make[1]: *** [gloobus] Error 1
+2010-03-23T22:39:00.000Z	Arkava		make[1]: se sale del directorio `/home/castro/gloobus-flow/src'
+2010-03-23T22:39:00.000Z	FloodBot3	Arkava	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

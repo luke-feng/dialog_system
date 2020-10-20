@@ -1,0 +1,6 @@
+2005-04-28T12:21:00.000Z	Dangly		what is the version of 2.6.11 i should install for amd64?
+2005-04-28T12:22:00.000Z	Dangly		is it the linux-image-2.6.11-1 amd64 -generic?
+2005-04-28T12:23:00.000Z	SeamusLP	Dangly	 I think k7 is what you're looking for with amd64
+2005-04-28T12:29:00.000Z	SeamusLP	Dangly	 If you install that kernel you'll have a choice at bootup
+2005-04-28T12:29:00.000Z	SeamusLP	Dangly	 If it fails, you'll be fine because you can choose your previous kernel
+2005-04-28T12:30:00.000Z	SeamusLP	Dangly	 And not taking into consideration any strange bugs which may involve that kernel version and your hardware, that should be the kernel you're looking for

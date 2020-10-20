@@ -1,0 +1,6 @@
+2011-05-02T23:13:00.000Z	bsamson		Has anybody else had trouble with full screen flash video freezing the xserver in Natty?
+2011-05-02T23:13:00.000Z	Halzen	bsamson	That is a known Flash issue. Try opening your Flash preferences and disabling hardware acceleration.
+2011-05-02T23:14:00.000Z	bsamson	Halzen	thanks ^^ you have a link to a case or anything?
+2011-05-02T23:15:00.000Z	Halzen	bsamson	Google fullscreen flash linux and you'll have millions of hits.
+2011-05-02T23:15:00.000Z	bsamson	Halzen	yeah most of those are ancient though :/
+2011-05-02T23:15:00.000Z	Halzen	bsamson	Ancient, but still very relevant. The problem has not been solved on even the newest version of Flash, the newest version of Ubuntu, and the newest Linux kernel.

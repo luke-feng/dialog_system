@@ -1,0 +1,6 @@
+2009-04-29T14:41:00.000Z	thepenguin37		help please. my server gone. apt-get update gives error. dpkg --configure -a prints http://paste.ubuntu.com/160577/
+2009-04-29T14:42:00.000Z	thepenguin37		:S
+2009-04-29T14:43:00.000Z	joaopinto	thepenguin37	did you executed the dpkg command as request ?
+2009-04-29T14:43:00.000Z	thepenguin37	joaopinto	yes. after apt-get update error
+2009-04-29T14:44:00.000Z	joaopinto	thepenguin37	ouch, you must have configured an incompatible repository source
+2009-04-29T15:04:00.000Z	thepenguin37	joaopinto	hey. i read this documents but it says before upgrade update your system but i cannot update because there is no working repository for gutsy. they are all gone http://us.archive.ubuntu.com/ubuntu/dists/gutsy

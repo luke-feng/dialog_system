@@ -1,0 +1,6 @@
+2005-10-16T12:45:00.000Z	fastly		what is the apt-get equivalent for etc-update?
+2005-10-16T12:46:00.000Z	fastly		shows you what config files are pending an update after upgrading packages
+2005-10-16T12:46:00.000Z	Eldessar	fastly	run man aptitude
+2005-10-16T12:47:00.000Z	fastly		i.e. xorg.conf may be updated when xorg is upgraded... the old config file is not touched until you have used etc-update and viewed the diff
+2005-10-16T12:47:00.000Z	fastly	Eldessar	will do thanks..
+2005-10-16T12:47:00.000Z	Eldessar	fastly	that sounds like a gentoo-specific thing

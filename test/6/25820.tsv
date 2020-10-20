@@ -1,0 +1,6 @@
+2010-02-23T12:49:00.000Z	iDope		ok I have a server running fiesty fawn
+2010-02-23T12:50:00.000Z	iDope		and I want to dist-upgrade it all the way up to 9.10
+2010-02-23T12:50:00.000Z	iDope		I don't have physical access
+2010-02-23T12:50:00.000Z	iDope		its a remote system so dist-upgrades are the only way.... anyone willing to help?
+2010-02-23T12:51:00.000Z	Xaero252	iDope	http://sysblogd.wordpress.com/2008/05/14/ubuntu-hardy-heron-dist-upgrade-via-command-line/
+2010-02-23T12:52:00.000Z	Xaero252	iDope	read that page since you do not have direct access, it tells you what happens when you run the command as far as a new SSHD being run

@@ -1,0 +1,6 @@
+2011-07-11T16:25:00.000Z	strk		after a recent upgrade (kernel?) I can hear no more sound, how can I debug it ?
+2011-07-11T16:26:00.000Z	bazhang	strk	kernel upgrade? on your own, or from ubuntu repos
+2011-07-11T16:26:00.000Z	strk	bazhang	repos
+2011-07-11T16:26:00.000Z	strk	bazhang	lucid
+2011-07-11T16:27:00.000Z	bazhang	strk	check alsamixer to make sure nothing is muted
+2011-07-11T16:28:00.000Z	strk	bazhang	"Speaker" !

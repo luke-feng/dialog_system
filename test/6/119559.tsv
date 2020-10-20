@@ -1,0 +1,6 @@
+2006-08-13T13:40:00.000Z	florian		hi, is it possible to synchronize the system clock on startup?
+2006-08-13T13:41:00.000Z	DarkElf109	florian	Yes
+2006-08-13T13:41:00.000Z	DarkElf109		Nope. Shouldn't. If anything at all, you might need the restricted drivers
+2006-08-13T13:41:00.000Z	DarkElf109		!restricted
+2006-08-13T13:41:00.000Z	florian	DarkElf109	do you know a howto or can you tell me how to do that?
+2006-08-13T13:43:00.000Z	DarkElf109	florian	Lookup ntpdate and initscripts

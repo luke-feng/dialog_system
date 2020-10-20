@@ -1,0 +1,6 @@
+2009-12-31T19:09:00.000Z	nasser		how can I run ubuntu in low quality?
+2009-12-31T19:11:00.000Z	nasser		jimcoocant; exactly, low resolution
+2009-12-31T19:12:00.000Z	nasser		So, what will make my computer faster than it's?
+2009-12-31T19:13:00.000Z	nasser		I've uninstalled compiz and the problem persists
+2009-12-31T19:13:00.000Z	scunizi	nasser	if you have ATI check ATI's website for compatibility issues with your model card and xorg 7.3+
+2009-12-31T19:39:00.000Z	scunizi	nasser	FuneralChris look up your ATI card on ATI's site to see if it's even compatable with Xorg 7.2+  .. if it's not it won't make any difference installing the driver.

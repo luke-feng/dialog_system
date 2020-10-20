@@ -1,0 +1,6 @@
+2007-12-23T00:52:00.000Z	andre		i moved my boot stuff to another partition manually but everytime there is some major update menu.lst is reset to (hd0,0) what should be (hd0,2) where does is that information stored?))
+2007-12-23T00:53:00.000Z	wols	andre	groot line in menu.lst
+2007-12-23T00:55:00.000Z	andre	wols	that is commented out, so my best guess is that hd0,0 is default and that i should set it to groot (hd0,2)
+2007-12-23T00:55:00.000Z	wols	andre	read more carefully before you edit
+2007-12-23T00:56:00.000Z	wols	andre	the fact that it's commented is right
+2007-12-23T00:56:00.000Z	andre	wols	so i should leave it commented than its just something that ubuntu uses?

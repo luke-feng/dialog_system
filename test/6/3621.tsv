@@ -1,0 +1,6 @@
+2012-02-28T10:00:00.000Z	jsoft		Anyone here have any ideas how I can kind of alter the way devices are auto-mounted? (ie, flash drives)
+2012-02-28T10:01:00.000Z	jsoft		Ie, I want to check the device's serial number, and depending on what it is, mount it read only, or to certain mountpoints, or run a program
+2012-02-28T10:03:00.000Z	L3top	jsoft	I can show you some code to look at from our project...
+2012-02-28T10:03:00.000Z	jsoft	L3top	Ok sure, that might be helpfull :)
+2012-02-28T10:05:00.000Z	L3top	jsoft	http://svn.linuxmce.org/trac.cgi/browser/branches/LinuxMCE-1004/src/PlutoStorageDevices
+2012-02-28T10:08:00.000Z	jsoft	L3top	so is it basically a case of telling gnome/whatever to bugger off, and doing the mounting yourself?

@@ -1,0 +1,6 @@
+2008-10-30T23:00:00.000Z	Sidtoner1		hello
+2008-10-30T23:02:00.000Z	Sidtoner1		i installed 8.10 today and i can't get basic programs to show up in synaptic like i used to be able to when i ran previous versions...i enabled backports and the restricted repositories but i can't get things like flash support or vlc to show up. any ideas?
+2008-10-30T23:03:00.000Z	Sidtoner1		also i notice while trying to refresh my list from the server a lot of the servers fail no matter what mirror i choose... are a lot of the servers getting hammered and not working right?
+2008-10-30T23:03:00.000Z	FreshUbuntuNoob	Sidtoner1	Yes they are getting hammered
+2008-10-30T23:04:00.000Z	Sidtoner1	FreshUbuntuNoob	is that why i am not able to install things like vlc and the restricted extras package? ie they don't even show up to install
+2008-10-30T23:05:00.000Z	FreshUbuntuNoob	Sidtoner1	You won't be able to download packages easily. B/c the servers are too busy

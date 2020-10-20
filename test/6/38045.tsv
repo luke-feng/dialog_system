@@ -1,0 +1,6 @@
+2009-05-29T21:58:00.000Z	mmm4m5m		question please: does ubuntu 8.04 (or above) have a driver for ﻿nvidia? I just upGraded from 7.10 to 8.04. There was a problem with display. With ubuntu 7.10 I had to use the driver from nvidia web site (nothing else works).
+2009-05-29T22:00:00.000Z	eurythmia	mmm4m5m	you can use the program "jockey" to enable nvidia drivers.
+2009-05-29T22:03:00.000Z	mmm4m5m	eurythmia	I have nvidia drivers here and usually I need to manually run and rebuild modules (after update linux headers). This is what I did with ubuntu 7.10. This time it say "failed" but after reboot (second reboot after upGrage) it start working.
+2009-05-29T22:03:00.000Z	mmm4m5m	eurythmia	will check that program.. just not sure if it is ok now
+2009-05-29T22:04:00.000Z	eurythmia	mmm4m5m	jockey takes care of the configuration.
+2009-05-29T22:05:00.000Z	mmm4m5m	eurythmia	ok then... I was thinking like ubuntu driver is there that is why nvidia rebuild failed, etc,etc. Anyway. Thank you!!

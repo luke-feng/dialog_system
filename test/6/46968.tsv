@@ -1,0 +1,6 @@
+2008-11-30T06:09:00.000Z	brut-		g'day everyone
+2008-11-30T06:10:00.000Z	brut-		quick question: anyone else run into the forcedeth driver glitch with ubuntu and the latest kernel they're pushing down (2.6.27-9)? My ethernet card keep dropping out after a few hours with that classic forcedeth glitch, but I didn't have this bug with my old install...
+2008-11-30T06:11:00.000Z	Yahovah	brut-	modprobe forcedeth msi=0 msix=0
+2008-11-30T06:12:00.000Z	brut-	Yahovah	I'll give that a try..., I assume I can dump that into something in /etc/modules.d so it'll use those settings on boot?
+2008-11-30T06:13:00.000Z	Yahovah	brut-	Yeah, I just put modprobe -r forcedeth;modprobe forcedeth msi=0 msix in /etc/init.d/networking.
+2008-11-30T06:14:00.000Z	brut-	Yahovah	ah, good idea. I'll have to put it at the top of that as I've got some vbox tunneling interfaces that get fired up on boot as well, but I'll try it that way. Thanks mate.

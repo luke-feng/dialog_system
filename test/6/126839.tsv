@@ -1,0 +1,6 @@
+2009-03-21T06:23:00.000Z	UncleD-		I'm trying to echo "unknown" if my ping response is "unknown host" in my script but its not working. PLease take a look: http://pastie.org/422589
+2009-03-21T06:25:00.000Z	UncleD-		Can someone take a quick look at my bash/shell script and comment on what i'm doing wrong. http://pastie.org/422589
+2009-03-21T06:25:00.000Z	UncleD-		I'm trying to get it to echo "unknown" if the response from ping contains the words "unknown host"
+2009-03-21T06:27:00.000Z	LjL	UncleD-	uhm, as far as i know, that "case" statement causes it to only output unknown if the output of "ping" is *exactly* "unknown". and it's redundant with the "if" statement - just use "if"
+2009-03-21T06:57:00.000Z	UncleD-	LjL	What am I doing wrong here: http://pastie.org/422610
+2009-03-21T06:58:00.000Z	LjL	UncleD-	if [ $PING_RESULT "unknown" ]; is wrong. "ping" doesn't output "unknown", it outputs something more like "ping: unknown host" or somesuch. also, there's an -eq missing there

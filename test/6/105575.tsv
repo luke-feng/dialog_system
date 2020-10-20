@@ -1,0 +1,6 @@
+2006-11-10T12:30:00.000Z	highneko		ssh: connect to host $HOSTNAME port 22: Connection refused; Couldn't read packet: Connection reset by peer;
+2006-11-10T12:31:00.000Z	highneko		Both computers I'm using have the same $HOSTNAME. Does that matter? Why does this fail? sftp highneko:password@$HOSTNAME
+2006-11-10T12:33:00.000Z	wastrel	highneko	 see if you can get there by ip
+2006-11-10T12:34:00.000Z	highneko	wastrel	k
+2006-11-10T12:34:00.000Z	highneko	wastrel	So, I would replace my hostname with the ip?
+2006-11-10T12:35:00.000Z	wastrel	highneko	 yes

@@ -1,0 +1,6 @@
+2007-05-29T15:47:00.000Z	kekZpriester		i started qemu with -smp 2 all time, with -smp 1 it seems to work...
+2007-05-29T15:48:00.000Z	POVaddct	kekZpriester	it takes quite a while before the kernel actually boot with -smp 2
+2007-05-29T15:50:00.000Z	kekZpriester	POVaddct	how long should i wait?
+2007-05-29T15:50:00.000Z	POVaddct	kekZpriester	about one minute
+2007-05-29T15:50:00.000Z	POVaddct	kekZpriester	depends on how fast your real cpu is
+2007-05-29T15:51:00.000Z	kekZpriester	POVaddct	ok, just trying...

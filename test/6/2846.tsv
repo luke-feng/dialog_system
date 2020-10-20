@@ -1,0 +1,6 @@
+2012-10-28T23:36:00.000Z	marcus		any1 know what to do with "make: lrelease: command not found" ?
+2012-10-28T23:36:00.000Z	simplew	marcus	you need to isntall it
+2012-10-28T23:37:00.000Z	simplew	marcus	sudo apt-get install qt4-linguist-tools
+2012-10-28T23:38:00.000Z	simplew	marcus	apt-file search lrelease
+2012-10-28T23:38:00.000Z	simplew	marcus	and you will get which package has that binary
+2012-10-28T23:41:00.000Z	simplew	marcus	already told ya whats thepackage you need to install

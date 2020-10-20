@@ -1,0 +1,6 @@
+2011-10-19T04:19:00.000Z	fubared		How do I tell which is my btrfs / partition from live cd (trying recovery)
+2011-10-19T04:19:00.000Z	fubared		?
+2011-10-19T04:19:00.000Z	Roasted	fubared	system monitor I think?
+2011-10-19T04:19:00.000Z	Roasted	fubared	I think it says the file system type but I'm not sure
+2011-10-19T04:20:00.000Z	fubared	Roasted	Not for unmounted file systems
+2011-10-19T04:20:00.000Z	Roasted	fubared	hmm, try gparted

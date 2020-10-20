@@ -1,0 +1,6 @@
+2008-08-15T18:58:00.000Z	Chrizz_		I cant get a ipadress designated. How do you do that in ubuntu?
+2008-08-15T18:58:00.000Z	Chrizz_		doesnt work
+2008-08-15T18:59:00.000Z	Chrizz_		LOL! I tried to do it thrue interface. it just doesnt connect
+2008-08-15T18:59:00.000Z	ActionParsnip	Chrizz_	can we see your /etc/network/iterfaces file please
+2008-08-15T19:02:00.000Z	ActionParsnip	Chrizz_	read the top line of each section does it say inet eth0 static or does it say dhcp
+2008-08-15T19:02:00.000Z	ActionParsnip	Chrizz_	then you are using a static ip, not dhcp

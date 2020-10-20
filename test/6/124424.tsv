@@ -1,0 +1,6 @@
+2009-09-28T06:51:00.000Z	ka1ysa		ok im in the process ov recovering my drive however it still wont boot  how can i get it to boot so i can log in?
+2009-09-28T06:52:00.000Z	bobertdos	ka1ysa	How far do you get before it fails?
+2009-09-28T06:53:00.000Z	bobertdos	ka1ysa	What have you tried to use for recovery?
+2009-09-28T06:54:00.000Z	bobertdos	ka1ysa	If you have a Live CD, you can try gpart, not to be confused with gparted.
+2009-09-28T06:57:00.000Z	bobertdos	ka1ysa	Clarify, are you trying to recover a corrupt partition or are you a dual booter trying to recover an Ubuntu partition masked by Windows?
+2009-09-28T06:59:00.000Z	bobertdos	ka1ysa	Oh, THAT type of recovery. I don't know a whole lot about that.

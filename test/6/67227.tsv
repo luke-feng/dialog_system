@@ -1,0 +1,6 @@
+2008-02-13T04:39:00.000Z	speedhunt3r		is there any difference between aptitude and apt-get ?
+2008-02-13T04:40:00.000Z	Bodsda	speedhunt3r	yes,. aptitiude is basically apt-et's big brother,.,. it has a few more -things
+2008-06-24T14:58:00.000Z	Bodsda	speedhunt3r	i doubt it
+2008-06-24T14:59:00.000Z	speedhunt3r	Bodsda	you doubt that i'll make a new menu file? then how does it make it when you're install ubuntu for the first time?
+2008-06-24T15:01:00.000Z	Bodsda	speedhunt3r	you asked if the commane    find /boot/grub/stage1    would make a new menu.lst, the answer is no, it would see if you have a file called   stage1   one of the steps after that, (probably setup) might make a new file, try it. if it goes wrong youll have a back up
+2008-06-24T15:01:00.000Z	speedhunt3r	Bodsda	thanks bro

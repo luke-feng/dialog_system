@@ -1,0 +1,6 @@
+2004-12-08T06:27:00.000Z	Arrrr		hellooo
+2004-12-08T06:27:00.000Z	Arrrr		how to install gtk2 in ubuntu?
+2004-12-08T06:27:00.000Z	Arrrr		which package??
+2004-12-08T06:27:00.000Z	StarScream	Arrrr	you can do apt-search gtk2
+2004-12-08T06:28:00.000Z	StarScream	Arrrr	if your compiling stuff you want the -dev version
+2004-12-08T06:28:00.000Z	StarScream	Arrrr	is nvu not in apt?

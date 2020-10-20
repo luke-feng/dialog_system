@@ -1,0 +1,6 @@
+2007-02-25T14:57:00.000Z	tjl30		hello
+2007-02-25T14:57:00.000Z	tjl30		i have a problem with add/remove programs
+2007-02-25T14:57:00.000Z	lufis	tjl30	what's the issue?
+2007-03-29T15:57:00.000Z	lufis	tjl30	Try editing the /boot/grub/menu.lst file to reflect the changes
+2007-03-30T16:03:00.000Z	lufis	tjl30	I think you'll have to mount the drive manually. sudo mount /dev/hard drive name and partition /mountpoint
+2007-03-30T16:04:00.000Z	lufis	tjl30	Change locations as necessary

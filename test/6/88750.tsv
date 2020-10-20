@@ -1,0 +1,6 @@
+2008-11-17T07:54:00.000Z	n8tuser2		binMonkey--> how did you determined it is slower?
+2008-11-17T07:55:00.000Z	binMonkey	n8tuser2	i got online with it and tried it out.  iwconfig showed slower too.
+2008-11-17T07:57:00.000Z	binMonkey	n8tuser2	i don't know what a bit counter is.  a perception when i was online, and iwconfig read 48 Mbps with the bcm card and 5Mbps with the linksys card.
+2008-11-17T07:59:00.000Z	binMonkey	n8tuser2	ok.  i'm going to try the new card with a live cd.  that would make sure that ndiswrapper is not interfering at least.
+2008-11-17T08:30:00.000Z	binMonkey	n8tuser2	ok.  i tried the card on a live cd and it's definitely faster.  do you know if there's way to disable ndiswrapper without removing it?
+2008-11-17T08:34:00.000Z	binMonkey	n8tuser2	g mode.

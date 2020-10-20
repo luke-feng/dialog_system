@@ -1,0 +1,6 @@
+2007-12-20T07:40:00.000Z	Bllz		I can't start kismet bc madwifi-ng tries to communicate with ath0 whereas ath1 is the one in monitor mode.  any suggestions?
+2007-12-20T07:41:00.000Z	Bllz		in fact, why are there two athX's?
+2007-12-20T07:43:00.000Z	Bllz		How do I set VLC as my default media player?
+2007-12-20T07:44:00.000Z	Bllz		is there a terminal command?
+2007-12-20T07:44:00.000Z	RomeReactor	Bllz	right-click on the media files you want, select Properties, and set vlc there.
+2007-12-20T07:45:00.000Z	RomeReactor	Bllz	if you want VLC as the default DVD player, go to "System->Preferences->Removable Drives And Media->Multimedia" and set it there.

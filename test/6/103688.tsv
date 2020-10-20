@@ -1,0 +1,6 @@
+2009-01-20T22:42:00.000Z	monokrome		Does anyone know how to change the domain name setting on my Ubuntu system?
+2009-01-20T22:42:00.000Z	monokrome		I've know how to change hostname, but not domainname
+2009-01-20T22:42:00.000Z	nuaimat	monokrome	edit /etc/hostname
+2009-01-20T22:43:00.000Z	monokrome	nuaimat	Doesn't that only change the hostname?..
+2009-01-20T22:43:00.000Z	monokrome		IE, can I put: flavor.monokro.me in it?
+2009-01-20T22:44:00.000Z	nuaimat	monokrome	yes, i think so, but i am not sure of it

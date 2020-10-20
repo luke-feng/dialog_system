@@ -1,0 +1,6 @@
+2007-04-11T06:34:00.000Z	ripzaw		got a weird question... I installed irssi (irc client) through package manager, how would I go about starting that app?
+2007-04-11T06:34:00.000Z	jrib	ripzaw	type 'irssi' in your shell
+2007-04-11T06:34:00.000Z	ripzaw	jrib	it doesn;t work
+2007-04-11T06:34:00.000Z	jrib	ripzaw	do you get any output?
+2007-04-11T06:35:00.000Z	ripzaw	jrib	commandnot found
+2007-04-11T06:35:00.000Z	jrib	ripzaw	how did you install irssi?

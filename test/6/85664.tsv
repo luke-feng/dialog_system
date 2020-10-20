@@ -1,0 +1,6 @@
+2007-07-16T07:48:00.000Z	gyaresu	sangeetha	'apropos dpkg-source'
+2007-07-16T07:49:00.000Z	sangeetha	gyaresu	I got nothing appropriate for that command
+2007-07-16T07:50:00.000Z	sangeetha	gyaresu	I am getting command not found if i give dpkg-source
+2007-07-16T07:51:00.000Z	gyaresu	sangeetha	'apropos'
+2007-07-16T07:53:00.000Z	sangeetha	gyaresu	it is asking apropos what
+2007-07-16T07:53:00.000Z	gyaresu	sangeetha	I only linked it as a cool command to find out what may be installed. 'man apropos'

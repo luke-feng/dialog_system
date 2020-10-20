@@ -1,0 +1,6 @@
+2010-09-11T12:18:00.000Z	enli		I get error "/usr/bin/ld: cannot find -lgio-2.0" everytime I try to compile any program. I searched around and apparently I need to have "libgio-fam", but that is already installed. Any guesses?
+2010-09-11T12:20:00.000Z	ilovefairuz	enli	libglib2.0-dev
+2010-09-11T12:22:00.000Z	ilovefairuz		!grub2 > Adzy
+2010-09-11T12:22:00.000Z	enli	ilovefairuz	Thanks, it was installed previously.. reinstallation fixed the problem. What would be the reason?
+2010-09-11T12:24:00.000Z	ilovefairuz	enli	perhaps it wasn't registered in the linker cache (ldconfig)
+2010-09-11T12:24:00.000Z	enli	ilovefairuz	that makes sense, thanks

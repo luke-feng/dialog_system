@@ -1,0 +1,6 @@
+2007-11-05T06:59:00.000Z	riotkittie		where's GDM resolution set? is it controlled by xorg.conf or... ?
+2007-11-05T07:00:00.000Z	riotkittie		argh. then why is my resolution flubbed.  <gets cranky>
+2007-11-05T07:00:00.000Z	MattJ	riotkittie	It just happened?
+2007-11-05T07:01:00.000Z	riotkittie	MattJ	it happened after X crashed a few weeks ago. i shouldnt care because i'm seeing it for all of like 3 seconds but at the same time, grr
+2007-11-05T07:02:00.000Z	riotkittie		and it had happened before and i seemed to fix it by copying xorg.conf over from another gutsy install. but even that isnt helping now.
+2007-11-05T07:02:00.000Z	MattJ	riotkittie	Only in GDM? Odd...

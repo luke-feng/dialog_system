@@ -1,0 +1,6 @@
+2010-10-06T03:36:00.000Z	FreedomCow		$ pkill pusleaudio $ pgrep pulseaudio 5800
+2010-10-06T03:36:00.000Z	aeon-ltd	FreedomCow	no, shouldn't need to
+2010-10-06T03:36:00.000Z	FreedomCow		ok
+2010-10-06T03:36:00.000Z	FreedomCow		done
+2010-10-06T03:36:00.000Z	FreedomCow		sorry - the 5800 was extranious
+2010-10-06T03:37:00.000Z	FreedomCow	aeon-ltd	collosi - pulseaudio has been killed

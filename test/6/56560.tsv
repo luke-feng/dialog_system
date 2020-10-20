@@ -1,0 +1,6 @@
+2008-07-01T13:04:00.000Z	CostaRicanQuaker		help, how do i create an ntsf partition to install xp
+2008-07-01T13:04:00.000Z	CostaRicanQuaker		i previously had that but i erased the whole disk
+2008-07-01T13:04:00.000Z	CostaRicanQuaker		now i'm on xubuntu
+2008-07-01T13:04:00.000Z	CostaRicanQuaker		yes i know,but how do i do it without just installing the boot cd
+2008-07-01T13:05:00.000Z	CostaRicanQuaker		is there a windows channel on this server?
+2008-07-01T13:05:00.000Z	ne2k__	CostaRicanQuaker	fdisk is the partitioner

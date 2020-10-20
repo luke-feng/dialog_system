@@ -1,0 +1,6 @@
+2008-02-26T06:31:00.000Z	Kira		Wow, I suck...
+2008-02-26T06:32:00.000Z	Kira		I don't even know how to recursively look for a file form the shell.
+2008-02-26T06:32:00.000Z	Kira		*from
+2008-02-26T06:33:00.000Z	Kira		How do I look for a file recursively through the directories from the shell?
+2008-02-26T06:34:00.000Z	Kira		danand___,, the find command doesn't seem to recurse.
+2008-02-26T06:34:00.000Z	LjL	Kira	yes it does. try just typing "find" (use ctrl+c to stop it)

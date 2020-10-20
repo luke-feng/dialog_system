@@ -1,0 +1,6 @@
+2005-04-05T13:00:00.000Z	WeirdAl		Can I set it up so that when I press the eject button on my CD drive it actually ejects it?
+2005-04-05T13:02:00.000Z	WeirdAl		Yeah it is. What I mean is, can I get the hardware eject to call the software unmount-and-eject operation?
+2005-04-05T13:04:00.000Z	WeirdAl		Oh
+2005-04-05T13:04:00.000Z	WeirdAl		Because that seems like a fairly reasonable thing to expect.
+2005-04-05T13:05:00.000Z	dwa_	WeirdAl	: i'm not sure but on my desktop machine it already works as you want it to work
+2005-04-05T13:08:00.000Z	dwa_	WeirdAl	: good luck

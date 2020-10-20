@@ -1,0 +1,6 @@
+2009-04-21T20:34:00.000Z	koolkartik		i hav installed 8.1ubuntu 3 days back and it starts without prompting for a username and a password.... how can i make it to prompt usename n passwd?
+2009-04-21T20:34:00.000Z	koolkartik		need help to make it prompt for password
+2009-04-21T20:35:00.000Z	pepperjack	koolkartik	gksudo gdmsetup
+2009-04-21T20:35:00.000Z	pepperjack	koolkartik	run that from a terminal
+2009-04-21T20:37:00.000Z	koolkartik	pepperjack	thanx
+2009-04-21T20:38:00.000Z	pepperjack	koolkartik	no problem

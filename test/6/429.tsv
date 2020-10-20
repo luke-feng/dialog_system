@@ -1,0 +1,6 @@
+2012-10-25T01:36:00.000Z	arronhunt		Hey guys. How do I change a current user's privileges to admin?
+2012-10-25T01:36:00.000Z	jpds	arronhunt	sudo adduser $USERNAME sudo
+2012-10-25T01:37:00.000Z	arronhunt	jpds	won't adduser create a new user?
+2012-10-25T01:37:00.000Z	jpds	arronhunt	No.
+2012-10-25T01:37:00.000Z	arronhunt	jpds	cool :)
+2012-10-25T01:38:00.000Z	jpds	arronhunt	When the username has a group after it, it ADDs the USER to a group. ;-)

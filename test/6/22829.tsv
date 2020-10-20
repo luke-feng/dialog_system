@@ -1,0 +1,6 @@
+2011-03-18T22:26:00.000Z	sinisterstuf	milamber	uname -a shows all information, uname -m only shows the architecture (I think)
+2011-03-18T22:27:00.000Z	milamber	sinisterstuf	you are correct
+2011-03-18T22:28:00.000Z	sinisterstuf	milamber	I'm just not sure if uname -m displays the architecture of your machine or the architecture of the OS you installed…
+2011-03-18T22:28:00.000Z	milamber	sinisterstuf	os you installed
+2011-03-18T22:29:00.000Z	milamber	sinisterstuf	http://www.cyberciti.biz/faq/linux-how-to-find-if-processor-is-64-bit-or-not/
+2011-03-18T22:30:00.000Z	sinisterstuf	milamber	thanks, I'll remember that for future

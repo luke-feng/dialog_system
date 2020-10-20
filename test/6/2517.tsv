@@ -1,0 +1,6 @@
+2012-11-26T07:33:00.000Z	ccc_		guys, do i have to install programs THROUGH Wine or can i just run the .exe directly?
+2012-11-26T07:34:00.000Z	ccc_		it is installed
+2012-11-26T07:35:00.000Z	ccc_		i copied starcraft 2 over
+2012-11-26T07:35:00.000Z	ccc_		and want to run it in wine
+2012-11-26T07:37:00.000Z	syntroPi	ccc_	did you mark that exe as executable?
+2012-11-26T07:44:00.000Z	syntroPi	ccc_	if its marked as executable file (chmod +x) you can just lauch it via click and wine would execute it

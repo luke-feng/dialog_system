@@ -1,0 +1,6 @@
+2010-01-01T06:17:00.000Z	khelvan		Ok, the system just "froze" for a bit, meaning I couldn't move my mouse, then it started "stuttering," meaning I could move my mouse in spurts but not do anything, and alt-tab brought up only bits and pieces of a window, then the screen went black, then I was sent to the login screen in Karmic. I had two terminal windows open, Xchat, and Firefox...any idea what could cause this?
+2010-01-01T06:18:00.000Z	blackest_knight	khelvan	 lack of ram or something doing too much try typing top in a terminal
+2010-01-01T06:19:00.000Z	khelvan	Pelo	- Nothing, I had Firefox open to a few sites, htop running in one terminal, another wasn't doing anything. I was typing in XChat when it crashed. I have 12 GB of RAM. I have an Nvidia GTX 295, and am using the proprietary driver found in Karmic.
+2010-01-01T06:19:00.000Z	khelvan		The above was for Izinucs and blackest_knight, thanks.
+2010-01-01T06:21:00.000Z	khelvan	Pelo	- I bought the RAM for less than $300 US. RAM is cheap these days.
+2010-01-01T06:22:00.000Z	blackest_knight	khelvan	 still worth running top  see whats going on

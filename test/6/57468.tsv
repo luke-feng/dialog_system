@@ -1,0 +1,6 @@
+2008-06-09T09:28:00.000Z	[b]b_		hello, need a little sed assistance
+2008-06-09T09:29:00.000Z	[b]b_		i want to replace everything that comes before the expression
+2008-06-09T09:30:00.000Z	[b]b_		sed 's/foo/bar/g' [ remove everything before foo ]
+2008-06-09T09:30:00.000Z	[b]b_		?
+2008-06-09T09:31:00.000Z	Starnestommy	[b]b_	no, that replaces foo with bar.  To remove everything before 'foo' in the whole file, sed 's/$(.*)foo//s'
+2008-06-09T09:38:00.000Z	[b]b_	Starnestommy	i got with this : sed 's/\(.*\)foo//g'

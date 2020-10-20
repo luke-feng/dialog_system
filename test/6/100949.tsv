@@ -1,0 +1,6 @@
+2007-03-09T10:28:00.000Z	sontek		Hey, I'm trying to install my works printer in ubuntu, its a network printer but no matter what I try it says "Unable to connect to CIFS host, will retry.."
+2007-03-09T10:28:00.000Z	mjunx	sontek	you got samba installed?
+2007-03-09T10:29:00.000Z	mjunx		no, those are gnome themes, mase
+2007-03-09T10:29:00.000Z	sontek	mjunx	yeah
+2007-03-09T10:29:00.000Z	mjunx		kde themes are in /usr/share/apps/kthememanager/themes/
+2007-03-09T10:30:00.000Z	mjunx	sontek	I'm out of ideas ;p

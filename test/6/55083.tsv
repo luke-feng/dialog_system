@@ -1,0 +1,6 @@
+2008-12-14T21:05:00.000Z	hololight		I have a possible bug associated with the 'fast user switch' applet. should I report this to the main ubuntu bug tracker or try to find a bug tracker for the applet itself?
+2008-12-14T21:06:00.000Z	ardchoille	hololight	are you using GlobalMenu?
+2008-12-14T21:07:00.000Z	hololight	ardchoille	no
+2008-12-14T21:11:00.000Z	hololight	ardchoille	for kicks, ill throw out the bug here.... when pidgin is running there is no problem, but if pidgin is not running, all the options except logout are missing... (no restart, shutdown, hibernate, etc)
+2008-12-14T21:11:00.000Z	ardchoille	hololight	I've not used pidgin, can't comment :(
+2008-12-14T21:12:00.000Z	hololight	ardchoille	but that is what is odd.... if a program is not running, it wont work.... if it is.... then it works..... it is completely backwards

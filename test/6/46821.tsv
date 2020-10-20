@@ -1,0 +1,6 @@
+2008-11-27T02:31:00.000Z	RomD		hi, I've got a problem regarding the nvidia drivers and Ubuntu 8.10 x64. I actived v177.80 drivers and restarted. Now I can't get into the GUI anymore. "startx" returns "no screens found". I already re-installed and activated again, but same result. I'm using two nvidia cards and three monitors.
+2008-11-27T02:33:00.000Z	RomD		even deleting xorg.conf didn't help
+2008-11-27T02:33:00.000Z	RomD		it's a 8800 gtx and a 8400 gs
+2008-11-27T02:35:00.000Z	RomD		who legann_?
+2008-11-27T02:35:00.000Z	RomD		*lagann_
+2008-11-27T02:35:00.000Z	]{53	RomD	What steps did you take to enable the driver?

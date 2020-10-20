@@ -1,0 +1,6 @@
+2011-04-28T22:22:00.000Z	HRT		hi, I installed Ubuntu 11.04 on my HP G62 laptop which has a VGA of ATI HD 5400, I activated the driver, but seems it's not already activated, please HELP!
+2011-04-28T22:23:00.000Z	rach0	HRT	could you be more specific?
+2011-04-28T22:25:00.000Z	HRT	rach0	when I activated the FGLRX, it downloads the drivers, installs it, then it requires to reboot the system, I reboot, but the driver seems not activated, as no single effect runs properly, though, in "Hardware Drivers" says the drivers is activated and currently in use
+2011-04-28T22:27:00.000Z	rach0	HRT	i suggest you remove the fgrlx stuff and go with the open source. i think the binaries are still quite buggy with natty. also there is no problems with the effects using the open source one. i'm with a HD 5500
+2011-04-28T22:28:00.000Z	HRT	rach0	please can you give me abbreviated steps? I'm noob :(
+2011-04-28T22:30:00.000Z	HRT	rach0	...

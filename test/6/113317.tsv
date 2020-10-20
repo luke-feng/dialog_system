@@ -1,0 +1,6 @@
+2008-01-19T05:03:00.000Z	Gin		hi
+2008-01-19T05:03:00.000Z	Gin		is it possible to install Ubuntu to my RAM?
+2008-01-19T05:05:00.000Z	Jack_Sparrow	Gin	The livecd runs in ram and does not write to the hard drive unless you ask it to.
+2008-01-19T05:06:00.000Z	Gin	Jack_Sparrow	any way to copy the entire ubuntu OS to the ram first ? rather then read from cd when it needs the program?
+2008-01-19T05:08:00.000Z	Gin	Jack_Sparrow	if it runs from ram, then firefox should start faster... than a normal OS on a hdd.
+2008-01-19T05:09:00.000Z	Jack_Sparrow	Gin	That is most likely not going to work the way you want

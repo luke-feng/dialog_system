@@ -1,0 +1,6 @@
+2008-09-18T17:48:00.000Z	CaneToad		can software only provided as rpm be installed easily on ubuntu?
+2008-09-18T17:49:00.000Z	TiredWolf	CaneToad	no
+2008-09-18T17:49:00.000Z	TiredWolf	CaneToad	i'd make *very* sure it's only provided as RPM before trying that. and even then, don't even think of trying it if it's a library or other important software
+2008-09-18T17:52:00.000Z	TiredWolf	CaneToad	apt-cache search "" will give you a complete list, although that's generally useless of course...
+2008-09-18T17:52:00.000Z	TiredWolf	CaneToad	then use http://packages.ubuntu.com
+2008-09-18T17:56:00.000Z	TiredWolf	CaneToad	"legally" depends on your country's laws

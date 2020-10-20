@@ -1,0 +1,6 @@
+2008-01-20T08:57:00.000Z	Ashnal		I feel kinda stupid, but why wont some executables i downloaded run?
+2008-01-20T08:57:00.000Z	Ashnal		yes
+2008-01-20T08:57:00.000Z	Ashnal		no
+2008-01-20T08:57:00.000Z	Ashnal		they are linux executable
+2008-01-20T08:58:00.000Z	Ashnal		they arent .exe
+2008-01-20T08:59:00.000Z	astro76	Ashnal	you need to set execute permissions (chmod +x), and you need to specify the full path of any program not in your path (like ./runme)

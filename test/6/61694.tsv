@@ -1,0 +1,6 @@
+2008-09-22T06:08:00.000Z	Strang3r		hi to all
+2008-09-22T06:09:00.000Z	Strang3r		can somebody tell me how to get to the file /etc/resolv.conf
+2008-09-22T06:09:00.000Z	Strang3r		?
+2008-09-22T06:09:00.000Z	Strang3r		I mean which is the terminal comand ?
+2008-09-22T06:10:00.000Z	SeaPhor	Strang3r	you can   sudo cat /etc/resolv.conf  to view,, you can gksudo gedit /etc/resolv.conf to edit ,,,,
+2008-09-22T06:18:00.000Z	Strang3r	SeaPhor	thanks

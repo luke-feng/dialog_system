@@ -1,0 +1,6 @@
+2005-06-05T08:13:00.000Z	tiglionabbit		refreshing should re-authenticate most of them.  Things from multiverse may not be authenticated though, and will always give you that message
+2005-06-05T08:13:00.000Z	tiglionabbit		in synaptic, click on reload.  Or say sudo apt-get update
+2005-06-05T08:14:00.000Z	dabaSlon	tiglionabbit	I should tell you that his X is not working yet.
+2005-06-05T08:16:00.000Z	dabaSlon	tiglionabbit	I should also tell you, that that is the error he gets when doing sudo apt-get update...:-p
+2005-06-05T08:17:00.000Z	dabaSlon	tiglionabbit	yeah, it should not with ubuntu repos, for marillat it is a common thing.
+2005-06-05T08:17:00.000Z	dabaSlon	tiglionabbit	thats not really expert advice:-p

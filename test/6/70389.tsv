@@ -1,0 +1,6 @@
+2008-08-13T12:49:00.000Z	Matt____		a while ago I asked about mounting a network drive (from OS X) so that it looks like a directory on ubuntu
+2008-08-13T12:49:00.000Z	Matt____		someone helped me out but I can't for the life of me remember what the command was
+2008-08-13T12:49:00.000Z	Matt____		something with "ftp" in it I think
+2008-08-13T12:50:00.000Z	Chris|	Matt____	the command should still be in your bash history in the terminal type "history"
+2008-08-13T12:50:00.000Z	Matt____	Chris|	lemme try but I think this is a different virtual machine
+2008-08-13T12:51:00.000Z	Chris|	Matt____	ah, do the history command on the machine you did the command on

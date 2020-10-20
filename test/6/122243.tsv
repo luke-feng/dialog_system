@@ -1,0 +1,6 @@
+2006-04-03T16:40:00.000Z	murph2481		anyone good with CUPS?
+2006-04-03T16:40:00.000Z	murph2481		I have many issues....
+2006-04-03T16:40:00.000Z	murph2481		mainly it doesn't work :)
+2006-04-03T16:41:00.000Z	alan|laptop	murph2481	can you see your printer in http://localhost:631
+2006-04-03T16:41:00.000Z	alan|laptop		?
+2006-04-03T16:42:00.000Z	murph2481	alan|laptop	nope says my CUPS server isn't running....i get an error exited signal 11 when i try to start cupsys

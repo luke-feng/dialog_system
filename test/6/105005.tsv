@@ -1,0 +1,6 @@
+2006-10-13T06:40:00.000Z	TheFriedGeek		Hello all.
+2006-10-13T06:41:00.000Z	TheFriedGeek		How can I get grub working with XP installed on first partition?
+2006-10-13T06:42:00.000Z	TheFriedGeek		AJ I had a similar problem, I had to run the X config tool and include that res in my monitor profile.
+2006-10-13T06:43:00.000Z	AJ--	TheFriedGeek	how should that be done? manualy configure the xorg.conf? change the res to 1024?
+2006-10-13T06:51:00.000Z	AJ--	TheFriedGeek	the highest set i see in the setting is only 1024 :(
+2006-10-13T06:55:00.000Z	AJ--	TheFriedGeek	nope it doesnt

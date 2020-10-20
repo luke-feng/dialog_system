@@ -1,0 +1,6 @@
+2012-09-04T01:29:00.000Z	Guest1100101		Hi, my Firefox 15 crashes on some sites with Flash video, but Youtube flash videos work fine (on lucid with flash 11.2 r202) - the fun is Firefox started up with a clean profile does not crash (have tried Flash-aid, flash 11.1, mms.cfg tweaks)
+2012-09-04T01:29:00.000Z	ActionParsnip	Guest1100101	tried closing Firefox then renaming ~/.mozilla/firefox
+2012-09-04T01:31:00.000Z	Guest1100101	ActionParsnip	renaming to what?
+2012-09-04T01:36:00.000Z	Guest1100101	ActionParsnip	I think it's related to javascript - with NoScript active, the problematic page loads fine without the video, but immediately after I temporally allow scripts, FF crashes
+2012-09-04T01:37:00.000Z	ActionParsnip	Guest1100101	making a fresh profile will isolate plugin issues / profile as the cause of the issues
+2012-09-04T01:39:00.000Z	Guest1100101	ActionParsnip	yeah, I know - last thing to try is to disable all add-ons and enable them one-by-one....

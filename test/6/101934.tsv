@@ -1,0 +1,6 @@
+2006-11-13T16:58:00.000Z	alecjw		does anyone know how/if i can mount a disk image?
+2006-11-13T16:58:00.000Z	awesomepetter	alecjw	search on google
+2006-11-13T16:58:00.000Z	awesomepetter	alecjw	http://ubuntu.wordpress.com/2005/10/24/nautilus-script-to-mount-iso-files/
+2006-11-13T16:59:00.000Z	alecjw	awesomepetter	can i mount hard disk images with it or just iso9660 imageS?
+2006-11-13T16:59:00.000Z	awesomepetter	alecjw	i think just iso
+2006-11-13T17:00:00.000Z	alecjw	awesomepetter	did you start x using startx or did it start at bootup?

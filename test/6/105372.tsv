@@ -1,0 +1,6 @@
+2006-10-21T15:33:00.000Z	b03nto		please enlight me with this, i have 3.06 ghz processor, but in cpuinfo it say only 1600 mhz, is it normal ? is it got something to do with clockmod or speedstep things ?
+2006-10-21T15:34:00.000Z	jbmigel	b03nto	yes
+2006-10-21T15:35:00.000Z	b03nto	jbmigel	finally some respond :), yes on what normal, speetstep or clockmod things ?
+2006-10-21T15:36:00.000Z	jbmigel	b03nto	ubuntu has powernowd enabled by default which "underclocks" your chip to save power and noise. if your usage goes above 95% or so it will kick up to 3ghz again
+2006-10-21T15:37:00.000Z	b03nto	jbmigel	thank you so much for you info, one more thing what is this bogomips things ?
+2006-10-21T15:37:00.000Z	jbmigel	b03nto	http://www.tldp.org/HOWTO/BogoMips/bogo-faq.html

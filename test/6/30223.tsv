@@ -1,0 +1,6 @@
+2012-11-02T22:00:00.000Z	lloowen		Hello all. Does anyone know where I can find the repository URL's for 11.04 so that I can copy and paste them into /etc/apt/sources.list?
+2012-11-02T22:02:00.000Z	overclucker	lloowen	http://repogen.simplylinux.ch/
+2012-11-02T22:03:00.000Z	lloowen	overclucker	Thanks but that does no longer have 11.04
+2012-11-02T22:11:00.000Z	overclucker	lloowen	it looks like natty is still in http://archive.ubuntu.com/ubuntu/dists/ so, as long as you use the official repos, you can replace the dist with natty and it should work
+2012-11-02T22:11:00.000Z	lloowen	overclucker	That's exactly what I've just done :) Thanks
+2012-11-02T22:15:00.000Z	overclucker	lloowen	you should probably upgrade, natty is at end of life as of last week.

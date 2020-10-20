@@ -1,0 +1,6 @@
+2007-11-04T21:02:00.000Z	slain		hi all
+2007-11-04T21:03:00.000Z	slain		I have two network cards. I would like to set the gateway for eth0, NB. I do not want to set the default gateway
+2007-11-04T21:04:00.000Z	slain		can any one help me with my problem?
+2007-11-04T21:06:00.000Z	slain		ok, please I need help
+2007-11-04T21:07:00.000Z	stefg	slain	man ifconfig or man iptables might be what you need
+2007-11-04T21:07:00.000Z	slain	stefg	ok, I will try

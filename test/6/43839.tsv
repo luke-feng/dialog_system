@@ -1,0 +1,6 @@
+2009-02-22T07:20:00.000Z	syockit	kristian2	i think the closed-source one is rar, and open-source unrar. and yes, I never saw the program saying its trial or anything, so maybe it's as you've guessed
+2009-02-22T07:22:00.000Z	kristian2	syockit	: yeah! seems like the download on rarlab.com for linux is only rar, not unrar. so i guess rar is trial, while unrar is free, as you said. :-)
+2009-02-22T07:23:00.000Z	syockit	kristian2	apparently I was wrong. unrar-free is the open source version. I don't know what purpose unrar has, as rar also can extract archives
+2009-02-22T07:28:00.000Z	kristian2	syockit	: yes. apparently you have rar, for creating and extracting rar's, but it is trial and closed source. then you have unrar which is free, but still closed source, which can only extract rar's, not create them. so i prefer this one since it is not trial and i dont often create rar's. and then there is the opensource version free-unrar, but it is outdated, since rarlab made a new version of rar, v3. this is what i've understood so far
+2009-02-22T07:29:00.000Z	syockit	kristian2	!!! I didn't see that (checks aptitude show rar) aaaa, it's 40 days shareware!!!
+2009-02-22T07:30:00.000Z	kristian2	syockit	: yeah. :-/ oh well, im ok with just being able to unrar, dont need to make rars. :-P

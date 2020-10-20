@@ -1,0 +1,6 @@
+2006-05-11T07:08:00.000Z	nickrud	teimu	you probably don't want to use that exact deb file you randomly got off the net: what is it, and what is it you're trying to accomplish?
+2006-05-11T07:09:00.000Z	teimu	nickrud	its a dependency file for openssh
+2006-05-11T07:09:00.000Z	nickrud	teimu	openssh is natively supported by ubuntu, what the heck are you doing :)
+2006-05-11T07:10:00.000Z	nickrud	teimu	could you do paste the entire error on http://paste.ubuntu-nl.org/
+2006-05-11T07:13:00.000Z	teimu	nickrud	and Xenguy , i just did apt-get update, and now i can download the packages! thanks for the help guys. i was using old repositories =P
+2006-05-11T07:13:00.000Z	nickrud	teimu	heh. I'll take it :)

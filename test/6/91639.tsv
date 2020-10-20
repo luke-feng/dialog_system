@@ -1,0 +1,6 @@
+2007-04-02T09:09:00.000Z	waseidel		HELP!!!
+2007-04-02T09:10:00.000Z	waseidel		how I do with an static IP
+2007-04-02T09:10:00.000Z	waseidel		I can't connect to internet
+2007-04-02T09:10:00.000Z	neozen	waseidel	man interfacess
+2007-04-02T09:11:00.000Z	neozen	waseidel	you'll need to have the numbers for you dns servers handy... just as you would under windows
+2007-04-02T09:11:00.000Z	neozen	waseidel	you'll also need the numbers for your gateway and your netmask

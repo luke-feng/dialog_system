@@ -1,0 +1,6 @@
+2005-11-15T14:39:00.000Z	zdennis		hey all,....openoffice quit working today =(
+2005-11-15T14:40:00.000Z	zdennis		it just doesn't do anything. It doesn't start up, when i start openoffice from CLI it just hangs forever
+2005-11-15T14:40:00.000Z	zdennis		the only thing I did was install sun java 1.4.2
+2005-11-15T14:40:00.000Z	zdennis		does openoffice2 require 1.5?
+2005-11-15T14:40:00.000Z	highvoltage	zdennis	1.4.2 or 1.5 will work.
+2005-11-15T14:41:00.000Z	zdennis	highvoltage	any idea how to debug this problem? i have done a "dpkg-reconfigure openoffice.org2"

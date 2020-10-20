@@ -1,0 +1,6 @@
+2012-10-10T00:25:00.000Z	SD_Ecliptica		How can I remove/modify/reorder entries in grub2?
+2012-10-10T00:26:00.000Z	wilee-nilee	SD_Ecliptica	What is your final goal here exactly?
+2012-10-10T00:27:00.000Z	SD_Ecliptica	wilee-nilee	I want to rename the entry for one of my operating systems and set it as the default.
+2012-10-10T00:28:00.000Z	wilee-nilee	SD_Ecliptica	There is a app called the grub customizer that some use, depends on how much you want to know about grub really.
+2012-10-10T00:28:00.000Z	SD_Ecliptica	wilee-nilee	Thanks, I'll check that out.
+2012-10-10T00:29:00.000Z	wilee-nilee	SD_Ecliptica	here is a link to the UF. http://ubuntuforums.org/showthread.php?t=1664134

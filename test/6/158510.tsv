@@ -1,0 +1,6 @@
+2005-01-15T14:06:00.000Z	bassinboy		whats the best way to get packages on ubuntu (like portage)
+2005-01-15T14:07:00.000Z	JDahl	bassinboy	aptitude from cli is my favorite
+2005-01-15T14:08:00.000Z	bassinboy		aptitude?
+2005-01-15T14:09:00.000Z	bassinboy	JDahl	how do i add more sources?
+2005-01-15T14:10:00.000Z	JDahl	bassinboy	edit /etc/apt/sources.list... I believe you can do it synaptic also
+2005-01-15T14:11:00.000Z	bassinboy	JDahl	thanks, how can i install the nvidia driver?

@@ -1,0 +1,6 @@
+2012-01-28T22:12:00.000Z	biohazard135		:/ it looks like SystemParadox left, so can anyone else help with ssh being slow?
+2012-01-28T22:13:00.000Z	Nach0z	biohazard135	that's realy just a networking issue. means your down/up speed off of your server or your home connection needs work.
+2012-01-28T22:13:00.000Z	biohazard135	Nach0z	it's not, I tried in putty (windows) and the connection is very fast.
+2012-01-28T22:13:00.000Z	biohazard135	Nach0z	something is wrong with my ubuntu client.
+2012-01-28T22:14:00.000Z	Nach0z	biohazard135	dunno then bud, sorry
+2012-01-28T22:19:00.000Z	Nach0z	biohazard135	I'd suggest moving your sshd port to something weird. keeps people from trying to brute-force

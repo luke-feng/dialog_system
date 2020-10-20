@@ -1,0 +1,6 @@
+2007-03-03T12:24:00.000Z	Scunizi	shark-1	what file system are you trying to use?
+2007-03-03T12:24:00.000Z	shark-1	Scunizi	ext3
+2007-03-03T12:24:00.000Z	shark-1	Scunizi	thats what ive used before
+2007-03-03T12:24:00.000Z	Scunizi	shark-1	I had problems with Sata and ext3.  Switched to ReiserFS and worked fine.
+2007-03-03T12:26:00.000Z	shark-1	Scunizi	i dunno
+2007-03-03T12:36:00.000Z	Scunizi	shark-1	 With dapper there were release notes for the Desktop cd.  After booting the live cd, go to terminal and type (sudo /etc/init.d/mdadm stop) then (sudo mdadm --stop --scan) then (sudo vgchange -a n).  I found this info in teh release notes at http://www.ubuntu.com/download/releasenotes/606

@@ -1,0 +1,6 @@
+2005-06-06T09:08:00.000Z	Johnnyfav		what's r o  mean for the permissions on a file
+2005-06-06T09:08:00.000Z	Johnnyfav		how do I change it to read and write then?
+2005-06-06T09:09:00.000Z	Johnnyfav		my mounted ntfs drive
+2005-06-06T09:09:00.000Z	Johnnyfav		is there anyway I can configure it so I can write?
+2005-06-06T09:10:00.000Z	dooglus	Johnnyfav	apparently the 2.6 kernels can be configured to 'safely' allow writing to NTFS partitions so long as you don't change the size of any files
+2005-06-06T09:10:00.000Z	dooglus	Johnnyfav	if you want to create new files, or change file sizes then writing to NTFS is still 'dangerous'

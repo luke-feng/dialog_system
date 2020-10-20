@@ -1,0 +1,6 @@
+2010-04-25T19:02:00.000Z	yogesh712harish		hello frnds can anybody tell me about..how to create iso images in ubuntu 9.04
+2010-04-25T19:03:00.000Z	Dr_Willis	yogesh712harish	 iso images for what purpose?
+2010-04-25T19:04:00.000Z	Dr_Willis	yogesh712harish	 you want to make an ISO image of an existing cd/dvd you allready have?
+2010-04-25T19:05:00.000Z	yogesh712harish	Dr_Willis	yes sir
+2010-04-25T19:05:00.000Z	Dr_Willis	yogesh712harish	 command like -->   dd if=/dev/cdrom of=thedisk.iso       can do that.
+2010-04-25T19:13:00.000Z	yogesh712harish	Dr_Willis	i have fired the command but the cursor is only hanging there

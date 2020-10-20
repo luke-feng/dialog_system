@@ -1,0 +1,6 @@
+2007-12-15T06:13:00.000Z	ilovefedora		hello
+2007-12-15T06:13:00.000Z	ilovefedora		i want to change my server from fedora to ubuntu
+2007-12-15T06:13:00.000Z	ilovefedora		is there a howto around?
+2007-12-15T06:13:00.000Z	adelie	ilovefedora	I have always wanted to just change the repositories and just apt-get upgrade
+2007-12-15T06:14:00.000Z	adelie	ilovefedora	then just apt-get install ubuntu-desktop
+2007-12-15T06:15:00.000Z	adelie	ilovefedora	I have actually installed a large number of fedora components into ubuntu successfully just by apt'ing yum

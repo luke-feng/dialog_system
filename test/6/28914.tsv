@@ -1,0 +1,6 @@
+2009-10-30T22:25:00.000Z	Laserbeak		 i was an admin, but someone told me it isn't safe to be an admin  and using the PC regularly. so i took myself off the admin group and now sudo doesn't work"daddy is not in the sudoers file.  This incident will be reported."
+2009-10-30T22:25:00.000Z	IdleOne	Laserbeak	put yourself back in the admin group
+2009-10-30T22:26:00.000Z	Laserbeak	IdleOne	that's safe?
+2009-10-30T22:26:00.000Z	Laserbeak		and running irc?
+2009-10-30T22:26:00.000Z	Laserbeak		oh ok
+2009-10-30T22:26:00.000Z	IdleOne	Laserbeak	is you want sudo to work you must be in the admin group. what is not safe is to run as root all the time

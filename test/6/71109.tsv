@@ -1,0 +1,6 @@
+2007-12-12T13:37:00.000Z	xLE		after i do, sudo apt-get build-essential, it outputs some errors like "failed to fetch cdrom:[stuff here] hash sum mismatch", then says "E: unable to fetch some archives maybe run apt-get update or try with - - fix-issing?", so i try sudo apt-get update, then try sudo apt-get build-essential again, comes back with the same errors..
+2007-12-12T13:38:00.000Z	simplechat	xLE	remove cdrom from your /etc/apt/sources.list
+2007-12-12T13:58:00.000Z	simplechat	xLE	try http://www.pastebin.ca/813135 that as your sources.list
+2007-12-12T13:59:00.000Z	xLE	simplechat	www.pastebin.ca/813132
+2007-12-12T14:01:00.000Z	simplechat	xLE	no, replace it with the one i pastebinned. (gksudo gedit /etc/apt/sources.list) and then sudo apt-get update && sudo apt-get upgrade
+2007-12-12T14:02:00.000Z	simplechat	xLE	try http://www.pastebin.ca/813135 that as your sources.list

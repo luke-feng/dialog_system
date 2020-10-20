@@ -1,0 +1,6 @@
+2011-03-16T16:52:00.000Z	boba_		i have problem with setting up the driver for my quadro fx 4500 graphics card
+2011-03-16T16:54:00.000Z	birthdayboy	boba_	apt-get drivers?
+2011-03-16T16:54:00.000Z	boba_	birthdayboy	yes linux
+2011-03-16T16:55:00.000Z	boba_	birthdayboy	i asked on suse channel but we could not find a solution
+2011-03-16T16:55:00.000Z	boba_	birthdayboy	maybe i can paste bin the var/log/nvidia-installerinfo
+2011-03-16T16:58:00.000Z	boba_	birthdayboy	maybe i can paste bin the var/log/nvidia-installerinfo

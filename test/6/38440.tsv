@@ -1,0 +1,6 @@
+2009-08-12T14:54:00.000Z	Kapli		Hi, I just installed ubuntu and I'm running it for the first time, however I can't figure out how to get my wireless internet to work, how can I know if the drivers are installed and if the device is working or not
+2009-08-12T14:54:00.000Z	indus	Kapli	go to system>admin>hardware drivers
+2009-08-12T14:55:00.000Z	indus	Kapli	ok what is the output of lspci
+2009-08-12T14:55:00.000Z	indus	Kapli	use paste
+2009-08-12T14:56:00.000Z	indus	Kapli	which one is it
+2009-08-12T18:00:00.000Z	indus	Kapli	capital D

@@ -1,0 +1,6 @@
+2007-06-22T07:46:00.000Z	bruenig	daquino	just package it conventionally
+2007-06-22T07:46:00.000Z	daquino	bruenig	 wtf does that mean ?
+2007-06-22T07:46:00.000Z	bruenig	daquino	do you think that the debs in the repos are made with checkinstall?
+2007-06-22T07:46:00.000Z	daquino	bruenig	 how do i make it conventionally ?
+2007-06-22T07:47:00.000Z	bruenig	daquino	make install it in to a destdir (make install DESTDIR=/path/to/some/empty/directory) and then add a debian directory in there and create a control file (see apt-cache show firefox or any other application for what that looks like) then use dpkg -b to build it
+2007-06-22T07:48:00.000Z	daquino	bruenig	 ok

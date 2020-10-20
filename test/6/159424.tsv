@@ -1,0 +1,6 @@
+2011-06-22T16:28:00.000Z	M1_		Why does my Ubuntu try to open an executable (.bin) file in text editor when I click on it? And how can I change this? (permission to execute is already set)
+2011-06-22T16:28:00.000Z	dr_willis	M1_	 whats the bin file exactly?
+2011-06-22T16:29:00.000Z	dr_willis	M1_	 i do not agree with that.
+2011-06-22T16:29:00.000Z	dr_willis	M1_	 you can have trash files that accidently get executable bit set all the time.
+2011-06-22T16:30:00.000Z	dr_willis	M1_	 you can mount ntfs/vfat/ in ways that every file is 'executable' and you would not want .jpg s being 'executed' by mistake..
+2011-06-22T16:41:00.000Z	dr_willis	M1_	 its in the partners repository

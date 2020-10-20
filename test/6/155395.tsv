@@ -1,0 +1,6 @@
+2005-02-12T06:12:00.000Z	troll_god	FAST	you put it under modeline or under your device driver?
+2005-02-12T06:12:00.000Z	FAST	troll_god	what's modeline?
+2005-02-12T06:13:00.000Z	troll_god		the other place where you might see resolutions in your config
+2005-02-12T06:13:00.000Z	troll_god	FAST	you can always reconfigure xserver as they suggested to zazeem
+2005-02-12T06:13:00.000Z	FAST		under the screen section, i inserted "1152x864" in the 24 bit depth mode section
+2005-02-12T06:13:00.000Z	FAST	troll_god	i tried that too, but it wasn't listed ever

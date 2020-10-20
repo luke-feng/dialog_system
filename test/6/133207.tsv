@@ -1,0 +1,6 @@
+2005-10-20T13:55:00.000Z	jrattner1		Everytime i modprobe ndiswrapper my kernel locks up, how can i debug this and find out what is going on
+2005-10-20T13:57:00.000Z	jrattner1		Everytime i modprobe ndiswrapper my kernel locks up, how can i debug this and find out what is going on or fix it?
+2005-10-20T13:58:00.000Z	sn9	jrattner1	are you sure you need ndiswrapper?
+2005-10-20T13:59:00.000Z	jrattner1	sn9	I believe so my wireless card is broadcom which work with ndiswrappers previously in hoary and is driver bcmwll5.
+2005-10-20T14:00:00.000Z	sn9	jrattner1	does ndiswrapper -l show the proper file before modprobe?
+2005-10-20T14:00:00.000Z	jrattner1	sn9	bcmwl5          driver present, hardware present

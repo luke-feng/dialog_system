@@ -1,0 +1,6 @@
+2009-10-31T22:57:00.000Z	Spirits-Sight		Is there any way of shrinking Win XP NTFS partation before installing Ubuntu?  I got a error when ubuntu tryed to do it?
+2009-10-31T22:58:00.000Z	trism	Spirits-Sight	you may need to make sure you defrag the partition before you try to resize it, so all the files are on one side mostly
+2009-10-31T22:59:00.000Z	Spirits-Sight	trism	any tool that u would recommend for this? not windows tool I hope also kikc thanks also
+2009-10-31T23:00:00.000Z	trism	Spirits-Sight	the default tool in XP works fine for me for defragging
+2009-10-31T23:00:00.000Z	Spirits-Sight	trism	where you find it? I have not used XP long time
+2009-10-31T23:01:00.000Z	trism	Spirits-Sight	been a while since I used XP too, I believe it is either under Accessories/System Tools, or if you click properites on the drive there should be an option

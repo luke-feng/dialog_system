@@ -1,0 +1,6 @@
+2007-03-05T13:26:00.000Z	PloneDude		hi...wat is the find command to find all files of a particualar file extension...
+2007-03-05T13:26:00.000Z	gyaresu	PloneDude	'locate *.mp3'
+2007-03-05T13:26:00.000Z	PloneDude		anyone can recommand a gud site...where every linux command is explained in details..
+2007-03-05T13:27:00.000Z	PloneDude	gyaresu	thanks...
+2007-03-05T13:27:00.000Z	gyaresu	PloneDude	run 'man man' from a terminal.
+2007-03-05T13:28:00.000Z	gyaresu	PloneDude	http://freeengineer.org/learnUNIXin10minutes.html as one of many examples.

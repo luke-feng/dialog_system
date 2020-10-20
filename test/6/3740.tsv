@@ -1,0 +1,6 @@
+2012-02-19T09:53:00.000Z	Danny_Joris		Hi, I downloaded the musicbrainz VM and following the instructions here: http://musicbrainz.org/doc/MusicBrainz_Server/Setup
+2012-02-19T09:53:00.000Z	Danny_Joris		I'm trying to get the IP address of my vm
+2012-02-19T09:53:00.000Z	Danny_Joris		if I check with ifconfig, this is what I get for eth0 inet addr: fe80::a00:27ff:fe88:b42a/64
+2012-02-19T09:54:00.000Z	urfr332gO	Danny_Joris	not really supported here.
+2012-02-19T09:54:00.000Z	Danny_Joris	urfr332gO	ubuntu server then?
+2012-02-19T09:55:00.000Z	urfr332gO	Danny_Joris	if nobody helps I would try ##linux not sure really. :)

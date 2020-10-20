@@ -1,0 +1,6 @@
+2012-08-10T23:12:00.000Z	linelevel		OpenSSH client, I guess.
+2012-08-10T23:12:00.000Z	bekks	linelevel	Technically, thats not possible.
+2012-08-10T23:12:00.000Z	bekks	linelevel	You have to start screen on the host you connected via ssh, and you can reattach to that screen session using a new ssh connection.
+2012-08-10T23:12:00.000Z	linelevel	bekks	Are you saying what I want to do is not possible, or the circumstances I observed (getting control of the session back when I reconnect) are not possible?
+2012-08-10T23:12:00.000Z	bekks	linelevel	I just explained it in detail.
+2012-08-10T23:14:00.000Z	linelevel	bekks	yes, I see what you're saying. That's an acceptable solution. Can you explain (or point me to a reference that explains) why a persisting an ssh session across networks  is not possible?

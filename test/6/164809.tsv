@@ -1,0 +1,6 @@
+2011-03-29T17:22:00.000Z	theinkman21		i was wondering why k9copy keeps crashing and if there is any method to fixing it
+2011-03-29T17:24:00.000Z	theinkman21		does anyone know a method to stop k9copy from crashing
+2011-03-29T17:25:00.000Z	Dr_Willis	theinkman21	 run it from terminal. look for error messages. Ive rarely had it crash here.
+2011-03-29T17:46:00.000Z	Dr_Willis	theinkman21	 its proberly a front end to other command line tools.. so it may be a bit tricky to just downlaod and isntall
+2011-03-29T21:08:00.000Z	Dr_Willis	theinkman21	 to hard drive as an ISO file? or a video file?
+2011-03-29T21:08:00.000Z	Dr_Willis	theinkman21	 theres dozens of dvd ->? video ripper tools out. Handbreak is popular. ogmrip is also popular

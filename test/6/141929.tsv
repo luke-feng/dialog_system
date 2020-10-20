@@ -1,0 +1,6 @@
+2006-11-23T10:46:00.000Z	FloK		hi. Is it possible to scp when the dest is only root writable and how?
+2006-11-23T10:46:00.000Z	FloK		IMO the missing root user is trouble in this case
+2006-11-23T10:47:00.000Z	Kingsqueak	FloK	I think you're right
+2006-11-23T10:47:00.000Z	FloK	Kingsqueak	so you also havent found any solution to this prob?
+2006-11-23T10:48:00.000Z	Kingsqueak	FloK	though really, you shouldn't leave root ssh enabled, ideally you would have a process user that does the transfer and something to pick up the files on the receiving end, maybe a root run process to fix it
+2006-11-23T10:48:00.000Z	Kingsqueak	FloK	nope

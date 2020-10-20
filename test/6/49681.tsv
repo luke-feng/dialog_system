@@ -1,0 +1,6 @@
+2008-10-09T18:59:00.000Z	amnado	multiip	why do you have the need to modify those?
+2008-10-09T19:00:00.000Z	multiip		im trying to slim down unubtu to just lamp, they mount and take up 1 gb of space, more than the space everything else occupies
+2008-10-09T19:01:00.000Z	multiip	amnado	remove was probably not the right word, shrink is a better word
+2008-10-09T19:02:00.000Z	amnado		multiip--> some of those like devshm is a temporary file system, and just because it says 1gig, doesnt necessarily meant its is taking 1gig of hd space
+2008-10-09T19:03:00.000Z	amnado		its virtual file system
+2008-10-09T19:05:00.000Z	multiip	amnado	ok i just realised it is twice the size of my ram, so im guessing part of it is paging, is it possible to reduce the page size or stop paging?

@@ -1,0 +1,6 @@
+2011-02-13T23:11:00.000Z	jamesw_		Hello people, Im new to Ubuntu and Im having trouble with Filezilla: it's running very very slow. Im transfering files over a 1Gbps local network and filezilla only manages to downlaod at 30-35KB/s ! Even the filezilla window seems to be unresponsive, taking 2-3 seconds to display when I switch to it. Any ideas? What can I try? Im runnign 10.10 installed on the hard drive.
+2011-02-13T23:11:00.000Z	ActionParsnip	jamesw_	nautilus can talk to sftp and ftp servers
+2011-02-13T23:13:00.000Z	ActionParsnip	jamesw_	try nautilus, if its fine then its filezilla being slow (plus its a 3Mb installed app which is pretty ridiculous if you ask me)
+2011-02-13T23:14:00.000Z	jamesw_	ActionParsnip	thanks, I tried the "connect to server" function and it did work for a few files/folders until it freezed and I had to restart to fix it. Im going to try it again anyway.
+2011-02-13T23:14:00.000Z	ActionParsnip	jamesw_	try gftp as well, its nice and light
+2011-02-13T23:19:00.000Z	jamesw_	ActionParsnip	the "conect to server option" in Nautilus didnt work. I did set the connection and I could see the remote files. I then did right-click-copy and right-click-paste on a local folder, it only managed to copy 18MB before freezing. Now I have a "FileOperations" popup that doesnt move. (Im going to install gftp now... but it's not looking good).

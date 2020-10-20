@@ -1,0 +1,6 @@
+2011-01-26T08:57:00.000Z	ao8000		no working leases in persistent database - sleeping
+2011-01-26T08:57:00.000Z	sam-_-	ao8000	ifconfig wlan0 <ip address>
+2011-01-26T08:58:00.000Z	sam-_-	ao8000	or whatever you interface name is
+2011-01-26T08:58:00.000Z	sam-_-	ao8000	eth0 for example
+2011-01-26T09:07:00.000Z	sam-_-	ao8000	put a sudo in fron
+2011-01-26T09:07:00.000Z	sam-_-	ao8000	put a sudo in front

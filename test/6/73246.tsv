@@ -1,0 +1,6 @@
+2007-12-01T12:21:00.000Z	dns53		it is gui based
+2007-12-01T12:23:00.000Z	dns53		how are you running it, if you run it in a terminal the DISPLAY veriable that tells the application where the screen is can get messed up, run it through the menu or another terminal
+2007-12-01T12:24:00.000Z	gRnt	dns53	if by terminal you mean the screen you click on to do everything then yes
+2007-12-01T12:37:00.000Z	dns53	gRnt	logout/login
+2007-12-01T12:38:00.000Z	gRnt	dns53	I havent had to do that yet how do I log out heh. save restarting the os ofcourse
+2007-12-01T12:39:00.000Z	dns53	gRnt	the problem is you do not have all the shell environment variables setup, a logout/login or running bash to create a sub shell may work

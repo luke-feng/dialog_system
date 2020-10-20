@@ -1,0 +1,6 @@
+2004-10-08T13:03:00.000Z	jeld		hello all
+2004-10-08T13:03:00.000Z	jeld		is there a way to enable totem to play encrypted DVDs?
+2004-10-08T13:04:00.000Z	jdub	jeld	there's a repository mentioned on the mailing list
+2004-10-08T13:04:00.000Z	jdub	jeld	that includes pacakges to let you do that
+2004-10-08T13:04:00.000Z	jdub	jeld	if you install totem-xine and use those packages, it'll work
+2004-10-08T13:05:00.000Z	jeld	jdub	thanx

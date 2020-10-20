@@ -1,0 +1,6 @@
+2007-11-23T09:31:00.000Z	Ashfire908		can i boot ubuntu from a hard drive without having grub on a floppy or on the hard drive?
+2007-11-23T09:31:00.000Z	MidnighToker	Ashfire908	you could install lilo
+2007-11-23T09:32:00.000Z	Ashfire908	MidnighToker	no i mean no boot loader on the HDD, and i have no floppy
+2007-11-23T09:33:00.000Z	MidnighToker	Ashfire908	you can get bootable CDs, your bios might support booting from USB
+2007-11-23T09:36:00.000Z	MidnighToker	Ashfire908	you might be able to get grub to launch from a CD, not easily tho
+2007-11-23T09:43:00.000Z	MidnighToker	Ashfire908	there are a number of tutorials on creating a whole linux system on USB boot. find one of those, it should give you bootloader info

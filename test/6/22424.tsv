@@ -1,0 +1,6 @@
+2010-04-08T21:04:00.000Z	solexious		When trying to setup mysql from the instructions from the ubuntu wiki at https://help.ubuntu.com/community/ApacheMySQLPHP when trying to set the mysql root password with 'mysql -u root' I get the error 'ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)' Any ideas what i'm doing wrong?
+2010-04-08T21:05:00.000Z	crucialhoax	solexious	are you the root user trying to apply the settings? try that. sudo mysql -u root
+2010-04-08T21:05:00.000Z	solexious	crucialhoax	sadly that gives me the same error
+2010-04-08T21:06:00.000Z	crucialhoax	solexious	argh.
+2010-04-08T21:09:00.000Z	crucialhoax	solexious	http://dev.mysql.com/doc/refman/5.1/en/access-denied.html
+2010-04-08T21:23:00.000Z	solexious	crucialhoax	thanks, that link sorted it

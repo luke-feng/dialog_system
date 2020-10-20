@@ -1,0 +1,6 @@
+2009-09-17T20:11:00.000Z	ShaneN		What is the proper method of adding a program to bootup?
+2009-09-17T20:11:00.000Z	Dr_Willis_	ShaneN	 depends on the program and what its doing.
+2009-09-17T20:11:00.000Z	ShaneN	Dr_Willis_	It is a Mono background process
+2009-09-17T20:12:00.000Z	Dr_Willis_	ShaneN	 for a user? or a system service?
+2009-09-17T20:12:00.000Z	ShaneN	Dr_Willis_	System service
+2009-09-17T20:12:00.000Z	Dr_Willis_	ShaneN	 lazy/fast/dirty way - start it from rc.local or make a proper init script for it

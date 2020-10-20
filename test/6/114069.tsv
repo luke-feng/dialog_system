@@ -1,0 +1,6 @@
+2008-05-13T15:52:00.000Z	smax		what I do wrong? sudo echo "deb ....." >> /etc/apt/sources.list it said permission denied?
+2008-05-13T15:53:00.000Z	smax		do with `` ?
+2008-05-13T15:53:00.000Z	jrib	smax	pipe to sudo tee -a instead
+2008-05-13T15:55:00.000Z	jrib	smax	echo "deb ..." | sudo tee -a /etc/apt/sources.list
+2008-05-13T15:55:00.000Z	smax	jrib	<jrib> smax: pipe to sudo tee -a instead>> could you explaine me
+2008-05-13T15:55:00.000Z	smax	jrib	thanks

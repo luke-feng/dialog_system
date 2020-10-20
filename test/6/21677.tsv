@@ -1,0 +1,6 @@
+2010-05-17T02:23:00.000Z	skinnymg1		im going to build myself a new computer and need to know if this mobo is going to do ok with Ubuntu is there anyone i can send the link to for advice
+2010-05-17T02:24:00.000Z	Loshki	skinnymg1	usually I check reviews on newegg and look for someone who says it worked (or didn't) on Ubuntu. If that doesn't work, your next best bet is to check the individual chipsets, but it's a gamble at that point...
+2010-05-17T02:25:00.000Z	skinnymg1	Loshki	it has the Intel G31 chipset
+2010-05-17T02:27:00.000Z	Loshki	skinnymg1	I run g31 myself on an ECS G31-T M mobo (bundle from frys)
+2010-05-17T02:32:00.000Z	Loshki	skinnymg1	I took a look at newegg reviews. One reviewer had NIC problems, another mentions fan speed issues, but half a dozen say ubuntu ran with no problems. Make sure you can RMA it if the worst comes to the worst...
+2010-05-17T02:35:00.000Z	skinnymg1	Loshki	ty

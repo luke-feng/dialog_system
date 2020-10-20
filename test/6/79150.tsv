@@ -1,0 +1,6 @@
+2007-09-12T13:06:00.000Z	Skelet0n		any1 willing to help me?
+2007-09-12T13:07:00.000Z	Skelet0n		On boot i get a  cannot start X server msg
+2007-09-12T13:08:00.000Z	Skelet0n		Argazm-On boot i get a  cannot start X server msg
+2007-09-12T13:08:00.000Z	Argazm	Skelet0n	is this from a live cd or an HD install ?? and did it use to work
+2007-09-12T13:13:00.000Z	Argazm	Skelet0n	looks like the nvidia driver you installed went wrong or is the wrong one...
+2007-09-12T13:26:00.000Z	Argazm	Skelet0n	sorry dude, I dunno how to reset your drivers... looks like they didnt install properly or they are the wrong ones...  check the ubuntu forums to see how to reset your gfx card back to norm

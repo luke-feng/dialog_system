@@ -1,0 +1,6 @@
+2008-11-18T11:29:00.000Z	NewFAQs		Hmmmn i did what UButtu said to do, but can not find opera web broswer :(
+2008-11-18T11:30:00.000Z	NewFAQs		in applications/add/remove/all/all applications including 3rd party
+2008-11-18T11:30:00.000Z	Flannel	NewFAQs	https://help.ubuntu.com/community/OperaBrowser follow the instructions on that page
+2008-11-18T11:34:00.000Z	Flannel	NewFAQs	once you add it, you have to reload your lists, either "reload" in synaptic, or sudo apt-get update, then you'll be able to see it.
+2008-11-18T11:35:00.000Z	Flannel	NewFAQs	yes, because you haven't added the key to the opera repository to your keyring.
+2008-11-18T11:36:00.000Z	Flannel	NewFAQs	https://help.ubuntu.com/community/OperaBrowser  the second line thing near the top.

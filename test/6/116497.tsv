@@ -1,0 +1,6 @@
+2006-06-30T14:21:00.000Z	Meshyf		ok I'm back on that live Cd now
+2006-06-30T14:22:00.000Z	Meshyf		What kind of partition should I use for Ubuntu?
+2006-06-30T14:23:00.000Z	snoops	Meshyf	yep ext3 is a safe bet
+2006-06-30T14:24:00.000Z	snoops	Meshyf	if you want to be really smart though, you could have 3 partitions.. a swap one (rule of thumb is twice your ram), a ext3 one for / (around 15-20gb) and /home for the rest
+2006-06-30T14:25:00.000Z	snoops	Meshyf	oh right.. you're not resizing ntfs to make that, I hope
+2006-06-30T14:26:00.000Z	snoops	Meshyf	k.. should be fine.. I've always found resizing partitions to be an incredibly risky business, no matter the os

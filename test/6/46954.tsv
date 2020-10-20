@@ -1,0 +1,6 @@
+2009-01-08T21:01:00.000Z	gizmo		how i want to check my error in terminal ubuntu?
+2009-01-08T21:02:00.000Z	techouse	gizmo	what is the error?
+2009-01-08T21:02:00.000Z	gizmo	techouse	when i open the ubuntu it say error in my device..
+2009-01-08T21:03:00.000Z	gizmo	techouse	in my terminal?
+2009-01-08T21:04:00.000Z	techouse	gizmo	but what is the error?
+2009-01-08T21:05:00.000Z	techouse	gizmo	dunno but try to run your application that gives errors and put "| grep error" at the end

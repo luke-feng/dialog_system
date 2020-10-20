@@ -1,0 +1,6 @@
+2012-01-24T20:23:00.000Z	rcmaehl		why doesn't ubuntu have forkbomb protection?
+2012-01-24T20:23:00.000Z	rcmaehl		As in protection from forkbombs being executed
+2012-01-24T20:24:00.000Z	rcmaehl		anywhere
+2012-01-24T20:24:00.000Z	rcmaehl		or 5000
+2012-01-24T20:25:00.000Z	rcmaehl		or limit the maximum threads to 10000
+2012-01-24T20:26:00.000Z	jpds	rcmaehl	Can you think of any Linux distro that does that?

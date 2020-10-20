@@ -1,0 +1,6 @@
+2008-03-27T00:34:00.000Z	kc8tpz		can grub be installed on a slave?  So windows on one drive and grub+ubuntu on a slave drive?
+2008-03-27T00:35:00.000Z	unop_	kc8tpz	it looks like you have no need for grub there -- simply configure the windows bootloader for dual-boot
+2008-03-27T00:36:00.000Z	kc8tpz	unop_	use windows boot loader to load ubuntu?
+2008-03-27T00:36:00.000Z	unop_	kc8tpz	sure
+2008-03-27T00:37:00.000Z	kc8tpz	unop_	wouldn't you have to dump the /boot into C: ?
+2008-03-27T00:38:00.000Z	unop_	kc8tpz	not necessary -- /boot remains on the slave drive, but the windows bootloader knows how to access that via an entry in c:\boot.ini

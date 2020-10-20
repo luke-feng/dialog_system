@@ -1,0 +1,6 @@
+2007-04-17T13:33:00.000Z	shedman		when I run fdisk -l it says "Disk /dev/sda doesn't contain a valid partiton table"
+2007-04-17T13:34:00.000Z	stefg	shedman	nothing else? do you run feisty?
+2007-04-17T13:36:00.000Z	stefg	shedman	i see, so /different/ computers aren't able to read from the USB disk in question... Did you drop it? :-)
+2007-04-17T13:38:00.000Z	stefg	shedman	just to sort that out: you said *sudo* fdisk -l , no?
+2007-04-17T13:41:00.000Z	stefg	shedman	so read your dmesg first, then cat /proc/partitions to see if the kernel has any idea of what is on the USB disk. What did you do with it?
+2007-04-17T13:43:00.000Z	stefg	shedman	hmmm, so testdisk should be able to help you

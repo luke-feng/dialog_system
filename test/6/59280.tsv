@@ -1,0 +1,6 @@
+2008-04-29T06:39:00.000Z	jayb2009		anyone know if its possible to write to a mounted iso, I dont want to recreate the iso just add a few files without modifying the boot sector and info that the iso already has
+2008-04-29T06:40:00.000Z	bazhang	jayb2009	you need something like uck and it would require a remaster of the iso (burning a new iso)
+2008-04-29T06:41:00.000Z	jayb2009	bazhang	whats uck
+2008-04-29T06:41:00.000Z	bazhang	jayb2009	ubuntu customization kit
+2008-04-29T06:42:00.000Z	jayb2009	bazhang	thanks but the iso is not linux its another OS
+2008-04-29T06:43:00.000Z	bazhang	jayb2009	well does not really matter what distro--they all have an iteration of it--fedora has constructor or somesuch which distro was it--you can then ask in their channel--trivially easy really

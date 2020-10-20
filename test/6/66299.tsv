@@ -1,0 +1,6 @@
+2012-05-11T01:25:00.000Z	riyonuk		Okay, installed Ubuntu desktop into virtual box. It's set to NAT. Still cannot ssh into t.
+2012-05-11T01:25:00.000Z	riyonuk		I'm about to give up on linux, haha. This just isn't working for me D;
+2012-05-11T01:26:00.000Z	ActionParsnip	riyonuk	set the network to bridged
+2012-05-11T01:29:00.000Z	ActionParsnip	riyonuk	wait, you only JUST install Ubuntu in a virtualbox and it didn't work as expected immediately and you are going to give up on it. Is that right?
+2012-05-11T01:30:00.000Z	riyonuk	ActionParsnip	lol, I've been working on this for a week now. openssh-server and client are installed. changing nat/brige, vmware/virtualbox does nothing
+2012-05-11T01:31:00.000Z	ActionParsnip	riyonuk	did you ask in #vbox at all?

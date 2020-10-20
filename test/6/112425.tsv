@@ -1,0 +1,6 @@
+2010-10-19T07:26:00.000Z	pepone		hi, were can i set LD_LIBRARY_PATH
+2010-10-19T07:28:00.000Z	Dulak	pepone	you'll have to set it for the apache user, not your normal user
+2010-10-19T07:30:00.000Z	Dulak	pepone	http://www.easysoft.com/support/kb/kb00636.html
+2010-10-19T07:30:00.000Z	Dulak	pepone	you don't want to set it for every user, it could cause issues
+2010-10-19T07:33:00.000Z	pepone	Dulak	my php extesion should also work in command line scripts so i need it to be set for all users that execute php scripts
+2010-10-19T07:35:00.000Z	Dulak	pepone	that's not exactly portable, but whatever works I suppose

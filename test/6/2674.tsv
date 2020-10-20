@@ -1,0 +1,6 @@
+2012-05-06T04:12:00.000Z	era878		whats the best way to setup a RAM disk
+2012-05-06T04:13:00.000Z	MirkoKa	era878	sudo mount -t tmpfs none /path/to/mountpoint
+2012-05-06T04:28:00.000Z	MirkoKa	era878	sudo mount -t tmpfs -o size=200M none /path/to/mountpoint will create a 200 MB ram disk
+2012-05-06T04:29:00.000Z	era878	MirkoKa	but tmpfs is does not grow dynamically and it can use the swap
+2012-05-06T04:32:00.000Z	MirkoKa	era878	it does grow dynamically (it only uses what's needed) and yes, it can be swapped out. is that a problem your your situation (which is what?)
+2012-05-06T04:33:00.000Z	era878	MirkoKa	I am running a server off the ramdisk and do not want it to be swapped out because it could cause a major speed reduction

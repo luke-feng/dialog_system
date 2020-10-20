@@ -1,0 +1,6 @@
+2005-06-29T07:37:00.000Z	slipjig		Hi.  I've installed and set up NIS as a client on my Laptop.  I had the help of a Mandriva-using friend.  But now my machine won't shutdown cleanly.  It gets much of the way through the shutdown routine, but then hangs on the message "deconfiguring network interfaces...".  It makes no difference if the network cable is in or disconnected.
+2005-06-29T07:37:00.000Z	slipjig		Oops... meant to say: can anyone offer any advice?
+2005-06-29T07:38:00.000Z	gm78	slipjig	: have you tried disabling nis to see if it still does it?
+2005-06-29T07:40:00.000Z	slipjig	gm78	I'm not sure how to cleanly do that.  Making /etc/init.d/nis UNexecutable seems to cause other problems.  I've also tried moving softlinks out of /etc/rc*.d/ but again with more problem.  Can you suggest a good way to disable it?
+2005-06-29T07:40:00.000Z	gm78	slipjig	: no clue, sorry man
+2005-06-29T07:42:00.000Z	slipjig	gm78	OK.  I'll have another couple of gos (with attitude) and get back :)

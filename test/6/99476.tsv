@@ -1,0 +1,6 @@
+2007-05-27T06:41:00.000Z	MSTK		When I run python in Interactive Mode on the terminal, it won't run certain commands, such as gmtime(), random(), etc.
+2007-05-27T06:41:00.000Z	MSTK		it says that they are not found.
+2007-05-27T06:43:00.000Z	MSTK		there are commands that I am sure exist in Python (I've run them in Windows), but aren't found in my linux library, for some reason.
+2007-05-27T06:44:00.000Z	greyfrog	MSTK	you might need the dev packages?
+2007-05-27T06:44:00.000Z	greyfrog	MSTK	for those functions
+2007-05-27T06:44:00.000Z	MSTK	greyfrog	- I've installed the dev packages, as well.  from the synaptics package manager.

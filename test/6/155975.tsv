@@ -1,0 +1,6 @@
+2010-09-16T13:22:00.000Z	Guest89245		helllo
+2010-09-16T13:22:00.000Z	Guest89245		i was wondering if anyone has any experience with dells and ubuntu 64 bit
+2010-09-16T13:22:00.000Z	syn-ack	Guest89245	like what?
+2010-09-16T13:25:00.000Z	syn-ack	Guest89245	Gotta install the kernel module for it then
+2010-09-16T13:29:00.000Z	syn-ack	Guest89245	open a console for me and in it type sudo jockey-gtk
+2010-09-16T13:29:00.000Z	syn-ack	Guest89245	That'll start the tool ikonia was talking about it

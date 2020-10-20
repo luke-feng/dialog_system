@@ -1,0 +1,6 @@
+2011-12-19T06:43:00.000Z	mhiku		how can i install memcached mysql not only mysql.
+2011-12-19T06:44:00.000Z	mhiku		it think theres an apt-get install mysql-server libmemcached that i can use
+2011-12-19T06:45:00.000Z	mhiku		its ubuntu..
+2011-12-19T06:47:00.000Z	somsip	mhiku	you need to be sure whether you want the memcache client or the memcahced client
+2011-12-19T06:55:00.000Z	somsip	mhiku	this might help http://code.google.com/p/memcached/wiki/Clients
+2011-12-19T06:56:00.000Z	somsip	mhiku	hhang ok - you're using mysql as a server for memcached? I don't understand why. memcached is a purely ram-based server

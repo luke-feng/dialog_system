@@ -1,0 +1,6 @@
+2008-01-16T08:08:00.000Z	greg-g		live cds don't check for package upgrades right?
+2008-01-16T08:08:00.000Z	greg-g		(as in you shouldn't get a message about there being updates to Ubuntu)
+2008-01-16T08:09:00.000Z	Madpilot	greg-g	actually, they will check. Just ignore it.
+2008-01-16T08:09:00.000Z	greg-g	Madpilot	I was just double checking because there was a bug report about the livecd asking to be restarted to apply updates :)
+2008-01-16T08:10:00.000Z	Madpilot	greg-g	heh. Never run into that, but yes, it'll check for updates. The 'restart now' thing could stand to be disabled on LiveCD, though...
+2008-01-16T08:10:00.000Z	greg-g	Madpilot	I agree, I'll check for dupes (this _has_ to have been an issue before)

@@ -1,0 +1,6 @@
+2005-07-16T09:24:00.000Z	coolkev		how do you find out info about a package... do you type sudo apt-get info Beagle?
+2005-07-16T09:24:00.000Z	coolkev		yes
+2005-07-16T09:24:00.000Z	Seveas	coolkev	almost correct
+2005-07-16T09:24:00.000Z	Seveas	coolkev	use show instead of info
+2005-10-07T14:43:00.000Z	Seveas	coolkev	ls -al /var/log/debian-installer :)
+2005-10-07T14:45:00.000Z	Seveas	coolkev	hmm, ls -al /var/log

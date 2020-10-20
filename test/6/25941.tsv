@@ -1,0 +1,6 @@
+2009-12-30T17:26:00.000Z	pawl		Sharktooth does your uname-r correlate to the kernal in your menu.lst?
+2009-12-30T17:27:00.000Z	pawl		Mka I ran an fsck with the live disk and it got past frub but now its frozen just after the white ubuntu logo with an underscore in the top corner
+2009-12-30T17:29:00.000Z	pawl		Sharktooth that was the problem I had with audio
+2009-12-30T17:30:00.000Z	pawl		Actionparsnip I fixed the grub problem its now a case of it freezes just after the white ubuntu logo
+2009-12-30T17:30:00.000Z	pawl		Any ideads?
+2009-12-30T17:31:00.000Z	sharktooth19	pawl	is there a fix

@@ -1,0 +1,6 @@
+2006-07-29T11:12:00.000Z	mindseye		is it possible to set a "working directory' for an icon in Alacarte?
+2006-07-29T11:13:00.000Z	Amaranth	mindseye	err, what do you mean?
+2006-07-29T11:13:00.000Z	Amaranth		!es
+2006-07-29T11:14:00.000Z	mindseye	Amaranth	i need to run my executable from it's own directory or i won't get it's dependencies
+2006-07-29T11:14:00.000Z	mindseye		i need to either set a working directory, or change the directory before I execute the command
+2006-07-29T11:14:00.000Z	Amaranth	mindseye	you said for a directory

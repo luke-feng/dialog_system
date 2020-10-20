@@ -1,0 +1,6 @@
+2010-11-13T03:54:00.000Z	sympt0m		If I were to want to copy my whole Ubuntu environment onto another computer, how would I do that? Like... basically making my own distro so I can install it on another system.
+2010-11-13T03:55:00.000Z	sympt0m		wow, that didn't make a whole lot of sense
+2010-11-13T03:55:00.000Z	bazhang	sympt0m	or you could make a installable iso with something like remastersys
+2010-11-13T03:55:00.000Z	bazhang	sympt0m	its called remastersys
+2011-04-27T14:18:00.000Z	bazhang	sympt0m	backtrack is not supported here
+2011-04-27T14:18:00.000Z	bazhang	sympt0m	sure it is. #grub if you wish

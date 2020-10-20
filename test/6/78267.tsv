@@ -1,0 +1,6 @@
+2008-03-09T03:00:00.000Z	_richard		Is there any way to leave brightness at 87% permanent instead of having to fn+key everytime i restart??
+2008-03-09T03:02:00.000Z	_richard		My second HDD partition is set to /home/richard/Documents, i can't write to that folder, how to do it?
+2008-03-09T03:03:00.000Z	danbhfive	_richard	what format is it?
+2008-03-09T03:03:00.000Z	_richard	danbhfive	ext3, you mean that?
+2008-03-09T03:03:00.000Z	danbhfive	_richard	yeah
+2008-03-09T03:05:00.000Z	danbhfive	_richard	maybe adding rw in the options of your fstab

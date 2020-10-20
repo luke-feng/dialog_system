@@ -1,0 +1,6 @@
+2007-05-08T13:27:00.000Z	inthepit		can anyone help me out installing cups-pdf through ssh
+2007-05-08T13:27:00.000Z	inthepit		Package cups is not available, but is referred to by another package.
+2007-05-08T13:29:00.000Z	inthepit		!cups-pdf
+2007-05-08T13:30:00.000Z	dotpavan	inthepit	http://ubuntu.wordpress.com/2006/03/23/print-to-pdf-using-cups-pdf/
+2007-05-08T13:32:00.000Z	dotpavan	inthepit	check your sources.list against the one listed here: http://ubuntuguide.org/wiki/Ubuntu:Feisty#How_to_add_extra_repositories
+2007-05-08T13:53:00.000Z	dotpavan	inthepit	the link I sent previously has the info to start the cups-pdf

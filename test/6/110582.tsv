@@ -1,0 +1,6 @@
+2006-07-26T15:35:00.000Z	ektian		hello
+2006-07-26T15:35:00.000Z	ektian		is there a way to find apache 2.2.2 packages?
+2006-07-26T15:36:00.000Z	ektian		2.0
+2006-07-26T15:36:00.000Z	ektian		in cache
+2006-07-26T15:36:00.000Z	ektian		i like to avoid compiling from source
+2006-07-26T15:37:00.000Z	sparkman	ektian	google? steal a debian .deb?

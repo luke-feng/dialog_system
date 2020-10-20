@@ -1,0 +1,6 @@
+2005-04-30T07:36:00.000Z	Burger_in_da_sun		wich package should i apt-get to get all of xorg ?
+2005-04-30T07:36:00.000Z	daniels	Burger_in_da_sun	why do you want to do that?
+2005-04-30T07:36:00.000Z	Burger_in_da_sun	daniels	becoz i need an x server ?
+2005-04-30T07:37:00.000Z	daniels	Burger_in_da_sun	install x-window-system
+2005-04-30T07:37:00.000Z	daniels	Burger_in_da_sun	but ideally you should just install ubuntu-desktop
+2005-04-30T07:37:00.000Z	Burger_in_da_sun	daniels	i dont want gnome and all that stuff

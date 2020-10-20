@@ -1,0 +1,6 @@
+2010-09-16T11:27:00.000Z	sas		i need to install the wlan usb adapter
+2010-09-16T11:28:00.000Z	sas		i don't know
+2010-09-16T11:28:00.000Z	sas		it is plug in
+2010-09-16T11:28:00.000Z	tensorpudding	sas	The dmesg log mentions it
+2010-09-16T11:27:00.000Z	tensorpudding	sas	what's the issue?
+2010-09-16T11:29:00.000Z	tensorpudding	sas	Does it appear on network manager?

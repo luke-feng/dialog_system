@@ -1,0 +1,6 @@
+2005-06-25T10:13:00.000Z	apollo2011		How do I check if the smb.conf doesn't have any errors in it like typos that will make it invalid?
+2005-06-25T10:14:00.000Z	jbroome	apollo2011	testparm
+2005-06-25T10:14:00.000Z	apollo2011	jbroome	ok so just "testparm /etc/samba/smb.conf"?
+2005-06-25T10:14:00.000Z	jbroome	apollo2011	i believe so
+2005-06-25T10:14:00.000Z	apollo2011		cool thx
+2005-06-25T10:16:00.000Z	apollo2011	jbroome	it worked and said the file was fine but my Windows pc sees it ok and my other two ubuntu systems say there is an invalid parameter and won't load the shares...

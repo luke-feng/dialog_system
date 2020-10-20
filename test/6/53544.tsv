@@ -1,0 +1,6 @@
+2009-09-22T09:45:00.000Z	agliodbs		what do I need to do to enable ssh access for a new ubuntu server?
+2009-09-22T09:46:00.000Z	lstarnes	agliodbs	install openssh-server
+2009-09-22T09:46:00.000Z	agliodbs	lstarnes	ah, thanks.  thought it was installed by default
+2009-09-22T09:46:00.000Z	lstarnes	agliodbs	I think ubuntu server may have it by default
+2009-09-22T09:47:00.000Z	lstarnes	agliodbs	check ps aux | grep sshd
+2009-09-22T09:47:00.000Z	agliodbs	lstarnes	no, you're right, it's not installed by default

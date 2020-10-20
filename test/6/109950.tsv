@@ -1,0 +1,6 @@
+2008-07-18T17:39:00.000Z	Lunar_Lamp		 shah> hi guys, i hav installed bittorrent using apt-get install bittorrent, but i could'nt find bittorrent application anywhere, plz help <== there is a client called Transmission installed by default in recent releases of ubuntu.
+2008-07-18T17:40:00.000Z	Lunar_Lamp		!ask | ajzimmerman
+2008-07-18T17:41:00.000Z	carolyn	Lunar_Lamp	My bit torrent is installed under Applications --> Internet --> Transmission Bit Torrent Client
+2011-12-28T06:44:00.000Z	Lunar_Lamp	carolyn	hmm, which version of lubuntu are you using, because I'm sure that "just works" nowadays.
+2011-12-28T06:45:00.000Z	carolyn	Lunar_Lamp	11.10. Maybe a restart is necessary for the prompt to appear?
+2011-12-28T06:45:00.000Z	Lunar_Lamp	carolyn	it's possible, but I'm not sure that fwcutter is required.  Let me just have a look.

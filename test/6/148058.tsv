@@ -1,0 +1,6 @@
+2005-09-21T08:46:00.000Z	benz190ryda		can i install kubuntu using apt? my cdrom is shot
+2005-09-21T08:47:00.000Z	benz190ryda		thanks
+2005-09-21T08:49:00.000Z	benz190ryda		tried apt-get install kubuntu-desktop i get E: couldnt find package.is it looking for a cd
+2005-09-21T08:49:00.000Z	benz190ryda		?
+2005-09-21T08:50:00.000Z	flugh	benz190ryda	you have the proper kubuntu lines in apt sources.list?
+2005-09-21T08:51:00.000Z	flugh	benz190ryda	there's a very helpful #kubuntu channel here too

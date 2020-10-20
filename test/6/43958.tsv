@@ -1,0 +1,6 @@
+2010-08-16T23:44:00.000Z	agruman		im having trouble with digital audio out, i can get aplay -D hw:0,0 ac3_or_dts_file to play it correctly but changing ubuntu audio settings to digital just mutes my audio
+2010-08-16T23:44:00.000Z	agruman		does lucid use alsa default?
+2010-08-16T23:45:00.000Z	banished	agruman	it uses pulse audio
+2010-08-16T23:45:00.000Z	agruman	banished	is it possible to set pulse to use alsa as sink?
+2010-08-16T23:48:00.000Z	banished	agruman	that's waht it does by default afaik
+2010-08-16T23:48:00.000Z	agruman	banished	ok, then i dont get why my setup wont work .. :(

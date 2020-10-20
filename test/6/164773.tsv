@@ -1,0 +1,6 @@
+2006-06-08T10:58:00.000Z	Deedubb		how do i set my default editor to vim?
+2006-06-08T10:59:00.000Z	Deedubb		how do i set my default editor to vim?
+2006-06-08T11:01:00.000Z	Deedubb		echo -e "EDITOR=/usr/bin/vim; export EDITOR" >> /etc/profile
+2006-06-08T11:01:00.000Z	Deedubb		you're so good
+2006-06-08T11:02:00.000Z	tritium	Deedubb	you want to change the system-wide default editor?
+2006-06-08T11:03:00.000Z	tritium	Deedubb	"sudo update-alternative s--config editor"

@@ -1,0 +1,6 @@
+2006-09-28T13:03:00.000Z	Crescendo		Default GUI install of Ubuntu, is there any firewall?
+2006-09-28T13:05:00.000Z	Jack_Sparrow	Crescendo	Install firestarter or guarddog and look at your ports
+2006-09-28T13:06:00.000Z	Jack_Sparrow	Crescendo	They are iptable managers not firewalls and they do not need to be run to provide protection
+2006-09-28T13:07:00.000Z	Crescendo	Jack_Sparrow	I don't WANT protection, but I'm installing firestarter just to look.
+2006-09-28T13:07:00.000Z	Jack_Sparrow	Crescendo	Agreed
+2006-09-28T13:08:00.000Z	Crescendo	Jack_Sparrow	can't find package firestarter in the regular repos

@@ -1,0 +1,6 @@
+2007-03-14T12:24:00.000Z	chuck`_		Is there a good online resource for themes/interfaces for ubuntu (a la win32 programs like WindowBlinds or ThemeXP)?  i want a more "slick" look to my OS and I don't know where to start
+2007-03-14T12:26:00.000Z	Flannel	chuck`_	aptitude has a GUI
+2007-03-14T12:33:00.000Z	Flannel	chuck`_	yep, you switch between them under "sessions" in GDM
+2007-03-14T12:34:00.000Z	chuck`_	Flannel	so it's not a risk to have more than one window manager installed?  no conflicts or anything?
+2007-03-14T12:36:00.000Z	Flannel	chuck`_	When you're logging in (that's called GDM, assuming you're using ubuntu currently), there's a"sessions" button, you can change what DE you're logging into
+2007-03-14T12:37:00.000Z	chuck`_	Flannel	OK.  so GDM is just the graphical login, right, that's the impression I've been under from installing other distros

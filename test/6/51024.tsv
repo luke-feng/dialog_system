@@ -1,0 +1,6 @@
+2009-12-05T20:49:00.000Z	baalsgate		surely someone here can give me some help installing nvidia drivers ?
+2009-12-05T20:49:00.000Z	baalsgate		I have goodled it
+2009-12-05T20:50:00.000Z	armornick	baalsgate	normally, they should be under hardware drivers
+2009-12-05T20:51:00.000Z	baalsgate	armornick	i tried that and it wont activate
+2009-12-05T20:51:00.000Z	armornick	baalsgate	did you restart your pc?
+2009-12-05T21:08:00.000Z	armornick	baalsgate	what happens when you type sudo modprobe nvidia?

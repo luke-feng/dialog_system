@@ -1,0 +1,6 @@
+2007-09-17T14:00:00.000Z	nooga		damn
+2007-09-17T14:00:00.000Z	nooga		after instalation of feisty my disk can't stop working intensively
+2007-09-17T14:01:00.000Z	nooga		it works for several hours
+2007-09-17T14:01:00.000Z	nbkr	nooga	is beagle or updatedb running?
+2007-09-17T14:03:00.000Z	nooga	nbkr	beagle is, but even if i kill beagled the disk scratches
+2007-09-17T14:03:00.000Z	nbkr	nooga	Tried hdparm ?

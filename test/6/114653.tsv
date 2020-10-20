@@ -1,0 +1,6 @@
+2008-12-10T22:57:00.000Z	hc	Xero	.deb is not equal to a .exe, but more as an installer.
+2008-12-10T23:13:00.000Z	Xero	hc	please elaborate, do you mean flash video on sites like youtube or video you have saved to your hd?
+2008-12-10T23:14:00.000Z	hc	Xero	.avi video's on my HD.
+2008-12-10T23:14:00.000Z	hc	Xero	DasE1, note --> using VLC.
+2008-12-10T23:15:00.000Z	Xero	hc	have you tried any alternate media players, such as MPlayer or Totem?
+2008-12-10T23:15:00.000Z	hc	Xero	yes, same result. Streamed video of a working pc also stutters. (using vlc via tunneled SSH).

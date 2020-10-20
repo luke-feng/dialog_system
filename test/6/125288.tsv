@@ -1,0 +1,6 @@
+2007-01-02T11:41:00.000Z	pete_		ayup
+2007-01-02T11:42:00.000Z	pete_		how do I install kernel headers?
+2007-01-02T11:42:00.000Z	pete_		and build essentials?
+2007-01-02T11:42:00.000Z	mnoir	pete_	use apt-get, synaptic
+2007-01-02T11:42:00.000Z	mnoir	pete_	same answer
+2007-01-02T11:44:00.000Z	mnoir	pete_	apt-get and synaptic are two different ways of installing anything

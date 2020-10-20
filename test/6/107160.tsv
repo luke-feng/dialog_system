@@ -1,0 +1,6 @@
+2007-01-07T17:07:00.000Z	JosefK	kane77	I throw caution to the wind and use amarok in Gnome too ^^
+2007-01-07T17:07:00.000Z	kane77	JosefK	I think amarok is a bit more mature... but I like to use gnome stuff for gnome :D
+2007-04-12T07:36:00.000Z	JosefK	kane77	rsync?
+2007-04-12T07:37:00.000Z	kane77	JosefK	can I set that to synchronize when I plug in the usb stick?
+2007-04-12T07:37:00.000Z	JosefK	kane77	rsync -rav /source/path /dest/path
+2007-04-12T07:37:00.000Z	JosefK	kane77	I don't think so, but you could make a shortcut to it on your desktop

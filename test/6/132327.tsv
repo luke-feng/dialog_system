@@ -1,0 +1,6 @@
+2005-11-02T08:54:00.000Z	chickFlick		anybody know about vim colouring
+2005-11-02T08:55:00.000Z	bimberi	chickFlick	once in vi, type :syn on
+2005-11-02T08:57:00.000Z	chickFlick	bimberi	thanks
+2005-11-02T08:58:00.000Z	bimberi	chickFlick	yw :) - you can set it permanently in you .vimrc file (see vimtutor for details)
+2005-11-02T08:59:00.000Z	chickFlick	bimberi	thaks a lot.. where is the file .vimrc
+2005-11-02T09:00:00.000Z	bimberi	chickFlick	it's not created by default but needs to be in your home directory (/home/<username>)

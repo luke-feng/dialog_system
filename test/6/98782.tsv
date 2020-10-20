@@ -1,0 +1,6 @@
+2007-05-16T15:10:00.000Z	stefg		!info vino | cableroy
+2007-05-16T15:10:00.000Z	cableroy_	stefg	dyrne can those be loaded in console?
+2007-05-16T15:12:00.000Z	stefg	cableroy_	/usr/lib/vino/vino-server (after you apt-get'ted it)
+2007-05-16T15:13:00.000Z	cableroy_	stefg	(vino-server:4199): Gtk-WARNING **: cannot open display:
+2007-05-16T15:14:00.000Z	stefg	cableroy_	might requie to log out of gnome and log in again
+2007-05-16T15:15:00.000Z	cableroy_	stefg	ya, thats a problem hehe

@@ -1,0 +1,6 @@
+2005-04-12T14:44:00.000Z	dmoyne		I have a problem when opening a file with accentuated charcaters in its name with GIMP ; where tos ak to know how to fix this ? ; thaks.
+2005-04-12T14:45:00.000Z	thoreauputic_	dmoyne	try running gimp <firstfewletters TAB TAB > from commandline
+2005-04-12T14:46:00.000Z	thoreauputic_	dmoyne	tab complete the file name for you
+2005-04-12T14:47:00.000Z	thoreauputic_	dmoyne	thus hopefully bypassing the parsing error
+2005-04-12T14:49:00.000Z	thoreauputic_	dmoyne	I see
+2005-04-12T14:49:00.000Z	thoreauputic_	dmoyne	can you rename the file?

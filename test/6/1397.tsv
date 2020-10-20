@@ -1,0 +1,6 @@
+2012-08-14T17:17:00.000Z	w0rm_x		so sudo su would not shut the root access?
+2012-08-14T17:17:00.000Z	w0rm_x		great thats what I been looking for.
+2012-08-14T17:17:00.000Z	w0rm_x		sickwhy damage my system
+2012-08-14T17:18:00.000Z	w0rm_x		can sudo su damage my system?
+2012-08-14T17:18:00.000Z	w0rm_x		why?
+2012-08-14T17:19:00.000Z	W4sp	w0rm_x	NO, but subsequent executed commands can.

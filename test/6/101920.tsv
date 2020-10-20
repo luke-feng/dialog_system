@@ -1,0 +1,6 @@
+2006-11-26T09:44:00.000Z	BHSPitLappy		I have a folder full of deb packages... how can I make these into a repo for synaptic to use?
+2006-11-26T09:45:00.000Z	H3g3m0n	BHSPitLappy	/var/cache/apt/archive is where the downloaded debs go, but if there not in the actuall repos you will probally need to install them manually
+2006-11-26T09:46:00.000Z	BHSPitLappy	H3g3m0n	this computer doesn't have internet access at all, that's why I have the folder full of debs.
+2006-11-26T09:46:00.000Z	BHSPitLappy	H3g3m0n	I'd like to add them into synaptic as a local repo, rather than double clicking and chasing deps for hours
+2006-11-26T09:47:00.000Z	H3g3m0n	BHSPitLappy	You could try 'dpkg -i *.deb'
+2006-11-26T09:48:00.000Z	BHSPitLappy	H3g3m0n	I'll see if it works

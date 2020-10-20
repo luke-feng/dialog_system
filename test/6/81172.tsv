@@ -1,0 +1,6 @@
+2007-08-10T07:22:00.000Z	FloydFan	genii	tryed both
+2007-08-10T07:22:00.000Z	genii	FloydFan	In console4 (alt-f4) does it say:  Intel ISA PCIC probe: not found    ?
+2007-08-10T07:24:00.000Z	genii	FloydFan	I had same issue, turned out need to disable i82365.ko kernel driver from locking up system. you go to a busybox (alt-f2 or f3) then rm /lib/modules/`uname -r`/kernel.drivers/pcmcia/i83265.ko
+2007-08-10T07:24:00.000Z	FloydFan	genii	ok ill check it out
+2007-08-10T07:25:00.000Z	genii	FloydFan	should be kernel/drivers    no . but /   there :)
+2007-08-10T07:27:00.000Z	FloydFan	genii	sure ok thanks ;)

@@ -1,0 +1,6 @@
+2005-04-07T16:38:00.000Z	scott		where do I find out what the latest version of a package is in ubuntu over the web? (I don't have it installed)
+2005-04-07T16:38:00.000Z	knoppix	scott	apt-cache policy foo
+2005-04-07T16:38:00.000Z	knoppix	scott	where "foo" == "the name of the program you want"
+2005-04-07T16:39:00.000Z	scott	knoppix	I'm not running ubuntu. I'm trying to find out what it has to decide if I want to install it
+2005-04-07T05:43:00.000Z	knoppix	scott	 Does sudo not "just work"?
+2005-04-07T05:43:00.000Z	knoppix	scott	 I haven't used it, but, obviously, I'm on knoppix right now, and sudo "just works" on knoppix

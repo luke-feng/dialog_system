@@ -1,0 +1,6 @@
+2010-04-26T22:44:00.000Z	c_nick		I got a Jre-6.0 binary file how can i install it for my Chrome
+2010-04-26T22:46:00.000Z	c_nick		i downloaded binary file how can i install it
+2010-04-26T22:47:00.000Z	CaptainTrek	c_nick	chmod +x <path to file>
+2010-04-26T22:47:00.000Z	CaptainTrek	c_nick	then run it
+2010-04-26T22:47:00.000Z	CaptainTrek	c_nick	run in terminal *
+2010-04-26T22:49:00.000Z	CaptainTrek	c_nick	the binary needs to be executable, hence the chmod +x

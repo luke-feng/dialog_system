@@ -1,0 +1,6 @@
+2008-06-10T17:57:00.000Z	cecko		what am i doing wrong? "sudo mkdosfs -F 32 -n 4g /dev/mmcblk0p1" says "unable to open /dev/mmcblk0p1"
+2008-06-10T17:58:00.000Z	cecko		it is umounted
+2008-06-10T17:58:00.000Z	cecko		an SD card
+2008-06-10T17:59:00.000Z	joaopinto	cecko	that that device get shown when you do a sudo fdisk -l ?
+2008-06-10T18:00:00.000Z	cecko	joaopinto	it does
+2008-06-10T18:03:00.000Z	cecko	joaopinto	it lists only /dev/mmcblk1p1

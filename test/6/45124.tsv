@@ -1,0 +1,6 @@
+2008-12-31T04:13:00.000Z	manja		I have made source.list entries which go like this: "deb bla jaunty main" and I need one specific package from the source, how do I write the apt-get install command so it recognizes these lines (I'm obviously not running jaunty and I think that's why it ignores them)
+2008-12-31T04:14:00.000Z	adam7	manja	sudo apt-get update; sudo apt-get install someprogram
+2008-12-31T04:14:00.000Z	adam7	manja	be *sure* to remove that line when you finish and run apt-get update again, you can get yourself in a lot of trouble
+2008-12-31T04:16:00.000Z	manja	adam7	ActionParsnip , n8tuser, apt-get update says Ign http://ppa.launchpad.net jaunty/main Packages, why is it ignored?
+2008-12-31T04:17:00.000Z	adam7	manja	if you just need one package, open the repo url in firefox and download the package
+2008-12-31T04:18:00.000Z	manja	adam7	didn't think of that, thanks

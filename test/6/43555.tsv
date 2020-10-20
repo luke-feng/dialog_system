@@ -1,0 +1,6 @@
+2009-03-21T05:13:00.000Z	Jork		when I dual boot XP and Ubuntu, do I have to 'allow' XP to use hardware from in Ubuntu?
+2009-03-21T05:13:00.000Z	Jork		yeah, I'm wondering if anyone can see what I'm saying? lol
+2009-03-21T05:13:00.000Z	clsmith	Jork	No, not if they're both installed to the hard disk (as opposed to being in a VM).
+2009-03-21T05:16:00.000Z	clsmith	Jork	Well, are you talking about from /within/ Windows?
+2009-03-21T05:16:00.000Z	clsmith	Jork	Okay. What have you done so far? (Anything?)
+2009-03-21T05:17:00.000Z	clsmith	Jork	Have you checked the wireless device?

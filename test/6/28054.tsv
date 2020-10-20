@@ -1,0 +1,6 @@
+2010-05-05T13:31:00.000Z	jepes28		Hi, I have an atom desktop comming and I'll be using it as headless server to download files (and some media conversion). the ram does'nt go above 2 Gig, should I use 64 bit lucid server  or just the 32bit lucid server?
+2010-05-05T13:32:00.000Z	leagris	jepes28	64bit has some RAM usage penalty so you should stay in 32bit. I don't know of the specific atop abilities in 64bits
+2010-05-05T13:34:00.000Z	leagris		!offtopic|derpderpderp
+2010-05-05T13:34:00.000Z	jepes28	leagris	ok thanks, one last question, should I use the new lucid or the 8.04 server LTS? I was'nt able to try the beta for 10.4
+2010-05-05T13:36:00.000Z	leagris		hello, I can not install enigmail-locale-fr as dependencies versions are broken http://paste.ubuntu.com/428155/ is it a know issue or do you know a workaround? I did an apt-get update beforehand.
+2010-05-05T13:37:00.000Z	leagris	jepes28	final non-beta lucide Ubuntu 10.04 is an LTS and has a server edition. You may try this last one

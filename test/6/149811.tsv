@@ -1,0 +1,6 @@
+2005-05-07T11:50:00.000Z	pablo928		i finally made the break: reformatted hda1 (ntfs) to ext3
+2005-05-07T11:50:00.000Z	nickrud	pablo928	welcome to the free :)
+2005-05-07T11:52:00.000Z	pablo928	nickrud	only one problem-i now have a 80GB hd that I mounted but can't figure how to write to.
+2005-05-07T11:53:00.000Z	nickrud	pablo928	you need to mount it somewhere on the filesystem :)
+2005-05-07T11:54:00.000Z	pablo928	nickrud	i added it to etc/?
+2005-05-07T11:54:00.000Z	pablo928	nickrud	it shows in my system monitor

@@ -1,0 +1,6 @@
+2006-11-16T16:47:00.000Z	cafuego	octan	the mount point permissions are irrelevant.
+2006-11-16T16:47:00.000Z	octan	cafuego	not entirly corrent.. if the dir has root root , you cant edit/delete files in ther
+2006-11-16T16:48:00.000Z	cafuego	octan	after moutning, the mounted dirs perms are used, not the mount point perms.
+2006-11-16T16:48:00.000Z	cafuego	octan	those perma/ownership are set by params to `mount'.
+2006-11-16T16:49:00.000Z	octan	cafuego	well. i use to change thouse premission.. but he need to look in to uid and gid
+2006-11-16T16:49:00.000Z	cafuego	octan	yup

@@ -1,0 +1,6 @@
+2010-06-29T21:10:00.000Z	Shinydan		hi all
+2010-06-29T21:11:00.000Z	Shinydan		trying to install 32-bit 10.04 Server Ed. to a Packard Bell Celeron M machine. Keeps on cutting back to the BIOS screen - any thoughts?
+2010-06-29T21:11:00.000Z	mguy	Shinydan	it's rebooting?
+2010-06-29T21:12:00.000Z	Shinydan	mguy	every time.
+2010-06-29T21:13:00.000Z	mguy	Shinydan	I would try using a different media (CD, DVD, USB, whatever you aren't using now)
+2010-06-29T21:15:00.000Z	Shinydan	mguy	It won't boot from a USB stick. I get as far as the "Install Ubuntu Server" and that's it

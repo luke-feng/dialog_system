@@ -1,0 +1,6 @@
+2011-04-08T04:21:00.000Z	Gwar		Hey guys. Wondering if you could help me. is there a way to search for images based on Pixel width? Like if I were trying to find images that were 299 pixels or less across, how would I do it?
+2011-04-08T04:22:00.000Z	shcherbak	Gwar	imagemagic ?
+2011-04-08T04:23:00.000Z	Gwar	shcherbak	ok, i'll look into that
+2011-04-08T04:24:00.000Z	shcherbak	Gwar	maybe feh too, reading man.
+2011-04-08T04:25:00.000Z	shcherbak	Gwar	yup, -S in feh
+2011-04-08T04:25:00.000Z	Gwar	shcherbak	Cool,m thank you

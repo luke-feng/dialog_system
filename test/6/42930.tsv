@@ -1,0 +1,6 @@
+2009-02-09T00:50:00.000Z	Kokloco		Hi all
+2009-02-09T00:51:00.000Z	Kokloco		I installed Thunderbird in oirder to access my company's Exchange serverusing IMAP. It is working fine but I have to issues: a) I can't see my Inbox Folders where my rules forward incomming messages, and b) I can't access to public Folders. Can anyone help me with this? thanks
+2009-02-09T00:53:00.000Z	Slart	Kokloco	I think you can select what folders you want to see using imap.. I can't really remember where but it's there someplace.. I have no idea how public folders work in exchange
+2009-02-09T00:53:00.000Z	Slart	Kokloco	I don't think they use the imap system.. but I'm really just guessing
+2009-02-09T00:56:00.000Z	Kokloco	Slart	OK thanks. I have a lot of problems trying to access my company's email server. They are all Windows Guys, and the use all that stuff of public folders, public agenda, bla bla bla, and they are expecting all their employees to do so.. I am free to use Linux in my computer if that doesnt interfier my job..And so far Evolution doesnt work as it is expected, and no more tools outthere
+2009-02-09T00:57:00.000Z	Slart	Kokloco	I don't know how to do that.. microsoft is all hush hush with their systems and protocols.. last I heard evolution was the best client out there.. not sure if there is anything else

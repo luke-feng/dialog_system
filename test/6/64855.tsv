@@ -1,0 +1,6 @@
+2008-01-29T09:13:00.000Z	Cin		hey
+2008-01-29T09:13:00.000Z	Cin		if you run `top'
+2008-01-29T09:13:00.000Z	Cin		and resize the window to less than say 5 rows
+2008-01-29T09:13:00.000Z	Cin		it core dumps :
+2008-01-29T09:14:00.000Z	Cin		does anyone else's `top' coredump when you make it really small? :)
+2008-01-29T09:14:00.000Z	nat6138	Cin	Not mine.

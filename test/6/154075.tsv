@@ -1,0 +1,6 @@
+2006-03-07T15:47:00.000Z	cafuego		scott; yeah, well, so is a windows .sys driver eh?
+2006-03-07T15:48:00.000Z	scott	cafuego	here's where i've posted all the details of this problem: http://www.ubuntuforums.org/showthread.php?p=786291#post786291
+2006-03-07T15:48:00.000Z	cafuego	scott	As near as I can tell the driver uses a non-standard fucntion that's not provided by the driver or compatibility layer. (strrchr). best bet is to find another driver which does not have the same problem.
+2006-03-07T15:50:00.000Z	scott	cafuego	okay, i'll see what i can find.  any ideas on how to easily/quickly find a substitute driver?
+2006-03-07T15:50:00.000Z	cafuego	scott	only the obvious; google.
+2006-06-18T08:33:00.000Z	cafuego	scott	Just moun tthe windows partition, that gives you read-only access.

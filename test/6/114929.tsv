@@ -1,0 +1,6 @@
+2006-08-01T11:40:00.000Z	bruenig	DarkElf109	thats no joke. I tried to learn vim and almost blew my brains out
+2006-08-01T11:41:00.000Z	DarkElf109	bruenig	fsck is a command! You know that! =)
+2006-08-01T11:42:00.000Z	bruenig	DarkElf109	is squidguard as easily bypassed as websense? proxy avoidance and your good to go?
+2006-08-01T11:43:00.000Z	DarkElf109	bruenig	Depends on the blocklists used
+2006-08-01T11:43:00.000Z	DarkElf109	bruenig	SquidGuard doesn't do content filtering, only URL and, at most, URL with regular expressions
+2006-08-01T11:43:00.000Z	bruenig	DarkElf109	so it would block the great penisland.com

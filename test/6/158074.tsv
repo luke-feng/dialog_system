@@ -1,0 +1,6 @@
+2008-12-25T09:52:00.000Z	terryx		when i am trying to install unrar...its says not authanticated...why?..should i install or not?
+2008-12-25T09:53:00.000Z	stan	terryx	the package you are trying to install isnt signed by a key apt recognises.
+2008-12-25T09:54:00.000Z	stan	terryx	just install it
+2008-12-25T09:54:00.000Z	stan	terryx	what are you typing to install it?
+2008-12-25T09:55:00.000Z	stan	terryx	so you type '.rar file' and it said something about it not being aithenticated?
+2008-12-25T09:56:00.000Z	stan	terryx	-- if your doing it from the GUI i dunno :(.

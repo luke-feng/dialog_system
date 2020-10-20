@@ -1,0 +1,6 @@
+2005-07-20T09:10:00.000Z	Skrot		Hi. I
+2005-07-20T09:10:00.000Z	Skrot		err
+2005-07-20T09:11:00.000Z	Skrot		I've got some problems with sound: I've got two soundcards (one built-in, one Creative card using emu10k1). I've defined the emu10k1 card as default in alsa (/etc/asound.conf), and it's the one that's found in alsamixer. But I don't get any sound from it.. where do I start to debug? Playing files with aplay don't give any errors..
+2005-07-20T09:12:00.000Z	Skrot		PCM and Master is not muted btw.
+2005-07-20T09:13:00.000Z	reka	Skrot	you can ask crimsun when he's active.....he's #ubuntu's sound guru
+2005-07-20T10:19:00.000Z	reka	Skrot	ping

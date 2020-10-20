@@ -1,0 +1,6 @@
+2009-09-16T05:45:00.000Z	crankharder		my friend has a liveCD running on his bustedUpWinXP box -- how can I get into his box (with his permission/help) so I can help him back some stuff up?
+2009-09-16T05:46:00.000Z	phix	crankharder	just do it
+2009-09-16T05:46:00.000Z	phix	crankharder	define busted up?
+2009-09-16T05:47:00.000Z	crankharder	phix	winXP won't boot so we need to get some files off of it -- he got openssh-server installed, but he probably doesn't know how to open 22 in his firewall
+2009-09-16T05:47:00.000Z	crankharder		is there anything that he can initiate so I can get in?
+2009-09-16T05:50:00.000Z	phix	crankharder	tell him to boot off winXP cd, go into recovery console, and tye in help,  he should run the chkdsk with some options as well as fixmbr perhaps

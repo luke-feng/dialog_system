@@ -1,0 +1,6 @@
+2009-05-05T00:19:00.000Z	cemerick		so, I apt-get glassfishv2, but I don't get glassfishv2, I get "Sun Java System Application Server v9.1_01".  What's going on there?
+2009-05-05T00:21:00.000Z	cemerick		and I'm using server 9.0.4, no desktop
+2009-05-05T00:23:00.000Z	cemerick		anyway, "Sun Java System Application Server 9.1_01" is almost a year old, I think.
+2009-05-05T00:23:00.000Z	cemerick		that glassfishv2 pkg is borked
+2009-05-05T00:25:00.000Z	Pici	cemerick	If the package is broken, you should probably file a bug for it.
+2009-05-05T00:26:00.000Z	cemerick	Pici	nice idea, too much of an investment for me tho.

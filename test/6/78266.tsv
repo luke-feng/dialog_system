@@ -1,0 +1,6 @@
+2009-06-28T03:45:00.000Z	Hilikus		hey guys, i installed ubuntu using wubi. i went into ubuntu and using gparted formated my empty partition as ext4. then used lvpm to move my installation to the new ext4 partition. it said it succeded and it installed grub as well. problem is the bootup menu is all screwed up now, i have like 3 entries for windows and when i select windows it shows me a second menu to select windows or ubuntu eventhough i removed wubi
+2009-06-28T03:47:00.000Z	Hilikus		is there a way to reinstall grub and let it detect everything from windows? when i boot into ubuntu it says Grub Error 17: Cannot Mount Selected Partition
+2009-06-28T03:48:00.000Z	Hilikus		bishop sure but how do i clean the MBR so that i don't keep adding stupid items in the grub menu?
+2009-06-28T03:48:00.000Z	Hilikus		i can't!
+2009-06-28T03:49:00.000Z	Hilikus		[06:47p] <Hilikus> is there a way to reinstall grub and let it detect everything from windows? when i boot into ubuntu it says Grub Error 17: Cannot Mount Selected Partition
+2009-06-28T03:50:00.000Z	danbhfive	Hilikus	I think there is a variant of unetbootin that claims to do that, but Its never worked for me

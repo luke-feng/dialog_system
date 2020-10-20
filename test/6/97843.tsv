@@ -1,0 +1,6 @@
+2007-06-23T16:45:00.000Z	jart		it's not 'media keys', i guess a better way to put it is i can't set key bindings for combinations that used the windows key.  they originally showed up as weird hex codes which i erased and i can't get back
+2007-06-23T16:46:00.000Z	jart		so now i can't like control my media player with windows key + b and stuff
+2007-06-23T16:46:00.000Z	jart		:(
+2007-06-23T16:47:00.000Z	jart		i've looked all over google and found only questions, no answers.  i also tried grepping through the gnome configurations to find where keyboard settings are stored but to no avail
+2007-06-23T16:48:00.000Z	nickrud	jart	you can try system-prefs-keyboard shortcuts; you can also see them in gconf-editor at /apps/gnome_settings_daemon/ . You can figure out what those hex's were with xev
+2007-06-23T16:49:00.000Z	jart	nickrud	thanks!

@@ -1,0 +1,6 @@
+2007-03-26T06:02:00.000Z	Hmmmm	sipior	ic. so i cna allow these two, then disallow everything?
+2007-03-26T06:02:00.000Z	sipior	Hmmmm	so something like iptables -A INPUT -p tcp -dports 80 -j ALLOW, and then a similar line for 22 (ssh)
+2007-03-26T06:03:00.000Z	Hmmmm	sipior	ok. thanks
+2007-03-26T06:03:00.000Z	sipior	Hmmmm	and then a default iptables -A INPUT -j DENY later. obviously test first ;-)
+2007-03-26T06:04:00.000Z	Hmmmm	sipior	okay
+2007-03-26T06:04:00.000Z	Hmmmm	sipior	lemme try that out

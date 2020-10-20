@@ -1,0 +1,6 @@
+2009-02-21T06:53:00.000Z	brunner		can anyone please help me getting sendmail working?
+2009-02-21T06:54:00.000Z	brunner		I'm trying to send an email via php
+2009-02-21T06:56:00.000Z	usser	brunner	yea you can configure it to act as a relay if im not mistaken, its been awhile and i did it with exim not sendmail
+2009-02-21T07:00:00.000Z	usser	brunner	that looks like something that might be useful http://webmail.tm.net.my/info/smtp-proxy.html
+2009-02-21T07:01:00.000Z	brunner	usser	"These instructions assume that you already have an appropriate .mc file prepared for your Sendmail configuration"  I appreciate it, but no time.  I'm going the bootleg php/fopen route.
+2009-04-08T06:55:00.000Z	usser	brunner	i dont think half of it is valid, try with something simpler like that http://pastebin.com/f5f365c92

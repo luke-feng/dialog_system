@@ -1,0 +1,6 @@
+2010-11-12T10:39:00.000Z	rinku_kokiri		where are virtualbox headers found?
+2010-11-12T10:41:00.000Z	rinku_kokiri		hei i ran svn co http://www.virtualbox.org/svn/vbox/trunk/include/ where does it place the src/headers
+2010-11-12T10:42:00.000Z	Maahes	rinku_kokiri	in the root of the folder you ran svn co in.
+2010-12-25T08:52:00.000Z	Maahes	rinku_kokiri	have you googled "pulse audio flash" ?
+2010-12-25T08:57:00.000Z	Maahes	rinku_kokiri	Well, brief googling myself. Try installing the latest flash player from adobe's website.
+2010-12-25T08:57:00.000Z	Maahes	rinku_kokiri	its literally the same package, just newer

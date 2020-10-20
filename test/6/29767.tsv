@@ -1,0 +1,6 @@
+2010-05-01T19:21:00.000Z	qcjn2		hi, i 've created a user for my friend to be able to connect trought sftp. It works, but id like to confine him , only to his home directory ? How do i do that ?
+2010-05-01T19:22:00.000Z	qcjn2		just using openssh server
+2010-05-01T19:23:00.000Z	danielsevigny	qcjn2	using SSH he'll be able to see everything. Just make sure it's not writable.
+2010-05-01T19:24:00.000Z	qcjn2	danielsevigny	ok, thanks. Since it s someone i trust , i ll just tell him to stay in his home directory
+2010-05-01T19:25:00.000Z	qcjn2	danielsevigny	but i ll know for a next time , not to use ssh for that
+2010-05-01T19:26:00.000Z	qcjn2	danielsevigny	thanks, have a nice day

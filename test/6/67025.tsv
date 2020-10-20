@@ -1,0 +1,6 @@
+2009-06-18T01:13:00.000Z	MrMiteshah		so in this community nobody know how to upgrade ubuntu 8.10 to 9.04 through pendrive
+2009-06-18T01:15:00.000Z	MrMiteshah		Hello Frnds i have very slow internet connections but i download ubuntu 9.04 in usb pendrive n now i doesnot know how to upgrade through pen drive
+2009-06-18T01:16:00.000Z	MrMiteshah		Hello frnds my bios does not allow 2 boot from pen drive
+2009-06-18T01:17:00.000Z	ActionParsnip	MrMiteshah	unless an update will give you the functionality, you will need to add some logic to the boot situation on an internal device to boot the usb
+2009-06-18T01:18:00.000Z	ActionParsnip	MrMiteshah	if your board does not support usb booting then you need to work around, its a limitation of your hardware
+2009-06-18T01:19:00.000Z	ActionParsnip	MrMiteshah	some bios upgrades may add the functionality but i highly doubt it

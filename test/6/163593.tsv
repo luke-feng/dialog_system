@@ -1,0 +1,6 @@
+2005-02-08T16:42:00.000Z	ephic		hmm
+2005-02-08T16:43:00.000Z	ephic		ok , my friend with ubuntu, he has an intel card.. and and nvidia .. the intel's internal.. it picked that up.. how does he install the nividia-source-kernel from bash?
+2005-02-08T16:43:00.000Z	ephic		he tried apt-get install nv
+2005-02-08T16:43:00.000Z	ephic		is there a shell browser with ubuntu?
+2005-02-08T16:44:00.000Z	LinuxJones	ephic	goto www.ubuntuguide.org
+2005-02-08T16:44:00.000Z	LinuxJones	ephic	lots of good stuff there

@@ -1,0 +1,6 @@
+2012-01-21T17:42:00.000Z	ssta	bullgard4	it's a mechanism for storing authentication tokens for the ICE interprcess communication protocol
+2012-01-21T17:44:00.000Z	ssta	bullgard4	http://en.wikipedia.org/wiki/Internet_Communications_Engine
+2012-01-21T17:50:00.000Z	bullgard4	ssta	What is an »uthentication token«? RFC2828 does not know such a term.
+2012-01-21T17:50:00.000Z	bullgard4	ssta	What is an »authentication token«? RFC2828 does not know such a term.
+2012-01-28T19:35:00.000Z	ssta	bullgard4	say you're running 500 J2EE application servers...you don't want to have to go to 500 different machines to look at the logs.  That's a tool that collects the logs and lets you look at them in one place
+2012-01-28T19:36:00.000Z	bullgard4	ssta	Thank you very much for explaining and your help.

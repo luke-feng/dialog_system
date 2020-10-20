@@ -1,0 +1,6 @@
+2006-10-19T08:52:00.000Z	iammisc		the ubuntu livecd doesnt come with gcc????
+2006-10-19T08:52:00.000Z	sethk	iammisc	doesn't "come with" anything.  you have a list of default packages.
+2006-10-19T08:53:00.000Z	sethk	iammisc	depending on which install type you chose, you may or may not get gcc without an additional step.
+2006-10-19T08:53:00.000Z	sethk	iammisc	do    sudo apt-get install build-essential
+2006-10-19T08:53:00.000Z	iammisc	sethk	iam talking about running ubuntu from the livecd
+2006-10-19T08:54:00.000Z	sethk	iammisc	then yes, it isn't on the set of packages to install.  so you install it, which takes about two minutes.

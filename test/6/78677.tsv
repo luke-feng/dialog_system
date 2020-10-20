@@ -1,0 +1,6 @@
+2007-09-21T13:21:00.000Z	ID107		i want my mam
+2007-09-21T13:21:00.000Z	ID107		i do
+2007-09-21T13:22:00.000Z	ID107		if ($me == idiot) { /quit }
+2007-09-21T13:23:00.000Z	ID107		for (idiots = 0;idiots<userInChan;i++) { countIdiots++} printf("idiots = " );
+2007-09-21T13:24:00.000Z	ID107		ops, it wont work
+2007-09-21T13:25:00.000Z	JesseT77	ID107	syntax error: undeclared variable "idiots" in line 1

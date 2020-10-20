@@ -1,0 +1,6 @@
+2008-07-11T18:32:00.000Z	Brandon__		What's the easiest way to figure out if I have internet on a ubuntu server? Is there a quick command?
+2008-07-11T18:33:00.000Z	Brandon__		oh nevermind ping works
+2008-07-11T18:33:00.000Z	nixnoob	Brandon__	ping google.com
+2008-07-11T18:34:00.000Z	Brandon__		yeah. So odd. Okay I have internet and I have SSH installed. I've set up like 3 servers now. This is the first time I've had a problem. I can't SSH into the darn thing. Anyone know how to diagnose a problem like this?
+2008-07-11T18:34:00.000Z	Brandon__	wols	University network.
+2008-07-11T18:35:00.000Z	nixnoob	Brandon__	port forwarding?

@@ -1,0 +1,6 @@
+2011-07-12T21:02:00.000Z	alex--		Hello, I lost my username, password, mysql password, root password on Ubuntu Server. How to recover it?
+2011-07-12T21:03:00.000Z	cantor	alex--	one pw at a time
+2011-07-12T21:03:00.000Z	alex--	cantor	what do you mean?
+2011-07-12T21:05:00.000Z	cantor	alex--	you can use a live cd to reset the root password
+2011-07-12T21:05:00.000Z	cantor		and user password
+2011-07-12T21:06:00.000Z	cantor	alex--	for mysql http://www.tech-faq.com/how-do-i-reset-a-mysql-password.html

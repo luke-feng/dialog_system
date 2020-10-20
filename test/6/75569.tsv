@@ -1,0 +1,6 @@
+2011-01-04T06:03:00.000Z	MrUnagi		how long should it take to partition a 1tb hard drive
+2011-01-04T06:04:00.000Z	stew	MrUnagi	just partition? or create filesystems on the partitions?
+2011-01-04T06:04:00.000Z	MrUnagi		just partitioning ext4
+2011-01-04T06:04:00.000Z	stew	MrUnagi	what do you mean by that?
+2011-01-04T06:05:00.000Z	MrUnagi	stew	 i guess creating the file system
+2011-01-04T06:05:00.000Z	MrUnagi	stew	mkfs.ext4 -j -O extent -L "tbbackup" /dev/sdc1

@@ -1,0 +1,6 @@
+2008-12-04T21:03:00.000Z	Baba_B00ie		firefox is hung up in gnome. how do i get it's process id so i can kill it from  CLI
+2008-12-04T21:03:00.000Z	MidnightDevil	Baba_B00ie	 ps -u username | grep firefox
+2008-12-04T21:04:00.000Z	Baba_B00ie		ty
+2008-12-04T21:05:00.000Z	Baba_B00ie	MidnightDevil	   ps -u and kill with the id worked the best
+2008-12-04T21:05:00.000Z	MidnightDevil		good to know :)
+2008-12-04T21:06:00.000Z	Baba_B00ie	MidnightDevil	i couldn't rememner the command. it's been a very long time since i had an app crap out on my linux box.. i mean like forever heh

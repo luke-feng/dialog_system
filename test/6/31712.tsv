@@ -1,0 +1,6 @@
+2009-09-11T10:31:00.000Z	gpghelp		Anyone know how to require GPG to ask for a password before encryption?
+2009-09-11T10:31:00.000Z	gpghelp		Right now if I encrypt to a public key, it will do so without asking the password of my private key.
+2009-09-11T10:31:00.000Z	rww	gpghelp	Encryption doesn't require any passphrases, because it doesn't use your private key. If you told it to encrypt and sign, it would ask for it.
+2009-09-11T10:32:00.000Z	gpghelp		Ah gotcha. Thanks!
+2009-09-11T10:32:00.000Z	rww	gpghelp	(well, assuming you didn't have passphrase caching turned on, but that's a whole 'nother thing ;)
+2009-09-11T10:32:00.000Z	gpghelp	rww	thanks for the help

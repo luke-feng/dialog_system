@@ -1,0 +1,6 @@
+2004-11-11T10:39:00.000Z	cuga		I have an ATI video card, does ubuntu install by default accelerated drivers? or just 2d ?
+2004-11-11T10:39:00.000Z	cuga		9600XT
+2004-11-11T10:40:00.000Z	cuga		XF86 log says accelerated but i only get 300fps on glxgears and i dont see any of ATI's utilitie
+2004-11-11T10:41:00.000Z	cuga		direct rendering : No
+2004-11-11T10:41:00.000Z	rushibhai	cuga	so that's why your glxgears is crawling...
+2004-11-11T10:41:00.000Z	rushibhai	cuga	try installing fglrx packages. i think there are about three different ones you might need.

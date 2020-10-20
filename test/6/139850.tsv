@@ -1,0 +1,6 @@
+2005-10-28T10:18:00.000Z	vooharmy		hello where do i get ubuntu kernel source?
+2005-10-28T10:18:00.000Z	vooharmy		that is the right source for my 5.04 ubuntu?
+2005-10-28T10:19:00.000Z	cevizoglu	vooharmy	the version will be different
+2005-10-28T10:18:00.000Z	cevizoglu	vooharmy	apt-get install linux-kernel-source-2.6.12
+2005-10-28T10:18:00.000Z	cevizoglu	vooharmy	or find the same file in synaptic
+2005-10-28T10:18:00.000Z	cevizoglu	vooharmy	no

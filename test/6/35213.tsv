@@ -1,0 +1,6 @@
+2009-09-19T10:03:00.000Z	gemilang		hello all
+2009-09-19T10:04:00.000Z	gemilang		anybody know how to format harddisk in ubuntu 9.04?
+2009-09-19T10:04:00.000Z	dsnyders	gemilang	check out mkfs
+2009-09-19T10:05:00.000Z	dsnyders	gemilang	mkfs is the linux format command.
+2009-09-19T10:06:00.000Z	dsnyders	gemilang	yes, followed by the partition that you wish to format.
+2009-09-19T10:11:00.000Z	gemilang	dsnyders	gemilang@gemilang-desktop:~$ sudo mkfs [sudo] password for gemilang: Usage: mkfs [-V] [-t fstype] [fs-options] device [size]gemilang@gemilang-desktop:~$

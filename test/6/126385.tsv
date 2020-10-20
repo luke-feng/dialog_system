@@ -1,0 +1,6 @@
+2006-06-19T13:45:00.000Z	redguy_	Ng	sorry, got disconnected
+2006-06-19T13:47:00.000Z	redguy_	Ng	network-manager is not installed
+2006-06-19T13:47:00.000Z	redguy_	Ng	will try to put ath_pci in modules as you suggest
+2006-06-19T13:47:00.000Z	redguy_	Ng	the odd thing is that once in a while the iface gets it's config properly
+2006-06-19T13:48:00.000Z	redguy_	Ng	I was also thinking of deferring the dhclient, perhaps by putting a pre-up sleep 10 line in the interfaces files
+2006-06-19T13:49:00.000Z	Ng	redguy_	it's not ideal, but that would be an interesting test

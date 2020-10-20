@@ -1,0 +1,6 @@
+2007-06-13T16:00:00.000Z	desdes		It's external, came up under /media, should I mount elsewhere?
+2007-06-13T16:00:00.000Z	desdes		It is mounted in /media, just need to change permissions
+2007-06-13T16:00:00.000Z	desdes		like FAT32?
+2007-06-13T16:01:00.000Z	desdes		ok i'll try tht
+2007-06-13T16:01:00.000Z	desdes		thanks
+2007-06-13T16:01:00.000Z	mc44	desdes	you can't change the partition format if you have data on it though :)

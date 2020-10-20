@@ -1,0 +1,6 @@
+2011-09-10T12:11:00.000Z	rhcp[linux]		hey all
+2011-09-10T12:12:00.000Z	rhcp[linux]		Question. Im running unity on 11.04 with a nvidia. I was reading some guides to getting gnome 3 on. but it says you cant revert back to unity
+2011-09-10T12:12:00.000Z	rhcp[linux]		i was wondering if this is true. because ive heard about nvidia issues
+2011-09-10T12:13:00.000Z	urlin2u	rhcp[linux]	not a good idea in general, 11.10 has the gnome 3 shell.
+2011-09-10T12:14:00.000Z	urlin2u	rhcp[linux]	gnome 3 is not recommended in 11.04 it generally breaks stuff
+2011-09-10T12:16:00.000Z	urlin2u	rhcp[linux]	lubunut, xubuntu, kde, openbox and a handfull of others.

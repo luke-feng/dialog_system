@@ -1,0 +1,6 @@
+2008-10-14T21:28:00.000Z	sqawarlz		I reject reality! There has to be a way to browse Windows shares without mounting them, or know thier paths.
+2008-10-14T21:29:00.000Z	nyad	sqawarlz	it's nice in kubuntu. I just click on remote places and presto all windows share appear
+2008-10-14T21:29:00.000Z	nyad	sqawarlz	doesn't ubuntu have that in places-->network?
+2008-10-14T21:30:00.000Z	sqawarlz		nydad, I used to be able to do that in ubuntu in 7.X. What the hell happened that I can't do that now? Why are you able to do it in a KDE gui but I cant in a Gnome gui?
+2008-10-14T21:30:00.000Z	sqawarlz	nyad	yes it does and I can browse to my servers but it comes up with zero shares for every single server...
+2008-10-14T21:32:00.000Z	nyad	sqawarlz	that's odd. I had an issue where I couldn't share stuff but I could access otehr peoples stuff. samba plays games with us at times

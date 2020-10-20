@@ -1,0 +1,6 @@
+2008-06-13T06:12:00.000Z	brody		quick question - gparted won't let me resize any partitions - are there root privlages I need to have?
+2008-06-13T06:13:00.000Z	Starnestommy	brody	it needs to be run as root or with sudo/gksudo
+2008-06-13T06:13:00.000Z	Starnestommy	brody	preferably from a livecd
+2008-06-13T06:17:00.000Z	brody	Starnestommy	- if I use sudo gparted it will let me delete partitions but not adjust existing ones
+2008-06-13T06:18:00.000Z	Starnestommy	brody	try running gparted from the livecd
+2008-06-13T06:19:00.000Z	brody	Starnestommy	yeah I don't have the livecd . . .

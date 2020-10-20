@@ -1,0 +1,6 @@
+2005-10-17T05:46:00.000Z	VR^		Because making changes to a busy device may confuse the kernel, you are advised to reboot your computer.
+2005-10-17T05:46:00.000Z	VR^		it cant resize the partition
+2005-10-17T05:46:00.000Z	HiddenWolf	VR^	You're using the disc you're trying to partition?
+2005-10-17T05:47:00.000Z	VR^	HiddenWolf	i'm trying to resize the ext3 partition on which hoary is installed, and i'm booting off of the livecd
+2005-10-17T05:47:00.000Z	HiddenWolf	VR^	Guess the livecd is finding / using your swap
+2005-10-17T05:47:00.000Z	VR^	HiddenWolf	how can i get around that?

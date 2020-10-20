@@ -1,0 +1,6 @@
+2008-12-24T03:56:00.000Z	n8tuser		Zambezi -> what is an ASUS P5Q-E? is that some kind of special mobo? 64bit?
+2008-12-24T03:58:00.000Z	Zambezi	n8tuser	It's a motherboard S775. Here: http://linuxrevolution.blogspot.com/2008/09/ubuntu-and-asus-p5q-e-motherboard.html That didn't help.
+2008-12-24T04:01:00.000Z	Zambezi	n8tuser	I'm installing from a IDE/PATA DVD to a IDE/PATA HDD, but it just won't work and when I tried to install from USB-memory it didn't find DVD or any drives (I connected an extra SATA2-drive to see what happened).
+2008-12-24T04:03:00.000Z	Zambezi	n8tuser	I'm installing from a CD-medium, but in a DVD-drive. More clear?
+2008-12-24T04:05:00.000Z	Zambezi	n8tuser	It's the Server edition. I'm not going to install X on it at all.
+2008-12-24T04:08:00.000Z	Zambezi	n8tuser	I'm going to try Fedora now. I read on Asus homepage their kernel fixed the bug. The most important thing now is to see everything works fine. The Fedora goes bye bye.

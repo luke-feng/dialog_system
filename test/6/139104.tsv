@@ -1,0 +1,6 @@
+2005-10-09T05:21:00.000Z	Paradoxx		how do i set a partition to automatically mount at startup?
+2005-10-09T05:21:00.000Z	Paradoxx		how?
+2005-10-09T05:22:00.000Z	aftertaf	Paradoxx	 have you managed to mount it manually?
+2005-10-09T05:23:00.000Z	Paradoxx	aftertaf	nope..i just formatted it awhile ago
+2005-10-09T05:23:00.000Z	aftertaf	Paradoxx	 oki ;)  do you know how to mount manually?
+2005-10-09T06:01:00.000Z	aftertaf	Paradoxx	 apt-get remove

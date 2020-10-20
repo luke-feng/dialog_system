@@ -1,0 +1,6 @@
+2008-01-24T19:23:00.000Z	Flice		hi
+2008-01-24T19:23:00.000Z	Flice		I'm trying to transcode from flac to ogg on Ubuntu using ffmpeg, and it doesn't catch the target bitrate I pass it, always using a default one instead. anyone got a clue?
+2008-01-24T19:24:00.000Z	un0p	Flice	tried #ffmpeg ?
+2008-01-24T19:25:00.000Z	Flice	un0p	yes, they don't support distro-specific packages
+2008-01-24T19:26:00.000Z	un0p	Flice	ffmpeg on ubuntu can't be very much different than the vanilla sources -- they should have atleast ascertained what's wrong and pointed you in the direction of some help
+2008-01-24T19:27:00.000Z	Flice	un0p	perhaps, but I just didn't get any answer from them

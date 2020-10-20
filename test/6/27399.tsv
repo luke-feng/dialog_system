@@ -1,0 +1,6 @@
+2009-12-13T01:42:00.000Z	Orphee		how can i resize my ubuntu partition so it takes the whole hard drive?
+2009-12-13T01:42:00.000Z	APERSON	Orphee	boot into a live cd and resize it from there
+2009-12-13T01:43:00.000Z	APERSON	Orphee	the only way to resize a partition is from a livecd
+2009-12-13T01:44:00.000Z	APERSON	Orphee	if you delete a partition, yes
+2009-12-13T01:45:00.000Z	APERSON	Orphee	then go ahead delete your windows partition and resize your ubuntu one
+2009-12-13T01:47:00.000Z	APERSON	Orphee	why are we running firefox in wine?

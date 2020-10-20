@@ -1,0 +1,6 @@
+2009-11-26T21:03:00.000Z	zortec		can anyone still help me out with my quick problem I think? I need to fix the grub menu so that I can boot into jaunty since right now it boots right into windows and I can't press -esc- to see the boot menu and I am running off a live-cd
+2009-11-26T21:04:00.000Z	brianherman	zortec	what partition is your windows loaded on
+2009-11-26T21:04:00.000Z	zortec	uaneme	I know ActionParsnip and iceroot told me to get a live-cd and repair the grub menu, but I am not sure what to type
+2009-11-26T21:04:00.000Z	zortec		The main problem is I can't boot into my linux install that I have because it goes straight to windows
+2009-11-26T21:05:00.000Z	zortec		better question, how can I check that I still have jaunty installed on here and have not lost it?
+2009-11-26T21:05:00.000Z	brianherman	zortec	you can also uncomment the hiddenmenu line in your /boot/grub/menu.lst

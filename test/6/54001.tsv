@@ -1,0 +1,6 @@
+2008-08-02T00:01:00.000Z	LinuxIST		i want to remove all files in say /tmp what filter do i add to rm
+2008-08-02T00:02:00.000Z	DIFH-iceroot	LinuxIST	rm -r /tmp
+2008-08-02T00:02:00.000Z	DIFH-iceroot	LinuxIST	rm -r /tmp/*
+2008-08-02T00:02:00.000Z	LinuxIST	DIFH-iceroot	i dont want to remove /tmp
+2008-08-02T00:02:00.000Z	DIFH-iceroot	LinuxIST	i have correct my text
+2008-08-02T00:03:00.000Z	LinuxIST	DIFH-iceroot	thanks

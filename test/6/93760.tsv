@@ -1,0 +1,6 @@
+2010-10-13T04:21:00.000Z	korisnik____		hi. i have amd64 procesor and 10.04 version. problem is that i dont know do i have amd64 or i86 version of ubuntu. if i have amd version i would update normally on 10.10, but if i have 10.4 i86 is it possible to update on 10.10 amd64 without full reinstall
+2010-10-13T04:21:00.000Z	Flare183	korisnik____	open a terminal on the i386 version, and type in lshw
+2010-10-13T04:22:00.000Z	Flare183	korisnik____	and look for the CPU info, it'll tell you
+2010-10-13T04:31:00.000Z	Flare183	korisnik____	Yes
+2010-10-13T04:32:00.000Z	Flare183	korisnik____	No that I know of, what I had to do when I made that mistake with my laptop was back everything up and reinstall Ubuntu using the 64bit version
+2010-10-13T04:34:00.000Z	Flare183	korisnik____	Just takes a lot of patience

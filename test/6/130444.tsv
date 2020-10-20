@@ -1,0 +1,6 @@
+2006-02-19T08:15:00.000Z	navarone	cycom	some particulars about card would help too
+2006-02-19T08:22:00.000Z	cycom	navarone	WPC11v3 Linksys PCMCIA wireless B adapter.
+2006-02-19T08:22:00.000Z	cycom	navarone	again, card known working.
+2006-02-19T08:23:00.000Z	cycom	navarone	the unusual problem is that the card is detected by cardmgr and identified, but does not show insertion in dmesg
+2006-02-19T08:27:00.000Z	navarone	cycom	have you read this page yet...?  http://osunix.com/?m=200504    about 3/4 down page ...title is WPC3<yada> <yada>
+2006-06-07T05:22:00.000Z	cycom	navarone	the RED kind!

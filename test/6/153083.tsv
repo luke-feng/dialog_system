@@ -1,0 +1,6 @@
+2007-08-18T14:32:00.000Z	giany911		umm where can i find the fonts in ubuntu ?
+2007-08-18T14:32:00.000Z	javaJake	giany911	do you want to isntall a font?
+2007-08-18T14:32:00.000Z	javaJake	giany911	Ah, /usr/share I believe...
+2007-08-18T14:33:00.000Z	javaJake	giany911	/usr/share/fonts/
+2007-08-18T14:33:00.000Z	javaJake	giany911	then you can decide between trutype....
+2007-08-25T08:42:00.000Z	javaJake	giany911	no, it isn't a good idea. You want to use the manufacturer's utilities instead.

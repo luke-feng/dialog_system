@@ -1,0 +1,6 @@
+2010-09-18T08:04:00.000Z	Vast		i have a problem with booting into a new image of UNR.
+2010-09-18T08:04:00.000Z	Vast		my previous image got corrupted (due to a hard quit during a freeze) and when i boot into that image i get popped into the (initramfs) screen
+2010-09-18T08:04:00.000Z	Vast		so my thought was to boot into ubuntu from another live cd, but for some reason grub isnt recognising the second live cd
+2010-09-18T08:04:00.000Z	Vast		*live usb
+2010-09-18T08:04:00.000Z	Vast		any thoughts?
+2010-09-18T08:04:00.000Z	FloodBot1	Vast	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

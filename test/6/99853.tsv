@@ -1,0 +1,6 @@
+2012-05-02T22:59:00.000Z	CJKay		12.04 seems to have very recently broken Ironhide
+2012-05-02T22:59:00.000Z	CJKay		I updated a couple of packages earlier with apt-get upgrade, and now... `optirun` = lspci: option requires an argument -- 's'
+2012-05-02T22:59:00.000Z	CJKay		'Tis not, but it was working fine before now
+2012-05-02T23:00:00.000Z	CJKay		I use the Ironhide PPA
+2012-05-02T23:00:00.000Z	CJKay		Alrighty
+2012-05-02T23:00:00.000Z	wylde	CJKay	then it's up to the ppa mainainer to support you.

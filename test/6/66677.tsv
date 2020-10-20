@@ -1,0 +1,6 @@
+2012-05-31T03:00:00.000Z	genericon		I'm confused as to how it can be unable to resolve us.archive.ubuntu.com in the installer but ping on a different console works just fine
+2012-05-31T03:02:00.000Z	ActionParsnip	genericon	try:  echo "nameserver 8.8.8.8" | sudo tee -a /etc/resolv.conf > /dev/null      then retry
+2012-05-31T03:02:00.000Z	ActionParsnip	genericon	actually, remove the '-a' from that :)
+2012-05-31T03:03:00.000Z	ActionParsnip	genericon	thats what the command I gave actually does :)
+2012-05-31T03:03:00.000Z	ActionParsnip	genericon	well, its a different DNS to try
+2012-05-31T03:03:00.000Z	ActionParsnip	genericon	you could add an entry in /etc/hosts for the name to IP conversion if you want

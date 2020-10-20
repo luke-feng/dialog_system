@@ -1,0 +1,6 @@
+2009-12-30T07:33:00.000Z	vduck		how hard is it to do a Command line install using a live cd?
+2009-12-30T07:34:00.000Z	vduck		I might be able to debug the video better with an working install
+2009-12-30T07:35:00.000Z	arghh2d2	vduck	you want the ubuntu minimal install cd or the ubuntu server cd
+2009-12-30T07:36:00.000Z	arghh2d2	vduck	alternative cd is ncurses install but it still installs a full gui system
+2009-12-30T07:36:00.000Z	arghh2d2	vduck	dont listen to them other idiots, get ubuntu-minimal or ubuntu-server
+2009-12-30T07:39:00.000Z	vduck	arghh2d2	- I can't get the gui installer to work (actually, it probably does, I just can't see it)

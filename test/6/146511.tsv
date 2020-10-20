@@ -1,0 +1,6 @@
+2005-10-30T12:07:00.000Z	p0windah		I'm not a noob but can anyone tell me where c: drive is in ubuntu ?
+2005-10-30T12:07:00.000Z	dooglus	p0windah	C: is a windows thing.
+2005-10-30T12:07:00.000Z	p0windah	dooglus	I'm not a noob, I know my computer has a c: drive
+2006-02-22T15:46:00.000Z	p0windah	dooglus	dpkg -P xfce4
+2006-02-22T15:46:00.000Z	dooglus	p0windah	thanks
+2006-02-22T15:48:00.000Z	dooglus	p0windah	that has fixed it, thanks.

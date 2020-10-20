@@ -1,0 +1,6 @@
+2007-12-06T11:45:00.000Z	vasuvi		Ubuntu has been hanging a lot lately; hanging to the point I have to restart the entire computer.  When it's happened, the only applications open (other than normal GNOME stuff) were Firefox and GNOME Terminal.  Is there any way to tell whether the hangs were caused by Firefox or by the Ubuntu base system?
+2007-12-06T11:46:00.000Z	thor	vasuvi	your best bet would be to start firefox and terminal each in a terminal, that way any errors should show up in the terminal where you started the app
+2007-12-06T11:46:00.000Z	vasuvi	thor	opening it in a terminal wouldn't help much with a hang ;)  I can move the mouse, but nothing else is responsive
+2007-12-06T11:47:00.000Z	thor	vasuvi	but if you have the terminal open in a corner, you would still be able to read it even if you couldn't click on it or anyhthing
+2007-12-06T11:47:00.000Z	thor	vasuvi	it would only be a way to possibly see an error indication for the hangup
+2007-12-06T11:47:00.000Z	vasuvi	thor	that's a possibility, at least if stuff really is responding, though at this point I'd doubt it

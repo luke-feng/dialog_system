@@ -1,0 +1,6 @@
+2007-01-15T17:20:00.000Z	tomasso_		why when i wanna run an executable file doing ./ I get:No such file or directory? permissions seem to be ok
+2007-01-15T17:21:00.000Z	tomasso_		im on the file's directory
+2007-01-15T17:21:00.000Z	tomasso_		i do ./skype
+2007-01-15T17:22:00.000Z	tomasso_		le me chech
+2007-01-15T17:24:00.000Z	kitche	tomasso_	skype has to be in the folder that your running ./skype
+2007-01-15T17:24:00.000Z	tomasso_	kitche	yes it is

@@ -1,0 +1,6 @@
+2008-08-07T22:56:00.000Z	Dexikiix		hey
+2008-08-07T22:57:00.000Z	Dexikiix		anyone know that command to get all the files required to build a specific program?
+2008-08-07T22:57:00.000Z	Dexikiix		i think it was build-dep or something
+2008-08-07T22:57:00.000Z	Dexikiix		?
+2008-08-07T22:57:00.000Z	Dexikiix		thanks Stormx2
+2008-08-07T22:57:00.000Z	soundray	Dexikiix	'apt-get build-dep sourcepackagename'

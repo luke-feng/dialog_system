@@ -1,0 +1,6 @@
+2006-03-16T14:56:00.000Z	spiritz		I'm having problem with latest linux ati driver. I'm using kernel 2.6.15-17-686. I have been able to install the driver as usual, but this time it won't load properly. DMESG says fglrx "taints the kernel". What does that mean?
+2006-03-16T14:57:00.000Z	gnomefreak	spiritz	2.6.15-18 is newest kernel and please dapper needs to go to #ubuntu+1
+2006-03-16T14:57:00.000Z	spiritz	gnomefreak	Ok, but actually maybe you can translate the meaning of "taints a kernel"?
+2006-03-16T14:58:00.000Z	gnomefreak	spiritz	nope never seen it before
+2006-03-22T15:47:00.000Z	gnomefreak	spiritz	if you have themes use that if not use gnome control panel (dont remember what one kde uses
+2006-03-22T15:47:00.000Z	spiritz	gnomefreak	ok I found control control center, I guess it's this one

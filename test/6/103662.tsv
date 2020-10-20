@@ -1,0 +1,6 @@
+2006-11-01T07:42:00.000Z	DigitalNinja		I'm on amd 64. Do I need the amd 64 nvidia driver?
+2006-11-01T07:43:00.000Z	DigitalNinja		amd 64 process or on 32 bit ubuntu
+2006-11-01T07:43:00.000Z	Kannix	DigitalNinja	It depends on the distribution, not the CPU.
+2006-11-01T07:44:00.000Z	DigitalNinja	Kannix	I see. So I just use the 32 bit version then?
+2006-11-01T07:45:00.000Z	Kannix	DigitalNinja	If you have the 32-bit ubuntu, yes. You get the 32bit driver.
+2006-11-01T07:46:00.000Z	DigitalNinja	Kannix	Thanks!

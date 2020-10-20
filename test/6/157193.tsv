@@ -1,0 +1,6 @@
+2006-03-22T11:13:00.000Z	wd3		how do i update breezy to current
+2006-03-22T11:14:00.000Z	wd3		wastrel im sorry i have 5.10 isn't there a new one?
+2006-03-22T11:14:00.000Z	wastrel	wd3	 next release is called dapper, it's still in testing
+2006-03-22T11:15:00.000Z	wastrel	wd3	 5.10 is breezy, the current release (october 2005,  5.10)   dapper is going to be 6.something
+2006-03-22T11:19:00.000Z	wastrel	wd3	 first save a copy of /etc/fstab  in case you mess it up.   then  sudo nano /etc/fstab
+2006-03-22T11:23:00.000Z	wastrel	wd3	 sorry i don't actually use nano :]   vi guy myself

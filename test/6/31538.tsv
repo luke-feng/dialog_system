@@ -1,0 +1,6 @@
+2011-07-20T06:43:00.000Z	clueful_		I'm trying to create a file server...I've set it up two drives each with a partition dedicated to the stored files...I'd like to set up one drive to backup to the other, what's the best way of doing that
+2011-07-20T06:43:00.000Z	TrentonAdams	clueful_	You doing backups, or just want the same data on both?
+2011-07-20T06:44:00.000Z	TrentonAdams	clueful_	If you're doing backups, I would recommend rsync.  I have a setup scripts that I eventually planned on putting up on github, but haven't had a chance yet.
+2011-07-20T06:44:00.000Z	TrentonAdams	clueful_	Well, just redundancy would be raid1 with mdadm
+2011-07-20T06:45:00.000Z	TrentonAdams	clueful_	mdadm --create /dev/mdX --level=1 --raid-devices=2 /dev/sdaX /dev/sdbX
+2011-07-20T06:46:00.000Z	TrentonAdams	clueful_	But, rsync can do full, differential, and incremental in a single backup, while not using space for the full backup.

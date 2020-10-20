@@ -1,0 +1,6 @@
+2011-09-01T16:07:00.000Z	bullgard6		What command-line command reveals most about the characteristics of any file on my  Ubuntu computer?
+2011-09-01T16:07:00.000Z	jrib	bullgard6	try "file" and "gvfs-info"
+2011-09-01T16:13:00.000Z	bullgard6	jrib	Thank you for your help.
+2011-09-01T18:10:00.000Z	jrib	bullgard6	probably find ;)
+2011-09-01T18:13:00.000Z	bullgard6	jrib	In this generality your answer is wrong. As 'man find'explains, find - search for files in a directory hierarchy."
+2011-09-01T18:13:00.000Z	jrib	bullgard6	yes, find with some options

@@ -1,0 +1,6 @@
+2011-07-12T08:47:00.000Z	qin	noip	number 2 seems to lay beyond areaof support, man wget, man curl, /topic, !guidelines
+2011-07-12T08:48:00.000Z	noip	qin	-- ??
+2011-07-12T08:49:00.000Z	qin	noip	in terminal: man wget; man curl; in irc lient: /topic; !guidelines
+2011-07-12T08:52:00.000Z	noip	qin	- pretty sure curl doesn't support multiple connections to servers though. thanks though.
+2011-07-12T08:53:00.000Z	qin	noip	If you know names, you can loop curl command in script
+2011-07-12T08:53:00.000Z	qin	noip	Since you talk of rar split (propably), it will do

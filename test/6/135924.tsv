@@ -1,0 +1,6 @@
+2006-10-30T11:25:00.000Z	erchace		hi
+2006-10-30T11:25:00.000Z	erchace		what plone version has dapper?
+2006-10-30T11:26:00.000Z	DShepherd	erchace	aptitude show plone-site
+2006-10-30T11:26:00.000Z	DShepherd	erchace	its says 2.5.1-1 here..
+2006-10-30T11:28:00.000Z	DShepherd	erchace	srry.. I am on edgy..
+2006-10-30T11:29:00.000Z	DShepherd	erchace	ok

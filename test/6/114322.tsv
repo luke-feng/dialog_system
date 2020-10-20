@@ -1,0 +1,6 @@
+2006-07-09T08:22:00.000Z	VoX		i know this is a /really/, really, bad question.. but is there a realplayer player for linux, or anything that will show a streaming realmedia format?
+2006-07-09T08:23:00.000Z	jrib	VoX	there is realplayer and mplayer with w32codecs can also play "real" media
+2006-08-14T05:41:00.000Z	jrib	VoX	that's not it, one sec let me find it
+2006-08-14T05:44:00.000Z	jrib	VoX	https://help.ubuntu.com/community/VNCOverSSH that's what I was looking for
+2006-08-14T05:46:00.000Z	VoX	jrib	doesnt quite cover it
+2006-08-14T05:48:00.000Z	jrib	VoX	oh, not sure how to set that up on windows.  Maybe someone else knows

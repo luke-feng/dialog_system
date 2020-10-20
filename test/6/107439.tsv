@@ -1,0 +1,6 @@
+2006-09-08T09:59:00.000Z	Crippy-Boy		Hi all.
+2006-09-08T10:01:00.000Z	Crippy-Boy		Is there a reason why after upgrading my kernel i get no boot messages. I just get 'booting <kernel>...' and then everything goes blank untill gdm kicks in
+2006-09-08T10:01:00.000Z	alex-weej	Crippy-Boy	Edgy? Upstart?
+2006-09-08T10:01:00.000Z	Crippy-Boy	alex-weej	Dapper.
+2006-09-08T10:01:00.000Z	alex-weej	Crippy-Boy	pass then
+2006-09-08T10:05:00.000Z	Crippy-Boy	alex-weej	No worries, Figured it out, It added the splash option to my menu.lst and i had usplash disabled :-) Stupid mistake

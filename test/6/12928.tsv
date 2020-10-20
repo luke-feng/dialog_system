@@ -1,0 +1,6 @@
+2011-01-30T17:50:00.000Z	quiescens	Vaati	your data should still be in c:\ubuntu\ in one or more .disk files
+2011-01-30T17:50:00.000Z	Vaati	quiescens	how do I access it?
+2011-01-30T17:53:00.000Z	quiescens		vaati: that depends on what you want to do with it, you can probably backup/move/rename them, reinstall wubi and then restore them, or you could boot a livecd and mount them manually, or you might be able to find some directions on fixing wubildr without reinstalling anything
+2011-01-30T17:54:00.000Z	Vaati	quiescens	ok -- I will try that.  Thanks for your advice.  I was thinking of that earlier, but backing up a 16 gb + file is going to take some time
+2011-01-30T17:58:00.000Z	quiescens	Vaati	well, if you are able to, it is definitely safest to back up at least your home.disk before you attempt any recovery
+2011-01-30T17:58:00.000Z	Vaati	quiescens	thanks.  I'll try doing that.

@@ -1,0 +1,6 @@
+2008-04-05T20:12:00.000Z	keiserr		hmm anyone who understand the ubuntu setup process in detail here?
+2008-04-05T20:13:00.000Z	keiserr		i wish to bypass something.. where is the contents of "/dists/gutsy/main/binary-i386/Packages.gz" extracted?
+2008-04-05T20:15:00.000Z	keiserr		so 1/4 geek :p you have any idea where "/dists/gutsy/main/binary-i386/Packages.gz" gets extracted? (or how to bypass the md5sums ubuntu setup tries to do?
+2008-04-05T20:16:00.000Z	keiserr		*disk
+2008-04-05T20:16:00.000Z	keiserr		plus the md5 hash of the iso downloaded matches that of the one at http://releases.ubuntu.com/7.10/MD5SUMS
+2008-04-05T20:16:00.000Z	zelrikriando	keiserr	you need at least a 1/2 geek to answer that

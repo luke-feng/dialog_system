@@ -1,0 +1,6 @@
+2006-09-26T10:27:00.000Z	JosefK		anyone seen "timestamp too far in the future" on a clean install of Dapper?
+2006-09-26T10:27:00.000Z	JosefK		can't sudo because of it :/
+2006-09-26T10:27:00.000Z	b^j	JosefK	is your time right?
+2006-09-26T10:28:00.000Z	JosefK	b^j	date reports okay
+2006-09-26T10:29:00.000Z	JosefK	b^j	I think it wasn't when I installed (1 hr+), networked time update set it correct, so after an hour it should be okay *sighs*
+2006-09-26T10:29:00.000Z	b^j	JosefK	yeah, should be

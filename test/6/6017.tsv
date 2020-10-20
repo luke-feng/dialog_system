@@ -1,0 +1,6 @@
+2011-10-13T05:53:00.000Z	kogie	kydan	try to change max_upload on php.ini and see what happen
+2011-10-13T05:54:00.000Z	kydan	kogie	currently set to 128mb
+2011-10-13T05:54:00.000Z	kogie	kydan	sudo chmod -R /dir
+2011-10-13T05:59:00.000Z	kogie	kydan	may i ask if you already check if /upload exist?
+2011-10-13T06:01:00.000Z	kydan	kogie	I doesnt atm, but it should be able to make, it. I have also tried making it and then trying it, the error I posted first is what you get when it does exist. the error when it doesnt says it cant make it. I think I may have found it though, I am running this as a vhost and the phpinfo that I just made for the site shows that max upload for that vhost is 2mb
+2011-10-13T06:01:00.000Z	kydan	kogie	in the master php.ini its like 128, and I know that this is common solution to the issue, I just thought I had ruled it out.

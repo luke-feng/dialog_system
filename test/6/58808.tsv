@@ -1,0 +1,6 @@
+2008-05-22T09:03:00.000Z	ariqs		how do I put xp to the top grub? it sorta looks like debian automagic kernel list has to go first
+2008-05-22T09:04:00.000Z	ariqs		ninja: ok, i'll try that. Thanks
+2008-05-22T09:04:00.000Z	UberCanuck	ariqs	edit the default 0 line in /boot/grub/menu.lst
+2008-05-22T09:05:00.000Z	ariqs	UberCanuck	how does that work? the default 0
+2008-05-22T09:06:00.000Z	UberCanuck	ariqs	points to the configuration in the same file, 0, 1, 2, etc - each 'title' block is a section
+2008-05-22T09:07:00.000Z	UberCanuck	ariqs	don't change the order, just the default

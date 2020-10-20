@@ -1,0 +1,6 @@
+2008-08-19T09:26:00.000Z	carandraug	kwtm	try #compiz-fusion
+2008-08-19T09:26:00.000Z	kwtm	carandraug	Will try that.  Thanks.
+2008-08-19T09:28:00.000Z	carandraug	kwtm	I looked at the manpages of compiz and compiz.real but couldn't find that
+2008-08-19T09:29:00.000Z	carandraug	kwtm	seems to be somewhere  in ./.gconf/apps/compiz
+2008-08-19T09:31:00.000Z	kwtm	carandraug	Ahh, .gconf!  Okay, I'm not familiar with GNOME, so that's why I didn't realize it was there.  I had uninstalled it; wonder if that erases all my config files?  My understanding is that if you apt-get remove something, the config files stay in case you want to reinstall in the future.
+2008-08-19T09:31:00.000Z	carandraug	kwtm	that's true unless you choose to completely remove

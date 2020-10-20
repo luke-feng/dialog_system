@@ -1,0 +1,6 @@
+2009-01-10T18:37:00.000Z	jauntyjoe		hi, could someone tell me how to permanently stop the creation of core files?
+2009-01-10T18:38:00.000Z	adaptr	jauntyjoe	man ulimit, set it to 0 to disable
+2009-01-10T18:38:00.000Z	adaptr	jauntyjoe	of course, you could also stop running software that crashes
+2009-01-10T18:38:00.000Z	jauntyjoe		No manual entry for ulimit
+2009-01-10T18:41:00.000Z	jauntyjoe	adaptr	did "man ulimit" and got "No manual entry for ulimit"
+2009-01-10T18:42:00.000Z	adaptr	jauntyjoe	I know, but that's still what you need to set... check out /etc/security/limits.conf

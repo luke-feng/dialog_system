@@ -1,0 +1,6 @@
+2005-09-20T10:09:00.000Z	cef	nalioth	he can't boot cd's though
+2005-09-22T09:32:00.000Z	nalioth	cef	dont advise that please. it isnt safe to run as root
+2005-09-22T09:33:00.000Z	cef	nalioth	I did specify that earlier it's specifically to fix stuff only
+2005-09-22T09:33:00.000Z	nalioth	cef	some people dont know waht "fixing stuff" means in a *nix box
+2005-09-22T09:33:00.000Z	cef	nalioth	and if X kills your machine, given the default config, you basically need to use it
+2005-09-22T09:34:00.000Z	nalioth	cef	you have to think of the lowest common denominator when you give advice. not everyone is as knowledgable as you are

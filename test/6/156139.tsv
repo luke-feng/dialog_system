@@ -1,0 +1,6 @@
+2005-12-19T08:35:00.000Z	marcin		hi guys - could someone tell me what is the status of dapper?
+2005-12-19T08:35:00.000Z	tritium	marcin	in development
+2005-12-19T08:35:00.000Z	marcin	tritium	I know
+2005-12-19T08:36:00.000Z	marcin	tritium	but I would like to know if it's installable
+2005-12-19T08:36:00.000Z	marcin	tritium	and for example no seriously broken packages such as xorg
+2005-12-19T08:37:00.000Z	tritium	marcin	even if that's currently the case, there's no guarantee that packages won't break in the future, during development

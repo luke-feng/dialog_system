@@ -1,0 +1,6 @@
+2012-09-26T18:37:00.000Z	ActionParsnip	Ethern0t	try:  sudo apt-get --reinstall install  linux-image-generic-pae
+2012-09-26T18:38:00.000Z	Ethern0t	ActionParsnip	not working
+2012-09-26T18:38:00.000Z	Ethern0t	ActionParsnip	dependencies not satisfied
+2012-09-26T18:39:00.000Z	ActionParsnip	Ethern0t	you may have to grab debs to satisfy the deps
+2012-09-26T18:40:00.000Z	Ethern0t	ActionParsnip	i am trying to find them
+2012-09-26T18:40:00.000Z	ActionParsnip	Ethern0t	http://packages.ubuntu.com

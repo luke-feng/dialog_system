@@ -1,0 +1,6 @@
+2007-04-05T06:25:00.000Z	kane77		how do I run a script in the time when the system starts (with root privileges)? I mean even before I log in.. (to make it run for every user) Is the network interface on when there's the login screen?
+2007-04-05T06:26:00.000Z	bimberi	kane77	add it to /etc/rc.local
+2007-04-05T06:26:00.000Z	kane77	bimberi	will that be with root permissions?
+2007-04-05T06:26:00.000Z	bimberi	kane77	yes
+2007-04-05T06:26:00.000Z	kane77	bimberi	thx
+2007-04-05T06:26:00.000Z	bimberi	kane77	yw :)

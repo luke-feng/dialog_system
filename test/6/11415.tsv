@@ -1,0 +1,6 @@
+2011-03-15T14:23:00.000Z	deuterium		when i execute computer-janitor on ubuntu 10.10 on the console, i get the following error: http://dpaste.com/502908/
+2011-03-15T14:23:00.000Z	deuterium		it's a dbus error, but how to solve it? is computer-janitor b0rked?
+2011-03-15T14:25:00.000Z	AnubArack	deuterium	ever tried removing janitor and reinstalling it ?
+2011-03-15T14:25:00.000Z	deuterium	AnubArack	not yet, let me check.
+2011-03-15T14:26:00.000Z	AnubArack		Any of you guys use AWN (Avant window navigator) ?
+2011-03-15T14:27:00.000Z	deuterium	AnubArack	uninstalled computer-janitor and reinstalled it (also the gtk variant). same error.

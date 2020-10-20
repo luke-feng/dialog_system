@@ -1,0 +1,6 @@
+2012-04-22T01:20:00.000Z	rodayo		Is there some known performance issue in precise with flash?
+2012-04-22T01:20:00.000Z	IntuitiveNipple	rodayo	I've not noticed any issues with Flash on Precise amd64
+2012-04-22T01:21:00.000Z	IntuitiveNipple	rodayo	Could it be the system isn't using 3D hardware-accelerated video drivers such as nvidia?
+2012-04-22T01:22:00.000Z	IntuitiveNipple	rodayo	worth checking - usually easy to sort out (*touches wood)
+2012-04-22T01:24:00.000Z	rodayo	IntuitiveNipple	I doubt that might be the problem...I'm looking at the ATI catalyst control center program and highperformance GPU is enabled...
+2012-04-22T01:25:00.000Z	IntuitiveNipple	rodayo	OK... so maybe look on the web for some Flash performance testing applications, see if you can compare that system's performance with other peoples results to see if its in the right area, or lagging behind generally?

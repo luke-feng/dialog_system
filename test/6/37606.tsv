@@ -1,0 +1,6 @@
+2010-02-04T20:53:00.000Z	michaeldobrovits		why doesn't gdm recalls last window position? maybe some compiz tune ?
+2010-02-04T20:54:00.000Z	Myrtti	michaeldobrovits	your question makes little sense. GDM manages the login screen, it has very little to do with the window positions
+2010-02-04T20:55:00.000Z	michaeldobrovits	Myrtti	so what controls windows position?
+2010-02-04T20:55:00.000Z	michaeldobrovits	Myrtti	thought gdm stans for snome desktop manager
+2010-02-04T20:56:00.000Z	Myrtti	michaeldobrovits	window manager, compiz might be yours
+2010-02-04T20:56:00.000Z	michaeldobrovits	Myrtti	thx for clarifing

@@ -1,0 +1,6 @@
+2004-10-14T08:35:00.000Z	tuxakka		hi, I installed warty and just found out that packages doesn't include firewall-gui is there warty's own tool for iptables?
+2004-10-14T08:37:00.000Z	tuxakka		my warty at least listen many ports
+2004-10-14T08:37:00.000Z	topyli	tuxakka	how did you test? lots of services like x listen to localhost
+2004-10-14T08:40:00.000Z	topyli	tuxakka	111 is portmap, 25 is smtp. you have to have them listening to localhost
+2004-10-14T08:42:00.000Z	topyli	tuxakka	where did you do the nmap? locally? you're not listening :)
+2004-10-14T08:44:00.000Z	topyli	tuxakka	i have firestarter right here, works fine

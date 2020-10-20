@@ -1,0 +1,6 @@
+2008-11-14T12:48:00.000Z	Ruge		hey gyts
+2008-11-14T12:48:00.000Z	Ruge		guys, any hints for this error
+2008-11-14T12:48:00.000Z	Ruge		Buffer I/O error on device sr0 [im currently testing the disc]
+2008-11-14T12:50:00.000Z	darkbishop_	Ruge	i think there a function check cd for error at the biggining for the installation rite
+2008-11-14T12:51:00.000Z	Ruge	darkbishop_	yea mate, im just testing the disc now, its funny cuz my 7.04 (fiestyfawn) disc loaded fine, but 2 burns of 8.10 didnt
+2008-11-14T12:51:00.000Z	darkbishop_	Ruge	if your bios have a boot from usb device then it wont be a problem

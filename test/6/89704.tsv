@@ -1,0 +1,6 @@
+2007-05-30T12:08:00.000Z	VPOf		Hey,  when I try to install ubuntu, it can't detect my SATA RAID0 setup (it detects the drives as seperate SCSI devices). openSUSE had no such issues.
+2007-05-30T12:08:00.000Z	VPOf		Anyone any ideas?
+2007-05-30T12:09:00.000Z	VPOf		Is this a known issue?
+2007-05-30T12:09:00.000Z	VPOf		Anyone at all?
+2007-05-30T12:10:00.000Z	Lilacor	VPOf	did you search for RAID + ubuntu install?
+2007-05-30T12:12:00.000Z	Lilacor	VPOf	no, you should probably search the web

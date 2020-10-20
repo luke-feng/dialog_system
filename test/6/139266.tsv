@@ -1,0 +1,6 @@
+2007-07-20T08:39:00.000Z	Stormx2	mneptok	99% of apps have alsa (and therefore dmix) support nowadays.
+2007-07-20T08:39:00.000Z	mneptok	Stormx2	in CS2 one of them?
+2007-07-20T08:40:00.000Z	Stormx2	mneptok	Counter Strike? Creative Studio?
+2007-07-20T08:40:00.000Z	mneptok	Stormx2	22:36 < ziggy> I cant run counterstrike source and my music player at the same time   <--- what sound architecture do those apps use?
+2007-07-20T08:41:00.000Z	Stormx2	mneptok	WINE uses alsa by default for sound
+2007-07-20T08:41:00.000Z	Stormx2	mneptok	Your media player, well, check the preferences.

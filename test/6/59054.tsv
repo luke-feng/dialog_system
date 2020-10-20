@@ -1,0 +1,6 @@
+2008-11-20T14:51:00.000Z	monsoon_king		hi i have ubuntu 8.04 installed...recently i added kde desktop in ubuntu using apt-get install kubuntu-desktop.....how do i remove it??
+2008-11-20T14:52:00.000Z	fde	monsoon_king	theoretically, just removing 'kubuntu-desktop' and running aptitude upgrade should get rid of everything
+2008-11-20T14:53:00.000Z	fde	monsoon_king	aptitude purge kubuntu-desktop
+2008-11-20T14:53:00.000Z	fde	monsoon_king	sudo that
+2008-11-20T14:53:00.000Z	fde	monsoon_king	both will work... I just prefer aptitude
+2008-11-23T14:58:00.000Z	fde	monsoon_king	ummm, no they're not, you're just using a faster mirror

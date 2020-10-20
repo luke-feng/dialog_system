@@ -1,0 +1,6 @@
+2008-10-29T23:26:00.000Z	GaMbi_DK		"sudo mount /home/disk1.iso    /home/HERE -o loop" but now I got 8 ISOs mounted and it says "mount: could not find any free loop device" how do I "Unmount"?
+2008-10-29T23:26:00.000Z	Rubin	GaMbi_DK	umount /home/HERE
+2008-10-29T23:28:00.000Z	GaMbi_DK	Rubin	"umount: it seems /home/HERE is mounted multiple times" this is true.. how do I umount em all?
+2008-10-29T23:29:00.000Z	GaMbi_DK	Rubin	nvm.. just did Sudo and repeated that 8 times :)
+2008-10-29T23:29:00.000Z	GaMbi_DK	Rubin	thx for your help
+2008-10-29T23:29:00.000Z	Rubin	GaMbi_DK	ahh.

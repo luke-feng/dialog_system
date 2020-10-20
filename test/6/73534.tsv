@@ -1,0 +1,6 @@
+2007-11-26T10:38:00.000Z	digin4		strange, the default nvidia drivers from the restricted drivers manager gives me a lot of bugs
+2007-11-26T10:39:00.000Z	digin4		it isntalls nvidia-glx-new, i had to install nvidia-glx manually to fix that!
+2007-11-26T10:40:00.000Z	dominion_	digin4	did you install it from the repository?
+2007-11-26T10:40:00.000Z	digin4	dominion_	yeah using synaptic
+2007-11-26T10:40:00.000Z	dominion_	digin4	I tried searching with diff terms in synaptics and nothing came up
+2007-11-26T10:41:00.000Z	digin4	dominion_	you're facing the same problem?

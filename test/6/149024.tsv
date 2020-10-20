@@ -1,0 +1,6 @@
+2005-05-11T16:42:00.000Z	hussam		I have a kodak cx7310 usb digital camera. what software do I need to get it to work on ubuntu?
+2005-05-11T05:06:00.000Z	drac	hussam	Try changing the mode in your camera to PTP.
+2005-05-11T05:06:00.000Z	drac	hussam	And you need to be in 'plugdev' or was that 'camera' group.
+2005-05-11T05:09:00.000Z	hussam	drac	I added my user to group camera? what's PTP?
+2005-05-11T05:09:00.000Z	drac	hussam	Don't ask me, it's just that libgphoto2 (gtkam) supports some cameras only in that mode.
+2005-05-11T05:10:00.000Z	drac	hussam	Logout, login to make that groupadd in effective ..

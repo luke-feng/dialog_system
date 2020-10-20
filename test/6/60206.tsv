@@ -1,0 +1,6 @@
+2008-04-16T09:03:00.000Z	Orbixx_		How would I enable a second monitor?
+2008-04-16T09:03:00.000Z	^Ocean^	Orbixx_	: What kind of video hardware ?
+2008-04-16T09:04:00.000Z	Orbixx_	^Ocean^	nvidia 8800gtx
+2008-04-16T09:04:00.000Z	^Ocean^	Orbixx_	You can get a utility caled nvidia-settings  may already be installed,  makes it easy too set up a second monitor
+2008-04-16T09:05:00.000Z	^Ocean^	Orbixx_	Alternatively you can read the nvidia docs , and manualy set up your xorg.conf file
+2008-04-16T09:05:00.000Z	^Ocean^	Orbixx_	You also have too be useing the Nvidia video driver from the nvidia website :)

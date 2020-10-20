@@ -1,0 +1,6 @@
+2011-05-18T14:43:00.000Z	minimec	darkacap	Could you verify that in a console with 'top'. The gnome-system-monitor will use most of your 'idle' cpu usage. Press '1' in top, if you have multiple CPU.
+2011-05-18T14:44:00.000Z	darkacap		guest89987: i open the system monitor...and it shows cpu 13%(minimum)
+2011-05-18T14:45:00.000Z	darkacap	minimec	i have single cpu only
+2011-05-18T14:45:00.000Z	minimec	darkacap	So just 'top in a console...
+2011-05-18T14:45:00.000Z	minimec	darkacap	top
+2011-05-18T14:47:00.000Z	darkacap	minimec	ok

@@ -1,0 +1,6 @@
+2012-05-21T12:36:00.000Z	h_v		Anyone come across an issue where a user cannot log in? It's credentials are fine as I can su to it but it won't log in, just returns to the log in screen without error. I've removed Xauthority and chowned it back to itself but still no luck.
+2012-05-21T12:38:00.000Z	bohemian9485	h_v	came across exact problem before, while giving wireshark non-root user access, bump into an error and all my user accounts cannot login to the desktop, had to re-install the 12.04
+2012-05-21T12:38:00.000Z	h_v	bohemian9485	so never got it working?
+2012-05-21T12:39:00.000Z	bohemian9485	h_v	no
+2012-05-21T12:40:00.000Z	h_v	bohemian9485	hmmm surely it's just a permission error or something somewhere but nothing obvious that I can find.
+2012-05-21T12:41:00.000Z	bohemian9485	h_v	seems like it, the error occured while I was setting permission for wireshark

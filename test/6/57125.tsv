@@ -1,0 +1,6 @@
+2008-05-26T23:15:00.000Z	soifran		hi everybody
+2008-05-26T23:16:00.000Z	soifran		i got a problem with ffmpeg : ffmpeg: symbol lookup error: /usr/lib/libavcodec.so.51: undefined symbol: faacDecOpen
+2008-05-26T23:18:00.000Z	magnetron	soifran	the version of ffmpeg that's shipping doesn't support AAC sound, since that would infringe on software patents in the US. the version of ffmpeg in the medibuntu repository supports AAC though.
+2008-05-26T23:21:00.000Z	soifran	magnetron	-> i've already set the medibuntu repository, then updated && upgraded my packges ; actually i can't even check which version of ffmpeg is installed caus i'm getting this answer : ffmpeg: symbol lookup error: /usr/lib/libavcodec.so.51: undefined symbol: faacDecOpen
+2008-05-26T23:22:00.000Z	magnetron	soifran	apparently something wrong with libavcodec or faac
+2008-05-26T23:28:00.000Z	magnetron	soifran	if i knew i would of course have told you

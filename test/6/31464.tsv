@@ -1,0 +1,6 @@
+2011-12-11T23:34:00.000Z	Sawyer		ran sudo palimpsest through a terminal, it took almost 30 seconds to start up, then the GUI starts drawing the window and I see only a white box
+2011-12-11T23:34:00.000Z	Sawyer		this is an example of what is going on
+2011-12-11T23:34:00.000Z	Sawyer		and still i'm seeing the load averages normal and no procs eating up the cpu
+2011-12-11T23:34:00.000Z	Sawyer		where's the beef?
+2011-12-11T23:35:00.000Z	trijntje	Sawyer	heavy swapping?
+2011-12-11T23:35:00.000Z	Sawyer	trijntje	nope, pretty much idle

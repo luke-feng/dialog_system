@@ -1,0 +1,6 @@
+2009-12-06T23:59:00.000Z	nmvictor_		anyone know how i can upgrade to firefox 3.5.5 using the firefox 3.5.5 tarbal?
+2009-12-06T23:59:00.000Z	om26er	nmvictor_	you can use ppa
+2009-12-07T00:02:00.000Z	nmvictor_	om26er	i have the tarbal downloaded from their website, i wish to use that, i've heard of personal package management but i would not like to get down to that right now, cant i use ./configure --some-upgrade option?
+2009-12-07T00:03:00.000Z	om26er	nmvictor_	i never comi;le
+2009-12-07T00:03:00.000Z	nmvictor_	om26er	what was that?
+2009-12-07T00:04:00.000Z	om26er	nmvictor_	i never use tarballs just ppa's

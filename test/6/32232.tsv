@@ -1,0 +1,6 @@
+2010-08-08T23:50:00.000Z	SimonP86		how do I access the CD drive from terminal? cd <???> ?
+2010-08-08T23:51:00.000Z	Dr_Willis	SimonP86	 if its mounted cd /media/SOMTHING
+2010-08-10T06:21:00.000Z	Dr_Willis	SimonP86	 system directories? or where exactly?
+2010-08-10T06:21:00.000Z	Dr_Willis	SimonP86	 theres the 'f' option
+2010-08-10T06:21:00.000Z	Dr_Willis	SimonP86	 you will need root rights to remove system type dirs
+2010-08-10T06:22:00.000Z	SimonP86	Dr_Willis	guampa: worked a treat - thanks guys

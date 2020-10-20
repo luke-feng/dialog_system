@@ -1,0 +1,6 @@
+2008-02-27T05:03:00.000Z	bashir		what is the command to open a .jar file?
+2008-02-27T05:03:00.000Z	bashir		please help
+2008-02-27T05:04:00.000Z	bashir		how do i open a .jar file
+2008-02-27T05:04:00.000Z	bashir		java
+2008-02-27T05:04:00.000Z	bashir		its for the java runtime enviornment
+2008-02-27T05:04:00.000Z	void^	bashir	java -jar foo.jar, or unzip

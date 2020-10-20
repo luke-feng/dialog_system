@@ -1,0 +1,6 @@
+2010-07-04T18:49:00.000Z	bilg_z		are there open source softwares to find passwords some formats (like rar doc zip 7z and others) ?
+2010-07-04T18:51:00.000Z	bilg_z		 iceroot:  http://www.softpedia.com/get/Security/Password-Managers-Generators/MD5-Brute-Force-Tool.shtml
+2010-07-04T18:52:00.000Z	bilg_z		iceroot:this porgram is for windows :(
+2010-07-04T18:52:00.000Z	iceroot	bilg_z	apt-cache search bruteforce
+2010-07-04T18:50:00.000Z	iceroot	bilg_z	any bruteforce-tool
+2010-07-04T18:53:00.000Z	iceroot	bilg_z	and think about the time bruteforce may need

@@ -1,0 +1,6 @@
+2005-07-20T06:52:00.000Z	gm78		Hey all. I just uninstalled proftpd but it says it is started from inetd, and the server is still running, how do i shut off the server, and if i leave it installed, how do i prevent it from loading at boot time
+2005-07-20T06:52:00.000Z	gm78		?
+2005-07-20T06:53:00.000Z	flugh	gm78	try 'update-rc.d -f proftpd remove' at the command line to remove all startup links for proftpd
+2005-07-20T06:54:00.000Z	flugh	gm78	'man update-rc.d' to see info on the command
+2005-07-20T06:55:00.000Z	flugh		i knew a chic who was into that greek stuff
+2005-07-20T06:55:00.000Z	gm78	flugh	alright, thx...ill try that in a minute

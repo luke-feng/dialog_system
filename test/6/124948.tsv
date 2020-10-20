@@ -1,0 +1,6 @@
+2007-01-11T14:49:00.000Z	TheMafia		Can I install opera from some apt-get repo (repo is a yum term, what term should I use?)
+2007-01-11T14:49:00.000Z	Flannel	TheMafia	repository (repo) is an apt-get term too.
+2007-01-11T14:52:00.000Z	TheMafia	Flannel	Thanks, is this for edgy because I can't find Opera in add/remove or synaptic?
+2007-01-11T14:54:00.000Z	Flannel	TheMafia	there are instructions on that page, Method two is what you're looking for
+2007-01-11T14:54:00.000Z	TheMafia	Flannel	thanks
+2008-01-24T06:35:00.000Z	TheMafia	Flannel	when I apt-get install mozilla-composer it finds nothing

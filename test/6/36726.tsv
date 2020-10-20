@@ -1,0 +1,6 @@
+2010-03-24T19:36:00.000Z	akshay		i aborted the "apt-get update" process in between by ctrl+z.....now when i tried redoing it...it gives an error reffering to come lock problem..kindly help
+2010-03-24T19:38:00.000Z	akshay		arusaul: ok let me see
+2010-03-24T19:39:00.000Z	akshay		erusul: what did oyu mean..run. jobs
+2010-03-24T19:39:00.000Z	DopeGhoti	akshay	«jobs» will show you any jobs you suspended with ^Z
+2010-03-24T19:40:00.000Z	DopeGhoti	akshay	if that's the only one listed, you can resume it with «fg»
+2010-03-24T19:41:00.000Z	DopeGhoti	akshay	are you running it from the same terminal you started the apt job on?

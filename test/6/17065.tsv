@@ -1,0 +1,6 @@
+2010-09-19T18:23:00.000Z	xbonesx		whats 'su' for then cuz thats what ive been using to get super user
+2010-09-19T18:24:00.000Z	Seveas	xbonesx	su can only be executed as root or with sudo. It allows the superuser to become someone else. sudo is a more generic way of doing this, usable by non-root users too
+2010-09-19T18:24:00.000Z	Seveas	xbonesx	sudo su makes you execute su as root, a fairly pointless action :)
+2010-09-19T18:25:00.000Z	Seveas	xbonesx	no, sudo -i
+2010-09-19T18:26:00.000Z	xbonesx	Seveas	manpage???
+2010-09-19T18:27:00.000Z	Seveas	xbonesx	on the commandline, type this: man sudo

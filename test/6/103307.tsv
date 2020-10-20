@@ -1,0 +1,6 @@
+2006-12-09T16:22:00.000Z	alex_		how do I set how to mount any usb dev ? I have a box with Etch and I have /etc/usbmount, on ubuntu, it is not, any idea ?
+2006-12-09T16:23:00.000Z	alex_		anyone ?
+2006-12-09T16:23:00.000Z	alex_		how do I set how to mount any usb dev ? I have a box with Etch and I have /etc/usbmount, on ubuntu, it is not, any idea ?
+2006-12-09T16:24:00.000Z	nothlit	alex_	if you're still running under gnome it will be automounted in /media
+2006-12-09T16:25:00.000Z	alex_	nothlit	yes, but I would like to change the way it mount them I woud like to remove the option noexec and nodev
+2006-12-09T16:25:00.000Z	nothlit	alex_	umount them and remount them normally

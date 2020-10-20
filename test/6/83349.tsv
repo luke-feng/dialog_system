@@ -1,0 +1,6 @@
+2007-07-08T08:43:00.000Z	rolfen		then nothing
+2007-07-08T08:43:00.000Z	rolfen		iptables -A -m owner --owner-cmd processname -m limit 1/minute -j LOG
+2007-07-08T07:57:00.000Z	rolfen		hello folks i just installed ubuntu
+2007-07-08T07:58:00.000Z	pete83	rolfen	OMG awesome!
+2007-07-08T07:59:00.000Z	rolfen		:)
+2007-07-08T07:59:00.000Z	rolfen	pete83	 yeah it pretty neat

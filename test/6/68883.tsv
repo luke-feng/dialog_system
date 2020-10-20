@@ -1,0 +1,6 @@
+2008-04-07T02:32:00.000Z	mariobro		When I try to enable extra effects, it says "Desktop effects could not be enabled"  How can I enable them?
+2008-04-07T02:33:00.000Z	mariobro		how do i tell
+2008-04-07T02:33:00.000Z	ethan961	mariobro	have desktop effects worked for you before?
+2008-04-07T02:36:00.000Z	ethan961	mariobro	 one line was enough
+2008-04-07T02:42:00.000Z	ethan961	mariobro	sudo apt-get upgrade in the terminal
+2008-04-07T02:43:00.000Z	ethan961	mariobro	do that AFTER sudo apt-get update

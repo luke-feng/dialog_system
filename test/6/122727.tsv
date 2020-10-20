@@ -1,0 +1,6 @@
+2008-01-04T20:00:00.000Z	anderswc		I am installing ubuntu as a dual boot. I have 4 partitions, 2 for my other OS, one for swap and one for linux
+2008-01-04T20:00:00.000Z	anderswc		what format should my linux partition be?
+2008-01-04T20:01:00.000Z	pike_	anderswc	usually ext3 is recommeneded
+2008-01-04T20:02:00.000Z	pike_	anderswc	you need to make one partition '/'
+2008-01-04T20:03:00.000Z	pike_	anderswc	you can also do a seperate /home partition too if ya want id allocate maybe 8-10 gigs for / and the rest for /home
+2008-01-04T20:03:00.000Z	pike_	anderswc	i think the field is 'mountpoint'

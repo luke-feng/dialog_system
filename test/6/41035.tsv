@@ -1,0 +1,6 @@
+2009-06-25T10:14:00.000Z	g1er		is there a "understanding permissions" 101 somehwere?
+2009-06-25T10:15:00.000Z	MrEgg964	g1er	what do you want to know?
+2009-06-25T10:16:00.000Z	g1er		ok, thanks. then I need to launch textedit from terminal while root to create a system file?
+2009-06-25T10:17:00.000Z	g1er	MrEgg964	I need to create a file in /rules.d but when I do in textedit and try to save i get permission denied
+2009-06-25T10:17:00.000Z	MrEgg964		In [ALT]+[F2] dialog, type : gksudo gedit
+2009-06-25T10:18:00.000Z	MrEgg964	g1er	that will give you the text editor with root privileges

@@ -1,0 +1,6 @@
+2007-06-07T06:09:00.000Z	sebas_		how do I open an image from the terminal?
+2007-06-07T06:10:00.000Z	simplyw00x	sebas_	gthumb
+2007-06-07T06:32:00.000Z	simplyw00x	sebas_	sudo /etc/init.d/gdm stop
+2007-06-07T06:32:00.000Z	sebas_	simplyw00x	will it start again if I reboot?
+2007-06-07T06:33:00.000Z	sebas_	simplyw00x	 i was about to ask that, see you
+2007-06-07T06:33:00.000Z	simplyw00x	sebas_	bye!

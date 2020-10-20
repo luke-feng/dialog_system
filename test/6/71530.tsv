@@ -1,0 +1,6 @@
+2009-12-05T11:03:00.000Z	Bridge|A		what does this mean?
+2009-12-05T11:03:00.000Z	Bridge|A		[notice] caught SIGTERM, shutting down
+2009-12-05T11:03:00.000Z	Bridge|A		it then just says
+2009-12-05T11:03:00.000Z	Bridge|A		[notice] Apache/2.2.11 (Ubuntu) mod_ssl/2.2.11 OpenSSL/0.9.8g configured -- resuming normal operations
+2009-12-05T11:03:00.000Z	Bridge|A		and apache2 starts like nothing happends
+2009-12-05T11:03:00.000Z	FloodBot1	Bridge|A	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

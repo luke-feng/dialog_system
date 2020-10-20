@@ -1,0 +1,6 @@
+2007-09-18T15:58:00.000Z	SWAT		When I login to GNOME, the background color turns orange, I see the GNOME splash screen and as soon as my desktop loads, I see my settings (black background). How/Where can I change the 'orange' color or where is it defined?
+2007-09-18T15:59:00.000Z	jrib	SWAT	system -> administration -> login window -> Local -> Background Color
+2007-09-18T16:00:00.000Z	jrib		!cli > demonspork (read the private message from ubotu)
+2007-09-18T16:01:00.000Z	SWAT		[nrx] , jrib tried that, doesn't work. It still changes to orange shortly (when the GNOME splash shows and before my personal settings are loaded). I even changed the colors in my gdm.conf
+2007-09-18T16:03:00.000Z	jrib	SWAT	it works here, I just made it bright pink.  Note that [nrx]  and I said different things
+2007-09-18T16:03:00.000Z	SWAT	jrib	I know. I'll check if it's an gutsy issue. Thanks for double checking! I appreciate it

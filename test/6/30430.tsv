@@ -1,0 +1,6 @@
+2011-12-16T22:23:00.000Z	user_2		Hello, how can I share files on my LAN?
+2011-12-16T22:23:00.000Z	user_2		who is Giver?
+2011-12-16T22:24:00.000Z	user_2		I am sorry
+2011-12-16T22:24:00.000Z	pfifo	user_2	NFS or Samba reference https://help.ubuntu.com/community/SettingUpNFSHowTo and https://help.ubuntu.com/11.04/serverguide/C/samba-fileserver.html
+2011-12-16T22:25:00.000Z	user_2	pfifo	I would like to use a GUI, no console
+2011-12-16T22:26:00.000Z	pfifo	user_2	i dont know of any GUI tools, I only use cli stuff myself

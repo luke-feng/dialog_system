@@ -1,0 +1,6 @@
+2008-03-20T03:04:00.000Z	xjkx		why that
+2008-03-20T03:05:00.000Z	unop_	xjkx	apt-search has some limitations - you could use aptitude search instead
+2008-03-20T03:11:00.000Z	xjkx	unop_	i like apt-get better. i think i am missing a repository with restricted softwares there :p
+2008-03-20T03:13:00.000Z	unop_	xjkx	doesnt make sense, if you've updated apt recently -- both synaptic and apt-get should report the same information
+2008-03-20T03:17:00.000Z	xjkx	unop_	that`s only because mplayer doesn`t seem to be a supported package. On applications->add/remove, i have options like "show: supported applications, all available applications" when i pick show only supported, mplayer does not apppear, just like my apt-cache search mplayer. but when i pick show all applications, it is there, on apititude. mplayer is not showing because its like not supported or something
+2008-03-20T03:21:00.000Z	xjkx	unop_	i got it now. i have to enable the restricted softwares inside apititute, and it edits my sources.list and only then i can install from apt-get, lol. it added this: deb http://security.ubuntu.com/ubuntu gutsy-security main restricted multiverse. Thanks for your patience.

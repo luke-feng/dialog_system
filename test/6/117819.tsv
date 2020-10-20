@@ -1,0 +1,6 @@
+2007-10-11T07:42:00.000Z	face		now im in my MENU LST
+2007-10-11T07:43:00.000Z	face		i see the setting to my kernal
+2007-10-11T07:44:00.000Z	face		can i remove memtest and kernal recovery mode?
+2007-10-11T07:44:00.000Z	pike__	face	gksu gedit /boot/grub/menu.lst
+2007-10-11T07:44:00.000Z	pike__	face	er.. nm
+2007-10-11T07:45:00.000Z	pike__	face	add a splash image while youre in there :)

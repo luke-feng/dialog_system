@@ -1,0 +1,6 @@
+2010-09-13T16:44:00.000Z	rapage		guys
+2010-09-13T16:44:00.000Z	rapage		when I mkfs.ntfs a zip disk for windows do I need to specify certain id
+2010-09-13T16:46:00.000Z	bilalakhtar	rapage	Did you try it?
+2010-09-13T16:48:00.000Z	bilalakhtar	rapage	AFAIK no
+2010-09-13T16:50:00.000Z	bilalakhtar	rapage	Try checking the manpage of mkfs.ntfs
+2010-09-13T16:50:00.000Z	bilalakhtar	rapage	run man mkfs.ntfs in terminal

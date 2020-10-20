@@ -1,0 +1,6 @@
+2008-03-08T07:32:00.000Z	deadlyallance613		what are the guidelines for partition sizes
+2008-03-08T07:32:00.000Z	Exodus	deadlyallance613	no guidelines really, just a bunch of suggestions, like, /home on a different partition is always good.
+2008-03-08T07:33:00.000Z	Exodus	deadlyallance613	/ should have at least 5gb so you can install stuff.
+2008-03-08T07:34:00.000Z	Exodus	deadlyallance613	well, that depends, a swap partition is always needed, but how linux works, it will only use the swap when you're out of ram, or some programs use it, like the hibernating function
+2008-03-08T07:35:00.000Z	Exodus	deadlyallance613	so, if you like to be able to "hibernate", keep your swap at least the size of your RAM
+2008-03-08T07:37:00.000Z	Exodus	deadlyallance613	if you have enough ram (say 2gb or more) and you don't really care much about "hibernating" with 1gb of swap is enough, all depends on what you plan on doing. If you're going to be encoding huge files, then well, you'll want to calculate all that.

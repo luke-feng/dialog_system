@@ -1,0 +1,6 @@
+2006-05-27T15:46:00.000Z	rencrash		can someone help me wit this posfix quickly
+2006-05-27T15:47:00.000Z	rencrash		*postfix
+2006-05-27T15:47:00.000Z	rencrash		what does this mean?
+2006-05-27T15:47:00.000Z	rencrash		E: Could not open lock file /var/lib/apt/lists/lock - open (13 Permission denied)
+2006-05-27T15:47:00.000Z	rencrash		E: Unable to lock the list directory
+2006-05-27T15:48:00.000Z	void^	rencrash	use sudo

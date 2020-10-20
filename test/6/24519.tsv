@@ -1,0 +1,6 @@
+2011-02-21T11:13:00.000Z	hypatia		so in this case, PD is having a second password that will open a partition / account / whatever that has innocuous files instead of the real files
+2011-02-21T11:14:00.000Z	ohsix	hypatia	or several, or one; or not having much that can be subject to statistical attacks to reasonably be expected to be an encrypted area, subject to search
+2011-02-21T11:16:00.000Z	hypatia	ohsix	are you talking about the cold boot attack or something else?
+2011-02-21T11:18:00.000Z	ohsix	hypatia	not really, key/password compromise is much easier with a human in play; no need for shenanigans ;]
+2011-02-21T11:18:00.000Z	hypatia	ohsix	rubber hose crypto?
+2011-02-21T11:19:00.000Z	hypatia	ohsix	we shall now call that the "hbgary attack"

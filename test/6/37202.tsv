@@ -1,0 +1,6 @@
+2009-11-01T08:03:00.000Z	como		where's partimage in ubuntu karmic?  aptitude can't find it
+2009-11-01T08:05:00.000Z	CavalierPrime	como	 try gparted
+2009-11-01T08:05:00.000Z	como	CavalierPrime	does gparted do partition backup?
+2009-11-01T08:06:00.000Z	CavalierPrime	como	you can use fsck to back up a partition
+2009-11-01T08:07:00.000Z	CavalierPrime	como	 you can also find partimage in Synaptic
+2009-11-01T08:07:00.000Z	como	CavalierPrime	Blue1: partimage does compression, dd doesn't

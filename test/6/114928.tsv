@@ -1,0 +1,6 @@
+2006-07-25T10:32:00.000Z	CanadaGradeEh		Anyone?
+2006-07-25T10:32:00.000Z	CanadaGradeEh		lol
+2006-07-25T10:32:00.000Z	CanadaGradeEh		I've tried but I can't figure out how to set my own custom hotkeys for XMMS. Is it possible?
+2006-07-25T10:34:00.000Z	bruenig	CanadaGradeEh	there is a program called xbindkeys and you can assign any command to any key or series of keys, if you can figure out what the shortcuts would be on the command line you could use that, probably a bit difficult though
+2006-07-25T10:36:00.000Z	bruenig	CanadaGradeEh	that is the same for me, any graphical attempt to adjust sound does nothing. That little speaker that came on the panel by default didn't do anything
+2006-07-25T10:41:00.000Z	bruenig	CanadaGradeEh	i have found attempts to control sound at all within dapper doesn't work, I just adjust my speaker sound with the dial, thankfully it doesn't default by turning the sound off

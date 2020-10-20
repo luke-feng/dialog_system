@@ -1,0 +1,6 @@
+2011-02-15T23:04:00.000Z	IanMalcolm		hey guys, I'm trying to fix a computer here which doesn't seem to know there is a NIC
+2011-02-15T23:05:00.000Z	IanMalcolm		I believe it burned on the last thunderstorm, but I got to make sure the problem does not reside between the keyboard and the chair
+2011-02-15T23:07:00.000Z	IanMalcolm		Ikonia: actually, it shows up on lspci, it's a BCM5755
+2011-02-15T23:07:00.000Z	IanMalcolm		there is no indication of a network interface when I ifconfig, though
+2011-02-15T23:08:00.000Z	nibbler	IanMalcolm	ifconfig -a?
+2011-02-15T23:08:00.000Z	IanMalcolm	nibbler	only loopback

@@ -1,0 +1,6 @@
+2008-10-25T23:53:00.000Z	B1BLancer1		Stupid question to follow.  I installed Clamtk virus scan and tried to update the signatures database.  It says I must be root to install updates.  What does that mean and how do I do it??
+2008-10-25T23:53:00.000Z	KillerOrca	B1BLancer1	means you need to do a sudo command via terminal
+2008-10-25T23:55:00.000Z	B1BLancer1		KillerOrca/Nvidiot : Ok.  But what is the update command?  I have no idea.
+2008-10-25T23:55:00.000Z	KillerOrca	B1BLancer1	just google the clamav page for a command list with descriptions
+2008-10-25T23:55:00.000Z	B1BLancer1	KillerOrca	: Ok, I'll try that.  Thanks.
+2008-10-25T23:57:00.000Z	KillerOrca	B1BLancer1	they also have their own irc if you need help: /server irc.freenode.net

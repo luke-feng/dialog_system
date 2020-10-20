@@ -1,0 +1,6 @@
+2009-11-22T02:55:00.000Z	JGodbout		I have a HDD with just 1 NTFS partition on it. There seems to be some problems on the hard drive, as Windows can't mount it, and when I try to copy certain files, it gives me a "Error stating file '/media/disk-1/Doc...5.tmp': Input/output error". Is there some kind of command that I can run on the partition to "fix" these problems so that Windows can use the HDD?
+2009-11-22T02:55:00.000Z	JGodbout		Some kind of command like Windows chkdsk would be cool
+2009-11-22T02:56:00.000Z	guntbert	JGodbout	there is fsck, but you must unmount the partition before using it
+2009-11-22T02:56:00.000Z	JGodbout	guntbert	Thanks, will try that
+2009-11-22T02:57:00.000Z	guntbert	JGodbout	only I'm not certain if fsck has a ntfs module too
+2009-11-22T03:00:00.000Z	JGodbout	guntbert	It appears that I can use this so called ntfsck program in the ntfsprogs package

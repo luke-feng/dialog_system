@@ -1,0 +1,6 @@
+2005-10-28T07:26:00.000Z	monosaccharide		anyone know how i can install radeon drivers ??
+2005-10-28T07:27:00.000Z	monosaccharide		i'm running breezy
+2005-10-28T07:28:00.000Z	bobbyd	monosaccharide	sell your card and buy nvidia :)
+2005-10-28T07:28:00.000Z	bobbyd	monosaccharide	the linux drivers are not as well supported as nvidia's drivers
+2005-10-28T07:31:00.000Z	bobbyd	monosaccharide	it's in the sshd cnofig file
+2005-10-28T07:31:00.000Z	bobbyd	monosaccharide	/etc/ssh/...

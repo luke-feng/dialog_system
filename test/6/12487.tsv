@@ -1,0 +1,6 @@
+2012-09-11T15:38:00.000Z	Noriandir		does any of you being able to use the java plugin on firefox? i've upgraded to 1.7.0_7 but it still doenst work
+2012-09-11T15:39:00.000Z	MonkeyDust	Noriandir	 i guess you need icedtea
+2012-09-11T15:40:00.000Z	Noriandir	MonkeyDust	I have jdk1.7.0 installed and followed this instructions: http://www.oracle.com/technetwork/java/javase/manual-plugin-install-linux-136395.html
+2012-09-11T15:41:00.000Z	MonkeyDust	Noriandir	 you may want to try open-jdk, not oracle jdk
+2012-09-11T15:41:00.000Z	Noriandir	MonkeyDust	I need to use jdk (i'm a developer)
+2012-09-11T15:47:00.000Z	Noriandir	MonkeyDust	I already have jre and jdk correctly configured. that's not the problem

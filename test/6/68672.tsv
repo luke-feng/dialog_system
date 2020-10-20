@@ -1,0 +1,6 @@
+2008-08-07T20:49:00.000Z	lbd		hi
+2008-08-07T20:49:00.000Z	lbd		can i ask for help?
+2008-08-07T20:50:00.000Z	lbd		i am trying to install alsa drivers fo my echo indigo io card, but I get this: lbd@lbd-laptop:~/alsa-driver-1.0.17$ ./configure --with-cards=intel8x0,indigoio --with-oss=yes --with-sequencer=yes
+2008-08-07T20:50:00.000Z	lbd		checking for gcc... gcc
+2008-08-07T20:50:00.000Z	lbd		checking for C compiler default output file name... configure: error: C compiler cannot create executables
+2008-08-07T20:50:00.000Z	Starnestommy	lbd	sudo apt-get install build-essential

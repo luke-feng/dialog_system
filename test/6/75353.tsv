@@ -1,0 +1,6 @@
+2007-10-23T08:05:00.000Z	Jban		Question: I found a 364.6 MB partition of Mandriva2008 from when I was first experimenting with the latest Linuxes, but it never gave me a dual-boot screen, and so, being a newbie, I couldnt figure out how to access it.  Now that I am sticking with Ubuntu7.10, would it be possible to return this partition to Windows or to incorperate it and give that space to Ubuntu?
+2007-10-23T08:05:00.000Z	scguy318	Jban	sure, GPartEd
+2007-10-23T08:06:00.000Z	Jban	scguy318	Ok, I will look at that now.
+2007-10-23T08:08:00.000Z	Jban	scguy318	Where is gparted again? I have a hard time finding things.
+2007-10-23T08:09:00.000Z	scguy318	Jban	sudo apt-get install gparted, should be in System -> Administration
+2007-10-23T08:16:00.000Z	scguy318	Jban	gksudo gedit

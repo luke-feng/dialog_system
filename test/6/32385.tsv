@@ -1,0 +1,6 @@
+2009-08-23T17:51:00.000Z	Ors1		Hi there, I would like to use my old floppies on Jaunty.  I have tried with the instructions found on http://justanotherwebblog.wordpress.com/2009/03/01/howto-use-floppy-in-ubuntu-810/ no luck so far.  Anyone could help me?
+2009-08-23T17:51:00.000Z	MikeSeth	Ors1	mount /dev/fd0 /floppy no werk?
+2009-08-23T17:54:00.000Z	Ors1	MikeSeth	no mount point exists
+2009-08-23T17:54:00.000Z	MikeSeth	Ors1	create it then
+2009-08-23T17:54:00.000Z	Ors1	MikeSeth	how?
+2009-08-23T17:55:00.000Z	MikeSeth	Ors1	mkdir /mnt/floppy

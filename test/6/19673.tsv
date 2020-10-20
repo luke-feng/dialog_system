@@ -1,0 +1,6 @@
+2010-06-20T20:47:00.000Z	erjohan		is http://ubuntuforums.org down?
+2010-06-20T20:48:00.000Z	bastid_raZor	erjohan	http://downforeveryoneorjustme.com/  may help
+2010-06-20T20:48:00.000Z	bastid_raZor	erjohan	and it is up for me
+2010-06-20T20:56:00.000Z	erjohan	bastid_raZor	EvilTrek : Except they are down for more ppl than me... :-/ They fail at canonical-gw.gwr.datahop.net
+2010-06-20T21:00:00.000Z	bastid_raZor	erjohan	where does it fail again? i'm doing a traceroute to see which path my end takes
+2010-06-20T21:04:00.000Z	erjohan	bastid_raZor	everyone passes through  canonical-gw.gwr.datahop.net, the ones that fail and the ones that can reach it..

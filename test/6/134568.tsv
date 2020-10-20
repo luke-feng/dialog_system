@@ -1,0 +1,6 @@
+2006-01-24T10:47:00.000Z	aeroraver		hello
+2006-01-24T10:48:00.000Z	aeroraver		can someone help me using the install command?
+2006-01-24T10:48:00.000Z	tonyyarusso	aeroraver	As in apt-get install or make install?
+2006-01-24T10:49:00.000Z	tonyyarusso	aeroraver	a) What's the filetype, b) I think that's in the repos, which would be far easier, let me check.
+2006-01-24T10:51:00.000Z	tonyyarusso	aeroraver	Okay, we can either do this the hard way, or you can open a terminal window, type sudo apt-get install amsn (with universe enabled), and be done with it.
+2006-01-24T10:54:00.000Z	tonyyarusso	aeroraver	After that it will.

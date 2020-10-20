@@ -1,0 +1,6 @@
+2006-10-05T14:34:00.000Z	wrabbit^		ok, I'm lost.  I can't find anything on horizontal and vertical refresh lines let alone info on my monitor
+2006-10-05T14:35:00.000Z	wrabbit^		any other ways holycow?
+2006-10-05T14:37:00.000Z	swashbucklinstev	wrabbit^	is the one with monitor difficulties, I see
+2006-10-05T14:44:00.000Z	swashbucklinstev	wrabbit^	try it at 60hz, seriously, I have a good hunch
+2006-10-05T14:46:00.000Z	swashbucklinstev	wrabbit^	I predict your monitor will do 1280x1024 at 60hz :-)
+2006-10-05T14:46:00.000Z	swashbucklinstev	wrabbit^	probably just google and look at other peoples xorg.confs

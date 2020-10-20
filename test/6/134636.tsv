@@ -1,0 +1,6 @@
+2011-12-26T14:36:00.000Z	opalepatrick		newby question... where can I add startup apps in 11.10?
+2011-12-26T14:36:00.000Z	opalepatrick		unity interface I think
+2011-12-26T14:36:00.000Z	airtonix	opalepatrick	startup-applications
+2011-12-26T14:38:00.000Z	airtonix	opalepatrick	alt + f2, type startup, look for the entry labeled: startup applications. ??? . profit
+2011-12-26T14:39:00.000Z	airtonix	opalepatrick	if you are using unity, then alt + f2 brings up the dash. use it to search for your applications... its pretty simple one is called : "Startup Applications"
+2011-12-26T14:40:00.000Z	airtonix	opalepatrick	if you haven't worked it out by now, "Startup Applications" is not a command you can execute

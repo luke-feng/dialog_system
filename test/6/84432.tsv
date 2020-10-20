@@ -1,0 +1,6 @@
+2008-06-26T19:10:00.000Z	nooga		what is the package name for XFree86 source?
+2008-06-26T19:10:00.000Z	nooga		i need te source to build some drivers
+2008-06-26T19:10:00.000Z	wols	nooga	XFree86 isn't there anymore
+2008-06-26T19:10:00.000Z	wols	nooga	apt-get source <package you want the source from>
+2008-06-26T19:13:00.000Z	nooga	wols	so what would be the package for xorg src?
+2008-06-26T19:13:00.000Z	wols	nooga	yes

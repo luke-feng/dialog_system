@@ -1,0 +1,6 @@
+2005-09-21T12:05:00.000Z	Kyral		Hey Seveas is your FreeNX repo working?
+2005-09-21T12:06:00.000Z	Kyral		Can you tell me where I can get the Breezy FreeNX server then?
+2005-09-21T12:08:00.000Z	Kyral		or will the Hoary Backport version of the FreeNX package work in Breezy?
+2005-09-21T12:08:00.000Z	Kyral		gaah....I wanna get offa VNC and onto something more secure...
+2005-09-21T12:09:00.000Z	darkheart	Kyral	In general, don't count on things going smoothly if you use a package from a different version..That kind of stuff breaks things.
+2005-09-21T12:09:00.000Z	darkheart	Kyral	Tunnel your VNC through SSH.

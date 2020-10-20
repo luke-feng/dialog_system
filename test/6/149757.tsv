@@ -1,0 +1,6 @@
+2005-06-17T15:41:00.000Z	Imsdle		i have connected an old hard dsik from my old ubuntu computer, i have access to it but i can't find where evolution sores files... doesn't anyone know where these are
+2005-06-17T15:43:00.000Z	nickrud	Imsdle	evolution stores it's stuff under ~/.evolution, in a very complex manner.
+2005-06-17T15:44:00.000Z	nickrud	Imsdle	you trying to pull out your mail?
+2005-07-13T13:04:00.000Z	nickrud	Imsdle	not good to flood
+2005-07-13T13:06:00.000Z	nickrud	Imsdle	and, do you have use of evolution? (gtk/gnome programs sometimes flood warnings about recoverable things)
+2005-07-13T13:17:00.000Z	nickrud	Imsdle	the quick check would be to create a new user, and see if evolution will run for that user

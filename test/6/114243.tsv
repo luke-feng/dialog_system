@@ -1,0 +1,6 @@
+2008-11-03T23:46:00.000Z	valros		hey guys, starting learning python whats a good/most used GUI toolkit for ubuntu
+2008-11-03T23:47:00.000Z	valros		k
+2008-11-03T23:49:00.000Z	valros		is pygtk in the repositories?
+2008-11-03T23:49:00.000Z	jrib	valros	yes
+2008-11-03T23:50:00.000Z	jrib	valros	apt-cache search -n python gtk
+2009-01-07T06:21:00.000Z	jrib	valros	use your keyboard to fix it in ccsm?

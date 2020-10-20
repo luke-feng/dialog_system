@@ -1,0 +1,6 @@
+2009-06-14T16:21:00.000Z	BrixSat		[Slart] sure it does not use any other port? i have opened 445, 135-139 and nothing
+2009-06-14T16:22:00.000Z	BrixSat		[Skylight] what is the error?
+2009-06-14T16:24:00.000Z	BrixSat		[Skylight] use the paste.ubuntu.com
+2009-06-14T16:25:00.000Z	BrixSat		[Skylight] sudo apt-get autoremove
+2009-06-14T16:25:00.000Z	BrixSat		[Skylight] then sudo apt-get updade and sudo apt-get upgrade in the end sudo apt-get install mysql-server
+2009-06-14T16:26:00.000Z	Pirate_Hunter	BrixSat	are you helping Skylight install lamp manually? if so could you guide me...

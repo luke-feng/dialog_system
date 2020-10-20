@@ -1,0 +1,6 @@
+2005-01-13T15:13:00.000Z	Haukkari		umm
+2005-01-13T15:13:00.000Z	Haukkari		I do have a password on root
+2005-01-13T15:13:00.000Z	Haukkari		So I don't have to write sudo in front every time I do stuff
+2005-01-13T15:13:00.000Z	Haukkari		It's just that I'm not used to sudoing, I'm sure it's just as good a way as anything
+2005-01-13T15:14:00.000Z	Haukkari		wow.
+2005-01-13T15:16:00.000Z	Amaranth	Haukkari	sudo passwd -l root

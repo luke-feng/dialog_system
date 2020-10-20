@@ -1,0 +1,6 @@
+2010-07-22T05:44:00.000Z	iBiZa		hi, just installed ubuntu and when i attemp to boot into ubuntu I get "Kernel panic - not syncing: VFS: Unable to mount root fs on unkown wn-block(0,0) - any ideas how to fix this or why it is happening?
+2010-07-22T05:46:00.000Z	io	iBiZa	Do you get a command prompt?
+2010-07-22T05:47:00.000Z	iBiZa	io	no, but I can get into it
+2010-07-22T05:48:00.000Z	iBiZa	io	can't get into the command line sorry. only get minimal bash like
+2010-07-22T05:50:00.000Z	io	iBiZa	I have no idea then, someone else should be able to help if you keep asking every now and then.
+2010-07-22T05:51:00.000Z	iBiZa	io	thanks.

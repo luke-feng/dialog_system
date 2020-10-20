@@ -1,0 +1,6 @@
+2010-08-09T21:49:00.000Z	MarkRich		Hello everyone.  I'd like to find a method of search an entire file system for a file then use the pipe command to have grep search for a string of text & only return the result if it exists.  And to show me not just the name of the file, but is location.  But for its basic form, I've seen multiple expamples which state that this should do it: locate filename |grep 'TextToFind'.  I have been able to get this to function using t
+2010-08-09T21:49:00.000Z	MarkRich		he find command like this: find -name 'file1' -exec grep -l 'Bash' {} \; .  But once again, the documentation I've seen says that it can be done simply like this: locate file1|grep 'Bash'.  Is there a simpler way of doing this?  Thanks.
+2010-08-09T21:49:00.000Z	ikonia	MarkRich	try in #bash
+2010-08-09T21:50:00.000Z	ikonia	MarkRich	ubuntu support
+2010-08-09T21:51:00.000Z	ikonia	MarkRich	type "/topic" to see more
+2010-08-09T21:52:00.000Z	ikonia	MarkRich	you may get a quicker/better response

@@ -1,0 +1,6 @@
+2007-08-10T12:13:00.000Z	gnurph		this is because - the desktop needs to autodetect the monitor type?
+2007-08-10T12:14:00.000Z	gnurph		interestingly enough, the KVM worked fine in text mode - but the moment i did a startx, it's hosed.
+2007-08-10T12:14:00.000Z	gnurph		well, the video part is - keyboard/mouse works fine.  :)
+2007-08-10T12:15:00.000Z	gnurph		can I force the desktop to start in a specific video resolution?
+2007-08-10T12:15:00.000Z	dresden	gnurph	i want to know tha ttoo
+2007-08-10T12:15:00.000Z	dresden	gnurph	thats waht ive been trying to figure out!!

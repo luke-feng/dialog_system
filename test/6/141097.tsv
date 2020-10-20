@@ -1,0 +1,6 @@
+2005-08-05T08:56:00.000Z	markitoxs		anyone can tell me where can i download gdesklets?
+2005-08-05T08:58:00.000Z	snivitz0	markitoxs	sudo apt-get install gdesklets ;sudo apt-get install gdesklets-data
+2005-08-05T08:59:00.000Z	markitoxs	snivitz0	i don t mean that, i mean the little packages
+2005-08-05T08:59:00.000Z	markitoxs	snivitz0	if you install gdesklets-data it won work ;) they are aout of date
+2005-08-05T09:00:00.000Z	snivitz0	markitoxs	Oh, sorry about that. I installed them didnt give them a shot yet.
+2005-08-05T09:01:00.000Z	markitoxs	snivitz0	thx, you might uninstall the -data one, if you want it to work properly

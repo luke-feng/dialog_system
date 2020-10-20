@@ -1,0 +1,6 @@
+2011-09-09T00:48:00.000Z	Myrtti	Matth1a3	have you set jsonTOCSV.py as executable?
+2011-09-09T00:48:00.000Z	Matth1a3		bitcoind and jsonTOCSV.py are both in the current directory (in a folder on the desktop) and I have no idea if jsonTOCSV.py is in my path (new to ubuntu/linux)
+2011-09-09T00:48:00.000Z	Matth1a3	Myrtti	not sure, how would I do that?
+2011-09-09T00:48:00.000Z	Myrtti	Matth1a3	chmod +x jsonTOCSV.py
+2011-09-09T00:50:00.000Z	Matth1a3	Myrtti	thanks
+2011-09-09T00:51:00.000Z	Myrtti	Matth1a3	does it work now then?

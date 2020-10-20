@@ -1,0 +1,6 @@
+2010-02-20T13:52:00.000Z	jake__		hi, i just installed lampp and i need to copy over a php file into my htdocs folder, but it says i dont own that folder so it will not let me paste. help.
+2010-02-20T13:52:00.000Z	jake__		says nobody group root
+2010-02-20T13:53:00.000Z	jake__		then what use is the file browser if you cant copy paste?
+2010-02-20T13:54:00.000Z	MrCatEye	jake__	- yes and If not already done do it on the console
+2010-02-20T13:55:00.000Z	MrCatEye	jake__	- with nautilus it won't work (as far as I know, becaus u have to start nautilus with sudo rights to gain access to "root-protected" files & folder)
+2010-02-20T13:56:00.000Z	MrCatEye	jake__	- so it is easier to do it with the console

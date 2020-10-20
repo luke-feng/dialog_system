@@ -1,0 +1,6 @@
+2006-03-09T08:47:00.000Z	humon		what's the linux equivalent to "ipconfig /release/" and "ipconfig /renew"?
+2006-03-09T08:48:00.000Z	ompaul	humon	sudo ifdown  ; sudo ifup
+2006-03-09T08:49:00.000Z	humon	ompaul	thanks
+2006-03-09T08:49:00.000Z	humon	ompaul	but that also brings down the interface, is there another command that just releases the leased ip address?
+2006-03-09T08:50:00.000Z	ompaul	humon	well you can do "sudo dhclient"
+2006-03-09T08:50:00.000Z	humon	ompaul	ok, thank you

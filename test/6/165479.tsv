@@ -1,0 +1,6 @@
+2010-12-29T04:58:00.000Z	ResQue		i am using the "Creat Partition" tool that comes of part of the install wizard. its asking me for a mount point, but where is this info stored. if i select the parition to be "/" root how does ubuntu know at next boot time that this is what i have choosen? is it stored in a file like fstab i am looking for a deeper understanding of how this works
+2010-12-29T04:58:00.000Z	maco	ResQue	yes it goes into fstab when you do the install
+2010-12-29T04:59:00.000Z	ResQue	histo	thanks. that was lots easyer than i though it was going to be haha
+2010-12-29T04:59:00.000Z	ResQue		MAAAAAD thanks as well
+2010-12-29T04:59:00.000Z	maco	ResQue	if youre trying to modify an existing install not do a new one, then you need to change the fstab on that disk
+2010-12-29T04:59:00.000Z	maco	ResQue	and in that case, gparted or fdisk is what you ought to use instead of the partitioner

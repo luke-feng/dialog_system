@@ -1,0 +1,6 @@
+2005-12-02T12:36:00.000Z	kismet		simple question: what is the name of a trustworthy partition resizer/etc tool?
+2005-12-02T12:37:00.000Z	sexcopter8000m	kismet	gparted
+2005-12-02T12:41:00.000Z	kismet	sexcopter8000m	got gparted, but all the drives are locked? do i need to console->sudo gparted?
+2005-12-02T12:43:00.000Z	kismet	sexcopter8000m	nevermind =)
+2005-12-02T12:43:00.000Z	sexcopter8000m	kismet	it needs to be run as root, but you can't play with mounted partitions
+2005-12-02T12:43:00.000Z	sexcopter8000m	kismet	no probs

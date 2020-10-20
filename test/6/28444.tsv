@@ -1,0 +1,6 @@
+2011-04-21T03:40:00.000Z	plut0		having trouble with ffmpeg on ubuntu 10.04, Unknown encoder 'libfaac', any idea how to fix?
+2011-04-21T03:40:00.000Z	galeon	plut0	ffmpeg from Ubuntu repos do not support libfaac
+2011-04-21T03:41:00.000Z	galeon	plut0	You need to compile it yourself to support libfaac
+2011-04-21T03:41:00.000Z	plut0	galeon	ok
+2011-04-21T03:41:00.000Z	galeon		just tell us what it is
+2011-04-21T03:43:00.000Z	galeon	plut0	http://ubuntuforums.org/showthread.php?t=786095

@@ -1,0 +1,6 @@
+2010-06-09T06:28:00.000Z	lint		hi can someone tell me why im getting this message when i login? "The login keyring did not get unlocked when you logged into your computer."
+2010-06-09T06:28:00.000Z	lint		and how to fix it?
+2010-06-09T06:30:00.000Z	lint		hi can someone tell me why im getting this message when i login? "The login keyring did not get unlocked when you logged into your computer."
+2010-06-09T06:31:00.000Z	jasmuz	lint	the why is easy.. you have to check your gnome keyring, because you aren't being granted access to it.
+2010-06-09T06:31:00.000Z	lint	jasmuz	how do i access it?
+2010-06-09T06:32:00.000Z	jasmuz	lint	in the preferences menu

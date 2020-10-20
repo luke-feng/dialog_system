@@ -1,0 +1,6 @@
+2010-01-26T17:19:00.000Z	SmokeyD		I still can't get wpa_supplicant to work. My wpa_supplicant config is on http://ubuntu.pastebin.com/m6e00522e
+2010-01-26T17:19:00.000Z	SmokeyD		when I run  sudo wpa_supplicant -Dwext -ira0 -c /etc/wpa_supplicant/wpa_supplicant.conf
+2010-01-26T17:19:00.000Z	SmokeyD		 wpa_supplicant keeps saying
+2010-01-26T17:19:00.000Z	SmokeyD		CTRL-EVENT-SCAN-RESULTS
+2010-01-26T17:19:00.000Z	FloodBot1	SmokeyD	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.
+2010-02-02T18:59:00.000Z	FloodBot1	SmokeyD	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

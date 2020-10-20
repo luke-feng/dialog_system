@@ -1,0 +1,6 @@
+2012-05-13T08:46:00.000Z	crf		Hi, I mounted the cd-rom on a mac, and it said it was a joliet file system.
+2012-05-13T08:47:00.000Z	crf		So why isn't my Ubuntu able to mount it? I think it should right?
+2012-05-13T08:48:00.000Z	Jordan_U	crf	Where did you get this iso image? What is it?
+2012-05-13T08:48:00.000Z	crf		Jordan, it is a cd, with documents on it, I think.
+2012-05-13T08:49:00.000Z	crf	escott	thanks, I'll look at that report.
+2012-05-13T08:57:00.000Z	Jordan_U	crf	As a somewhat odd test / work around can you try "sudo grub-mount /dev/sr0 /mnt/"?

@@ -1,0 +1,6 @@
+2005-04-26T14:54:00.000Z	charlesdarwin		Problem with mplayer: "mplayer movie" fails (MPlayer interrupted by signal 6 in module: vo_check_events), but "mplayer -vo x11 movie" works (I have an old ATI Rage card). However, vo=x11 is set in mplayer.conf, and I don't believe it's being overridden by a user-specific setting. Help?
+2005-04-26T14:56:00.000Z	charlesdarwin		I'm using it
+2005-04-26T14:56:00.000Z	charlesdarwin		It fails because mplayer fails
+2005-04-26T14:57:00.000Z	charlesdarwin		gmplayer, however, works
+2005-04-26T14:57:00.000Z	charlesdarwin		the entire reason I need mplayer to work is so that mplayerplug-in wont fail after buffering
+2005-04-26T14:57:00.000Z	djm62	charlesdarwin	have you used the preferences in gmplayer to save the settings that work for you?

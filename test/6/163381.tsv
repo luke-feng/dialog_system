@@ -1,0 +1,6 @@
+2004-10-20T10:28:00.000Z	tom_cat		root@homenetwork:/home/myubuntu # apt-get install mc
+2004-10-20T10:28:00.000Z	tom_cat		Reading Package Lists... Done
+2004-10-20T10:28:00.000Z	tom_cat		Building Dependency Tree... Done
+2004-10-20T10:28:00.000Z	tom_cat		E: Couldn't find package mc
+2004-10-20T10:29:00.000Z	tom_cat		universe, what is this ?
+2004-10-20T10:29:00.000Z	WW_	tom_cat	also: http://www.ubuntulinux.org/ubuntu/components/document_view

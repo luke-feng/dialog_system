@@ -1,0 +1,6 @@
+2007-11-02T03:36:00.000Z	AstroBomber		what is the command for deleting something?
+2007-11-02T03:37:00.000Z	AstroBomber		how would i delete my grub file?
+2007-11-02T03:37:00.000Z	nickrud	AstroBomber	why would you want to do that, and it's rm
+2007-11-02T03:38:00.000Z	nickrud	AstroBomber	sudo update-grub , that would rebuild it; try cp (copying) the grub to somewhere safe first
+2007-11-02T03:41:00.000Z	nickrud	AstroBomber	sudo update-grub
+2007-11-02T03:42:00.000Z	nickrud	AstroBomber	strange it's claiming /boot/boot/grub/menu.lst , it should be looking for /boot/grub/menu.lst

@@ -1,0 +1,6 @@
+2010-05-28T18:00:00.000Z	jessicaNatalie		hello guys. Where is the toshiba option in the .config file when recompiling kernel???????
+2010-05-28T18:01:00.000Z	jessicaNatalie		#ubuntu-kernel
+2010-05-28T18:01:00.000Z	jessicaNatalie		ok thanks
+2010-05-28T18:01:00.000Z	llutz	jessicaNatalie	grep -i tosh /boot/config-$(uname -r)
+2010-05-28T18:02:00.000Z	jessicaNatalie	llutz	let me see
+2010-05-28T18:02:00.000Z	jessicaNatalie	llutz	ok thanks

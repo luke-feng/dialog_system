@@ -1,0 +1,6 @@
+2012-10-09T14:46:00.000Z	Nicekiwi		my computer wont boot ubuntu unless "acpi=off" is set in grub, it used to work without that.. and nothing has really changed BIOS wise.. help? I cant suspend or anything without ACPI can I?
+2012-10-09T14:46:00.000Z	farrioth	Nicekiwi	Is there an error message if you don't use acpi=off?
+2012-10-09T14:54:00.000Z	Nicekiwi	farrioth	no the screen just goes black from boot and nothing
+2012-10-09T14:54:00.000Z	Nicekiwi	farrioth	it'll just sit forever
+2012-10-09T14:54:00.000Z	farrioth	Nicekiwi	Perhaps check your apt logs to see what changed around the time it broke.. Else I can't help, sorry.
+2012-10-09T14:59:00.000Z	Nicekiwi	farrioth	oh this is form a fresh install. it didnt suddenly jsut happen

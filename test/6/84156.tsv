@@ -1,0 +1,6 @@
+2007-06-20T05:44:00.000Z	kdub432		i just got a new nvidia graphics card, to replace an ATI on, and after installing the driver, glxinfo says that the GLX extension is missing. any help?
+2007-06-20T05:45:00.000Z	jdstrand	kdub432	apt-get install nvidia-glx
+2007-06-20T05:47:00.000Z	jdstrand	kdub432	you'll need the linux-restricted-modules too
+2007-06-20T05:47:00.000Z	jdstrand	kdub432	eg apt-get install linux-restricted-modules-386
+2007-06-20T05:49:00.000Z	kdub432	jdstrand	i followed the how to on ubuntuforums. i think theres some weird remnants leftover from my ATI card....
+2007-06-20T05:54:00.000Z	jdstrand	kdub432	I'd remove the fglrx stuff if you have it.  'dpkg -l|grep fglrx'.  Then manually look in /etc/X11/xorg.conf for any old xorg stuff.  You could just try to do: 'dpkg-reconfigure xserver-xorg'

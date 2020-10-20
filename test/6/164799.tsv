@@ -1,0 +1,6 @@
+2010-07-11T01:24:00.000Z	Petertatt		hello S.O.S.
+2010-07-11T01:25:00.000Z	Petertatt		i've finally gotten into a chat room but i had to switch to windows to do it.  why won't chat work in ubuntu? (i have only this dual-boot laptop)
+2010-07-11T01:25:00.000Z	Dr_Willis	Petertatt	 depends on how you are trying to chat
+2010-07-11T01:30:00.000Z	Dr_Willis	Petertatt	 why not use an IRC client to get to irc chat rooms not firefox. :) they tend to work better.
+2010-07-11T01:35:00.000Z	Dr_Willis	Petertatt	 'sudo apt-get install mc'   fails ? whats the error message?
+2010-07-11T01:35:00.000Z	Dr_Willis	Petertatt	 also be sure to do a 'sudo apt-get update' and 'sudo apt-get upgrade'  If things seem messed up.

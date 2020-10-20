@@ -1,0 +1,6 @@
+2012-09-17T00:13:00.000Z	savio		no one is answering
+2012-09-17T00:14:00.000Z	savio		someone
+2012-09-17T00:14:00.000Z	thor__	savio	what do you nned?
+2012-09-17T00:15:00.000Z	savio	thor__	i having problem with nm
+2012-09-17T00:20:00.000Z	thor__	savio	did  you try to use the privative drivers ?
+2012-09-17T00:23:00.000Z	thor__	savio	try this:  sudo apt-get install ndiswrapper-common & ndisgtk

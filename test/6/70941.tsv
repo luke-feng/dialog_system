@@ -1,0 +1,6 @@
+2008-03-05T04:42:00.000Z	tehdave		there are non-free apps on linux?
+2008-03-05T04:43:00.000Z	tehdave		nope...nothing here
+2008-03-05T04:45:00.000Z	tehdave		speaking of packages, does anyone know if/when wine 0.9.56 is going to be updated to the package manager? or is that on a "someone will get to it" basis?
+2008-03-05T04:46:00.000Z	soundray	tehdave	to run bleeding-edge wine, enable the budgetdedicated repository. The wine factoid will tell you how (private message)
+2008-03-05T04:46:00.000Z	soundray		!wine > tehdave
+2008-03-05T04:46:00.000Z	tehdave	soundray	Thanks

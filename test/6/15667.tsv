@@ -1,0 +1,6 @@
+2010-10-22T03:42:00.000Z	hawk3r		hey guys i just got 10.10 installed on my 3,1 macbook, and the trackpad works like shit..anyone found a fix?
+2010-10-22T03:43:00.000Z	tech2077	hawk3r	you would want to look intot the xf86-input-multitouch driver if your interested, but it's nt finished ye
+2010-10-22T03:45:00.000Z	tech2077	hawk3r	if you want the repo so you can install it without building from source it can be installed with: sudo add-apt-repository ppa:user/ppa-name && sudo apt-get update
+2010-10-22T03:48:00.000Z	hawk3r	tech2077	some files failed to download from that
+2010-10-22T03:49:00.000Z	tech2077	hawk3r	which ones
+2010-10-22T03:50:00.000Z	tech2077	hawk3r	probably down now or something

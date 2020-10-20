@@ -1,0 +1,6 @@
+2006-04-10T10:44:00.000Z	ReD_BuLLeT		with witch program i can connect to internet with terminal
+2006-04-10T10:44:00.000Z	ReD_BuLLeT		?
+2006-04-10T10:45:00.000Z	ReD_BuLLeT		please tell me how can connect to te internet throught terminal
+2006-04-10T10:45:00.000Z	ReD_BuLLeT		?
+2006-04-10T10:45:00.000Z	riddlebox	ReD_BuLLeT	you mean surf webpages?
+2006-04-10T10:46:00.000Z	riddlebox	ReD_BuLLeT	probably sudo apt-get install lynx

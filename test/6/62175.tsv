@@ -1,0 +1,6 @@
+2008-03-11T11:40:00.000Z	Alaerus		hey there.. who has the time and the nerves to answer me some questions about Ubuntu? :)
+2008-03-11T11:41:00.000Z	_2	Alaerus	can't answer what you don't ask...     well we could.... but that helps nothing.
+2008-03-11T11:48:00.000Z	_2	Alaerus	are you installing beside another os ?   or clean disk ?
+2008-03-11T11:49:00.000Z	Alaerus	_2	clean but maybe I might install XP later
+2008-03-11T11:51:00.000Z	_2	Alaerus	ummm i would sujest making a partition for the M$ install first.  giving M$ the first primary partition or it will cry you a river.    also the installer (ubiquity) will run gparted for you durring install allowing you to repartition the disk.
+2008-03-11T11:52:00.000Z	_2	Alaerus	there are as many sujestion on how to set up your hd space as their users.  but most will agree that a seperate / (root)  and /home (user_space) partitions are a good idea.

@@ -1,0 +1,6 @@
+2012-10-25T03:06:00.000Z	wols_	RedPenguin	pastebin your interfaces file
+2012-10-25T03:07:00.000Z	RedPenguin	wols_	k one sec
+2012-10-25T03:11:00.000Z	wols_	RedPenguin	traceroute 8.8.8.8
+2012-10-25T03:12:00.000Z	RedPenguin	wols_	just dies giving * * * for every hop
+2012-10-25T03:12:00.000Z	wols_	RedPenguin	could be your router doesn't route packages since it not assigned via dhcp
+2012-10-25T03:14:00.000Z	RedPenguin	wols_	it should not be blocking cause I had static IP set Windows PCs and Linux PCs already it hgad no issues iwth

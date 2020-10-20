@@ -1,0 +1,6 @@
+2007-01-11T08:55:00.000Z	KenSentMe		How can i see the boot scripts instead of the bootspalsh screen at startup?
+2007-01-11T08:57:00.000Z	un_operateur	KenSentMe	do you want it always like that? or just a one-off?
+2007-01-11T09:00:00.000Z	KenSentMe	un_operateur	i want a one-off
+2007-01-11T09:01:00.000Z	KenSentMe	un_operateur	just by key-press or something
+2007-01-11T09:01:00.000Z	un_operateur	KenSentMe	at the boot-menu .. you select the kernel you want to boot .. press 'e' .. and edit that entry to add the word 'quiet' at the end (or remove the word 'splash')
+2007-01-11T09:10:00.000Z	KenSentMe	un_operateur	Jowi: thanks for your info. I'll try it at boot

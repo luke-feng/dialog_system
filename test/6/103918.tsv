@@ -1,0 +1,6 @@
+2008-08-31T22:44:00.000Z	Btb125		Hi, has anybody used "BurnIN Test" [ http://www.passmark.com/products/bit.htm ] - Either way, does anybody know any application like this for a linux system?
+2008-08-31T22:46:00.000Z	Btb125		Could anybody help me with installing windows drivers on a ubuntu system or point me in the direction of a guide. Thanks in advance
+2008-08-31T22:46:00.000Z	Btb125		atheros wireless pci card
+2008-08-31T22:47:00.000Z	PriceChild	Btb125	that should work out the box... could you pastebin the output of lspci and lsusb please?
+2008-08-31T22:47:00.000Z	PriceChild	Btb125	i don't believe ndiswrapper should be needed
+2008-08-31T22:49:00.000Z	PriceChild	Btb125	pidgin comes by default, but xchat is my personal favourite.

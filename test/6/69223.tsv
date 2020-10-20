@@ -1,0 +1,6 @@
+2011-04-07T15:26:00.000Z	MK`		yeah
+2011-04-07T15:26:00.000Z	MK`		I deleted the disk, am starting over now
+2011-04-07T15:26:00.000Z	MK`		ok
+2011-04-07T15:28:00.000Z	MK`		i don't know what dd does yet
+2011-04-07T15:29:00.000Z	MK`		!dd
+2011-04-07T15:30:00.000Z	[deXter]	MK`	copy data from/to a device at a low level, bit by bit.. amongst lot of other things, in this case, dd can be used to wipe a drive

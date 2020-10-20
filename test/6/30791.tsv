@@ -1,0 +1,6 @@
+2012-02-22T15:22:00.000Z	Wiz_KeeD		ubuntu 10.4 that is
+2012-02-22T15:22:00.000Z	llutz_	Wiz_KeeD	3.5.2 you get
+2012-02-22T15:25:00.000Z	llutz_	Wiz_KeeD	lsb_release -sc
+2012-02-22T15:26:00.000Z	llutz_	Wiz_KeeD	use sudo
+2012-02-22T15:27:00.000Z	llutz_	Wiz_KeeD	any other packagemanager open
+2012-11-23T18:54:00.000Z	llutz_	Wiz_KeeD	sudo chsh -s /bin/bash username

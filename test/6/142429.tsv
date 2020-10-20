@@ -1,0 +1,6 @@
+2007-03-26T15:08:00.000Z	Airforce5555		Im getting problems with sound in skype
+2007-03-26T15:08:00.000Z	Airforce5555		yep
+2007-03-26T15:08:00.000Z	Airforce5555		just in skype
+2007-03-26T15:09:00.000Z	Airforce5555		can anybody offer help?
+2007-03-26T15:10:00.000Z	Airforce5555		skype does not have sound output or input
+2007-03-26T15:11:00.000Z	Jowi	Airforce5555	it was quite a while since I used skype (quit using it when ebay bought it up) but try "killall esd" in a terminal and start skype again.

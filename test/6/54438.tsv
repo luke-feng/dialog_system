@@ -1,0 +1,6 @@
+2009-06-06T11:26:00.000Z	squeak		I am in jaunty installed flashplugin-nonfree, and adobe-flashplugin, and adobe flash plugin 9 tried all three yet my flash videos still skip the sound plays fine just the videos skip any suggestions?
+2009-06-06T11:26:00.000Z	mattgman	squeak	i got your answer, hang tight
+2009-06-06T11:27:00.000Z	mattgman		might be lonesword, hang on
+2009-06-06T11:28:00.000Z	mattgman		squeak - http://get.adobe.com/flashplayer/  download the .tar.gz for linux, then extract that to your desktop, and run the .sh file
+2009-06-06T11:28:00.000Z	mattgman		lonesword: pastebin your "lspci -v"
+2009-06-06T11:28:00.000Z	squeak	mattgman	but that installs the version 10 or 9 that still skips already did that

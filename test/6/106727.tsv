@@ -1,0 +1,6 @@
+2007-12-24T08:47:00.000Z	cyzie		anyone has any idea what could this means? Segmentation fault (core dumped)
+2007-12-24T08:48:00.000Z	cyzie		how could i trace to the source of error ?
+2007-12-24T08:50:00.000Z	cyzie		epiphany
+2007-12-24T08:52:00.000Z	_sojourner	cyzie	try /var/crash/
+2007-12-24T08:53:00.000Z	cyzie	_sojourner	yes, got that crash file
+2007-12-24T08:53:00.000Z	cyzie	_sojourner	 but it is ascii very long lines.

@@ -1,0 +1,6 @@
+2008-08-16T20:18:00.000Z	xiaopi		Hello, sometime after watching a video i get "Can't play sound, device already in use blabla.." even if the process is already closed, and i can only reboot to solve the problem
+2008-08-16T20:18:00.000Z	xiaopi		any commands to type in console to reset audio interface?
+2008-08-16T20:18:00.000Z	ikonia	xiaopi	reboot ;)
+2008-08-16T20:18:00.000Z	ikonia	xiaopi	(I'm kidding)
+2008-08-16T20:19:00.000Z	ikonia	xiaopi	one thing to check is the process you think has died
+2008-08-16T20:19:00.000Z	ikonia	xiaopi	what process is it, that it thinks is locking it ?

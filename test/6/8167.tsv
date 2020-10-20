@@ -1,0 +1,6 @@
+2012-08-16T00:48:00.000Z	jase_		what command can i use to search syslog for a text string
+2012-08-16T00:49:00.000Z	zykotick9	jase_	"grep foo /path/to/file"
+2012-08-16T00:53:00.000Z	zykotick9	jase_	i'd just search for lo myself...
+2012-08-16T02:18:00.000Z	zykotick9	jase_	edit /etc/default/grub then run "sudo update-grub"
+2012-08-16T02:20:00.000Z	jase_	zykotick9	do i add it to this line   GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"
+2012-08-16T02:21:00.000Z	zykotick9	jase_	yes

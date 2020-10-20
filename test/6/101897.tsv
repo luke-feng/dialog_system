@@ -1,0 +1,6 @@
+2006-11-18T11:25:00.000Z	bunnythebunny		How do i find out if im using the latest ALSAversion?
+2006-11-18T11:26:00.000Z	bunnythebunny		How do i find out if im using the latest ALSA version?
+2006-11-18T11:27:00.000Z	bunnythebunny		Can anyone tell me if i can find out what ALSA version i've got?
+2006-11-18T11:28:00.000Z	bunnythebunny		!alsa
+2006-11-18T11:28:00.000Z	roryy	bunnythebunny	try 'alsactl -v' or 'apt show alsa-base|grep Version'
+2006-11-18T11:29:00.000Z	bunnythebunny	roryy	thanks!

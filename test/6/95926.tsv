@@ -1,0 +1,6 @@
+2008-09-28T23:29:00.000Z	Fzang		anyone, how do I get admin/root rights?
+2008-09-28T23:29:00.000Z	Fzang		I tried enter 'su' and it wants password
+2008-09-28T23:30:00.000Z	Fzang		but I don't know the password of the live CD
+2008-09-28T23:30:00.000Z	Fzang		sudo doesn't work on this command somehow
+2008-09-28T23:30:00.000Z	unop	Fzang	there is no root password
+2008-09-28T23:30:00.000Z	unop	Fzang	use  sudo -i  instead of su

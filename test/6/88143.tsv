@@ -1,0 +1,6 @@
+2007-04-27T09:26:00.000Z	idefixx	lm	hda1=(hd0,0)
+2007-04-27T09:26:00.000Z	lm	idefixx	so.... hdc 2 would be....?
+2007-04-27T09:27:00.000Z	lm	idefixx	hd3,2?
+2007-04-27T09:27:00.000Z	idefixx	lm	hd2,1
+2007-04-27T09:27:00.000Z	lm	idefixx	ahh... damnit, i started to count from one, so hd3,2 obviously doesnt work :)
+2007-04-27T09:27:00.000Z	idefixx	lm	linux starts with a and 1, grub just with 0 :)

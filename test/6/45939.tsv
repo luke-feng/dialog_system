@@ -1,0 +1,6 @@
+2008-12-11T04:28:00.000Z	dalekleader		is it safe to delete files core and core.28687 from te home folder?  what are these files for?
+2008-12-11T04:29:00.000Z	azimout	dalekleader	yes, you can delete them. some applications create them when they crash
+2008-12-11T04:29:00.000Z	dalekleader	azimout	is it normal for them to get 250mb+ each?
+2008-12-11T04:32:00.000Z	azimout	dalekleader	yes... can you remember any of your programs crashing recently?
+2008-12-11T04:33:00.000Z	azimout		paw: did you get any error messages?
+2008-12-11T04:33:00.000Z	dalekleader	azimout	no, it was the first time I saw those files since feb

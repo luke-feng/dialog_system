@@ -1,0 +1,6 @@
+2007-05-12T06:10:00.000Z	logixoul		How do I enable VESA in GRUB?
+2007-05-12T06:11:00.000Z	afief	logixoul	isn't vesa something inside X? how can it start before the kernel?
+2007-05-12T06:11:00.000Z	logixoul	afief	my video mode after booting is okay. the question is, how do I make the GRUB splash (where you select what to boot) use it too?
+2007-05-12T06:12:00.000Z	logixoul		EvilGrin: no, see my response to afief
+2007-05-12T06:12:00.000Z	afief	logixoul	I remember there was some package you need to install to do that(you mean something similar to what fedora does, right?)
+2007-05-12T06:12:00.000Z	logixoul	afief	yep. thanks, I'll look it up.

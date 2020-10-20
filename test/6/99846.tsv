@@ -1,0 +1,6 @@
+2012-05-12T22:46:00.000Z	rabbi1		all my selections from login settings under ubuntu-tweak is disabled? how to enable it ?
+2012-05-12T22:48:00.000Z	wylde	rabbi1	to right corner should be an "unlock" button
+2012-05-12T22:51:00.000Z	rabbi1	wylde	also changed the icon theme, and tried few , but din;t like any, again got back to the ubuntu-mono-dark one, but icons are not changing :(
+2012-05-14T23:37:00.000Z	wylde	rabbi1	ctrl+alt+f1 then login and 'sudo service lightdm stop'  (assuming you're on a default 11.10+ ubuntu)
+2012-05-14T23:37:00.000Z	rabbi1	wylde	12.04
+2012-05-14T23:37:00.000Z	wylde	rabbi1	yep that's why I added the '+'

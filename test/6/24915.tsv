@@ -1,0 +1,6 @@
+2010-02-03T23:16:00.000Z	Arabus		hey, I want to install a bootable ubuntu live image on a harddrive so i can then attach the harddrive to a different computer - is there a way to do that and if, how?
+2010-02-03T23:16:00.000Z	mguy	Arabus	You can do it with a USB stick it should be the same for a USB hard drive. You will want to create a persistant file that you can save your data in
+2010-02-03T23:17:00.000Z	Arabus	mguy	problem is following, i can not boot from usb - the computer will only boot from its hard drive - so i have to use the hard drive as boot device
+2010-02-03T23:18:00.000Z	mguy	Arabus	Can you boot to USB from a menu or commandline in GRUB
+2010-02-03T23:20:00.000Z	Arabus	mguy	actually I do not know - but I would have to boot up to grub then i.e. at leas have grub installed on the hard drive
+2010-02-03T23:31:00.000Z	Arabus	mguy	I used UNetBootin now to install a livecd to the harddrive and attached it to the other computer...

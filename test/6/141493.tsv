@@ -1,0 +1,6 @@
+2005-11-28T09:38:00.000Z	sexcopter8000m		hi, i want to save a webpage for archiving purposes, and i tried file -> save page as... in firefox and the resulting page doesn't look right at all, is there a better programme for this purpose?
+2005-11-28T09:38:00.000Z	sexcopter8000m		even a pdf or similar output is fine, doesn't have to be html
+2005-11-28T09:39:00.000Z	trappist	sexcopter8000m	print to file
+2005-11-28T09:39:00.000Z	trappist	sexcopter8000m	man wget.  there are lots of options depending on how you want to do it
+2006-08-29T08:49:00.000Z	trappist	sexcopter8000m	if you just crontab -e, the line will work as-is
+2006-08-29T08:50:00.000Z	trappist	sexcopter8000m	cron.monthly is a directory where you would just drop a script

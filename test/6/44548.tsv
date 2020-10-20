@@ -1,0 +1,6 @@
+2009-09-11T16:44:00.000Z	jado		hi, #php is overflowed so i'm asking there, where can i change the configuration of php (in particular the name of the directory in which my website is)
+2009-09-11T16:44:00.000Z	Ademan	jado	it should be in /etc
+2009-09-11T16:46:00.000Z	Ademan	jado	ern8434's solution, without the extra "sudo" :-p
+2009-09-11T16:48:00.000Z	Ademan	jado	just change the part next to DocumentRoot
+2009-09-11T16:48:00.000Z	jado	Ademan	then how can i restart apache?
+2009-09-11T16:49:00.000Z	Ademan	jado	sudo service apache2 restart   i believe

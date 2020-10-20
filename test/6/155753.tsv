@@ -1,0 +1,6 @@
+2005-11-01T11:46:00.000Z	MaTaKs		how can i resume my downloads when it stops, like on windows there's getright
+2005-11-01T11:47:00.000Z	MaTaKs		how can i resume my downloads when it stops, like on windows there's getright
+2005-11-01T11:47:00.000Z	apokryphos	MaTaKs	wget -c http://someurl.com/file.txt
+2005-11-06T09:49:00.000Z	apokryphos	MaTaKs	fairly ugly, but it's a reasonable alternative
+2005-11-06T09:49:00.000Z	apokryphos	MaTaKs	it is of course worth trying out, though
+2005-11-07T15:13:00.000Z	apokryphos	MaTaKs	with k3b

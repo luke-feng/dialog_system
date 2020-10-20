@@ -1,0 +1,6 @@
+2009-09-06T06:42:00.000Z	exco		is it possible to install ubuntu from within ubuntu (as alternate OS)?
+2009-09-06T06:43:00.000Z	exco		no, I can't use a virtual machine ... some of my hardware isn't supported in Jaunty and I want to check if it gets better with Karmic
+2009-09-06T06:44:00.000Z	exco		is a umpc and I have no USB CD at hand ;-)
+2009-09-06T06:44:00.000Z	exco		well I'll put it on a USB stick then and go from there
+2009-09-06T06:45:00.000Z	exco		just wanted to know if it was possible to install Ubuntu from Ubuntu ;-)
+2009-09-06T06:45:00.000Z	Hawaiian_Eskimo	exco	you can't do that, you'll break the linux and it will never work again for anyone :)

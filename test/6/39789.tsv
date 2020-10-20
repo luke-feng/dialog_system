@@ -1,0 +1,6 @@
+2009-03-29T12:30:00.000Z	illumin8	Sapta	that depends on the size of your drive
+2009-03-29T12:31:00.000Z	illumin8	Sapta	basiclly if you have a 100gb hard drive it would be 2xyourram = swap, /=10-15gb, and /home=rest of drive.
+2009-03-29T12:33:00.000Z	illumin8	Sapta	how much total space are you using for linux
+2009-03-29T12:34:00.000Z	Sapta	illumin8	Tha's what I'm trying to figure out. i want an optimum space so i don't run low on space, yet keep most partition to windows for entertainment
+2009-03-29T12:34:00.000Z	illumin8	Sapta	Right then, basicly home is like your C drive in windows
+2009-03-29T12:36:00.000Z	illumin8	Sapta	if you have 2gb of ram you will want 4gb swap, 15gb for / (which holds most of your data and system related files) and /home set to how every much storage space you want for personal use.

@@ -1,0 +1,6 @@
+2010-10-14T20:06:00.000Z	drew212_		but ssh myname@myhomeserver works
+2010-10-14T20:07:00.000Z	drew212_		rather than type ssh user@myhomeserver
+2010-10-14T20:09:00.000Z	BluesKaj	drew212_	open /etc/hosts.allow , type portmap below the last line , then list tghe IPs on your lan like this  ALL:192.168.x.x . Some say the list can work ALL:192.168.1.12/23 as an example of a series of included IPs ,but I prefer to list the exact IPs
+2010-10-14T20:12:00.000Z	drew212_	BluesKaj	do i do this on the computer im SSHing to or from?
+2010-10-14T20:22:00.000Z	BluesKaj	drew212_	both , if they're linux
+2010-10-14T20:28:00.000Z	BluesKaj	drew212_	this is what my /etc/hosts allow looks like on all 3 linuxboxes (there are 5 pcs) 1 windows and 1 mac,   http://pastebin.com/ak0z7DC1

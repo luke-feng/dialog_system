@@ -1,0 +1,6 @@
+2009-03-18T07:46:00.000Z	Eric_Weatherby		is there a waiting list here, or can I jump right in with my problem?
+2009-03-18T07:48:00.000Z	Eric_Weatherby		when attempting to install either Ubuntu or Kubuntu, the installer freezes if I select anything other than "boot from first hard drive". Xubuntu works fine
+2009-03-18T07:48:00.000Z	Eric_Weatherby		this is on a computer only a few years old with a 2.8GHz processor and 3MB of RAM
+2009-03-18T07:49:00.000Z	Eric_Weatherby		sorry, 3GB
+2009-03-18T07:49:00.000Z	Flannel	Eric_Weatherby	Sounds like a bad burn, if even "verify integrity" fails
+2009-03-18T07:54:00.000Z	Flannel	Eric_Weatherby	Do these CDs check out on another computer? (Do you have another computer that they can be verified on?)

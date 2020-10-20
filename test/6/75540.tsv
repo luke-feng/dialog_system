@@ -1,0 +1,6 @@
+2009-04-26T22:49:00.000Z	nohup_		is it advisable to go back to 8.something and try upgrading to 9.x in a few months?
+2009-04-26T22:49:00.000Z	nohup_		or might it be a bug?
+2009-04-26T22:49:00.000Z	nohup_		nothing is known about ubuntu 9.4's gfx being really slow on an aspire one ? (way slower than 8.x was)
+2009-04-26T22:50:00.000Z	nohup_		never mind... i'll downgrade to 8.4 again
+2009-04-26T22:50:00.000Z	nohup_		thanks anyways
+2009-04-26T22:51:00.000Z	wirechief	nohup_	what gfx card lspci -v |grep VGA

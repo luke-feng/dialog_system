@@ -1,0 +1,6 @@
+2009-07-04T15:45:00.000Z	moho		hey i'm trying to install java but i cant figure out how to run the .bin file, can someone help please?
+2009-07-04T15:45:00.000Z	moho		ahhh thanks monday
+2009-07-04T15:45:00.000Z	moho		cunt
+2009-07-04T15:45:00.000Z	deany	moho	sudo apt-get install sun-java6-jre
+2009-07-04T15:49:00.000Z	deany	moho	do you have multiverse enabled? what ubuntu version you using?
+2009-07-04T15:51:00.000Z	deany	moho	it should be enabled by default, always is for my jaunty installs.  sudo apt-get update && sudo apt-get install sun-java6-jre

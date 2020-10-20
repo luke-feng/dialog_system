@@ -1,0 +1,6 @@
+2006-08-08T10:32:00.000Z	fishy		Anyone know how to take screenshots?
+2006-08-08T10:32:00.000Z	cafuego	fishy	Applications > Accessories > Take SCreenshot
+2006-08-08T10:35:00.000Z	fishy	cafuego	Via the terminal?
+2006-08-08T10:35:00.000Z	cafuego	fishy	'sudo apt-get install imagemagick', then 'import -window root screenshot.png'
+2006-08-08T10:35:00.000Z	fishy	cafuego	Is there a way to delay screenshots?
+2006-08-08T10:36:00.000Z	cafuego	fishy	'sudo apt-get install imagemagick', then 'sleep <number of seconds>; import -window root screenshot.png'

@@ -1,0 +1,6 @@
+2008-04-30T22:53:00.000Z	bigtimer121		 "An automatic file system check (fsck) of the root filesystem failed. A manuel fsck must be performed then the system should be restarted. The fsck should be performed in maintenance mode with the root filesystem mounted in read-only mode. i have now idea what this means. it was caused by a "routine check of drives /dev/sda1" can anyone help me???
+2008-04-30T22:54:00.000Z	weaseal	bigtimer121	something very bad happened to your disk and now you have to manually run fsck
+2008-04-30T22:55:00.000Z	bigtimer121	weaseal	how do i do that manually, or should i just reinstall ubuntu on my comp
+2008-04-30T22:56:00.000Z	weaseal	bigtimer121	i dunno how to do it manually on linux...i haven't had that problem yet in linux. try googling for the terms 'manual fsck ubuntu'
+2008-04-30T22:57:00.000Z	weaseal	bigtimer121	that error is typically caused by either a bad disk, or you shut the computer down when it was busy, perhaps your power went out, etc
+2008-04-30T23:04:00.000Z	weaseal	bigtimer121	http://ubuntuforums.org/showthread.php?t=618873

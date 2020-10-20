@@ -1,0 +1,6 @@
+2010-05-04T18:07:00.000Z	fdrake	omac	unmount is a per-filesystem operation, and safely-remove is a per-device operation (possibly multiple mounted filesystems).
+2010-05-04T18:09:00.000Z	omac	fdrake	 Then it should say that instead:  "unmount this filesystem only"  and "unmount all filesystems on this drive".
+2010-05-04T18:10:00.000Z	fdrake	omac	Perhaps, though that doesn't address the device-disconnection aspect of safely-remove.
+2010-05-04T18:11:00.000Z	omac	fdrake	 yeah, I'm a terminal user too, I just use mount, sync, sync and umount too.
+2010-05-04T18:21:00.000Z	omac	fdrake	 hcitool scan, and then place something like in your .bashrc/.profile:  hidd --connect deviceaddrForkeyboard1;hidd --connect deviceaddrForkeyboard2;
+2010-05-04T18:22:00.000Z	fdrake	omac	Thanks!  I'll try that.

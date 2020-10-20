@@ -1,0 +1,6 @@
+2010-02-12T15:49:00.000Z	DhavalMake		how to stop bluetooth on startuo in ubuntu 9.10
+2010-02-12T15:51:00.000Z	DhavalMake		can anybody know how to stop bluetooth on startup in ubuntu 9.10
+2010-02-12T15:52:00.000Z	llutz	DhavalMake	sudo update-rc.d -f bluetooth remove
+2010-02-12T15:53:00.000Z	DhavalMake	llutz	thanks
+2010-02-12T15:53:00.000Z	llutz		!grub | schmrz
+2010-02-12T15:53:00.000Z	DhavalMake	llutz	i'm try

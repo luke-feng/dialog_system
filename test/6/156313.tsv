@@ -1,0 +1,6 @@
+2005-04-09T16:35:00.000Z	kbrooks		how can I get distutils
+2005-04-09T16:37:00.000Z	grogoreo	kbrooks	what?
+2005-07-14T10:35:00.000Z	kbrooks	grogoreo	i would never ever try a rpm
+2006-07-09T06:56:00.000Z	kbrooks	grogoreo	for laarge amounts of RAM (> 1GB), it isn't really necessary, but you do need it for virtual machines that take a lot of RAM
+2006-07-09T06:57:00.000Z	grogoreo	kbrooks	well I do have 1GB RAM
+2006-07-09T06:57:00.000Z	kbrooks	grogoreo	I said >

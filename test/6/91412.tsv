@@ -1,0 +1,6 @@
+2007-12-12T03:25:00.000Z	bill_	speps	if you have FollowSymLinks on in apache
+2007-12-12T03:27:00.000Z	speps	bill_	i have Option FollowSymLinks in configuration file...but i cannot still view it trough localhost!!!
+2007-12-12T03:28:00.000Z	speps	bill_	i cannot see any dir
+2007-12-12T03:28:00.000Z	bill_	speps	error log?
+2007-12-12T03:29:00.000Z	speps	bill_	what does it means?Options Indexes FollowSymLinks MultiViews
+2007-12-12T03:29:00.000Z	bill_	speps	"cannot see" does not mean anything... do you mean 404 on that directory?

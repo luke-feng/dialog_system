@@ -1,0 +1,6 @@
+2008-04-03T20:12:00.000Z	rrittenhouse		Does anybody know if the Intel 3100 integrated graphics card works with hardy with compiz
+2008-04-03T20:12:00.000Z	magnetron	rrittenhouse	no, not with video support
+2008-04-03T20:14:00.000Z	rrittenhouse	magnetron	Do you know if there are plans of compiz working with it? If not does the video at least work? :-D i want to get one
+2008-04-03T20:14:00.000Z	rrittenhouse		well its a dell m1330
+2008-04-03T20:15:00.000Z	magnetron	rrittenhouse	the drivers for that intel card are not ready yet. either you run compiz, or you run video in 2D
+2008-04-03T20:15:00.000Z	rrittenhouse	magnetron	well at lest regular video works :P

@@ -1,0 +1,6 @@
+2006-10-28T12:20:00.000Z	peter77		how do I control my display brightness in edgy?
+2006-10-28T12:20:00.000Z	peter77		I'm using a sony vaio pcg-fr215s notebook
+2006-10-28T12:21:00.000Z	pike_	peter77	xgamma command
+2007-05-01T15:09:00.000Z	pike_	peter77	there are websites that will help you create the file. player cant just point to an iso and boot though like server or workstation
+2007-12-07T01:03:00.000Z	pike_	peter77	whats the issue?
+2007-12-07T01:04:00.000Z	peter77	pike_	I'm running Ubuntu/windows on a Toshiba Satellite Pro A120 Laptop computer, when I plug my headphones into the jack on the front whilst running linux the speakers do not mute but when I plug the headphones in whilst running windows the speakers DO mute, therefore I beleive this is an issue with alsa and am wondering if there is a fix available?

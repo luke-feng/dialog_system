@@ -1,0 +1,6 @@
+2006-12-09T08:52:00.000Z	JJones0207		Im trying to install xubuntu it loads up then i click start or install xubuntu it uncompresses linux then while its making the root file system its a error or something on the harddisk I/O errir ib devuce gdc
+2006-12-09T08:52:00.000Z	JJones0207		hdc*
+2006-12-09T08:53:00.000Z	psusi	JJones0207	do the disk test boot option... sounds like you have a bad disk
+2006-12-09T08:54:00.000Z	psusi	JJones0207	no... the cd... you are booting from a cd right?
+2006-12-09T08:59:00.000Z	psusi	JJones0207	no... hdc is probably your cdrom drive.... so your cd is bad
+2006-12-09T08:59:00.000Z	psusi	JJones0207	choose the disk test option when booting it

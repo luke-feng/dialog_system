@@ -1,0 +1,6 @@
+2009-07-21T07:42:00.000Z	ctmjr	urthmover	you auto hide your panel and still see a little bit of it is that what your trying to fix?
+2009-07-21T07:43:00.000Z	urthmover	ctmjr	yes I want to see as little as possible  and at some point I think I did it down to 1 pixel somewhere in gconf-editor
+2009-07-21T07:47:00.000Z	ctmjr	urthmover	ok gconf-editor /apps / panel/ toplevel /top_panel_sreen0 for top panel set it to auto hide and uncheck animations then set auto hide size to what you like mine is -5
+2009-07-21T07:47:00.000Z	urthmover	ctmjr	thanks trying that now
+2009-07-21T07:47:00.000Z	urthmover	ctmjr	I guess there will be something similar for bottom_panel as well
+2009-07-21T07:48:00.000Z	ctmjr	urthmover	yes you can also change the hide unhide time

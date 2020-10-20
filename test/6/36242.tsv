@@ -1,0 +1,6 @@
+2009-06-10T02:07:00.000Z	nellmathew		is there a way to automatically add all of shoutcasts radio stations to banshee?
+2009-06-10T02:08:00.000Z	cabrey	nellmathew	is it rss?
+2009-06-10T02:09:00.000Z	nellmathew	cabrey	i don't think so - i want to make banshee like songbird w/ the shoutcast section (it automatically lists all of shoutcasts stations).. from what i understand they don't have a rss feed though
+2009-06-10T02:10:00.000Z	cabrey	nellmathew	hmm i use banshee but i havent heard of shoutcast. maybe someone wrote a plugin?
+2009-06-10T02:16:00.000Z	cabrey	nellmathew	install git-core & use the terminal
+2009-06-23T05:05:00.000Z	cabrey	nellmathew	no git is a software versioning sysem

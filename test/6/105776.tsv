@@ -1,0 +1,6 @@
+2006-09-30T15:14:00.000Z	woekele		tnx yoshiznit123
+2006-09-30T08:02:00.000Z	woekele		hiya, my console in Edgy gives me "out of range" on my monitor. X works fine. I tried setting vga= to all supported values (0f00 - 0f07) and it didnt fix it. Im on a LCD monitor which supports 75Hz refresh at max. I guess the refresh of the console is set too high? How to fix?
+2006-09-30T08:03:00.000Z	variant	woekele	ask in #ubuntu+1
+2006-09-30T08:14:00.000Z	woekele	variant	you dont have any idea about my question? Noone is responding in ubuntu + 1. And I dont think its edgy specific :o
+2006-09-30T08:14:00.000Z	variant	woekele	what was it?
+2006-09-30T08:15:00.000Z	woekele	variant	it was about the refreshrate of the console

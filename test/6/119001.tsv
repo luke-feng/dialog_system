@@ -1,0 +1,6 @@
+2007-05-04T16:31:00.000Z	philipsmith		have a small home network that includes 2 Ubuntu machines on it, that I'll call "A" and "B". I want to "log into" "B" from "A" and when I do that I want to control all of the functions that "B" can do from "A." When I use terminal server, I put the IP address in the computer box, use VNC, and the put the username in the user name box. It doesn't work. What shoud I do?
+2007-05-04T16:32:00.000Z	synjet	philipsmith	by default, I guess logging in from other comp is disabled..
+2007-05-04T16:33:00.000Z	philipsmith	synjet	How do I change that?
+2007-05-04T16:33:00.000Z	synjet	philipsmith	goto system-->admin-->login-window, and then remote tab.. enable remote login
+2007-05-04T16:33:00.000Z	philipsmith	synjet	ok, i'll try.
+2007-05-04T16:39:00.000Z	philipsmith	synjet	Didn't work. There were alot of choices to the enable remote login

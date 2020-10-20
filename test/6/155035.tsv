@@ -1,0 +1,6 @@
+2005-04-18T05:04:00.000Z	Sauron21		Hi....I was wondering if anyone could tell me what IN BLOODY HELL IS.......sry about that.....its just that I have just installed ubuntu and I seem to have a slight problem.....I dont know the root password....that I didnt give the computer in the first place.....
+2005-04-18T05:05:00.000Z	Sauron21		could anyone help me out here?
+2005-04-18T05:05:00.000Z	Sauron21		:'(
+2005-04-18T05:05:00.000Z	Sauron21		...there isent?
+2005-04-18T05:05:00.000Z	hyphenated	Sauron21	there isn't one. you use 'sudo' instead of logging in or using 'su -' to get root
+2005-04-18T05:07:00.000Z	hyphenated	Sauron21	instead of doing 'su -' to get a root shell and then running a bunch of commands, you prefix any commands that require root privileges with 'sudo'

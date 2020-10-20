@@ -1,0 +1,6 @@
+2005-11-26T08:42:00.000Z	mastertet		Hi, I have a centrino laptop under Breezy. I can see that my cpu is at 600 MhZ most of the time. Is there a way to force it to be 1400 MhZ whenever I want (for example, when I'm on ac adapter)? I see nothing about this in the cpufreq applet
+2005-11-26T08:42:00.000Z	Archite	mastertet	it's based on cpu load
+2005-11-26T08:45:00.000Z	Archite	mastertet	I'm not sure for you. I have an amd processor so I use powernowd. If I turn that off, I run at full speed. But that is most undesirable.
+2005-11-26T08:46:00.000Z	mastertet	Archite	thank you, I think it is desirable if you don't rely on battery
+2005-11-26T08:47:00.000Z	Archite	mastertet	anyways, killing powernowd should do the trick, or you can install cpufreqd
+2005-11-26T08:47:00.000Z	Archite	mastertet	trying rmmod cpufreq_userspace

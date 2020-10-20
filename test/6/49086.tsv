@@ -1,0 +1,6 @@
+2008-10-27T00:19:00.000Z	gandazgul		FAJL look into modprobe
+2008-10-27T00:19:00.000Z	FAJ	gandazgul	how so?
+2008-10-27T00:19:00.000Z	FAJ		or should i just remove the driver from ndiswrapper?
+2008-10-27T00:19:00.000Z	gandazgul	FAJ	man modprobe?
+2008-10-27T00:20:00.000Z	gandazgul	FAJ	uninstalling ndiswrapper is a good idea
+2008-10-27T00:20:00.000Z	FAJ	gandazgul	 should i just remove the windows driver to the card?  would that work

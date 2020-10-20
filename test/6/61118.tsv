@@ -1,0 +1,6 @@
+2010-04-14T20:44:00.000Z	phill_		anyone heard of software centre closing immed after startup?
+2010-04-14T20:45:00.000Z	geekphreak	phill_	trying to install softwares?
+2010-04-14T20:46:00.000Z	geekphreak	phill_	 try this >> press alt+f2 , type gksu synaptic, , does it close too?
+2010-04-14T20:51:00.000Z	geekphreak	phill_	when you paste the error to that site, it gives you a link, paste that link here plz
+2010-04-14T20:58:00.000Z	geekphreak	phill_	 you heard him , open terminal plz, then run run sudo apt-get update
+2010-04-14T21:01:00.000Z	geekphreak	phill_	 awesome :)

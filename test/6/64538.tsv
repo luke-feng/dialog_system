@@ -1,0 +1,6 @@
+2008-03-30T21:01:00.000Z	Arsenal		Hello anyone a good tutorial to configure pppoe.i try with pppo-setup and pppoeconf but no success
+2008-03-30T21:02:00.000Z	algyz	Arsenal	 what sudo pppoeconf told?
+2008-03-30T21:03:00.000Z	Arsenal	algyz	all setup via pppoeconf work ok but after i can`t connect to net
+2008-03-30T21:03:00.000Z	algyz	Arsenal	 did you try pon dsl-provider?
+2008-03-30T21:04:00.000Z	Arsenal	algyz	i got IP on ppp0 BUT no internet, and on windoze it is all ok
+2008-03-30T21:04:00.000Z	Arsenal	algyz	let me try , i need to reboot on ubuntu.

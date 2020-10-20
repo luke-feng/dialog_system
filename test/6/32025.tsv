@@ -1,0 +1,6 @@
+2011-12-05T05:39:00.000Z	sina2		hi, how can i block websites in ubuntu?
+2011-12-05T05:41:00.000Z	sina2		let me to explain
+2011-12-05T05:42:00.000Z	sina2		i see in web, sudo gedit /etc/hosts and then adding 127.0.0.1 facebook.com and like these
+2011-12-05T05:42:00.000Z	sina2		but i live in iran and i use proxy like tor or freedom
+2011-12-05T05:43:00.000Z	sina2		when i use proxy it doesn't work?
+2011-12-05T05:43:00.000Z	Sidewinder1	sina2	And it should be gksudo gedit; not sudo for GUI app.s.

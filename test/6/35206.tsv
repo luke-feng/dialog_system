@@ -1,0 +1,6 @@
+2010-01-09T19:03:00.000Z	mazda01		 you're doing this?
+2010-01-09T19:04:00.000Z	mazda01		using karmic koala on a 32" tv with nvidia s-video. can barely read text. if i change he resolution to 800x600, then windows open so large they are he screen, shouldn't widows opn only as big as the resolution is set to?
+2010-01-09T19:04:00.000Z	bizarrefish	mazda01	text will be an issue with s-video. try a smaller resolution/lower/higher dpi
+2010-01-09T19:05:00.000Z	mazda01	bizarrefish	i know but when i try 800x600, windows open larger then screen, so they are off screen. shouldn't they open only as large as res is set to?
+2010-01-09T19:07:00.000Z	bizarrefish	mazda01	i suppose it depends on the application. some apps enforce a size. some don't. in some cases, you just cant have a window shrunk to a requested size because the buttons/boxes pad it out too much.
+2010-01-09T19:09:00.000Z	mazda01	bizarrefish	yeah, im finding that out. i opened appearance and then fonts settings, and te box was so big i couldn't hit appy at bottom. that's just stupid. do you knw how to zoom in with the mouse scroll wheel? i know I can hit ctrl++ in web browser to zoom, but what abou like now, in xchat?

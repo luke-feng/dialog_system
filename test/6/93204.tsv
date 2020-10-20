@@ -1,0 +1,6 @@
+2007-02-25T14:01:00.000Z	Gaz_		help! i've added repositories to synaptic and now it shows E: Malformed line 40 in source list /etc/apt/sources.list (dist parse)
+2007-02-25T14:01:00.000Z	Gaz_		E: Unable to lock the list directory
+2007-02-25T14:01:00.000Z	Gaz_		what do i do?
+2007-02-25T14:01:00.000Z	Flannel	Gaz_	pastebin your sources.list (since it's got an error in it)
+2007-02-25T14:04:00.000Z	Gaz_	Flannel	thanks! it's sorted now :)
+2007-02-25T14:04:00.000Z	Gaz_	Flannel	I deleted the line it mentioned and now it works beautifully :)

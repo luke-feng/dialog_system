@@ -1,0 +1,6 @@
+2009-06-07T10:10:00.000Z	Asagrim		so, by the lack of responses i guess, there is still no solution in ubuntu 9.04 to display the actual folder size in list view for all folders, instead of the number of it's contents ... y/n?
+2009-06-07T10:10:00.000Z	scunizi	Asagrim	have you looked at man ls?
+2009-06-07T10:11:00.000Z	Asagrim	scunizi	what?
+2009-06-07T10:12:00.000Z	scunizi	Asagrim	ls give directory listings.. there are switches to show file and directory sizes.  open a terminal and type " man ls " for docs
+2009-06-07T10:12:00.000Z	Asagrim	scunizi	thanks, i will try
+2009-06-07T10:19:00.000Z	scunizi	Asagrim	ls -lhR <path to beginning directory> --group-directories-first

@@ -1,0 +1,6 @@
+2011-11-21T13:48:00.000Z	brianpWins		How do you view folder permissions. or who owns a particular folder via the CL?
+2011-11-21T13:49:00.000Z	llutz	brianpWins	ls -ld folder
+2011-11-21T14:48:00.000Z	llutz	brianpWins	sudo adduser username admin                 don't edit sudoers directly
+2011-11-21T14:49:00.000Z	brianpWins	llutz	so if the user already exists will that cmd still work
+2011-11-21T14:50:00.000Z	llutz	brianpWins	sure
+2011-11-21T14:55:00.000Z	llutz	brianpWins	that just adds the user to the sudo-user group. he still needs sudo to work with elevated privs

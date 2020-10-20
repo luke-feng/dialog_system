@@ -1,0 +1,6 @@
+2004-11-10T16:25:00.000Z	Rachet		hi i installed Amsn but i dont know wher it is  can some one help me ?
+2004-11-10T16:26:00.000Z	|trey|	Rachet	dpkg -L amsn
+2004-11-10T16:26:00.000Z	Rachet	|trey|	and then ?
+2004-11-10T16:27:00.000Z	|trey|	Rachet	read I guess? I dunno what you're looking for  :(
+2004-11-10T16:27:00.000Z	Rachet	|trey|	i want to launch the program so i can logg in
+2004-11-10T16:28:00.000Z	|trey|	Rachet	then you want whatever it says it has in /usr/bin/

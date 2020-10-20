@@ -1,0 +1,6 @@
+2006-04-06T11:12:00.000Z	ic56	nickrud	we'll get to the chown -- we many not even have to.
+2006-04-06T11:13:00.000Z	nickrud	ic56	odds are uid's don't match. Get it out of the way first.
+2006-05-01T13:07:00.000Z	ic56	nickrud	hda1 is different from hda.  The boot sector of the disk isn't overwritten when you dd of=/dev/hda1
+2006-05-01T13:08:00.000Z	nickrud	ic56	I was thinking that whatever he had on hda1 (usually windows or it's backup) was hosed
+2006-05-01T13:09:00.000Z	nickrud	ic56	if I came in late enough that that was wrong, that's just fine :)
+2006-06-07T11:42:00.000Z	nickrud	ic56	you should ask that on #ubuntu-doc

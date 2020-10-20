@@ -1,0 +1,6 @@
+2010-08-08T02:03:00.000Z	Peter|laptop		I am using wubi to install ubuntu. When it installs ubuntu, ubuntu can not connect to the internet through my wireless connection, the laptop says it is connected though
+2010-08-08T02:04:00.000Z	Peter|laptop		I tried installing ubuntu 2 times
+2010-08-08T02:04:00.000Z	ActionParsnip	Peter|laptop	download the ISO and MD5 test it, then install offline from that
+2010-08-08T02:04:00.000Z	ActionParsnip		!download | Baughn
+2010-08-08T02:04:00.000Z	ActionParsnip		!8.10 | Baughn
+2010-08-08T02:04:00.000Z	Peter|laptop	ActionParsnip	thanks

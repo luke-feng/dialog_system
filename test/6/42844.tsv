@@ -1,0 +1,6 @@
+2009-03-19T05:50:00.000Z	Dreamglider		anyone know it there is a way to add CDFS filesystem to gparted in ubuntu  ?
+2009-03-19T05:51:00.000Z	bernz	Dreamglider	it might be that gparted is designed not to work on CDFS because it's a read-only system
+2009-03-19T05:52:00.000Z	bernz	Dreamglider	are you trying to make an image of the CD, or...?  (you can use 'dd' for that, probably)
+2009-03-19T07:30:00.000Z	bernz	Dreamglider	i think you probably need to "rip" the CDFS as an ISO or similar format, then copy that file to the USB flash ... not sure if it's possible to transfer the CDFS directly, as it's a weird format, unlike most PC disk formsts
+2009-03-20T04:41:00.000Z	bernz	Dreamglider	your old faithful there kind illustrates how little of significance has changed in computing technology in 9 years, eh?  :-D
+2009-03-20T04:43:00.000Z	Dreamglider	bernz	indeed :P (It has no cooling fan, no cd drive, no screen(Broke off) and usb1.0 ! ) but it runs

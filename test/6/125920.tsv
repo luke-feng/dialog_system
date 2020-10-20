@@ -1,0 +1,6 @@
+2007-04-07T08:31:00.000Z	LjL	kat	you cannot send private messages unless you are registered. check your status window and you'll see they've been refused.
+2007-04-07T08:32:00.000Z	LjL	kat	why not just register? it takes one command, IIRC
+2008-10-26T17:33:00.000Z	LjL	kat	"apt-cache search cpufreq" will show a few packages, but i think it depends on the processor whether these will be effective or not
+2008-10-26T17:35:00.000Z	kat	LjL	what does that do?
+2008-10-26T17:38:00.000Z	LjL	kat	that searches for packages whose names or descriptions contain the word "cpufreq", and lists them.
+2008-10-26T17:39:00.000Z	kat	LjL	 oh thanks a lot :)

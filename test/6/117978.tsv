@@ -1,0 +1,6 @@
+2007-02-03T13:11:00.000Z	pos69sum		hi
+2007-02-03T13:12:00.000Z	pos69sum		i had downloaded some torrents, and i rebooted - now when i reboot the torrent files are not there, and neither are the files i downloaded
+2007-02-03T13:12:00.000Z	pos69sum		any idea what happened?
+2007-02-03T13:12:00.000Z	pos69sum		i'm on linux, how can i have a virus?
+2007-02-03T13:12:00.000Z	pos69sum		i did a locate, couldn't find the torrents
+2007-02-03T13:13:00.000Z	grte	pos69sum	did you do sudo updatedb before doing locate?

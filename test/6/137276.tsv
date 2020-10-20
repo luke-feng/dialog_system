@@ -1,0 +1,6 @@
+2008-05-19T21:57:00.000Z	fwaokda		im trying to create a new partition on free space I have can someone help me?
+2008-05-19T21:59:00.000Z	fwaokda		can i use this setup for partitioning free space to install my ubuntu?:   Type for the new partition: Primary;  Location for the new partition: Beginning;  Use as: Ext3 journaling file system;  Mount point:  /home    ???
+2008-05-19T22:01:00.000Z	fwaokda		Can someone plz help me with partitioning during my ubuntu 8.04 installation :(  ???
+2008-05-19T22:02:00.000Z	fwaokda		:(
+2008-05-19T22:03:00.000Z	sipior	fwaokda	you'll need at least two partitions. one for the root filesystem, the other for swap
+2008-05-19T22:03:00.000Z	sipior	fwaokda	i like to add another for /home, maybe one more for /boot, depending

@@ -1,0 +1,6 @@
+2008-10-07T01:10:00.000Z	atjepatatje		i got a strange problem, i installed several installs of linux, each time my network card is recognized, but it doesnt work
+2008-10-07T01:10:00.000Z	atjepatatje		who can help me?
+2008-10-07T01:10:00.000Z	willluongo	atjepatatje	Are you dhcp?
+2008-10-07T01:11:00.000Z	willluongo	atjepatatje	using DHCP rather
+2008-10-07T01:11:00.000Z	willluongo	atjepatatje	Can you ping domains or IPs outside of your entwork/
+2008-10-07T01:13:00.000Z	willluongo	atjepatatje	What does ifconfig -a say?

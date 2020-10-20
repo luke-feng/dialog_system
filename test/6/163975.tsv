@@ -1,0 +1,6 @@
+2005-01-16T13:18:00.000Z	brk3		or should it just stop it straight away
+2005-01-16T13:20:00.000Z	brk3		sigh.. right so
+2005-01-16T13:20:00.000Z	leonel	brk3	/etc/init.d/gdm stop
+2005-01-16T13:21:00.000Z	leonel	brk3	update-rc.d -f gdm remove
+2005-01-16T13:21:00.000Z	leonel	brk3	/etc/init.d/gdm stop
+2005-01-16T13:21:00.000Z	leonel	brk3	update-rc.d -f gdm remove

@@ -1,0 +1,6 @@
+2009-12-23T17:39:00.000Z	drssth1		Has anyone installed ATI graphic driver on karmic? My problem is: I cannot generate deb files from "ati-driver-installer-9-3-x86.x86_64.run". I can generate 7 files from "ati-driver-installer-9-12-x86.x86_64.run", but those deb files did not act like a ati driver($ aticonfig  =>  aticonfig: No supported adapters detected). if I run the 9-3 version, I always get the error like this:
+2009-12-23T17:39:00.000Z	drssth1		Error: ./default_policy.sh does not support version
+2009-12-23T17:39:00.000Z	drssth1		default:v2:i686:lib::none:2.6.33-020633rc1-generic; make sure that the version is being
+2009-12-23T17:39:00.000Z	drssth1		correctly set by --iscurrentdistro
+2009-12-23T17:39:00.000Z	FloodBot3	drssth1	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.
+2009-12-23T18:02:00.000Z	FloodBot3	drssth1	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

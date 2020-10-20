@@ -1,0 +1,6 @@
+2007-02-14T07:43:00.000Z	zeeeeeee		help - i was running update-manager to upgrade from 6.06 to 6.10, but it had tons of errors for some reason (ubuntu had otherwise been running smoothly). i decided to try again by rebooting, but now my system's completely hosed - i can't start gnome, i barely figured out how to get wifi working from the cli, and i can't even start vi because of missing shared libs.
+2007-02-14T07:43:00.000Z	zeeeeeee		any hope of rescuing my laptop from this situation?
+2007-02-14T07:43:00.000Z	calvarez	zeeeeeee	yes, fresh install
+2007-02-14T07:44:00.000Z	zeeeeeee	calvarez	really? that's it?
+2007-02-14T07:44:00.000Z	calvarez	zeeeeeee	hmm, if you want a very reliable installation, yes
+2007-02-14T07:44:00.000Z	calvarez	zeeeeeee	if you could fix it reliably, you wouldn't be asking how to do it, so I strongly recommend a fresh install

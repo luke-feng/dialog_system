@@ -1,0 +1,6 @@
+2006-07-12T05:40:00.000Z	K^Holtz		OK, i need a lot of help now.. can anyone take some time out to help me get a graphical interface working again?
+2006-07-12T05:41:00.000Z	roshan_s	K^Holtz	What is the problem like?
+2006-07-12T05:42:00.000Z	K^Holtz	roshan_s	i ran the command md5sum /etc/X11/xorg.conf | sudo tee /var/lib/x11/xorg.conf.md5sum then did sudo nvidia-glx-config enable .. then restarted X but X will not load up again
+2006-07-12T05:44:00.000Z	roshan_s	K^Holtz	Which gfx card do you have?
+2006-07-12T05:44:00.000Z	K^Holtz	roshan_s	its a nvidia TNT2 so its a nvidia-glx-legacy card
+2006-07-12T05:48:00.000Z	roshan_s	K^Holtz	[Tkb] FIRESIDE: How would you recommend doing a dpkg-reconfigure xserver-xorg and selecting the nvidia driver?

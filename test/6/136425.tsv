@@ -1,0 +1,6 @@
+2005-12-24T07:04:00.000Z	rbrtoclto		hi
+2005-12-24T07:06:00.000Z	rbrtoclto		I'm sure you get this question all the time.. I've installed breezy, fire up rhythmbox, import an MP3, but it won't play "not a stream".. apparently I need gstreamer-mad plugin, but apt-cache search can't find it?
+2005-12-24T07:06:00.000Z	rbrtoclto		I've had gentoo installed previously so I more or less know what I'm doing, just not used to the ubuntu/debian way of doing things
+2005-12-24T07:07:00.000Z	rbrtoclto		do I need to set some kind of non-gpl-purist repository?
+2005-12-24T07:07:00.000Z	_jason	rbrtoclto	https://wiki.ubuntu.com/AddingRepositoriesHowto?highlight=%28repos%29
+2005-12-24T07:20:00.000Z	_jason	rbrtoclto	apt-cache policy packagename

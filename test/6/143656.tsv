@@ -1,0 +1,6 @@
+2006-03-14T06:56:00.000Z	dollar		I dont have gcc
+2006-03-14T06:58:00.000Z	dollar		I dont have aything to compile my files with
+2006-03-14T06:58:00.000Z	dollar		I got gcc
+2006-03-14T06:58:00.000Z	dollar		what else should I get/?? for make, and other stuff
+2006-03-14T06:58:00.000Z	bimberi	dollar	build-essential
+2006-03-25T16:47:00.000Z	bimberi	dollar	to keep up to date - 'sudo aptitude update'  then  'sudo aptitude dist-upgrade'

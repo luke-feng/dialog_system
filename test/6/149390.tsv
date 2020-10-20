@@ -1,0 +1,6 @@
+2006-07-15T15:55:00.000Z	Desh		For an 80gig drive, how much should the swap be?
+2006-07-15T15:55:00.000Z	Desh		1024mb
+2006-07-15T15:55:00.000Z	Desh		Ah, :(, Ubuntu made my swap 2.89GB
+2006-07-15T15:56:00.000Z	Desh		Swap is like the diskspace left for the OS to use when RAM is running low, no?
+2006-07-15T15:56:00.000Z	Desh		How do I use gparted to resize my partitions?
+2006-07-15T15:56:00.000Z	IIIEars	Desh	 Give a google foe linux "swappiness" for some nice tips and info.

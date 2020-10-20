@@ -1,0 +1,6 @@
+2012-05-18T18:15:00.000Z	klaus_	jrib	trying with ip was also not successful at boot
+2012-05-18T18:17:00.000Z	jrib	klaus_	don't know then
+2012-05-18T18:19:00.000Z	klaus_	jrib	I'm just installing nfs on my server. Maybe it works. Meanwhile: What are the advantages of nfs to sshfs? And what about the authentification?
+2012-05-18T18:20:00.000Z	jrib	klaus_	don't know much about that.  One major difference is that ssh is encrypted
+2012-05-18T18:22:00.000Z	klaus_	jrib	well but thats an advantage for sshfs i think, though i don't need it cause it's only my private network.
+2012-05-18T18:22:00.000Z	jrib	klaus_	yes

@@ -1,0 +1,6 @@
+2011-07-20T23:59:00.000Z	dli	rannmann	one n00b's way, remove the nano package
+2011-07-20T23:59:00.000Z	rannmann	dli	I don't have sudo/root.
+2011-07-21T00:00:00.000Z	dli	rannmann	do this: put EDITOR=vim in your profile (~/.bash_profile ~/.bashrc, etc.
+2011-07-21T00:01:00.000Z	rannmann	dli	Tried that, too.  No luck.
+2011-07-21T00:01:00.000Z	dli	rannmann	try: EDITOR=vim crontab
+2011-07-21T00:03:00.000Z	rannmann	dli	Now it froze when I tried to log in.  I'm locked out :(

@@ -1,0 +1,6 @@
+2005-05-10T05:55:00.000Z	tonquin		hi everyone, hey my sound is limping but will play waves. won't record.  skype hangs etc etc.   i've got a lame onboard via 8233 sound chip  (works with Mepis)  any hints on how to get skype working with this?
+2005-05-10T05:56:00.000Z	Kamping_Kaiser	tonquin	i dont remember hte fix off the top of my head. check the site :O
+2005-05-10T05:56:00.000Z	Kamping_Kaiser		yes
+2005-05-10T05:57:00.000Z	Kamping_Kaiser		sm4sh install gstreamer... i think thats what you need
+2005-05-10T05:57:00.000Z	Kamping_Kaiser		airways, add "universe" onto the lines like the one i showed you
+2005-05-10T05:58:00.000Z	tonquin	Kamping_Kaiser	 anywhere in particular..i have looked in the past ...didn't see an obvious reference.

@@ -1,0 +1,6 @@
+2009-11-09T10:19:00.000Z	Jordan_U	Valentina	ssh client is, not server ( in Desktop )
+2009-11-09T10:20:00.000Z	Valentina	Jordan_U	No? Not in Ubuntu Server 9.10? I gave installed the ssh server but I can see by aptitude show that ssh isn't installed.
+2009-11-09T10:21:00.000Z	Valentina	Jordan_U	I have (not gave) installed server 9.10 and I couldn't find ssh by aotitude show command.
+2009-11-09T10:21:00.000Z	Jordan_U	Valentina	"ssh" is just a metapackage that depends on openssh-server and openssh-client
+2009-11-09T10:22:00.000Z	Valentina	Jordan_U	Aha, ok.
+2009-11-09T10:24:00.000Z	Valentina	Jordan_U	Yeah, you're right, the openssh-client and openssh-server are installed on my system. I have only installed openssh-server so I think that openssh-client was defautl then.

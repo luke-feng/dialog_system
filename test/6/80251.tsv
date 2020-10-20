@@ -1,0 +1,6 @@
+2007-10-08T10:39:00.000Z	Cristobal		Hi! If someone can help me I have a question: Can I install UBUNTU on an external HD (on USB port) from a computer, and then put that HD with Ubuntu as main (internal) HD of another computer?   - if yes, how?
+2007-10-08T10:40:00.000Z	Cristobal		hi guys! I've a questionm should I post it here?
+2007-10-08T10:41:00.000Z	cdm10	Cristobal	If it's about Ubuntu.
+2007-10-08T10:42:00.000Z	cdm10	Cristobal	You probably could, but the Ubuntu probably won't be configured properly for the other computer.
+2007-10-08T10:43:00.000Z	cdm10	Cristobal	It lets you run other operating systems within your operating system.
+2007-10-08T10:44:00.000Z	cdm10	Cristobal	So, if you want to run Windows within Ubuntu, you can have it running in a window. I don't use VMware, I use something else.

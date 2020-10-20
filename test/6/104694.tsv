@@ -1,0 +1,6 @@
+2007-01-17T08:51:00.000Z	incorrect		im trying to install sun-java5 on dapper, but i can't figure out why its not in my pkg list
+2007-01-17T08:52:00.000Z	incorrect		!java
+2007-01-17T08:53:00.000Z	bulmer	incorrect	perhaps dapper was made before Sun made java a gpl 2 available
+2007-01-19T07:39:00.000Z	bulmer	incorrect	there is whats called fcl  an access control list.. ihave not used it myself yet
+2007-01-19T07:40:00.000Z	bulmer	incorrect	try the command  getfcl
+2007-06-14T08:20:00.000Z	bulmer	incorrect	what do you like to edit on mysql?

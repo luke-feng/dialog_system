@@ -1,0 +1,6 @@
+2009-10-16T13:54:00.000Z	Bacta		Hi I'm trying to get my wireless connection to work, I
+2009-10-16T13:55:00.000Z	Bacta		*I'm using http://ubuntuforums.org/showthread.php?t=571188
+2009-10-16T13:55:00.000Z	Bacta		It asks me to do this: sudo iwconfig <interface> key HEX_KEY <<<-------- If using ASCII Equivalent, this is s:ASCII_KEY (please make note of the prefix s:) , what does it mean?
+2009-10-16T13:55:00.000Z	Envy	Bacta	in the top bar theres the network config
+2009-10-16T13:56:00.000Z	Envy	Bacta	press it and connect with the wlan network
+2009-10-16T13:57:00.000Z	Envy	Bacta	which version of ubuntu?

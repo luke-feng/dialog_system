@@ -1,0 +1,6 @@
+2009-04-03T05:56:00.000Z	hhp2k		Hey everyone!
+2009-04-03T05:57:00.000Z	hhp2k		I have a quick question:  Since recently reinstalling Ubuntu 8.04 after some time not using it, I've spent the last couple of days customizing it to my liking.  If I ever needed to reinstall Ubuntu, would there be a way to save all of the packages, commands, and settings into an executable/archive that would make my system fully customized right out the door?
+2009-04-03T05:58:00.000Z	jonathan__	hhp2k	 you could keep a copy of all the config files in your home directory as a start
+2009-04-03T05:58:00.000Z	hhp2k	jonathan__	I've got that down, yes.
+2009-04-03T05:59:00.000Z	jonathan__	hhp2k	 have a list of the packages you just installed, and write a script that installs them and restores your config files
+2009-04-03T06:00:00.000Z	hhp2k	jonathan__	Good enough. :) Thanks!

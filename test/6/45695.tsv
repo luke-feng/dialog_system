@@ -1,0 +1,6 @@
+2008-12-16T21:54:00.000Z	plan9		i have a nvidia onboard card thing, it shows up in lsmod/lspci and all that, appears to play but there's no sound, tried adjusting everything in alsamixer, running out of ideas
+2008-12-16T21:54:00.000Z	hwilde	plan9	nvidia is video, not sound
+2008-12-16T21:55:00.000Z	plan9	hwilde	talking about the mainboard
+2008-12-16T21:55:00.000Z	hwilde	plan9	talk about whatever you want but nvidia makes video cards, not sound
+2008-12-16T21:55:00.000Z	plan9	hwilde	they certainly make chipsets
+2008-12-16T21:56:00.000Z	plan9	hwilde	00:04.0 Multimedia audio controller: nVidia Corporation CK804 AC'97 Audio Controller (rev a2)

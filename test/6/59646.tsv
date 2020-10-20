@@ -1,0 +1,6 @@
+2008-08-10T23:33:00.000Z	spork		hi
+2008-08-10T23:33:00.000Z	spork		if i only intend to have 3 primary partitions.  is it safe to delete the extended partition?
+2008-08-10T23:34:00.000Z	spork		/dev/hdb2 /dev/hdb3 /dev/hdb4  are a waste for partition numbers and cant make new paritions
+2008-08-10T23:36:00.000Z	emorris	spork	you can only have 4 primary (including extended) partitions, and you can only delete an extended partition if it does not contain any logical partitions
+2008-08-10T23:36:00.000Z	emorris	spork	what disk layout do you ultimately want?
+2008-08-10T23:51:00.000Z	spork	emorris	ubuntu split partition with gentoo

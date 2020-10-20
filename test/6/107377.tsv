@@ -1,0 +1,6 @@
+2006-09-05T09:19:00.000Z	idefix		my PC won't execute scripts by ./script1.sh, what could be wrong?
+2006-09-05T09:19:00.000Z	Mortice	idefix	does it work when you do sh script1.sh?
+2006-09-05T09:20:00.000Z	Mortice	idefix	it's almost certainly a permissions issue. do chmod +x script1.sh, then try ./script1.sh
+2006-09-05T09:21:00.000Z	idefix	Mortice	I was getting paranoid that someone who used my PC somehow blocked this
+2006-09-05T09:22:00.000Z	Mortice	idefix	heh. i assume that fixed it then?
+2006-09-05T09:23:00.000Z	Mortice	idefix	good good. very often when you download scripts, the permissions aren't set so that they're executable. it's worth remembering that you may need to do chmod +x on them.

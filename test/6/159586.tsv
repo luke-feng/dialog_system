@@ -1,0 +1,6 @@
+2006-05-03T11:20:00.000Z	thomasM		hi i was here earlier asking for help autoconfiguring cvs packages. I had an issue with m4 junk... now i'm stuck at some dependancies. i've tried to install both the package and the development package, but all is useless. The packages needed are glib-2.0    libgnome-2.0    libgnomeui-2.0  gconf-2.0       gdk-pixbuf-2.0  gnome-vfs-2.0   gnome-desktop-2.0       gtk+-2.0 >= 2.8
+2006-05-03T11:21:00.000Z	thomasM		I was wondering if somebody could help me out.
+2006-05-03T11:22:00.000Z	Codename_V	thomasM	apt-get gtk-foo, apt-get gtk-bar.  or synaptic if you prefer, or whatever.  pretty straightforward.
+2006-05-03T11:26:00.000Z	Codename_V	thomasM	if a configure script is giving you errors then you're simply missing a few libraries or whatever.  nothing wrong really, you're just missing the stuff you need to compile whatever it is you want to compile
+2006-05-03T11:27:00.000Z	Codename_V	thomasM	your error being?
+2006-05-03T11:28:00.000Z	Codename_V	thomasM	alrighty...so maybe the exact error would help me out here.  paste it or something somewhere

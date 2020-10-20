@@ -1,0 +1,6 @@
+2008-11-08T23:33:00.000Z	mcphail	jadams_	try "LD_PRELOAD=/usr/lib/libv4l/v4l1compat.so cheese"
+2008-11-08T23:34:00.000Z	jadams_	gammy	right, and 0x0471     0x0328 is in the list of supported devices
+2008-11-08T23:35:00.000Z	jadams_	gammy	also, lsmod shows sn9c102 as loaded
+2008-11-08T23:35:00.000Z	jadams_		bbiab
+2008-11-08T23:35:00.000Z	jadams_	gammy	thanks for the help, sorry to rope you in
+2008-11-08T23:35:00.000Z	mcphail	jadams_	webcams are rather broken in intrepid

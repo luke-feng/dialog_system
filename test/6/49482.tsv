@@ -1,0 +1,6 @@
+2009-08-25T21:45:00.000Z	Schmitty		does /root/.bash_history hold shell history for every user or just for root?
+2009-08-25T21:46:00.000Z	raylu	Schmitty	maybe they're using a different shell
+2009-08-25T21:46:00.000Z	Schmitty	raylu	But is thing the usual place to find them?
+2009-08-25T21:47:00.000Z	raylu	Schmitty	there really is no standard, but bash is the default on ubuntu systems
+2009-08-25T21:49:00.000Z	raylu	Schmitty	finger [username]
+2009-08-25T21:50:00.000Z	raylu	Schmitty	will tell you the user's shell

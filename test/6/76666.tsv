@@ -1,0 +1,6 @@
+2010-01-10T17:36:00.000Z	Yoman		When I type ifconfig, my ip etc isn't shown, but instead I am shown all my network devices. Why is this?
+2010-01-10T17:36:00.000Z	llutz	Yoman	because that is ifconfigs job
+2010-01-10T17:37:00.000Z	Yoman	llutz	ok, I just have this memory of using it before, and it showed me the same results that I get in windows when typing ipconfig /all
+2010-01-10T17:40:00.000Z	Yoman	llutz	I am told that this is what ifconfig does http://upload.wikimedia.org/wikipedia/en/6/6c/Ipconfig_win_xp.png but it doedn't do it for me
+2010-01-10T17:40:00.000Z	llutz	Yoman	someone lied to you
+2010-01-10T17:53:00.000Z	llutz	Yoman	http://someuser77.com/guides/ipconfig-bash-script-for-linux/

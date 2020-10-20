@@ -1,0 +1,6 @@
+2011-07-08T09:59:00.000Z	jeremy1313		I cant get vuze to stay open and java wont update, can I get some help?
+2011-07-08T09:59:00.000Z	dr_willis	jeremy1313	    run from terminal   look for error messages
+2011-07-08T10:01:00.000Z	jeremy1313	dr_willis	this is the pastebin: http://pastebin.com/tADiZZWF
+2011-07-08T10:03:00.000Z	jeremy1313	dr_willis	heres the output http://pastebin.com/tADiZZWF
+2011-07-08T10:03:00.000Z	dr_willis	jeremy1313	icedtea segfaulting. thats odd. you could try the sun/oracle java from the partners repo.
+2011-07-08T10:03:00.000Z	jeremy1313	dr_willis	alright, ill do that thanks!

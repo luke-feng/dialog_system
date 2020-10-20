@@ -1,0 +1,6 @@
+2009-07-29T02:23:00.000Z	albdum		Hello can some1 help me with a mount problem ? (dual boot pc - same drives mount at desktop-ubuntu fine but on server-ubuntu they don't [ mount: special device /dev/sdc1 does not exist] the 2 that aren't working at server are connected at a pci-sata the other two working are connected to motherboard)
+2009-07-29T02:23:00.000Z	albdum		albus@ubuntu-server:/$ sudo mount /dev/sdc1 /media/HardDisk2
+2009-07-29T02:23:00.000Z	albdum		mount: special device /dev/sdc1 does not exist
+2009-07-29T02:23:00.000Z	albdum		albus@ubuntu-server:/$ sudo mount /dev/sdc /media/HardDisk2
+2009-07-29T02:23:00.000Z	albdum		mount: unknown filesystem type 'isw_raid_member'
+2009-07-29T02:23:00.000Z	FloodBot3	albdum	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

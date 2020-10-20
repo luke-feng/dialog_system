@@ -1,0 +1,6 @@
+2012-11-01T00:12:00.000Z	StFS		Hi. I installed packages locally that have a newer version number than the same package in the repo, but now I want to go back and install the repo version back again... is there a convenient way to tell apt to install repo packages over locally installed packages even though those have a newer version?
+2012-11-01T00:13:00.000Z	jrib	StFS	did you happen to use a ppa?
+2012-11-01T00:15:00.000Z	StFS	jrib	well... the packages come from some ppa but I installed them locally with dpkg -i <a list of .deb files>
+2012-11-01T00:15:00.000Z	jrib	StFS	do you not have internet access on the machine or something?  Why did you do it that way?
+2012-11-01T00:20:00.000Z	StFS	jrib	good question... I just got the URL to the page with the .deb files... didn't really know I could do it another way
+2012-11-01T00:21:00.000Z	jrib	StFS	well if you add the ppa, then you can try using ppa-purge to remove it and it will try to downgrade the packages in it

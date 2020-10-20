@@ -1,0 +1,6 @@
+2008-09-07T20:38:00.000Z	differentreality		Is there some way to save all my preferences, like shortcuts I have created by myself, the bar I had customized etc ?
+2008-09-07T20:38:00.000Z	descent_spb	differentreality	all the preferences are contained in the .* folders in your home directory
+2008-09-07T20:39:00.000Z	differentreality	descent_spb	 thanks :)  i guess there is no way that I can backup all the installed programs I have, right?
+2008-09-07T20:40:00.000Z	descent_spb	differentreality	you can backup the ubuntu partition with partimage, or simply download the "System Rescue CD"
+2008-09-07T20:41:00.000Z	differentreality	descent_spb	once i have partimage, i format my disk and then what ?
+2008-09-07T20:42:00.000Z	descent_spb	differentreality	you can't use partimage while being in the system. Boot of the Rescue CD, and it will make an image of your partition

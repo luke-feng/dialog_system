@@ -1,0 +1,6 @@
+2010-04-12T15:35:00.000Z	ltapaul		anyone care to help me with making a partion on a computer running vista?
+2010-04-12T15:36:00.000Z	Oer	ltapaul	let vista decrease the partition with diskmanagment
+2010-04-12T15:39:00.000Z	ltapaul	Oer	disk management is unable to shrink my partition more that 500 megs even though I have paging and the rest of it turned off
+2010-04-12T15:40:00.000Z	Oer	ltapaul	that could be true, vista needs some space for system-files backup, somewhere in the middle of the partition
+2010-04-12T15:41:00.000Z	ltapaul	Oer	with 200gigs left i would think I had the room! I hate being chained to the vista partion manager
+2010-04-12T15:41:00.000Z	Oer	ltapaul	i understand, but it is the proper way to do it. else re-install vista on a smaller partition, manually

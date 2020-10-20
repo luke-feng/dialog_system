@@ -1,0 +1,6 @@
+2012-03-04T05:28:00.000Z	fuhreal		Hi everyone, can someone point me to the log that would show what failed to mount on boot?
+2012-03-04T05:29:00.000Z	pfifo	fuhreal	dmesg should have that info
+2012-03-04T05:31:00.000Z	fuhreal	pfifo	unfortunately its not there....
+2012-03-04T05:31:00.000Z	fuhreal	pfifo	it is an error displayed during the ubuntu splash
+2012-03-04T05:35:00.000Z	pfifo	fuhreal	if you boot witout 'quiet splash' you might get an informative message
+2012-03-04T05:37:00.000Z	fuhreal	pfifo	ok thanks, i'll try

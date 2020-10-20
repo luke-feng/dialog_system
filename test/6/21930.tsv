@@ -1,0 +1,6 @@
+2010-09-21T23:30:00.000Z	perlsyntax		how do i install irefox 3.6.10 on ubuntu if it a bz2 file.i did untar it not sure what to do next.
+2010-09-21T23:31:00.000Z	perlsyntax		?
+2010-09-21T23:31:00.000Z	ulziibuyan	perlsyntax	you should be able to find a binary.
+2010-09-21T23:34:00.000Z	ulziibuyan	perlsyntax	try executing firefox-bin
+2010-09-21T23:35:00.000Z	ulziibuyan	perlsyntax	try from a terminal or Alt-F2
+2010-09-21T23:36:00.000Z	ulziibuyan	perlsyntax	what does it say?

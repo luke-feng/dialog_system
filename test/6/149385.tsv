@@ -1,0 +1,6 @@
+2005-06-19T10:29:00.000Z	wc_nix		i went to the x86 release
+2005-06-19T10:29:00.000Z	wc_nix		i386
+2005-06-19T10:30:00.000Z	wc_nix		for some reason it's missing GCC or thinks it is
+2005-06-19T10:30:00.000Z	wc_nix		i tried to compile something and it gave me errors
+2005-06-19T10:31:00.000Z	IIIEars	wc_nix	- do you have "build-essential" in synaptic?
+2005-06-19T10:32:00.000Z	IIIEars	wc_nix	- you can apt get it also - hey i'm new gui's are friendly - grin

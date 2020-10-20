@@ -1,0 +1,6 @@
+2004-11-05T10:16:00.000Z	bborkk		Anyone know what apt is trying to tell me when it says "W: Couldn't stat source package list foo"?
+2004-11-05T10:17:00.000Z	Zindar	bborkk	try sudo apt-get update first
+2004-11-05T10:18:00.000Z	bborkk	Zindar	I did, but to no avail.
+2004-11-05T10:18:00.000Z	Zindar	bborkk	what happens...
+2004-11-05T10:23:00.000Z	bborkk	Zindar	apt-get update returns a bunch of hit messages, a couple of failed messages and about half a dozen couldn't stat source package list messages for http://mentors.debian.net
+2004-11-05T10:24:00.000Z	bborkk	Zindar	Claims no such file or directory

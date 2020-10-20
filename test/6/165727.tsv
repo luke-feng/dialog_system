@@ -1,0 +1,6 @@
+2006-07-25T05:15:00.000Z	Twish`		how can i edit ubuntu kernel?
+2006-07-25T05:16:00.000Z	Twish`		i want to setup interent connection
+2006-07-25T05:16:00.000Z	Twish`		i need to edit adsl parameters
+2006-07-25T05:18:00.000Z	Twish`		is is true that ubuntu comes without gtk and qt libraries?
+2006-07-25T05:18:00.000Z	crimsun	Twish`	since ubuntu uses gnome, which is based on gtk+, that's highly unlikely.
+2006-07-25T05:19:00.000Z	crimsun	Twish`	since kubuntu uses kde, which is based on qt, that's also highly unlikely.

@@ -1,0 +1,6 @@
+2009-03-29T03:22:00.000Z	JTCooper		is it possible to run the LAMP if I am running Ubuntu from a flash drive?
+2009-03-29T03:22:00.000Z	erUSUL	JTCooper	i do not see why not. it would be slow as h*ll but it will run
+2009-03-29T03:23:00.000Z	JTCooper	erUSUL	do I need to do any configuration of ports or anything to be to access it from another computer, or is it set up by default to listen for outside connections? I just want to try it out before I put together a computer to install on.
+2009-03-29T03:24:00.000Z	erUSUL	JTCooper	no firewall is enabled by default in ubuntu. if someon (apache) is listening noone will block it
+2009-03-29T03:25:00.000Z	JTCooper	erUSUL	is apache installed to listen by default? or do I need to edit the config file?
+2009-03-29T03:25:00.000Z	erUSUL	JTCooper	well maybe it only listens in lo by default never installed it myself

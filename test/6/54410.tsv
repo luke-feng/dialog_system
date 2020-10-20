@@ -1,0 +1,6 @@
+2008-07-17T17:11:00.000Z	fosco_	seagullman	nice to hear that ;)
+2008-07-17T17:07:00.000Z	fosco_	seagullman	mostly sure you do not need that, but try sudo depmod -a
+2008-07-17T17:09:00.000Z	seagullman	fosco_	thanks.. the thing is i installed cdemu from debs and afterwards the cdemu command didn't work. i've looked at installation instructions for source and i see that they do a modprobe after.. should i be doing that?
+2008-07-17T17:09:00.000Z	fosco_	seagullman	not sure, never used that
+2008-07-17T17:10:00.000Z	seagullman	fosco_	ok, thanks anyway mate
+2008-07-17T17:11:00.000Z	seagullman	fosco_	thanks heaps actually, depmod solved my problem

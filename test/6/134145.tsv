@@ -1,0 +1,6 @@
+2005-10-18T07:28:00.000Z	looga		Hey all: my terminal is currently in the "sudo apt-get dist-upgrade" process. It's running quite slow. Would it be safe to cancel the process and then switch mirrors to a mirror in the country I'm currently in?
+2005-10-18T07:29:00.000Z	looga		saiko, how do i know if' it's in downloading stage or installing stage?
+2005-10-18T07:31:00.000Z	aftertaf	looga	 nope, theyre cached... dont worry about ctl D... i do it all the time :)
+2005-10-18T07:31:00.000Z	looga	aftertaf	what's ctrl D?
+2005-10-18T07:33:00.000Z	aftertaf	looga	 i meant ctl C
+2005-10-18T07:34:00.000Z	looga	aftertaf	?

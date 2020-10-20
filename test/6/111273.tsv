@@ -1,0 +1,6 @@
+2006-11-09T06:38:00.000Z	nikosapi		I'm trying to compile some stuff on this new edgy install and whenever I run make -f Makefile.cvs I get errors like this: /usr/share/aclocal/libglade.m4:7: warning: underquoted definition of AM_PATH_LIBGLADE     Any idea what might be causing this?
+2006-11-09T06:38:00.000Z	zspada15	nikosapi	is it in your path?
+2006-11-09T06:38:00.000Z	nikosapi		is what in my path?
+2006-11-09T06:39:00.000Z	zspada15	nikosapi	AM_PATH_LIBGLADE?
+2006-11-09T06:39:00.000Z	zspada15		if not, you might wanna run sudo apt-get install libglade
+2006-11-09T06:40:00.000Z	nikosapi	zspada15	if I echo that variable then nothing shows up...

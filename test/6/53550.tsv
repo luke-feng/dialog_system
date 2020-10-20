@@ -1,0 +1,6 @@
+2009-02-14T11:41:00.000Z	histo	lstarnes	hrm.. that was off
+2009-02-14T11:41:00.000Z	lstarnes	histo	it's off by default
+2009-02-14T11:38:00.000Z	lstarnes	histo	try /set beep_msg_level HILIGHT
+2009-02-14T11:39:00.000Z	histo	lstarnes	yeah its just not beepting though
+2009-02-14T11:39:00.000Z	lstarnes	histo	also, try /set bell_beeps ON
+2009-04-25T07:37:00.000Z	histo	lstarnes	I don't think its alpha

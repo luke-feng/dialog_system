@@ -1,0 +1,6 @@
+2010-04-05T21:38:00.000Z	Smith		hi all
+2010-04-05T21:40:00.000Z	Smith		How do I load safe mode in Ubuntu, when I press Esc at boot - nothing happens :( Sorry for my English :)
+2010-04-05T21:41:00.000Z	acicula	Smith	press esc repeatedly till you et the grub prompt?
+2010-04-05T21:41:00.000Z	acicula	Smith	unless you made changes and removed the timeout?
+2010-04-05T21:42:00.000Z	Smith	acicula	 where can I put the timeout?
+2010-04-05T21:43:00.000Z	acicula	Smith	timeout for what?

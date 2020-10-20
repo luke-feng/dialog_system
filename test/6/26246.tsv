@@ -1,0 +1,6 @@
+2010-09-23T14:54:00.000Z	Alchimista		my nautilus isn't working, i had unistall it, reinstall and nothin, what can i do?
+2010-09-23T14:54:00.000Z	st__	Alchimista	run it in terminal and observe errors
+2010-09-23T14:55:00.000Z	Alchimista	st__	how can i do that? I only now how to lunch it from terminal
+2010-09-23T14:55:00.000Z	Alchimista	st__	(nautilus:1993): Unique-DBus-WARNING **: Error while sending message: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+2010-09-23T14:56:00.000Z	st__	Alchimista	i'm afraid your system has worse problems than nautilus
+2010-09-23T14:57:00.000Z	Alchimista	st__	:S format: should work it :s

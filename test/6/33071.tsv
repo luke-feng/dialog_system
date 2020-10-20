@@ -1,0 +1,6 @@
+2009-08-23T07:05:00.000Z	heatmzzr		is there a simple command in terminal that changes permissions of many files and folders contained in one folder?????????
+2009-08-23T07:05:00.000Z	mnaines	heatmzzr	chmod will do it for the entire foder
+2009-08-23T07:23:00.000Z	mnaines	heatmzzr	chmod -R (user:group) (folder)
+2009-08-23T07:23:00.000Z	mnaines	heatmzzr	isn't that simple
+2009-08-23T07:40:00.000Z	heatmzzr	mnaines	not workin for me man.. syntax errors and argument errors
+2009-08-23T07:53:00.000Z	heatmzzr	mnaines	I got it to work using the chown -r ... thanks all

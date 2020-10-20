@@ -1,0 +1,6 @@
+2008-02-06T07:53:00.000Z	Creationist		I'm still having a problem getting Ubuntu to set my monitor to 60Hz refresh rate.  All that is available is 50 and 51...  I've already reconfigured xserver-xorg.  Any other ideas?
+2008-02-06T07:53:00.000Z	danbhfive	Creationist	are you using Nvidia drivers?
+2008-02-06T07:53:00.000Z	Creationist	danbhfive	Yes, I am.
+2008-02-06T07:54:00.000Z	danbhfive	Creationist	its a bug in the binary of the drivers, it scrambles the refresh info
+2008-02-06T07:55:00.000Z	Creationist	danbhfive	I've been able to get it working in the past.... just can't remember how :(.  I'll be writing down my solution this time.
+2008-02-06T07:55:00.000Z	danbhfive	Creationist	well, let me know if you find, I have the same problem myself, and thats what I was told

@@ -1,0 +1,6 @@
+2005-04-29T12:36:00.000Z	bluefoxicy		Can I burn a video CD from a .mov file in Linux that will play in a PS2?
+2005-04-29T12:38:00.000Z	djm62	bluefoxicy	you need "transcode" to convert the format: you can do it, but ISTR it's quite involved
+2005-04-29T12:38:00.000Z	bluefoxicy	djm62	find me something on it?
+2005-04-29T12:39:00.000Z	djm62	bluefoxicy	my answer to that will be silence for decency's sake...google ubuntu transcode for starters
+2005-04-29T12:39:00.000Z	bluefoxicy	djm62	 also, transcode is not installable
+2005-04-29T12:40:00.000Z	bluefoxicy	djm62	 what format od I need and what do I have to do to burn a vcd?  cdrecord.mmap -dev=ATAPI:/dev/hdc -data foo.mpeg or something?

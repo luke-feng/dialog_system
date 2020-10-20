@@ -1,0 +1,6 @@
+2009-09-27T04:26:00.000Z	Blackbird		Okay, I'm at GParted, and...it would seem I cannot resize the partition.
+2009-09-27T04:26:00.000Z	scunizi	Blackbird	you might need to unmount it first
+2009-09-27T04:29:00.000Z	scunizi	Blackbird	I'm confused.. you have a macbookpro with ntfs on it?
+2009-09-27T04:29:00.000Z	Blackbird	scunizi	I dualboot so I can actually get some games running, put NTFS on an external HD
+2009-09-27T04:34:00.000Z	scunizi	Blackbird	this is a tough one.. once you unmount an external drive the system doesn't see it any more, I think,  because of the way the subsystem mounts and unmounts external devices..
+2009-09-27T04:35:00.000Z	scunizi	Blackbird	perhaps a way around it would be to remove the drive and connect it internally.. but that would also be problemmatic with a laptop

@@ -1,0 +1,6 @@
+2011-09-21T01:41:00.000Z	python		Hello
+2011-09-21T01:41:00.000Z	python		!ping
+2011-09-21T01:41:00.000Z	python		Hello, I've lost my id_rsa key, but I still have my pub key, is there anyway to recover it ?
+2011-09-21T01:42:00.000Z	jrib	python	no, of course not
+2011-09-21T01:42:00.000Z	jrib	python	use your backups
+2011-09-21T01:43:00.000Z	jrib	python	take this as opportunity to realize you should make backups :)

@@ -1,0 +1,6 @@
+2009-12-10T08:58:00.000Z	KeithBilly		Hello, i have 9.04 which was working just fine for the first few days. I shut down the system for a week or more, now when i started it back up and try and login it crashes after login and relaunches the login screen, over and over and over again. What can i do to try and resolve this?
+2009-12-10T08:59:00.000Z	KeithBilly		Guest411177 I've seen a usb method for this
+2009-12-10T09:01:00.000Z	KeithBilly		How can you get into safe mode?
+2009-12-10T09:02:00.000Z	KeithBilly		or a terminal if you can't login with gnome?
+2009-12-10T09:02:00.000Z	Out_Cold	KeithBilly	a boot cd helps
+2009-12-10T09:04:00.000Z	Out_Cold	KeithBilly	use another console?? try CTRL + ALT F1

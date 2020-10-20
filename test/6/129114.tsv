@@ -1,0 +1,6 @@
+2012-05-14T07:20:00.000Z	Areckx		I am attempting to dual boot Ubuntu 10.04(running now) and Debian 6.0.4 ; at the moment I am downloading the live .iso files in order to first resize the main partition and create a new one for debian to boot from, my only problem lies with GRUB2, how do I set it up prior to starting debian install from livecd?
+2012-05-14T07:21:00.000Z	nrdb	Areckx	the install process should notice the other installation (if its Linux) and setup grub for you...
+2012-05-14T07:24:00.000Z	nrdb	Areckx	the worst that could happen is that the first grub set would be overwritten with the second grub setup and only boot into the second installation... you then would be where you are now and can modify the grub setup once both installs are done.
+2012-05-14T07:25:00.000Z	nrdb	Areckx	I once had a computer that had about 6 different Linux installations on it at once.
+2012-05-14T07:27:00.000Z	nrdb	Areckx	I would suggest that you let the second setup do what it wants with grub... it should just work.
+2012-05-14T07:31:00.000Z	nrdb	Areckx	ok

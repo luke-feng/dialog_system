@@ -1,0 +1,6 @@
+2008-03-01T04:47:00.000Z	pak		any one here have IE for ubuntu running?
+2008-03-01T04:48:00.000Z	pak		no on ubuntu itself, not running IE with vm
+2008-03-01T04:49:00.000Z	pak		comfiz config?
+2008-03-01T04:49:00.000Z	pak		whats the command to install the effects and stuff
+2008-03-01T04:49:00.000Z	pak		for cubes
+2008-03-01T04:49:00.000Z	macogw	pak	sudo aptitude install compizconfig-settings-manager

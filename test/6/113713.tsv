@@ -1,0 +1,6 @@
+2012-10-19T03:57:00.000Z	wachpwnski		Is there any reason my bash script can be executed in the console, but wont run on @reboot cron?
+2012-10-19T03:57:00.000Z	jrib	wachpwnski	there probably is a reason yes.  You'll have to provide more details for a better answer :)
+2012-10-19T03:58:00.000Z	jrib	wachpwnski	don't use ~
+2012-10-19T03:59:00.000Z	jrib	wachpwnski	$HOME should be ok
+2012-10-19T04:11:00.000Z	jrib	wachpwnski	well did adding a blank line cause it to work?
+2012-10-19T04:12:00.000Z	jrib	wachpwnski	only if you want to edit root's crontab

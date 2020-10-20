@@ -1,0 +1,6 @@
+2005-12-25T10:57:00.000Z	QQ_ghost		does anyone know how to test a modem without dialing?
+2005-12-25T10:57:00.000Z	mshade	QQ_ghost	see if it responds to the init string
+2005-12-25T10:58:00.000Z	QQ_ghost	mshade	like "echo ATZ>> /dev/modem"?
+2005-12-25T10:58:00.000Z	mshade	QQ_ghost	basically
+2005-12-25T11:02:00.000Z	QQ_ghost	mshade	~$ sudo echo ATZ >> /dev/ttyS5
+2005-12-25T11:02:00.000Z	QQ_ghost	mshade	like that?

@@ -1,0 +1,6 @@
+2008-08-20T19:54:00.000Z	ajitam		hi I just install ubuntu server on my PC. But when I try start PC with just network and power cable it get stuck. but when I connect my keyboard on it it's strarts normaly
+2008-08-20T19:55:00.000Z	ajitam		is there a solution for this
+2008-08-20T19:55:00.000Z	hololight	ajitam	where is it getting stuck?
+2008-08-20T19:56:00.000Z	hololight	ajitam	is is likely a setting in the bios.... it is set to error on 'no keyboard'
+2008-08-20T19:56:00.000Z	ajitam	hololight	thx I'll try this
+2008-08-20T19:56:00.000Z	hololight	ajitam	you need to get a monitor to make sure.... then go into the bios and set errors to none... or soemthing like that...

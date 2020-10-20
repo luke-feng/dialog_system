@@ -1,0 +1,6 @@
+2010-09-04T20:30:00.000Z	handjob		Reading aptoncd manual I wander can I perform same thing by just coping the packages into /var/cache/apt/archives and performing sudo apt-get update?
+2010-09-04T20:32:00.000Z	ZykoticK9	handjob	"sudo apt-get update" would require an internet connection!
+2010-09-04T20:35:00.000Z	handjob	ZykoticK9	maybe adding something to sources.list will do the trick.
+2010-09-04T20:36:00.000Z	ZykoticK9	handjob	see erUSUL's comment above - if you don't have internet you HAVE to basically use apt-on-cd (something i haven't played with much)
+2010-09-04T20:36:00.000Z	handjob	ZykoticK9	I will check that out.
+2010-09-04T20:38:00.000Z	ZykoticK9	handjob	just FYI - but backing up the files from /var/cache/apt/archive (without the lockfile) is really easy/handy if you are installing onto multiple machines.  I've never found a good/easy way to get the required apt database (sudo apt-get update) onto offline machines/etc.  best of luck, i'm under the impression apt-on-cd is certainly what you want.

@@ -1,0 +1,6 @@
+2008-11-03T23:01:00.000Z	sisseck		Hi im having some trouble with my zepto 6214w laptop. As long as i have it plugged in with powersupply ubuntu works great and boots with no problems. When i try to boot on battery, everything freezes. unless i start tapping away at the ESC key then it will slowly boot up. once ubuntu is running on battery everything is really slow and laggy. about 10 sec after i plug in the power ubuntu speeds up. Any ideas+
+2008-11-03T23:03:00.000Z	raavi	sisseck	This may be because of powermanager, which downclocks to lower clock when runs with battery?
+2008-11-03T23:03:00.000Z	raavi	sisseck	? I meant fully stop .
+2008-11-03T23:04:00.000Z	sisseck	raavi	any way i can disable it just to check if thats the problem?
+2008-11-03T23:04:00.000Z	raavi	sisseck	after you bootup, open the terminal and type in cpufreq-selector and let us see what it shows.
+2008-11-03T23:07:00.000Z	sisseck	raavi	sisseck@sisseck-laptop:~$ cpufreq-selector

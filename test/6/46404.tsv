@@ -1,0 +1,6 @@
+2008-12-02T05:41:00.000Z	Chunky_Bacon		Ok, apt-get install gnome-desktop-environment give me an error about gnome-keyring-manager being not available and it's not: aptitude search gnome-keyring-manager give no result.... After googling a bit, the only pages refering to that problem are pretty old. Any idea?
+2008-12-02T05:42:00.000Z	funkyHat	Chunky_Bacon	why are you installing gnome-desktop-environment?
+2008-12-02T05:42:00.000Z	Chunky_Bacon	funkyHat	trying to install gnome
+2008-12-02T05:42:00.000Z	Chunky_Bacon	funkyHat	I'm using kde
+2008-12-02T05:43:00.000Z	funkyHat	Chunky_Bacon	on ubuntu you should install ubuntu-desktop to install gnome
+2008-12-02T05:43:00.000Z	Chunky_Bacon	funkyHat	ok, I'll give it a try

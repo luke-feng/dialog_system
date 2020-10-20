@@ -1,0 +1,6 @@
+2012-06-01T14:58:00.000Z	tMH		ppl, I am trying to compile screen on ubuntu and getting this "configure: error: !!! no tgetent - no screen". Kernel is 2.6.32-41-generic-pae #89-Ubuntu
+2012-06-01T14:58:00.000Z	tMH		how to fix that, tell me please ?
+2012-06-01T14:58:00.000Z	wawowe	tMH	pastebin the error
+2012-06-01T14:59:00.000Z	tMH	wawowe	- http://pastebin.com/381XYhn8
+2012-06-01T15:03:00.000Z	wawowe	tMH	apt-get install build-essential
+2012-06-01T15:07:00.000Z	tMH	wawowe	- lemme try:) 10x!

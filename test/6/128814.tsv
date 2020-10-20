@@ -1,0 +1,6 @@
+2006-07-19T09:32:00.000Z	user-land		well, i did sudo dpkg-reconfigure xserver-xorg as you recommended, choosing nv. i guess that is the free driver ?
+2006-07-19T09:32:00.000Z	Subhuman	user-land	yes it is
+2006-07-19T09:32:00.000Z	Subhuman	user-land	choose nvidia, if it isnt in the list "sudo apt-get install nvidia-glx"
+2006-07-19T09:33:00.000Z	Subhuman	user-land	only the nvidia drive has 3d accel.
+2006-07-19T10:45:00.000Z	Subhuman	user-land	oh good :D
+2006-07-19T10:47:00.000Z	Subhuman	user-land	im not sure, i left it off, but if you get any issues with it just switch it off ya know?

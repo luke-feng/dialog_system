@@ -1,0 +1,6 @@
+2009-06-11T20:34:00.000Z	cabrey	jim____	it should execute it just like any run level script
+2009-06-11T20:34:00.000Z	cabrey	jim____	but perhaps it is too late in the boot process
+2009-06-11T20:34:00.000Z	jim____	cabrey	I know it "should" work, I'm only saying it's not really proper to do it in rc.local.
+2009-06-11T20:35:00.000Z	jim____	cabrey	truthordare: it's an interface-config process and IMO should be placed as such, that's all
+2009-06-11T20:35:00.000Z	cabrey	jim____	it wasnt working for him ealier, so i suggested rc.local
+2009-06-11T20:35:00.000Z	jim____	cabrey	ah I see

@@ -1,0 +1,6 @@
+2010-10-03T09:28:00.000Z	manyou		Hi all,
+2010-10-03T09:29:00.000Z	manyou		I'm trying to install ubuntu intrepid server version on a small system with an IDE drive. I can't seem to get disk-detect to find the drive during install. I've done some research on the net, but am not able to find a solution for this. There is a bug that has been filed for this issue that looks similar to what I'm facing, but no solution so far.
+2010-10-03T09:30:00.000Z	izinucs	manyou	why use an outdated and no longer supported version of ubuntu?
+2010-10-03T09:31:00.000Z	manyou	izinucs	well this is a system that has only 128 MB RAm.
+2010-10-03T09:31:00.000Z	manyou		And I had the install disc handy, so :)
+2010-10-03T09:31:00.000Z	izinucs	manyou	well.. the memory factor isn't an issue..

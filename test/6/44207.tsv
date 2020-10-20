@@ -1,0 +1,6 @@
+2009-12-27T13:16:00.000Z	Scott__		can we stop swap on ubuntu
+2009-12-27T13:17:00.000Z	kinja-sheep	Scott__	You can disable it.
+2009-12-27T13:18:00.000Z	kinja-sheep	Scott__	I don't know. I'd have to search first. :o
+2009-12-27T13:21:00.000Z	kinja-sheep	Scott__	swapon -a :O
+2009-12-27T13:21:00.000Z	kinja-sheep	Scott__	Excluding the smiley face.  You can run "swapon --help"
+2009-12-27T13:46:00.000Z	kinja-sheep	Scott__	156 MB in  3.02 seconds =  51.66 MB/sec :)

@@ -1,0 +1,6 @@
+2007-11-06T08:58:00.000Z	nemik		i'm running windows on vmware as host OS on ubuntu but can't get any of it's shared folders to show up in ubuntu. can anyone help?
+2007-11-06T08:58:00.000Z	MasterShrek	nemik	is it set up as NAT?
+2007-11-06T08:58:00.000Z	nemik	MasterShrek	yes
+2007-11-06T08:59:00.000Z	MasterShrek	nemik	set it up as bridged
+2007-11-06T08:59:00.000Z	nemik	MasterShrek	thanks. i'll try that
+2007-11-06T09:03:00.000Z	nemik	MasterShrek	no luck with bridged? this is driving me insane. i got it working once somehow magically then after that nothing

@@ -1,0 +1,6 @@
+2007-07-28T08:39:00.000Z	waltercool		heeey... how can i change the automount of ntfs in ubuntu to ntfs-3g
+2007-07-28T08:39:00.000Z	waltercool		someone
+2007-07-28T08:39:00.000Z	hexstar	waltercool	nano /etc/fstab
+2007-07-28T08:39:00.000Z	waltercool	hexstar	I have a portable hdd
+2007-07-28T08:39:00.000Z	hexstar	waltercool	if it's in on boot it should be in fstab I'd imagine
+2007-07-28T08:41:00.000Z	hexstar	waltercool	np :)

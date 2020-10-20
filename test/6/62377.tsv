@@ -1,0 +1,6 @@
+2008-03-08T17:47:00.000Z	myth-newb	bod_	i get about 5 permission denied errors now and autom4te: cannot open autom4te.cache/requests: permission denied and automake: autoconf failed with exit status: 1
+2008-03-08T17:49:00.000Z	myth-newb	bod_	i am running "sudo aclocal && automake && autoconf"
+2008-03-08T17:51:00.000Z	myth-newb	bod_	so "sudo aclocal && sudo automake && sudo autoconf"?
+2008-03-08T17:53:00.000Z	myth-newb	bod_	i am still getting permission denied, could i have screwed my build maybe i should recompile
+2008-03-08T17:56:00.000Z	myth-newb	bod_	does this look like it worked? "server/drivers/Makefile.am:80: compiling `IOWarrior.c' with per-target flags requires ` AM_PROG_CC_C_O' in `configure.in'
+2008-03-08T17:57:00.000Z	myth-newb	bod_	any ideas, I am compiling lcdproc if that helps with the codeka patch v3

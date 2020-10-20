@@ -1,0 +1,6 @@
+2008-07-19T16:11:00.000Z	itai-michaelson		i have a win98 iso on my desktop, can i install it with vm-ware or something else without burning it into disc?
+2008-07-19T16:12:00.000Z	wols_	itai-michaelson	only in a VM then
+2008-07-19T16:13:00.000Z	itai-michaelson	wols_	ok so i apt-get vmware and then direct it to install from the directory?
+2008-07-19T16:13:00.000Z	wols_	itai-michaelson	I don't think there is vmware in ubuntu
+2008-07-19T16:13:00.000Z	wols_	itai-michaelson	VM software usually can mount ISO files
+2008-07-19T16:14:00.000Z	itai-michaelson	wols_	thanks, i understand that it not really an ubuntu question , but do u know if i need vm-server or workstation?

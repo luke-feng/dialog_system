@@ -1,0 +1,6 @@
+2008-05-22T01:45:00.000Z	Vedalken		anyone know how to get Adobe Flash Player onto Ubuntu 64-bit version?
+2008-05-22T01:45:00.000Z	Gin	Vedalken	just install flash via apt-get
+2008-05-22T01:46:00.000Z	Vedalken	Gin	what is the exact command for it?
+2008-05-22T01:46:00.000Z	Gin	Vedalken	I think it is sudo apt-get install flash-nonfree
+2008-05-22T01:47:00.000Z	Gin	Vedalken	it is flashplugin-nonfree
+2008-05-22T01:48:00.000Z	Vedalken	Gin	thanks

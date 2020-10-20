@@ -1,0 +1,6 @@
+2012-09-23T00:30:00.000Z	MonkeyDust	sarrous	 software center, synaptic, apt-get install, https://apps.ubuntu.com/cat/ or http://appnr.com/
+2012-09-23T00:30:00.000Z	sarrous	jrib	lots, i'm taking it that your not a blender user
+2012-09-23T00:31:00.000Z	sarrous		I'm showing 2.58 in the res
+2012-09-23T00:31:00.000Z	MonkeyDust	sarrous	 if you're using the very newest version of things, you're a pioneer and can't expect much help or support
+2012-09-23T00:32:00.000Z	sarrous	jrib	from the sounds of it an old one. how do i find out?
+2012-09-23T00:33:00.000Z	MonkeyDust	sarrous	 type lsb_release -sd

@@ -1,0 +1,6 @@
+2008-01-04T08:31:00.000Z	FantasticFoo		does anyone know how to get the "fglrx" module loaded at bootup? i installed the ati catalyst 7.11 driver, because i wanted aiglx support, but i have to manually get it working every time i boot up with this temporary fix: http://www.phoronix.com/forums/showthread.php?t=6062 (first reply to original post)
+2008-01-04T08:32:00.000Z	PirateHead	FantasticFoo	You could add it as a service to start up upon boot.
+2008-01-04T08:32:00.000Z	FantasticFoo	PirateHead	how would i do that?
+2008-01-04T08:33:00.000Z	PirateHead	FantasticFoo	If it doesn't require root, you can do it using System -> Preferences -> Sessions
+2008-01-04T08:33:00.000Z	PirateHead	FantasticFoo	If it does require root, you'll have to add a system-v style startup script.
+2008-01-04T08:34:00.000Z	FantasticFoo	PirateHead	oh. i guess i'll have to do that then

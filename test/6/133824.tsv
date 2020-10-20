@@ -1,0 +1,6 @@
+2006-05-28T07:37:00.000Z	l		seveas: i disabled root login using the command sudo passwd -l root but my rootkit scanner says root login is still enabled
+2006-05-28T07:38:00.000Z	gnomefreak	l	did you go into /etc/shadow and replace the ! with a *
+2006-05-28T07:38:00.000Z	l	gnomefreak	no, should i?
+2006-05-28T07:39:00.000Z	gnomefreak	l	yes if you go into that file the first line will say root:!..... or something like that you need to make it root:*..... just change the ! to a *
+2006-05-30T14:34:00.000Z	gnomefreak	l	sudo
+2006-05-31T08:30:00.000Z	gnomefreak	l	use sudo

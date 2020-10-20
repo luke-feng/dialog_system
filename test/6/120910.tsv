@@ -1,0 +1,6 @@
+2006-04-12T15:26:00.000Z	glyph		ERROR: Your architecture, \'x86_64\', is not supported by the
+2006-04-12T15:26:00.000Z	glyph		       Macromedia Flash Player installer.
+2006-04-12T15:26:00.000Z	glyph		im trying to install flash and i get this error
+2006-04-12T15:26:00.000Z	glyph		can some one help
+2006-04-12T15:27:00.000Z	walkover_	glyph	you have a 64bit CPU and 64 linux and the flash package is simply not made for 64bit, too bad
+2006-04-12T15:27:00.000Z	glyph	walkover_	Thx

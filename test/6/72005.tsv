@@ -1,0 +1,6 @@
+2009-09-10T03:52:00.000Z	RJARRRPCGP		Here's the output of lspci:
+2009-09-10T03:52:00.000Z	RJARRRPCGP		rjarrrpcgp@rjarrrpcgp-c1:~$ lspci
+2009-09-10T03:52:00.000Z	RJARRRPCGP		00:00.0 Host bridge: Intel Corporation 82G33/G31/P35/P31 Express DRAM Controller (rev 02)
+2009-09-10T03:52:00.000Z	RJARRRPCGP		00:02.0 VGA compatible controller: Intel Corporation 82G33/G31 Express Integrated Graphics Controller (rev 02)
+2009-09-10T03:52:00.000Z	RJARRRPCGP		00:1b.0 Audio device: Intel Corporation 82801G (ICH7 Family) High Definition Audio Controller (rev 01)
+2009-09-10T03:52:00.000Z	FloodBot1	RJARRRPCGP	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

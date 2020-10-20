@@ -1,0 +1,6 @@
+2007-08-23T11:26:00.000Z	hoody		hi there ... i need help! a folder called ""$HOME" is beeing created automatically. if i delete it it's back there just a few seconds later.
+2007-08-23T11:27:00.000Z	dxdt	hoody	lol whut?  Were you editing something recently and acidentally added the extra " mark in that?  Because "$HOME" will reference your set home, but ""$HOME" has an extra " mark and might be your problem.
+2007-08-23T11:29:00.000Z	dxdt	hoody	I'm pretty sure from your description that something you might have been messing with was actually typoed so now it is creating a folder called "$HOME instead of just using the variable $HOME which has the path to your home.  I would check out any files you were messing with recently for that typo.
+2007-08-23T11:30:00.000Z	hoody	dxdt	i'll search for something like that but i don't think i did sth. like that
+2007-08-23T11:33:00.000Z	hoody	dxdt	hmm i guess banshee creates this folder
+2007-08-23T11:33:00.000Z	hoody	dxdt	maybe a bug .... i'm using gutsy

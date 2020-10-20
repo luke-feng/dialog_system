@@ -1,0 +1,6 @@
+2010-03-13T06:05:00.000Z	mjec		Hi all, I can't get my screen to show above 640x480 on a fresh 9.10 install. I'd be satisfied with 1024 even. Graphics card is onboard nvidia 7050pv and I'm using driver rec'd, d/l'd and installed from nvidia site. Help?
+2010-03-13T06:06:00.000Z	acicula	mjec	drivers not loaded properly, also manual installation like that is bad, stick to the drivers installable via the repository
+2010-03-13T06:07:00.000Z	acicula	mjec	if you are on a fresh install update first and then enable the hardware driver
+2010-03-13T06:07:00.000Z	acicula	mjec	via system->administration->hardware driver
+2010-03-13T06:09:00.000Z	mjec	acicula	gloom: I went with nvid .sh because before that I couldn't get a gui. Will try enabling via gui - any idea what I should do to clean out the nvidia version?
+2010-03-13T06:09:00.000Z	acicula	mjec	reinstall always works, as far as removing the .sh installed version completely i wouldnt know

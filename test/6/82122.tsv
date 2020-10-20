@@ -1,0 +1,6 @@
+2008-02-15T18:42:00.000Z	b4l74z4r		i have a sound blaster card and i think that the sound is richer and more detailed in xp than in ubuntu, is it podssible that xp has "better" or different drivers than ubuntu?
+2008-02-15T18:43:00.000Z	keito	b4l74z4r	yeah its possible... are you using alsa or oss?
+2008-02-15T18:43:00.000Z	b4l74z4r	keito	i don't know, i'm using whatever is default
+2008-02-15T18:44:00.000Z	keito	b4l74z4r	OSS i tend to find is better
+2008-02-15T18:44:00.000Z	b4l74z4r	keito	ok, i'll try it out, thanks
+2008-02-15T18:45:00.000Z	keito	b4l74z4r	type alt+F2 then gstreamer-properties to see what you're using

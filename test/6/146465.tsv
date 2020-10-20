@@ -1,0 +1,6 @@
+2005-06-09T13:35:00.000Z	Highbie		hey, does anybody know how to change it so link extentions will show and i can change them?
+2005-06-09T13:35:00.000Z	Highbie		this is windows not ubuntu >.<
+2005-06-09T13:36:00.000Z	Highbie		this file of mine i downloaded somehow turned into a link, and i can't change it back and i can't access the file
+2005-06-09T13:36:00.000Z	dooglus	Highbie	yes, go to an explorer window, then one of the menus lets you get into 'folder options' (I think).  It's in there, called "hide extensions for known types"
+2005-06-09T13:38:00.000Z	dooglus	Highbie	hit windows-r then type "cmd" and hit return.  you'll be in a 'shell' window (such as it is) where you can 'cd' to the directory and "rename" the file
+2005-06-09T13:50:00.000Z	dooglus	Highbie	what does it say if you just run "rename" without arguments?  Or "rename/?"?

@@ -1,0 +1,6 @@
+2009-01-15T23:35:00.000Z	wassy121	Jerrr	It is normally standard in the "internet" section.  If not, just search for "remote desktop" in add/remove progs.
+2009-01-15T23:36:00.000Z	Jerrr	wassy121	: Sweet Thanks, I am going to try this tonight. I would love to be able t owork on my Ubuntu machine from home.  You good with drivers? My video card driver only gives my monitor max resolution of 1024x768 yet its native resolution is 1440x900
+2009-01-15T23:38:00.000Z	wassy121	Jerrr	The app in ubuntu is for connecting to Windows machines via RDP.  If you want to connect from Windows -> ubuntu, you need to set up the VNC server.
+2009-01-15T23:39:00.000Z	Jerrr	wassy121	: have you fooled around with FreeNX yet?
+2009-01-15T23:40:00.000Z	wassy121	Jerrr	First I have heard of it.
+2009-01-15T23:46:00.000Z	wassy121	Jerrr	yeah, the onboard sound from most big vendors are pretty well supported.

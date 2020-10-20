@@ -1,0 +1,6 @@
+2007-06-07T15:41:00.000Z	phantom_		How doo i set in kde prog to run at login???
+2007-06-07T15:43:00.000Z	phantom_		<lazaruslupine> isen't there a prog like session in gnome ?
+2007-06-07T15:44:00.000Z	phantom_		like session in kde
+2007-06-07T15:45:00.000Z	phantom_		<lazaruslupine> I use kde . Where is ~/.kde/Autostar located?
+2007-06-07T15:46:00.000Z	lazaruslupine	phantom_	it would be /home/yourname/.kde/Autostart
+2007-06-07T15:48:00.000Z	lazaruslupine	phantom_	, in the view menu select "show hidden files"

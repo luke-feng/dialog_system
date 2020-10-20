@@ -1,0 +1,6 @@
+2005-06-10T05:35:00.000Z	chris__		i have apt-get installed all php modules
+2005-06-10T05:35:00.000Z	chris__		i even remove --purged them then installed them again
+2005-06-10T05:36:00.000Z	chris__		looking at my phpinfo() it doesn't seem like any modules are loaded, curl zlib or anything
+2005-06-10T05:36:00.000Z	chris__		http://82.36.186.128/test.php
+2005-06-10T05:36:00.000Z	selinium	chris__	Have you restarted apache since installing all the mods?
+2005-06-10T05:38:00.000Z	selinium	chris__	: Sorry i haven't been following this, were are you in this?

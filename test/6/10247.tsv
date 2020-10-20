@@ -1,0 +1,6 @@
+2012-10-22T06:35:00.000Z	facu		Someone can help me?
+2012-10-22T06:36:00.000Z	facu		I want to format my hd but the livecd only do a fast format
+2012-10-22T06:36:00.000Z	facu		I wwant to do a Complete format
+2012-10-22T06:36:00.000Z	facu		How can I do it?
+2012-10-22T06:37:00.000Z	escott	facu	you can just dd if=/dev/zero of=/dev/sda
+2012-10-22T06:39:00.000Z	escott	facu	you cannot mess with the root device. so you *HAVE* to do it from a livecd

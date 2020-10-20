@@ -1,0 +1,6 @@
+2008-05-30T01:07:00.000Z	jamrun9		question: trying to install Hardy on a Dell Inspiron 3500 [https://wiki.ubuntu.com/DellInspiron3500]. Boots OK, select a language, main menu. No matter what I try to do, I get the scrolling ubuntu waiting logo, then the screen goes blank (with the exception of the blinking white underscore in the top left corner). Nothing else happens, so I kill the power at that point. Any ideas for getting it booted?
+2008-05-30T01:07:00.000Z	j1solutions	jamrun9	try burning a new disk
+2008-05-30T01:08:00.000Z	jamrun9	j1solutions	you think it's just a corrupted disk? obviously I can't check with the built-in utility, because that has the same reaction
+2008-05-30T01:08:00.000Z	j1solutions	jamrun9	i'd be 37 cents that the disk is ng
+2008-05-30T01:08:00.000Z	jamrun9	j1solutions	okay. verifying the .iso, then going to re-burn. thanks
+2008-05-30T01:10:00.000Z	j1solutions	jamrun9	you're welcome.  if you need one mailed to you, let me know

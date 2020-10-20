@@ -1,0 +1,6 @@
+2009-02-14T18:48:00.000Z	alexb92		hey guys, i am unable to use the internet at allon my computer, i was in the processing of updating firefox from the update manager when an error occured, i cant even use synaptic to remove it and reinstall it agan
+2009-02-14T18:48:00.000Z	alexb92		any ideas on how to fix?
+2009-02-14T18:49:00.000Z	burkmat	alexb92	Can you ping google.com?
+2009-02-14T18:50:00.000Z	burkmat	alexb92	So when you say "use the internet", you mean Firefox?
+2009-02-14T18:52:00.000Z	burkmat	alexb92	What error do you get when trying to start firefox?
+2009-02-14T18:53:00.000Z	burkmat	alexb92	`sudo apt-get remove firefox` says what?

@@ -1,0 +1,6 @@
+2008-07-27T19:20:00.000Z	rexus		hi guys, why in ubuntu 8.04.1, in /etc/hosts file, I have 127.0.0.1 and 127.0.1.1 ?
+2008-07-27T19:21:00.000Z	rexus		hugleo? is that because of Apache?
+2008-07-27T19:23:00.000Z	rexus		ow.. then if my network IP is 192.168.2.5 , and some one from the same network want to access my computer how can I refer them to 127.0.1.1 ?
+2008-07-27T19:24:00.000Z	XiXaQ	rexus	ips starting with 127 are local to the computer. It means "this computer".
+2008-07-27T19:24:00.000Z	XiXaQ	rexus	that is, if you ask someone else to connect to your 127.0.0.1, then you're really asking them to connect to their own computer.
+2008-07-27T19:27:00.000Z	XiXaQ	rexus	http://127.0.0.1 <-- All users that opens that url will be pointed to their own computer.

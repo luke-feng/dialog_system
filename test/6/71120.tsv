@@ -1,0 +1,6 @@
+2008-02-26T12:40:00.000Z	bluefoxx		oi! do fiber networks or thinet networks still work in ubuntu? i have a load of old parts i want to put to use, mayhaphs throw together some legacy compatable machines...
+2008-02-26T12:41:00.000Z	calc	bluefoxx	thinnet being 10mbps ethernet coax?
+2008-02-26T12:41:00.000Z	calc	bluefoxx	10base2 (iirc?)
+2008-02-26T12:42:00.000Z	bluefoxx	calc	yes, 10mbps 10base2 ethernet coaxial cable networking
+2008-02-26T12:42:00.000Z	calc	bluefoxx	i imagine it does you would just need to see if the nic driver you need is in the kernel ubuntu ships
+2008-02-26T12:42:00.000Z	bluefoxx	calc	i aquired all my schools legacy computers[non pentium fours]

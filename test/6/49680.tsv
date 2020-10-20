@@ -1,0 +1,6 @@
+2009-02-27T02:17:00.000Z	boingboing		help please! I can't load ubuntu, I'm from a livecd...
+2009-02-27T02:17:00.000Z	Flare183	boingboing	Explain
+2009-02-27T02:19:00.000Z	boingboing	Flare183	I have installed the ubuntu 8.04 OS on the sda2 drive and the bootloader on a FAT32 1GB usb pen in order to not sobstitute the original vista bootloader. I tried to load from usb pen but it says: GRUB
+2009-02-27T02:20:00.000Z	boingboing	Flare183	the usb pen is sdb and the partition of the hdd where ubuntu is "/" sda2
+2009-02-27T02:21:00.000Z	Flare183	boingboing	GRUB is the boot manager
+2009-02-27T02:22:00.000Z	boingboing	Flare183	yes i know...so how can i edit the grub on my sdb in order to boot my sda2 ?

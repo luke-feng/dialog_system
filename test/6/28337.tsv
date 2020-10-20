@@ -1,0 +1,6 @@
+2009-11-07T01:21:00.000Z	BiNaRyCoD		hi, i am trying to install ubuntu from a pxe boot, but i need some help and if anyone has experience in this please reply
+2009-11-07T01:21:00.000Z	xpo0f	BiNaRyCoD	make sure u setting up DHCP and TFTPD first
+2009-11-07T01:22:00.000Z	BiNaRyCoD	xpo0f	I have my router disabled and have tftp setup
+2009-11-07T01:22:00.000Z	xpo0f	BiNaRyCoD	u have vmlinuz image as well ?
+2009-11-07T01:24:00.000Z	BiNaRyCoD	xpo0f	I get this error in the logs: pxelinux.cfg: error 2 in system call CreateFile
+2009-11-07T01:24:00.000Z	xpo0f	BiNaRyCoD	look for the config too

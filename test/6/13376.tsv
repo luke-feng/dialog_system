@@ -1,0 +1,6 @@
+2011-01-18T06:27:00.000Z	tdebaets		my ubuntu system doesnt recognize the : command in shell scripts that are run under sudo anymore
+2011-01-18T06:28:00.000Z	tdebaets		this results in errors when updating packages, and when suspending/hibernating
+2011-01-18T06:28:00.000Z	tdebaets		any ideas?
+2011-01-18T06:29:00.000Z	ZykoticK9	tdebaets	what is the ":" command?  Are you sure you don't mean to use ";"?
+2011-01-18T06:29:00.000Z	tdebaets	ZykoticK9	":" means NULL in shell scripts
+2011-01-18T06:30:00.000Z	ZykoticK9	tdebaets	interesting, sorry i'm not familiar - best of luck.

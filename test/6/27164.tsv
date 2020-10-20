@@ -1,0 +1,6 @@
+2009-11-29T17:03:00.000Z	rolo		I type in terminal sudo apt-get install build-essential libgtkmm-2.4-dev autogen automake libtool intltool libglademm-2.4-dev
+2009-11-29T17:03:00.000Z	rolo		and I get
+2009-11-29T17:03:00.000Z	rolo		dpkg: parse error, in file `/var/lib/dpkg/status' near line 30728 package `xrgb':
+2009-11-29T17:03:00.000Z	rolo		 Configured-Version for package with inappropriate Status
+2009-11-29T17:03:00.000Z	rolo		E: Sub-process /usr/bin/dpkg returned an error code (2)
+2009-11-29T17:03:00.000Z	FloodBot5	rolo	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

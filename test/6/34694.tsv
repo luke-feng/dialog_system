@@ -1,0 +1,6 @@
+2009-11-04T03:04:00.000Z	m4rk		how do I install mod_sqlite?
+2009-11-04T03:04:00.000Z	Nubosal	m4rk	Open terminal, apt-cache search mod_sqlite or sqlite
+2009-11-04T03:07:00.000Z	m4rk	Nubosal	thanks. I tried that but it returns nothing
+2009-11-04T03:07:00.000Z	Nubosal	m4rk	What is the app name?
+2009-11-04T03:08:00.000Z	Nubosal	m4rk	Wait
+2009-11-04T03:09:00.000Z	Nubosal	m4rk	Dont you know if it has another name?

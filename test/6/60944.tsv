@@ -1,0 +1,6 @@
+2010-01-12T12:57:00.000Z	powertool08	ardchoille	How did you check that the user list was removed without logging out?
+2010-01-12T12:58:00.000Z	ardchoille	powertool08	I haven't logged out yet, I simply disabled the user list for the gdm screen
+2010-01-12T12:59:00.000Z	powertool08	ardchoille	Ok, I see, just trusting the command did its job.
+2010-01-12T12:59:00.000Z	ardchoille	powertool08	I did it from the gconf-editor
+2010-01-12T13:00:00.000Z	powertool08	ardchoille	Oh, I decided to ditch the list too, I followed the terminal command using gconftool in the link somebody sent you earlier.
+2010-01-12T13:04:00.000Z	ardchoille	powertool08	the setting to remove the user list in gconf-editor doesn't work. must be left-over from Jaunty and someone forgot to remove the setting

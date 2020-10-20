@@ -1,0 +1,6 @@
+2009-03-06T04:23:00.000Z	fsufitch		hi. i need some help. it would appear that the nvidia driver is broken on my computer. whenever i boot while using it, ubuntu freezes when i get to X actually being launched
+2009-03-06T04:24:00.000Z	daftykins	fsufitch	try reinstalling nvidia-glx-177
+2009-03-06T04:25:00.000Z	fsufitch	daftykins	177 didn't work before, so i was using 173
+2009-03-06T04:25:00.000Z	fsufitch	daftykins	i tried. same problem.
+2009-03-06T04:26:00.000Z	fsufitch	daftykins	i tried remove and reinstall, but i'll do a purge now
+2009-03-06T04:26:00.000Z	daftykins	fsufitch	"apt-get clean" as well to remove it from the apt cache

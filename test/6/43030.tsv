@@ -1,0 +1,6 @@
+2009-02-09T16:05:00.000Z	blizzle	blup	sudo shutdown -h 0 (or now)
+2009-02-09T16:05:00.000Z	blizzle	blup	note the value after the -h
+2009-02-09T16:07:00.000Z	blizzle	blup	Try ctrl+alt+f1-f7
+2009-02-09T16:08:00.000Z	blup	blizzle	i rebooted
+2009-02-09T16:08:00.000Z	blizzle	blup	sudo shutdown -r 0 will reboot rather than halt your system.
+2009-02-09T16:09:00.000Z	blup	blizzle	I made this pc for my mother and I would like that she would be able to turn of with the red button, I don't think she could open a terminal and wrtite commands...

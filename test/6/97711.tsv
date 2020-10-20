@@ -1,0 +1,6 @@
+2007-02-22T08:57:00.000Z	jacked		is there a way to add non-US locations to the weather calendar in evolution 2.8? (Edgy)
+2007-02-22T08:58:00.000Z	xtknight	jacked	i'm not sure about evolution but the gnome weather applet is international, at least
+2007-02-22T08:59:00.000Z	jacked	xtknight	I'm aware of that, thanks.  the evolution configuration file shows that it uses a US gov site for weather forecasting...  this seems to go against the gnome philosophy of internationalization
+2007-02-22T09:03:00.000Z	xtknight	jacked	probably NOAA, right? (for the gov site)
+2007-02-22T09:03:00.000Z	xtknight	jacked	i thought they had international forecast too but im not sure
+2007-02-22T09:08:00.000Z	jacked	xtknight	exactly.  I haven't been able to find the international forecasts

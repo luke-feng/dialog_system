@@ -1,0 +1,6 @@
+2009-11-21T09:42:00.000Z	nut		I just made an installation USB drive, but when I boot to it I get a flashing cursor --- any ideas?
+2009-11-21T09:43:00.000Z	joshua___	nut	ls <ENTER>
+2009-11-21T09:43:00.000Z	nut	joshua___	sadly no :(
+2009-11-21T09:43:00.000Z	nut	joshua___	same with space, tab, esc, etc
+2009-11-21T09:44:00.000Z	nut	joshua___	interesting, it works when booting to the live disk
+2009-11-21T09:44:00.000Z	nut	joshua___	it was only doing that when I was selecting the installation option, hmm

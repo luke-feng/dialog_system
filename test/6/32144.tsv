@@ -1,0 +1,6 @@
+2010-04-06T00:55:00.000Z	sevol		how do you connect to a wireless network via console?
+2010-04-06T00:55:00.000Z	Haffe	sevol	iwconfig
+2010-04-06T00:56:00.000Z	sevol	Haffe	can u be more specific
+2010-04-06T00:57:00.000Z	sevol	Haffe	i did iwconfig wlan0 essid NAME / iwconfig wlan0 key <key> / iwconfig wlan0 channel <channel> / iwconfig wlan0 mode managed / but how do i connect
+2010-04-06T00:58:00.000Z	Haffe	sevol	Don't you use sudo dhclient wlan0 after that?
+2010-04-06T00:58:00.000Z	sevol	Haffe	>_< do you? thats what im asking

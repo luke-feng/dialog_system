@@ -1,0 +1,6 @@
+2009-03-27T07:43:00.000Z	ynk		I decided to install 8.04 for now.
+2009-03-27T07:43:00.000Z	ynk		I have a radeon HD 2600XT card myself..
+2009-03-27T07:44:00.000Z	ynk		trolling the forums like crazy, but I'm having trouble finding a driver.
+2009-03-27T07:45:00.000Z	ynk		well, i'm using the drivers Ubuntu gave me, which seem to be from ATI.
+2009-03-27T07:46:00.000Z	ynk		isn't there any way to quickly test the 3D capabilities of my card?
+2009-03-27T07:46:00.000Z	mrwes	ynk	from a terminal type glxgears

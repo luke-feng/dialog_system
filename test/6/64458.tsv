@@ -1,0 +1,6 @@
+2008-05-05T09:23:00.000Z	jughead		what terminal command can I run to find out if I have DDR or DDR2 RAM installed?
+2008-05-05T09:24:00.000Z	amenado	jughead	rather its dmidecode
+2008-05-05T09:25:00.000Z	amenado	jughead	 anything?
+2008-05-05T09:26:00.000Z	amenado	jughead	 did it spit out what you seek?
+2008-05-05T09:28:00.000Z	jughead	amenado	I think so... It says DDR but it's 533MHz which is low for DDR (purchased laptop in 2k6)
+2008-05-09T23:35:00.000Z	amenado	jughead	i dont beleive you can go from feisty to hardy directly..have to go through gutsy i believe

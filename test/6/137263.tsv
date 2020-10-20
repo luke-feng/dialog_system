@@ -1,0 +1,6 @@
+2007-04-16T10:18:00.000Z	Lunar_Lamp		What is the role of the /sys die in ubuntu?
+2007-04-16T10:19:00.000Z	sipior	Lunar_Lamp	it provides for easy inspection of certain kernel variables
+2007-04-16T10:19:00.000Z	Lunar_Lamp	sipior	so it's not really necessary to back it up then?
+2007-04-16T10:19:00.000Z	sipior	Lunar_Lamp	also, it is not ubuntu-specific, but is provided for by the linux kernel proper
+2007-04-16T10:19:00.000Z	sipior	Lunar_Lamp	no, best to leave it alone
+2007-04-16T10:20:00.000Z	Lunar_Lamp	sipior	yeah, i presumed so (rsync cannot access it), but wanted to check.

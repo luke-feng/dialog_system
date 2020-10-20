@@ -1,0 +1,6 @@
+2006-06-21T14:39:00.000Z	atgaa		hi, I got (many) messages like this trying to update today - Failed to fetch http://us.archive.ubuntu.com/ubuntu/dists/breezy-backports/multiverse/source/Sources.gz 403 Forbidden [IP: 146.137.96.15 80] 
+2006-06-21T14:39:00.000Z	atgaa		apt-get update??
+2006-06-21T14:39:00.000Z	orbin	atgaa	us mirror is down
+2006-06-21T14:50:00.000Z	orbin	atgaa	http://wiki.ubuntu.com/Archive
+2006-06-21T14:50:00.000Z	atgaa	orbin	thanks
+2006-06-21T15:07:00.000Z	orbin	atgaa	yw

@@ -1,0 +1,6 @@
+2010-08-29T06:34:00.000Z	JanCBorchardt		I am trying to run the lkl keylogger but it does not accept any keymap file, I always get: unable to find UPPER case keymap file, check it!
+2010-08-29T06:34:00.000Z	JanCBorchardt		does anyone know another keylogger? I need it to find out which command a function key issues
+2010-08-29T06:35:00.000Z	bastid_raZor	JanCBorchardt	use 'xev' ..it will detect keypresses
+2010-08-29T06:37:00.000Z	JanCBorchardt	bastid_raZor	oh, thanks – that’s what I needed but it does not log this specific function key (it does log volume up / down etc. though)
+2010-08-29T06:38:00.000Z	JanCBorchardt	bastid_raZor	it is a function to switch off the backlight LED of the power button. Do you know anything that could help?
+2010-08-29T06:39:00.000Z	bastid_raZor	JanCBorchardt	i do not.

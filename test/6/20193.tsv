@@ -1,0 +1,6 @@
+2010-06-01T12:10:00.000Z	thinkstu		fsck get the same error, and mentioned that I have to fix it using chkdsk
+2010-06-01T12:12:00.000Z	thinkstu		"
+2010-06-01T12:14:00.000Z	thinkstu		VISTA
+2010-06-01T12:14:00.000Z	theadmin	thinkstu	Can you boot from a windows CD, get to the recovery console and do it from there?
+2010-06-01T12:14:00.000Z	thinkstu	theadmin	I don't have the Windows CD now :(
+2010-06-03T14:08:00.000Z	theadmin	thinkstu	menu.lst is not ever used since... Jaunty? Karmic? it's grub.cfg now

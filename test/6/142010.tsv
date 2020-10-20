@@ -1,0 +1,6 @@
+2005-07-22T09:18:00.000Z	jag3370		help please
+2005-07-22T09:18:00.000Z	jag3370		help please
+2005-07-22T09:18:00.000Z	jag3370		<---------linux/ubuntu noob --- i finally got sound working completely in root signin --- how do i make this available to all users?
+2005-07-22T09:19:00.000Z	davidf	jag3370	you probably need to put the others in the audio group
+2005-07-22T09:19:00.000Z	davidf	jag3370	"sudo vigr" will get you to the group editor
+2005-07-22T09:23:00.000Z	jag3370	davidf	i am in vigr --- how do i edit this

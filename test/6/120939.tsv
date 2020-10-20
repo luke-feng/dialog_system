@@ -1,0 +1,6 @@
+2006-04-29T10:42:00.000Z	williamvergara_		> hi, i have a really fast question; how do i add a custom deb package to a local mirror? i would apreciate a link to documentation also. regards
+2006-04-29T10:43:00.000Z	williamvergara_		i just need a hint
+2006-04-29T10:43:00.000Z	williamvergara_		thats all
+2006-04-29T10:43:00.000Z	watson540	williamvergara_	man dpkg
+2006-04-29T10:43:00.000Z	watson540	williamvergara_	dpkg -i to install a pkg
+2006-04-29T10:45:00.000Z	watson540	williamvergara_	why bother ??

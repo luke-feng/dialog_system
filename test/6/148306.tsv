@@ -1,0 +1,6 @@
+2005-07-13T10:04:00.000Z	Aerebus		Can someone please help me fix my mouse? i've been trying to get it fixed for over an hour in #linux and i would hope someone from here could help since i'm using Ubuntu 5.04. Someone said my mouse has the wrong protocol and i put my xorg.conf up on http://www.rafb.net/paste/results/nVCWCg70.html
+2005-07-13T10:06:00.000Z	Aerebus		Jewel, thats what is was before someone told me to change it to /dev/psaux
+2005-07-13T10:06:00.000Z	Aerebus		My mouse is moving all over the screen and clicking on all sorts of things
+2005-07-13T10:07:00.000Z	Aerebus		its a usb mouse with a ps2 adapter a logitech mx510 http://www.logitech.com/index.cfm/products/details/US/EN,CRID=2142,CONTENTID=7982
+2005-07-13T10:07:00.000Z	Razor-X	Aerebus	reccomending mice... tut tut
+2005-07-16T10:27:00.000Z	Razor-X	Aerebus	rm -r foldername

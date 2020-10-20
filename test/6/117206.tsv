@@ -1,0 +1,6 @@
+2006-05-28T13:52:00.000Z	Abo		clikay, how exactly can I install kdevelop? (apt-get install kdevelop says it couldnt' find the package, and I have all universe enabled)
+2006-05-28T13:52:00.000Z	Abo		!info kdevelop
+2006-05-28T13:52:00.000Z	joedj	Abo	apt-get install kdevelop3
+2006-05-28T13:52:00.000Z	Abo		ok
+2006-05-28T13:53:00.000Z	Abo	joedj	cheers
+2006-05-28T14:04:00.000Z	Abo	joedj	this kdevelop3 looks real cool, I'll have to play around with it for a while

@@ -1,0 +1,6 @@
+2010-11-25T10:04:00.000Z	netterbooker		can someone help me?
+2010-11-25T10:05:00.000Z	netterbooker		hi
+2010-11-25T10:06:00.000Z	netterbooker		how would i go about installing ubuntu from my card reader
+2010-11-25T10:07:00.000Z	crawler	netterbooker	i imagine you would have to be able to first boot from your card reader.  no idea if BIOS even support that funtion (i'm not aware of cutting edge technology)
+2010-11-25T10:08:00.000Z	crawler	netterbooker	why not install it using a USB stick?
+2010-11-25T10:11:00.000Z	crawler	netterbooker	there's also PXE boot if your BIOS supports it, so you can install ubuntu over the network (provided you have 2 somputers connected)

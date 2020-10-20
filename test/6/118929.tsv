@@ -1,0 +1,6 @@
+2006-05-12T07:08:00.000Z	Dingo		pygtk comes bundled in ubuntu or I have to install it?
+2006-05-12T07:09:00.000Z	kbrooks	Dingo	in... i think.
+2006-05-12T07:09:00.000Z	Dingo	kbrooks	well then I can't find it :P
+2006-05-12T07:10:00.000Z	kbrooks	Dingo	python
+2006-05-12T07:10:00.000Z	kbrooks	Dingo	>>> import pygtk
+2006-05-12T07:11:00.000Z	Dingo	kbrooks	yes but where's the GUI builder?

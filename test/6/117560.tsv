@@ -1,0 +1,6 @@
+2007-12-23T00:53:00.000Z	cvd		its any soft  to free ram?
+2007-12-23T00:55:00.000Z	cvd		but sometimes after finishing the ram still in "use"
+2007-12-23T00:55:00.000Z	JordiGH	cvd	Heh. In English, we don't shorten "software" to "soft".
+2007-12-23T00:56:00.000Z	JordiGH	cvd	And mention a specific example. Linux should always be using all your RAM. What application isn't freeing RAM after you close it?
+2007-12-23T00:58:00.000Z	JordiGH	cvd	And mention a specific example. Linux should always be using all your RAM. What application isn't freeing RAM after you close it?
+2007-12-23T01:00:00.000Z	JordiGH	cvd	Linux doesn't need such a tool. It's much smarter than Windows on how it handles RAM.

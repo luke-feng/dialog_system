@@ -1,0 +1,6 @@
+2008-08-26T00:47:00.000Z	djhash	Kartagis	did you use sudo?
+2008-08-26T00:48:00.000Z	Kartagis	djhash	what for?
+2008-08-26T00:48:00.000Z	djhash	Kartagis	for the ./configure command
+2008-08-26T00:48:00.000Z	Kartagis	djhash	I don't need sudo for ./configure, do I?
+2008-08-26T00:50:00.000Z	djhash	Kartagis	not really..
+2008-09-25T12:44:00.000Z	djhash	Kartagis	it is possible that a generic driver is installed in one OS that would detect the chipset as an older model..

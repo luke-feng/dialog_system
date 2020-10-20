@@ -1,0 +1,6 @@
+2012-11-13T03:57:00.000Z	NET||abuse		what's the feeling on the latest nvidia drivers for 12.10?
+2012-11-13T03:58:00.000Z	NET||abuse		i've got 304.51 it would seem from the dpkg -l output, i see 304.64 up on their site, and 310.14 which seems to be some huge performance boosting optimisation release for high end cards
+2012-11-13T03:58:00.000Z	tyler_d1	NET||abuse	the resume support is finicky at best, my 440 overheats to about 96 with minimal graphic push(flash)... but otherwise, I've never really fealt them
+2012-11-13T03:59:00.000Z	NET||abuse		i've only an NVS 4200M on the lappy here.
+2012-11-13T03:59:00.000Z	tyler_d1	NET||abuse	oh, dual monitor support requires manually setting it / unsetting it, if you unplug without modifying the config, it is quite fun to "unset" the dual monitor mode
+2012-11-13T04:00:00.000Z	NET||abuse	tyler_d1	i'm finding that works really well for me, i unplug and it resets the desktop to single monitor resolution no problem...

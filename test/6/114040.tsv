@@ -1,0 +1,6 @@
+2010-08-28T21:22:00.000Z	bjv		Who is in charge of archive mounter?
+2010-08-28T21:22:00.000Z	bjv		or is it just useless
+2010-08-28T21:23:00.000Z	jrib	bjv	do you have an actual support question?
+2010-08-28T21:23:00.000Z	bjv	jrib	is there a way to use archive mounter to mount the archive loopback?
+2010-08-28T21:24:00.000Z	bjv	jrib	because for now ive just put an script next to my .iso to run gksudo 'losetup -f *etc.'
+2010-08-28T21:25:00.000Z	jrib	bjv	I think there exists a nautilus script to do that, but I don't know about "archive mounter"

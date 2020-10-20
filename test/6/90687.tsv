@@ -1,0 +1,6 @@
+2007-03-31T10:32:00.000Z	ndee__		hello there, I started the ubuntu desktop CD on the PC of my friend because I think her Windows Installation has a ton of viruses. Is it somehow possible to install an Anti Virus Scanner and get rid of all the malware on her Windows installation?
+2007-03-31T10:32:00.000Z	phaedra	ndee__	 Yes, clam-av
+2007-03-31T10:33:00.000Z	ndee__	phaedra	ok, gonna try that.
+2007-03-31T10:34:00.000Z	phaedra	ndee__	 Just mount the win partitions and scan them from Ubuntu.  I do...
+2007-03-31T10:34:00.000Z	ndee__	phaedra	ok.
+2007-03-31T10:36:00.000Z	ndee__	phaedra	how can I see the name of the windows partition?

@@ -1,0 +1,6 @@
+2008-04-14T12:12:00.000Z	gluonman		I am trying to send a video to my friend who is using Windows XP and I have Linux ubuntu. I have to compress the files into an archive in order for them to fit in an e-mail, but can my newly made tar.gz be usable at all on her computer?
+2008-04-14T12:14:00.000Z	Jordan_U	gluonman	You can make it a regular zip file rather than a tarred gzipped file
+2008-04-14T12:15:00.000Z	gluonman	Jordan_U	how do you make a zip file in Linux?
+2008-04-14T12:15:00.000Z	Jordan_U	gluonman	In nautilus ( gnome ) right click it :)
+2008-04-14T12:15:00.000Z	gluonman	Jordan_U	thank you.
+2008-04-14T12:15:00.000Z	Jordan_U	gluonman	np

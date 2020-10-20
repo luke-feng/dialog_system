@@ -1,0 +1,6 @@
+2006-02-23T10:07:00.000Z	skunk_eyed		Where is the $PATH variable  defined in ubuntu?
+2006-02-23T10:09:00.000Z	skunk_eyed		Where is the $PATH variable  defined in ubuntu?
+2006-02-23T10:09:00.000Z	mcphail	skunk_eyed	/etc/profile
+2006-02-23T10:10:00.000Z	skunk_eyed	mcphail	i edited some stuff in there but didn't update
+2006-02-23T10:10:00.000Z	skunk_eyed	mcphail	as in path
+2006-02-23T10:10:00.000Z	mcphail	skunk_eyed	edit you own .bashrc then restart the shell

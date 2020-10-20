@@ -1,0 +1,6 @@
+2011-04-11T23:39:00.000Z	Kindari		Hey guys, how would I mount a hard drive without an entry in fstab?
+2011-04-11T23:39:00.000Z	Kindari		Temporary gig only.
+2011-04-11T23:40:00.000Z	erUSUL	Kindari	sudo mount -t <fstype> /dev/sd<xx> /mount/point/
+2011-04-11T23:41:00.000Z	Kindari	erUSUL	thanks.
+2011-04-11T23:47:00.000Z	erUSUL	Kindari	is raid1?
+2011-04-11T23:50:00.000Z	erUSUL	Kindari	see here http://www.linuxquestions.org/questions/linux-software-2/recovering-data-from-remaining-raid-1-disk-723225/

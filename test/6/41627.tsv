@@ -1,0 +1,6 @@
+2010-08-21T06:26:00.000Z	uRock		what command do I use to recursively change the permissions in every folder in home to 777?
+2010-08-21T06:26:00.000Z	uRock		?
+2010-08-21T06:26:00.000Z	uRock		thanx
+2010-08-21T06:28:00.000Z	uRock		cause when I instlled 10.04 over 9.10 it screwed up the themes and I can't fix them so I created a new account and am coping everything but confs over to the new account, MichealH
+2010-08-21T06:28:00.000Z	uRock		k
+2010-08-21T06:28:00.000Z	ZykoticK9	uRock	careful with that 777 command.  You probably don't want all your files executable.

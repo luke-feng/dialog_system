@@ -1,0 +1,6 @@
+2012-01-11T18:44:00.000Z	shachar		Hi , is there a way to search\list apt - get using the CLI?
+2012-01-11T18:44:00.000Z	iceroot	shachar	apt-cache search foobar
+2012-01-11T18:46:00.000Z	shachar	iceroot	: How can i see which one of the list items are installed ?
+2012-01-11T18:46:00.000Z	iceroot	shachar	dpkg -l | grep ^ii
+2012-01-11T18:48:00.000Z	shachar	iceroot	: Thank you , i entered the followin line to sudoers but when iam trying to 'sudo' i still need to enter passwd : shachar ALL=(ALL) NOPASSWD: ALL
+2012-01-11T18:51:00.000Z	shachar	iceroot	: Thank you , i entered the followin line to sudoers but when iam trying to 'sudo' i still need to enter passwd : shachar ALL=(ALL) NOPASSWD: ALL what is the right syntax?

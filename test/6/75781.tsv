@@ -1,0 +1,6 @@
+2010-07-05T13:57:00.000Z	A[D]minS		How i can show remaining unused space of physical disk  "Not Formated"  ? fdisk -l not helpful. any ideas?
+2010-07-05T13:58:00.000Z	psycho_oreos	A[D]minS	try df -h
+2010-07-05T13:58:00.000Z	A[D]minS	psycho_oreos	 "Not Formated"
+2010-07-05T13:58:00.000Z	psycho_oreos	A[D]minS	ah, thought it was mounted, my bad
+2010-07-05T13:59:00.000Z	psycho_oreos	A[D]minS	probably parted
+2010-07-05T14:01:00.000Z	psycho_oreos	A[D]minS	no worries, though abhi_nav solved the other part

@@ -1,0 +1,6 @@
+2011-09-29T13:22:00.000Z	nailox		can i paste links here in the channel chat ?
+2011-09-29T13:23:00.000Z	nailox		ok so im using this howto https://help.ubuntu.com/community/PostfixVirtualMailBoxClamSmtpHowto but when I send a test email with the "mail" command - its not working - there is nothing in /home/vmail
+2011-09-29T13:24:00.000Z	nailox		oops sorry
+2011-09-29T13:24:00.000Z	llutz_	nailox	check logs /var/log/mail.error
+2011-09-29T13:32:00.000Z	llutz_	nailox	wherever you configured your syslogd to write the logs
+2011-09-29T13:32:00.000Z	llutz_	nailox	grep -ri postfix /var/log/*

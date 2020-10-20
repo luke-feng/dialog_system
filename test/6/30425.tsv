@@ -1,0 +1,6 @@
+2011-04-30T19:15:00.000Z	krad		just wana see where it hangs
+2011-04-30T19:15:00.000Z	pfifo	krad	if you dont want to reinstall you can chroot into the install and add upstart back
+2011-04-30T19:17:00.000Z	pfifo	krad	tack on a `dpkg-reconfigure upstart` once your nstall upstart just to be safe
+2011-04-30T19:18:00.000Z	pfifo	krad	what version of ubuntu are you using?
+2011-04-30T19:18:00.000Z	krad	pfifo	terry, http://pastebin.com/pc6qrj5h
+2011-04-30T19:19:00.000Z	pfifo	krad	thats not a fail condition, your still ok

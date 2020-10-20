@@ -1,0 +1,6 @@
+2011-02-17T05:36:00.000Z	induz		I have this file on my desktop wine-door.tar.gz, how can i install it as a program... I am trying hard to get it right
+2011-02-17T05:37:00.000Z	iflema	induz	 usually, in a terminal @ that dir, type     ./configure    then type    make    then do a     sudo make install       provided the file is extracted and its dependencies are in place..... =)
+2011-02-17T05:39:00.000Z	induz	iflema	it does not work
+2011-02-17T05:54:00.000Z	iflema	induz	extract the file, then enter the extracted folders directory in a terminal (cd /path/to/extract) then ./configure, make, sudo make install
+2011-02-17T06:04:00.000Z	iflema	induz	ms word works good on wine alone, once install in a terminal    wine /path/to/msoffice.exe   or whatever.... Virtual machine of winblows even better or you have no winblowsto install? I know where MS Word runs best :P
+2011-02-24T03:18:00.000Z	iflema	induz	terninal = df -h  or applications/accessories has a disk usage app

@@ -1,0 +1,6 @@
+2009-09-28T20:41:00.000Z	Dougal		how do i edit a config file when i don't have permissions?
+2009-09-28T20:42:00.000Z	Halitech	Dougal	you can use sudo nano in the terminal or gksudo gedit for a graphical app
+2009-09-28T20:43:00.000Z	Dougal	Halitech	never did learn any terminal based editors, i really should, but not today. So i'll use gedit
+2009-09-28T20:53:00.000Z	Halitech	Dougal	sudo /etc/init.d/sshd restart I think
+2009-11-11T19:42:00.000Z	Halitech	Dougal	dyndns allows to you just remember a hostname instead of the IP address as the dyndns client will keep the IP address updated to the name
+2009-11-11T19:43:00.000Z	Halitech	Dougal	but if its not working remotely I'd be looking at a router config issue

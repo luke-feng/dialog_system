@@ -1,0 +1,6 @@
+2006-03-27T07:50:00.000Z	nazgulwalker		how can i isntall w32 codes to amd64 breezy?
+2006-03-27T07:51:00.000Z	nazgulwalker		how can i isntall w32 codes to amd64 breezy?
+2006-03-27T07:51:00.000Z	drew	nazgulwalker	they are win "32" codecs - 32 bit not 64...
+2006-03-27T07:54:00.000Z	drew	nazgulwalker	you have to run 32bit separately, try here: http://www.ubuntuforums.org/showthread.php?t=24575
+2006-03-27T07:54:00.000Z	drew	nazgulwalker	seriously - just search on ubuntu forums
+2006-03-27T07:55:00.000Z	drew	nazgulwalker	it's all there

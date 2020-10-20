@@ -1,0 +1,6 @@
+2011-03-06T22:51:00.000Z	_Neytiri_		in am getting a error every time i try and runa executeable program in cli
+2011-03-06T22:52:00.000Z	_Neytiri_		-bash: ./sc_serv: No such file or directory
+2011-03-06T22:52:00.000Z	shcherbak	_Neytiri_	What error?
+2011-03-06T22:55:00.000Z	shcherbak	_Neytiri_	what was a command?
+2011-04-21T04:02:00.000Z	shcherbak	_Neytiri_	ntpdate
+2011-04-21T04:03:00.000Z	shcherbak	_Neytiri_	Use server of your like, timezone is set in your system anyway.

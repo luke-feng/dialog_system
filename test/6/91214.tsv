@@ -1,0 +1,6 @@
+2007-03-24T13:29:00.000Z	Carsten-		can anyone tell me how to get back to my X windows defaults from just after i installed the system?
+2007-03-24T13:30:00.000Z	Carsten-		please... anyone
+2007-03-24T13:31:00.000Z	Carsten-		what do i need to do to get a reply in here?
+2007-03-24T13:32:00.000Z	Carsten-		ok let me put it another way I asked a question to simply restore my old X config I dont know how many times ive asked it seems to have gone ignored every time
+2007-03-24T13:33:00.000Z	orkim	Carsten-	did you check in /etc/X11/ for a file like xorg.conf.back or something?
+2007-03-24T13:33:00.000Z	orkim	Carsten-	then it seens you dont have a backup

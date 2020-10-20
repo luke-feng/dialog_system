@@ -1,0 +1,6 @@
+2008-09-23T16:40:00.000Z	crushy		hi
+2008-09-23T16:40:00.000Z	crushy		i installed windows xp and now i cant see any option to run ubuntu again :( how to get it back without re-installing it again, it has alot of things in it
+2008-09-23T16:40:00.000Z	mootxk	crushy	grub doesn't load?
+2008-09-23T16:41:00.000Z	mootxk	crushy	gotta reinstall grub then
+2008-09-23T16:43:00.000Z	mootxk	crushy	if you have a rescue/livecd with chroot... you could do it
+2008-09-23T16:45:00.000Z	mootxk	crushy	second post: http://ubuntuforums.org/archive/index.php/t-24113.html

@@ -1,0 +1,6 @@
+2005-08-31T12:34:00.000Z	floppyears		hi
+2005-08-31T12:34:00.000Z	floppyears		I'm trying to create a ssh key, but I'm not sure if I should use dsa or rsa as the algorithm, could somebody explain me which one is better?
+2005-08-31T12:35:00.000Z	nalioth_wrkn	floppyears	an ssh key or gpg?
+2005-08-31T12:36:00.000Z	floppyears	nalioth_wrkn	ssh key
+2005-08-31T12:36:00.000Z	nalioth_wrkn	floppyears	rsa
+2005-08-31T12:37:00.000Z	floppyears	nalioth_wrkn	thanks

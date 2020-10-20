@@ -1,0 +1,6 @@
+2005-09-17T11:09:00.000Z	Answer		Question: I want to automatically tar and scp some files every night, how?
+2005-09-17T11:10:00.000Z	webtoe	Answer	you can put it into a script and get cron to run it when you want it to
+2005-09-17T11:10:00.000Z	Answer	webtoe	How to setup cron to run every night at 2am
+2005-09-17T11:11:00.000Z	webtoe	Answer	i don't know off the top of my head. You'll need to check the man page
+2005-09-17T11:52:00.000Z	Answer	webtoe	You have to first enable your GMAIL POP Access, then you can use any POP Client (For example Evolution or Thunderbird or Eudora)
+2005-09-17T11:52:00.000Z	webtoe	Answer	Thanks! never knew that....

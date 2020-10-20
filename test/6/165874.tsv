@@ -1,0 +1,6 @@
+2004-10-18T12:41:00.000Z	laydros		1: there is no root account by default
+2004-10-18T12:42:00.000Z	laydros		you use sudo <command foo>
+2004-10-18T12:42:00.000Z	laydros		the user account you create
+2004-10-18T12:42:00.000Z	laydros		it will use that password
+2004-10-18T12:42:00.000Z	laydros		or if you run something in the gui that needs root privlagies, it pops up gtksu and asks for password
+2004-10-18T12:43:00.000Z	Mithrandir	laydros	gksudo. :)

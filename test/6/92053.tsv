@@ -1,0 +1,6 @@
+2008-08-05T00:01:00.000Z	nixnoob_		anyone know how to view .xwd files in windows?
+2008-08-05T00:01:00.000Z	Slart	nixnoob_	what kind of software creates those files?
+2008-08-05T00:02:00.000Z	nixnoob_	Slart	its x windows dump from ubuntu
+2008-08-05T00:02:00.000Z	nixnoob_	Slart	xwd -out screenshot.xwd -root -display :0.0 was the command
+2008-08-05T00:02:00.000Z	Slart	nixnoob_	ah.. gimp can't handle it?
+2008-08-05T00:03:00.000Z	nixnoob_	Slart	the problem is that I'm on a windows box using ssh and scp.

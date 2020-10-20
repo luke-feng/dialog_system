@@ -1,0 +1,6 @@
+2006-08-17T14:10:00.000Z	OmegaNine		Has anyone here ever got Kismet to compile in ubuntu?
+2006-08-17T14:12:00.000Z	OmegaNine		Poo
+2006-08-17T14:13:00.000Z	OmegaNine		Yeah it tell me ..."configure: error: Unable to find libncurses or libcurses"
+2006-08-17T14:14:00.000Z	OmegaNine		But I have installed the ones I could find with that in the name, looks like they are GUI libraries
+2006-08-17T14:14:00.000Z	OmegaNine		"libncursesw5 is already the newest version."
+2006-08-17T14:15:00.000Z	Acid___	OmegaNine	libncurses5-dev

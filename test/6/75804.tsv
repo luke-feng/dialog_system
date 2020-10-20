@@ -1,0 +1,6 @@
+2007-10-18T21:17:00.000Z	ooblet		Hello! Ive got a Intel Core 2 Duo T7100 1.80GHz cpu, but ubuntu treats it as a 1200MHz, any hints/tips?
+2007-10-18T21:18:00.000Z	Amaranth	ooblet	This is alright, it does frequency scaling to save power/heat
+2007-10-18T21:18:00.000Z	Amaranth	ooblet	It should go to higher speeds when they're needed
+2007-10-18T21:18:00.000Z	ooblet	Amaranth	neat, thanks
+2007-10-18T21:20:00.000Z	ooblet	Amaranth	can I disable it? I could google it myself if you give me a hint on what to search for :)
+2007-10-18T21:20:00.000Z	Amaranth	ooblet	Why? It doesn't hurt, only help

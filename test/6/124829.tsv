@@ -1,0 +1,6 @@
+2006-02-25T16:41:00.000Z	bogoff		What firewall ports do I need open to use the Ubuntu 'Add Application' tool?
+2006-02-25T16:42:00.000Z	bogoff		Does anyone care to help me at all?
+2006-02-25T16:44:00.000Z	bogoff		!tell bogoff about repositories
+2006-02-25T16:45:00.000Z	bimberi	bogoff	not all apps add to the menu (yes, it's annoying).  That said, sometimes restarting the panel with 'killall gnome-panel' can make new entries appear.
+2006-02-25T16:46:00.000Z	bogoff	bimberi	never worked :)
+2006-02-25T16:46:00.000Z	bimberi	bogoff	kk

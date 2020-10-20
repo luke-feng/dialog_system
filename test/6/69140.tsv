@@ -1,0 +1,6 @@
+2008-03-16T21:07:00.000Z	amenado		what trick one can do to print a web page in let say default font 12 size while when viewed in  a browser it could be 18 ?  old people need to view the screen bigger :P
+2008-03-16T21:09:00.000Z	amenado		core_-> /etc/network/interfaces
+2008-03-16T21:10:00.000Z	amenado		core_-> you can store it in there, the exact syntax i do not know off hand
+2008-03-16T21:11:00.000Z	amenado		core_-> if you want the transient settings, you have to dig it up from /proc  or maybe /sys
+2008-03-16T21:12:00.000Z	core_	amenado	brobostigon before i had to reinstall ubuntu the 2nd time there were 3 files that was actually called rate, bssid and channel that i would edit. any idea?
+2008-03-16T21:13:00.000Z	core_	amenado	brobostigon i am trying to automatically set the information im trying to use by using iwconfig eth1 bssid 00:00:00:00:00:00 it returns that the mode is not supported

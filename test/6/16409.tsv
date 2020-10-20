@@ -1,0 +1,6 @@
+2010-10-07T08:06:00.000Z	picasso		Hi.. Wondering if anyone here has experience running Ubuntu as a guest OS with VMWare. I just installed fresh 10.04, vmware shared folders were working, then i ran all the ubuntu updates and shared folders stopped working.
+2010-10-07T08:07:00.000Z	picasso		I understand that there's a kernel module vmhgfs, and i'm not seeing it anymore
+2010-10-07T08:07:00.000Z	picasso		oh great
+2010-10-07T08:08:00.000Z	picasso		...
+2010-10-07T08:10:00.000Z	kaosZERO	picasso	have you ran vmware-config-tools.pl after you updated?
+2010-10-07T08:57:00.000Z	kaosZERO	picasso	not on a macbook but i have run ubuntu in vmware

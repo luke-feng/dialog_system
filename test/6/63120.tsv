@@ -1,0 +1,6 @@
+2008-05-05T15:17:00.000Z	sledgeas		hi
+2008-05-05T15:17:00.000Z	sledgeas		how can i install a package without internet connection (downloading .debs and copying them into apt/cache/ ?)
+2008-05-05T15:17:00.000Z	hischild	sledgeas	download them from the internet, copy them over, double click them.
+2008-05-05T15:19:00.000Z	sledgeas	hischild	how can I find out dependencies, which i will satisfy, which i won't? i want to add compizconfig-settings-manager to an offline fresh hardy install
+2008-05-05T15:19:00.000Z	sledgeas	hischild	without trial/error, because i have to travel back and forth
+2008-05-05T15:20:00.000Z	hischild	sledgeas	that'd be a bit hard. You could do it on a virtual machine i guess. But that'd be the only way i know off.

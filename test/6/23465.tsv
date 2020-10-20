@@ -1,0 +1,6 @@
+2010-03-10T11:47:00.000Z	testpage		anyone know tightvncserver pretty good
+2010-03-10T11:47:00.000Z	testpage		my xstart config looks right according to tutorials
+2010-03-10T11:47:00.000Z	testpage		but im getting invalid font-path
+2010-03-10T11:47:00.000Z	testpage		any help would be much appreciated
+2010-03-10T11:48:00.000Z	ShibariMstr	testpage	does it give you the error bitmap module not found?
+2010-03-10T11:53:00.000Z	ShibariMstr	testpage	try editing the script

@@ -1,0 +1,6 @@
+2008-06-17T09:58:00.000Z	philsf		how can I tell which usb device is in "usb 5-1"? lsusb reports nothing in Bus 005 Device 001
+2008-06-17T09:59:00.000Z	Agent_bob	philsf	lsusb  ?
+2008-06-17T10:00:00.000Z	philsf	Agent_bob	nothing there
+2008-06-17T10:00:00.000Z	Agent_bob	philsf	hmmm  then there must not be anything there.
+2008-06-17T10:00:00.000Z	philsf	Agent_bob	http://pastebin.com/f6cf81ff4
+2008-06-17T10:04:00.000Z	philsf	Agent_bob	any thoughts?

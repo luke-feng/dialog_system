@@ -1,0 +1,6 @@
+2009-03-04T11:52:00.000Z	CosmiChaos		My firefox startpage is loaded without images and scripts but ONLY when i start firefox, after reload everything is fine, any ideas
+2009-03-04T11:53:00.000Z	CosmiChaos		is there no way to fix firefox
+2009-03-04T11:54:00.000Z	CosmiChaos		i love my plugins i have opera for other purposes but... i asked for firefox fix not for alternatives
+2009-03-04T11:55:00.000Z	nanotube	CosmiChaos	if disabling all plugins doesn't work, try starting a fresh profile...
+2009-03-04T11:55:00.000Z	CosmiChaos	nanotube	thanks
+2009-03-04T12:13:00.000Z	CosmiChaos	nanotube	hey deactivating all plugins and reactivating as well as uninstalling no more needed and not upgradable (3.0.6) ;) that fixed it

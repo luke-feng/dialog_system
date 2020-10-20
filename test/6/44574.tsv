@@ -1,0 +1,6 @@
+2009-06-18T05:32:00.000Z	mparker5398		no
+2009-06-18T05:34:00.000Z	mparker5398		no im new to ubuntu and dont know mutch about it yet
+2009-06-18T05:36:00.000Z	mparker5398		im getting an error when updateing
+2009-06-18T05:37:00.000Z	mparker5398		E: dpkg was interrupted, you must manually run 'sudo dpkg --configure -a' to correct the problem.
+2009-06-18T05:37:00.000Z	mparker5398		E: _cache->open() failed, please report.
+2009-06-18T05:38:00.000Z	racecar56	mparker5398	 sudo dpkg --configure -a

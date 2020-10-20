@@ -1,0 +1,6 @@
+2005-09-08T11:59:00.000Z	kung		hi there
+2005-09-08T12:00:00.000Z	kung		can anyone tell me, in which file the modules are placed, that ubuntu loads at boot time?
+2005-09-08T12:01:00.000Z	kung		yea, I'm trying to remove the module for my onboard sound card
+2005-09-08T12:01:00.000Z	kung		no, /etc/modules is for additional modules it seems
+2005-09-08T12:01:00.000Z	h0sl3r	kung	just remove it in the bios.
+2005-09-08T12:02:00.000Z	h0sl3r	kung	just remove it in the bios.

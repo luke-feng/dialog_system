@@ -1,0 +1,6 @@
+2007-04-21T11:51:00.000Z	omegabeta		Question: If i boot in to the fiesty live cd and chose to make my existing edgy install (sda1) the root (/) and install it that way, will that erase everything or keep everything intact and simply upgrade the dist? I'm having huge issues upgrading and ive pretty much broken everything so i just want to install ubuntu fiesty clean from the cd but keep everything i already have on my existing efty install..
+2007-04-21T11:52:00.000Z	omegabeta		actually, i think /home "is" on another paty.. i just cant bloody remember :(
+2007-04-21T11:53:00.000Z	omegabeta		Flanel: As in, all my files... my music, everything on the desktop etc
+2007-04-21T11:54:00.000Z	mjbrooks	omegabeta	you can't remember if your /home is on another partition?
+2007-04-21T11:56:00.000Z	mjbrooks	omegabeta	if /home is on the same partition as / you need to back it up first
+2007-04-21T12:07:00.000Z	mjbrooks	omegabeta	is /home on sda1??

@@ -1,0 +1,6 @@
+2012-03-28T11:04:00.000Z	rajarshi		how to run jar files in ubuntu 11.10
+2012-03-28T11:04:00.000Z	rajarshi		can some1 help?????
+2012-03-28T11:05:00.000Z	ActionParsnip	rajarshi	java filename.jar
+2012-03-28T11:08:00.000Z	ActionParsnip	rajarshi	what is the output of: lsb_release -sc
+2012-03-28T11:10:00.000Z	ActionParsnip	rajarshi	and the output of: java -version
+2012-03-28T11:13:00.000Z	ActionParsnip	rajarshi	could try installing Oracle Java

@@ -1,0 +1,6 @@
+2007-10-21T09:07:00.000Z	woohoo		hi.. when i try to enable the nvidia driver it says 'the software source for this package is not enabled nvidia-glx-new' wat cani do?
+2007-10-21T09:08:00.000Z	zyxnull	woohoo	: Enable "propietary drivers for devices" on the "software sources"
+2007-10-21T09:09:00.000Z	woohoo	zyxnull	where do i find that
+2007-10-21T09:10:00.000Z	zyxnull	woohoo	System > Administration > Software sources
+2007-10-21T09:10:00.000Z	woohoo	zyxnull	ok thnx
+2007-10-21T09:10:00.000Z	zyxnull	woohoo	you welcome

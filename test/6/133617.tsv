@@ -1,0 +1,6 @@
+2008-12-03T09:50:00.000Z	gleesond		what utility should I use for connecting to wifi networks?
+2008-12-03T09:51:00.000Z	winston_	gleesond	using gnome?
+2008-12-03T09:52:00.000Z	gleesond	winston_	yeah
+2008-12-03T09:53:00.000Z	winston_	gleesond	just use the nm-applet that is in your tray
+2008-12-03T09:54:00.000Z	winston_	gleesond	- you do have wifi working right?
+2008-12-03T09:54:00.000Z	gleesond	winston_	that was what I needed

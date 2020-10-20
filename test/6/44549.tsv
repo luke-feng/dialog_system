@@ -1,0 +1,6 @@
+2009-04-24T19:14:00.000Z	jado		hi, i've just upgraded to 9.04 but i have no sound ; i've tried a speaker-test and there is no error : http://paste.ubuntu.com/157250/
+2009-04-24T19:15:00.000Z	jado		also if i launch a mp3 with vlc x.mp3 i have no error and the mp3 plays but there is still no sound
+2009-04-24T19:16:00.000Z	thiebaude	jado	did you check your sound preferences?
+2009-04-24T19:16:00.000Z	jado	thiebaude	yes
+2009-04-24T19:16:00.000Z	jado	thiebaude	i checked with the logo on the bottom right of the screen and with the command 'alsamixer'
+2009-04-24T19:21:00.000Z	jado	thiebaude	IHS_intern: i unmuted every channel but i still have no sound

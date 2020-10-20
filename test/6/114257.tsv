@@ -1,0 +1,6 @@
+2010-11-11T05:53:00.000Z	karmiclaw1		hey guys how do i use  waitpid in parent process after fork and check the status of the child without blocking the parent ...
+2010-11-11T05:53:00.000Z	karmiclaw1		.........or any other way to check the status of a child process without blocking it
+2010-11-11T05:54:00.000Z	karmiclaw1		i am writing this in c ... but the C room wants me to register
+2010-11-11T05:54:00.000Z	jrib	karmiclaw1	so register
+2010-11-11T05:53:00.000Z	jrib	karmiclaw1	you probably want #bash?
+2010-11-11T05:53:00.000Z	jrib	karmiclaw1	or #whatever language you are writing this in

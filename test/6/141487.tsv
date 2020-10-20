@@ -1,0 +1,6 @@
+2005-11-27T15:46:00.000Z	selinium	trappist	Why ^ii and not ii?
+2005-11-27T15:46:00.000Z	trappist	selinium	^ means match the beginning of the line
+2005-11-27T15:46:00.000Z	selinium	trappist	Cheers!
+2005-11-27T15:46:00.000Z	trappist	selinium	so it won't match if you have an uninstalled package called virii or something
+2005-11-27T15:47:00.000Z	selinium	trappist	dpkg is sudoers only
+2006-01-21T12:10:00.000Z	trappist	selinium	the -e has to come right before ssh

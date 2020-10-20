@@ -1,0 +1,6 @@
+2008-09-20T21:11:00.000Z	mbrigdan		sorry about the lame question, but how can I get ls to output just the names of the files, with each one on a different row?
+2008-09-20T21:12:00.000Z	IntuitiveNipple	mbrigdan	ls -1 (that's a one not an L)
+2008-09-20T21:15:00.000Z	mbrigdan	IntuitiveNipple	thanks, now I just need to figure out which one is my external hard drive...
+2008-09-20T21:16:00.000Z	IntuitiveNipple	mbrigdan	ls -l /dev/disk/by-id
+2008-09-20T21:16:00.000Z	IntuitiveNipple	mbrigdan	That's an L this time!
+2008-09-20T21:18:00.000Z	mbrigdan	IntuitiveNipple	thanks, although it appears that there are 4 things that could be my drive. :(

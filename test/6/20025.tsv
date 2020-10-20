@@ -1,0 +1,6 @@
+2010-06-06T17:28:00.000Z	peimankh		Hello, I have a problem. I just installed the latest ubuntu but the screen goes black if I don't use the mouse or keyboard for a while
+2010-06-06T17:28:00.000Z	KungFuBear	peimankh	Go to System Screensaver and set your settings
+2010-06-06T17:29:00.000Z	KungFuBear	peimankh	I meant System >> Preferences >> ScreenSaver
+2010-06-06T17:31:00.000Z	peimankh	KungFuBear	I don't mind the screen saver, it's just that after I press a key or move the mouse and the screen keeps flashing between complete blackness and stripy white patterns indefinitely. Then I have to reboot the computer using the power button.
+2010-06-06T17:32:00.000Z	KungFuBear	peimankh	I'm having a visual issue similar after updating to 10.04. Its regarding my second monitor though. I don't have a solution yet, sorry
+2010-06-06T17:33:00.000Z	peimankh	KungFuBear	thanks, I'll keep my eyes open for when you find the solution :-)

@@ -1,0 +1,6 @@
+2006-11-26T12:04:00.000Z	cherubiel	zmm	rm -rf ~/.openoffice.org2
+2006-11-26T12:04:00.000Z	cherubiel	zmm	then try running oowriter again
+2006-11-26T12:05:00.000Z	cherubiel	zmm	rm -rf ~/.openoffice.org2; oowriter
+2006-11-26T12:06:00.000Z	cherubiel	zmm	any luck?
+2006-11-26T12:06:00.000Z	zmm	cherubiel	"rm -rf ~/.openoffice.org2; oowriter" what's it for
+2006-11-26T12:07:00.000Z	cherubiel	zmm	removes the previous user settings, these are built at init

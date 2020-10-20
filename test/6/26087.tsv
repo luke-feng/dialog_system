@@ -1,0 +1,6 @@
+2010-02-07T11:56:00.000Z	HTT-Bird	ZykoticK9	that's common, my broadcom did that for forever under Debian with wl_sta
+2010-02-07T11:57:00.000Z	HTT-Bird		it's wlan0 now tho, but I'm one of those wacky guys with an LP-PHY, 2.6.32 kernel, and B43_FORCE_PIO enabled in his kernel
+2010-02-07T11:57:00.000Z	HTT-Bird		(on that box that is, aka my lappy, which runs Debian Squeeze)
+2010-02-07T11:57:00.000Z	ZykoticK9	HTT-Bird	doesn't that give Network Manager problems?  do the cards get wireless support?  i mean ethernet cards don't need SSIDs / WEP-WPA / sorta thing...
+2010-02-07T11:58:00.000Z	HTT-Bird	ZykoticK9	NM handled it quite fine
+2010-02-07T11:59:00.000Z	ZykoticK9	HTT-Bird	thanks

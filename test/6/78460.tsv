@@ -1,0 +1,6 @@
+2007-09-24T07:26:00.000Z	dijungal		I want to migrate a current windows domain architecture comprising of windows xp clients and windows 2003 backend servers with a Linux (Ubuntu) solution which will allow for centralized security (user accounts, profiles etc). How do I achieve a Domain like structure on Linux?
+2007-09-24T07:27:00.000Z	murkyMurk	dijungal	samba
+2007-09-24T07:27:00.000Z	dijungal		samba.... samba is for Linux clients windows servers
+2007-09-24T07:27:00.000Z	dijungal		i'm talking all Linux domain
+2007-09-24T07:28:00.000Z	murkyMurk	dijungal	yep, it also runs as a domain controller
+2007-09-24T07:37:00.000Z	dijungal	murkyMurk	so you suggest samba domain controller and samba clients on the ubuntu machines

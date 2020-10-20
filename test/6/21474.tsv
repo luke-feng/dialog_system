@@ -1,0 +1,6 @@
+2010-05-17T20:59:00.000Z	ozerimar		how do I revert back my old system
+2010-05-17T21:00:00.000Z	attish	ozerimar	the hard way -- downgrading is not officially supported, as far as I know
+2010-05-17T21:06:00.000Z	attish	ozerimar	do an ls -ld followed by folder name (respecting case)
+2010-05-17T21:08:00.000Z	attish	ozerimar	for that, get a terminal; alt-f2, enter "gnome-terminal", then click OK
+2010-05-17T21:22:00.000Z	attish	ozerimar	no, it's essentially an intermediate stage used when booting the system; don't touch it unless you know what you're doing
+2010-05-17T21:26:00.000Z	attish	ozerimar	you installed over your old installation without backing up anything?

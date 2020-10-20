@@ -1,0 +1,6 @@
+2006-06-02T10:33:00.000Z	paradizelost		/dev/hda1     /media/windows    ntfs     user,umask=000     0  0
+2006-06-02T10:33:00.000Z	paradizelost		[zero] : fat32 doesn't have permissions, you need to mount it with the user option
+2006-06-02T10:34:00.000Z	[zero] 	paradizelost	i have mounted it but I cant write to it?
+2006-06-02T10:35:00.000Z	[zero] 	paradizelost	no, how would I do that?
+2006-06-02T10:37:00.000Z	[zero] 	paradizelost	thankx, Ill try it now
+2006-06-02T10:43:00.000Z	[zero] 	paradizelost	when I try to mount it now says [mntent] : line 7 in /etc/fstab is bad

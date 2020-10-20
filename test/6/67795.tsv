@@ -1,0 +1,6 @@
+2009-11-01T18:04:00.000Z	abli		Using karmic, I am trying to get wifi working with a realtek 8172 wifi
+2009-11-01T18:04:00.000Z	abli		card (thinkpad T500 laptop). I installed the windows driver (8192se,
+2009-11-01T18:04:00.000Z	abli		thats what the pre-installed vista uses) with ndisgtk. "ndiswrapper
+2009-11-01T18:04:00.000Z	abli		-l" shows the driver is loaded and the hardware is detected, but
+2009-11-01T18:04:00.000Z	abli		network manager doesn't appear to see it. What can I do?
+2009-11-01T18:04:00.000Z	FloodBot2	abli	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

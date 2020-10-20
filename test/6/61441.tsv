@@ -1,0 +1,6 @@
+2008-03-23T08:52:00.000Z	moogmusic		which is the fastest filesystem at the moment, guys?
+2008-03-23T08:52:00.000Z	FourX4Luvn	moogmusic	no file system at all
+2008-03-23T08:53:00.000Z	moogmusic	FourX4Luvn	 then what?
+2008-03-23T08:53:00.000Z	moogmusic		what about xfs, zfs
+2008-03-23T08:54:00.000Z	FourX4Luvn	moogmusic	If you're wanting to eek out every last drop of performance from a drive, typically you'd use a database on a raw disk.  Hence no filesystem at all.  What you're looking for would most likely be ext3 though.  Reiser is a bit slower simply because you can't use hdparm to tweak it.
+2008-03-23T08:55:00.000Z	FourX4Luvn	moogmusic	Err.. excuse me.. you can't use e2fs, rather.

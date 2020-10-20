@@ -1,0 +1,6 @@
+2008-08-08T06:17:00.000Z	CydeWeys		$ glxinfo|grep direct
+2008-08-08T06:17:00.000Z	CydeWeys		direct rendering: Yes
+2008-08-08T06:17:00.000Z	CydeWeys		I still have a Windows desktop that I use once in a blue moon to debug my GNU/Linux desktop :-/
+2008-08-08T06:18:00.000Z	CydeWeys		I spent a lot more money on the Windows desktop, too.
+2008-08-08T06:18:00.000Z	MasterShrek	CydeWeys	what sor of debugging?
+2008-08-08T06:19:00.000Z	CydeWeys	MasterShrek	My xorg.conf got lost sometime between a power failure and an upgrade to KDE 4.1.

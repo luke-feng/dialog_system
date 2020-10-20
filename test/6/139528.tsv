@@ -1,0 +1,6 @@
+2007-02-20T12:33:00.000Z	radar1976		help!!  grrr I'm pulling my hair out!
+2007-02-20T12:33:00.000Z	radar1976		I have setup my v-hosts on apache 2 but they are only loading the _default_ host
+2007-02-20T12:33:00.000Z	radar1976		I have reloaded the config...tested everything!
+2007-02-20T12:34:00.000Z	radar1976		I even copied the config from the original server
+2007-02-20T12:34:00.000Z	radar1976		why is it not working???
+2007-02-20T12:34:00.000Z	mneptok	radar1976	what does apache's access log tell you?

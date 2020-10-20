@@ -1,0 +1,6 @@
+2009-04-26T08:15:00.000Z	geek_		can someone recommend a fully free (ie, without a clickwrap licence) java implimentation? I'm remastering a disk i might distribute
+2009-04-26T08:16:00.000Z	skierpage	geek_	OpenJDK ?
+2009-04-26T08:16:00.000Z	geek_	skierpage	does that include plugins for firefox?
+2009-04-26T08:18:00.000Z	skierpage	geek_	Google suggests there is an OpenJDK Firefox plugin, some reports of problems.
+2009-04-26T08:19:00.000Z	geek_	skierpage	fair enough. I'll use sun java for the internal version and test openjdk later ;p
+2009-04-26T08:20:00.000Z	skierpage	geek_	the plug-in might still be in the separate "Iced Tea" project that was completing the Java parts that weren't yet open sourced.  Good luck.

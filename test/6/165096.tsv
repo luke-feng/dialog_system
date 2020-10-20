@@ -1,0 +1,6 @@
+2010-11-25T19:05:00.000Z	jv__		my lxde installation from server screwed up my graphical network settings
+2010-11-25T19:05:00.000Z	jv__		now I have wicd and network manager gnome
+2010-11-25T19:05:00.000Z	jv__		before if i installed wicd network manager gnome would be removed  because of conflict
+2010-11-25T19:06:00.000Z	jv__		evrything works from terminal but the wireless network
+2010-11-25T19:06:00.000Z	Dr_Willis	jv__	 if you use the right commands. you could set up wireless that way also.
+2010-11-25T19:07:00.000Z	Dr_Willis	jv__	 i always check out the ubuntu forums or wiki pages, or arch linux wiki pages for the proper commnands. i never can rember them.

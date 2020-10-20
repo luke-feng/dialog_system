@@ -1,0 +1,6 @@
+2008-06-05T17:30:00.000Z	sandipto		what is apt-get ? application get from internet command?
+2008-06-05T17:31:00.000Z	sandipto		what is apt-get ? application get from internet command?
+2008-06-05T17:31:00.000Z	sandipto		thanks bazhang
+2008-06-05T17:31:00.000Z	sandipto		why not rpm works in ubuntu?
+2008-06-05T17:32:00.000Z	soundray	sandipto	because apt was designed at a time when rpm was much inferior (not handling dependencies for example)
+2008-06-05T17:33:00.000Z	soundray	sandipto	please read the links

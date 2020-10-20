@@ -1,0 +1,6 @@
+2011-10-17T15:53:00.000Z	sl__		Hi. I just upgraded from 11.04 to 11.10 and after that my apache2 won't start after reboot. If I start it manually, it works just fine. I have checked init.d stuff and also used bum to confirm startup / shutdown of service. service apache2 start and restart also does work beautifully.
+2011-10-17T15:54:00.000Z	ActionParsnip	sl__	ad an entry in /etc/rc.local   to start the service there. Add it above the exit 0 line
+2011-10-17T15:55:00.000Z	sl__	ActionParsnip	But why it needs to be added? Was it removed due update. When it's in normal init.d stuff start levels. Shouldn't it start anyway?
+2011-10-17T15:56:00.000Z	ActionParsnip	sl__	not sure, check for bugs but the edit should make it work until it gets fixed
+2011-10-17T15:57:00.000Z	ActionParsnip	sl__	check for bugs reported. It may be a known issue
+2011-10-17T15:58:00.000Z	sl__	ActionParsnip	Thanks for "work-a-round". These seem to be quite common in linux world. Just make it happen the alternate way if the way it is supposed to work doesnt. ;)

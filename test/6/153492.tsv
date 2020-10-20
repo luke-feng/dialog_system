@@ -1,0 +1,6 @@
+2007-12-14T01:45:00.000Z	casey_		yeah the volume slider on my laptop is set to "headphones" instead of "pcm" how can i change that
+2007-12-14T01:46:00.000Z	casey_		anyone know about my problem?
+2007-12-14T01:47:00.000Z	casey_		my volume slider on the laptop messes with "headphones" and not the pcm channel
+2007-12-14T01:47:00.000Z	Myrtti	casey_	run alsamixer from the console
+2007-12-14T01:47:00.000Z	Myrtti	casey_	there should be a toggle with detect headphones or like
+2009-06-03T01:12:00.000Z	Myrtti	casey_	huh?

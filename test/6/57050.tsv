@@ -1,0 +1,6 @@
+2009-12-13T04:39:00.000Z	Purpley		Hey guys how do i remove truecrypt encryption from a partiton on ubuntu their guide is for windows
+2009-12-13T04:39:00.000Z	Purpley		http://www.truecrypt.org/docs/?s=removing-encryption thats the guide but thats for windows
+2009-12-13T04:39:00.000Z	jpds	Purpley	Format the partition.
+2009-12-13T04:39:00.000Z	jpds	Purpley	Why not?
+2009-12-13T04:40:00.000Z	jpds	Purpley	combined means ...?
+2009-12-13T04:42:00.000Z	jpds	Purpley	Not that I know of, unless you use LVM.

@@ -1,0 +1,6 @@
+2011-03-22T18:12:00.000Z	Akshay		LjL:Having problems with screen resolution on Intel 82865G
+2011-03-22T18:12:00.000Z	LjL	Akshay	what sort of problems
+2011-03-22T18:14:00.000Z	LjL	Akshay	ok, i assume you've already tried just going to the Display preferences and changing it?
+2011-03-22T18:18:00.000Z	LjL	Akshay	try doing "xrandr --addmore VGA-0 1152x864"
+2011-03-22T18:21:00.000Z	LjL	Akshay	what do you mean? and have you tried the one Frots gave you?
+2011-03-22T18:28:00.000Z	LjL	Akshay	i don't know honestly, i'm using a very old version of Ubuntu and these things have all changed :\ i'll give you a page to try following

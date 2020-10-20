@@ -1,0 +1,6 @@
+2006-09-13T09:20:00.000Z	josh_		is there a way to ftp as root?
+2006-09-13T09:20:00.000Z	josh_		im using proftpd
+2006-09-13T09:21:00.000Z	josh_		i have scripts running to mod the upload directory so files cantbe touched after being uploaded but i would like to be able to get in and move them
+2006-09-13T09:22:00.000Z	josh_		click on them....
+2006-09-13T09:22:00.000Z	josh_		it should automatically be setup to handle .exe files
+2006-09-13T09:23:00.000Z	Caplain	josh_	i had no idea it was so simple, thanks

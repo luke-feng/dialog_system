@@ -1,0 +1,6 @@
+2007-09-08T09:39:00.000Z	Darius		hello
+2007-09-08T09:39:00.000Z	MrObvious	Darius	Yo!
+2007-09-08T09:41:00.000Z	MrObvious	Darius	Let me look a secodn.
+2007-09-08T09:42:00.000Z	MrObvious	Darius	Hmm It's in xorg.conf under Section "Device" for your GPU.
+2007-09-08T09:42:00.000Z	MrObvious	Darius	I'm sure there is a way to do it through Gnome.
+2007-09-08T09:44:00.000Z	MrObvious	Darius	Try reading this thread: http://ubuntuforums.org/showthread.php?t=469981&highlight=change+refresh+rate

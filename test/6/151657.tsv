@@ -1,0 +1,6 @@
+2005-04-17T07:53:00.000Z	youpi_		hi can we use .deb package to install with ubuntu
+2005-04-17T07:53:00.000Z	youpi_		?
+2005-04-17T07:54:00.000Z	roo_	youpi_	using ubuntu packages keeps your package tree nice and clean.
+2005-04-17T07:56:00.000Z	roo_	youpi_	yeah like tritium says use the ones in the Ubuntu tree?
+2005-04-17T07:57:00.000Z	roo_	youpi_	u didnt check Synaptic first?!?
+2005-04-17T07:57:00.000Z	roo_	youpi_	apt-cache search enlightenment

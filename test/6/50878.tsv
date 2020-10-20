@@ -1,0 +1,6 @@
+2010-12-16T20:05:00.000Z	Pacorab		hi all
+2010-12-16T20:07:00.000Z	Pacorab		i need help, i can't install ubuntu on my PC. I can boot via the CD, then ubuntu start to load , and after 1-2 mins  i get back to  some basic console, and a msg that "no live filesystem has been found" (something like that). i can type some stuff in the console, but i don't know what to type...
+2010-12-16T20:08:00.000Z	DasEi	Pacorab	looks like a bad cd in first hand
+2010-12-16T20:08:00.000Z	DasEi	Pacorab	did youi verify the download, tried cd on another box ?
+2010-12-16T20:10:00.000Z	DasEi	Pacorab	apart from an intact iso.file, burn at slow speed, and, oc cd must be bootable, it also has an option verify medium
+2010-12-16T22:35:00.000Z	DasEi	Pacorab	stay with unetbootin from win, easiest

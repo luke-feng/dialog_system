@@ -1,0 +1,6 @@
+2011-05-18T14:22:00.000Z	guru1004_		is there a command to turn off the ethernet card (eth0) ?
+2011-05-18T14:24:00.000Z	guru1004_		r04s3ck5: was that answer for me?  i want to disable at the hardware level.
+2011-05-18T14:25:00.000Z	r0fs3ck5	guru1004_	hmm not sure on that one.  You may be able to turn it off in the BIOS if you're lucky.
+2011-05-18T14:26:00.000Z	guru1004_		i saw the command for wireless -> iwconfig wlan0 power off
+2011-05-18T14:26:00.000Z	guru1004_	r0fs3ck5	-> yeah don't want to disable it in the bios, but that is certainly better than nothing
+2011-05-18T14:29:00.000Z	r0fs3ck5	guru1004_	try sudo ifconfig wth0 power off.

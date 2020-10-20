@@ -1,0 +1,6 @@
+2010-09-04T03:33:00.000Z	bugs_bugger		hi
+2010-09-04T03:35:00.000Z	bugs_bugger		what programm manages bootscreen display in lucid lynx?
+2010-09-04T03:35:00.000Z	glebihan	bugs_bugger	if you mean to configure it, there isn't really any
+2010-09-04T03:36:00.000Z	bugs_bugger	glebihan	no, i wanted to know if there were any known bugs with nvidia cards
+2010-09-04T03:36:00.000Z	glebihan	bugs_bugger	ok, so it's plymouth as mentioned
+2010-09-04T03:37:00.000Z	glebihan	bugs_bugger	and there are bugs

@@ -1,0 +1,6 @@
+2012-08-14T17:46:00.000Z	Blazemore		Is there a terminal-based IM client anyone can recommend?
+2012-08-14T17:47:00.000Z	Blazemore		That is a *lot* of dependencies!
+2012-08-14T17:47:00.000Z	Blazemore		I only want Jabber (Google and Facebook)
+2012-08-14T17:47:00.000Z	jrib	Blazemore	bitlbee and that other similar one whose name I forget
+2012-08-14T17:48:00.000Z	jrib	Blazemore	you have a root channel with all the users, you can just address users like i'm doing now or you can also query them
+2012-08-14T17:51:00.000Z	jrib	Blazemore	minbif was the bitblee alternative whose name I could not remember by the way

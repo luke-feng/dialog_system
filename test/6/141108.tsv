@@ -1,0 +1,6 @@
+2005-09-01T12:04:00.000Z	Almindor		well.. atleast E works
+2005-09-01T12:04:00.000Z	Almindor		half of the packages are badly broken, qt-fonts are broken(gtk works tho)
+2005-09-01T12:04:00.000Z	Almindor		just an advisory to breezy-wannabies like me :)
+2005-09-01T12:05:00.000Z	Almindor		is there a way to reconfigure all packages?
+2005-09-01T12:06:00.000Z	Almindor		I think my locale was broken good half of the installations..
+2005-09-01T12:08:00.000Z	persia	Almindor	dpkg-reconfigure `dpkg -l | awk '{ print $2 }'` should do it, but you may not really want to do this.

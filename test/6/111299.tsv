@@ -1,0 +1,6 @@
+2006-07-14T11:52:00.000Z	godtvisken		How do I get my back/forward buttons on my mouse to work?
+2006-07-14T11:52:00.000Z	notamisfit	godtvisken	what does "ZAxisMapping" in xorg.conf show?
+2006-07-14T12:08:00.000Z	notamisfit	godtvisken	add the line "ZAxisMapping 4 5 6 7" to /etc/X11/xorg.conf under the mouse section
+2006-07-14T12:27:00.000Z	notamisfit	godtvisken	Ctrl-Alt-Bksp
+2006-07-15T16:18:00.000Z	notamisfit	godtvisken	just make sure you symlink it to /usr/src/linux before compiling any outside modules
+2006-07-15T16:32:00.000Z	notamisfit	godtvisken	make menuconfig

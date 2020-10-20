@@ -1,0 +1,6 @@
+2012-01-22T22:01:00.000Z	alexinquest		I was able to edit grub_default to what i need, but when i run sudo update-grub I get/etc/default/grub: 18: http://www.dedoimedo.com/computers/grub-2.html: not found
+2012-01-22T22:02:00.000Z	alexinquest		I'm totally new to ubuntu, so i have no clue why i get this
+2012-01-22T22:03:00.000Z	alexinquest		I don't know why it comes up. I visited this website a while ago for some grub 2 tutorial
+2012-01-22T22:03:00.000Z	alexinquest		how it comes up in terminal i dont know
+2012-01-22T22:05:00.000Z	alexinquest		how do i do that?
+2012-01-22T22:06:00.000Z	html	alexinquest	 why are you in the bootloader ? and you total new to this,. thats like messing with your car starter

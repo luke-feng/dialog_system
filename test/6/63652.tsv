@@ -1,0 +1,6 @@
+2008-03-08T09:42:00.000Z	zulerdongle		hi. does anyone know how to make a virtual windows xp machine running in virtualbox be able to accept incoming internet connections... i was thinking if i could assign a network card solely for the virtual machine the problem would be solved but i do not know how to . can anyone help? thanks in advance
+2008-03-08T09:44:00.000Z	vocx	zulerdongle	I don't quite understand your question. I just know that I can browse the Internet within the virtual machine without problems. Do you mean some sort of server?
+2008-03-08T09:45:00.000Z	zulerdongle	vocx	i guess you could say that. i want the virtual machine to be accesible online from the outside like for example to have an ftp server, to use bittorrent correctly, etc etc
+2008-03-08T09:47:00.000Z	vocx	zulerdongle	ah. I've never used it that way. But it is very possible as you just figured out.
+2008-03-08T09:48:00.000Z	zulerdongle	vocx	but i dont know how to do it.. with vmware i could select which network card to use for my virtual machine but with virtualbox i dont know
+2008-03-08T09:49:00.000Z	vocx	zulerdongle	I mean, I think virtualization is supposed to help you do that, so it's definitely possible. But don't know with Virtualbox. By the way have you read the manual, I think it covers a lot of things.

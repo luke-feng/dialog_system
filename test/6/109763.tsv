@@ -1,0 +1,6 @@
+2006-08-01T05:51:00.000Z	shamblingform		hi
+2006-08-01T05:52:00.000Z	shamblingform		q: how do I change the the default OS startup?
+2006-08-01T05:53:00.000Z	longwave	shamblingform	change the "default" entry in /boot/grub/menu.lst
+2006-08-01T05:53:00.000Z	shamblingform	longwave	& jrib thankyou
+2006-08-01T05:57:00.000Z	shamblingform	longwave	jrib, I cannot save menu.lst. Should I sudo it?
+2006-08-01T05:57:00.000Z	longwave	shamblingform	yes, you need to be root to edit that file

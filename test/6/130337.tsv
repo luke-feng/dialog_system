@@ -1,0 +1,6 @@
+2006-09-03T11:37:00.000Z	esc		hikenboot, i'm looking for libz in ubuntu
+2006-09-03T11:37:00.000Z	esc		and can't find it
+2006-09-03T11:37:00.000Z	sethk	esc	try installing package zlib1g
+2006-09-03T11:38:00.000Z	sethk	esc	and/or lib64z1
+2006-09-03T11:38:00.000Z	sethk	esc	the former, for 32 bit
+2006-09-03T11:39:00.000Z	sethk	esc	probably you want zlib1g-dev

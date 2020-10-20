@@ -1,0 +1,6 @@
+2009-05-27T04:30:00.000Z	chaos2fu		hi everyone, if i want to run commands as root in terminal how do i do that?
+2009-05-27T04:30:00.000Z	ZykoticK9	chaos2fu	sudo command
+2009-05-27T04:36:00.000Z	ZykoticK9	chaos2fu	are you typing Pictures or pictures - makes a difference
+2009-05-27T04:39:00.000Z	ZykoticK9	chaos2fu	ls is the real command (dir is only on some distros for DOS people)
+2009-05-27T04:40:00.000Z	ZykoticK9	chaos2fu	be careful with spaces on the cli, they treated very strangly
+2009-05-29T23:04:00.000Z	ZykoticK9	chaos2fu	glxinfo

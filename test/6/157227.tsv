@@ -1,0 +1,6 @@
+2007-05-04T08:40:00.000Z	timewriter		how do i install GTK engine ?
+2007-05-04T08:40:00.000Z	wastrel	timewriter	 apt-cache search gtk-engines
+2007-05-04T08:40:00.000Z	wastrel	timewriter	 if the one you want is listed, just install normally
+2007-05-04T08:44:00.000Z	wastrel	timewriter	 it appears that ubuntu doesn't provide a package for the aurora engine
+2007-05-04T08:44:00.000Z	wastrel	timewriter	 you'll probably have to download the aurora engine and compile it yourself
+2007-05-04T08:49:00.000Z	wastrel	timewriter	 up to you :] 

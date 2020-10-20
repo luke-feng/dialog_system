@@ -1,0 +1,6 @@
+2009-01-20T09:55:00.000Z	fallout		Need other programs Ubuntu can run scrambled/encrypted DVDs on
+2009-01-20T09:56:00.000Z	rdw200169	fallout	you're thinking of the library: libdvdcss
+2009-01-20T09:57:00.000Z	fallout	rdw200169	what do you mean
+2009-01-20T09:59:00.000Z	rdw200169	fallout	sudo apt-get install ubuntu-restricted-extras
+2009-01-20T09:59:00.000Z	rdw200169	fallout	this gets you the good stuff for viewing 'encrypted' dvd's
+2009-01-20T10:00:00.000Z	rdw200169	fallout	so all the standard dvd playing applications (totem, mplayer, etc...) will work *after* you install the restricted extras

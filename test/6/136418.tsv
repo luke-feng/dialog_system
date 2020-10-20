@@ -1,0 +1,6 @@
+2005-10-03T07:58:00.000Z	_jason		what does su do :o
+2005-10-03T07:58:00.000Z	linner	_jason	 it gives you access to the root
+2005-10-03T07:59:00.000Z	_jason	linner	so just like root terminal?
+2005-10-03T07:59:00.000Z	linner	_jason	 I believe so
+2005-10-03T07:59:00.000Z	linner	_jason	 it's a safety measure - what DonL said
+2005-10-03T08:00:00.000Z	_jason	linner	so su uses the root password and won't work unless you set one?

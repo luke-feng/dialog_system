@@ -1,0 +1,6 @@
+2006-07-14T12:47:00.000Z	geoffP271		Hi. Anyone know how to mount a USB external HD in ubuntu 6.06(latest)?
+2006-07-14T12:48:00.000Z	notamisfit	geoffP271	if its plugged in it should do it for you
+2006-07-14T12:53:00.000Z	notamisfit	geoffP271	does lsusb recognize the device?
+2006-07-14T13:00:00.000Z	notamisfit	geoffP271	it does't show up under storage devices or anything like that?
+2006-07-14T13:00:00.000Z	notamisfit	geoffP271	look under the menus (ie where cdrom drives and such are)
+2006-07-14T13:03:00.000Z	notamisfit	geoffP271	my usb drive doesn't have an fstab entry. pmount picks it up automatically

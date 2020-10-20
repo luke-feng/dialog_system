@@ -1,0 +1,6 @@
+2011-05-04T03:02:00.000Z	bibleboy		hello
+2011-05-04T03:03:00.000Z	bibleboy		is there any way to install ubuntu on my windows xp pc without partitioning my hard drive but without internet
+2011-05-04T03:03:00.000Z	aeon-ltd	bibleboy	pre download iso, same directory as wubi, then wubi
+2011-05-04T03:04:00.000Z	aeon-ltd	bibleboy	but you will need some internet source for the iso ofcourse
+2011-05-04T03:04:00.000Z	aeon-ltd	bibleboy	512 is fine, though personally i'd use lubuntu, xubuntu or start from server for reducing all unneccessary 'weight'
+2011-05-04T03:05:00.000Z	aeon-ltd	bibleboy	in the same folder as the wubi installer

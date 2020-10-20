@@ -1,0 +1,6 @@
+2011-05-17T01:20:00.000Z	dp		have there been any package updates in natty since the release?
+2011-05-17T01:21:00.000Z	szal	dp	release was, what, 6 weeks ago?  you're not seriously thinking there were no updates so far, were you?
+2011-05-17T01:21:00.000Z	dp	szal	I haven't received any via apt-get update && apt-get dist-upgrade in a couple of weeks
+2011-05-17T01:22:00.000Z	szal	dp	tried upgrade instead of dist-upgrade?
+2011-05-17T01:22:00.000Z	dp	szal	dist-upgrade doesn't contain upgrade in ubuntu?
+2011-05-17T01:23:00.000Z	szal	dp	no idea, haven't been using apt for quite some time..  other than that, dist-upgrade is for just that, upgrading to a newer distro version, not for updating packages

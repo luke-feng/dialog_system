@@ -1,0 +1,6 @@
+2009-03-31T04:04:00.000Z	sonink		tacoma, the monitor is a relatively new Dell LCD, but the system in question is one of two PC's connected to a Belkin 2-way KVM, which I think may be causing the problem.
+2009-03-31T04:05:00.000Z	sonink		dasEi, I didn't think they were dependent either but my boss thinks they are for some reason.  I think it might just be a coincidence that the box isn't pulling an IP
+2009-03-31T04:06:00.000Z	DasEi	sonink	again, the xserver is not dependant from networking
+2009-03-31T04:11:00.000Z	sonink	DasEi	any idea if or how the KVM connection could be causing the problem?  I think a direct connection to the monitor has solved the problem in the past.  Does X have error logs I could check for hints?
+2009-03-31T04:13:00.000Z	DasEi	sonink	kvm might be, check /var/log/syslog and /var/log/Xorg.0.log for errors (KVM on), or do a customized xorg.conf, that overrides the (false) detection of kvm
+2009-03-31T04:14:00.000Z	sonink	DasEi	okay.  I'll check that out.  Thanks

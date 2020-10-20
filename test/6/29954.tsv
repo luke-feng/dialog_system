@@ -1,0 +1,6 @@
+2009-10-18T11:33:00.000Z	lilzeus		NO!!!!
+2009-10-18T11:33:00.000Z	lilzeus		:)
+2009-10-18T11:34:00.000Z	Dr_Willis	lilzeus	 on the live cd see what modules are getting loaded with 'lsmod'  and be sure the same one sare getting loaded on the installed system. Is about all i can suggesst
+2009-10-18T11:35:00.000Z	lilzeus	Dr_Willis	how do I go about doing that?
+2009-10-18T11:37:00.000Z	lilzeus	Dr_Willis	it would seem my networking is caught up in some kind of loop back, every ping to 192.168.1.xxx address returns in 0.05ms, and every address 192.168.1.xxx in browser loops back to localhost of Apache's default "It works!" page
+2009-10-18T11:37:00.000Z	lilzeus	Dr_Willis	I am unable to ping any other addresses

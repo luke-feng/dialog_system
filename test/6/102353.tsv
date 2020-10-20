@@ -1,0 +1,6 @@
+2006-11-11T08:22:00.000Z	rsl		Anyone else running Amarok?
+2006-11-11T08:22:00.000Z	orville	rsl	i am
+2006-11-11T08:23:00.000Z	rsl	orville	when you run lsof /dev/snd/* from a terminal, do you get like 6 lines with amarokapp?
+2006-11-11T08:23:00.000Z	rsl		I'm trying to figure out if that's normal.
+2006-11-11T08:24:00.000Z	orville	rsl	yes
+2006-11-11T08:24:00.000Z	rsl	orville	cool.

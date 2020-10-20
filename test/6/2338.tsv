@@ -1,0 +1,6 @@
+2012-09-13T06:08:00.000Z	mmoebius		Heyja. I encounter a strange bug in in the 12.04 Live CD most times the CD starts, apport reports a failure in "do-release-upgrade" but gives no further explanation. Does anybody have a clue on what might be going on there ?
+2012-09-13T06:09:00.000Z	mmoebius		Also, googling "do-release-upgrade crash" and similar does not turn up anything that makes sense, because that is not happening during an upgrade but anytime the Live CD starts
+2012-09-13T06:10:00.000Z	mmoebius		Would anybody know what in the Live CD starts /usr/bin/do-release-upgrade after the UI was initialized ?
+2012-09-13T06:12:00.000Z	wilee-nilee	mmoebius	Not realy just curious is all.
+2012-09-13T06:12:00.000Z	mmoebius	wilee-nilee	Seen that bug before ?
+2012-09-13T06:14:00.000Z	mmoebius	wilee-nilee	My background is that next month some guys and me are to install ubuntu on like 120 laptops of freshmen and it's a little bad if the first thing they see is a crash report :-(

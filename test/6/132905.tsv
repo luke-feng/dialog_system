@@ -1,0 +1,6 @@
+2007-04-24T14:27:00.000Z	bloodMuffin		ubuntu@ubuntu:~$ df /boot
+2007-04-24T14:27:00.000Z	bloodMuffin		Filesystem           1K-blocks      Used Available Use% Mounted on
+2007-04-24T14:27:00.000Z	bloodMuffin		-                       777980     24656    753324   4% /
+2007-04-24T14:28:00.000Z	bloodMuffin		what does this mean
+2007-04-24T14:28:00.000Z	kblin	bloodMuffin	you can use df -h /boot to make that readable :)
+2007-04-24T14:30:00.000Z	kblin	bloodMuffin	in theory

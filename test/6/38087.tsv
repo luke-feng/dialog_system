@@ -1,0 +1,6 @@
+2009-04-29T20:49:00.000Z	pepperjack		!sound | UnixOne might be helpful
+2009-04-29T20:50:00.000Z	UnixOne	pepperjack	I have pulseaudio selected...
+2009-04-29T20:53:00.000Z	pepperjack	UnixOne	im sorry im not too handy when it comes to sound. about all i normally do in the way of troubleshooting is run alsamixer from terminal to make sure all the playback volumes are up.  and make sure alsa-utils are running
+2009-04-29T20:59:00.000Z	UnixOne	pepperjack	hmm. it plays fine, but the center is silent.
+2009-04-29T20:59:00.000Z	UnixOne	pepperjack	altough volume is up
+2009-04-29T20:59:00.000Z	UnixOne	pepperjack	I'd like to use multiple virtual soundcards simultanously, that would fix it

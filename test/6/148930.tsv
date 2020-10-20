@@ -1,0 +1,6 @@
+2005-10-12T11:54:00.000Z	oolon		hi all
+2005-10-12T11:55:00.000Z	oolon		if i wanted to boot into cli instead of X do i edit the /etc/inittab or is there a better way?
+2005-10-12T11:56:00.000Z	tritium	oolon	http://www.debian.org/doc/manuals/reference/ch-tips.en.html#s-no-x-start
+2005-10-12T11:56:00.000Z	tritium		no fussing with runlevels
+2005-10-12T11:56:00.000Z	oolon	tritium	thanks :)
+2005-10-12T11:56:00.000Z	tritium	oolon	:)

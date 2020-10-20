@@ -1,0 +1,6 @@
+2010-03-17T01:52:00.000Z	noise_		why when is write in shell: !bin/bash it say  ecent not found
+2010-03-17T01:53:00.000Z	noise_		i dont know :) just ia am  reading a book about shell ,and this was an example
+2010-03-17T01:55:00.000Z	noise_		# !/bin/sh
+2010-03-17T01:55:00.000Z	noise_		-bash: !/bin/sh: event not found
+2010-03-17T01:55:00.000Z	noise_		  ???
+2010-03-17T01:55:00.000Z	mneptok	noise_	what are you trying to *do*?

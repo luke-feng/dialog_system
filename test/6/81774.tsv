@@ -1,0 +1,6 @@
+2007-08-01T06:57:00.000Z	eddjc		hey there - am having a little trouble with ubuntu install - am trying to install the server edition - during the setup I chose the install LAMP option - it installed fine but when I booted up it remained on command-line only - does this version install the Gnome window manager etc. or shoud I have chosen the "Install to hard disc" option, or should I have installed the standard version first?
+2007-08-01T06:57:00.000Z	PriceChild	eddjc	the server install has no gui
+2007-08-01T06:58:00.000Z	PriceChild	eddjc	if you would like one... then sign in type "sudo apt-get install ubuntu-desktop"
+2007-08-01T06:58:00.000Z	eddjc	PriceChild	- ah
+2007-08-01T06:58:00.000Z	PriceChild	eddjc	guis on linux servers are unneeded and cause unnecessary load :)
+2007-08-01T06:58:00.000Z	PriceChild	eddjc	yes

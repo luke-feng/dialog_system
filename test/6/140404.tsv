@@ -1,0 +1,6 @@
+2005-08-22T13:55:00.000Z	thoreauputic	ATI_RAGE_	the ubuntu 2.6.11 has "known issues"
+2005-08-22T13:57:00.000Z	ATI_RAGE_	thoreauputic	ahh so it is not a perfect upgrade
+2005-08-22T13:58:00.000Z	thoreauputic	ATI_RAGE_	I gather the advice is to steer clear of the ubuntu 2.6.11
+2005-08-22T13:59:00.000Z	ATI_RAGE_	thoreauputic	to upgrade a kernel under Ubuntu you can do it through apt-get?
+2005-08-22T13:59:00.000Z	thoreauputic	ATI_RAGE_	yes - apt-cache search linux-image
+2005-08-22T14:40:00.000Z	ATI_RAGE_	thoreauputic	definately stay away from 2.6.11

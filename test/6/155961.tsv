@@ -1,0 +1,6 @@
+2009-04-02T22:19:00.000Z	Lint		how can I delete a package? dpkg -r --force-all doesn;t work
+2009-04-02T22:20:00.000Z	Lint		apt call dpkg
+2009-04-02T22:20:00.000Z	Lint		it;s of no help
+2009-04-02T22:20:00.000Z	Lint		apt-get remove iscan
+2009-04-02T22:21:00.000Z	Lint		so apt-get calls dpkg which reports error, so how can I remove a package?
+2009-04-02T22:22:00.000Z	Rytmis	Lint	well... you could try fixing the error dpkg is choking on?

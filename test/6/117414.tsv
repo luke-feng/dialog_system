@@ -1,0 +1,6 @@
+2008-02-16T11:05:00.000Z	genjix		anyone got any clues how i can repair a system where i accidentally did rm -fdr /usr ?
+2008-02-16T11:05:00.000Z	genjix		ubuntu upgrade messed my grub so i booted a gentoo cd and made a symlink that i tried to remove, but ended clearing my /usr directory...
+2008-02-16T11:06:00.000Z	genjix		is there something to fix /usr? apt-get and aptitude is missing
+2008-02-16T11:07:00.000Z	genjix		ok
+2008-02-16T11:08:00.000Z	genjix		ok
+2008-02-16T11:08:00.000Z	nixternal	genjix	you could always work on reinstalling the OS w/o formatting your current partitions as well

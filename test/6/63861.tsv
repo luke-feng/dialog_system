@@ -1,0 +1,6 @@
+2008-05-19T08:42:00.000Z	d4t4min3r	Jack_Sparrow	can you help me with a wireless issue
+2008-05-19T08:42:00.000Z	Jack_Sparrow	d4t4min3r	I dont do much wireless sorry
+2008-05-19T08:43:00.000Z	Jack_Sparrow	d4t4min3r	YOu will get better answers if you include your wireless card and the chipset that it uses
+2008-05-19T08:44:00.000Z	d4t4min3r	Jack_Sparrow	how can i check my chipset
+2008-05-19T08:47:00.000Z	Jack_Sparrow	d4t4min3r	sudo lshw
+2008-05-21T19:21:00.000Z	Jack_Sparrow	d4t4min3r	You can try k9copy then play the copy

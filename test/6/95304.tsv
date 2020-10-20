@@ -1,0 +1,6 @@
+2007-02-12T15:26:00.000Z	Anders		Hi everyone. I am very new to Linux and Ubuntu. After installing Ubuntu on my IBM T30 laptop everything worked fine. Yet after updating Ubuntu (the kernel was updated from 2.6.17-10 to 2.6.17-11) my wireless card does not work. When booting with the old kernel it works fine, but nut with the kernel version 2.6.17-11. Please can anyone help me?
+2007-02-12T15:28:00.000Z	Anders		Hi Experts! :-) Can anyone help me to get my wireless card to work with kernel 2.6.17-11? Please help...
+2007-02-12T15:28:00.000Z	shatrat	Anders	reinstall, at least repeat the bits of the how-to you used to get it working in the first place which involve compiling things
+2007-02-12T15:28:00.000Z	shatrat	Anders	when I say reinstall, I dont mean ubuntu btw
+2007-02-12T15:30:00.000Z	shatrat	Anders	I dont really know, thats just the general approach when a kernel changes and a module is no longer correct.  This is a common problem lately, you might try checking the forums and looking for your particular brand of wireless adapter
+2007-02-12T15:31:00.000Z	shatrat	Anders	no problem. It probably isnt too big of a deal to get it fixed, but youll need to know what hardware you have.  lspci will probably list it

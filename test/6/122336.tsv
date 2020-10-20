@@ -1,0 +1,6 @@
+2006-07-08T11:03:00.000Z	faddat		I just ran sudo /etc/cron.daily/prelink..... how long should this take?
+2006-07-08T11:03:00.000Z	fyrestrtr	faddat	depends on a lot of factors, and why did you run it manually?
+2006-07-08T11:04:00.000Z	faddat	fyrestrtr	 I'm following the directions at http://ubuntuforums.org/showthread.php?t=74197
+2006-07-08T11:06:00.000Z	faddat	fyrestrtr	it just finished
+2006-07-08T11:07:00.000Z	fyrestrtr	faddat	yeah, this takes a while :) it should be okay now.
+2006-07-08T11:10:00.000Z	fyrestrtr	faddat	no, prelinking is pretty much straight forward, just don't forget the apt-get entry.

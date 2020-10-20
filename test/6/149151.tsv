@@ -1,0 +1,6 @@
+2005-05-02T07:35:00.000Z	CitizenKane		does anyone know how to execute a .run file?
+2005-05-02T07:35:00.000Z	ewhitten	CitizenKane	well you... um nevermind. :)
+2005-05-02T07:36:00.000Z	CitizenKane	ewhitten	ok
+2005-05-02T07:36:00.000Z	ewhitten	CitizenKane	 from the directory the .run file is in, try doing:  sh ./filename
+2005-05-02T07:40:00.000Z	CitizenKane	ewhitten	it appears to be working thanks
+2005-05-02T07:40:00.000Z	ewhitten	CitizenKane	glad to hear it.

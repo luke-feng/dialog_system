@@ -1,0 +1,6 @@
+2007-09-26T12:31:00.000Z	Geoffrey2		in mplayer, if I click on a file, it complains it can't open the selected video-out device, running mplayer from the command line will play the file, but then it tells me the card has no xvideo support
+2007-09-26T12:31:00.000Z	Geoffrey2		xvinfo says no adaptors are present
+2007-09-26T12:32:00.000Z	Geoffrey2		glxgears produces a frame rate which is way too low
+2007-09-26T12:32:00.000Z	disinterested	Geoffrey2	did u try mplayer preferences and change video to xv?
+2007-09-26T12:33:00.000Z	Geoffrey2	disinterested	Error opening/initializing the seleted video_out (-vo) device
+2007-09-26T12:34:00.000Z	Geoffrey2	disinterested	"It seems there is no xvideo support for your video card available"

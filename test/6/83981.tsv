@@ -1,0 +1,6 @@
+2007-06-24T05:05:00.000Z	uptownben		How can I remove all the unwanted packages from my XUBUNTU install? like getting rid of all the games..
+2007-06-24T05:05:00.000Z	vzduch	uptownben	uninstall them
+2007-06-24T05:06:00.000Z	uptownben		so should I click the start button then choose control panel and unistall?  ;)
+2007-06-24T05:06:00.000Z	uptownben		I should just use aptitude then?  or is there a ubuntu specific tool?
+2007-06-24T05:07:00.000Z	uptownben	Flannel	thats what I'll be doing then..  ;)
+2007-06-24T05:08:00.000Z	vzduch	uptownben	either aptitude, or 'apt-get remove [--purge]  $pkgname' or 'aptitude remove $pkgname' or 'aptitude purge $pkgname' on the cmdline

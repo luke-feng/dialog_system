@@ -1,0 +1,6 @@
+2012-10-13T02:12:00.000Z	Kylo		honestly, my biggest gripe is Netflix. I use linux for everything sans netflix, which i just VM into via and old XP
+2012-10-13T02:12:00.000Z	Dr_willis__	Kylo	 :) i got a nice spare hdmi monitor for netflix with my boxee box. ;) or a roku
+2012-10-13T02:24:00.000Z	Kylo	Dr_willis__	happen to know it?
+2012-10-13T02:24:00.000Z	Dr_willis__	Kylo	 nope. I dont even need touse Nomodeset any more. ;)
+2012-10-13T02:28:00.000Z	Dr_willis__	Kylo	  it may be -->   add nouveau.modeset=0 after quiet splash
+2012-10-13T02:30:00.000Z	Kylo	Dr_willis__	I'll try it next boot and see what it says

@@ -1,0 +1,6 @@
+2005-01-26T15:26:00.000Z	_martin		It takes me a very long time to log on. Any pointers on where to look for the problem?
+2005-01-26T15:27:00.000Z	calc	_martin	i don't know if gnome has the same issue with loopback, but kde sometimes goes really slowly in the loopback interface is not up
+2005-01-26T15:27:00.000Z	_martin	calc	how can I check if loopback is up or not at login?
+2005-01-26T15:28:00.000Z	calc	_martin	run /sbin/ifconfig
+2005-01-26T15:30:00.000Z	calc	_martin	was it always slow and did it just start to slow down after some event?
+2005-01-26T15:30:00.000Z	_martin	calc	I usually run my own, custom kernel, but switching back to the Ubuntu kernel introduced the problem!

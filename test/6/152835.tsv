@@ -1,0 +1,6 @@
+2005-10-31T16:36:00.000Z	avc		hi everyone
+2005-10-31T16:37:00.000Z	avc		doctor nick?
+2005-10-31T16:38:00.000Z	avc		how do I change X's default font size
+2005-10-31T16:38:00.000Z	avc		i'm using ion2 and the fonts are kinda big
+2005-10-31T16:39:00.000Z	avc		i really like it, but i think i have to edit some xorg files to change the font size
+2005-10-31T16:40:00.000Z	cafuego_	avc	Make sure you use the 100dpi fonts in 100dpi X (and vice versa for 75dpi)

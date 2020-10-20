@@ -1,0 +1,6 @@
+2009-07-18T03:34:00.000Z	StrangeCharm_		can netstat -c be told to update less than once per second, say once every ten or hundered seconds?
+2009-07-18T03:34:00.000Z	zortec	StrangeCharm_	You might try to combine it with the "at" command
+2009-07-18T03:35:00.000Z	zortec	StrangeCharm_	From the term, type man "at"
+2009-07-18T03:39:00.000Z	zortec	StrangeCharm_	I know but it allows you to set up commands at intervals
+2009-07-18T03:39:00.000Z	zortec	StrangeCharm_	I thought that is what you were looking to do
+2009-07-18T03:40:00.000Z	zortec	StrangeCharm_	You could use a cron job

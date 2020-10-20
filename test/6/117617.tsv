@@ -1,0 +1,6 @@
+2006-07-27T12:13:00.000Z	eck		does anyone know of any terminal emulators with 256 color suppor *besides* xterm that come with dapper?
+2006-07-27T12:14:00.000Z	gdb	eck	gnome-terminal, rxvt, konsole, eterm, tn3270
+2006-07-27T12:14:00.000Z	eck	gdb	gnome-terminal needs to be patched, and AFAIK konsole does not have 256 color support
+2006-07-27T12:14:00.000Z	eck	gdb	I think rxvt only has 88 colors
+2006-07-27T12:18:00.000Z	gdb	eck	That's interesting, just learning that then.  I wasn't aware of those limitations.
+2006-07-27T12:18:00.000Z	gdb	eck	Thank you.  :-)

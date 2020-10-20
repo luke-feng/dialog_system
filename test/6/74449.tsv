@@ -1,0 +1,6 @@
+2008-08-31T19:20:00.000Z	flajann2		I've had the generic kernel crash on my machine -- so I use rt instead.
+2008-08-31T19:22:00.000Z	flajann2		has anyone else notice instabilities with the generic kernel -- just locking up?
+2008-08-31T19:23:00.000Z	k0rnz	flajann2	yeah I have, I recently did an install and experienced similiar problems
+2008-08-31T19:24:00.000Z	flajann2	k0rnz	so I am not just going nuts -- Ubuntu has a QA problem!
+2008-08-31T19:25:00.000Z	k0rnz	flajann2	i had similiar experience with trying to install legacy nvidia drivers using Envy and trying to do exactly what you tried
+2008-08-31T19:26:00.000Z	flajann2	k0rnz	yes -- all kinds of nasty issues with legacy nvidia drivers -- found out the hard way that the restricted drivers are directly tied to the specific kernels. The dependency mechanism doesn't catch this, but should.

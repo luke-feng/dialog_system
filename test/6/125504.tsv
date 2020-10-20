@@ -1,0 +1,6 @@
+2007-08-11T12:31:00.000Z	SeyToN		could someone tell me how to open a folder that has space name on terminal? for example: linux documents folder
+2007-08-11T12:32:00.000Z	erUSUL	SeyToN	linux\ documents
+2007-08-11T12:38:00.000Z	erUSUL	SeyToN	"scape" de space qith \ or use the tab completion of the shell to do it for you
+2007-08-11T12:39:00.000Z	SeyToN	erUSUL	my folder name is called Linux Documents, i put "cd Linux/Documents" on the terminal but it says No such file or directory
+2007-08-11T12:42:00.000Z	erUSUL	SeyToN	is "cd Linux\ Documents"
+2007-08-11T12:42:00.000Z	erUSUL	SeyToN	just use tab... type cd Linux  and then hit <Tab>

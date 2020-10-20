@@ -1,0 +1,6 @@
+2012-02-23T18:19:00.000Z	k013		hi, i'm using lyx on ubuntu 11.10, i want to copy a .sty into the tex folder but it says permission denied - please help!
+2012-02-23T18:20:00.000Z	k013		monkeydust - yes sir
+2012-02-23T18:21:00.000Z	k013		monkeydust - sorry i'm using a gui, where do i enter the sudo command?
+2012-02-23T18:23:00.000Z	k013		monkeydust - ok, if you were to copy a file from one folder to another using command line, what is the comman you would type in?
+2012-02-23T18:24:00.000Z	bastidrazor	k013	cp file /path/to/newfolder/
+2012-02-23T18:25:00.000Z	k013	bastidrazor	and auronandace and monkeydust - thank you so much!

@@ -1,0 +1,6 @@
+2007-05-15T16:39:00.000Z	NA_Joey		elo all :)
+2007-05-15T16:41:00.000Z	NA_Joey		got a question.. about ubuntu and lamp and gui's is there a ethier ubuntu lamp server with  a gui built in for d/l ? or you have to  comple or is there another favor of linux that  has this ?
+2007-05-15T16:43:00.000Z	NA_Joey		lamp and ubuntu and gui no distro out there ?
+2007-05-15T16:44:00.000Z	soundray	NA_Joey	install from a regular Desktop CD and install lamp on top. There's a factoid (private message):
+2007-05-15T16:46:00.000Z	NA_Joey	soundray	i understand what  is i just  wondering if better to  install ubuntu desktop instead of lamp i need a gui to  admin  a box i cant do  command line im not that  advanced linux guy..
+2007-05-15T16:47:00.000Z	soundray	NA_Joey	you can have both. Install the desktop *AND* install lamp.

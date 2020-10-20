@@ -1,0 +1,6 @@
+2006-06-24T07:39:00.000Z	Barnog		anybody has problems with pdf-file-icons? In Nautilus I only see a little version of the pdf file. Any ideas how to resolve this, please?
+2006-06-24T07:41:00.000Z	Barnog		Ken
+2006-06-24T07:41:00.000Z	Wibble-	Barnog	indeed it is a feature of gnome that it displays little icons showing the first page of a PDF or text file.
+2006-06-24T07:44:00.000Z	Wibble-	Barnog	Look at system -> preferences -> file management.  Disable showing the preview for the files you want (such as "other previewable files") - that might be what you want?
+2006-06-24T07:54:00.000Z	Barnog	Wibble-	I dont have a File mnagement option
+2006-06-24T07:56:00.000Z	Barnog	Wibble-	2.14

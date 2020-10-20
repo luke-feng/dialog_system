@@ -1,0 +1,6 @@
+2008-01-19T00:22:00.000Z	Andy---		Hi, I'm running ubuntu on my laptop with an external monitor attached. Everything is working fine except the laptop monitor won't turn off when the external monitor is plugged in. Can anyone help me figure out how to get the laptop monitor to turn off?
+2008-01-19T00:23:00.000Z	h1st0	Andy---	does you laptop have a button to controll the output of the display?  Look for a little function button with a picture of a monitor.
+2008-01-19T00:23:00.000Z	Andy---	h1st0	fn + f5
+2008-01-19T00:23:00.000Z	Andy---	h1st0	but that function doesn't work in linux
+2008-01-19T00:24:00.000Z	h1st0	Andy---	that function is on a hardware level and should work.
+2008-01-19T00:24:00.000Z	Andy---	h1st0	the external screen turns off and then right back on when I use that function in linux. In windows it has three modes and works correctly.

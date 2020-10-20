@@ -1,0 +1,6 @@
+2008-10-21T15:26:00.000Z	MaximB1		maximb@maximb-home:~$ route
+2008-10-21T15:26:00.000Z	MaximB1		Kernel IP routing table
+2008-10-21T15:26:00.000Z	MaximB1		Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+2008-10-21T15:26:00.000Z	MaximB1		10.0.0.0        *               255.0.0.0       U     0      0        0 eth0
+2008-10-21T15:26:00.000Z	MaximB1		default         10.0.0.138      0.0.0.0         UG    0      0        0 eth0
+2008-10-21T15:26:00.000Z	FloodBot3	MaximB1	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

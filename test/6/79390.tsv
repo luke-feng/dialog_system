@@ -1,0 +1,6 @@
+2007-09-07T12:03:00.000Z	Akiro		hi
+2007-09-07T12:03:00.000Z	Akiro		i need help... i installed ubuntu moments ago but i cant go to windows...
+2007-09-07T12:03:00.000Z	Akiro		help?
+2007-09-07T12:04:00.000Z	Akiro		can some one help me? get back to windows?
+2007-09-07T12:04:00.000Z	Akiro		i dont want to format...
+2007-09-07T12:04:00.000Z	weezy	Akiro	You probably overwrote your /boot/menu.list and it doesn't have Windows in it anymore

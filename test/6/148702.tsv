@@ -1,0 +1,6 @@
+2005-05-10T13:44:00.000Z	Mwnci		couple of questions. how can i bind the menu to the windows key and how do i get linux to go into hibernation?
+2005-05-10T13:45:00.000Z	mcphail	Mwnci	system -> prefs -> keyboard shortcuts
+2005-05-10T13:46:00.000Z	Mwnci	mcphail	i dont have a prefs under system
+2005-05-10T13:48:00.000Z	mcphail	Mwnci	i do :) try entering gnome-keybinding-properties
+2005-05-10T13:49:00.000Z	Mwnci	mcphail	I have found it but it will only let me bind win+another key
+2005-05-10T13:49:00.000Z	mcphail	Mwnci	press backspace first

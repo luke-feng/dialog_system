@@ -1,0 +1,6 @@
+2012-10-19T21:32:00.000Z	|adrian|		is it wrong to type: "gcc -c test.c -o test" to compile the file test.c into the program test?
+2012-10-19T21:33:00.000Z	|adrian|		stdio.h doesnt seem to be valid
+2012-10-19T21:33:00.000Z	|adrian|		what header file should I use then for std output/input ?
+2012-10-19T21:34:00.000Z	|adrian|		error: stdio.h: No such file or directory, Im probably doing something wrong
+2012-10-19T21:35:00.000Z	|adrian|		how do I compile the file test.c into the program test in gcc?
+2012-10-19T21:35:00.000Z	trism	|adrian|	gcc -o test test.c; if you use -c you will compile an object file that needs to be linked later

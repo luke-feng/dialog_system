@@ -1,0 +1,6 @@
+2012-04-20T22:14:00.000Z	riex		Hello. I have just installed mysql on my ubuntu server, but when I am typing "mysql" and trying to connect to the mysql service, i got this error: "ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)" How do i fix that issue?
+2012-04-20T22:16:00.000Z	riex		__Grabarz__,: When i am using mysql -u root -p i can connect without problems.
+2012-04-20T22:17:00.000Z	riex		but if i log out again, and type "mysql"
+2012-04-20T22:17:00.000Z	riex		i got the same issue again.
+2012-04-20T22:17:00.000Z	DasEi	riex	can give you a german link, code is same, it's just to explain about a file setup , want it ?
+2012-04-20T22:19:00.000Z	DasEi	riex	mind mysql-pass is not rootpass, usually one sets it when installing mysql, but easy to re-set

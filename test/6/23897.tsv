@@ -1,0 +1,6 @@
+2010-03-10T11:18:00.000Z	brjann	Kasm279	ntfs-3g -o ro /dev/sda1 /mnt/whatever    (you might have to do it as root if it's not in fstab)
+2010-03-10T11:21:00.000Z	brjann	Kasm279	bettsp: i would recommend the ntfs-3g option, as the in-kernel ntfs module is old and nigh-unsupported at this point
+2010-03-10T11:24:00.000Z	brjann	Kasm279	screen would be the best way
+2010-03-10T11:24:00.000Z	Kasm279	brjann	right now kwin is down
+2010-03-10T11:25:00.000Z	brjann	Kasm279	i have no idea what kwin is :)
+2010-03-10T11:25:00.000Z	Kasm279	brjann	whatever the window manager in GNOME is

@@ -1,0 +1,6 @@
+2006-04-29T13:09:00.000Z	wendyk		Ubugtu, tell me about mplyaer
+2006-04-29T13:09:00.000Z	wendyk		Ubugtu, tell me about mplayer installation
+2006-04-29T13:10:00.000Z	ENE|Toxic	wendyk	sudo apt-get install mplayer ?
+2006-04-29T13:10:00.000Z	wendyk	ENE|Toxic	err... no ..that doesn't work :-)
+2006-04-29T13:10:00.000Z	ENE|Toxic	wendyk	You need to enable multiverse/universe
+2006-04-29T13:11:00.000Z	ENE|Toxic	wendyk	/etc/apt/source.lst

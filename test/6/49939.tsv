@@ -1,0 +1,6 @@
+2008-11-07T12:11:00.000Z	laffi		Hi Anybody out there that can help me with connecting two Ubuntu machines via wireless (router) ?
+2008-11-07T12:13:00.000Z	laffi		Router is working, I can ping the router from both machines but I can't ping either machine from the other
+2008-11-07T12:14:00.000Z	laffi		No firewall, neither on router nor on Ubuntu
+2008-11-07T12:15:00.000Z	laffi		I've already opened a threat on ubuntuforums but so far no solution
+2008-11-07T12:16:00.000Z	paul68	laffi	do you have ssh server installed?
+2008-11-07T12:16:00.000Z	paul68	laffi	same network name on both pc's

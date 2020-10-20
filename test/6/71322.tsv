@@ -1,0 +1,6 @@
+2007-12-05T23:36:00.000Z	justine_		hi
+2007-12-05T23:37:00.000Z	justine_		I'd like to recursively scan a directory and print out all the files that have a specific character like é è and so on...
+2007-12-05T23:37:00.000Z	justine_		in my loop echo $i | grep é doesn't work
+2007-12-05T23:37:00.000Z	robeph	justine_	ls -R <x> | grep ???
+2007-12-05T23:38:00.000Z	justine_	robeph	i am doing for i in $( ls -R ); do echo $i | grep é done and it doesn't work
+2007-12-05T23:39:00.000Z	robeph	justine_	why all that?

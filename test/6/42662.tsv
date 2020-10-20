@@ -1,0 +1,6 @@
+2010-02-18T07:39:00.000Z	mgmuscari		so - anybody know how to daemonize a process from bash? or more specifically, how to daemonize metacity when i run it. backgrounding the process is not an option.
+2010-02-18T07:40:00.000Z	d3xter	mgmuscari	create a init.d-script?
+2010-02-18T07:41:00.000Z	mgmuscari	d3xter	i don't want to do this on startup
+2010-02-18T07:41:00.000Z	d3xter	mgmuscari	you can disable it through rcconf ;)
+2010-02-18T07:42:00.000Z	mgmuscari	d3xter	do you know anything about the "daemon" package?
+2010-02-18T07:42:00.000Z	d3xter	mgmuscari	no sorry

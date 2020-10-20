@@ -1,0 +1,6 @@
+2008-01-08T23:06:00.000Z	edulix		hi
+2008-01-08T23:08:00.000Z	edulix		i could use screen but i don't like it. i could use gnome-terminal, but i would like to evit gtk if possible,  i want something with small footprint
+2008-01-08T23:09:00.000Z	edulix		like xterm, aterm, etc, but with tabs  :p
+2008-01-08T23:09:00.000Z	DRebellion	edulix	ctrl + alt + f1, f2, f3....
+2008-01-08T23:10:00.000Z	edulix	DRebellion	that's not for x11 :p anyways it seems materm is aterm with tabs
+2008-01-08T23:10:00.000Z	DRebellion	edulix	you wanted tabs and a small memory footprint

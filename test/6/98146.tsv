@@ -1,0 +1,6 @@
+2008-08-17T13:16:00.000Z	eike		Hi, I have a Asus P5E-V HDMI and a 3Com Gigabit-Switch. The LAN-Adapter is a onboard Atheros L1 PCIe Gb LAN controller. So Switch and LAN-Adapter are gigabit-capable, but I only get a 100MBb/s-connection. Is there anything I can do?
+2008-08-17T13:16:00.000Z	jimcooncat	eike	how's your cable?
+2008-08-17T13:17:00.000Z	eike		the cable is fine
+2008-08-17T13:17:00.000Z	eike		works for my notebook
+2008-08-17T13:18:00.000Z	eike	jimcooncat	my cable is fine, works for my notebook, but let me test the cable actually connected to my notebook again
+2008-08-17T13:18:00.000Z	jimcooncat	eike	that's good so we can narrow down the cause to the nic

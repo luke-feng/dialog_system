@@ -1,0 +1,6 @@
+2011-10-15T23:49:00.000Z	bkrstajic		Hello. I am currently using Ubuntu 8.10
+2011-10-15T23:49:00.000Z	bkrstajic		                - the Intrepid Ibex, and today I wanted to switch to latest version.
+2011-10-15T23:49:00.000Z	bkrstajic		I decided to create bootable USB stick. Did everything as described (downloaded iso file, used "create USB startup" application and got information that this part went fine. Now, when I restart computer (it is a HP 6735s laptop) I have this message (after selecting boot from usb):
+2011-10-15T23:49:00.000Z	bkrstajic		boot:
+2011-10-15T23:49:00.000Z	bkrstajic		whatever I enter the message is: "Could not find kernel image:"
+2011-10-15T23:49:00.000Z	FloodBot1	bkrstajic	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

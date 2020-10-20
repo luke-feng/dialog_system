@@ -1,0 +1,6 @@
+2008-02-29T11:32:00.000Z	jscinoz		What is the vga mode for 1280x800 24/32bit?
+2008-02-29T11:33:00.000Z	diegosouza	jscinoz	its itself
+2008-02-29T11:34:00.000Z	jscinoz	diegosouza	no i mean the 3 digit number you put on the kernel line in grub
+2008-02-29T11:34:00.000Z	diegosouza	jscinoz	ah... i'll try find it for u
+2008-02-29T11:37:00.000Z	diegosouza	jscinoz	i found it these days... but i don't remember... i'm still trying
+2008-02-29T11:43:00.000Z	diegosouza	jscinoz	hey i think don't have the exact param for widescreen

@@ -1,0 +1,6 @@
+2010-05-16T01:00:00.000Z	DrGrov		Gotta ask...
+2010-05-16T01:01:00.000Z	DrGrov		I have a keyboard with multimedia keys and all keys work except that I hate that the "sleep" key makes my computer freeze up like it is hibernated. The problem is that I can't get the computer responding anymore after accidentally pressing the "sleep" button.
+2010-05-16T01:03:00.000Z	DrGrov		I appreciate some kind of help if I can turn off the key somehow.
+2010-05-16T01:03:00.000Z	drizzt_	DrGrov	even pressing power button on chassis?
+2010-05-16T01:06:00.000Z	DrGrov	drizzt_	yes it doesn't seem to respond when i press the power button on the chassis. i got a god damn kernel panic after i powered off and restarted. but after a new fresh restart and shutdown later there was no kernel panic visible.
+2010-05-16T01:09:00.000Z	DrGrov	drizzt_	any suggestions?

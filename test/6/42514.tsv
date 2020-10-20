@@ -1,0 +1,6 @@
+2010-06-14T15:11:00.000Z	wildbat		is there a command to turnoff the screen?
+2010-06-14T15:12:00.000Z	cousteau	wildbat	is   xscreensaver-command -lock   enough?
+2010-06-14T15:12:00.000Z	cousteau	wildbat	sorry,   gnome-screensaver-command --lock
+2010-06-14T15:14:00.000Z	wildbat	cousteau	 i mean i want the monitor in standby mode
+2010-06-14T15:23:00.000Z	cousteau	wildbat	mayb e you can achieve something with xrandr
+2010-06-14T15:24:00.000Z	cousteau	wildbat	you can make the screensaver stop sending a signal after X minutes of inactivity

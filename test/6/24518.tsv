@@ -1,0 +1,6 @@
+2011-04-06T12:32:00.000Z	torchie		trying natty beta
+2011-04-06T12:33:00.000Z	torchie		what happened to compiz wobble windows and super-tab cover flow like in 10.04?
+2011-04-06T12:33:00.000Z	torchie		now when you say "production..."
+2011-04-06T12:33:00.000Z	ohsix	torchie	install compizconfig-settings-manager and turn them back on
+2011-04-06T12:34:00.000Z	ohsix	torchie	theres settings migration, but there isn't much that can really be migrated, so you need to set your preferences up again
+2011-04-20T00:58:00.000Z	ohsix	torchie	and best case scenario it's never needed by the average user

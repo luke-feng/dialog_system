@@ -1,0 +1,6 @@
+2008-06-20T02:07:00.000Z	mindframe-		why is ld-linux.so.2 using 50% CPU and 55% memory
+2008-06-20T02:07:00.000Z	mindframe-		this is insane
+2008-06-20T02:08:00.000Z	Slart	mindframe-	it doesn't settle down after a while?
+2008-06-20T02:08:00.000Z	mindframe-	Slart	no this has been going on for 10 minutes now
+2008-08-19T23:19:00.000Z	mindframe-	Slart	if there are multiple controllers then yes ubuntu seems to change them.
+2008-08-19T23:19:00.000Z	Slart	mindframe-	ah.. yes.. that would be true

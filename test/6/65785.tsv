@@ -1,0 +1,6 @@
+2008-07-18T14:24:00.000Z	chrislees		Hi, I have a problem with a friend's computer. Even when there are no extra programs running, the System Monitor still shows data going to or from the network
+2008-07-18T14:24:00.000Z	chrislees		When I look with netstat, there is no process identified for this stuff. It's TCP and it's going to port 80, but the process name is "-"
+2008-07-18T14:26:00.000Z	chrislees		tcp        0      0 192.168.1.102:54463     61.9.129.151:80         TIME_WAIT   -
+2008-07-18T14:28:00.000Z	mrtimdog	chrislees	Try 'netstat -at | fgrep LISTEN' then use 'lsof -i :1234' where 1234 is the port number of the listening port returned from netstat to show which application is using that port.
+2008-07-18T14:29:00.000Z	mrtimdog	chrislees	Also take a look at iptraf
+2008-07-18T14:30:00.000Z	chrislees	mrtimdog	Will do

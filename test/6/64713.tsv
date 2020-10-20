@@ -1,0 +1,6 @@
+2010-04-08T23:27:00.000Z	martian		Is there a way (I guess this would be a Bash question) to define an 'alias' (not a command alias) to a path, so from within any directory, I could say "cp foo $somealias" where $somealias is some long path that I don't want to have to type out?
+2010-04-08T23:28:00.000Z	maginot	martian	just export the path
+2010-04-08T23:28:00.000Z	maginot	martian	export LONG_PATH=/this/is/a/long/path
+2010-04-08T23:29:00.000Z	martian	maginot	ahh neat.. is that permanent (through restarts)?
+2010-04-08T23:29:00.000Z	maginot	martian	put on ~/.bash_profile to be permanent
+2010-04-08T23:30:00.000Z	martian	maginot	rad; thanks :)

@@ -1,0 +1,6 @@
+2007-09-09T08:32:00.000Z	xeer		in the network panel, how can i have multiple aliases for an ip address?
+2007-09-09T08:32:00.000Z	xeer		my question is regarding the hosts tab
+2007-09-09T08:34:00.000Z	xeer		how can i set multiple aliases for a host address?
+2007-09-09T08:35:00.000Z	andresj	xeer	edit /etc/hosts with this format: '125.58.456.4(ip) host1 host2 host3'
+2007-09-09T08:36:00.000Z	xeer	andresj	yes, i've tried the space delimiter but it uses only the first one
+2007-09-09T08:38:00.000Z	andresj	xeer	you should be able to reference the ip from any of the hosts defined; and when you do a backbackards lookup the first host will be selected

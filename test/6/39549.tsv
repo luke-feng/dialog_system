@@ -1,0 +1,6 @@
+2010-02-03T03:24:00.000Z	Ingsoc		I don't really feel like reinstalling an entire OS just to copy a file to a thumb drive. I guess I will just go back to Windows.
+2010-02-03T03:26:00.000Z	warriorforgod	Ingsoc	did you try enabling USB legacy mode in your bios?
+2010-02-03T03:26:00.000Z	Ingsoc	warriorforgod	Yes
+2010-02-03T03:28:00.000Z	warriorforgod	Ingsoc	Can you pastebin your /etc/fstab and /etc/mtab with the USB drive mounted?
+2010-02-03T03:28:00.000Z	Ingsoc	warriorforgod	One moment
+2010-02-03T03:31:00.000Z	Ingsoc	warriorforgod	http://pastebin.com/m394b64e9

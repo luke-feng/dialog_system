@@ -1,0 +1,6 @@
+2009-05-05T22:15:00.000Z	rhombus		I have a server running 7.04 and I want to upgrade to 8.04 LTS. What's the safest way to do this? It's a production server, so I want to avoid a fresh install.
+2009-05-05T22:16:00.000Z	nanomad	rhombus	remember to try this before doing that on the prod server (using a spare machine)
+2009-05-05T22:17:00.000Z	nanomad	rhombus	still the safest
+2009-05-05T22:17:00.000Z	rhombus	nanomad	So, install 7.04 on a fresh  machine, upgrade to 7.10, then upgrade to 8.04?
+2009-05-05T22:17:00.000Z	nanomad	rhombus	i mean...clone your production server drive, and test that before
+2009-05-05T22:18:00.000Z	rhombus	nanomad	ah, I see

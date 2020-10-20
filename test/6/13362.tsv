@@ -1,0 +1,6 @@
+2012-06-14T00:14:00.000Z	lesshaste		when I click on a pdf I just get a black blank page.. how can I work around this?
+2012-06-14T00:14:00.000Z	lesshaste		this is in firefox
+2012-06-14T00:16:00.000Z	joel135	lesshaste	does firefox display the pdf or does it launch another application to do that?
+2012-06-14T00:17:00.000Z	lesshaste	joel135	firefox tries to display it
+2012-06-14T00:17:00.000Z	joel135	lesshaste	I'd set firefox to open the file in evince (the default pdf viewer)
+2012-06-14T00:18:00.000Z	lesshaste	joel135	I think I need to manually delete the plugin to do that

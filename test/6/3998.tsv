@@ -1,0 +1,6 @@
+2012-08-27T15:12:00.000Z	xorox90		does any one know what partition(like.. /dev/sda1 sdb)  should I install grub2 on gpt disk in ubuntu installing process?
+2012-08-27T15:13:00.000Z	cfhowlett	xorox90	depends on your setup.  single disk, single OS??
+2012-08-27T15:13:00.000Z	cfhowlett	xorox90	wait on GPT disk?  Hackintosh or something like that?
+2012-08-27T15:14:00.000Z	cfhowlett	xorox90	normally, win7 single os disks are mbr not gpt.  does ubuntu SEE the windows partitions?
+2012-08-27T15:15:00.000Z	cfhowlett	xorox90	normally, install grub to /dev/sda
+2012-08-27T15:15:00.000Z	cfhowlett	xorox90	be safe, have fun

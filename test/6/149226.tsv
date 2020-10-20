@@ -1,0 +1,6 @@
+2005-05-02T14:47:00.000Z	nixbox		i am having problems upgrading from warty to hoary, i had changed my sources.list to point to hoary repositories, then i did sudo apt-get update followed by sudo apt-get dist-upgrade, but it didnt upgrade rather it says that there 22 packages that have not been upgraded along with 0 newly installed and 0 removed, what could be the problem and how can i resolve it?
+2005-05-02T14:49:00.000Z	St0n3-C0l	nixbox	Hey ;)
+2005-05-02T14:50:00.000Z	nixbox	St0n3-C0l	which city?
+2005-05-02T14:50:00.000Z	St0n3-C0l	nixbox	Khi ?
+2005-05-02T14:50:00.000Z	nixbox	St0n3-C0l	I am from Islamabad
+2005-05-02T14:51:00.000Z	St0n3-C0l	nixbox	ahan

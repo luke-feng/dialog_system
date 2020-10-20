@@ -1,0 +1,6 @@
+2008-10-20T04:45:00.000Z	dulak	MHz128	only if the ftp client supports sftp
+2008-10-20T04:46:00.000Z	dulak	MHz128	the quick and easy solution is to have the windows user download winscp, it looks just like a normal ftp client but uses ssh
+2008-10-20T04:46:00.000Z	MHz128	dulak	thats awesome, you are the man
+2008-10-20T04:46:00.000Z	MHz128		:)
+2008-10-20T04:49:00.000Z	MHz128	dulak	how are wireless file transfer speeds?
+2008-10-20T04:50:00.000Z	dulak	MHz128	whatever the wireless signal supports, the encryption overhead from ssh isn't a big deal on a recent cpu

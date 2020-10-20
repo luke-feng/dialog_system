@@ -1,0 +1,6 @@
+2011-05-01T09:20:00.000Z	Inphernal		Hey all, trying to upgrade 10.10 64bit to 11.04, I get "E:Error, pkgProblemResolver::Resolve generated breaks, this may be caused by held packages." after waiting a while during "setting new software channels" step of upgrader
+2011-05-01T09:21:00.000Z	celthunder	Inphernal	so what packages are being held
+2011-05-01T09:23:00.000Z	celthunder	Inphernal	jetole did you md5 your packages, any of them just crashing out? what happens if you install a few at a time
+2011-05-01T09:30:00.000Z	Inphernal	celthunder	I check, I don't think there's any
+2011-05-01T09:32:00.000Z	Inphernal	celthunder	Any idea what else I should check?
+2011-05-01T09:32:00.000Z	celthunder	Inphernal	no not really sorry

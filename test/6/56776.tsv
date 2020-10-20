@@ -1,0 +1,6 @@
+2008-11-14T01:29:00.000Z	atom^x	Who__	->sudo lshw
+2008-11-14T01:39:00.000Z	Who__	atom^x	the output for that seems to write over itself! I just get PCI (sysfs) left...
+2008-11-14T01:39:00.000Z	atom^x	Who__	-> be patient, it will print out when done...
+2008-11-14T01:41:00.000Z	Who__	atom^x	It's finished now but I can't see anything that looks much like a touchpad... or a mouse. Any pointers?
+2008-11-14T01:48:00.000Z	atom^x	Who__	-> u might try "cat /proc/bus/input/devices"
+2008-11-14T01:49:00.000Z	Who__	atom^x	/devices/platform/i8042/serio4/input/input8 looks like it. Would that be the path to specify in xorg.conf?

@@ -1,0 +1,6 @@
+2010-05-20T07:59:00.000Z	muskask8		I just updated to ubuntu 10.04 from ubuntu 9.10 and now my sound doesn't work. It did at first but now it doesn't at all
+2010-05-20T08:01:00.000Z	muskask8		I just updated to ubuntu 10.04 from ubuntu 9.10 and now my sound doesn't work. It did at first but now it doesn't at all
+2010-05-20T08:02:00.000Z	muskask8		yes I did, and nothing it muted
+2010-05-20T08:02:00.000Z	muskask8		no I do not
+2010-05-20T08:03:00.000Z	muskask8		yes and nothing happens, I don't even get sound when I turn the computer on and log in
+2010-05-20T08:04:00.000Z	leagris	muskask8	I suggest you load an alsa mixer like gamix and check all levels and muter. The gnome-volume-control with pulseaudio backend tend to ignore some devices

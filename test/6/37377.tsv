@@ -1,0 +1,6 @@
+2009-11-13T05:23:00.000Z	emanuel__		I'm going to SHOUT again. Bare with me. Anybody else having HUGE problems with Synaptics' dependencies resolution? I'm beginning to suspect I have done something, uhm, unorthodox.
+2009-11-13T05:24:00.000Z	natrixnatrix89	emanuel__	whats the problem?
+2009-11-13T05:25:00.000Z	natrixnatrix89	emanuel__	dependencies can be solved.
+2009-11-13T05:25:00.000Z	emanuel__	natrixnatrix89	problem is Synaptics is largely non-interactive because it's wasting my CPU figgering out the deps tree all the time
+2009-11-13T05:26:00.000Z	natrixnatrix89	emanuel__	did you try sudo apt-get -f install ?
+2009-11-13T05:27:00.000Z	emanuel__	natrixnatrix89	no I didn't. I always have a couple of superuser gnome-terminals around so I rarley need to use sudo. :-) apt-get -f install reports nothing

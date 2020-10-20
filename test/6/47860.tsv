@@ -1,0 +1,6 @@
+2009-04-26T09:43:00.000Z	yowshi		better question anyone know if ubuntu's code for enter happens to be something other then Return or Enter?
+2009-04-26T09:43:00.000Z	magcius	yowshi	Ubuntu's code for enter is 13 or 0xD.
+2009-04-26T09:43:00.000Z	magcius	yowshi	just like any other system.
+2009-04-26T09:44:00.000Z	yowshi	magcius	hmmm well when i tried putting what xmacrorec spit out into a file xmacroplay says it cant recognize it
+2009-04-26T09:45:00.000Z	magcius	yowshi	I doubt that has to do with the "code for Enter"
+2009-04-26T09:46:00.000Z	yowshi	magcius	i was wondering if ubuntu had soem other entry because everything i look up say KeyStrPress Enter or Return or KP_Enter and xmacro doesnt recognize any of them

@@ -1,0 +1,6 @@
+2009-11-15T00:39:00.000Z	Thor1		﻿Can someone help me downgrade cherrypy? I purged it from synaptic but when I check its version number in python I get that it is still here
+2009-11-15T00:41:00.000Z	Thor1		﻿Can someone help me downgrade cherrypy? I purged it from synaptic but when I check its version number in python I get that it is still here
+2009-11-15T00:42:00.000Z	Thor1		﻿Can someone help me downgrade cherrypy? I purged it from synaptic but when I check its version number in python I get that it is still here
+2009-11-15T00:43:00.000Z	lstarnes	Thor1	how did you install it?
+2009-11-15T00:44:00.000Z	Thor1	lstarnes	I think I originally installed it from the command line.  When I figured out that I had the wrong version I re-installed it from synaptic hoping it would override, apparently not.
+2009-11-15T00:44:00.000Z	lstarnes	Thor1	versions installed outside of the package system typically override the packaged versions

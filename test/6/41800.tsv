@@ -1,0 +1,6 @@
+2009-10-16T04:15:00.000Z	dumont		whats a sticky bit and how do i deactivate it? setting chmod 0776 * did not change anything, the directories are still drwsrwsrw-
+2009-10-16T04:16:00.000Z	dumont		help, i can't remove the sticky bit!
+2009-10-16T04:18:00.000Z	dumont		help, i can't remove the sticky bit! i set it accidentally, but now when i do "chmod 0776 file" it does not seem to remove!
+2009-10-16T04:19:00.000Z	dumont		i'm logged in as root
+2009-10-16T04:20:00.000Z	dumont		whats -t operand?
+2009-10-16T04:21:00.000Z	ZykoticK9	dumont	try "sudo chmod a-s FILENAMES" :)

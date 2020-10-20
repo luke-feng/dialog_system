@@ -1,0 +1,6 @@
+2011-07-07T23:13:00.000Z	newbie01		how do I erase my hard disk from a usb?
+2011-07-07T23:14:00.000Z	ActionParsnip	newbie01	use gparted
+2011-07-07T23:15:00.000Z	newbie01	ActionParsnip	there something called kill disk, i dont how to get it on a usb
+2011-07-07T23:17:00.000Z	newbie01	ActionParsnip	I want to do this on my laptop which im using now, how do I practically do it
+2011-07-07T23:18:00.000Z	ActionParsnip	newbie01	something like: sudo dd if=/dev/zero of=/dev/sdz
+2011-07-07T23:20:00.000Z	newbie01	ActionParsnip	Will the process complete if the ubuntu OS will be wiped while carrying out the erasing, if you see what I mean

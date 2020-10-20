@@ -1,0 +1,6 @@
+2010-05-02T20:02:00.000Z	Savage308		I need some help with my sound on 10.04, I'm having issues with the mic. It is functional finally. but What I do now is  i've got recording set up on microphone but I can hear the input for it through my headphones to cancel that out I turned down Line In, Although while talking on Mumble (voip client) it loops the sound anything that comes through my output goes through input, Any way to fix this?
+2010-05-02T20:04:00.000Z	Savage308		I need some help with my sound on 10.04, I'm having issues with the mic. It is functional finally. but What I do now is  i've got recording set up on microphone but I can hear the input for it through my headphones to cancel that out I turned down Line In, Although while talking on Mumble (voip client) it loops the sound anything that comes through my output goes through input, Any way to fix this?
+2010-05-02T20:05:00.000Z	Seven_Six_Two	Savage308	try playing with alsamixer
+2010-05-02T20:05:00.000Z	Savage308	Seven_Six_Two	I have. But I also have a HDMI port so I'm curious to whether that could be causin any issues.
+2010-05-02T20:06:00.000Z	Savage308	Seven_Six_Two	and I've experimented with different profiles also. I'm at a dead end.
+2010-05-02T20:07:00.000Z	Savage308	Seven_Six_Two	I found it, It was recording the PCM which I have no idea what that is

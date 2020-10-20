@@ -1,0 +1,6 @@
+2009-08-15T18:32:00.000Z	bobg		what to do when you need to update a hardware's firmware and there is only a windows exe?
+2009-08-15T18:32:00.000Z	grawity	bobg	I dual-boot Windows :) Sometimes, if the .exe just extracts things to a floppy, I use another computer.
+2009-08-15T18:35:00.000Z	bobg	grawity	soreau, would a xen VM work if I configure a pci pass through for teh drive?
+2009-08-15T18:35:00.000Z	grawity	bobg	What exactly are you updating?
+2009-08-15T18:36:00.000Z	grawity	bobg	If Windows gets pure unrestricted access to that particular device - then yes, it probably would work.
+2009-08-15T18:36:00.000Z	bobg	grawity	a LH-20A1P Liteon dvd writer

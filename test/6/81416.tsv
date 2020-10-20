@@ -1,0 +1,6 @@
+2007-10-05T10:11:00.000Z	greg-g		issue: I deleted a link (I think that is what it is) to a folder.  now when I try to delete that link, it tries to delete the contents of the folder.  How do I get rid of it?
+2007-10-05T10:11:00.000Z	Dr_willis	greg-g	 a soft link? hard link?
+2007-10-05T10:12:00.000Z	Dr_willis		can ya do hard links to a directory? Hmm not sure on that one..
+2007-10-05T10:12:00.000Z	greg-g	Dr_willis	teKnofreak: when you have an external harddrive connected, the icon on the desktop, whatever that is
+2007-10-05T10:13:00.000Z	Dr_willis	greg-g	 thats a mounted drive. not a link.
+2007-10-05T10:14:00.000Z	greg-g	Dr_willis	teKnofreak: I have rsync backup my /home dir every night, and in /backupdrive/home/greg/Desktop/ there was a "shortcut" to Media, I deleted it, now when I try to empty the trash, it tries to delete my media off the backupdrive

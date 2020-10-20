@@ -1,0 +1,6 @@
+2010-05-27T15:08:00.000Z	BPower		I've tried "xrandr --addmode VGA1 1680x1050" but I get "xrandr: cannot find mode "1680x1050"" so I tried "xrandr --newmode VGA1 1680x1050" and it outputs a quite unhelpful command tree.
+2010-05-27T15:08:00.000Z	drizzt_	BPower	try add x32
+2010-05-27T15:09:00.000Z	BPower	drizzt_	can you please be more specific?
+2010-05-27T15:09:00.000Z	BPower		xrandr --addmode x32 ??
+2010-05-27T15:09:00.000Z	drizzt_		linke 1680x1050x32
+2010-05-27T15:10:00.000Z	BPower	drizzt_	same result

@@ -1,0 +1,6 @@
+2006-07-07T13:00:00.000Z	hcjc92		is there a good chance that if i have like 3 partitions on 1 disk, and i split on in half, the other 2 will still be okay, or will they get fried?
+2006-07-07T13:02:00.000Z	hcjc92		jowi: crap i think my swap space is partion #5... wiat, does the # of them matter, or the acctually order?
+2006-07-07T13:04:00.000Z	hcjc92		well, the partition with ubuntu is #1 and the next is a huge fat32 partions and then swap, if the swap gets messup does it matter?
+2006-07-07T13:05:00.000Z	hcjc92		jowi: /dev/sda1 linux /dev/sda2 extended /dev/sda4 w95 fat32 /dev/sda5 linux swap
+2006-07-07T13:05:00.000Z	hcjc92		the fat32
+2006-07-07T13:07:00.000Z	gdb	hcjc92	$ sudo swapoff /path/to/swapfile/or/dev/entry

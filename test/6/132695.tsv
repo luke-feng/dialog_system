@@ -1,0 +1,6 @@
+2005-10-25T07:12:00.000Z	sbeh		hi, have a little problem with my xorg.conf (which works under gentoo, but) which troubles on ubuntu, on my notebook (i855gme-chip) the tft has a max resolution of 1024, but if a connect an crt on vga-out 1280 is possible on the crt, but i get this message: (1280x1024,m0) mode clock 100000MHz exceeds DDC maximum 140MHz
+2005-10-25T07:12:00.000Z	sbeh		what can i do?
+2005-10-25T07:13:00.000Z	brenner	sbeh	might be a refresh rate problem...are you sure your rates are correct?
+2005-10-25T07:14:00.000Z	sbeh	brenner	the vertical refresh rate is settet to 60 in the xorg.conf (without this solid value its also doesnt work under gentoo)
+2005-10-25T07:16:00.000Z	sbeh	brenner	in my opionen a ''Modeline'' could help, but how do i get it?
+2005-10-25T07:18:00.000Z	brenner	sbeh	yeah, i'm not really sure about external displays actually.

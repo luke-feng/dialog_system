@@ -1,0 +1,6 @@
+2007-04-26T16:51:00.000Z	MatBoy		Hi Guys ! I'm planning to switch from Debian Etch to (X)(K)Ubuntu and was wondering what the best version is for perfomance. I use XFCE on Etch because KDE was giving me so much CPU usage. I doubt if this will be the same on Kubuntu. Can someone give me some experience ?
+2007-04-26T16:53:00.000Z	MatBoy		OK, thanks, so I should be stcuk with XFCE
+2007-04-26T16:53:00.000Z	ahaller	MatBoy	gnome/ubuntu runs quite fast here, too.
+2007-04-26T16:54:00.000Z	MatBoy	ahaller	let me try to get a liveCD if there is one
+2007-04-26T16:56:00.000Z	ahaller	MatBoy	anther option could be to use gnome, but use thunar/xfce4-terminal/mousepad instead of nautilus/gnome-terminal/gedit
+2007-04-26T16:57:00.000Z	MatBoy	ahaller	yeap, tested that with Etch also, gnome is slow by default

@@ -1,0 +1,6 @@
+2012-03-01T20:48:00.000Z	LukeNukem		how can i install libsub-1.0
+2012-03-01T20:50:00.000Z	LukeNukem		how can i install libsub?
+2012-03-01T20:50:00.000Z	LukeNukem		also
+2012-03-01T20:50:00.000Z	LukeNukem		i need to add a rule to udev
+2012-03-01T20:50:00.000Z	LukeNukem		which file do i need to edit?
+2012-03-01T20:51:00.000Z	bastidrazor	LukeNukem	http://packages.ubuntu.com/search?keywords=libsub&searchon=names&suite=oneiric&section=all

@@ -1,0 +1,6 @@
+2009-05-30T01:19:00.000Z	dakarn		buzz is just a white noise, now trim it to a frequency and BAM :)
+2009-05-30T01:21:00.000Z	dakarn		anyone know how to query the ppp connection log to see if i'm connected GPRS or UMTS?
+2009-05-30T01:22:00.000Z	erUSUL	dakarn	pppd logs to syslog iirc... /var/log/syslog
+2009-05-30T01:24:00.000Z	dakarn	erUSUL	is there a way to query the connection? because it doesn't show me the connection type
+2009-05-30T01:24:00.000Z	erUSUL	dakarn	i dunno sorry
+2009-06-07T23:31:00.000Z	erUSUL	dakarn	call the ops ?? ;)

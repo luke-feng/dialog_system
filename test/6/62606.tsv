@@ -1,0 +1,6 @@
+2008-06-07T05:30:00.000Z	tomtommy		!pastebin
+2008-06-07T05:31:00.000Z	tomtommy		can someone tell me how much FREE space I have on my 1GB USB Stick?  http://paste.ubuntu.com/17765/
+2008-06-07T05:31:00.000Z	tomtommy		I cannot understand what df- h output was.  can someone please translate it?
+2008-06-07T05:31:00.000Z	jrib	tomtommy	Avail means available
+2008-06-07T05:32:00.000Z	jrib	tomtommy	your stick isn't there though
+2008-06-07T05:33:00.000Z	tomtommy	jrib	but thats the whole output given.  why does it say 16MB?

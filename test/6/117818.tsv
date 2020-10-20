@@ -1,0 +1,6 @@
+2006-05-17T12:26:00.000Z	Almindor		hello, how do I make a "home net" (file copy etc.) between 2 linux boxes? (one ubuntu, other knoppix)
+2006-05-17T12:26:00.000Z	Almindor		I know scp
+2006-05-17T12:26:00.000Z	Almindor		too bulky
+2006-05-17T12:26:00.000Z	Almindor		I need something.. em "simple"
+2006-05-17T12:26:00.000Z	Almindor		think samba over linux
+2006-05-17T12:27:00.000Z	pike__	Almindor	well you can use sshfs

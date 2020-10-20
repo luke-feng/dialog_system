@@ -1,0 +1,6 @@
+2007-12-15T22:40:00.000Z	Xima1	nickrud	: would you please repost that link you gave me a moment ago sir ?
+2007-12-15T23:05:00.000Z	nickrud	Xima1	sudo rm
+2007-12-16T00:22:00.000Z	nickrud	Xima1	usually a module will list the other modules using it, you have to unload those as well, as well as any app using those modules (or use rmmod -f (force , but that's dangerous to system stability)
+2007-12-16T00:23:00.000Z	Xima1	nickrud	: if it crashes my laptop .. will i be able to reboot .. ?
+2007-12-16T00:23:00.000Z	nickrud	Xima1	yes
+2007-12-16T00:24:00.000Z	nickrud	Xima1	I mentioned it , sudo rmmod -f

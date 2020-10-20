@@ -1,0 +1,6 @@
+2007-09-03T12:00:00.000Z	foug		how do i log into root?
+2007-09-03T12:00:00.000Z	foug		su doesn't work
+2007-09-03T12:01:00.000Z	WONToN	foug	try sudo passwd root, first
+2007-09-03T12:01:00.000Z	foug	WONToN	didn't work
+2007-09-03T12:02:00.000Z	foug	WONToN	authentication failure
+2007-09-03T12:06:00.000Z	WONToN	foug	man sudo

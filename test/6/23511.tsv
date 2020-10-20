@@ -1,0 +1,6 @@
+2010-03-09T03:21:00.000Z	Aeronius		To ignore joins, parts, quits in irssi:
+2010-03-09T03:21:00.000Z	Aeronius		I was told to ignore joins, parts, and quits, to do this, but how would I undo it? /ignore #ubuntu +JOINS +PARTS +QUITS
+2010-03-09T03:21:00.000Z	eraggo	Aeronius	unignore?
+2010-03-09T03:22:00.000Z	Aeronius	eraggo	are you guessing?
+2010-03-09T03:22:00.000Z	Aeronius		I need something definitive before I use it
+2010-03-09T03:22:00.000Z	eraggo	Aeronius	tested, worked

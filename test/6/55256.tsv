@@ -1,0 +1,6 @@
+2008-07-08T10:20:00.000Z	ubunoob		If I have the latest updates for Hardy, is there a real need for me to download and install the .iso of 8.04.1?
+2008-07-08T10:21:00.000Z	FlyingWV	ubunoob	No, if you've stayed updated, you already have 8.04.1
+2008-07-08T10:21:00.000Z	FlyingWV	ubunoob	Sure thing
+2008-07-08T10:24:00.000Z	FlyingWV	ubunoob	If you want to be sure though, you can type this in a terminal lsb_release -a
+2008-07-08T10:24:00.000Z	FlyingWV	ubunoob	That will tell you which distribution version you have installed
+2008-07-08T10:27:00.000Z	FlyingWV	ubunoob	Should be good

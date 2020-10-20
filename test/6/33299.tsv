@@ -1,0 +1,6 @@
+2009-12-06T04:55:00.000Z	centHOGG		yeah i know
+2009-12-06T04:55:00.000Z	centHOGG		ok create it
+2009-12-06T04:55:00.000Z	centHOGG		with an older one?
+2009-12-06T04:57:00.000Z	centHOGG		got it... i'll just lift some script from an older version.... i wonder why they left that out
+2009-12-06T04:58:00.000Z	trism	centHOGG	the default should be in /etc/skel/.bashrc, not sure why you don't have one in your home directory though
+2009-12-06T04:58:00.000Z	centHOGG	trism	thx

@@ -1,0 +1,6 @@
+2007-01-23T12:41:00.000Z	Asc		I tried to stop a process using 'pkill -STOP [pid] '.  Its' window froze, so I killed it from the desktop.  The window disappeared, but the process is still running.  Kill and sudo kill have no affect.  How can I stop it?
+2007-01-23T12:42:00.000Z	Daverocks	Asc	try "kill [pid] " or failing that, "kill -9 [pid] "
+2007-01-23T12:43:00.000Z	Asc	Daverocks	The second one did the trick.  Thanks.
+2007-01-23T12:43:00.000Z	Daverocks	Asc	cool. btw, -KILL is the same as -9
+2007-01-23T12:44:00.000Z	Daverocks	Asc	it sends -TERM
+2007-01-23T12:45:00.000Z	Daverocks	Asc	TERM says, please stop. KILL says, ok, we're not going to execute any of this process's code on the CPU

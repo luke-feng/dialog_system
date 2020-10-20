@@ -1,0 +1,6 @@
+2012-01-21T21:35:00.000Z	RiXtEr-home	TwoD	do you need the 3g package, there are a few others out there, ntfsprogs might be what you need.
+2012-01-21T21:36:00.000Z	TwoD	RiXtEr-home	from what I can tell, ntfs-3g contains the FUSE integration in addition to what's in ntfsprogs.
+2012-01-21T21:38:00.000Z	RiXtEr-home	TwoD	I just looked at mine, the ntfs-3g stuff is installed already... not sure what I have thats different
+2012-01-21T21:38:00.000Z	RiXtEr-home		Hey all, Is there a way to setup a network bridge inside of unity (specifically the Network Connections dialogue box) instead of /etc/network/interfaces.
+2012-01-21T21:39:00.000Z	TwoD	RiXtEr-home	I have ntfs-3g 2011.4.12AR.4-2ubuntu3, I want ntfs-3g 2011.10.9AR.1-1ubuntu3
+2012-01-21T21:41:00.000Z	TwoD	RiXtEr-home	There's talk about recent performance improvements when writing large files. I'm writing a 1TB file at approx 32Kb/s...

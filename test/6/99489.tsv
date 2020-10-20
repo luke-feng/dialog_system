@@ -1,0 +1,6 @@
+2007-02-18T11:41:00.000Z	yrlnry		Every time I upgrade my kernel, my ethernet card stops wworking.  Then I have to recompile and reinstall the driver for it.  How can i arrange that this happens automatically?
+2007-02-18T11:41:00.000Z	adaptr	yrlnry	if the driver is not in the kernel, you can't
+2007-02-18T11:42:00.000Z	yrlnry	adaptr	I can't tell the upgrade system to run a shell script whenever it installs a new kernel?
+2007-02-18T11:42:00.000Z	adaptr	yrlnry	not without cahnging the kernel packages....
+2007-02-18T11:43:00.000Z	adaptr	yrlnry	this may prove problematic if you need a new version of the driver for a new kernel.. you'd have to download it first :)
+2007-02-18T11:43:00.000Z	yrlnry	adaptr	I know.  I had a lot of trouble the first time through.

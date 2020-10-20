@@ -1,0 +1,6 @@
+2008-01-18T23:58:00.000Z	frojnd		is someone here willing to help me out configure codecs ? I missed something up and now I can't watch divx, mpeg, all kind of movies in fullscreen mode. If I do full screen picture is made by big squares.. Can someone help me out clean the codecs ??
+2008-01-18T23:59:00.000Z	uri	frojnd	try reinstalling the codecs package
+2008-01-18T23:59:00.000Z	frojnd	uri	problem is I can't remeber the names of codecs :S I have installed all kinds of codecs including windows32
+2008-01-19T00:00:00.000Z	uri	frojnd	you mean codecs in addition to what's available in the repositories?
+2008-01-19T00:01:00.000Z	frojnd	uri	yes
+2008-01-19T00:02:00.000Z	uri	frojnd	ah... I don't know then cuz usually I just stick to the official "unofficial" ones, so i just reinstall them when something goes wrong

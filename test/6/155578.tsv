@@ -1,0 +1,6 @@
+2005-03-03T12:56:00.000Z	tito		hi
+2005-03-03T12:58:00.000Z	tito		i formated a memory stick in win2000 in FAT32, when i try mount /dev/sda the reponse is:
+2005-03-03T12:59:00.000Z	Dr_willis	tito	 its MOST likely needing to mount "sda1"
+2005-03-03T12:59:00.000Z	Dr_willis	tito	 or its on some other scsi device.. sdb sdc.. ect..
+2005-03-03T13:00:00.000Z	Dr_willis	tito	 thats mounts generic "it dident work" error message "{
+2005-03-03T13:04:00.000Z	Dr_willis	tito	 it may want sda5 - check what fdisk says on that decvice

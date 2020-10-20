@@ -1,0 +1,6 @@
+2006-08-28T10:27:00.000Z	eetfunk		what's the autoexec.bat equivalent in ubuntu?  IE: how do I start programs automatically at startup (console)
+2006-08-28T10:28:00.000Z	_lupine	eetfunk	in the /etc/rc?.d directories
+2006-08-28T10:28:00.000Z	_lupine		your best bet is to look at an existing script and copy the layout, replacing the commands
+2006-08-28T10:28:00.000Z	_lupine		(the scripts are usually in /etc/init.d, with the rc?.d files being symlinks)
+2006-08-28T10:28:00.000Z	eetfunk	_lupine	i just put bash scripts in there?
+2006-08-28T10:29:00.000Z	_lupine	eetfunk	yes, following the current rules

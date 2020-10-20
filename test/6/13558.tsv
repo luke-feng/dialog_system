@@ -1,0 +1,6 @@
+2011-02-20T05:46:00.000Z	mufasis		just another quick question, i have two packages in the form of .deb files that i need to install, they are already on my server, how do i install them with all their dependencies etc?
+2011-02-20T05:47:00.000Z	mufasis		will that include dependencies?
+2011-02-20T05:47:00.000Z	mufasis		how do i include dependencies?
+2011-02-20T05:49:00.000Z	mufasis		i got it
+2011-02-20T05:49:00.000Z	mufasis		sudo dpkg -i --force-depends *.deb
+2011-02-20T05:49:00.000Z	Chipzzz	mufasis	if you're worried about dependencies, run sudo apt-get check

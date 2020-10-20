@@ -1,0 +1,6 @@
+2012-09-05T05:09:00.000Z	XiRoN		Is there a way to forcekill all java?
+2012-09-05T05:09:00.000Z	XiRoN		In ubuntu
+2012-09-05T05:10:00.000Z	XiRoN		Obviously
+2012-09-05T05:10:00.000Z	XiRoN		:P
+2012-09-05T05:11:00.000Z	matti_	XiRoN	 i think xkill will do the trick if java hace an window ...
+2012-09-05T05:11:00.000Z	matti_	XiRoN	 otherwise use kill and the ID of the process ...

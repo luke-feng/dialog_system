@@ -1,0 +1,6 @@
+2010-12-19T22:10:00.000Z	bonjoyee	bezao-	was it downloading when u cancelled?
+2010-12-19T22:13:00.000Z	bonjoyee	bezao-	u there?
+2010-12-19T22:13:00.000Z	bezao-	bonjoyee	no, it was installing
+2010-12-19T22:14:00.000Z	bezao-	bonjoyee	i did an apt-get update, it showed my and error, and told me to tpe dpkg --configure -a, and it got back where it was installing
+2010-12-19T22:14:00.000Z	bezao-	bonjoyee	i guess everything is okay now
+2010-12-19T22:14:00.000Z	bonjoyee	bezao-	thats right...

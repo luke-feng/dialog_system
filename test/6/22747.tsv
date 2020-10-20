@@ -1,0 +1,6 @@
+2010-05-20T12:36:00.000Z	cahippy		How can i get a usb flash drive to work in virtual ose
+2010-05-20T12:37:00.000Z	cahippy		How can i get a usb flash drive to work in virtual ose
+2010-05-20T12:38:00.000Z	red2kic	cahippy	virtualbox-ose lack support for USB -- Use PUEL.
+2010-05-20T12:39:00.000Z	red2kic	cahippy	non-free version.
+2010-05-20T13:37:00.000Z	red2kic	cahippy	Use Virtual Box PUEL
+2010-05-20T13:40:00.000Z	red2kic	cahippy	I don't understand your meaning. virtualbox-ose is not same as virtualbox-3.0 (which does not exist in the repos until you added virtualbox-puel-ppa). I suppose you could set up folder sharing between two machines and whatnot. That would work too.

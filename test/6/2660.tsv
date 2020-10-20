@@ -1,0 +1,6 @@
+2012-08-28T02:01:00.000Z	opieng		ok thanks, why can I not select to partion my /home drive as ntfs?
+2012-08-28T02:02:00.000Z	opieng		so what shall I opt for, for the /home partition?
+2012-08-28T02:02:00.000Z	krababbel	opieng	ntfs has different permission system, not compatible with linux
+2012-08-28T02:03:00.000Z	krababbel	opieng	ext4. ext2, if you want write access from windows.
+2012-08-28T02:06:00.000Z	krababbel	opieng	doesn't really matter, but you can only have four primary partitions on a drive
+2012-08-28T02:06:00.000Z	krababbel	opieng	/ has to be primary I guess

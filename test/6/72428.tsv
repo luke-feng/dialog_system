@@ -1,0 +1,6 @@
+2008-08-12T09:18:00.000Z	droopsta915		i figured out the problem for the packet tracer from cisco web site. if anyone needs to know how i did it. here it is.First you must download Packet Tracer v5,0 in the package for generic Linux from CISCO, PacketTracer5_generic.tar.gz
+2008-08-12T09:18:00.000Z	droopsta915		then
+2008-08-12T09:18:00.000Z	droopsta915		$ tar xfzv PacketTracer5_generic.tar.gz
+2008-08-12T09:18:00.000Z	droopsta915		$ cd PacketTracer5
+2008-08-12T09:18:00.000Z	droopsta915		$ sudo ./install
+2008-08-12T09:18:00.000Z	FloodBot1	droopsta915	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

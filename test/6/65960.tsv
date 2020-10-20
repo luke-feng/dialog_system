@@ -1,0 +1,6 @@
+2011-05-26T22:36:00.000Z	prezident		Hello people again
+2011-05-26T22:37:00.000Z	prezident		 i have a computer that boots both linux and windows but my windows have more space to save things is their any way i can take that space and give it to my linux ? if that makes sense
+2011-05-26T22:38:00.000Z	prezident		?
+2011-05-26T22:38:00.000Z	ActionParsnip	prezident	or make a folder in the ntfs and use it to store junk. Ubuntu can write NTFS.
+2011-05-26T22:40:00.000Z	ActionParsnip	prezident	making the folder is less graceful but is quicker and with less risk
+2011-05-26T22:44:00.000Z	ActionParsnip	prezident	in places you will see the ntfs partition. Click it then make a folder someplace (or if you have it automounting use its mount point).

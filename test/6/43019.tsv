@@ -1,0 +1,6 @@
+2009-02-10T03:13:00.000Z	boot_loop		how do I execute an executable file from the command line?
+2009-02-10T03:13:00.000Z	^hashbang^	boot_loop	./filename
+2009-02-10T03:14:00.000Z	^hashbang^	boot_loop	do a chmod +x filename to make sure you can excute it
+2009-02-10T03:15:00.000Z	^hashbang^	boot_loop	not really you could do ./path/to/file
+2009-02-10T03:15:00.000Z	^hashbang^	boot_loop	or just /path/to/file without the . in front of /
+2009-02-10T03:22:00.000Z	^hashbang^	boot_loop	doh! good catch

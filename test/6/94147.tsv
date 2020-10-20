@@ -1,0 +1,6 @@
+2007-04-17T09:55:00.000Z	GigaClon		/sbin/mount.davfs: Program is not setuid root. what does this mean when mounting a Davfs volume
+2007-04-17T09:56:00.000Z	stouset	GigaClon	Probably need to run it under sudo.
+2007-04-17T09:56:00.000Z	stouset	GigaClon	Not familiar with davfs, but you might be able to enable the "users" option in the fstab.
+2007-04-17T09:58:00.000Z	stouset	GigaClon	Not sure, then.
+2007-04-17T09:59:00.000Z	stouset	GigaClon	The solution is probably to set the setuid bit on the binary, but that's a security issue.
+2007-04-17T10:04:00.000Z	GigaClon	stouset	i tried setting uid=1000 but i got this error Could not open pid-file.

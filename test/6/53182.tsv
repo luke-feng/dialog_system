@@ -1,0 +1,6 @@
+2008-10-25T08:16:00.000Z	droopsta915		is there a PuTTY.exe for ubuntu?
+2008-10-25T08:16:00.000Z	PovAddict	droopsta915	no, just use ssh
+2009-01-22T03:25:00.000Z	PovAddict	droopsta915	strange, you should be able to...
+2009-01-22T03:28:00.000Z	PovAddict	droopsta915	ah no you can't
+2009-01-22T03:28:00.000Z	PovAddict	droopsta915	"an ISO is created by copying an entire disc, from sector 0 to the end, into a file. Because the image file contains "cooked" 2048-byte sectors and nothing else, it isn't possible to store anything but a single data track in this fashion. Audio tracks, mixed-mode discs, CD+G, multisession, and other fancy formats can't be represented."
+2009-01-22T03:29:00.000Z	droopsta915	PovAddict	I Updated and now I only get, .raw file option

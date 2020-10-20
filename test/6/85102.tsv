@@ -1,0 +1,6 @@
+2010-07-08T22:05:00.000Z	unitedsaber		I am trying to move a file..what am I doing wrong..........sudo mv "/home/unitedsaber/Downloads/sites/all/themes/psd2css" ~-/usr/share/drupal6/themes/
+2010-07-08T22:05:00.000Z	unitedsaber		mv: cannot move `/home/unitedsaber/Downloads/sites/all/themes/psd2css' to `~-/usr/share/drupal6/themes/': No such file or directory
+2010-07-08T22:06:00.000Z	unitedsaber		let me try
+2010-07-08T22:06:00.000Z	unitedsaber		I got this.....sudo mv "/home/unitedsaber/Downloads/sites/all/themes/psd2css" ~/usr/share/drupal6/themes/
+2010-07-08T22:06:00.000Z	unitedsaber		mv: cannot move `/home/unitedsaber/Downloads/sites/all/themes/psd2css' to `/home/unitedsaber/usr/share/drupal6/themes/': No such file or directory
+2010-07-08T22:07:00.000Z	bastidrazor	unitedsaber	drop the ~ on the 2nd path

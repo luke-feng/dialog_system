@@ -1,0 +1,6 @@
+2008-05-09T13:51:00.000Z	N1N31NCHN41L6		Have they given up support og Gutsy Gibbon already? i tried to install ubuntu-restricted-extras and it says it doesnt exist
+2008-05-09T13:52:00.000Z	bazhang	N1N31NCHN41L6	likely you dont have correct repos enabled
+2008-05-09T13:55:00.000Z	bazhang	N1N31NCHN41L6	please pastebin your sources.list thanks
+2008-05-09T13:56:00.000Z	bazhang	N1N31NCHN41L6	pastebin sources.list please
+2008-05-09T13:58:00.000Z	bazhang	N1N31NCHN41L6	you still need help? then pastebin sources.list thanks
+2008-05-09T14:06:00.000Z	bazhang	N1N31NCHN41L6	disable the cdrom as software source then

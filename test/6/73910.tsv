@@ -1,0 +1,6 @@
+2007-11-20T04:12:00.000Z	Munk333_		hey guys, how do I find the file properties at commandline?
+2007-11-20T04:13:00.000Z	thruxton`	Munk333_	what properties exactly?
+2007-11-20T04:13:00.000Z	Munk333_	thruxton`	the file is highlighted black and I cant open it
+2007-11-20T04:14:00.000Z	thruxton`	Munk333_	use the `file' command to find out what kind of file it is: file some_file_name
+2007-11-20T04:15:00.000Z	thruxton`	Munk333_	then you can determine what is best to open it with
+2007-11-20T04:15:00.000Z	Munk333_	thruxton`	Thanks! turns out its a broken link

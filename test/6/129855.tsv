@@ -1,0 +1,6 @@
+2007-03-08T11:34:00.000Z	mikeconcepts		apt get install nvidia.glx says can't fins it, and I need to get it installed after an update which included the kernel
+2007-03-08T11:34:00.000Z	mikeconcepts		dind*
+2007-03-08T11:34:00.000Z	mikeconcepts		Find*
+2007-03-08T11:35:00.000Z	mikeconcepts		correct, yes, nvidia-gls, will try that again
+2007-03-08T11:35:00.000Z	mikeconcepts		opps
+2007-03-08T11:35:00.000Z	vicente	mikeconcepts	go to www.ubuntuguide.org for instructions on nvidia drivers :)

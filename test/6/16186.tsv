@@ -1,0 +1,6 @@
+2012-10-11T00:03:00.000Z	vl4kn0		Hi, I have 64bit ubuntu 12.04 LTS on my thinkpad with 2gb ram and the ubuntu freezes sometimes, firefox fades to dark and when I get an error message it says I cannot diagnose the error because I have insufficient amount of RAM, is that normal behavior?
+2012-10-11T00:03:00.000Z	ikonia	vl4kn0	not "normal"
+2012-10-11T00:04:00.000Z	ikonia		3
+2012-10-11T00:04:00.000Z	ikonia		oops
+2012-10-11T00:04:00.000Z	vl4kn0	ikonia	is there anything I can do about it?
+2012-10-11T00:05:00.000Z	ikonia	vl4kn0	depends why it's doing it, what point do you get the error "you don't have enough ram to debug it"

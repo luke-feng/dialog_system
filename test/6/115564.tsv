@@ -1,0 +1,6 @@
+2006-06-19T07:49:00.000Z	Sjoerd-		hello, does anyone know a page that explains managing users via command line - or does anyone know the command for deleting one?
+2006-06-19T07:50:00.000Z	HedgeMage	Sjoerd-	just delete their home directory and the lines with their name from /etc/passwd and /etc/shadow, then remove just their name from any lines in /etc/group
+2006-06-19T07:50:00.000Z	Sjoerd-	HedgeMage	Is that the only way? The way it should be done?
+2006-06-19T07:51:00.000Z	HedgeMage	Sjoerd-	that's *a* correct way.  There may be others.  I've been on linux too long I tend to do things by hand out of habit
+2006-06-19T07:52:00.000Z	Sjoerd-	HedgeMage	Ok thank you :)
+2006-06-19T07:53:00.000Z	HedgeMage	Sjoerd-	oh, and if they had sudo rights you should remove them from your sudoers file as well, in case you someday create a user with the same name

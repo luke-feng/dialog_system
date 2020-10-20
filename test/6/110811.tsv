@@ -1,0 +1,6 @@
+2007-03-30T16:20:00.000Z	micahcowan		Anybody: is there a more "canonical" way in Ubuntu to control services on the command-line, than "/etc/init.d/service start", etc? I'm referring to things such as Mandrake's "serivce" command...
+2007-03-30T16:22:00.000Z	cafuego_	micahcowan	`update-rc.d <service> <command>'
+2007-03-30T16:24:00.000Z	cafuego_	micahcowan	Maybe, dunno. I'm on feisty no with upstart, and it's here still.
+2007-03-30T12:57:00.000Z	cafuego_	micahcowan	are *you* chinese? ;-)
+2007-03-30T12:57:00.000Z	micahcowan	cafuego_	hey, watch it! :)
+2007-04-05T13:40:00.000Z	cafuego_	micahcowan	No, the partitions start at 1.

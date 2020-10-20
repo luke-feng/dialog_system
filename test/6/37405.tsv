@@ -1,0 +1,6 @@
+2009-06-12T20:05:00.000Z	amy__		hey guys
+2009-06-12T20:05:00.000Z	amy__		can anyone help me please
+2009-06-12T20:05:00.000Z	amy__		Theres a tracker error
+2009-06-12T20:05:00.000Z	amy__		I can't get rid of the tracker error
+2009-06-12T20:05:00.000Z	Nehyx	amy__	sudo apt-get install tracker-utils
+2009-06-12T20:05:00.000Z	Nehyx	amy__	tracker-processes -r

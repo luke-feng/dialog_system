@@ -1,0 +1,6 @@
+2005-06-22T06:10:00.000Z	bionic	misaka	my bad, works like a charm, thanks.
+2005-06-22T06:41:00.000Z	bionic	misaka	mplayer -vo xv file.avi
+2005-06-22T06:43:00.000Z	bionic	misaka	actually it complains about xv, It seems there is no Xvideo support for your video card available. No support for Ati Radeon 9800?
+2005-06-22T06:45:00.000Z	bionic	misaka	the graphic card works fine, im playing q3 24/7 :p
+2005-06-22T06:48:00.000Z	bionic	misaka	works fine in vlc tho, maybe its not supported by mplayer? Would like to get that to work too.
+2005-06-22T06:50:00.000Z	bionic	misaka	tried that, the file starts, but its very small, and it doesnt change on fullscreen

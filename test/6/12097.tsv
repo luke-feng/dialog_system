@@ -1,0 +1,6 @@
+2011-03-07T22:40:00.000Z	gaurav_help		is there any way to read code inside exe files
+2011-03-07T22:41:00.000Z	oCean	gaurav_help	we don't have exe files in Linux
+2011-04-18T23:16:00.000Z	oCean	gaurav_help	java -version
+2011-04-18T23:18:00.000Z	oCean	gaurav_help	it's in the repositories
+2011-04-18T23:19:00.000Z	gaurav_help	oCean	i am new user can u explain me how i do
+2011-04-18T23:19:00.000Z	oCean	gaurav_help	in software center or 'sudo apt-get install tomcat6'

@@ -1,0 +1,6 @@
+2007-06-22T13:35:00.000Z	gsteixei		hi puff, thats it:
+2007-06-22T13:36:00.000Z	gsteixei		My ubuntu workstations are doing something weird, when someone sends more than one job, just the first one gets in the server, the other ones, keeps waiting util the fist is printed.
+2007-06-22T13:36:00.000Z	gsteixei		 i believe that is something with that distribution, the other ones sends every thing to the server.
+2007-06-22T13:37:00.000Z	Gnea	gsteixei	do they all get printed?
+2007-06-22T13:37:00.000Z	Gnea	gsteixei	could be a low ink cartridge?
+2007-06-22T13:40:00.000Z	Gnea	gsteixei	i still don't see the problem - it just sounds like the ubuntu systems are throttling themselves

@@ -1,0 +1,6 @@
+2008-12-06T10:19:00.000Z	HorizonXP		hey, i think upgrading from Hardy to Intrepid server changed how BIND9 reads its config files. Anyway, i was wondering if anyone had a link to an up to date tutorial for how to set up BIND9 for a home network
+2008-12-06T10:19:00.000Z	MrMustard	HorizonXP	just use /etc/host
+2008-12-06T10:20:00.000Z	MrMustard	HorizonXP	I mean /etc/hosts
+2008-12-06T10:20:00.000Z	HorizonXP	MrMustard	My ISP's DNS isn't that great, which is why I use BIND9 to grab DNS entries from the root servers directly
+2008-12-06T10:21:00.000Z	MrMustard	HorizonXP	oh, i guess you couldn't use /etc/hosts for that - maybe it's time to find a new ISP?
+2008-12-06T10:21:00.000Z	HorizonXP	MrMustard	lol, ISPs great otherwise. and i'm in Canada, not much choice in ISPs

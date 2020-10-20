@@ -1,0 +1,6 @@
+2011-04-24T22:43:00.000Z	Ivan96485		Does anyone know how to get folding@home working on ubuntu 10.10?
+2011-04-24T22:44:00.000Z	tsimpson	Ivan96485	install bonic and boinc-app-seti
+2011-04-24T22:44:00.000Z	Ivan96485	tsimpson	Why seti?
+2011-04-24T22:45:00.000Z	tsimpson	Ivan96485	sorry, not that package, just bonic and use the GUI to add the folding app
+2011-04-24T22:58:00.000Z	Ivan96485	tsimpson	Folding@home is not listed on the BOINC manager.
+2011-04-24T22:58:00.000Z	tsimpson	Ivan96485	it should show the instructions on the folding@home web page

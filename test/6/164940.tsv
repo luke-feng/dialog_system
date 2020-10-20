@@ -1,0 +1,6 @@
+2011-03-13T00:37:00.000Z	Dext-roid		Jpcambell300: so I should use a dvd? Will my files be preserved if I don't format?
+2011-03-13T00:38:00.000Z	Dext-roid		Can't I get rid of my desktop environment via apt and install it again?
+2011-03-13T00:38:00.000Z	Dr_Willis	Dext-roid	 you can remove and reinstall stuff.. but what are you thinking you will gain?
+2011-03-13T00:39:00.000Z	Dr_Willis	Dext-roid	 the system package manager does NOT NOT NOT touch the users config files.
+2011-03-13T00:40:00.000Z	Dr_Willis	Dext-roid	 backup your home dir, and other setting files to an online service perhaps.
+2011-03-13T00:46:00.000Z	Dr_Willis	Dext-roid	 via proper use of the 'cp' command or scp to copy it somewhere..  i dont know where you are putting things.

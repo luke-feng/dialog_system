@@ -1,0 +1,6 @@
+2010-10-10T00:14:00.000Z	ArtArfon	mattbd	I have built a few dists based from source and made my own kernel mounting script and initrd. Its much work and itll take alot of time but its clearly fun and rewarding.
+2010-10-10T00:15:00.000Z	ArtArfon	mattbd	Thinking about it ?
+2010-10-10T00:17:00.000Z	mattbd	ArtArfon	Did it earlier this year, but should really have used a desktop, not a laptop! Still it taught me a lot and I'd like to try it again sometime
+2010-10-10T00:18:00.000Z	ArtArfon	mattbd	I build my dists on a dual core. Takes time but i have mine automated.
+2010-10-10T00:18:00.000Z	ArtArfon	mattbd	I usually just let it compile over nights in 2-3 phases
+2010-10-10T00:21:00.000Z	ArtArfon	mattbd	Im going to update all software in my repo and build a new dist this winter. Would be cool to make an official release some day. I have been making it for about 8 years now :)

@@ -1,0 +1,6 @@
+2006-02-28T15:51:00.000Z	Syns		are there any sites that talk about partitioning? how much space should i leave for /root /opt etc
+2006-02-28T15:52:00.000Z	mustard5	Syns	are you using expert install?
+2006-02-28T15:53:00.000Z	mustard5	Syns	it has some option that automatically sets up a set of partitions and picks good sizes for them
+2006-02-28T15:53:00.000Z	mustard5	Syns	you know you have enable superuser privileges for the first user account manually on expert install?
+2006-02-28T15:56:00.000Z	mustard5	Syns	how do you mean ?  How does it effect the XP partition?
+2006-02-28T15:58:00.000Z	mustard5	Syns	we might be thinking of a different option anyway...I think this option works after you choose which partition to use to install

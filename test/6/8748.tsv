@@ -1,0 +1,6 @@
+2011-06-22T16:17:00.000Z	`Lynx		i've installed ubuntu from a minimal cd with openbox and xorg only, how do i check if i need to install a driver (with the ubuntu driver checker app) or if there's updates (ubuntu update app)?
+2011-06-22T16:18:00.000Z	vu1kan	`Lynx	<sudo apt-get update> for updates, idk about the drivers
+2011-06-22T16:18:00.000Z	vu1kan		if there are updates, <sudo apt-get upgrade>
+2011-06-22T16:20:00.000Z	`Lynx	vu1kan	basically i can do "apt-get update;apt-get upgrade" as root and itd download everything if there's any automaticaly or would the upgrade gui popup like in gnome?
+2011-06-22T16:22:00.000Z	vu1kan	`Lynx	if you <sudo apt-get update && sudo apt-get upgrade> it'll check the repos you have loaded for new packages and prompt you for a y/n to install them
+2011-06-22T16:22:00.000Z	`Lynx	vu1kan	kk

@@ -1,0 +1,6 @@
+2009-09-28T19:26:00.000Z	giskard		dude what component (pam?) show stats of the computer after login (shell)?
+2009-09-28T19:28:00.000Z	giskard		before last login
+2009-09-28T19:29:00.000Z	Pici	giskard	see the manpage for motd.tail for how that message is created.
+2009-09-28T19:30:00.000Z	giskard	Pici	uhm nothing point me to stats, i guess there is a pam lib like pam_lastlog.
+2009-09-28T19:31:00.000Z	giskard	Pici	something wrote in motd file before  calling pam_lastlog.
+2009-09-28T19:32:00.000Z	Pici	giskard	I seem to have modified that file on my install here because I didnt want to see that information, so I cant check to see what it was doing before. :/

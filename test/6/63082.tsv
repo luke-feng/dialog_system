@@ -1,0 +1,6 @@
+2008-03-09T21:20:00.000Z	FJSS		I was running ubuntu and I installed the kubuntu desktop package, now I want to go back to the ubuntu desktop, how do I uninstall all of the packages that kubuntu desktop installed?
+2008-03-09T21:20:00.000Z	soundray	FJSS	just select gnome at the gdm login screen. No need to remove packages
+2008-03-09T21:24:00.000Z	FJSS	soundray	I did that but now I stall have all of the kubuntu programs that I don't need like ktorrent and konqueror and kontact etc. I just want to remove all those. do I have to remove them all separately?
+2008-03-09T21:24:00.000Z	soundray	FJSS	are you running out of space?
+2008-03-09T21:25:00.000Z	FJSS	soundray	no I just don't want multiple programs that do the same thing
+2008-03-09T21:29:00.000Z	soundray	FJSS	go with brobostigon's advice then

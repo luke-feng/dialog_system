@@ -1,0 +1,6 @@
+2006-06-07T08:31:00.000Z	pema		hey, can anyone help me get my laptop to the right resolution, It worked with 5.10 but this new version has streched 1024px instead of its true screen wxga size
+2006-06-07T08:33:00.000Z	pema		there is no option to make the screen resolution higher than 1024px x 768
+2006-06-07T08:33:00.000Z	pema		is this a fault with xorg?
+2006-06-07T08:34:00.000Z	Frog_Racer	pema	upen up the terminal the cd to /etc/X11
+2006-06-07T08:34:00.000Z	Frog_Racer	pema	the do sudo vim xorg.conf and add the resolution by hand
+2006-06-07T08:35:00.000Z	Frog_Racer	pema	or just go into the terminal and do sudo dpkg reconfigure xorg

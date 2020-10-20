@@ -1,0 +1,6 @@
+2011-04-22T07:01:00.000Z	Osmodivs		How do I acces Wine C: disk? I want to run a .exe file but i do not know how to get there   osmodivs@Djiin:~$ cd /home/osmodivs/.wine/dosdevices/c:/Archivos de programa/Adobe/Adobe Photoshop Lightroom 3.3
+2011-04-22T07:01:00.000Z	Osmodivs		bash: cd: /home/osmodivs/.wine/dosdevices/c:/Archivos: No such file or directory
+2011-04-22T07:02:00.000Z	kkerwin	Osmodivs	Have you tried browsing ~/.wine ??
+2011-04-22T07:03:00.000Z	kkerwin	Osmodivs	It should be ~/.wine/drive_c I think.
+2011-04-22T07:06:00.000Z	Osmodivs	kkerwin	 Yeah, it worked, I had to cd .wine
+2011-04-22T07:08:00.000Z	kkerwin	Osmodivs	Good. Glad to help.

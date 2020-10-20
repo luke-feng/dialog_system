@@ -1,0 +1,6 @@
+2009-11-10T14:43:00.000Z	imagitron2		My Dell Mini 10 won't resume from sleep. Running Jaunty. Any ideas?
+2009-11-10T14:44:00.000Z	knoppies	imagitron2	I assume you have a swap partition.
+2009-11-10T14:44:00.000Z	imagitron2	knoppies	2GB (1GB of RAM)
+2009-11-10T14:45:00.000Z	knoppies	imagitron2	Ive had problems with PCs and sleeping often (in windows though) so I refrain from sleeping the PC. But Im not entirely sure what causes it. You can have a look in the bios. I know there are settings there that you can play with, but Im not sure they are the cause you are looking for.
+2009-11-10T14:46:00.000Z	imagitron2	knoppies	yeah. this is my netbook. I unplug it in the morning and plug it back in at night. sleep is crucial :)
+2009-11-10T14:47:00.000Z	knoppies	imagitron2	you can see if there is anything interesting in the bios settings (you might want to remember what they were before you changed them). Sorry I can't help you any further.

@@ -1,0 +1,6 @@
+2006-04-09T06:41:00.000Z	CNAP		does anybody know how to find out where the packages were placed once a successful apt-get was completed?
+2006-04-09T06:41:00.000Z	bimberi	CNAP	/bar/cache/apt/archives
+2006-04-09T06:41:00.000Z	bimberi	CNAP	/var/cache/apt/archives   (sorry)
+2006-04-09T06:42:00.000Z	bimberi	CNAP	or if you mean where was stuff installed? 'dpkg -L <package>'
+2006-04-16T10:44:00.000Z	bimberi	CNAP	use 'sudo netatat -plunt' to find the process that has it open
+2006-04-16T10:48:00.000Z	bimberi	CNAP	hm, i'm not sure then - netstat should show you the open ports

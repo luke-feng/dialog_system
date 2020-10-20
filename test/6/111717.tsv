@@ -1,0 +1,6 @@
+2007-02-04T10:58:00.000Z	EnsignRedshirt		What would I use to create a .iso image of a CD?
+2007-02-04T10:58:00.000Z	blameless	EnsignRedshirt	dd ?
+2007-02-04T10:59:00.000Z	EnsignRedshirt	blameless	I was wondering if dd might work.
+2007-02-04T11:00:00.000Z	blameless	EnsignRedshirt	dd should work provided the cd is unmounted
+2007-02-04T11:00:00.000Z	EnsignRedshirt	blameless	Is it as simple as: dd if=/dev/hdd of=cd.iso  ?
+2007-02-04T11:00:00.000Z	blameless	EnsignRedshirt	i believe so.  wikipedia suggests that as well

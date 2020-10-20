@@ -1,0 +1,6 @@
+2008-11-03T15:47:00.000Z	dulak	bluee	the only difference from server to desktop is the kernel installed, all the other packages are identical, just server puts a lot less stuff on the system by default
+2008-11-03T15:48:00.000Z	bluee	dulak	what is ur advice? do u think kernel will make a big trouble?
+2008-11-03T15:49:00.000Z	dulak	bluee	I doubt it, I run gui on a couple of my server installs, the kernel doesn't have much effect on the gui
+2008-11-03T15:50:00.000Z	bluee	dulak	if i wanna get server edition i must be professional with the commands?
+2008-11-03T15:51:00.000Z	dulak	bluee	if the kernel is a problem you can just install the regular version and reboot using it instead of the server kernel
+2008-11-03T15:52:00.000Z	dulak	bluee	but I have several servers, running the server kernel, with the gui working fine

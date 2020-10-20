@@ -1,0 +1,6 @@
+2005-02-07T17:29:00.000Z	swim		does alien work for ubuntu?
+2005-02-07T17:29:00.000Z	swim		if I compile something in ubuntu amd64 will that app then run at 64bit?
+2005-02-07T17:30:00.000Z	dud	swim	yes, with a 64bit compiler
+2005-02-07T17:30:00.000Z	swim	dud	so I dont simply ./configure, make, make install?
+2005-02-07T17:30:00.000Z	dud	swim	most likely yes
+2005-02-07T17:31:00.000Z	dud	swim	there are 64bit binaries as well for ubuntu amd64

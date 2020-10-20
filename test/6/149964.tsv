@@ -1,0 +1,6 @@
+2007-09-01T09:27:00.000Z	WinXpNewb		How do I copy the error?
+2007-09-01T09:27:00.000Z	WinXpNewb		and what syntax to put?
+2007-09-01T09:28:00.000Z	WinXpNewb		I still don't know how to copy the error message
+2007-09-01T09:29:00.000Z	WinXpNewb		Don't think it's in the terminal. It's in a regular error message box like the one usually seen when Windows gets an error. I'm using Linux Mint btw. Not sure if that's somehow connected
+2007-09-01T09:30:00.000Z	WinXpNewb		I can only highlight the top portion which basically says: Cannot Mount volume. Can't highlight the details
+2007-09-01T09:30:00.000Z	nickrud	WinXpNewb	you can usually hightlight the text in a dialog box, then press the middle button in gedit to get a paste

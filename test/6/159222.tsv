@@ -1,0 +1,6 @@
+2012-05-19T08:42:00.000Z	Conradzz		Whats up?  I'm back!
+2012-05-19T08:42:00.000Z	Conradzz		So doesn't anyone know how to revert updates when you can't get past the login screen?
+2012-05-19T08:42:00.000Z	dr_willis	Conradzz	 what oes the login screen do exacctly when you login?
+2012-05-19T08:45:00.000Z	dr_willis	Conradzz	 so lightdm loads and you can enter name/pass and login but it freexes  as your users desktop is staring? or does lightdm also freeze?
+2012-05-19T08:48:00.000Z	dr_willis	Conradzz	 id get into text mode. make sure ssh is installed, so you can ssh in from a differnt box. and try 'startx' and  look for errors
+2012-05-19T08:51:00.000Z	dr_willis	Conradzz	 this is why i normalluy try 'text' mode first. no need to mount stuff.. its a normal bootup. just no X starting

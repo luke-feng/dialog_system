@@ -1,0 +1,6 @@
+2009-01-16T12:03:00.000Z	cweigle		Has anyone solved the Intrepid flash bug yet
+2009-01-16T12:04:00.000Z	cweigle		Compared to windows working 71%
+2009-01-16T12:05:00.000Z	cweigle		you don't use exe in linux
+2009-01-16T12:05:00.000Z	cweigle		you use .tar.gz, .sh, .so etc
+2009-01-16T12:06:00.000Z	cweigle		I just use alarm in Exaile jksroll
+2009-01-16T12:06:00.000Z	Solver	cweigle	true but the system uses the magic number to figure out filetype.  good point though - they are used in some cases

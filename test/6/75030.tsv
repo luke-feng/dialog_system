@@ -1,0 +1,6 @@
+2007-10-26T12:28:00.000Z	oxeimon		how can I stop my monitor from going black every 10 minutes?
+2007-10-26T12:28:00.000Z	Nallep	oxeimon	change your screensaver/power saving settings
+2007-10-26T12:33:00.000Z	Nallep	oxeimon	do you have special power settings in your bios?
+2007-10-26T12:34:00.000Z	Nallep	oxeimon	check to see if your bois or monitor don't have thier own seperate power management settings that are over riding the desktop settings
+2007-10-26T12:35:00.000Z	oxeimon	Nallep	how do I check that?
+2007-10-26T12:35:00.000Z	Nallep	oxeimon	you will need to reboot and enter into your bios to see if there is special power conservation enabled in it

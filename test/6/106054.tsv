@@ -1,0 +1,6 @@
+2012-10-15T08:05:00.000Z	Guest31636		has anyone used macchanger before? is eth1 always the default internet device?
+2012-10-15T08:05:00.000Z	Guest31636		I was Guest31636 but changed my name to this
+2012-10-15T08:06:00.000Z	wols	Guest31636	it's not.and you can change MAC simply with ifconfig
+2012-10-15T08:15:00.000Z	wols	Guest31636	tried the radeon driver?
+2012-10-15T08:16:00.000Z	wols	Guest31636	also you might need a newer fglrx https://help.ubuntu.com/community/BinaryDriverHowto/ATI#Manually_installing_Catalyst_12.6
+2012-10-15T08:18:00.000Z	wols	Guest31636	this is a support channel, not an advocacy channel. please respect that

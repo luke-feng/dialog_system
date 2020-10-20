@@ -1,0 +1,6 @@
+2006-12-12T12:03:00.000Z	dfwlinuxguy		winball...use synaptic to search for fglrx and install that
+2006-12-12T12:03:00.000Z	dfwlinuxguy		then do dpkg-reconfigure xserver-xorg
+2006-12-12T12:04:00.000Z	dfwlinuxguy		choose fglrx instead of ati
+2006-12-12T12:04:00.000Z	dfwlinuxguy		I just installed xgl and beryl...pretty cool effects
+2006-12-12T12:05:00.000Z	dfwlinuxguy		apt-cache search python
+2006-12-12T12:06:00.000Z	Samus_Aran	dfwlinuxguy	do you happen to know if Beryl/XGL require Gnome to work, or if they can function in other standalone window managers like ICEWM ?

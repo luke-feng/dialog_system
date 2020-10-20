@@ -1,0 +1,6 @@
+2007-11-28T09:21:00.000Z	nomasteryoda	JPSman	see what this command returns... aplay -l
+2007-11-28T09:22:00.000Z	JPSman	nomasteryoda	- aplay: device_list:204: no soundcards found...
+2007-11-28T09:23:00.000Z	JPSman	nomasteryoda	- I have a Creative Labs Soundblaster X-Fi soundcard...there is no linux support for 32-bit systems
+2007-11-28T09:23:00.000Z	nomasteryoda	JPSman	ok... so the sound card modules are not loading for your hardware...
+2007-11-28T09:24:00.000Z	nomasteryoda	JPSman	hmmm i'm betting you could make something work for it... but then again, I have seen a very few cards that don't work
+2007-11-28T09:24:00.000Z	JPSman	nomasteryoda	- I just lucked out to have low to no support for THIS card :OP

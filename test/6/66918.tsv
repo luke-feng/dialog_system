@@ -1,0 +1,6 @@
+2012-08-24T18:33:00.000Z	BrettWorth		Hi all.  I've had an ongoing problem with my packages which I have been unable to resolve.  Somehow I have a version of libgcrypt that is broken but nothing I do will remove it.  Here's what happens: http://pastebin.com/4EV2tzcQ  . Any help would be appreciated.  I'm on 12.04 kubuntu.
+2012-08-24T18:35:00.000Z	BrettWorth		No.  I'll go do some googling.
+2012-08-24T18:37:00.000Z	BrettWorth		I just tried it and get the same message: "libgcrypt11:i386 1.5.0-3 cannot be configured because libgcrypt11:amd64 is in a different version (1.5.0-3ubuntu0.1)"
+2012-08-24T18:38:00.000Z	BrettWorth		K.  I'll try that now...
+2012-08-24T18:39:00.000Z	ActionParsnip	BrettWorth	if you run:  apt-cache policy libgcrypt11:i386 libgcrypt11:and64     are they both from the Ubuntu repos, or from some PPA
+2012-08-24T19:04:00.000Z	ActionParsnip	BrettWorth	yu could remove both packages, then reinstall both, but specify the version number

@@ -1,0 +1,6 @@
+2009-04-09T05:39:00.000Z	Guest41235		hey guys.......I have finally installed compiz fusion and am in need of assistance in figuring out how to make the "cube" work properly?   Anyone know the keys to make the cube work?
+2009-04-09T05:41:00.000Z	Guest41235		hey guys.......I have finally installed compiz fusion and am in need of assistance in figuring out how to make the "cube" work properly?   Anyone know the keys to make the cube work?
+2009-04-09T05:42:00.000Z	Sh3r1ff	Guest41235	install compizconfig-settings-manager and fiddle with the settings
+2009-04-09T05:43:00.000Z	Sh3r1ff	Guest41235	it will add an entry in System > Preferences where you can change all the setings for compiz
+2009-04-09T05:44:00.000Z	Sh3r1ff	Guest41235	ctrl + alt + right or left arrow
+2009-04-09T05:47:00.000Z	Sh3r1ff	Guest41235	it's when you install the proprietary driver to have 3d acceleration that compiz stops working

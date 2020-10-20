@@ -1,0 +1,6 @@
+2008-05-16T11:27:00.000Z	Myrtti		!elaborate
+2008-05-16T11:29:00.000Z	Anacranom	Myrtti	can you help White^Knight, seems c-ron helped him config for envy then left,, and my main server just went down so i cant , plz help or re-direct as best u can
+2009-06-01T10:15:00.000Z	Anacranom	Myrtti	shouldnt that be    "sudo lshw -C network"
+2009-06-01T10:16:00.000Z	Myrtti	Anacranom	works either way in my jaunty
+2009-06-01T10:17:00.000Z	Anacranom	Myrtti	the --help shows the diff...
+2009-06-01T10:18:00.000Z	Myrtti	Anacranom	output doesn't look any different...

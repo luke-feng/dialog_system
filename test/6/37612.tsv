@@ -1,0 +1,6 @@
+2009-05-07T21:09:00.000Z	sipior	Ugy	the package libx11-dev should have what you need.
+2009-05-07T21:09:00.000Z	Ugy	sipior	thanks ;)
+2009-05-07T21:16:00.000Z	Ugy	sipior	I still have a problem, after apt-get install lix11-dev I can't find the X11 include directory :(
+2009-05-07T21:17:00.000Z	sipior	Ugy	should be /usr/include/X11. dpkg -L libx11-dev will show everything that was installed.
+2009-05-07T21:18:00.000Z	Ugy	sipior	Ok i try it
+2009-05-07T21:25:00.000Z	Ugy	sipior	ok I found Xlib.h thanks

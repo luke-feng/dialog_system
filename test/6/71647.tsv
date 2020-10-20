@@ -1,0 +1,6 @@
+2008-08-19T07:26:00.000Z	steven__		How do i know what version of wine i'm using?
+2008-08-19T07:26:00.000Z	steven__		steven@steven-desktop:~$ wine -version
+2008-08-19T07:26:00.000Z	steven__		fixme:ntoskrnl:KeInitializeSpinLock 0x4577a4
+2008-08-19T07:26:00.000Z	steven__		wine: could not load L"C:\\windows\\system32\\-version.exe": Module not found
+2008-08-19T07:26:00.000Z	steven__		steven@steven-desktop:~$
+2008-08-19T07:27:00.000Z	FloodBot1	steven__	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

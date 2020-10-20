@@ -1,0 +1,6 @@
+2008-01-04T19:43:00.000Z	Borbus		I feel stupid asking this question but.. you know on windows you can configure ffdshow loads... how do you configure ffmpeg in ubuntu?
+2008-01-04T19:44:00.000Z	ikonia	Borbus	ffmpeg is a command line tool, you configure it with command line arguments
+2008-01-04T19:44:00.000Z	Borbus	ikonia	so when stuff like mplayer uses ffmpeg it is actually passing cli to ffmpeg and getting the decoded output?
+2008-01-04T19:44:00.000Z	ikonia	Borbus	no, then it's using the libraries,
+2008-01-04T19:45:00.000Z	Borbus		Oh..
+2008-01-04T19:45:00.000Z	ikonia	Borbus	but in essence yes

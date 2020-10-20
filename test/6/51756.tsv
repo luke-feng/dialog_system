@@ -1,0 +1,6 @@
+2008-09-10T16:00:00.000Z	outbackwifi		i wouldnt need to automount it always at the same mount point would i?
+2008-09-10T16:02:00.000Z	ikonia	outbackwifi	it should use the volume lable of the device as a mountpoint
+2008-09-10T16:02:00.000Z	ikonia	outbackwifi	so if you label it as backup - it should mount on "backup"
+2008-09-10T16:02:00.000Z	outbackwifi	ikonia	better way is to use the blkid (or UUID)
+2008-09-10T16:02:00.000Z	ikonia	outbackwifi	a very valid point
+2008-09-10T16:03:00.000Z	ikonia	outbackwifi	apologies, I thought you where the original poster

@@ -1,0 +1,6 @@
+2009-11-12T02:56:00.000Z	gdmsetup		i think my nick says it all... where are the menus for configuring gdmsetup? is a bug or what?
+2009-11-12T02:57:00.000Z	draconis	gdmsetup	you can try gdm-2.20 but it has a tendency of not even starting
+2009-11-12T02:57:00.000Z	gdmsetup	draconis	trism_ so we only wait until gdm is fixed?
+2009-11-12T02:58:00.000Z	draconis	gdmsetup	or switch to a different desktop manager
+2009-11-12T02:59:00.000Z	gdmsetup	draconis	i do gdmsetup but can choose themes or anything
+2009-11-12T02:59:00.000Z	draconis	gdmsetup	well, the new gdm doesn't really have themes

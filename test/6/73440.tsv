@@ -1,0 +1,6 @@
+2007-12-29T13:19:00.000Z	r3n0c		hey, anybody use vlc before? and get it to stream media to the internet... not just somebody on your network?
+2007-12-29T13:19:00.000Z	r3n0c		i wanted to try to use vlc as a poor man's apple tv
+2007-12-29T13:19:00.000Z	Creed	r3n0c	you will have to open the port which you are streaming content on on your firewall or port forward it on your router.
+2007-12-29T13:20:00.000Z	r3n0c	Creed	i mean in the actual setup, what would i do with the settings
+2007-12-29T13:21:00.000Z	r3n0c	Creed	would i just set the udp address to the public address? or do i have to setup an http?
+2007-12-29T13:21:00.000Z	Creed	r3n0c	leave the public address empty, that way it listens on all addresses and responds to all (even if youre behind a firewall/router)

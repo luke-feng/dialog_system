@@ -1,0 +1,6 @@
+2006-12-06T07:25:00.000Z	minerale		I currently have a "debian" menu and a "gnome" menu, I would like some documentation on them and also I'd like to be able to merge them, could anyone help ?
+2006-12-06T07:26:00.000Z	minerale		does anyone know why there is a separate "debian" menu ?
+2006-12-06T07:26:00.000Z	lubix	minerale	right click "applications" and click "edit menus"
+2006-12-06T07:27:00.000Z	lubix	minerale	you should be all set just uncheck Debian you got it?
+2006-12-06T07:35:00.000Z	minerale	lubix	well, I would like to understand why the debian menu exists in the first place, when I'm using fluxbox the gnome menu does not appear bu the debian menu does. Why is that, can I replace either or ?
+2006-12-06T07:37:00.000Z	lubix	minerale	its all the same

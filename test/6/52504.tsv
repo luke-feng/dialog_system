@@ -1,0 +1,6 @@
+2008-11-02T14:02:00.000Z	Tulimaq	hendrik	"sudo apt-get install wine" ?
+2008-11-02T14:05:00.000Z	Tulimaq	hendrik	hm i cant say anything about this line ... if its installed now run winecfg
+2008-11-02T14:06:00.000Z	hendrik	Tulimaq	: Building dependency tree... Done
+2008-11-02T14:07:00.000Z	Tulimaq	hendrik	can u pastebin whole output ?
+2008-11-02T14:15:00.000Z	Tulimaq	hendrik	run "aptitude search wine"
+2008-11-02T14:16:00.000Z	hendrik	Tulimaq	what this means -> v   wine

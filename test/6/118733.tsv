@@ -1,0 +1,6 @@
+2007-03-05T10:01:00.000Z	kditty		 how do i install a theme on gnome using the tar.gz file?
+2007-03-05T10:01:00.000Z	ikonia	kditty	drag it into the theme manager
+2007-03-05T10:02:00.000Z	kditty	ikonia	when i do that it says format invalid...
+2007-03-05T10:02:00.000Z	ikonia	kditty	try unzipping it
+2007-03-05T10:02:00.000Z	ikonia	kditty	see whats in it
+2007-03-05T10:07:00.000Z	ikonia	kditty	if its a valid theme theme manager will pick it up, it not - its in the wrong format

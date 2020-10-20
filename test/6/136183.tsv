@@ -1,0 +1,6 @@
+2010-02-27T10:31:00.000Z	t3rm1n4l		hi
+2010-02-27T10:32:00.000Z	t3rm1n4l		i am trying to install nfs-server on karmic
+2010-02-27T10:32:00.000Z	t3rm1n4l		but the package is broken
+2010-02-27T10:32:00.000Z	t3rm1n4l		why ?
+2010-02-27T10:32:00.000Z	ardchoille	t3rm1n4l	how is it broken?
+2010-02-27T10:33:00.000Z	ardchoille	t3rm1n4l	there is no nfs-server package in Karmic

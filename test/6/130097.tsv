@@ -1,0 +1,6 @@
+2005-11-28T07:25:00.000Z	Gkane		hi
+2005-11-28T07:27:00.000Z	Gkane		I reinstalled windowhi
+2005-11-28T07:27:00.000Z	Gkane		hi*
+2005-11-28T07:28:00.000Z	Gkane		how can i reinstall grub?
+2005-11-28T07:28:00.000Z	Gkane		im now with a live-cd online but i dont know how to reinstall grub
+2005-11-28T07:29:00.000Z	arnducky	Gkane	# apt-get remove --purge grub && apt-get install grub

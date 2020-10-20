@@ -1,0 +1,6 @@
+2009-04-08T23:45:00.000Z	Dr_Drozd		Hi Guru! could you help me please!? I am trying to install vmware-server I downloaded the distrib from vmware site unpacked it and in terminal I run sudo /home/artem/Downloads/vmware-server-distrib/vmware-install.pl .... but I get an error: Unable to copy the source file ./installer/services.sh to the destination file
+2009-04-08T23:45:00.000Z	Dr_Drozd		/etc/init.d/vmware.
+2009-04-08T23:47:00.000Z	Dr_Drozd		Guru please I need your help with the installation vmware!!!!!!!!!!!!
+2009-04-08T23:48:00.000Z	Dr_Drozd		someone Could me help?
+2009-04-08T23:49:00.000Z	Ienorand	Dr_Drozd	Does vmware supply a .bundle -file for that?
+2009-04-09T00:07:00.000Z	Ienorand	Dr_Drozd	Depends, virtualbox is free as in freedom, vmware player comboed with http://easyvmx.com/ will probably be pretty good as well...

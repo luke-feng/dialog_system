@@ -1,0 +1,6 @@
+2007-02-08T07:39:00.000Z	lmosher		Is there a way I can syn a folder on my laptop and on a USB stick? I keep a "docs" folder on each and I tend to edit them separately, but want to sync them. How do I do this?
+2007-02-08T07:40:00.000Z	LiENUS	lmosher	depends on the format of the docs
+2007-02-08T07:41:00.000Z	LiENUS	lmosher	if the docs are just text files learn to use subversion
+2007-02-08T07:42:00.000Z	lmosher	LiENUS	haha no it's not strictly docs. I'm a grad student, it's all my research data, figures, papers... etc. I just sometimes hop on another computer and edit a file. I want to make sure the most recent file is updated
+2007-02-08T07:43:00.000Z	LiENUS	lmosher	 you could try something like subversion...
+2007-02-08T07:44:00.000Z	lmosher	LiENUS	Well yes, but I want a backup

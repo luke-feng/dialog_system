@@ -1,0 +1,6 @@
+2010-01-05T09:08:00.000Z	sabgenton		I want to install stuff from the cd but apt is wanting to go online
+2010-01-05T09:09:00.000Z	faileas	sabgenton	you need to use apt cd to add the cd, then do as per normal
+2010-01-05T09:09:00.000Z	sabgenton		Faileas thanks
+2010-01-05T09:11:00.000Z	sabgenton	faileas	you mean apt-cdrom ?
+2010-01-05T09:11:00.000Z	faileas		I'm trying to set up a minimal system, built around openbox, and just what i need. I would like a gui multiplatform IM client that dosen't have a ton of prerequisites - i need about 100 mb of packages to install pidgin, and that's not really acceptable
+2010-01-05T09:11:00.000Z	faileas	sabgenton	yeah. i think i do

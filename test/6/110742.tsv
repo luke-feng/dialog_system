@@ -1,0 +1,6 @@
+2006-09-10T13:54:00.000Z	jaysef		im trying to use the ' make ' command, im getting errors about setting my kernel path...please can anyine help
+2006-09-10T13:55:00.000Z	erUSUL	jaysef	'sudo apt-get install linux-headers-$(uname -r)'
+2006-09-10T13:55:00.000Z	jaysef	erUSUL	paste that into command line ?
+2006-09-10T13:56:00.000Z	erUSUL	jaysef	yes
+2006-09-10T13:56:00.000Z	jaysef	erUSUL	thanks
+2006-09-10T13:57:00.000Z	jaysef	erUSUL	its working,

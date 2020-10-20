@@ -1,0 +1,6 @@
+2007-04-09T10:26:00.000Z	kaos19		Have quick question..   The EVDO KPC650 card keeps freezing.  It seems like it is usbserial issue.  Does anyone have idea to resolve this issue?
+2007-04-09T10:26:00.000Z	xtknight	kaos19	pastebin dmesg
+2007-04-09T10:26:00.000Z	xtknight	kaos19	when it freezes does it take down the whole system?
+2007-04-09T10:28:00.000Z	kaos19	xtknight	nothing in dmesg when KPC650 freezes.
+2007-04-09T10:28:00.000Z	xtknight	kaos19	understood.  not sure howto debug it.  what is an evdo card?
+2007-04-09T10:29:00.000Z	kaos19	xtknight	Verizon Wireless  card that acts like USBSerial device to connect to internet

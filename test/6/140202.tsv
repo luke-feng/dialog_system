@@ -1,0 +1,6 @@
+2005-12-07T17:47:00.000Z	silent_scream		i mean a simple command from console like "volume_up" for example, that raise the volume
+2005-12-07T06:37:00.000Z	silent_scream		how can i copy a file from linux to windows?
+2005-12-07T06:37:00.000Z	snorks	silent_scream	mount either partition in either OS
+2005-12-07T06:38:00.000Z	snorks	silent_scream	ifs something lets you mount linux partitions. But you can't write to it
+2005-12-07T06:39:00.000Z	snorks	silent_scream	boot into windows, mount your linux partition with following app: <will find it for you in a sec> then copy files
+2005-12-07T06:41:00.000Z	snorks	silent_scream	http://uranus.it.swin.edu.au/~jn/linux/ext2ifs.htm

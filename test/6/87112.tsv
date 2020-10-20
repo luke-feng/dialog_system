@@ -1,0 +1,6 @@
+2007-05-07T12:58:00.000Z	ubuntubeginz		hi...guys.. when i install Ubuntu, i didnt created partition for swap space...how can i create it now...or do i haf install Ubuntu all over again..
+2007-05-07T12:58:00.000Z	crdlb	ubuntubeginz	you can make a swap file on your hard drive, see ^^
+2007-05-07T13:13:00.000Z	crdlb	ubuntubeginz	you do not have to repartition to make swap
+2007-05-07T13:14:00.000Z	crdlb	ubuntubeginz	but you don't need to
+2007-05-07T13:16:00.000Z	crdlb	ubuntubeginz	well backup all you data before doing it
+2007-05-07T13:16:00.000Z	ubuntubeginz	crdlb	:) ...newly installed system..not much data or any data to backup

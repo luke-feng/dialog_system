@@ -1,0 +1,6 @@
+2011-05-23T13:11:00.000Z	nomed		hi all
+2011-05-23T13:11:00.000Z	nomed		any idea why all my log files link to /dev/null ?
+2011-05-23T13:11:00.000Z	nomed		how can i fix this ?
+2011-05-23T13:12:00.000Z	bullgard4	nomed	"link"? Pleas look up the link using 'ls -al' or mc, for example.
+2011-05-23T13:13:00.000Z	nomed	bullgard4	yes they are all links to dev/null
+2011-05-23T13:15:00.000Z	bullgard4	nomed	I do no other solution than an Ubuntu reinstall. But I am no expert in this field.

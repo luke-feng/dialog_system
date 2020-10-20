@@ -1,0 +1,6 @@
+2008-10-25T05:07:00.000Z	joshual		hey folks can anyone tell me how to login to gnome as root? I want to use gparted to resize /home partition... and I can't if I'm logged into gnome as user, because I would be in the /home partition
+2008-10-25T05:08:00.000Z	joshual		and I cant resize the /home partition if I'm, in it
+2008-10-25T05:09:00.000Z	joshual		thats a good idea
+2008-10-25T05:09:00.000Z	joshual		sheesh
+2008-10-25T05:09:00.000Z	joshual		whatever
+2008-10-25T05:10:00.000Z	sistpoty	joshual	you sure can resize the partiation (as in partition table) but not the file system on top of it

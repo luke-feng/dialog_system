@@ -1,0 +1,6 @@
+2006-03-04T14:50:00.000Z	Ruy		so, nobody can help me please? i'm tryin' to use d4x
+2006-03-04T14:52:00.000Z	soundray	Ruy	I don't know d4x, but maybe it'll help if you specify your problem more precisely.
+2006-03-04T14:53:00.000Z	Ruy	soundray	thanks it's a download manager i get it from de synaptic, so it worked fine about two days, whit a nice interface, but suddendly it collapsed and nothing happens now
+2006-03-04T14:53:00.000Z	soundray	Ruy	did you do a lot of configuration?
+2006-03-04T14:56:00.000Z	soundray	Ruy	many programs store per-user configuration items in a directory or file called "~/.programname". So try "rm -rf ~/.d4x" to start over with the configuration. Danger: don't mistype.
+2006-03-04T14:56:00.000Z	Ruy	soundray	thanks i'll try

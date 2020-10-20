@@ -1,0 +1,6 @@
+2008-07-26T03:28:00.000Z	hhp2k		Hey guys, how do you edit the list of things that execute when Ubuntu Logs in?
+2008-07-26T03:28:00.000Z	kenkku	hhp2k	system -> preferences -> session
+2008-07-26T03:29:00.000Z	hhp2k	kenkku	Thanks
+2008-07-26T03:30:00.000Z	kenkku	hhp2k	if you want to change service startup, it's in system->administration->services
+2008-07-26T03:30:00.000Z	hhp2k	kenkku	Thank you :)
+2008-07-26T03:31:00.000Z	kenkku	hhp2k	services are system-wide and session controls what happens when YOU log in

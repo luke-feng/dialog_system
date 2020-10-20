@@ -1,0 +1,6 @@
+2010-04-19T23:22:00.000Z	Luther		About how much drive space does the initial install of Ubuntu require?
+2010-04-19T23:23:00.000Z	Luther		Thanks
+2010-04-19T23:23:00.000Z	Luther		How should I install Ubuntu so that GRUB is not installed?
+2010-04-19T23:24:00.000Z	Luther		I want to install Ubuntu on an external harddrive, but I don't want the drive to be plugged in to use GRUB to boot the computer I installed from.
+2010-04-19T23:25:00.000Z	Luther		I want to be able to plug the external drive into any computer, then boot from that drive into Ubuntu
+2010-04-19T23:25:00.000Z	geekphreak	Luther	 to boot you need a loader :)

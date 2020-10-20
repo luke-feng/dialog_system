@@ -1,0 +1,6 @@
+2008-04-03T23:48:00.000Z	stefan__		how do i check if a hdd is phsically error-free? (not the FS)
+2008-04-03T23:50:00.000Z	stefan__		rofl.. just trying to install ubuntu on a older computer.. seems the nvidia -drivers DONT work with a GF2 MX.. creepy.
+2008-04-03T23:51:00.000Z	kindofabuzz	stefan__	yes they do, i have xubuntu running on a mx400
+2008-04-03T23:52:00.000Z	stefan__	kindofabuzz	hm the the lower half of the screen is pink.. excatly the lower half :) the rest is zigzag, but i can move the mousecursor perfetly in the upper half :P
+2008-04-03T23:52:00.000Z	kindofabuzz	stefan__	you probably have the wrong drivers loaded.  use legacy
+2008-04-03T23:53:00.000Z	stefan__	kindofabuzz	i just inserted the install-cd :)

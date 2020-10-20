@@ -1,0 +1,6 @@
+2005-10-15T05:17:00.000Z	fangorious		what's the printer admin tool?
+2005-10-15T05:18:00.000Z	Madpilot	fangorious	System menu - Administration - Printing
+2005-10-15T05:18:00.000Z	fangorious	Madpilot	can you check what command that calls? (i don't have local access at the moment, just ssh)
+2005-10-15T05:19:00.000Z	Madpilot	fangorious	I'm not sure, I think it's gnome-printer-admin or something like that
+2006-03-05T11:58:00.000Z	Madpilot	fangorious	that doesn't look like the right post - no error & nothing about Nautilus
+2006-03-05T12:00:00.000Z	fangorious	Madpilot	any idea?

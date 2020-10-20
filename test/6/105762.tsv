@@ -1,0 +1,6 @@
+2006-10-23T06:57:00.000Z	lucaferr		how do I install sun's java in ubuntu?
+2006-10-23T06:59:00.000Z	lucaferr		ok.. well I tried sun-java5-jdk but that didn't work
+2006-10-23T07:01:00.000Z	lucaferr		doesn't work
+2006-10-23T07:01:00.000Z	jdt	lucaferr	You may need to do a 'sudo apt-get update' first, after you have updated your /etc/apt/sources.list with the multiverse repositories
+2006-10-23T07:02:00.000Z	lucaferr		tried apt-get install sun-java and apt-get install sun-java5-jdk
+2006-10-23T07:02:00.000Z	lucaferr	jdt	I have multiverse and I did apt-get update:

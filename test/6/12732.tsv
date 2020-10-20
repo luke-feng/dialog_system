@@ -1,0 +1,6 @@
+2012-01-16T18:12:00.000Z	andreavda		so guys, can you please check if I've formatted my hd the proper way ? I've got a 500 gb internal hard drive, I have a 13 GB ext4 root primary partition,            a 2 GB linux-swap primary partition (the ram of my pc is just 1 GB), a 1 GB ext4 logical partition and a 484 GB NTFS partition (used only for storage, for accessing files I need everyday I'll use the 1 GB logical partition)
+2012-01-16T18:14:00.000Z	MonkeyDust	andreavda	 type sudo fdisk -l|pastebibinit , you'll get an url, paste that here
+2012-01-16T18:15:00.000Z	MonkeyDust	andreavda	 in a terminal
+2012-01-16T18:16:00.000Z	MonkeyDust	andreavda	 so we can see how you partitioned
+2012-01-16T18:18:00.000Z	MonkeyDust	andreavda	 ctrl-alt t
+2012-01-16T18:27:00.000Z	MonkeyDust	andreavda	 yes

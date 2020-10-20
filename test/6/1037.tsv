@@ -1,0 +1,6 @@
+2012-08-22T14:29:00.000Z	nfk		does ubuntu desktop live cd still not support lvm2?
+2012-08-22T14:30:00.000Z	bekks	nfk	correct.
+2012-08-22T14:36:00.000Z	bekks	nfk	For installing using LVM2, you can just use the alternate cd instead of the desktop live.
+2012-08-22T14:36:00.000Z	nfk	bekks	good, doing that
+2012-08-22T14:39:00.000Z	bekks	nfk	No.
+2012-08-22T15:00:00.000Z	nfk	bekks	he's clearly running netcat shell

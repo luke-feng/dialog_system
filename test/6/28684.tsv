@@ -1,0 +1,6 @@
+2010-05-03T20:53:00.000Z	macman_		im trying to listen to a certin port .. i want to be able to see when it gets connected to .. is this possible ?
+2010-05-03T20:55:00.000Z	kjele	macman_	check out netstat and lsof -i
+2010-05-03T20:55:00.000Z	macman_	kjele	lsoft just shows what is open .. i want to see that it is listening and when it gets connected to
+2010-05-03T20:57:00.000Z	kjele	macman_	Did you check netstat?
+2010-05-03T20:57:00.000Z	macman_	kjele	yea nestat -an | LISTEN but that just shows what is listening .. how do i know when it is connected to
+2010-05-03T20:58:00.000Z	kjele	macman_	Then it says established

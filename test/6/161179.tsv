@@ -1,0 +1,6 @@
+2006-06-11T15:33:00.000Z	JeevesBond		Evening all. I've made a bit of a c*ck up ;)
+2006-06-11T15:34:00.000Z	JeevesBond		I permanently deleted some stuff (without fully realising what would happen), how might I get these packages back into the list so I can download them again?
+2006-06-11T15:36:00.000Z	JeevesBond		Rendo: it depends on how you have Apache setup. Normally MySQL/PHP/Apache will work out of the box when you do an apt-get or whatever
+2006-06-11T15:37:00.000Z	JeevesBond		Oh hang on, you lot aren't lazy like me... I'm still using Synaptic for everything so was logged in as root to run that
+2006-06-11T15:39:00.000Z	JeevesBond		Well it asks me for my root password every time I start the thing?!!
+2006-06-11T15:39:00.000Z	thoreauputic	JeevesBond	no it asks for your user password

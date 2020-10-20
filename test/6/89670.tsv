@@ -1,0 +1,6 @@
+2009-09-28T07:55:00.000Z	solifugus		I downloaded and installed the current version of ubuntu--what was that?  Hardy Heron?
+2009-09-28T07:55:00.000Z	MenZa	solifugus	Jaunty Jackalope. 9.04.
+2009-09-28T07:55:00.000Z	solifugus	MenZa	ok.. thank you... now I can know what version of deb packages I need to download for...
+2009-09-28T07:56:00.000Z	MenZa	solifugus	alternatively try lsb_release -a in a terminal - that'll give you your current version.
+2009-09-28T07:57:00.000Z	solifugus	MenZa	yep.. that command says it's 9.04, Jaunty
+2009-09-28T08:00:00.000Z	solifugus	MenZa	my eye sight is going, is there a VUI for ubuntu?

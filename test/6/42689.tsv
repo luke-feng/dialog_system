@@ -1,0 +1,6 @@
+2009-07-23T20:36:00.000Z	Edwardo		I am using virtual box with windows 2000 so I can use an external tv tuner, but it isn't seeing the usb device.  I'm new to ubuntu and wonder if I am needing to 'mount' the device somehow in linux first?
+2009-07-23T20:38:00.000Z	mzz	Edwardo	which version of virtualbox is this?
+2009-07-23T20:40:00.000Z	Edwardo	mzz	2.1.4
+2009-07-23T20:40:00.000Z	mzz	Edwardo	installed how? You need the closed version of vbox for this feature
+2009-07-23T20:41:00.000Z	mzz	Edwardo	you probably need to grab the debs or repo off virtualbox.org by hand. The "open source edition" version in ubuntu doesn't have the feature you're after. See http://www.virtualbox.org/wiki/Editions
+2009-07-23T20:46:00.000Z	Edwardo	mzz	I'm downloading the source now and reading the build instructions- thanks for the help

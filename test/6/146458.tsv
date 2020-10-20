@@ -1,0 +1,6 @@
+2005-11-18T06:34:00.000Z	bam_		oh, off subject question, cleaning up unused libraries, is there a way to do this, and how?
+2005-11-18T06:34:00.000Z	dooglus	bam_	clean up unused dependancies in general with 'debfoster'
+2005-11-18T06:41:00.000Z	bam_	dooglus	how do I use debfoster?
+2005-11-18T06:42:00.000Z	dooglus	bam_	just run "sudo debfoster" (once you've installed the 'debfoster' package).  it will ask you a bunch of questions about whether you want to keep certain packages.  you can say 'y' or 'n' for yes and no, or "p" to uninstall the package and all its dependancies.  it will remember your answers
+2005-11-18T06:42:00.000Z	dooglus	bam_	then, next time you run it, it won't ask so many questions - it'll just ask about the stuff you've installed since the last time you ran it.
+2005-11-18T06:43:00.000Z	dooglus	bam_	if unsure, you can answer '?' and it will show a description of the package.  or answer 's' to skip the question.  it'll ask you again next time about any you skip

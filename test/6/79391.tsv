@@ -1,0 +1,6 @@
+2007-09-07T15:31:00.000Z	neol		how do i open all the ports in my ubuntu fiesty. ?
+2007-09-07T15:31:00.000Z	weezy	neol	iptables -f ?
+2007-09-07T15:31:00.000Z	weezy	neol	iptables -P INPUT ACCEPT ?
+2007-09-07T15:32:00.000Z	neol	weezy	after that, then their is no need to use lokkit or firestarter ??
+2007-09-07T15:32:00.000Z	neol	weezy	will that release all the ports. ?
+2007-09-07T15:34:00.000Z	weezy	neol	I haven't used any of those products you listed, but the default firewall for linux is iptables, and iptables -f will flush all rules

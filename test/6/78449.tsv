@@ -1,0 +1,6 @@
+2007-10-19T02:32:00.000Z	jburd	murkyMurk	What on earth are you on about?  LILO for KDE and Grub for Gnome?
+2007-10-19T02:33:00.000Z	murkyMurk	jburd	LILO was the origianl boot manager for all teh KDE distros that I ran..maybe I'm old
+2007-10-19T02:33:00.000Z	jburd	murkyMurk	LILO used to be popular back then.
+2007-10-19T02:33:00.000Z	murkyMurk	jburd	of course either can do either or both
+2007-10-19T02:33:00.000Z	jburd	murkyMurk	Both GRUB and LILO are bootloaders.  Grub is just a little more friendly and featureful.
+2007-10-19T02:34:00.000Z	murkyMurk	jburd	actuallly, i'd day lilo config was easier and certainly more readable..liloconf iirc was the only command needed

@@ -1,0 +1,6 @@
+2009-01-09T00:44:00.000Z	syeakey		Hi there, How do I login with the root user? I have a game that I installed under /root/ and it won't let me open it!
+2009-01-09T00:44:00.000Z	ASULutzy	syeakey	You don't want to log in as root
+2009-01-09T00:44:00.000Z	ASULutzy	syeakey	And you don't want to run games as root really either :)
+2009-01-09T00:45:00.000Z	syeakey	ASULutzy	Well, what do I want to do?
+2009-01-09T00:45:00.000Z	ASULutzy	syeakey	You want to either install it to home, or chmod it so you can run it as a regular user
+2009-01-09T00:45:00.000Z	ASULutzy	syeakey	I would reinstall the game not as root since it installed to /root/ instead of /home/$USER/

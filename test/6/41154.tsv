@@ -1,0 +1,6 @@
+2009-03-26T08:31:00.000Z	EvilAIM		Question, I think the command is 'su' but how do you do it so that you stay as a higher up user?
+2009-03-26T08:31:00.000Z	EvilAIM		I forget the command...
+2009-03-26T08:32:00.000Z	EvilAIM		instead of having to do sudo all the time, you can just do this command, type the pass in and it leaves you in su or something
+2009-03-26T08:32:00.000Z	EvilAIM		tx
+2009-03-26T08:34:00.000Z	RussM_	EvilAIM	sudo -i  ?
+2009-03-26T08:35:00.000Z	RussM_	EvilAIM	Sorry, guess my screen had stopped scrolling for a bit there, old news apparently

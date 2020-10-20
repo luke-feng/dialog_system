@@ -1,0 +1,6 @@
+2010-10-20T23:28:00.000Z	step21	evident	ubuntu can read/write ntfs by now. you can't use a windows file system for /home
+2010-10-20T23:29:00.000Z	step21	evident	i would use ext4, because then at least you have the option of windows tools who can access it. be aware however that some are not free or might break something
+2010-10-20T23:30:00.000Z	step21	evident	you can't use a windows file system for home.
+2010-10-20T23:31:00.000Z	step21	evident	I would use ext4 then in theory there are tools to access it from windows.
+2010-10-20T23:31:00.000Z	step21	evident	be aware however that some are unstable. maybe paragon has a driver for  windows
+2010-10-20T23:32:00.000Z	step21	evident	yes, also okay. ext4 is backward compatible mostly afaik

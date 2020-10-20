@@ -1,0 +1,6 @@
+2007-03-03T14:13:00.000Z	graulich		how do I locate my ntfs partitions in /dev/?
+2007-03-03T14:13:00.000Z	bullgard2	graulich	run gedit
+2007-03-03T14:14:00.000Z	graulich	bullgard2	and then?
+2007-03-03T14:14:00.000Z	bullgard2		look at its output.
+2007-03-03T14:14:00.000Z	graulich		gedit? but it's just a text editor...
+2007-03-03T14:15:00.000Z	bullgard2	graulich	I made a mistake. I meant 'gparted' Xcuse pse

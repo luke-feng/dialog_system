@@ -1,0 +1,6 @@
+2009-12-01T16:15:00.000Z	Fizix		Does anyone know I can use Terminal Server Client to access an RDP host over the internet rather than being confined to just the local network?
+2009-12-01T16:15:00.000Z	tlvb	Fizix	sounds like you need to set up port forwading
+2009-12-01T16:17:00.000Z	Fizix	ActionParsnip	& tlvb, thank you! Now I'm off to Google how to setup port forwarding on XP.
+2009-12-01T16:18:00.000Z	Fizix		Oh, the CLIENT side needs port fowarding?
+2009-12-01T16:19:00.000Z	Fizix		Neither I (client-side) nor the XP machine I'm trying to RDP into (host-side) has a router.
+2009-12-01T16:19:00.000Z	tlvb	Fizix	unless you are using your XP computer as the router, you should search in your router docs

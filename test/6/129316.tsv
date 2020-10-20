@@ -1,0 +1,6 @@
+2006-03-12T17:04:00.000Z	heyjoe2		how does one manually mount a device?
+2006-03-12T17:04:00.000Z	dli	heyjoe2	find the device name in /var/log/syslog
+2006-03-12T17:04:00.000Z	dli	heyjoe2	and "mount /dev/sda1 /mnt/whatever"
+2006-03-12T17:15:00.000Z	dli	heyjoe2	pastebin.com
+2006-03-12T17:18:00.000Z	dli	heyjoe2	what partition do yo have on sda? if you have none? try, "mount /dev/sda /mnt/whatever"
+2006-03-12T17:19:00.000Z	dli	heyjoe2	have a look, "ls /mnt"

@@ -1,0 +1,6 @@
+2008-12-12T00:36:00.000Z	CharlieBrown		Can anyone recommend a webcam that works out-of-the box on Intrepid (and using Stopmotion). My previously working webcam with Hardy worked fine but not in Intrepid :(
+2008-12-12T00:38:00.000Z	gnutron	CharlieBrown	try this  in a terminal: mplayer tv:// -tv driver=v4l:width=640:height=480:device=/dev/video0
+2008-12-12T00:38:00.000Z	gnutron	CharlieBrown	use /dev/video if applicable
+2008-12-12T00:39:00.000Z	gnutron	CharlieBrown	cheese 'eh, thanks for that.
+2008-12-12T00:44:00.000Z	gnutron	CharlieBrown	type the first few letters of the nick then hit the tab key, it should complete the nick. also works with files in a terminal.
+2008-12-12T00:45:00.000Z	CharlieBrown	gnutron	got it

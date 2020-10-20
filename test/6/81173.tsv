@@ -1,0 +1,6 @@
+2010-11-17T03:46:00.000Z	cainus_		hey all... can anyone tell me why I get 404's when I try to apt-get install libssl-dev ?
+2010-11-17T03:46:00.000Z	nemo	cainus_	apt-get update maybe
+2010-11-17T03:46:00.000Z	nemo	cainus_	you could have an old URL for a deb that was deleted
+2010-11-17T03:46:00.000Z	nemo	cainus_	or a bad repo
+2010-11-17T03:46:00.000Z	nemo	cainus_	can also try switching mirrors - might have a mirror that hasn't updated
+2010-11-17T03:47:00.000Z	cainus_	nemo	that's got it... just need to update... thanks!

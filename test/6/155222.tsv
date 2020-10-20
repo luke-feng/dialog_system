@@ -1,0 +1,6 @@
+2005-05-11T09:42:00.000Z	unperson		I upgraded to Hoary recently using apt-get.  Things seem to be working pretty well, except that since the upgrade I can't seem to play music.  If I try to play mp3s with XMMS or Beep they just freeze (and have to be killed using 'kill').  CD player also won't play.
+2005-05-11T09:42:00.000Z	unperson		Any ideas what's going on?
+2005-05-11T09:42:00.000Z	unperson		Or at least clues as to how I determine what's going on?
+2005-05-11T09:43:00.000Z	Xappe	unperson	have you tried to change the sound output?
+2005-05-11T09:44:00.000Z	unperson	Xappe	 No, I haven't.  It's a good idea.
+2005-05-11T09:45:00.000Z	unperson	Xappe	 I guess I don't know what I should try, but I'll mess with it.

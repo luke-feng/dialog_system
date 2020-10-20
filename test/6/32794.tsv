@@ -1,0 +1,6 @@
+2009-08-14T10:10:00.000Z	spO		 how do i test to see if i remember my gpg password correctly?
+2009-08-14T10:11:00.000Z	spO		why do people use sudo instead of su  now adays?
+2009-08-14T10:12:00.000Z	spO		 how do i test to see if i remember my gpg password correctly?
+2009-08-14T10:12:00.000Z	ljyanes	spO	it's a matter of how much commands you need to put on su
+2009-08-14T10:12:00.000Z	ljyanes	spO	when I'm configuring something I just go for sudo su
+2009-08-14T10:13:00.000Z	ljyanes	spO	when I just need to install something i go for sudo apt-get

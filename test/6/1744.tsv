@@ -1,0 +1,6 @@
+2012-06-12T18:52:00.000Z	JerusalemT		Shalom y'all. Both my network card and my sound card seem to have stopped working. What to do?
+2012-06-12T18:54:00.000Z	JerusalemT		How can I re configure my network card so that it will recognize the router?
+2012-06-12T18:55:00.000Z	JerusalemT		Does anyone have any suggestions about reconfiguring my network card?
+2012-06-12T18:56:00.000Z	JerusalemT		Just point me in the right direction
+2012-06-12T18:56:00.000Z	SDX0	JerusalemT	you might want to look into ifconfig and iwconfig.
+2012-06-12T18:57:00.000Z	SDX0	JerusalemT	but that's after you're sure the drivers for your network card are working properly.

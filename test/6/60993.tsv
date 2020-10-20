@@ -1,0 +1,6 @@
+2008-04-14T05:36:00.000Z	style23		how do you active dvd decryption?
+2008-04-14T05:36:00.000Z	style23		I have that installed
+2008-04-14T05:37:00.000Z	style23		still totem says its missing a plugin.. should I restart x
+2008-04-14T05:37:00.000Z	jrib	style23	reinsert the dvd
+2008-04-14T05:39:00.000Z	style23	jrib	i'm hearing audio but no picture
+2008-04-14T05:42:00.000Z	style23	jrib	at this site https://help.ubuntu.com/ubuntu/desktopguide/C/video.htm #2 tells you to activate DVD decryption when I copy and paste that command in the terminal. I get command not found

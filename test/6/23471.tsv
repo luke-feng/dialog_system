@@ -1,0 +1,6 @@
+2011-09-29T01:22:00.000Z	StryKaizer		How can I save my window positions for each boot? (using gnome, no unity)
+2011-09-29T01:23:00.000Z	soreau	StryKaizer	About the best thing you can do is set windows to open in the same place each time
+2011-09-29T01:25:00.000Z	StryKaizer	soreau	is this by rightclicking the titlebar and clicking "Always on visible workspace", or is there another setting for that?
+2011-09-29T01:25:00.000Z	StryKaizer	soreau	nvm, its defenitly somethign else :)
+2011-09-29T01:25:00.000Z	soreau	StryKaizer	If you use compiz, you can set fixed positions in ccsm>Place Windows plugin
+2011-09-29T01:26:00.000Z	StryKaizer	soreau	thx, installing ccsm now

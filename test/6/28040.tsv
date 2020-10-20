@@ -1,0 +1,6 @@
+2011-02-16T01:37:00.000Z	delkin		I'm trying ti put my wlan0 interface to static ip. I think i have the interfaces file well configured, cause when i $ /etc/init.d/networking restart, it works well, and my new ip is configured. I check with ifconfig. But when I turn OFF and then ON the wireless, I have another ip back again... What might be? Why isnt it recalling the interfaces file when i restart the wireless?
+2011-02-16T01:38:00.000Z	Wulfy	delkin	is your router running a dhcp server?
+2011-02-16T01:43:00.000Z	delkin	Wulfy	I dont know. Probably, cause everytime i connect to it, it gives me an random ip
+2011-02-16T01:43:00.000Z	Wulfy	delkin	 tell your router to save your current ip perminatly to your mac and you should be good to go
+2011-02-16T01:44:00.000Z	delkin	Wulfy	i'll try to find that
+2011-02-16T01:44:00.000Z	Wulfy	delkin	 good luck msg me if you get lucky

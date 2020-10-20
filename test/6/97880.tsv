@@ -1,0 +1,6 @@
+2007-09-02T09:09:00.000Z	ajwo		is it posible to get an email when it is necesary to make an apt-get upgrade ?
+2007-09-02T09:09:00.000Z	ajwo		is it posible to get an email when it is necesary to make an apt-get upgrade ?
+2007-09-02T09:10:00.000Z	simplechat	ajwo	?
+2007-09-02T09:13:00.000Z	simplechat	ajwo	cron job?
+2007-09-02T09:14:00.000Z	simplechat	ajwo	unattended-packages i think
+2007-09-02T09:14:00.000Z	simplechat	ajwo	ask apt-get to tell you if it needs to upgrade without actually doing it, then pipe the output and send it to yourself?

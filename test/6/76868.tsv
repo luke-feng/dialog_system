@@ -1,0 +1,6 @@
+2009-05-14T23:37:00.000Z	Fishscene		Is anyone having trouble with the NVIDIA drivers for Ubuntu 8.10 / 9.04?
+2009-05-14T23:37:00.000Z	Slart	Fishscene	works for me
+2009-05-14T23:37:00.000Z	Fishscene	Slart	What graphics card do you have?
+2009-05-14T23:37:00.000Z	Slart	Fishscene	8800 gtx
+2009-05-14T23:38:00.000Z	Fishscene	Slart	I have an 8800 GTS. (2 of them). Whenever I install the restricted drivers (from Ubuntu or from the website), GDM can't start. =(
+2009-05-14T23:38:00.000Z	Slart	Fishscene	have a look in /var/log/Xorg.0.log .. if it fails there should be an error in there

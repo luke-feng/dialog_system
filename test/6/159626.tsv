@@ -1,0 +1,6 @@
+2007-08-06T08:52:00.000Z	CheeseGardener		Also too, I am talking about an NTFS external USB hard drive.  Does NTFS-3G work well with external hard drives when writing to them?  Windows is NOT on this external hard drive.. obviously.
+2007-08-06T08:52:00.000Z	binarydigit	CheeseGardener	ntfs-3g doesnt care where your hd is
+2007-08-06T08:54:00.000Z	binarydigit	CheeseGardener	what kind of file system is on the drive then
+2007-08-06T08:54:00.000Z	binarydigit	CheeseGardener	ok so use ntfs-3g
+2007-08-06T08:56:00.000Z	binarydigit	CheeseGardener	works fine for me, i dualboot between windows and use it without a problem
+2007-08-06T08:56:00.000Z	binarydigit	CheeseGardener	http://www.fs-driver.org/

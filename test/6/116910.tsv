@@ -1,0 +1,6 @@
+2007-02-22T07:51:00.000Z	zsh		hi.how can i find out the service or app accessing a given port on my pc?
+2007-02-22T07:52:00.000Z	zsh		and kill it
+2007-02-22T07:52:00.000Z	zsh		something is eating up my bandwidth and i cant figure out what
+2007-02-22T07:53:00.000Z	zsh		i'm using ubuntu edgy btw
+2007-02-22T07:53:00.000Z	ALL4N	zsh	netstat might help
+2007-02-22T07:54:00.000Z	zsh	ALL4N	soundray, ok

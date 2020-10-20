@@ -1,0 +1,6 @@
+2006-08-14T15:45:00.000Z	lior83		hi, can somebody help me?
+2006-08-14T15:47:00.000Z	lior83		I upgraded my ubuntu to dapper and now my cdrom and usd doesn't works
+2006-08-14T15:49:00.000Z	lior83		can you help me? I upgraded my ubuntu to dapper and now my cdrom and usd doesn't works
+2006-08-14T15:49:00.000Z	lior83		usb*
+2006-08-14T15:49:00.000Z	sethk	lior83	most likely it is a kernel configuration issue.
+2006-08-14T15:49:00.000Z	sethk	lior83	I would boot the old kernel (assuming you still have it), and do lsmod to see what drivers you need.

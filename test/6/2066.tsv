@@ -1,0 +1,6 @@
+2012-05-23T11:53:00.000Z	akaariai		I am having a really irritating problem after upgrade from 10.04 to 12.04 - my keyboard goes to sleep after a second or two, and misses then the first few keys typed when it "awakes"
+2012-05-23T11:53:00.000Z	akaariai		any hints how to solve this? Should I just do a reinstall?
+2012-05-23T11:53:00.000Z	DarwinSurvivor	akaariai	did you install any power-saving tools like laptop-mode-tools or anything?
+2012-05-23T11:55:00.000Z	akaariai	DarwinSurvivor	I don't think so, but when I search for "power" with synaptic there are multiple packages installed
+2012-05-23T11:59:00.000Z	akaariai	DarwinSurvivor	could gnome-power-manager do the keyboard suspending?
+2012-05-23T12:01:00.000Z	DarwinSurvivor	akaariai	could be, but I don't use it, so you'll have to ask someone else

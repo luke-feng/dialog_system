@@ -1,0 +1,6 @@
+2006-07-20T14:30:00.000Z	wheels3572		Can anyone help me I am trying to install Dapper and I am confused at the partitioner spot
+2006-07-20T14:30:00.000Z	Warbo	wheels3572	I am guessing you have Windows XP installed?
+2006-07-20T14:31:00.000Z	wheels3572	Warbo	Yes I do lol I am at the prepare partitions section
+2006-07-20T14:33:00.000Z	Warbo	wheels3572	How much RAM do you have?
+2006-07-20T14:33:00.000Z	Warbo	wheels3572	OK, I am actually unfamiliar with the graphical installer, but I have installed loads of times manually :) I would make a new partition which is 512MB
+2006-07-20T14:35:00.000Z	Warbo	wheels3572	Format that partition as "swap", then use the rest of the disc as "/"

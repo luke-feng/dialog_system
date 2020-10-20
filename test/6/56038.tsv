@@ -1,0 +1,6 @@
+2008-11-07T23:42:00.000Z	Cristi		hello! Can i change the format of a hdd without losing data? (probably not) I want to go from ntfs to whatever linux format
+2008-11-07T23:43:00.000Z	joaopinto	Cristi	you can't convert from ntfs to ext3, only with a backup&restore
+2008-11-07T23:44:00.000Z	Cristi	joaopinto	how do you i change the format ? i format it with the live cd?
+2008-11-07T23:44:00.000Z	joaopinto	Cristi	if you do not have data on it, just use the partition editor, and remove/add the partition
+2008-11-07T23:45:00.000Z	Cristi	joaopinto	yes i guess you are right
+2008-11-07T23:46:00.000Z	Cristi	joaopinto	thank you

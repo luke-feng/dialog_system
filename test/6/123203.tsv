@@ -1,0 +1,6 @@
+2010-04-14T06:12:00.000Z	igoryonya		hello, is alsa the only one, supporting 5.1 or more channel output? Pules, OSS, etc only support 2?
+2010-04-14T06:14:00.000Z	igoryonya		because, in SMPlayer, when I chose audio output driver, and the movie has 5.1 channel audio, everything plays 2 channels except for alsa. in VLC, even alsa plays 2 chnnels. what's wrong, does Linux really have a such poor support of audio?
+2010-04-14T06:15:00.000Z	igoryonya		scunizi, you run it from the console: sudo and your gui app file name
+2010-04-14T06:16:00.000Z	igoryonya		scunizi: sudo samba-server-configuration (from the console, or you can create a launcher with that command)
+2010-04-14T06:17:00.000Z	Scunizi	igoryonya	been there done that.. and it loaded fine.. I'd just like to start it from the menu if possible.
+2010-04-14T06:18:00.000Z	Scunizi	igoryonya	good idea.. hadn't thought of that.

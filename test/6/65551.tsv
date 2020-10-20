@@ -1,0 +1,6 @@
+2008-10-26T05:14:00.000Z	complexity		I am trying to copy files from my camera and keep getting [   73.885478] Buffer I/O error on device sdc, logical block 13
+2008-10-26T05:14:00.000Z	complexity		 I can copy them perfect on windows, so i dont see what the problem is
+2008-10-26T05:15:00.000Z	Luria	complexity	perhaps the mount incorrectly determined filesystem type?
+2008-10-26T05:16:00.000Z	complexity	Luria	it is vfat
+2008-10-26T05:18:00.000Z	complexity	Luria	I do mount -t vfat /dev/sdc1 /mnt/camera
+2008-10-26T05:21:00.000Z	Luria	complexity	what pray tell, did they do, shorted fstab a bit?

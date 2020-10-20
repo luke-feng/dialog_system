@@ -1,0 +1,6 @@
+2012-03-01T09:36:00.000Z	vaccine		E: Unable to locate package applesmc-dkms
+2012-03-01T09:36:00.000Z	vaccine		=(
+2012-03-01T09:38:00.000Z	soreau	vaccine	According to the internet, "As of 25OCT2008, the package applesmc-dkms is available in the mactel ppa."
+2012-03-01T09:38:00.000Z	vaccine	CFHowlett	I enabled it using sudo add-apt-repository ppa:mactel-support/ppa
+2012-03-01T09:38:00.000Z	vaccine		do I need to do more than that?
+2012-03-01T09:39:00.000Z	soreau	vaccine	apt-get update

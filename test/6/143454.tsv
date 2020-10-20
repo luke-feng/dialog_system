@@ -1,0 +1,6 @@
+2006-04-23T10:57:00.000Z	karljp		anyone know where to configure touchpads? (in breezy/dapper?) the mouse thing in system->prefs works great for the mouse, but not the pad
+2006-04-23T10:58:00.000Z	mwe	karljp	synaptic?
+2006-04-23T10:58:00.000Z	mwe	karljp	is it a synaptics tp?
+2006-04-23T11:00:00.000Z	karljp	mwe	no, it's an alps one.
+2006-04-23T11:01:00.000Z	karljp		it works, I just need to turn up the speed a bit, just like for the mouse, as I'm running on 1900x1200
+2006-04-23T11:02:00.000Z	mwe	karljp	I don't know. tpconfig maybe. I have a synaptics

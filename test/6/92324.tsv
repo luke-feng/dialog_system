@@ -1,0 +1,6 @@
+2007-03-09T13:58:00.000Z	joe4444		ok, i've installed the ATI binary drivers following the docs, but fglrxinfo still isn't reporting my OpenGL renderer or vendor strings as ATI; they are Mesa something... my resolution is now correct, but i'm still getting the same image on both displays
+2007-03-09T13:58:00.000Z	joe4444		any suggestions?
+2007-03-09T13:58:00.000Z	Ubuntu-Anon	joe4444	Use super glue
+2007-03-09T13:58:00.000Z	joe4444	Ubuntu-Anon	?
+2007-03-09T14:01:00.000Z	joe4444	Ubuntu-Anon	you're trying to help me get both displays working as one big desktop instead of 2 identical desktops =)
+2007-03-09T14:02:00.000Z	Ubuntu-Anon	joe4444	Ohh, then use a photocopier and scotch tape, your refresh rate would be like 1 every 10 minutes, but hey.... its Ubuntu you know

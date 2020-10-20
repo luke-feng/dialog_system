@@ -1,0 +1,6 @@
+2011-04-05T23:55:00.000Z	bercik_		Hi all
+2011-04-05T23:57:00.000Z	bercik_		What command and options should I use to check filesystem of ext3 and ntfs?
+2011-04-05T23:57:00.000Z	maco	bercik_	for ntfs, use windows
+2011-04-05T23:57:00.000Z	maco	bercik_	for ext3:   fsck
+2011-04-05T23:57:00.000Z	bercik_	maco	thanks
+2011-04-05T23:57:00.000Z	maco	bercik_	you cant do it while the filesystem is mounted though

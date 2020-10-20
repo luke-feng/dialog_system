@@ -1,0 +1,6 @@
+2011-06-02T05:23:00.000Z	b3gott3n		its pulse audio
+2011-06-02T05:25:00.000Z	robin0800	b3gott3n	try alsamixer in a terminal pulse audio is built on top of this
+2011-06-02T05:27:00.000Z	b3gott3n		aslamixer is showing his mic
+2011-06-02T05:27:00.000Z	b3gott3n		i think the bug is in pulseaudio
+2011-06-02T05:28:00.000Z	robin0800	b3gott3n	try pulse audio volume control pavcontrol
+2011-06-02T05:28:00.000Z	b3gott3n	robin0800	its not me its for Alot

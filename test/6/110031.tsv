@@ -1,0 +1,6 @@
+2006-07-28T08:23:00.000Z	FusionXN1		I got a BIG program
+2006-07-28T08:23:00.000Z	FusionXN1		I installed nvidia drivers now i get X Failed to start GUI disabled
+2006-07-28T08:23:00.000Z	FusionXN1		im on the live cd right now
+2006-07-28T08:24:00.000Z	FusionXN1		How do i fix that
+2006-07-28T08:25:00.000Z	srikat_	FusionXN1	didn't you back up xorg.conf?
+2006-07-28T08:27:00.000Z	srikat_	FusionXN1	may be try "sudo dpkg-reconfigure xserver-xorg" or open up xorg.conf and change "nvidia" to "nv"?

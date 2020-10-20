@@ -1,0 +1,6 @@
+2012-04-26T21:20:00.000Z	rodd		Hi folks, I'd love to update my 10.04 lts to 12.04 lts however it isn't showing in the update manager, am I missing something?
+2012-04-26T21:22:00.000Z	Artemis3	rodd	https://wiki.ubuntu.com/PrecisePangolin/ReleaseNotes/UbuntuDesktop#Upgrading_from_Ubuntu_10.04_LTS_to_Ubuntu_12.04_LTS
+2012-04-26T21:25:00.000Z	rodd	Artemis3	got an error GPG error: http://archive.canonical.com lucid Release: The following signatures were invalid: BADSIG 40976EAF437D05B5
+2012-04-26T21:27:00.000Z	Artemis3	rodd	try to update again software sources
+2012-04-26T21:27:00.000Z	Artemis3	rodd	or change mirror
+2012-04-26T21:28:00.000Z	rodd	Artemis3	alright, will try thanks

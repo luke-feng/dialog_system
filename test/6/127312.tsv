@@ -1,0 +1,6 @@
+2010-03-03T05:21:00.000Z	vegarn		I attempted a "do-release-upgrade" on a Jaunty system to upgrade to Karmic
+2010-03-03T05:22:00.000Z	vegarn		somewhere along the line, the ssh connection i used failed
+2010-03-03T05:22:00.000Z	vegarn		I managed to ssh back in again, is there someway I can resume where it left off?
+2010-03-03T05:23:00.000Z	vegarn		what do you mean automatically?
+2010-03-03T05:25:00.000Z	vegarn		Militant: it tells me there is no new release, attempting apt-get update tells me there's a lock
+2010-03-03T05:25:00.000Z	IdleOne	vegarn	you can only run one instance of apt at a time so close out synaptic

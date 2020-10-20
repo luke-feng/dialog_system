@@ -1,0 +1,6 @@
+2007-01-19T07:50:00.000Z	iuui		murchadh: how do you mount the flop so that all users have write permission?
+2007-01-19T07:51:00.000Z	iuui		does anyone know how to mount the floppy drive so taht all users have write permission?
+2007-01-19T07:52:00.000Z	iuui		what
+2007-01-19T07:52:00.000Z	nolimitsoya	iuui	uid 777?
+2007-01-19T07:53:00.000Z	nolimitsoya	iuui	no, in fstab. try 'man fstab'
+2007-01-19T08:07:00.000Z	nolimitsoya	iuui	yes

@@ -1,0 +1,6 @@
+2007-07-15T12:08:00.000Z	wweasel		Has anyone here installed the new version of flashplugin-nonfree (9.0.48) and had it not work (flash simply doesn't display)?
+2007-07-15T12:08:00.000Z	crimsun	wweasel	via feisty-proposed?
+2007-07-15T12:08:00.000Z	wweasel	crimsun	Yep
+2007-07-15T12:09:00.000Z	crimsun	wweasel	that one's broken; the original uploader omitted my fixes.  I've uploaded a fixed source package that's awaiting admin moderation.
+2007-07-15T12:09:00.000Z	crimsun		silly.
+2007-07-15T12:10:00.000Z	wweasel	crimsun	Alright, good to know. Thanks :)

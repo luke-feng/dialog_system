@@ -1,0 +1,6 @@
+2010-04-28T21:59:00.000Z	ubu_user	deposito	I'd recommend trying DosBox over trying to run MS-DOS in VBox (though it's possible)
+2010-04-28T22:01:00.000Z	deposito	ubu_user	thanks... im trying to use dosemu but i have problems using shared folders :s ... do you know if with dosbox i can use it?  i tried to do this http://pascalek.pers.pl/en/propage/samba4dosemu-introduction without any luck
+2010-04-28T22:02:00.000Z	ubu_user	deposito	i've never played with dosemu before, so no help on that front.  Shared folders?  not entirely sure what you mean, but dosbox with proper configuration can certainly use your linux directories.  Good luck.
+2010-04-28T22:05:00.000Z	deposito	ubu_user	because i need a program that is in a remote machine :D .. thanks anyway!
+2010-04-28T22:06:00.000Z	ubu_user	deposito	so long as your samba shares are mounted on your file system somewhere, dosbox could access them.
+2010-04-28T22:08:00.000Z	deposito	ubu_user	yes maybe i have to try with dosbox, with dosemu i always have an invalid argument F:

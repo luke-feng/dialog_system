@@ -1,0 +1,6 @@
+2007-05-02T15:47:00.000Z	g0ow		when i do gksu "update-manager -c"
+2007-05-02T15:47:00.000Z	g0ow		it loads up and says 6.10 is out, i try to upgrade, and then i get the error "authenticating the upgrade failed. there may be a problem with the network or the server."
+2007-05-02T15:48:00.000Z	qsloqs	g0ow	gpg --keyserver subkeys.pgp.net --recv KEY!    and then   gpg --export --armor KEY! | sudo apt-key add -
+2007-05-02T15:49:00.000Z	qsloqs	g0ow	run in console sudo update and sudo dist-upgrade, that will give you key on error
+2007-05-02T15:50:00.000Z	g0ow	qsloqs	can i PM you?
+2007-05-02T15:50:00.000Z	qsloqs	g0ow	just run that says cafuego

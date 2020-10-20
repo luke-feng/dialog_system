@@ -1,0 +1,6 @@
+2005-04-24T11:14:00.000Z	Gunblade		Hey all I am having some trouble with connecting to the internet with Ubuntu with a wireless card
+2005-04-24T11:15:00.000Z	Gunblade		I don't know, it's a "CiscO Systems" whirelss card that came with teh laptop...
+2005-04-24T11:16:00.000Z	nomasteryoda	Gunblade	in terminal, type sudo -s
+2005-04-24T11:16:00.000Z	nomasteryoda	Gunblade	then lspci
+2005-04-24T11:17:00.000Z	nomasteryoda	Gunblade	yea
+2005-04-24T11:19:00.000Z	nomasteryoda	Gunblade	ok

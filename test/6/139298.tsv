@@ -1,0 +1,6 @@
+2006-05-27T11:49:00.000Z	kholerabbi		Hey, I tried "sudo apt-get update && sudo apt-get install firefox " But only got the next Firefox release (1.0.7 - 1.0.8), How do I get the LATest??
+2006-05-27T11:49:00.000Z	kholerabbi		Latest being (1.5.0.3)
+2006-05-27T11:50:00.000Z	intelikey	kholerabbi	from the mozilla site i guess.
+2006-05-27T11:50:00.000Z	intelikey	kholerabbi	^
+2006-05-27T11:53:00.000Z	intelikey	kholerabbi	in dapper current is  "Version: 1.5.dfsg+1.5.0.3-0ubuntu3
+2006-05-27T11:54:00.000Z	intelikey	kholerabbi	dapper will be released in june.  if all goes as planed.

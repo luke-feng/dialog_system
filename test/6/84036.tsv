@@ -1,0 +1,6 @@
+2007-09-21T15:58:00.000Z	jacob		what's ndiswrapper-modules? can that help me fix a problem that i have with my wireless?
+2007-09-21T15:58:00.000Z	WaltzingAlong	jacob	what is the problems you have with your wireless?
+2007-09-21T16:02:00.000Z	WaltzingAlong	jacob	i would look elsewhere since you already know of a scenario when it is working. for example, you may need merely to disable wep encryption when connecting at the library
+2007-09-21T16:04:00.000Z	WaltzingAlong	jacob	i am not proposing you go without ndiswrapper but if with ndiswrapper you can connect using wep then ndiswrapper is likely not the cause of the problems at the library
+2007-09-21T16:05:00.000Z	WaltzingAlong	jacob	network-manager usually does this work but does not automatically connect without you letting it know it can/should
+2007-09-21T16:05:00.000Z	WaltzingAlong	jacob	the program wifi-radar may be of interest to you

@@ -1,0 +1,6 @@
+2011-08-18T02:23:00.000Z	User_007		Hey, i use a Toshiba A215 laptop and i need to control fan. I think toshset will help me, but it don't work, since toshiba_acpi don't load
+2011-08-18T02:23:00.000Z	User_007		does anyone have a clue?
+2011-08-18T02:23:00.000Z	escott	User_007	if you can control the fan its going to be in /sys
+2011-08-18T02:24:00.000Z	User_007	escott	/sys/bus/acpi/drivers/fan  have bind  uevent  unbind only
+2011-08-18T02:28:00.000Z	User_007	escott	any clue?
+2011-08-18T02:29:00.000Z	escott	User_007	no idea clearly insmod doesn't like something

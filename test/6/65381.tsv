@@ -1,0 +1,6 @@
+2008-02-04T20:17:00.000Z	burkmat		Still looking for a way to find out if my computer A. Has a Wireless NIC, B. Just refuses to acknowledge its existance, C. Will be forced to run XP.
+2008-02-04T20:18:00.000Z	ubuntunut	burkmat	do a 'lspci' to list your pci devices.
+2008-02-04T20:20:00.000Z	burkmat	ubuntunut	yeah... that tells me that I have no wireless. but so does iwconfig, ifconfig -a, and lshw. starting to doubt there's one in here.
+2008-02-04T20:21:00.000Z	ubuntunut	burkmat	Sounds like a hardware problem of some kinda.... is it possible to try the card in a different pci slot?
+2008-02-04T20:21:00.000Z	ubuntunut	burkmat	 OR the card in another system?
+2008-02-04T20:23:00.000Z	burkmat	ubuntunut	I fixed it... and I won't tell you how because it's so pathetic. anyway, thanks for the help :D o/

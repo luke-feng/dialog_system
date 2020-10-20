@@ -1,0 +1,6 @@
+2005-11-30T13:03:00.000Z	jv_		what is the appropriate program for playing mp3 files here?
+2005-11-30T13:03:00.000Z	aftertaf	jv_	 beep media, xmms, noatun, rhythmbox etc.....
+2005-11-30T13:18:00.000Z	aftertaf	jv_	 you dont... you use dpkg
+2005-11-30T13:19:00.000Z	aftertaf	jv_	 dpkg -i yourdebfile.deb
+2005-11-30T13:19:00.000Z	aftertaf	jv_	 oh yeah :] 
+2005-11-30T13:20:00.000Z	aftertaf	jv_	 depends where you d/led to.. try your home directory

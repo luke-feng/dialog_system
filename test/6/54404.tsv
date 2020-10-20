@@ -1,0 +1,6 @@
+2009-03-03T16:17:00.000Z	mrglinux		sudo mount /dev/sda7 /mnt -o force  also doesn't work
+2009-03-03T16:18:00.000Z	fosco_	mrglinux	specify the filesystem type
+2009-03-03T16:23:00.000Z	fosco_	mrglinux	are you sure sda7 is ext3? (sudo parted -l | grep sda7)
+2009-03-03T16:24:00.000Z	mrglinux	fosco_	no output
+2009-03-03T16:24:00.000Z	fosco_	mrglinux	sorry, sudo parted -l | grep ext3
+2009-03-03T16:28:00.000Z	fosco_	mrglinux	it seems sda7 is ext3, but it is several damaged, sorry i know no more

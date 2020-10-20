@@ -1,0 +1,6 @@
+2006-06-25T13:40:00.000Z	Patrick__		is it possible to make Gnome pre-load all the desktop icons, visuals and everything into memory before the desktop appears? as windows does.
+2006-06-25T13:41:00.000Z	Patrick__		is it possible to make Gnome pre-load all the desktop icons, visuals and everything into memory before the desktop appears? as windows does.
+2006-06-25T13:42:00.000Z	gdb	Patrick__	No, because the icons, visuals, and everything, are provided by separate processes running under the gnome-session process.  It's not a monolithic subsystem like Windows' GDU+USER interface.
+2006-06-25T13:42:00.000Z	gdb		re GDI+USER
+2006-06-25T13:43:00.000Z	Patrick__	gdb	what should I do then? theres always a delay when I first try to open up something, like the gnome menu for instance, it takes a quarter second
+2006-06-25T13:44:00.000Z	gdb	Patrick__	There should be no delay after you've opened the menu the first time.  Is there?

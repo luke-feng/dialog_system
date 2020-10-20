@@ -1,0 +1,6 @@
+2007-10-08T08:43:00.000Z	kbrooks		grmln: diversion, if i may
+2007-10-08T08:44:00.000Z	kbrooks		grmln: you probably don't need to rely on the router logs
+2007-10-08T06:20:00.000Z	kbrooks		i have a list of packages i want removed.
+2007-10-08T06:20:00.000Z	kbrooks		in a text file
+2007-10-08T06:20:00.000Z	kbrooks		how do i remove them automatically
+2007-10-08T06:20:00.000Z	WaltzingAlong	kbrooks	sudo aptitude purge package1 package2 package3

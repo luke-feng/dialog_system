@@ -1,0 +1,6 @@
+2007-11-22T22:38:00.000Z	rooth_		evning folks! I'm trying to fix the broken sundance network driver but each time I reboot it still uses the original module instead of my new one?
+2007-11-22T22:38:00.000Z	Jack_Sparrow	rooth_	check out blacklist
+2007-11-22T22:38:00.000Z	rooth_	Jack_Sparrow	okey, just google it?
+2007-11-22T22:40:00.000Z	rooth_	Jack_Sparrow	but I want to use my re-compiled module instead of the one being used at each boot? Can't I include it in the initrd or something ?
+2007-11-22T22:41:00.000Z	Jack_Sparrow	rooth_	which is why you would blacklist the one you dont want loaded
+2007-11-22T22:44:00.000Z	rooth_	Jack_Sparrow	I might be a bit stupid but I don't quite follow you. I get that it won't load the orginal-sundance driver but how do I get it to load my new sundance-driver (same names) and where would I copy my sundance.ko file to ? so that I won't have to do some magic modprobe manually?

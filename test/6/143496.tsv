@@ -1,0 +1,6 @@
+2006-07-18T12:32:00.000Z	Zabi		Hi i have installed Xubuntu on my machine which is an Amd X2 3800.The version of Xubuntu i installed is X86 one.............can change over to the Amd 64 bit version of Xubuntu without insatlling  it form the install CD......something like apt-get or something
+2006-07-18T12:33:00.000Z	Zabi		ohh :(
+2006-07-18T12:33:00.000Z	mwe	Zabi	be warned that the 64bit version is not as mature as the 32bit version either
+2006-07-18T12:34:00.000Z	mwe	Zabi	no features missing
+2006-07-18T12:35:00.000Z	mwe	Zabi	native 64bit is faster, theoretically though
+2006-07-18T12:35:00.000Z	mwe	Zabi	you'll be fine with the 32bit version. that's what I would use, personally

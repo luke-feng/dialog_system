@@ -1,0 +1,6 @@
+2008-12-06T01:36:00.000Z	^A^kira		hello, im trying to install bluetooth device in my ubuntu 8.10... here is the output http://paste.org.ru/?2rhp9a
+2008-12-06T01:37:00.000Z	^A^kira		all the "rm" lines it says "rm: cannot delete "blabla": Read-only file system
+2008-12-06T01:38:00.000Z	CaShMoNey	^A^kira	Try rm -f
+2008-12-06T01:39:00.000Z	^A^kira	CaShMoNey	im not doing rm, its aptitude trying to rm something
+2008-12-06T01:39:00.000Z	CaShMoNey	^A^kira	okay, and is that process still running?
+2008-12-06T01:40:00.000Z	^A^kira	CaShMoNey	the deamon is running but bluetooth doesn't works

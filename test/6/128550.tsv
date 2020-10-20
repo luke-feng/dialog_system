@@ -1,0 +1,6 @@
+2005-12-19T07:34:00.000Z	JoeyDay|ubuntu		What's the default root password in Ubuntu?
+2005-12-19T07:35:00.000Z	JoeyDay|ubuntu		Is there a default root password? I don't recall setting one up during install.
+2005-12-19T07:36:00.000Z	HymnToLife	JoeyDay|ubuntu	> you can set one
+2005-12-19T07:36:00.000Z	JoeyDay|ubuntu	HymnToLife	How?
+2005-12-19T07:36:00.000Z	HymnToLife		but you won't need it anyway
+2005-12-19T07:36:00.000Z	HymnToLife	JoeyDay|ubuntu	> sudo chpasswd root

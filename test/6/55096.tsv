@@ -1,0 +1,6 @@
+2008-07-31T08:14:00.000Z	aadasas		im trying to view some dicom images from a xray.. can anyone help me.. gimp wont open it and i d/l the aeskulap and it wont view them either
+2008-07-31T08:15:00.000Z	td123	aadasas	what format are the images?
+2008-07-31T08:20:00.000Z	td123	aadasas	it isn't a long term solution, but if you need to view them, you could try going into synaptic, search for "dicom" you can use a package called medcon/xmedcon to convert the images to a png or other format supported by gimp so you can at least view the images
+2008-07-31T08:21:00.000Z	td123	aadasas	the only ones that are in the repos is the ones that you can see from the search results, anything else is unsupported
+2008-07-31T08:23:00.000Z	td123	aadasas	is "ctn" something else that you're looking for? | ya there could be other repos, but try finding other apps that support viewing dicoms
+2008-07-31T08:24:00.000Z	td123	aadasas	nvm, I'm sorry but it looks like you're going to have to find a program that isn't included in the default repos

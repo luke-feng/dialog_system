@@ -1,0 +1,6 @@
+2006-07-20T15:37:00.000Z	Warbo	La_PaRCa	You can specify a command (including a script) to run when an iPod is plugged in with System>Preferences>Removable Drives And Media I think
+2006-07-20T15:38:00.000Z	La_PaRCa	Warbo	can more than one script be attached to a gnome-volume-manager event?
+2006-07-20T15:38:00.000Z	Warbo	La_PaRCa	Probably not, but a script can do more than one thing :)
+2006-07-20T15:38:00.000Z	La_PaRCa	Warbo	the thing is, I have both a psp and an ipod and they are both detected as music devices!
+2006-07-20T15:39:00.000Z	La_PaRCa	Warbo	I was wondering if I could make it only for the ipod?
+2006-07-20T15:40:00.000Z	Warbo	La_PaRCa	You could make a script which checks "ls /media/whatever/ | grep -c "file"" then it will give a 1 if a certain file is detected and zero if not. Give it an iPod specific file and you can now tell the difference :)

@@ -1,0 +1,6 @@
+2008-02-18T08:47:00.000Z	krim		Let's say I have file1.txt and file2.txt, I want to rename them to file1.jpg and file2.jpg in cli, how would I do that?
+2008-02-18T08:47:00.000Z	icesword	krim	mv *.txt *.jpg
+2008-02-18T08:49:00.000Z	krim	icesword	mv: target `*.jpg' is not a directory
+2008-02-18T08:49:00.000Z	icesword	krim	are u now in that dir which holds u *.txt
+2008-02-18T08:50:00.000Z	krim	icesword	Yes
+2008-02-18T08:51:00.000Z	krim	icesword	yup

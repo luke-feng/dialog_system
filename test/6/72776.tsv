@@ -1,0 +1,6 @@
+2009-01-18T01:15:00.000Z	paulievox		I'm running Zoneminder (linux security camera platform) on an Intrepid 8.1 PC (xubuntu)
+2009-01-18T01:15:00.000Z	paulievox		with two NIC cards. I have 6 "IP" security cameras, which i placed
+2009-01-18T01:15:00.000Z	paulievox		on their own network (10.0.1.x) with its own router.
+2009-01-18T01:15:00.000Z	paulievox		The "Front Of House" connection lives on a 192.168.1.x network
+2009-01-18T01:15:00.000Z	paulievox		with its own router.
+2009-01-18T01:15:00.000Z	FloodBot1	paulievox	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

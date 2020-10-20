@@ -1,0 +1,6 @@
+2008-05-26T23:43:00.000Z	Reenen		how do you change the default text editor?
+2008-05-26T23:43:00.000Z	ajopaul	Reenen	on a terminal ?
+2008-05-26T23:43:00.000Z	ajopaul		export EDITOR=vi if you want vi :)
+2008-05-26T23:44:00.000Z	Reenen	ajopaul	No, when I double click it... but the files doesn't have a .txt extention
+2008-05-26T23:44:00.000Z	Reenen		thanks!
+2008-05-26T23:45:00.000Z	ajopaul	Reenen	if the file is txt and even if the extension is absent gedit opens up

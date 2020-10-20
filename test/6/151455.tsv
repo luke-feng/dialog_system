@@ -1,0 +1,6 @@
+2005-04-12T10:09:00.000Z	synd`	icarus	deFrysk: thanks
+2005-04-12T10:13:00.000Z	synd`	icarus	how exactly do i do that
+2005-04-12T10:30:00.000Z	synd`	icarus	 thx again
+2005-04-12T10:31:00.000Z	synd`	icarus	i do the sudo hdparm -d /dev/hdc
+2005-04-12T10:31:00.000Z	synd`	icarus	and it comes up using_dma = 0 (off)
+2005-04-12T10:32:00.000Z	synd`	icarus	but the man hdparm said that if i do hdparm -d, that it toggles it on

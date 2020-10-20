@@ -1,0 +1,6 @@
+2007-10-15T08:10:00.000Z	cappiz		is it possible to read ufs fs in ubuntu/linux?
+2007-10-15T08:11:00.000Z	genii	cappiz	Yes, you can read BSD filesystem from ubuntu
+2007-10-15T08:11:00.000Z	cappiz	genii	something special i need, or can i just mount it? :)
+2007-10-15T08:12:00.000Z	genii	cappiz	I don't recall needing a special package, but i'll check
+2007-10-15T08:18:00.000Z	genii	cappiz	I can't seem to find some applicable package. since i had during install a ufs disk it may have installed the correct module then etc.  (sorry for lag, work called me away)
+2007-10-15T08:21:00.000Z	genii	cappiz	I do remember having problems mounting BSB raid volumes created with vinum

@@ -1,0 +1,6 @@
+2006-01-10T17:35:00.000Z	SweetestSavage	kemik	- Actually I want to know this aswell.. for me it's /main/SM/ ./stepmania
+2006-01-10T17:36:00.000Z	kemik	SweetestSavage	 usually you just specifiy the entire absolute path
+2006-01-10T17:37:00.000Z	SweetestSavage	kemik	- How do you mean..?
+2006-01-10T17:39:00.000Z	kemik	SweetestSavage	 you can execute a program like this /home/youruser/foo  <- if foo is a binary
+2006-01-10T17:41:00.000Z	SweetestSavage	kemik	- Ah, alright. I got it, thanks =)
+2006-01-10T17:41:00.000Z	kemik	SweetestSavage	 np

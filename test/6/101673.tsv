@@ -1,0 +1,6 @@
+2006-11-20T15:38:00.000Z	Some_Person		is there a way i can completlely lock a file from writing/replacing even by root?
+2006-11-20T15:39:00.000Z	rioghal	Some_Person	yes, there is:  sudo chattr +i file   but, if the system needs to re-write that file, it wont be able to do it
+2006-11-20T15:42:00.000Z	rioghal	Some_Person	changing the immutable attribute (chattr +i) will make the file unwritable even by root.
+2006-11-20T15:43:00.000Z	rioghal	Some_Person	it will be readable, but it will not be writable
+2006-11-20T15:44:00.000Z	rioghal	Some_Person	to be readable to all users, youll have to chmod a+r
+2006-11-20T15:46:00.000Z	rioghal	Some_Person	I believe its derived from debian sid

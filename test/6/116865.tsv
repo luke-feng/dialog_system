@@ -1,0 +1,6 @@
+2006-06-29T10:22:00.000Z	Zambezi		You know Ctrl+Alt+F1-F7? DON'T USE IT if you don't know what it is. When I'm remoting a computer with SSH, is't possbile to switch between terminals in that session? So it's possible to run application started on the computer and then remote them from one session (one Window)
+2006-06-29T10:23:00.000Z	jldugger_	Zambezi	not without using screen
+2006-06-29T10:23:00.000Z	Zambezi	jldugger_	Screen is a packages or?
+2006-06-29T10:24:00.000Z	jldugger_		screen is a way of life. and a program.
+2006-06-29T10:24:00.000Z	jldugger_		i think it's part of ubuntu-base
+2006-06-29T10:25:00.000Z	Zambezi	jldugger_	I where in the SSH-session and puschde Ctrl+Alt+F1 and I got a new terminal. I thought everything fucked up, but I were lucky. I played music so I knew it worked and I tried and tried and finaly I got back.

@@ -1,0 +1,6 @@
+2008-11-18T00:50:00.000Z	Macros42		in Feisty I had 192.168.11.160:/mnt/ide2/public /mnt/nas nfs rsize=8192,wsize=8192,timeo=14,intr 0 0 in my fstab but in Intrepid I get ount: wrong fs type, bad option, bad superblock when trying to mount my nas - any ideas?
+2008-11-18T00:51:00.000Z	joaopinto	Macros42	do you have nfs support installed ?
+2008-11-18T00:51:00.000Z	Macros42	joaopinto	I don't think so - in Connect to Server it's not listed - I thought it was default tho - how do I install it?
+2008-11-18T00:52:00.000Z	joaopinto	Macros42	sudo apt-get install nfs-common
+2008-11-18T00:53:00.000Z	Macros42	joaopinto	is it just nfs-client I need to install?
+2008-11-18T00:53:00.000Z	joaopinto	Macros42	yes, that should do it

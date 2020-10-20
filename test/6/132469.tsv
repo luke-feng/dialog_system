@@ -1,0 +1,6 @@
+2005-10-29T10:48:00.000Z	x86i		is there a Gnome utility that allows you to edit what services start when ubuntu is booted?
+2005-10-29T10:50:00.000Z	x86i		anyone?
+2005-10-29T10:50:00.000Z	nalioth	x86i	please ask functional questions
+2005-10-29T10:54:00.000Z	x86i	nalioth	apt-get cannot find bum, and I do not see it in any package list
+2005-10-29T10:56:00.000Z	nalioth	x86i	do you have universe and multiverse enabled?
+2005-10-29T11:57:00.000Z	nalioth	x86i	system > preferences > sessions?

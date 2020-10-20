@@ -1,0 +1,6 @@
+2009-11-22T02:25:00.000Z	c3l		what is the main difference between the "noobfriendly distros" (such as k-/ubuntu, suse, fedora...) besides that they use either gnome or kde?
+2009-11-22T02:25:00.000Z	Guest72607	c3l	it has to do with how much they assume you know how to do yourself
+2009-11-22T02:26:00.000Z	c3l		Okay, but basically the user experience is the same, except that some will use aptitude and some pacman etcetc
+2009-11-22T02:26:00.000Z	Guest72607		cl3: some require more command line knowledge for ease of use, others provide gui interfaces to make it easier
+2009-11-22T02:27:00.000Z	Guest72607		is was using apt-get to install snort and my system froze, I rebooted and put the command in again and got this: http://pastebin.ca/1681423 Anyone know how to fix it?
+2009-11-22T02:27:00.000Z	c3l	Guest72607	ah I see

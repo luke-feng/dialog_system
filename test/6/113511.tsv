@@ -1,0 +1,6 @@
+2006-06-17T12:17:00.000Z	Sashi		hey
+2006-06-17T12:18:00.000Z	Sashi		i cant seem to change permissions to a folder and its sub dirs
+2006-06-17T12:18:00.000Z	Sashi		i did chmod 777 but it wont change..
+2006-06-17T12:18:00.000Z	Sashi		ok..
+2006-06-17T12:18:00.000Z	Sashi		so how can i change the owner
+2006-06-17T12:19:00.000Z	noodz	Sashi	sudo chown

@@ -1,0 +1,6 @@
+2009-11-23T22:25:00.000Z	aaron11		Heya do you guys know why when I run ettercap to monitor it says to chose an interface? I ran this in backtrack and it works fine! The comand is this:  ettercap -P -q -p -M ARP // //0
+2009-11-23T22:26:00.000Z	aaron11		!ettercap
+2009-11-23T22:26:00.000Z	chea	aaron11	it's asking you howto choose network interface, such as eth0, eth1 etc.
+2009-11-23T22:26:00.000Z	chea		s/how/to
+2009-11-23T22:27:00.000Z	aaron11	chea	If im using wireless should I type -i wlan0
+2009-11-23T22:27:00.000Z	chea	aaron11	ifconfig wlan0 and see if its assigned an ip, if it is, then yes

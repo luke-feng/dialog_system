@@ -1,0 +1,6 @@
+2009-06-21T13:32:00.000Z	pawan		hi
+2009-06-21T13:32:00.000Z	pawan		how to upgrade to 9.04
+2009-06-21T13:32:00.000Z	pawan		i am on 8.04
+2009-06-21T13:34:00.000Z	toomai_CH	pawan	there is no way to upgrade directly from 8.04 to 9.04
+2009-06-21T13:34:00.000Z	toomai_CH	pawan	that direct way is only possible from LTS to LTS (like 6.06 to 8.04)
+2009-06-21T13:34:00.000Z	toomai_CH	pawan	you have to upgrade to 8.10 first or, of course, make a clean new install with 9.04

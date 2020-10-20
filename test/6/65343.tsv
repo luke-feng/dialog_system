@@ -1,0 +1,6 @@
+2009-01-18T02:23:00.000Z	shear		so nobody can tell me the status of the repos? Did a major update come out today or something?
+2009-01-18T02:23:00.000Z	shear		hmm thanks
+2009-01-18T02:24:00.000Z	nickrud	shear	try another mirror; if you're using us.archives they're often slow
+2009-01-18T02:26:00.000Z	shear	nickrud	although i might try a few other mirrors. do you have a list?
+2009-01-18T02:27:00.000Z	nickrud	shear	on the dropdown in software sources, I've found the kernel.org to never be slow
+2009-01-18T02:31:00.000Z	shear	nickrud	awesome, kernel.org is working fine. for some reason all the canadian mirrors i tried were slow.

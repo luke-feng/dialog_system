@@ -1,0 +1,6 @@
+2012-06-16T15:03:00.000Z	missmimic		i want wine to to use oss driver as audio driver option is not given.
+2012-06-16T15:03:00.000Z	missmimic		<--anyone know how i can install oss driver (command on their wiki not working may need help with command to delete a file called noOSS if thats the problem)
+2012-06-16T15:04:00.000Z	Slart	missmimic	not sure if this is 100% reliable info but from reading wine forum posts it seems oss support was removed about a year ago
+2012-06-16T15:08:00.000Z	Slart	missmimic	try asking in #winehq if you don't get answers here
+2012-06-16T15:09:00.000Z	Slart	missmimic	that is the official support channel for wine
+2012-06-16T15:09:00.000Z	Slart	missmimic	you're welcome

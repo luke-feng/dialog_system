@@ -1,0 +1,6 @@
+2007-01-08T12:18:00.000Z	rredd4		using dapper, i am trying to uninstall xmms, it locks up on me.  I can see it in my menu, when i go to synaptic or add/remove, it does not show it installed.  yet it is in my sound & vid menu.  how can i remove it
+2007-01-08T12:18:00.000Z	riotkittie	rredd4	>> in a term "sudo apt-get remove xmms"
+2007-01-08T12:21:00.000Z	rredd4	riotkittie	tried that, didn't work
+2007-01-08T12:25:00.000Z	riotkittie	rredd4	>> if you continue to have issues with xmms, you may want to try beep-media-player instead
+2007-01-08T12:46:00.000Z	riotkittie	rredd4	kill them manually
+2007-10-21T12:12:00.000Z	rredd4	riotkittie	 depends how you installed it

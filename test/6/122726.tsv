@@ -1,0 +1,6 @@
+2007-07-02T15:31:00.000Z	John2		does anyone know a program to capture videos from a video camera, i have an old camera that use tape instead but it can do s-video out, is there a program in ubuntu that can caputer video in that tape and record it to the hardrive?
+2007-07-02T15:32:00.000Z	John2		anyone know?
+2007-07-02T15:33:00.000Z	John2		does anyone know of such program?
+2007-07-02T15:34:00.000Z	John2		does anyone know a program to capture videos from a video camera, i have an old camera that use tape instead but it can do s-video out, is there a program in ubuntu that can caputer video in that tape and record it to the hardrive?
+2007-07-02T15:35:00.000Z	pike_	John2	if you can play it you can use mplayer to capture it
+2007-07-02T15:36:00.000Z	pike_	John2	vlc might also be a solution

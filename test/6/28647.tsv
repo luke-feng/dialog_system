@@ -1,0 +1,6 @@
+2010-06-28T00:01:00.000Z	Espen-_-		I killed my sudoers file...
+2010-06-28T00:01:00.000Z	Espen-_-		Any advice?
+2010-06-28T00:02:00.000Z	Espen-_-		I am
+2010-06-28T00:02:00.000Z	Espen-_-		I get a parse error when I try to sudo now
+2010-06-28T00:02:00.000Z	ikonia	Espen-_-	you'll need to fix your sudo setup from either the livecd, or rescue shell from grub
+2010-06-28T00:03:00.000Z	Espen-_-	ikonia	Thanks, that was what I was afraid of

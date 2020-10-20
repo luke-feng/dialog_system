@@ -1,0 +1,6 @@
+2004-12-10T15:46:00.000Z	davidpc		hey how do you do ubuntu updates? on install it complained there was no network (bad wifi card chipset, fixed since), so is it just like normal debian, apt-get update stuff?
+2004-12-10T15:46:00.000Z	zenpod	davidpc	use synaptic
+2004-12-10T15:46:00.000Z	zenpod	davidpc	then just use smart upgrade
+2004-12-10T15:47:00.000Z	davidpc	zenpod	hm ok
+2004-12-10T15:47:00.000Z	davidpc	zenpod	thanks
+2004-12-10T15:47:00.000Z	zenpod	davidpc	np.

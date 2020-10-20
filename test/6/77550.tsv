@@ -1,0 +1,6 @@
+2008-05-02T21:57:00.000Z	rtm1981		kk... thanks for answers to my previous question :P It worked fine now.. Ok, now for my second stupid question: In console mode I want to be able to use the sudo command, but I get prompted for username and password. I write in my username, but when prompted for the password I am unable to write anything... no matter which keyboard key i hit, nothing comes up o.0 Anyone know what this is about?
+2008-05-02T21:58:00.000Z	bazhang	rtm1981	it just does not show up for security purposes
+2008-05-02T22:51:00.000Z	bazhang	rtm1981	that is not the way t o install things-->use the software repos
+2008-05-02T22:55:00.000Z	bazhang	rtm1981	so yes :)
+2008-05-02T22:57:00.000Z	bazhang	rtm1981	found where?
+2008-05-02T23:01:00.000Z	bazhang	rtm1981	generally it is a good idea to stick to the repos unless you know what are doing with outside stuff

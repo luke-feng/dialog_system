@@ -1,0 +1,6 @@
+2008-05-14T13:37:00.000Z	charlie_		i have a hard drive with a windows partition and an ubuntu partition, but i just got another hard drive so i want to install ubuntu on that and extend my windows partition to take up the whole drive. when i try to delete the windows partition from the like cd it says: Unable to delete /dev/sda5! Please unmount any logical partitions having a number higher than 5
+2008-05-14T13:38:00.000Z	ghindo	charlie_	So you're trying to delete the Windows partition?  Have you tried gparted yet?
+2008-05-14T13:39:00.000Z	charlie_	ghindo	no i want to delete the ubuntu partition and extend windows to the whole hard drive. when i try to delete the ubuntu partition in gparted it says "Unable to delete /dev/sda5! Please unmount any logical partitions having a number higher than 5"
+2008-05-14T13:39:00.000Z	ghindo	charlie_	are you running this off a live CD, or within Ubuntu itself?
+2008-05-14T13:40:00.000Z	charlie_	ghindo	live CD
+2008-05-14T13:40:00.000Z	ghindo	charlie_	Have you tried doing it with the install disk of Windows, like poweressen recommended?

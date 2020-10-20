@@ -1,0 +1,6 @@
+2010-03-05T15:29:00.000Z	Paulo39		hi, i'm using Chromium on Ubuntu karmic and i'm not able to see videos on youtube, but i can do it without any problems on firefox
+2010-03-05T15:31:00.000Z	Paulo39		and i think it's not about flash, because i can see videos on vimeo.com, for example. Actually, i think this starts to happen when i switch to the new theme/look of youtube
+2010-03-05T15:31:00.000Z	HangukMiguk	Paulo39	You mean the HTML5 version?
+2010-03-05T15:32:00.000Z	Paulo39	HangukMiguk	hum.. i dont now, its a new template from youtube website
+2010-03-05T15:33:00.000Z	HangukMiguk	Paulo39	I think the HTML5 player doesn't have support in Linux yet.  I know it doesn't in Firefox yet, but it might not in Chrome yet either.
+2010-03-05T15:37:00.000Z	HangukMiguk	Paulo39	looks like chrome works with HTML5 player.  I'm really not sure...

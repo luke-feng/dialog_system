@@ -1,0 +1,6 @@
+2011-01-29T00:24:00.000Z	mrapple		ok i just did sudo swapoff -a then sudo swapon -a and im getting 'swapon: /mnt/2048Mb.swap: stat failed: No such file or directory'
+2011-01-29T00:24:00.000Z	mrapple		uh oh?
+2011-01-29T00:25:00.000Z	mrapple		FilenameTypeSize Used Priority
+2011-01-29T00:25:00.000Z	mrapple		/dev/sda5                               partition 6001656 0 -1
+2011-01-29T00:26:00.000Z	mrapple		ok ikonia theres a 2048.swap in /mnt, but no 2048mb.swap
+2011-01-29T00:27:00.000Z	rww	mrapple	swap partitions do not have mount points.

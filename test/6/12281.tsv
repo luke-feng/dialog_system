@@ -1,0 +1,6 @@
+2011-02-09T04:16:00.000Z	namto		hello can you tell me how to fix that pb :(   minicom: cannot open /dev/modem: No such file or directory)
+2011-02-09T04:18:00.000Z	namto		can u tell me plz where can i find my bluetooth device in /dev/ derectory  (ttyS0 or tthS1 or what)
+2011-02-09T04:19:00.000Z	jotgroup	namto	you on about bluetooth adapters, or headsets/phones etc?
+2011-02-09T04:20:00.000Z	jotgroup	namto	you mean the adapter?
+2011-02-09T04:24:00.000Z	jotgroup	namto	what is the error message?
+2011-02-09T04:26:00.000Z	jotgroup	namto	ok, this is as far as I can go I have limited exp with bluetooth probably best checking all the settings and such in the adapter and the other device

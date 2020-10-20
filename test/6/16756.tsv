@@ -1,0 +1,6 @@
+2011-09-07T18:58:00.000Z	ack006		+++ Important Message: The current Chromium webbrowser on Natty, version "12.0.742.112 (90304) Ubuntu 11.04", does _not_ reject DigiNotar certificates!! Please please fix this!
+2011-09-07T18:59:00.000Z	oCean	ack006	it will not help posting that here. If you think it is a bug, you launchpad to report
+2011-09-07T18:59:00.000Z	oCean		!bug > ack006
+2011-09-07T19:00:00.000Z	oCean	ack006	you can use PPA as archae suggested, but please be aware that PPA's are unsupported 3rd party repositories
+2011-09-07T19:01:00.000Z	ack006	archae	thanks, just wanted to share this because I think it's very important for people to know, especially those who don't read the bug list.
+2011-09-07T19:01:00.000Z	oCean	ack006	this is not the correct place for that

@@ -1,0 +1,6 @@
+2005-10-03T12:14:00.000Z	Travis|H		ugh so i am trying to figure out all this stuff for myself .. when it comes to CVS ......... CVS is just for obtaining sources right? ... or is there a special method for compiling the sources obtained via CVS?
+2005-10-03T12:15:00.000Z	cevizoglu	Travis|H	cvs is mostly for version control, but yes, you can get unstable source code with it
+2005-10-03T12:15:00.000Z	cevizoglu	Travis|H	and if you get the release date right, you can get stable code with it
+2005-10-03T12:15:00.000Z	Travis|H	cevizoglu	but as far as the source obtained with cvs ... just compile it normal?
+2005-10-03T12:16:00.000Z	cevizoglu	Travis|H	yes
+2005-10-03T13:39:00.000Z	cevizoglu	Travis|H	it's a known issue with mplayer

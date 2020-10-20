@@ -1,0 +1,6 @@
+2012-09-11T10:15:00.000Z	anternat2		hi, i cannot boot into my 12.04 server, i spoiled grub i guess.: http://paste.ubuntu.com/1198055/
+2012-09-11T10:16:00.000Z	anternat2		any suggestions
+2012-09-11T10:17:00.000Z	anternat2		i am on live cd demo now
+2012-09-11T10:17:00.000Z	anternat2		i got my xp back
+2012-09-11T10:19:00.000Z	kunji	anternat2	This will probably do it for you: https://help.ubuntu.com/community/RecoveringUbuntuAfterInstallingWindows
+2012-09-11T10:20:00.000Z	anternat2	kunji	my case was playing with partitions actually

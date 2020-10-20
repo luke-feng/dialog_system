@@ -1,0 +1,6 @@
+2008-04-29T05:59:00.000Z	Onyx		Has anyone else been experiencing issues with sudo segfaulting in Hardy Heron?
+2008-04-29T06:00:00.000Z	Onyx		That's kind of a big deal :\
+2008-04-29T06:00:00.000Z	RyanPrior	Onyx	sudo segfaults no matter what? I haven't heard that one yet.
+2008-04-29T06:00:00.000Z	Onyx	RyanPrior	Yes.  Anything that requires elevated privileges fails.  All I can think of is to reinstall sudo?
+2008-04-29T06:01:00.000Z	RyanPrior	Onyx	sure, give it a try. Sudo works fine for most folks, that's for sure
+2008-04-29T06:02:00.000Z	Onyx	RyanPrior	Heh, yeah, it's kind of important

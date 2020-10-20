@@ -1,0 +1,6 @@
+2007-07-27T08:17:00.000Z	netyire		nope, some files still there
+2007-07-27T08:17:00.000Z	netyire		any ideas?
+2007-07-27T08:18:00.000Z	lietu	netyire	well, two, a) is that the livecd you're running b) have you mounted proc in that directory?
+2007-07-27T08:19:00.000Z	netyire	lietu	nope, not on a livecd now, urm I don't think it may be mounted hmm...
+2007-07-27T08:19:00.000Z	lietu	netyire	well actually, are there any more files in there or just that one?
+2007-07-27T08:20:00.000Z	netyire	lietu	its gone! just restart and chmod -R 777 * and rm -rf * (with sudo of course) :D

@@ -1,0 +1,6 @@
+2006-10-28T14:21:00.000Z	xopher		Is there a way I can disable my system going to suspend by pressing the sleep key of my keyboard? Ive been using it to 'lock screen' before, and I rather liked it that way
+2006-10-28T14:22:00.000Z	chuckyp	xopher	pop the key off did you check in System > preferences > Power management     general tab?
+2006-10-28T14:22:00.000Z	xopher	chuckyp	*checking*
+2006-10-28T14:23:00.000Z	xopher	chuckyp	wasnt that one, and in gnome-keyboard-shortcuts, nothing has changed
+2006-10-28T14:24:00.000Z	chuckyp	xopher	system > preferences > keyboard shortcuts   ???
+2006-10-28T14:24:00.000Z	xopher	chuckyp	yes

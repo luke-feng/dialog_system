@@ -1,0 +1,6 @@
+2008-12-25T23:28:00.000Z	Solarium		hey guys
+2008-12-25T23:29:00.000Z	Solarium		to execute a .run file i just write sudo <path> <filename>.run ?
+2008-12-25T23:29:00.000Z	Solarium		Hey guys
+2008-12-25T23:30:00.000Z	Solarium		to execute a .run file i just open the terminal and do: sudo <Path><filename>.run ?
+2008-12-25T23:30:00.000Z	ichbinesderelch	Solarium	chmod +x file.run and than sudo ./file.run
+2008-12-25T23:30:00.000Z	Solarium	ichbinesderelch	thanks man

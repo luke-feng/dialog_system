@@ -1,0 +1,6 @@
+2008-01-04T08:10:00.000Z	pdaoust		so... does anybody know if it's safe to terminate an fsck? I'm currently in pass 1D...
+2008-01-04T08:11:00.000Z	Smegzor	pdaoust	I'm no expert but I have interrupted my pc doing that several times and I'm still here.
+2008-01-04T08:11:00.000Z	pdaoust	Smegzor	Ahhh, but is your data still here too?
+2008-01-04T08:12:00.000Z	pdaoust	Smegzor	hmmm...
+2008-01-04T08:13:00.000Z	pdaoust	Smegzor	y'see, I think I hosed my partition by starting fsck when it was mounted, and then it screwed up the superblock, and the root inode was not a directory, and so on and so forth... It's going on about thirty hours now, and I don't like sitting there and pressing 'y' every time it wants me to 'clone multiply-claimed blocks' or whatever. So I want to restart it with the -y option
+2008-01-04T08:15:00.000Z	pdaoust	Smegzor	that's easy enough, with the -y flag. e2fsck's default behaviour (i.e., if you said yes to everything) seems to be pretty sane.

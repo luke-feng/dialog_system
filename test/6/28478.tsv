@@ -1,0 +1,6 @@
+2009-11-05T18:33:00.000Z	azche		hi guys.. im having some troubles with network-manager in 9.10. The problem is that i create vpn connections but when i try to connect there`s no log in var/log/messages so i dont know whats happening.. any ideas?
+2009-11-05T18:35:00.000Z	stimpie	azche	I cant even create vpn connections
+2009-11-05T18:36:00.000Z	azche	stimpie	maybe you dont have the pkgs.. network-manager-openvpn or network-manager-pptp
+2009-11-05T18:38:00.000Z	stimpie	azche	aha now I can ;-)
+2009-11-05T18:40:00.000Z	azche	stimpie	where its suposse to log the vpn events? I tail -f /var/logs/messages, then connect (form network-manager) but nothing happen
+2009-11-05T18:46:00.000Z	stimpie	azche	I can see some entries in /var/log/syslog

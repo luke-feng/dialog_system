@@ -1,0 +1,6 @@
+2006-04-18T10:21:00.000Z	mmmiiikkkeee		i did : udo apt-get remove xorg-driver-fglrx
+2006-04-18T10:22:00.000Z	mmmiiikkkeee		and it said: Reading database ... 85573 files and directories currently installed.)
+2006-04-18T10:22:00.000Z	mmmiiikkkeee		Removing xorg-driver-fglrx ...
+2006-04-18T10:22:00.000Z	mmmiiikkkeee		rmdir: `/usr/X11R6/lib/fglrx': Directory not empty
+2006-04-18T10:23:00.000Z	dabaR	mmmiiikkkeee	we don't paste here, and please use enter sparingly, so we can all read each others text on the same page, and so we can read it easier.
+2006-04-18T10:53:00.000Z	dabaR	mmmiiikkkeee	ya, that does make it hard to understand webboard

@@ -1,0 +1,6 @@
+2010-10-09T00:52:00.000Z	sms_		My HDD has a 100mb bootable NTFS partition and the rest ~320gb it is a normal NTFS partition. Can I combine the two partitions without losing data from the big partition?
+2010-10-09T00:53:00.000Z	theabyssdragon	sms_	the 100mb partition is probably the boot partition used by windows 7
+2010-10-09T00:55:00.000Z	sms_	theabyssdragon	yeah it has a win7 loader on it, but I don't need it.
+2010-10-09T00:57:00.000Z	theabyssdragon	sms_	I take it windows is no longer installed? if that's the case, you could delete the 100mb partition and then expand the 320gb partition without losing anything on the 320gb partition, however everything on the 100mb parition will be lost
+2010-10-09T00:57:00.000Z	theabyssdragon	sms_	just make sure NOT to do that the other way around (eg. delete the 320gb and expand the 100mb)
+2010-10-09T01:00:00.000Z	sms_	theabyssdragon	yep Win7 isn't installed anymore. Thanks

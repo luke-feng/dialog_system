@@ -1,0 +1,6 @@
+2007-05-27T13:24:00.000Z	Clarrisa_2008		where is a howto from switching between CLI and XFCE GDM?
+2007-05-27T13:24:00.000Z	Clarrisa_2008		I have an old box and don't need the GUI running all of the time
+2007-05-27T13:25:00.000Z	Clarrisa_2008		where is a howto from switching between CLI and XFCE GDM?  I have an old box and don't need the GUI running all of the time
+2007-05-27T13:26:00.000Z	_nix_	Clarrisa_2008	Press Ctrl-Alt-F1 to switch to an unused cli
+2007-05-27T13:27:00.000Z	_nix_	Clarrisa_2008	the following command removes GDM from startup: sudo for i in 2 3 4 5; do mv S99gdm K99gdm; done;
+2007-05-27T13:27:00.000Z	_nix_	Clarrisa_2008	you can start gdm by issuing: sudo /etc/init.d/gdm start

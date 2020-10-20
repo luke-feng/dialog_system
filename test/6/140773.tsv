@@ -1,0 +1,6 @@
+2005-11-20T16:22:00.000Z	darkheart		What's the command to show the bus IDs of the devices on your system?
+2005-11-20T16:22:00.000Z	delire_	darkheart	lspci
+2005-11-20T16:22:00.000Z	darkheart	delire_	Thanks.
+2005-11-20T16:23:00.000Z	delire_	darkheart	or, if brave, try changing /etc/X11/xorg.conf to read 'vesa' in the driver section for you video card.
+2005-11-20T16:23:00.000Z	delire_	darkheart	sorry intended for 'darksoul'
+2005-11-20T16:25:00.000Z	darkheart	delire_	Np.

@@ -1,0 +1,6 @@
+2007-10-30T00:48:00.000Z	chiefinnovator		I made a daemon and now I want to figure out how to get it to be started when the server starts
+2007-10-30T00:49:00.000Z	mynyml	chiefinnovator	check out initscripts
+2007-10-30T00:50:00.000Z	chiefinnovator	mynyml	I'm still confused
+2007-10-30T00:51:00.000Z	chiefinnovator		where is update-rc.d?
+2007-10-30T00:53:00.000Z	chiefinnovator		np, nickrud
+2007-10-30T00:53:00.000Z	mynyml	chiefinnovator	https://help.ubuntu.com/community/UbuntuBootupHowto

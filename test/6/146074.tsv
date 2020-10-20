@@ -1,0 +1,6 @@
+2005-07-12T16:47:00.000Z	aleksi		how do I chech wich ssh user have loggen in?
+2005-07-12T16:48:00.000Z	tiglionabbit	aleksi	users
+2005-07-12T16:48:00.000Z	tiglionabbit	aleksi	for more info, use w
+2005-07-12T16:49:00.000Z	tiglionabbit	aleksi	got all of those?  users who w last.  To see what they're doing, ps -u theirname
+2005-07-12T16:50:00.000Z	tiglionabbit	aleksi	those commands help?
+2005-07-12T16:51:00.000Z	aleksi	tiglionabbit	thanks

@@ -1,0 +1,6 @@
+2005-08-09T08:18:00.000Z	ice04		Hi all total newbie here
+2005-08-09T08:18:00.000Z	ice04		i want access my ubuntu box remotely how do i enable port 22 for ssh
+2005-08-09T08:19:00.000Z	dbernar1	ice04	did you install the ssh server?
+2005-08-09T08:20:00.000Z	dbernar1	ice04	in every connection to a remote computer, there is a server()the one you connect to) and a c lient(one you connect from).
+2005-08-09T08:22:00.000Z	dbernar1	ice04	get what you need to do, if you follow me?
+2005-08-09T08:24:00.000Z	dbernar1	ice04	do you know what to do now?

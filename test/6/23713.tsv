@@ -1,0 +1,6 @@
+2010-03-09T08:35:00.000Z	hexdump		Hi I'm looking for a shell script that periodically checks active connections.  Unless there is a way I can repeat netstat -ntaup on a loop?
+2010-03-09T08:36:00.000Z	hexdump		or code I can compile to do so?
+2010-03-09T08:38:00.000Z	Losha	hexdump	should be a one-liner. Something like: while true; do netstat -ntaup; sleep 1;  done
+2010-03-09T08:39:00.000Z	hexdump	Losha	 This won't stuff the mem with programs that aren't killed off will it?
+2010-03-09T08:40:00.000Z	Losha	hexdump	no, it runs one instance of netstat till it exits. then it sleeps, then repeats...
+2010-03-09T08:41:00.000Z	hexdump	Losha	 nice thank you

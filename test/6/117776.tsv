@@ -1,0 +1,6 @@
+2006-08-22T14:40:00.000Z	orbish		what's the best way to see if i have a sound driver built into my kernel?
+2006-08-22T14:41:00.000Z	fyrestrtr	orbish	play some music.
+2006-08-22T14:41:00.000Z	fyrestrtr	orbish	if you hear something, its working.
+2006-08-22T14:41:00.000Z	orbish	fyrestrtr	no sound, that's why i'm going through this trouble
+2006-08-22T14:41:00.000Z	fyrestrtr	orbish	depends what kind of sound card you have.
+2006-08-22T14:45:00.000Z	fyrestrtr	orbish	I don't know anything about optical out, but general sound card problems can be diagnosed easily. Find out what modules are running with lsmod

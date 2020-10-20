@@ -1,0 +1,6 @@
+2005-07-26T14:54:00.000Z	Flying-Penguin		what is the xmms plugin that lets you play .mp3s and wmas???
+2005-07-26T14:54:00.000Z	volvoguy	Flying-Penguin	you probably want libmad
+2005-07-26T14:56:00.000Z	Flying-Penguin	volvoguy	yes I think thats what I was looking for
+2005-07-26T15:03:00.000Z	volvoguy	Flying-Penguin	glad I could help. :)
+2005-07-26T15:06:00.000Z	Flying-Penguin	volvoguy	that didn't make wma work :(
+2005-07-26T15:11:00.000Z	volvoguy	Flying-Penguin	for wma i think you need the w32codecs package. i don't use it so i'm not sure if it's in multiverse or some external repository like marillat.

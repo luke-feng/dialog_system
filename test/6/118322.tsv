@@ -1,0 +1,6 @@
+2010-03-07T15:14:00.000Z	Razvan1310		hello
+2010-03-07T15:15:00.000Z	Razvan1310		need some help here
+2010-03-07T15:15:00.000Z	ikonia	Razvan1310	you need to ask a question then
+2010-03-07T15:15:00.000Z	ikonia	Razvan1310	you can't
+2010-03-07T15:15:00.000Z	ikonia	Razvan1310	the windows boot loader cannot boot linux
+2010-03-07T15:17:00.000Z	ikonia	Razvan1310	grub is installed to the master boot record of your disk, you use that to boot

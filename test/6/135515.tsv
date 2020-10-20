@@ -1,0 +1,6 @@
+2005-11-07T13:53:00.000Z	arcanistherogue		hey how do you mount a floppy disc that is from windows 95?
+2005-11-07T13:53:00.000Z	arcanistherogue		my friend gave me a floppy with some C++ code and i can't mount it
+2005-11-07T13:54:00.000Z	soundray	arcanistherogue	install mtools
+2005-11-07T13:54:00.000Z	arcanistherogue		k
+2005-11-07T13:54:00.000Z	arcanistherogue	soundray	oh wow this seems to be just what im looking for, thanks.
+2005-11-07T13:54:00.000Z	soundray	arcanistherogue	otherwise try "sudo mount -t vfat /dev/fd0 /mnt"

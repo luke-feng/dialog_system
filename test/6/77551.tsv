@@ -1,0 +1,6 @@
+2008-04-28T21:04:00.000Z	saito		I installed ndiswrapper and seems to work fine but it's not registering in modprobe <-- any idea's?
+2008-04-28T21:05:00.000Z	saito		modprobe ssb doesn't show anything
+2008-04-28T21:05:00.000Z	saito		unless you mean something else (i'm a linux n00bie :r)
+2008-04-28T21:06:00.000Z	saito		mmm
+2008-04-28T21:06:00.000Z	saito		apparently i don't have greb (what ever that might be :P)
+2008-04-28T21:07:00.000Z	bazhang	saito	grep not greb

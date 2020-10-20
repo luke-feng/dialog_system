@@ -1,0 +1,6 @@
+2006-06-02T16:03:00.000Z	majd		hi, i installed the sun-java5-bin package, yet when i go to the terminal and type java -version i get: bash: java: command not found
+2006-06-02T16:03:00.000Z	majd		why's that?
+2006-06-02T16:03:00.000Z	crimsun	majd	follow the update-alternatives faq for it
+2006-06-02T16:05:00.000Z	majd	crimsun	hmm, this is what i get:
+2006-06-02T16:05:00.000Z	crimsun	majd	no, look on the wiki for update-alternatives and java
+2006-06-02T16:10:00.000Z	majd	crimsun	ok got it to work, thank you :)

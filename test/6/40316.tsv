@@ -1,0 +1,6 @@
+2009-12-29T05:36:00.000Z	ShaunR		ok, i'm a retard... networking was starting... it's the ssh server thats not starting.
+2009-12-29T05:36:00.000Z	ShaunR		so how do i configure the ssh server to start on boot?
+2009-12-29T05:37:00.000Z	iceroot	ShaunR	just install it
+2009-12-29T05:37:00.000Z	iceroot	ShaunR	then its running
+2009-12-30T00:13:00.000Z	iceroot	ShaunR	server cmes without a gui and a special kernel
+2009-12-30T00:13:00.000Z	iceroot	ShaunR	and server-edition is using pae as default (imo)

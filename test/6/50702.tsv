@@ -1,0 +1,6 @@
+2009-12-12T06:28:00.000Z	Fireking300		Hello
+2009-12-12T06:29:00.000Z	Fireking300		May someone help me partition my harddrive. I seem to keep messing up.
+2009-12-12T06:30:00.000Z	DasEi1	Fireking300	open a trml ...
+2009-12-12T06:30:00.000Z	DasEi1	Fireking300	sudo apt-get install pastebinit
+2009-12-12T06:30:00.000Z	DasEi1	Fireking300	partis mussn't be mounted
+2009-12-12T06:31:00.000Z	DasEi1	Fireking300	sudo fdisk -l | paaaaaaaaaaaastebinit

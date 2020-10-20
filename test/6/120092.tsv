@@ -1,0 +1,6 @@
+2006-04-23T14:16:00.000Z	cyphase		how do you use wget to download file.ext to file2.ext?
+2006-04-23T14:16:00.000Z	cyphase		oops
+2006-04-23T14:16:00.000Z	cyphase		misworded
+2006-04-23T14:16:00.000Z	cyphase		how do you use wget to save file.ext as file2.ext
+2006-04-23T14:17:00.000Z	RealMurphy	cyphase	? --output-document=file perhaps?
+2006-04-23T14:17:00.000Z	cyphase	RealMurphy	thanx

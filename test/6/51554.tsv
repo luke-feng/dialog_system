@@ -1,0 +1,6 @@
+2011-05-23T16:17:00.000Z	trick		using grep: how do i search for the presense of a particular string in a bunch of files (recursing into sub directories) and get a listing of which files (and which line in each file) matches that string
+2011-05-23T16:19:00.000Z	trick		anyone???
+2011-05-23T16:20:00.000Z	rob_p	trick	use grep -r
+2011-05-23T16:21:00.000Z	trick	rob_p	ok, but i want it to list file names and the text matched and the line number
+2011-05-23T16:21:00.000Z	rob_p	trick	It should return file names but probably not line numbers.
+2011-05-23T16:23:00.000Z	rob_p	trick	You could include -n for line numbers but I don't know if it's predictably accurate.  Worth a shot...

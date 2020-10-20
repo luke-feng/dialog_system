@@ -1,0 +1,6 @@
+2011-01-19T17:16:00.000Z	Kartagis		track 1: could not find tag, codec not currently supported in container <--- what does this mean?
+2011-01-19T17:16:00.000Z	q_a_z_steve	Kartagis	what program, what OS?
+2011-01-19T17:17:00.000Z	Kartagis	q_a_z_steve	mencoder, ubuntu 10.10
+2011-01-19T17:17:00.000Z	q_a_z_steve	Kartagis	when you installed did you have the mp3 stuff downloaded? or is this liveCD?
+2011-01-19T17:18:00.000Z	q_a_z_steve		!info netbeans > greenIT
+2011-01-19T17:18:00.000Z	Kartagis	q_a_z_steve	this is real installation, not liveCD. I have no problems with format=mp4, just format=ipod

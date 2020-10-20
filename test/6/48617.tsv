@@ -1,0 +1,6 @@
+2008-11-12T10:24:00.000Z	Tyrath		ok, now I was wondering if there was a pdf reader that worked in shell
+2008-11-12T10:24:00.000Z	Tyrath		fbgs doesn't work for me
+2008-11-12T10:24:00.000Z	Tyrath		- it stuffs up
+2008-11-12T10:26:00.000Z	Tyrath		would anyone know how I could uninstall a program I've installed into /usr/local ?
+2008-11-12T10:26:00.000Z	Hikefu	Tyrath	what/how did you install it?
+2008-11-12T10:27:00.000Z	Tyrath	Hikefu	make install

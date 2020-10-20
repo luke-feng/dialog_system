@@ -1,0 +1,6 @@
+2005-07-22T15:27:00.000Z	lcharly_TheOne		i have problems with my laptop is "Compaq presario V2312 Amd turion 64 ATI radeon xpress 200m 128mb"
+2005-07-22T15:27:00.000Z	lcharly_TheOne		when i install the ubuntu for amd 64 the computer is too slow
+2005-07-22T15:28:00.000Z	lcharly_TheOne		always the proccesor is in 52% in use
+2005-07-22T15:28:00.000Z	lcharly_TheOne		some body know waht can i do??
+2005-07-22T15:28:00.000Z	Jimbob	lcharly_TheOne	If you run "top", what program is using the most CPU?
+2005-07-22T15:29:00.000Z	Jimbob	lcharly_TheOne	Well, we're not psychic :-)

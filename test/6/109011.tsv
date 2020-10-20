@@ -1,0 +1,6 @@
+2006-08-14T06:28:00.000Z	orasis1		How do I install GNOME from Xubuntu?
+2006-08-14T06:28:00.000Z	orasis1		apt-get install gnome?
+2006-08-14T06:29:00.000Z	rsk	orasis1	no
+2006-08-14T06:29:00.000Z	rsk	orasis1	apt-get install ubuntu-desktop
+2006-08-14T06:29:00.000Z	orasis1	rsk	hrmm will that destroy my XFCE?
+2006-08-14T06:30:00.000Z	rsk	orasis1	you can have how much window managers and desktops you wont

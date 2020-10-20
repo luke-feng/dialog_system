@@ -1,0 +1,6 @@
+2006-04-12T08:00:00.000Z	rappo		I'm trying to setup ubuntu on my powerbook... It detects my wireless card, but when I go to connect to the network it fails... I supply the SSID and all forms of encryption/protection are turned off (completely open wifi)... but it fails to connect... Any suggestions?
+2006-04-12T08:01:00.000Z	rappo		they should have a speed test
+2006-04-12T08:03:00.000Z	pike	rappo	maybe try boosting transmit power but its probably something simpler
+2006-04-12T08:04:00.000Z	pike	rappo	prob not it then :)
+2006-04-12T08:04:00.000Z	pike	rappo	are there any other open networks you can try?
+2006-04-12T08:08:00.000Z	pike	rappo	channel right ssid case is correct?

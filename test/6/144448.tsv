@@ -1,0 +1,6 @@
+2005-07-15T09:57:00.000Z	valtaric		hey i'm new to the whole linux/ubuntu thing and i was wondering if anyone could help me out with a problem i am having..
+2005-07-15T09:57:00.000Z	valtaric		ok i'm trying to figure out how to install programs once i d/l them but i can't get it to work..
+2005-07-15T09:59:00.000Z	valtaric		can anyone give me a walkthrough on how to install a .rpm file?
+2005-07-15T10:00:00.000Z	valtaric		on well i d/l a wineX program that is a .rpm and i was wondering how to install it.
+2005-07-15T10:01:00.000Z	valtaric		yup.
+2005-07-15T10:02:00.000Z	GigaClon	valtaric	rpm is alien -d /path/to/rpm

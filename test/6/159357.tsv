@@ -1,0 +1,6 @@
+2008-11-09T14:02:00.000Z	elTigre		I'd like to open an application running with a different user
+2008-11-09T14:02:00.000Z	elTigre		like su otheruser && firefox
+2008-11-09T14:02:00.000Z	elTigre		but the apps can't open display
+2008-11-09T14:02:00.000Z	elTigre		how can I change that?
+2008-11-09T14:03:00.000Z	dr_willis	elTigre	 I belive one can do that with the proper arguments to sudo.
+2008-11-09T14:06:00.000Z	dr_willis	elTigre	 its possible the user might need to do xhost +localhost first.. that could be considerd a BIG security issue

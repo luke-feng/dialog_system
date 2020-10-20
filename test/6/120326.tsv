@@ -1,0 +1,6 @@
+2006-06-22T14:20:00.000Z	xophEr		mm, any ideas how I can convert ogg to mp3?
+2006-06-22T14:20:00.000Z	Warbo	xophEr	"sudo apt-get install soundconverter" ?
+2006-06-22T14:20:00.000Z	xophEr	Warbo	thank you
+2006-06-22T14:21:00.000Z	Warbo	xophEr	There is MP3 support in that, but it doesn;t work for me (the button is ghosted out)
+2006-06-22T14:22:00.000Z	xophEr	Warbo	you probably dont have the right gstreamer plugins installed..
+2006-06-22T14:23:00.000Z	Warbo	xophEr	Ah, that may be why I have no MP3 support (I only have packages installed to satisfy gnomebaker and thoggen)

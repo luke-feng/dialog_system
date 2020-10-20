@@ -1,0 +1,6 @@
+2012-09-25T06:48:00.000Z	MadEchidna		hi, can someone explain to me what the "legacy" AMD driver is and where I get it?
+2012-09-25T06:49:00.000Z	MadEchidna		been googling and googling and all I see is vague references to it
+2012-09-25T06:49:00.000Z	jagginess	MadEchidna	legacy means for old hardware that arent supported anymore by amd..
+2012-09-25T06:49:00.000Z	jagginess	MadEchidna	then check amd's README
+2012-09-25T06:50:00.000Z	jagginess	MadEchidna	well it does..
+2012-09-25T06:53:00.000Z	jagginess	MadEchidna	embedded linux. You've got to be kidding me. Do you know what embedded linux is?

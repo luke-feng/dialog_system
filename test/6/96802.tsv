@@ -1,0 +1,6 @@
+2009-03-21T16:52:00.000Z	AgainstTheFlow		Hey everyone. I have a question about ubuntu
+2009-03-21T16:53:00.000Z	AgainstTheFlow		I want to get rid of my windows partition and make the drive all linux. How do I do that?
+2009-03-21T16:54:00.000Z	AgainstTheFlow		Do I have to reinstall the linux part to do this?
+2009-03-21T16:54:00.000Z	willytell_	AgainstTheFlow	are you in process to install ubuntu or it is already installed?
+2009-03-21T16:56:00.000Z	willytell_	AgainstTheFlow	gparted is available from Ubuntu's repositories
+2009-03-21T17:00:00.000Z	willytell_	AgainstTheFlow	if you wish preserve the partitions, then you could just format each partition.

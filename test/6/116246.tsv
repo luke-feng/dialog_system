@@ -1,0 +1,6 @@
+2008-03-03T03:56:00.000Z	Devianity		Hi everyone, anybody can help a poor little newbie?
+2008-03-03T03:58:00.000Z	Devianity		Can anybody help me with something?
+2008-03-03T03:58:00.000Z	Pelo	Devianity	just ask the question , if anyone can they will try
+2008-03-03T04:04:00.000Z	Pelo	Devianity	boot the recovery mode,   sudo dpkg-reconfigure xserver-xorg ,  select the vesa driver when asked and the default for everything else unless you know better,  that will get you the gui back
+2008-03-03T04:05:00.000Z	Pelo	Devianity	is this ubuntu ? or someting else ?
+2008-03-03T04:05:00.000Z	Pelo	Devianity	I don'T allow private msg, please talk to me in the channel

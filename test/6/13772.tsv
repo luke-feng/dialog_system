@@ -1,0 +1,6 @@
+2011-03-13T11:57:00.000Z	fisch246		is wubi safe to use?
+2011-03-13T11:58:00.000Z	fisch246		btw... i'm talking about running Wubi on XP
+2011-03-13T11:58:00.000Z	Dr_Willis	fisch246	 if you have no other choice you can use wubi. but i dont reccomend it.  also it depends on what you mean by 'safe'
+2011-03-13T11:59:00.000Z	Dr_Willis	fisch246	 you could alwyas use virtualbox if you want to experiment with Ubuntu.
+2011-03-13T12:00:00.000Z	fisch246	Dr_Willis	i have Ubuntu on several of my machines, but one of the machines has windows xp on it. i know how to fix the bootloader and problems like that if they occur, but i'm wondering if files and such will be lost
+2011-03-13T12:01:00.000Z	Dr_Willis	fisch246	 wubi installs  the user data and stuff in a disk file. You can always mount that file from a live cd to recover stuff from it - worse case. :)

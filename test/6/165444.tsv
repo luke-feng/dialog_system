@@ -1,0 +1,6 @@
+2008-07-23T10:33:00.000Z	dragon		laptop sata drivers are like $60
+2008-07-23T10:33:00.000Z	maco	dragon	depends on the size
+2008-07-23T10:37:00.000Z	maco	dragon	what's wrong with your style sheet?
+2009-08-26T00:50:00.000Z	maco	dragon	dpkg -S <package>
+2009-08-26T00:50:00.000Z	maco	dragon	dajhorn's answer is better
+2009-11-30T12:08:00.000Z	maco	dragon	you can install them with "sudo apt-get install" but you need to know which driver you want first

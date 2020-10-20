@@ -1,0 +1,6 @@
+2009-01-21T00:17:00.000Z	Donfuria		how coincidental, I'm getting the same error as cumulus007
+2009-01-21T00:19:00.000Z	jrib	Donfuria	what is your current kernel?
+2009-01-21T00:20:00.000Z	Donfuria	jrib	it's not
+2009-01-21T00:23:00.000Z	jrib	Donfuria	where is that other kernel from?  Was that in feisty?
+2009-01-21T00:23:00.000Z	jrib	Donfuria	right
+2009-01-21T00:24:00.000Z	jrib	Donfuria	you can use --force-remove-reinstreq with dpkg to remove the other kernel package.  Or find the deb for it somewhere and reinstall it first then remove it

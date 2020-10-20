@@ -1,0 +1,6 @@
+2010-03-01T15:23:00.000Z	hatten_		hey, when I execute 'crontab -e' it says '/var/spool/cron' is not a directory, bailing out.
+2010-03-01T15:25:00.000Z	hatten_		hey, when I execute 'crontab -e' it says '/var/spool/cron' is not a directory, bailing out. But as root I can see that the directory is there.
+2010-03-01T15:26:00.000Z	mjrosenb	hatten_	do you have read access to the directory and its parent?
+2010-03-01T15:27:00.000Z	hatten_	mjrosenb	nopes, not as user
+2010-03-01T15:27:00.000Z	hatten_	mjrosenb	how should i chmod it
+2010-03-01T15:27:00.000Z	hatten_	mjrosenb	right now it's drwxr-xr-x and owned by root

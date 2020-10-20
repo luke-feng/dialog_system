@@ -1,0 +1,6 @@
+2009-06-16T07:43:00.000Z	ajavid	Sephiroth	afaik, error 17 is easy to fix
+2009-06-16T07:44:00.000Z	Sephiroth	ajavid	I've been trying to fix this for the past couple days.
+2009-06-16T07:44:00.000Z	ajavid	Sephiroth	is your / ext4?
+2009-06-16T07:45:00.000Z	Sephiroth	ajavid	Ok, I know what it means, but what I don't know is why Grub can't read from an ext3 partition?!?! I had 8.04 LTS on here on ext3 and it worked just fine.
+2009-06-16T07:45:00.000Z	ajavid	Sephiroth	coudl be a device map isse in grub
+2009-06-16T07:46:00.000Z	ajavid	Sephiroth	google for common causes of grub error 17

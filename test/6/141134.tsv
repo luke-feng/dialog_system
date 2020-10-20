@@ -1,0 +1,6 @@
+2005-09-15T06:53:00.000Z	Casanova		can someone help me with configuring alsa in ubuntu 5.04? it runs fine in sudo but not running as ordinary user
+2005-09-15T06:55:00.000Z	Casanova		anyone?
+2005-09-15T06:56:00.000Z	alien8	Casanova	chmod 777 /dev/dsp?
+2005-09-15T06:56:00.000Z	Casanova	alien8	wow it worked cool thanx a lot
+2005-09-15T06:57:00.000Z	Casanova	alien8	do i have to do this on everyboot or this works for all bootups?
+2005-09-15T06:57:00.000Z	Casanova	alien8	:-)

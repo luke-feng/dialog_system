@@ -1,0 +1,6 @@
+2008-04-24T06:34:00.000Z	arkaniad		anyone here not know how to compile source?
+2008-04-24T06:35:00.000Z	arkaniad		croden: why downgrade?
+2008-04-24T06:35:00.000Z	arvind_khadri	arkaniad	yeah but try to get a .deb
+2008-04-24T06:35:00.000Z	arkaniad	arvind_khadri	or instead of make install use checkinstall -d
+2008-04-24T06:35:00.000Z	arkaniad		hmm
+2008-04-24T06:36:00.000Z	arvind_khadri	arkaniad	thats make check and then make install

@@ -1,0 +1,6 @@
+2006-10-03T08:01:00.000Z	navaburo		<Q> What happened to build-essential in Dapper?
+2006-10-03T08:02:00.000Z	navaburo		dpkg -i <fiilename> will install it
+2006-10-03T08:03:00.000Z	navaburo		How do I get GCC on Dapper?
+2006-10-03T08:03:00.000Z	navaburo		the forums say apt-get install build-essential, but that doesnt work
+2006-10-03T08:03:00.000Z	ladydoor	navaburo	did you use sudo?
+2006-10-03T08:03:00.000Z	navaburo	ladydoor	you bet

@@ -1,0 +1,6 @@
+2006-10-10T05:20:00.000Z	alscorpion		Hi guys ... any webserver pro ??
+2006-10-10T05:20:00.000Z	cafuego	alscorpion	Lots, but unless you ask your question, they can't help.
+2006-10-10T05:21:00.000Z	alscorpion	cafuego	Its not a big deal ... I have a problem with LAMP server
+2006-10-10T05:23:00.000Z	cafuego	alscorpion	cd /var/www/; echo "<?php phpinfo(); ?>" > test.php; chmod 644 test.php; http://localhost:test.php
+2006-10-10T05:27:00.000Z	alscorpion	cafuego	my problem is : when i try to open my server "php file" i get a downloading pop up.
+2006-10-10T05:28:00.000Z	alscorpion	cafuego	and after checking my apache2 config ... and everything is cool .. i try to restart it ... but i get this msg (98)Address already in use: make_sock: could not bind to address [::] :80

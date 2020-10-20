@@ -1,0 +1,6 @@
+2009-09-26T08:15:00.000Z	ExElNeT		heya. whats the meaning of the number and letter in the runlevel symlinks? e.g S20 ?
+2009-09-26T08:16:00.000Z	lluad	ExElNeT	 S means it'll be started, K means it'll be stopped. The numbers make sure the scripts are run in the right order.
+2009-09-26T08:17:00.000Z	ExElNeT	lluad	so S99 means last and K99 first?
+2009-09-26T08:17:00.000Z	ExElNeT	lluad	in order...
+2009-09-26T08:18:00.000Z	lluad		Something like that, yes, ExElNeT. It's been a while since I've had to mess with it by hand. :)
+2009-09-26T08:21:00.000Z	ExElNeT	lluad	bullgard4 thanks... but i have still a problem... i cant start an init script just fine, but if wanna start it automatically on startup it fails... is there any log which would help me finding out why the script fails on bootup?

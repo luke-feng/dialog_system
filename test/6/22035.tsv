@@ -1,0 +1,6 @@
+2010-04-20T00:53:00.000Z	Stalafin		friend of mine who is on ubuntu tries to figure out how to turn off the blinking cursor in his terminal;
+2010-04-20T00:53:00.000Z	Stalafin		how would you do that?
+2010-04-20T00:55:00.000Z	Pici	Stalafin	Take a look at the manpage for setterm, I think what you want is in there.
+2010-04-20T00:55:00.000Z	Stalafin	Pici	likely; however, where is the info saved?
+2010-04-20T00:56:00.000Z	Stalafin	Pici	i guess setterm -blank off; where can i make that permanent though? i guess bashrc, but for example in my distri the default seems to be off anyhow
+2010-04-20T00:57:00.000Z	Pici	Stalafin	I'm not sure where it would be saved, if at all.  I'd stick it in your shell's rc file.

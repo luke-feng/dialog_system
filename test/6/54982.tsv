@@ -1,0 +1,6 @@
+2008-08-08T04:43:00.000Z	JD13		Hello. I'm in need of some help with running Ubuntu off of the CD. I tested it and it worked fine on my computer but then tried on my friends computer. It takes forever to start up and then we get a message that says "There was an error starting the GNOME Settings Daemon". This is on a lower end computer and we didn't have the DSL box hooked up. Any help would be appreciated, thanks. (Also I...
+2008-08-08T04:43:00.000Z	JD13		...don't know very much about Ubuntu)
+2008-08-08T04:44:00.000Z	KenBW2	JD13	How much lower end?
+2008-08-08T04:45:00.000Z	KenBW2	JD13	you need at minimum 256MB for LiveCD
+2008-08-08T04:45:00.000Z	KenBW2	JD13	have you tried the alternate install?
+2008-08-08T04:46:00.000Z	KenBW2	JD13	not with that little RAM no

@@ -1,0 +1,6 @@
+2008-09-20T00:22:00.000Z	gwash	Seveas	thanks
+2008-09-20T00:20:00.000Z	Seveas	gwash	now what if man can't find the manpage of find. Would one use find to tell man where to find the manpage for find? :)
+2008-09-20T00:21:00.000Z	gwash	Seveas	you lost me there
+2008-09-20T00:21:00.000Z	Seveas	gwash	heh, excellent response :)
+2008-09-20T00:25:00.000Z	Seveas	gwash	sudo doesn't help if the kernel doesn't like you
+2008-09-20T00:25:00.000Z	Seveas	gwash	badfish: .gvfs is the fuse mount for gvfs. only the user who owns it can search there

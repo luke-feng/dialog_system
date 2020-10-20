@@ -1,0 +1,6 @@
+2012-08-06T21:01:00.000Z	branchman2		hello, wtf is going on with Ubuntu 12.04? Installing ia32-libs-multiarch requires bluez (!), esound (!!), gtk2-engines (!!!) and also libqt4-.. (!!!!) ! I don't want it, and I don't need it - why there is such dependency?
+2012-08-06T21:02:00.000Z	m1chael	branchman2	why do you need ia32?
+2012-08-06T21:03:00.000Z	branchman2	m1chael	to run proprietary shitty server app
+2012-08-06T21:03:00.000Z	m1chael	branchman2	ia32-libs not enough?
+2012-08-06T21:04:00.000Z	branchman2	m1chael	ia32-libs = ia32-libs-multiarch in 12.04
+2012-08-06T21:05:00.000Z	m1chael	branchman2	good to know,  hhhm now i see what you ment

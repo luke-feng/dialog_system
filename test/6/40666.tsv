@@ -1,0 +1,6 @@
+2009-09-29T22:35:00.000Z	crankharder		how do the files in /etc/cron.daily work? specifically I see /etc/cron.daily/apt which has some comments about enabling automatic unattended upgrades, but the comments dont say how to enable that
+2009-09-29T22:35:00.000Z	Blinny	crankharder	Anything chmod'd to run will run, unless there's a config file it references.
+2009-09-29T22:36:00.000Z	Blinny	crankharder	/etc/cron.* will be run according to schedule in /etc/crontab
+2009-09-29T22:37:00.000Z	crankharder	Blinny	yea, but what does "This file understands the following apt configuration variables" -- where are those variables set?
+2009-09-29T22:40:00.000Z	Blinny	crankharder	I haven't manually edited that file. Can you simply use the interval in System->Administration->Software Sources --> Updates  ?
+2009-09-29T22:41:00.000Z	crankharder	Blinny	dunno, ssh'd in right now, will have to check later -- thanx

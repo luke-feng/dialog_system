@@ -1,0 +1,6 @@
+2009-04-11T00:44:00.000Z	psychic		can someone tell me if sqlite offers website editing options?
+2009-04-11T00:46:00.000Z	psychic		and does anyone know how much it could be affecting my computer performane to be using ubuntu with an unsupported chipset
+2009-04-11T00:46:00.000Z	psychic		?
+2009-04-11T00:48:00.000Z	psychic		did anyone get my question?
+2009-04-11T00:50:00.000Z	psychic		2 parts one, i have an unsupported chipset how bad could this be affeting my computer performance and 2, does anyone know anything about sq lite?
+2009-04-11T00:50:00.000Z	Cpudan80	psychic	shouldn't really matter all that much; sqlite is just a smaller SQL server you can use, doesnt support everything MySQL does, but its pretty good

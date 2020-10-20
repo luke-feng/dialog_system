@@ -1,0 +1,6 @@
+2007-06-11T16:09:00.000Z	jadder		how I use nice with an edictor?
+2007-06-11T16:09:00.000Z	jadder		How i use nice wiht an edictor
+2007-06-11T16:10:00.000Z	jadder		nice -n vi ?
+2007-06-11T16:10:00.000Z	jdude1284	jadder	why would you want to use nice with an editor?
+2007-06-11T16:11:00.000Z	jdude1284	jadder	you would say nice -n 5 vi
+2007-06-11T16:11:00.000Z	jdude1284	jadder	or whatever level of niceness you want

@@ -1,0 +1,6 @@
+2009-06-06T13:44:00.000Z	vadviktor		Is there a way to launch a program in a different language then English, while I use English for all the other programs?
+2009-06-06T13:45:00.000Z	ziroday	vadviktor	you can try LANG=en_US.utf8 programname replacing en_US with your language
+2009-06-06T13:45:00.000Z	ziroday	vadviktor	but I'm not sure if that will work
+2009-06-06T13:46:00.000Z	vadviktor	ziroday	thanks, i will try and report back soon :)
+2009-06-06T13:49:00.000Z	vadviktor	ziroday	thanks, it works, I'm happy now! ^_^
+2009-06-06T13:49:00.000Z	ziroday	vadviktor	awesome!

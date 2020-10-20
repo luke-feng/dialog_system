@@ -1,0 +1,6 @@
+2006-06-23T06:18:00.000Z	orbin	onewaytolive17	sys >prefs >k/b > layout tab > add
+2006-06-23T06:19:00.000Z	onewaytolive17		um im doing this thing called generating locales on my terminal.... right now its on en_in.UTF8; this is taking forever, how many does it need to go through
+2006-06-23T06:21:00.000Z	onewaytolive17	orbin	um im doing this thing called generating locales on my terminal.... right now its on en_in.UTF8; this is taking forever, how many does it need to go through
+2006-06-23T06:24:00.000Z	onewaytolive17		can someone please tell me how many locales their are????? my terminal is in a state called "generating locales" and its taking forever
+2006-06-23T06:25:00.000Z	orbin	onewaytolive17	well an apt search gives these, but i don't know if these are the locale packages or not: http://paste.ubuntu-nl.org/16325
+2006-06-23T06:26:00.000Z	onewaytolive17	orbin	   en_AU.UTF-8... done

@@ -1,0 +1,6 @@
+2008-01-08T21:12:00.000Z	bottiger		I'm trying to create a ssh-tunnel to my university so I can use firefox from their ip. I did a "ssh -D localhost:9999 user@host", and then set firefox to use a proxy on port 9999. However, it doesn't work. Firefox doesn't return anything but blank pages
+2008-01-08T21:14:00.000Z	jrib	bottiger	I usually just do ssh -D 9999 user@host.  But your university may be blocking you from doing this
+2008-01-08T21:15:00.000Z	jrib	bottiger	make sure you set firefox to use a socks proxy too
+2008-01-08T21:16:00.000Z	bottiger	jrib	I couldn't image they would block it. also, I just checked the "use this proxy server for all protocols"
+2008-01-08T21:16:00.000Z	jrib	bottiger	you should send an email to their help desk
+2008-01-08T21:17:00.000Z	bottiger	jrib	ok - I will

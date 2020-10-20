@@ -1,0 +1,6 @@
+2004-11-03T15:39:00.000Z	kaput		lathiat: are there any known performance issues with xfree on ubuntu?
+2004-11-03T15:40:00.000Z	Lathiat	kaput	should be fine, unless you need some binary drivers like nvidia etc (which are included anyway)
+2004-11-03T15:42:00.000Z	Lathiat	kaput	there could be a number of reasons, are you on battery? maybe your cpu frequency was scaled
+2004-11-03T15:48:00.000Z	Lathiat	kaput	thought the gnome applet changed it
+2004-11-03T15:49:00.000Z	Lathiat	kaput	have you tried it?
+2004-11-03T15:55:00.000Z	Lathiat	kaput	no idea sorry

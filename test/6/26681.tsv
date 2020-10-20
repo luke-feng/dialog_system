@@ -1,0 +1,6 @@
+2011-06-03T00:34:00.000Z	Diverdude		I have a logitech dinovo mini keyboard. There are some buttons on the keyboard which have no effect when i press them such as the zoom buttons for example. How can i map the zoom button on the keyboard to the zoom function in ubuntu?
+2011-06-03T00:35:00.000Z	anonymouse	Diverdude	If they explain how to get xbindkeys working here, that'd be a good method.
+2011-06-03T00:36:00.000Z	Diverdude	anonymouse	who is "they" ?
+2011-06-03T00:37:00.000Z	anonymouse	Diverdude	I just mean the chatroom.
+2011-06-03T00:37:00.000Z	anonymouse	Diverdude	'xbindkeys' is a daemon that's made to do what you're talking about.
+2011-06-03T00:38:00.000Z	anonymouse	Diverdude	But I'm here because it just broke with the update to 11.04...

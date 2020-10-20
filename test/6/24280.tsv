@@ -1,0 +1,6 @@
+2010-06-22T23:26:00.000Z	abhi_nav		how to set my default Chat from empathy to pidgin?
+2010-06-22T23:27:00.000Z	trism	abhi_nav	if you mean in the indicator applet, you can't, it is hard-coded to call empathy "Chat", you can remove empathy to get rid of that menu item though
+2010-06-22T23:27:00.000Z	abhi_nav	trism	yes in indicator applet
+2010-06-22T23:28:00.000Z	abhi_nav	trism	but after removing empathy will it point to pidgin?
+2010-06-22T23:29:00.000Z	trism	abhi_nav	no, it will not
+2010-06-22T23:29:00.000Z	abhi_nav	trism	:(

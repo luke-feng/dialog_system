@@ -1,0 +1,6 @@
+2008-08-17T07:11:00.000Z	Thurston		hi, i was wondering if i could get some live cd help
+2008-08-17T07:13:00.000Z	Thurston		hi, when i boot my pc from the new ubuntu live cd, it goes to the log in screen and logs in, but goes only to the log in screen again, and not the desktop
+2008-08-17T07:13:00.000Z	Thurston		does anyone know why?
+2008-08-17T07:13:00.000Z	td123	Thurston	the display driver may not be installed
+2008-08-17T07:14:00.000Z	td123	Thurston	choose, gnome-failsafe
+2008-08-17T07:14:00.000Z	td123	Thurston	then go to system-> and find hardware drivers, and there may be an option to install required drivers

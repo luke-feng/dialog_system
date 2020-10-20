@@ -1,0 +1,6 @@
+2006-01-20T17:13:00.000Z	theverant		mount my ipod to /media/IPOD
+2006-01-20T17:13:00.000Z	theverant		seems like it should be simple enough
+2006-01-20T17:13:00.000Z	theverant		I used
+2006-01-20T17:13:00.000Z	theverant		BUS="usb", SYSFS{serial}=="000A270014A5EA62", NAME="%k", SYMLINK="IPOD"
+2006-01-20T17:14:00.000Z	gnomefreak	theverant	nothing is all that hard if you take your time and read or ask the right questions you can than do anything :)
+2006-05-27T08:11:00.000Z	gnomefreak	theverant	maybe top?

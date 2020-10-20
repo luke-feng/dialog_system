@@ -1,0 +1,6 @@
+2011-10-13T04:20:00.000Z	Ebron		is there a way to reverse less?
+2011-10-13T04:20:00.000Z	Ebron		I want rless for logfiles ^^
+2011-10-13T04:20:00.000Z	Pici	Ebron	tac filename | less
+2011-10-13T04:21:00.000Z	Ebron		thxt Pici :)
+2011-10-13T04:21:00.000Z	Ebron	beta0x64	the command less, only that it starts at the end of the file and goes backwards
+2011-10-13T04:21:00.000Z	Pici	Ebron	tac is cat backwards :)

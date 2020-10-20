@@ -1,0 +1,6 @@
+2010-03-24T04:29:00.000Z	omar_next		Hi I'm getting a permission denied error when I try to empty trash - Any idea's on what to do ? ?
+2010-03-24T04:29:00.000Z	histo	omar_next	there is probably a file owned by root in there
+2010-03-24T04:30:00.000Z	histo	omar_next	open a terminal and take a look
+2010-03-24T04:31:00.000Z	omar_next	histo	ok hang on a sec - will check
+2010-03-24T04:31:00.000Z	histo	omar_next	~/.local/share/Trash/files    is where your Trash is on your drive
+2010-03-24T04:31:00.000Z	histo	omar_next	tghats if its gnome

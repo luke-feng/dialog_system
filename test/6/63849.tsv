@@ -1,0 +1,6 @@
+2008-03-10T03:01:00.000Z	Steve^		If my laptop has 1 gig of RAM, should I be worried that  free  shows just 882MB?
+2008-03-10T03:02:00.000Z	sega01	Steve^	ram may be allocated for shared video memory
+2008-03-10T03:02:00.000Z	Steve^	sega01	is there anyway to check that?
+2008-03-10T03:02:00.000Z	sega01	Steve^	bios would be your best bet
+2008-03-10T03:03:00.000Z	Steve^	sega01	oh, so it's OS independent. Thanks.    I also notice I have 0 swap, I would need to associate a partition for that?
+2008-03-10T03:06:00.000Z	sega01	Steve^	no. i usually prefer to run without a swap

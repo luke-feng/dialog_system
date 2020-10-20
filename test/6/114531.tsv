@@ -1,0 +1,6 @@
+2006-08-20T12:35:00.000Z	_azrael		!easyubuntu > waxhead
+2006-08-20T12:35:00.000Z	_azrael		(they've got codec installs that are how I got my full mp3 support)
+2006-08-20T12:37:00.000Z	Linuturk	_azrael	a full system reset?
+2006-08-20T12:37:00.000Z	_azrael	Linuturk	Essentially, it looks for all packages in the system, and does apt-get install --reinstall on each of them
+2006-08-20T12:37:00.000Z	_azrael	Linuturk	Fabulous for purging stuff from old repos you don't want on there.
+2006-08-20T12:39:00.000Z	_azrael	Linuturk	See how it works?

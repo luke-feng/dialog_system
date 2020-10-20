@@ -1,0 +1,6 @@
+2007-04-21T08:20:00.000Z	damian		Hi guys, happy feisty day :0
+2007-04-21T08:20:00.000Z	damian		I have a problem with compiz, for some reason I can't change between worspaces
+2007-04-21T08:21:00.000Z	damian		Hasrat, for some reason the workspaces in compiz stoped working
+2007-04-21T08:22:00.000Z	damian		It doesn't do anything hasrat, after I installed feisty was working but now it's not
+2007-04-21T08:23:00.000Z	mojo	damian	you mean with the traditional workspace switcher?  compiz/beryl use 'viewports' and the ws switcher sees them as one big wide workspace.  i have my cube with 4 viewports but ws switcher set to one wkspace
+2007-04-21T08:23:00.000Z	mojo	damian	but the end result looks and operaties like a ws switcher with 4 wkspaces

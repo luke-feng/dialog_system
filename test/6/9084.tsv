@@ -1,0 +1,6 @@
+2011-06-02T22:05:00.000Z	ebisudave		Does nautilus or gnome do something different or in addition to "mount" when detecting a device?
+2011-06-02T22:06:00.000Z	jjflash	ebisudave	nautilus scans the device and shows it to you
+2011-06-02T22:07:00.000Z	ebisudave	jjflash	Would that be something I can do manually?
+2011-06-02T22:08:00.000Z	ebisudave	jjflash	No, wait, that's maybe not the right question. Does nautilus/gnomge register the device in some way to make it known to applications?
+2011-06-02T22:08:00.000Z	jjflash	ebisudave	of course you can stop that feature going to the nautilus menu edit ->preferences -> (removable drives?)
+2011-06-02T22:09:00.000Z	jjflash	ebisudave	check private :)

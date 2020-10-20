@@ -1,0 +1,6 @@
+2005-01-13T08:35:00.000Z	benjanet		i getting an error downloading a package for Hoary: Failed to fetch http://archive.ubuntu.com/ubuntu/pool/main/g/glib2.0/libglib2.0-0_2.6.0-0ubuntu1_i386.deb  Bad header line
+2005-01-13T08:35:00.000Z	Tomcat_	benjanet	Check your internet connection... seems to work for me.
+2005-01-13T08:36:00.000Z	benjanet	Tomcat_	i can download it manually, but not via apt-get
+2005-01-13T08:36:00.000Z	benjanet	Tomcat_	can i copy it manually to some directory ?
+2005-01-13T08:42:00.000Z	Tomcat_	benjanet	Yes you can... download it somewhere, then run dpkg -i blabla.deb
+2005-01-13T08:43:00.000Z	benjanet	Tomcat_	where are all .deb store, that apt-get uses ?

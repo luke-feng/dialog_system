@@ -1,0 +1,6 @@
+2006-05-29T13:04:00.000Z	allen		any idea where apt-get downloads folders to...looking for the xmms skins folder
+2006-05-29T13:04:00.000Z	gnomefreak	allen	~/.xmms
+2006-05-29T13:07:00.000Z	gnomefreak	allen	open home and than hit ctrl+h and it will show hidden files
+2006-05-29T13:08:00.000Z	gnomefreak	allen	there should be one that says .xmms open that and look gfor skins
+2006-05-29T13:09:00.000Z	gnomefreak	allen	did you run xmms yet?
+2006-05-29T13:10:00.000Z	gnomefreak	allen	than i would use dpkg -L xmms-skins

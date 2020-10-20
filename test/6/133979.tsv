@@ -1,0 +1,6 @@
+2006-12-11T11:45:00.000Z	briar3os_		Just how does one compile software from source? Or binary?
+2006-12-11T11:45:00.000Z	gnomefreak	briar3os_	is the package in the repos?
+2006-12-11T11:45:00.000Z	gnomefreak	briar3os_	also depends on the package
+2006-12-11T11:46:00.000Z	gnomefreak	briar3os_	untar it and read the README and INSTALL files
+2006-12-11T11:47:00.000Z	gnomefreak	briar3os_	some dont need to be compiles (some have pyscripts install the app)
+2006-12-11T11:48:00.000Z	gnomefreak	briar3os_	well untar it read the 2 files above to see what packages you need to install. install build-essential than ./configure && make && sudo make install

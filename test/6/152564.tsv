@@ -1,0 +1,6 @@
+2005-11-15T12:15:00.000Z	avenger		hi
+2005-11-15T12:16:00.000Z	avenger		hi, just wondering, is it alright to install sun's jdk on a mounted partition?
+2005-11-15T12:18:00.000Z	avenger		hi, anyone have any idea on what could be the reason for this error? sudo: unable to execute /media/linux/jdk1.5.0_05/bin/java: Permission denied
+2005-11-15T12:18:00.000Z	gratuit	avenger	is the execute bit set on that file?
+2005-11-15T12:21:00.000Z	gratuit	avenger	what are the permissions of /media/linux/jdk1.5.0_05/bin/java
+2005-11-15T12:23:00.000Z	gratuit	avenger	is the noexec option passed to mount when you mount the partition? check fstab if not sure

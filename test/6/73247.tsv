@@ -1,0 +1,6 @@
+2008-02-08T13:09:00.000Z	jerns1		hello, I have installed ubuntu on an old pIII laptop and I'm trying to free as much ram as I can. She doesn't need ssh-agent and seahorse-agent to be started everytime ; I cannot find it in the session starting programs. How can I disable it ?
+2008-02-08T13:10:00.000Z	qinjuehang	jerns1	sudo apt-get install bum
+2008-02-08T13:14:00.000Z	jerns1	qinjuehang	thanks, but it's nowhere to be found in bum
+2008-02-08T13:15:00.000Z	jerns1	qinjuehang	ps aux | grep seahorse states otherwise
+2008-02-08T13:19:00.000Z	jerns1	qinjuehang	I found it in /etc/X11/Xsession.d/
+2008-02-08T13:20:00.000Z	qinjuehang	jerns1	I'm afraid I don't know what happened then...I never meddled much with services

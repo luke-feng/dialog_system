@@ -1,0 +1,6 @@
+2007-09-22T15:26:00.000Z	Seilo		http://paste.ubuntu.com/391/ please some1 have a look and tell me why         self.__treeview.connect("select-cursor-row", self.selectFriend)            isnt working
+2007-09-22T15:27:00.000Z	Seilo		the whoel thing compiles but does not work
+2007-09-22T15:27:00.000Z	Seilo		this calss get called from another one
+2007-09-22T15:29:00.000Z	Seilo		ok anothert questiopn
+2007-09-22T15:29:00.000Z	Seilo		how do i login on irc
+2007-09-22T15:29:00.000Z	PriceChild	Seilo	/msg nickserv identify <password>

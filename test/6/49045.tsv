@@ -1,0 +1,6 @@
+2008-10-26T05:47:00.000Z	sugi		set -x
+2008-10-26T05:47:00.000Z	sugi		commands blah blah blah
+2008-10-26T05:28:00.000Z	sugi		if your still around
+2008-10-26T05:29:00.000Z	sugi		does anyone know if I can make command stall for like 10 seconds?
+2008-10-26T05:30:00.000Z	Yuretsz	sugi	sleep 10 && echo 'Hello after 10 seconds'
+2008-10-26T05:31:00.000Z	sugi	Yuretsz	is it possible durring the sleep to run another command when it's sleeping?

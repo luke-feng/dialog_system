@@ -1,0 +1,6 @@
+2007-03-19T12:01:00.000Z	Mooi_		Hello, how does one upgrade from Debian Etch to Ubuntu (whatever the latest, unstable version is)?
+2007-03-19T12:02:00.000Z	Bsims	Mooi_	I think ya have to do a fresh install
+2007-03-19T12:02:00.000Z	Mooi_	Bsims	I asked how to, I didn't ask for an alternative
+2007-03-19T12:02:00.000Z	Bsims	Mooi_	ya might get away with just changing /etc/apt/sources.list but I'd not trust it
+2007-03-19T12:03:00.000Z	Mooi_	Bsims	yes, what repos should I do there?
+2007-03-19T12:04:00.000Z	Bsims	Mooi_	http://www.ubuntu-nl.org/source-o-matic/

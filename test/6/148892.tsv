@@ -1,0 +1,6 @@
+2005-09-06T14:44:00.000Z	djp		i have typed sudo modprobe nvidia by the way
+2005-09-06T14:44:00.000Z	Nalioth	djp	you can have dpkg edit it for you (just answer the simple questions)
+2005-09-06T14:49:00.000Z	Nalioth	djp	you can get back to the way you were
+2005-09-10T05:43:00.000Z	Nalioth	djp	you have to start a line
+2005-09-10T05:43:00.000Z	djp	Nalioth	ah, ok. so just add a PATH= line at the end of the file right?
+2005-09-10T05:44:00.000Z	Nalioth	djp	yup, just like the examples you find using google

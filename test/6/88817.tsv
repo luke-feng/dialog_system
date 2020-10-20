@@ -1,0 +1,6 @@
+2007-04-20T11:21:00.000Z	mwbohn		Is beryl+xgl (fglrx) broken for 7.04 or do I have a configuration problem?  (It worked for me in 6.10)
+2007-04-20T11:22:00.000Z	Fishy	mwbohn	Same problem. Missing beryl_xgl.
+2007-04-20T11:23:00.000Z	mwbohn	Fishy	Did you resolve it?
+2007-04-20T11:24:00.000Z	Fishy	mwbohn	No. Since beryl doesn not come with beryl_xgl I can't see how it should be solved.
+2007-04-20T11:24:00.000Z	mwbohn	Fishy	Thanks for the info
+2007-04-20T11:24:00.000Z	Fishy	mwbohn	It may work with the open source drivers, but the performance sucks. At least for me.

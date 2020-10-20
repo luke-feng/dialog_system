@@ -1,0 +1,6 @@
+2009-07-18T22:34:00.000Z	syva		hey, im trying to add a new bootable partition to grub, is there a command to display the hd(x,y) stuff for drives/partitions
+2009-07-18T22:35:00.000Z	[R]	syva	display the stuff?
+2009-07-18T22:35:00.000Z	[R]	syva	when you are booting in grub, hit c and then you can get to the grub command line and use tab completion to figure out what you want
+2009-07-18T22:35:00.000Z	syva	[R]	okay ill give that a go
+2009-07-18T22:36:00.000Z	[R]	syva	well you can run grub from the command line
+2009-07-18T22:36:00.000Z	[R]	syva	but sometimes it doesnt retunr the same results

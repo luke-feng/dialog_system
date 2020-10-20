@@ -1,0 +1,6 @@
+2010-03-25T15:02:00.000Z	dabukalam		I'm getting an error when installing mysql-server-5.0: "subprocess pre-installation script returned error exit status 1" anyone know what that is?
+2010-03-25T15:03:00.000Z	izmanromli	dabukalam	which ubuntu version are you use?
+2010-03-25T15:04:00.000Z	dabukalam	izmanromli	jaunty server
+2010-03-25T15:06:00.000Z	izmanromli	dabukalam	did all mysql devel libs already installed?
+2010-03-25T15:07:00.000Z	dabukalam	izmanromli	not sure let me check...
+2010-03-25T15:08:00.000Z	izmanromli	dabukalam	if things not worked out, try to update mysql packages

@@ -1,0 +1,6 @@
+2007-06-08T09:52:00.000Z	ratpoison		hello, I need some help using the emerald windows decorator. I have ati x1950 on feisty amd64. I use the "beryl" window manager, but I can only use the GTK window decorator. If I use emerald, my windows have no borders. Can anyone please help?
+2007-06-08T09:54:00.000Z	mister_roboto	ratpoison	i was playing around with beryl for a while and had the same problem. usually if i did <ctl> <alt> <backspace> to restart X, the borders would appear. never did get to the bottom of it
+2007-06-08T09:54:00.000Z	ratpoison	mister_roboto	I'll try it and brb. thnx for the info
+2007-06-08T09:56:00.000Z	ratpoison	mister_roboto	Nope, no luck :(
+2007-06-08T09:57:00.000Z	mister_roboto	ratpoison	sorry, i don't know how to fix it. that's just what i used to do.
+2007-06-08T10:00:00.000Z	mister_roboto	ratpoison	no, i don't. eventually i got tired of that problem and quit using it, waiting for it to be fixed. also, there's a merge of compiz and beryl that's supposed to be happening. i think i'll let things settle first before trying it again

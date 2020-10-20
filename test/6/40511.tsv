@@ -1,0 +1,6 @@
+2009-04-17T03:10:00.000Z	Doitle		I am working on a debian package right now for use with apt-get, I know that the install target is called in teh makefile on install, anyone know what one is called on removal?
+2009-04-17T03:10:00.000Z	Doitle		or does apt-get completely handle removal itself?
+2009-04-17T03:11:00.000Z	Doitle		if you do apt-get remove pckgname
+2009-04-17T03:12:00.000Z	Doitle		it will "remove" the package, but I'm not sure what all it does
+2009-04-17T03:12:00.000Z	Doitle		I am trying to make a package that gets installed as a service and I can install it as a service, I'm trying to make sure it gets removed as well so the OS does not attempt to start it every boot when it isnt there anymore
+2009-04-17T03:13:00.000Z	bigjocker	Doitle	apt-get remove sould remove the /etc/init.d script

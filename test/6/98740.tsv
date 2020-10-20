@@ -1,0 +1,6 @@
+2007-01-11T16:00:00.000Z	philuk86		does anyone know why when creating a debian package Im not allowed to have hardlinks in the source tree?
+2007-01-11T16:01:00.000Z	un_operateur	philuk86	this is only a guess -- but i assume it's because a lot of the files get moved about and packaged and whatnot, doing so may break the links
+2007-01-11T16:03:00.000Z	philuk86	un_operateur	do you know how i can get around it, are there any helper scripts?
+2007-01-11T16:04:00.000Z	un_operateur	philuk86	why don't you make copies of the linked files rather than have then linked?
+2007-01-11T16:05:00.000Z	philuk86	un_operateur	well i don't its the way some of the upstream devs do things for important headers and such
+2007-01-11T16:06:00.000Z	un_operateur	philuk86	errm, i'm not too sure, i dont have too much experience with debian packaging .. perhaps this is better asked in #debian or a related dev channel

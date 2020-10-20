@@ -1,0 +1,6 @@
+2005-10-19T12:29:00.000Z	jgrieves_		if I run xinit -display :1 how can i see it on the screen?
+2005-10-19T12:30:00.000Z	topyli	jgrieves_	the session should appear on vt 8
+2005-10-19T12:30:00.000Z	jgrieves_	topyli	how can i "see" vt 8?
+2005-10-19T12:30:00.000Z	jgrieves_	topyli	thought it was tty8..
+2005-10-19T12:30:00.000Z	topyli	jgrieves_	ctrl-alt-f8
+2005-10-19T12:31:00.000Z	topyli	jgrieves_	oh, probably. i was thinking about virtual terminals

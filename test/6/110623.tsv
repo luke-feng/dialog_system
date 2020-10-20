@@ -1,0 +1,6 @@
+2006-08-10T06:58:00.000Z	Masticore		How can i fix this error? checking for XML::Parser... configure: error: XML::Parser perl module is required for intltool
+2006-08-10T06:58:00.000Z	mike-e	Masticore	: install the xml parser
+2006-08-10T06:59:00.000Z	Masticore	mike-e	how?
+2006-08-10T06:59:00.000Z	mike-e	Masticore	: cpan.org probably
+2006-08-10T06:59:00.000Z	Masticore	mike-e	cant I do it with apt-get ?
+2006-08-10T07:00:00.000Z	mike-e	Masticore	: i doubt it, i ran into the same situation with something else and I had to do it from www.cpan.org's tarball or deb package

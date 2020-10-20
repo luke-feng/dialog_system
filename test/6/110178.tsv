@@ -1,0 +1,6 @@
+2006-08-01T10:57:00.000Z	adam25		hi is it easy to install ubuntu alongside windows?
+2006-08-01T10:58:00.000Z	adam25		I mean I already have windows installed
+2006-08-01T10:58:00.000Z	adam25		ahhh
+2006-08-01T10:58:00.000Z	adam25		ok what bootloader does it use?
+2006-08-01T10:59:00.000Z	adam25		sweet ok
+2006-08-01T10:59:00.000Z	longwave	adam25	it uses grub as the bootloader, it will detect your windows install and add it to the menu for you

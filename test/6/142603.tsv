@@ -1,0 +1,6 @@
+2005-07-16T13:46:00.000Z	mindamp		whenever i try to browse to localhost:631 and do manage printers>add printers, it prompts me for the usual username/password which is root/***, however it won't accept it
+2005-07-16T13:47:00.000Z	mindamp		im assuming this is related to the no root login for gnome under ubuntu
+2005-07-16T13:47:00.000Z	mindamp		and please don't recommend the gnome print manager
+2005-07-16T13:47:00.000Z	mindamp		cause im working with cups-pdf
+2005-07-16T13:47:00.000Z	Computer__Guru	mindamp	sudo passwd
+2005-07-16T13:52:00.000Z	Computer__Guru	mindamp	no, printers are a bitch

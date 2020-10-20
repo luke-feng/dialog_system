@@ -1,0 +1,6 @@
+2009-08-02T09:24:00.000Z	ironmagma		I can run x-interfacing commands (like xdotool) directly from the GNOME console or via VNC, but when I try to run it remotely, I get "Error: Can't open display: :1"  How to fix this?
+2009-08-02T09:25:00.000Z	soreau	ironmagma	Try prefixing the command with DISPLAY=:0
+2009-08-02T09:26:00.000Z	ironmagma		Getting the same thing
+2009-08-02T09:27:00.000Z	ironmagma	soreau	for :0 and :1 I get "No protocol specified" in addition to the other errors
+2009-08-02T09:27:00.000Z	ironmagma	soreau	but for :2 I just get the other errors
+2009-08-02T09:27:00.000Z	soreau	ironmagma	No idea then

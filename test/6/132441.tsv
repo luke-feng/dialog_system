@@ -1,0 +1,6 @@
+2005-10-29T16:55:00.000Z	Stormx_	hondje	Don't you think thats a little experimental?
+2005-10-29T16:56:00.000Z	hondje		You can copy files that are read only
+2005-10-29T16:56:00.000Z	Stormx_		Not on NTFS
+2005-10-29T16:56:00.000Z	Stormx_		NTFS is baaad
+2005-10-29T16:56:00.000Z	Stormx_		formatting folders ? :-\
+2005-10-29T16:56:00.000Z	hondje	Stormx_	From what he said, I infer he's having permission issues accessing the mount, which can be solved by adding umask=022

@@ -1,0 +1,6 @@
+2011-04-11T11:58:00.000Z	phonex01		guys i have problem
+2011-04-11T11:58:00.000Z	phonex01		im trying to mount one of my drives and i have this error mesg
+2011-04-11T11:58:00.000Z	phonex01		Error mounting: mount exited with exit code 1: helper failed with:
+2011-04-11T11:58:00.000Z	phonex01		mount: according to mtab, /dev/sda1 is already mounted on /
+2011-04-11T11:58:00.000Z	phonex01		mount failed
+2011-04-11T11:58:00.000Z	ikonia	phonex01	/ is already mounted, you're  using it, it's your root files system

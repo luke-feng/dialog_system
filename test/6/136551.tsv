@@ -1,0 +1,6 @@
+2005-10-04T07:17:00.000Z	Hendric		great!
+2005-10-04T07:18:00.000Z	Hendric		why does ubuntu doesn't do it when mounting fat32 partition during installation (DISK PARTITIONER)? it defaults to root
+2005-10-04T07:19:00.000Z	Hendric		sudo apt-get dist-upgrade  <-- should this upgrade my Hoary to Breezy???
+2005-10-04T07:20:00.000Z	Hendric		or i better get the ISO and reinstall??
+2005-10-04T07:20:00.000Z	Hendric		i got that one already onkarshinde.. thanks so much
+2005-10-04T07:20:00.000Z	atha	Hendric	yes, it does, if you have changed the repositories point to breezy ones in sources.list

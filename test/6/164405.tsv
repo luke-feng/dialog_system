@@ -1,0 +1,6 @@
+2005-09-14T11:53:00.000Z	guardianx		how do i view iso/bin movie files without burning it to cd on ubuntu
+2005-09-14T11:55:00.000Z	guardianx		how do i view iso/bin movie files without burning it to cd on ubuntu
+2005-09-14T11:56:00.000Z	Tomcat_	guardianx	iso or cue/bin?
+2005-09-14T11:56:00.000Z	Tomcat_	guardianx	ISOs can be mounted like filesystems.
+2005-09-14T11:59:00.000Z	Tomcat_	guardianx	http://ubuntuforums.org/showthread.php?t=22262&highlight=bin+cue
+2005-09-14T12:01:00.000Z	Tomcat_	guardianx	Install the smbfs package, then do "mount //<server>/path/blah.iso /some/mountpoint"

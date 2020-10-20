@@ -1,0 +1,6 @@
+2005-08-10T14:39:00.000Z	Bateau		hey! i need help changing my screenressolution. its stuck on 640x480 :( any one know what to do?
+2005-08-10T14:41:00.000Z	Bateau		is there no one who can help me? there has to be a config i can run in a terminal or something :/
+2005-08-10T14:41:00.000Z	The_Vox	Bateau	base-config
+2005-08-10T14:46:00.000Z	Bateau	The_Vox	ok, i started what you said... now what?  tasks?
+2005-08-10T14:50:00.000Z	Bateau	The_Vox	help me please :/ can i talk to you in msg?
+2005-08-10T14:50:00.000Z	The_Vox	Bateau	I've not messed with base-config in a long time...and I'm not about to mess with it when I have a working box at the moment :) Explore in there and find the X configuration section

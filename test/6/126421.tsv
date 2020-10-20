@@ -1,0 +1,6 @@
+2006-03-14T11:24:00.000Z	Drac[Server] 	PlutoPrime	that all depends on the system. In some cases, reiser is all-around faster.
+2006-03-14T11:30:00.000Z	Drac[Server] 	PlutoPrime	when I boot, I can't get into a normal shell. I'm thrown into busybox. The shell launch attempt returns: "/bin/sh: can't access tty: job control turned off"
+2006-03-14T11:31:00.000Z	Drac[Server] 	PlutoPrime	to my knowledge, it's clean. I don't know what happened, but the install took four hours, and I don't want to do it again. It's a very old machine.
+2006-03-14T11:33:00.000Z	Drac[Server] 	PlutoPrime	well, no. Let me try that.
+2006-03-14T11:36:00.000Z	Drac[Server] 	PlutoPrime	Ah! I figured out my problem! It's trying to use hdb, but I've since moved the harddrive to hd0 (hda). There is no /dev/hdb to boot from, so it drops to a simple shell. The question now is, how do I edit grub's menu.list without the help of a separate computer? Perhaps a Live CD...
+2006-03-14T11:39:00.000Z	Drac[Server] 	PlutoPrime	right. Thanks again. I already got in and will fix it as soon as possible. :)

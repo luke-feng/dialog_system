@@ -1,0 +1,6 @@
+2010-02-22T23:17:00.000Z	sickly		well i downloaded the latest version 2.6.32.8 and jst wanted to upgrade from what i have
+2010-02-22T23:18:00.000Z	sickly		it would be nice to learn
+2010-02-22T23:19:00.000Z	nibbler	sickly	make config; make; make modules - then copy the bzImage file to /boot and.... GOOD LUCK :-)
+2010-02-22T23:22:00.000Z	nibbler	sickly	i dont want to be mean, try "make menuconfig" instead of just config :)
+2010-02-22T23:27:00.000Z	sickly	nibbler	is the menuconfig pretty much setup to defaults or will i have to do some auditing?
+2010-02-22T23:28:00.000Z	nibbler	sickly	its somehow default. if you find your old kernels config (check /proc/config.gz or /boot ) you can inherit from that with "make oldconfig" - if your first kernel boots without panic, you earnd my respect ;-)

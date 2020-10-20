@@ -1,0 +1,6 @@
+2006-02-23T16:37:00.000Z	gach		hello
+2006-02-23T16:37:00.000Z	gach		i gt a problem with gcc
+2006-02-23T16:37:00.000Z	gach		it sssays it  cannot create executables
+2006-02-23T16:37:00.000Z	gach		..
+2006-02-23T16:38:00.000Z	gach		any ideaaas?
+2006-02-23T16:38:00.000Z	_jason	gach	sudo apt-get install build-essential

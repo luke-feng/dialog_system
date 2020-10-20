@@ -1,0 +1,6 @@
+2010-04-28T14:26:00.000Z	zvacet		lxsysweb:di you tried to install driver from system>admin>softwaresources
+2010-04-28T14:27:00.000Z	lxsysweb	zvacet	I don't quite understand, isn't that the repository configuration?
+2010-04-28T14:27:00.000Z	zvacet	lxsysweb	 sorry it is system>admin>hardware drivers
+2010-04-28T14:28:00.000Z	lxsysweb	zvacet	yeah, doesn't show up there at all, only the wireless drivers.
+2010-04-28T14:29:00.000Z	zvacet	lxsysweb	see if https://help.ubuntu.com/community/BinaryDriverHowto/ATI can help you
+2010-04-28T14:29:00.000Z	lxsysweb	zvacet	ok thanks, i'll take a look

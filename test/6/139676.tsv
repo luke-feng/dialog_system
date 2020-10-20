@@ -1,0 +1,6 @@
+2006-10-04T15:22:00.000Z	daryl_		Excuse me, how do I tell what kernel I have?
+2006-10-04T15:22:00.000Z	mneptok	daryl_	uname -a
+2006-10-04T15:24:00.000Z	daryl_	mneptok	and sc0tt: this instruction is telling me to use synaptic to search for "linux-restricted-modules", and then install the appropriate module.  but I'm just not sure what is appropriate.
+2006-10-04T15:24:00.000Z	mneptok	daryl_	*what* instruction? for what?
+2006-10-04T15:24:00.000Z	daryl_	mneptok	some instructions for installing the appropriate support for my video card.
+2006-10-04T15:25:00.000Z	mneptok	daryl_	apt-cache search restricted

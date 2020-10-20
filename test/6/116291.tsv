@@ -1,0 +1,6 @@
+2007-11-04T04:01:00.000Z	nonewmsgs		if im using ifo to read ext3 in windows anyway, is there any reason to use FAT for drives i want to share data between
+2007-11-04T04:02:00.000Z	Pelo	nonewmsgs	I don'T think ifo is good for writing to ext3  if you only need to read you probably don't need a fat partitiion,  ubuntu can read/write ntfs
+2007-11-04T04:03:00.000Z	Pelo	nonewmsgs	did you use ntfs-config ?
+2007-11-04T04:05:00.000Z	Pelo	nonewmsgs	out of my feild of expertise I 'm afraid, sorry
+2007-11-04T04:06:00.000Z	Pelo	nonewmsgs	no
+2007-11-04T04:06:00.000Z	Pelo	nonewmsgs	fat32

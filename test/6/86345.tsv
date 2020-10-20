@@ -1,0 +1,6 @@
+2007-05-19T12:50:00.000Z	orlo		echo $LD_LIBRARY_PATH
+2007-05-19T12:52:00.000Z	orlo		how are you able to run anything if you have no   /etc/ld.so.conf
+2007-05-19T12:54:00.000Z	orlo		what is the full path to the libpurple
+2007-05-19T12:55:00.000Z	orlo		you must have all libraries statically compiled in -   okay   add that   /usr/local/lib to the /etc/ld.so.conf  and then run ldconfig
+2007-05-19T12:57:00.000Z	orlo		Whoot is good?
+2007-05-19T12:57:00.000Z	akina1	orlo	hello from Pidgin :)

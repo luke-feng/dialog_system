@@ -1,0 +1,6 @@
+2006-10-31T13:23:00.000Z	Asc_		I have a package with a broken dependency.  To fix the dependency, I have to remove opera.  Apt doesn't want to remove opera until I fix the broken dependency.  Anybody have a suggestion as to how to go about fixing this?
+2006-10-31T13:25:00.000Z	soundray	Asc_	can you pastebin the output of 'sudo apt-get -f install' pls
+2006-10-31T13:26:00.000Z	Asc_	soundray	working on it.  Modem is a little slow.
+2006-10-31T13:28:00.000Z	Asc_	soundray	http://paste.ubuntu-nl.org/29588/ . It's a little hard to read because it keeps whining about my locale (which is also broken, for reasons unknown) but I think that can be ignored.
+2006-10-31T13:30:00.000Z	soundray	Asc_	run 'sudo dpkg --force-overwrite /var/cache/apt/archives/x11-common_1%3a7.1.1ubuntu6_i386.deb' and consider filing a bug against opera (it should not provide /usr/X11R6/bin)
+2006-10-31T13:33:00.000Z	Asc_	soundray	It looks as though it's working.  Thanks a whole lot.  I don't know what opera's deal is - there was a link to it in that directory.  I seem to recall I installed it from a non-supported package.

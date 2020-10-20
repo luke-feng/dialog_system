@@ -1,0 +1,6 @@
+2010-03-04T02:14:00.000Z	trijntje		hi all, since karmic my sound gives a loud crack just before it starts playing. Any pointers on how to fix this?
+2010-03-04T02:15:00.000Z	default	trijntje	use a large hammer, ans smash the speakers :)
+2010-03-04T02:23:00.000Z	default	trijntje	while(1){smash(SPEAKERS);};
+2010-03-04T02:27:00.000Z	default	trijntje	for(unsigned char i=0;i<257;i++)bash(SPEAKERS);
+2010-03-04T02:27:00.000Z	trijntje	default	i'm not at all happy with that solution ;)
+2010-03-04T02:29:00.000Z	default	trijntje	while(1){sendmail(FLAME,UBUNTUDEVS,RANDOM);};

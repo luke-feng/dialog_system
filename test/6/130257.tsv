@@ -1,0 +1,6 @@
+2006-08-16T14:25:00.000Z	yum		Hello all, is ist possible to use reg expr. with chmod, or just  wildcards like chmod 555 ./* . If yes how do I do this?
+2006-08-16T14:26:00.000Z	sethk	yum	you can produce a file list using regular expressions, and then use that list with chmod
+2006-08-16T14:26:00.000Z	yum	sethk	could you give me a small sample?
+2006-08-16T14:27:00.000Z	sethk	yum	something like   chmod +whatever $(ls | egrep 'some pattern')
+2006-08-16T14:27:00.000Z	yum	sethk	thx
+2006-08-16T14:27:00.000Z	sethk	yum	that works if the list is a reasonable size.  If it is thousands of files you have to use a bit more complex methods.

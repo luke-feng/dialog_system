@@ -1,0 +1,6 @@
+2008-04-28T07:36:00.000Z	joshua__		hey how do i open up a file browser as admin?
+2008-04-28T07:37:00.000Z	joshua__		i want to delete so stuff in my root
+2008-04-28T07:37:00.000Z	joshua__		i cant remember the thing to do
+2008-04-28T07:37:00.000Z	joshua__		hey dabbil
+2008-04-28T07:37:00.000Z	joshua__		thanks cruxx
+2008-04-28T07:37:00.000Z	tonyyarusso	joshua__	It's possible, but not recommended, as you can mess up permissions on things running nautilus as root.

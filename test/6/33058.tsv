@@ -1,0 +1,6 @@
+2009-08-07T20:09:00.000Z	paziek_		how can I remove /var/run and /var/lock while being logged in to the system?
+2009-08-07T20:09:00.000Z	paziek_		or how can I remove /var/run /var/lock without liveCD or different system installed?
+2009-08-07T20:10:00.000Z	grawity	paziek_	umount /var/run, it's a tmpfs.
+2009-08-07T20:11:00.000Z	paziek_	grawity	oh, thanks :)
+2009-08-07T20:12:00.000Z	paziek_	grawity	okay, so lock got unmounted and deleted, but /var/run won't let me unmount it. Says it busy, but lsof and fuser won't tell me anuthing
+2009-08-07T20:13:00.000Z	paziek_	grawity	nvm. Not it shows

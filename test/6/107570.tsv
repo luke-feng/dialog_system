@@ -1,0 +1,6 @@
+2006-11-13T17:01:00.000Z	JamieBE		Hello, I am having some trouble installing a piece of software on Ubuntu. It is a tar.gz file, I am doing a "make" command from the terminal and it does a whole load of stuff and then gives me an error: undefined reference to `atk_object_add_relationship'
+2006-11-13T17:02:00.000Z	Admiral_Chicago	JamieBE	what package?
+2006-11-13T17:06:00.000Z	JamieBE	Admiral_Chicago	I will check that now.
+2006-11-13T17:06:00.000Z	JamieBE	Admiral_Chicago	build-essential version 11.1 installed.
+2006-11-13T17:07:00.000Z	JamieBE	Admiral_Chicago	I also did a search for "atk" and installed all the dev's for that too that were missing before - No chance though.
+2006-11-13T17:08:00.000Z	JamieBE	Admiral_Chicago	Me neither, It's a shame no real cross-platform standard has been set and implemented properly within Linux yet. It would make life a lot easier.

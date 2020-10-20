@@ -1,0 +1,6 @@
+2011-02-22T00:50:00.000Z	ohsix	frankbro	i lost my buffer when i was kicked, what was your problem?
+2011-02-22T00:52:00.000Z	frankbro	ohsix	Trying to compile amd codeanalyst from source. Getting an error during the ./configure step. /etc/bash_completion.d/apport_completion: line 129: `_apport-bug': not a valid identifier
+2011-02-22T00:52:00.000Z	ohsix	frankbro	ah to that, i wouldn't be surprised if that was overlooked, not really a stupid mistake
+2011-02-22T00:53:00.000Z	ohsix	frankbro	the only way it would know about it is trying to parse the output of the "set" bash builtin
+2011-02-22T00:57:00.000Z	frankbro	ohsix	jbrie: If not, do you know any tool to do thread profiling for an amd processor. Im thinking multithreading timeline, like vtune for intel
+2011-02-22T00:57:00.000Z	ohsix	frankbro	nope, only simulators; most sampling profilers should be good enough, they wont instrument binaries though

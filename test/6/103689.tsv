@@ -1,0 +1,6 @@
+2010-06-11T19:52:00.000Z	ikonia		!virtua | monokrome
+2010-06-11T19:53:00.000Z	monokrome	ikonia	I already have VMWare, but that's not what I asked.
+2010-06-11T19:53:00.000Z	ikonia	monokrome	then what are you asking ?
+2010-06-11T19:53:00.000Z	monokrome	ikonia	How to create a virtual drive out of an ISO
+2010-06-11T19:54:00.000Z	ikonia	monokrome	ooh, I see, then you just mount it as a loopback device, (-o loop) should do it
+2010-06-11T19:54:00.000Z	monokrome	ikonia	I can't just mount -o loop because it's bootable, and I need it to be bootable (weird, I know)

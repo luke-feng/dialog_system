@@ -1,0 +1,6 @@
+2006-12-16T12:17:00.000Z	SuperLag		How do you uninstall package+package_deps?
+2006-12-16T12:17:00.000Z	SuperLag		does apt-get remove handle the deps?
+2006-12-16T12:18:00.000Z	jrib	SuperLag	no, either use aptitude to install and remove or try apt-get autoremove
+2012-10-19T19:08:00.000Z	jrib	SuperLag	http://releases.ubuntu.com/quantal/ read the description at the top
+2012-10-19T19:09:00.000Z	SuperLag	jrib	Nice. I wonder if that still matters if it's running in a VM?
+2012-10-19T19:09:00.000Z	jrib	SuperLag	I don't know; probably not

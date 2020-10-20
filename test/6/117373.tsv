@@ -1,0 +1,6 @@
+2006-06-23T15:17:00.000Z	agorf		hello. anyone knows from which package is XML::LibXML is covered?
+2006-06-23T15:17:00.000Z	agorf		-is
+2006-06-23T15:17:00.000Z	RadiantFire	agorf	try libxml++
+2006-06-23T15:17:00.000Z	agorf	RadiantFire	thanks
+2006-06-23T15:21:00.000Z	agorf	RadiantFire	its libxml-libmxl-perl
+2006-06-23T15:21:00.000Z	agorf	RadiantFire	for the history :P

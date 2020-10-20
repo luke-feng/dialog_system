@@ -1,0 +1,6 @@
+2007-06-09T08:18:00.000Z	kitche	thoreauputic_	gparted is it's own application
+2007-06-09T08:18:00.000Z	thoreauputic_	kitche	it doesn't use parted at all ?
+2007-06-09T08:19:00.000Z	thoreauputic_	kitche	interesting
+2007-06-09T08:19:00.000Z	kitche	thoreauputic_	nope according to the gnome site it's is it's own
+2007-06-09T08:19:00.000Z	thoreauputic_	kitche	OK I sit corrected :)
+2007-06-09T08:20:00.000Z	thoreauputic_	kitche	quite right - apt-cache depends gparted does not list parted at all - I learnt something, thanks :)

@@ -1,0 +1,6 @@
+2010-09-03T02:42:00.000Z	digitalfiz		i think compiz crashed is there a way to restart it without restarting ubuntu
+2010-09-03T02:43:00.000Z	soreau	digitalfiz	sys>prefs>appearance>visual effects
+2010-09-03T02:43:00.000Z	digitalfiz	VCoolio	that worked
+2010-09-03T02:43:00.000Z	digitalfiz		ty
+2010-09-03T02:43:00.000Z	digitalfiz	VCoolio	do you know where i would look to see why it crashed
+2010-09-03T02:45:00.000Z	soreau	digitalfiz	If you had crash handler plugin enabled (provided by compiz-fusion-plugins-extra), the default is to store the bt in /tmp

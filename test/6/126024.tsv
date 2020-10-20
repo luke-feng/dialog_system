@@ -1,0 +1,6 @@
+2006-05-27T09:52:00.000Z	jackson		is it possible (generally speaking) for two separate linux distros to use the same /home if the distros and /home are all on separate partitions?
+2006-05-27T09:54:00.000Z	Managu	jackson	errm, I don't see how a symlink would help with what I'm thinking
+2006-05-27T09:54:00.000Z	jackson	Managu	oh.. I probably misunderstood you. what were you thinking?
+2006-05-27T09:55:00.000Z	Managu	jackson	if you have a filesystem that's going to be tracked under 2 different OS's, those OS's might give the same "user" different UIDs.  But UIDs are just numbers that are stored along with the file
+2006-05-27T09:56:00.000Z	jackson	Managu	will that create incompatabilities or just a (very) slightly larger /home?
+2006-05-27T10:33:00.000Z	Managu	jackson	possible?  Almost certainly.  Easy?  I wouldn't count on it.

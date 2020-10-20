@@ -1,0 +1,6 @@
+2008-07-28T18:27:00.000Z	jcarouth		how do i install emacs without installing emacs22-gtk. i.e. i want it "command line only"
+2008-07-28T18:27:00.000Z	jcarouth		sudo aptitude install --simulate --without-recommends emacs22-bin-common emacs, doesn't work
+2008-07-28T18:27:00.000Z	xnv	jcarouth	I can only suggest apt-get install vim :-)
+2008-07-28T18:28:00.000Z	jcarouth	xnv	haha well played. i'm about at that point
+2008-07-28T18:29:00.000Z	xnv	jcarouth	apt-get install emacs22-nox?
+2008-07-28T18:31:00.000Z	jcarouth	xnv	ha, i can't believe i missed that

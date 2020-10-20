@@ -1,0 +1,6 @@
+2005-08-06T16:22:00.000Z	teddy		ive got a problem with 5.0.4 for PPC
+2005-08-06T16:22:00.000Z	teddy		i attmpted to compile last night on a fresh install
+2005-08-06T16:23:00.000Z	teddy		5.0.4 PPC fresh install
+2005-08-06T16:23:00.000Z	teddy		compiling synergy ( synergy2.sf.net )
+2005-08-06T16:23:00.000Z	teddy		checking for C++ compiler default output... configure: error: C++ compiler cannot create executables
+2005-08-06T16:23:00.000Z	Seveas	teddy	sudo aptitude install build-essential

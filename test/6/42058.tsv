@@ -1,0 +1,6 @@
+2009-02-26T12:19:00.000Z	andreic		how cand i change my bash prompter for all the users?
+2009-02-26T12:20:00.000Z	Chousuke	andreic	/etc/bash.bashrc
+2009-02-26T12:20:00.000Z	andreic	Chousuke	i've changed there but no luck
+2009-02-26T12:20:00.000Z	Chousuke	andreic	is your local file overriding it?
+2009-02-26T12:21:00.000Z	andreic		maybe but how i change
+2009-02-26T12:22:00.000Z	Chousuke	andreic	if so, there's no way to change it for all users without editing their .bashrc

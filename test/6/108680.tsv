@@ -1,0 +1,6 @@
+2006-10-21T05:32:00.000Z	drbashir		How do I erase a CD-RW?
+2006-10-21T05:32:00.000Z	nolimitsoya	drbashir	using you cdrom burning app of coice
+2006-10-21T05:33:00.000Z	drbashir	nolimitsoya	I don't think I have one yet...
+2006-10-21T05:33:00.000Z	nolimitsoya	drbashir	then get one. :) k3b is considdered by many to be the best burning app there is
+2006-10-21T05:33:00.000Z	nolimitsoya		sudo apt-get install k3b from terminal
+2006-10-21T05:34:00.000Z	drbashir	nolimitsoya	cheers, will try k3b then :)

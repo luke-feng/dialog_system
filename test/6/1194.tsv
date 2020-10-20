@@ -1,0 +1,6 @@
+2012-08-04T17:13:00.000Z	CestSebastian_		hey guys, i need some help with a file, i can't seam to write or read my grub.cfg, this is a ls -al output for the file: -????????? ? ?      ?           ?            ? grub.cfg
+2012-08-04T17:14:00.000Z	Dr_Willis	CestSebastian_	 filesystem is currupted. id say fsck it from a live cd.
+2012-08-04T17:14:00.000Z	Dr_Willis	CestSebastian_	 hope the HD is not failing.
+2012-08-04T17:14:00.000Z	CestSebastian_	Dr_Willis	yeah, i hope so too, thanks
+2012-08-04T17:30:00.000Z	CestSebastian_	Dr_Willis	fsck says "NTFS partition /dev/sda1 was processed successfully.", grub.cfg still not readable or writable
+2012-08-04T17:35:00.000Z	Dr_Willis	CestSebastian_	 grub is on the MBR of the hard drive. Your /boot/ dir/partiion is where the files are at.. I doubt if your grub configs are on a NTFS.

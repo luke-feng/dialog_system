@@ -1,0 +1,6 @@
+2008-10-16T10:46:00.000Z	fenerli7		﻿bobertdos: to the mount point (/media/data in my case), yes, and it is mounted with the "user" option
+2008-10-16T10:48:00.000Z	fenerli7		﻿bobertdos: see my last message ;)
+2008-10-16T10:49:00.000Z	harriseldon	fenerli7	does running mount from the command line show that /media/data is mounted rw?
+2008-10-16T10:50:00.000Z	harriseldon	fenerli7	mount without any further options
+2008-10-16T10:52:00.000Z	fenerli7	harriseldon	cheers, it is mounted as rw, "/dev/sda5 on /media/data type fuseblk (rw,noexec,nosuid,nodev,noatime,allow_other,blksize=512)"
+2008-10-16T10:54:00.000Z	harriseldon	fenerli7	if it were mounted as a specific user, there would be a uid= option. I do not see that. bobertdos is correct in verifying permissions then.

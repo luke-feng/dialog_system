@@ -1,0 +1,6 @@
+2007-11-22T02:55:00.000Z	_AxS_		hey all -- ubuntu question..  The 'network manager' , i that an X app from gnome or some such, or is it a CLI thing?
+2007-11-22T02:56:00.000Z	soundray	_AxS_	it's a graphical (gnome) wizard
+2007-11-22T02:57:00.000Z	_AxS_	soundray	ahh, right.  is there a way to specify wpa keys and such so wifi works on bootup?
+2007-11-22T02:57:00.000Z	_AxS_	soundray	instead of using networkmanager?
+2007-11-22T02:58:00.000Z	soundray	_AxS_	yes, you can make the appropriate settings in /etc/network/interfaces (documented in man interfaces)
+2007-11-22T02:58:00.000Z	_AxS_	soundray	tnx

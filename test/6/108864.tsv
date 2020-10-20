@@ -1,0 +1,6 @@
+2007-01-17T10:45:00.000Z	PuG_		quick question, how can I force install a .deb file ?
+2007-01-17T10:47:00.000Z	PuG_		would it be something like -force ?
+2007-01-17T10:47:00.000Z	PuG_		for force install .deb file?
+2007-01-17T10:48:00.000Z	DARKGuy	PuG_	try typing "sudo dpkg --" then press tab twice and check the force options there. then "man dpkg" and read the options there.
+2007-01-17T10:55:00.000Z	DARKGuy	PuG_	you need to kill the process that's locking it then
+2007-01-17T10:56:00.000Z	DARKGuy	PuG_	type "ps -ax" search for something along the lines of dpkg or apt and kill it using "kill ####" (#### is a number)

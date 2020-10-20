@@ -1,0 +1,6 @@
+2007-12-07T15:53:00.000Z	CRoWsNeST		hello any one in here
+2007-12-07T15:54:00.000Z	CRoWsNeST		ok am new to ubuntu and am losed got it installed and try to get my graphic card working and the get the destop effects to work
+2007-12-07T15:54:00.000Z	CRoWsNeST		but i don;t no how to download beryl
+2007-12-07T15:55:00.000Z	magnetron	CRoWsNeST	install the package for advanced compiz settings
+2007-12-07T15:56:00.000Z	magnetron	CRoWsNeST	in applications > add/remove, search for compiz
+2007-12-07T15:57:00.000Z	magnetron	CRoWsNeST	in administration, run "restricted driver manager"

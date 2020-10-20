@@ -1,0 +1,6 @@
+2010-04-19T02:00:00.000Z	zch3		using both Movie Player and VLC I've tried to watch a dvd.  i can see the intro video leading into the main menu but the actual video wont play
+2010-04-19T02:00:00.000Z	zch3		any insight?
+2010-04-19T02:00:00.000Z	zch3		Its a national geographic movie about national parks
+2010-04-19T02:01:00.000Z	Jordan_U	zch3	Can you check "dmesg" for any read errors from the DVD drive?
+2010-04-19T02:00:00.000Z	Jordan_U	zch3	What movie?
+2010-04-19T02:04:00.000Z	Jordan_U	zch3	If it actually causes vlc to crash then I think it's a new kind of DRM I've encountered recently.

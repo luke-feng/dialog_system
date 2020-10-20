@@ -1,0 +1,6 @@
+2007-06-02T13:54:00.000Z	Ropechoborra		Is there a way to install Ubuntu without haveing a CD drive? (and without USB Boot)
+2007-06-02T13:55:00.000Z	logixoul	Ropechoborra	yes, use wubi
+2007-06-02T13:55:00.000Z	Ropechoborra	logixoul	wubi ? whats that?
+2007-06-02T13:55:00.000Z	logixoul	Ropechoborra	http://www.cutlersoftware.com/ubuntusetup/wubi/en-US/index.html
+2007-06-02T13:56:00.000Z	logixoul	Ropechoborra	on the other hand, if you don't use Windows, you can use a VM like VMWare to emulate the install CD iso
+2007-06-02T13:58:00.000Z	logixoul	Ropechoborra	wubi downloads the necessary data.

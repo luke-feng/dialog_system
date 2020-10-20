@@ -1,0 +1,6 @@
+2005-04-10T05:17:00.000Z	pvanhoof		How come there isn't a  "/lib/modules/2.6.10-5-686/build" ?
+2005-04-10T05:17:00.000Z	pvanhoof		and which package would provide it
+2005-04-10T05:17:00.000Z	pvanhoof		or, how can I build it from source?
+2005-04-10T05:18:00.000Z	Fikrann	pvanhoof	kernel-headers should be the package you want.
+2005-04-10T05:18:00.000Z	pvanhoof	Fikrann	well, thats a virtual package
+2005-04-10T05:19:00.000Z	Fikrann	pvanhoof	that I can't help you with.

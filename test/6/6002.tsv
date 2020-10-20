@@ -1,0 +1,6 @@
+2011-10-13T03:50:00.000Z	Asurah		is there anything I should know about the install?
+2011-10-13T03:50:00.000Z	Asurah		and is there any differences in user experience between alternate and normal versions?
+2011-10-13T03:50:00.000Z	recon69_lap	Asurah	well, just burn the .iso and boot from it, then run the hardware tests to see if you got problems before installing
+2011-10-13T03:52:00.000Z	Asurah	recon69_lap	- what do you mean by hardware tests? how can I have hardware failures installing one OS but have no problems on the other one?
+2011-10-13T03:55:00.000Z	recon69_lap	Asurah	you can use the live cd to see likely problems before you install anything. just saying you can check first
+2011-10-13T03:55:00.000Z	Asurah	recon69_lap	- how can I do that?

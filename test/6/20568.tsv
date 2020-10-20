@@ -1,0 +1,6 @@
+2010-05-22T19:44:00.000Z	blue_anna		how do I get the on screen keyboard (gok) to launch? I have assistive technologies enabled -- this app http://library.gnome.org/users/gnome-access-guide/stable/gok.html.en
+2010-05-22T19:46:00.000Z	Guest91163	blue_anna	yeah, try typing gok in the terminal
+2010-05-22T19:47:00.000Z	Guest91163	blue_anna	How did u install it? Using apt-get?
+2010-05-22T19:47:00.000Z	blue_anna	Guest91163	its a basic part of gnome, it should always be installed
+2010-05-22T19:48:00.000Z	Guest91163	blue_anna	No. Its not installed. just try "sudo apt-get install gok"
+2010-05-22T19:50:00.000Z	blue_anna	Guest91163	oh my god, thanks man -- that should be considered a bug, not to install assistive technology apps by default

@@ -1,0 +1,6 @@
+2009-05-18T20:51:00.000Z	brandonc503		hey all
+2009-05-18T20:52:00.000Z	brandonc503		so im trying to upload files via web site... what should i set the containing folders chown and chmod to? and what should i set the file itselves chown and chmod to?
+2009-05-18T20:52:00.000Z	nibbler	brandonc503	most likely it should be readable by the user that runs the webserver
+2009-05-18T20:53:00.000Z	brandonc503	nibbler	can i have full privilages to my ubuntu user name and www-data im using for web site user?
+2009-05-18T20:53:00.000Z	brandonc503		repos?
+2009-05-18T20:53:00.000Z	nibbler	brandonc503	this is not recommended. if your upload via web, the file will belong to webuser anyway

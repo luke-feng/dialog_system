@@ -1,0 +1,6 @@
+2007-10-22T23:47:00.000Z	newuser		though 7.10 can open or mount ntfs file but why cannot?
+2007-10-22T23:49:00.000Z	newuser		why I cannot open my ntfs windows partition
+2007-10-22T23:50:00.000Z	newuser		any can tell me why I cannot open ntfs windows partition?
+2007-10-22T23:51:00.000Z	monkeyspasm	newuser	YOu using gutsy or feisty or other?
+2007-10-22T23:52:00.000Z	newuser	monkeyspasm	gusty
+2007-10-22T23:52:00.000Z	monkeyspasm	newuser	go to package manager, search for NTFS, install the ntfs configuration tool. Once itś installed, you can allow/ disable write to NTFS devices with a click.

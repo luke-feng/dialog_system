@@ -1,0 +1,6 @@
+2007-01-02T16:44:00.000Z	Polysics		hello ppl!
+2007-01-02T16:44:00.000Z	Polysics		how come i can't get keys from the pgp site?
+2007-01-02T16:44:00.000Z	Polysics		anyone having same problem?
+2007-01-02T16:45:00.000Z	Polysics		i'm using this command: gpg --keyserver hkp://wwwkeys.eu.pgp.net --recv-keys 0x483170E9
+2007-01-02T16:45:00.000Z	kitche	Polysics	because you might be using the wrong server?
+2007-01-02T16:46:00.000Z	kitche	Polysics	yes that just gets the key but doesn't check the public key to make sure it's signed correctly

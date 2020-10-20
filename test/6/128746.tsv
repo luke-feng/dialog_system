@@ -1,0 +1,6 @@
+2005-12-18T09:17:00.000Z	ejofee		folks, i have a question: they say enabling root and running ubuntu admin utilities from root could break them. what if i disable root and then "sudo xterm" and run any admin tool from that xterm session -- would that be the same as though running them from (enabled) root?
+2005-12-18T09:19:00.000Z	redguy|work	ejofee	scary things will happen when you go to sleep
+2005-12-18T09:19:00.000Z	ejofee	redguy|work	why...?
+2005-12-18T09:20:00.000Z	ejofee	redguy|work	:)
+2005-12-18T09:25:00.000Z	redguy|work	ejofee	sorry, was going to make up a scary story, but it would take too long
+2005-12-18T09:26:00.000Z	ejofee	redguy|work	please make a shorter version of it. i am interested :)

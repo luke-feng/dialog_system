@@ -1,0 +1,6 @@
+2009-10-31T23:18:00.000Z	Brova		gergorovius: System > Administration > Update Manager.
+2009-10-31T23:18:00.000Z	Dr_Willis	Brova	 in mot sure that will work for one made with usb-disk-creator
+2009-10-31T23:19:00.000Z	Dr_Willis	Brova	 that would seem very very odd...  since most of the stuff is in a read only file. then the change/caser file is used..
+2009-10-31T23:20:00.000Z	Dr_Willis	Brova	  Idont have one of those to test any more..  i made a grub2 flash drive that boots the iso file now. :) so i dont have persistant saves on it yet.
+2009-10-31T23:21:00.000Z	Dr_Willis	Brova	 :) i will just paste my delicious.com links
+2009-10-31T23:23:00.000Z	Dr_Willis	Brova	 it was rather easy to get going.. installed grub2 to the pendrive.. hand made a grub.cfg for it.

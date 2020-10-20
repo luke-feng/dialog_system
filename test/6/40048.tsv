@@ -1,0 +1,6 @@
+2009-06-28T18:16:00.000Z	grawity	oskar-	er, it's Alt-SysRq-R,E,I,S,U,B
+2009-06-28T18:16:00.000Z	grawity	oskar-	Not Ctrl-Alt.
+2009-06-28T18:20:00.000Z	grawity	oskar-	er, Firefox will be already killed by the E key.
+2009-06-28T18:21:00.000Z	oskar-	grawity	 depends on how the e key works.. the process is in an uninterruptible sleep. it does not react on signals
+2009-06-28T18:21:00.000Z	grawity	oskar-	well, either E (SIGTERM), I (SIGKILL), or S (sync) will have it killed I'm sure.
+2009-06-28T18:21:00.000Z	grawity	oskar-	yeah, sync did help me once to wake a process from unint sleep.

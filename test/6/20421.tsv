@@ -1,0 +1,6 @@
+2010-06-05T13:18:00.000Z	well_laid_lawn	jacekowski	strace?
+2010-06-05T13:18:00.000Z	well_laid_lawn		!clone | mariya
+2010-06-05T13:20:00.000Z	jacekowski		Linux jacekowski.org 2.6.32.2-xxxx-grs-ipv4-64 #1 SMP Tue Dec 29 14:41:12 UTC 2009 x86_64 GNU/Linux
+2010-06-05T13:21:00.000Z	jacekowski	well_laid_lawn	no
+2010-06-05T13:21:00.000Z	well_laid_lawn		k
+2010-06-05T13:21:00.000Z	jacekowski	well_laid_lawn	strace can only trace system calls

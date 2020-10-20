@@ -1,0 +1,6 @@
+2006-12-16T07:34:00.000Z	seanh		Hey folks, I'm trying to get a friends Ubuntu laptop to access another friend's WindowsXP shared folder by following this: https://help.ubuntu.com/community/MountWindowsSharesPermanently Anyone know how I find out the name of the server and the share in Windows?
+2006-12-16T07:35:00.000Z	frogzoo	seanh	net show \\ip           iirc
+2006-12-16T07:55:00.000Z	frogzoo	seanh	did you mount the smb share ?
+2006-12-16T07:56:00.000Z	seanh	frogzoo	-- I have to mount it first? Do you know how I do it?
+2006-12-16T07:56:00.000Z	frogzoo	seanh	easiest way I think is to use smb4k
+2006-12-16T08:02:00.000Z	seanh	frogzoo	- smb4k is saying smbmnt fails, it says "smbmnt must be installed suid root for direct user mounts"

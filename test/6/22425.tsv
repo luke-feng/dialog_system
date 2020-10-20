@@ -1,0 +1,6 @@
+2010-04-16T10:41:00.000Z	bullgard4		top reports: "96,7%wa." What does 'wa' stand for?
+2010-04-16T10:42:00.000Z	crucialhoax	bullgard4	iowait
+2010-04-16T10:46:00.000Z	bullgard4	crucialhoax	I did not find a definition for "iowait" in English I only found a definition for "iowait" in French: "* Correspond au temps d'attente du système pour l'écriture ou la lecture de données. Un IOwait de 10 % signifie que 10% de l'activité du CPU n ..." (fr.wikipedia.org/wiki/Iowait)." Can you tell me what is meant by "iowait" in English, please?
+2010-04-16T10:47:00.000Z	crucialhoax	bullgard4	Amount of time the CPU has been waiting for I/O to complete. <--- from man top
+2010-04-16T10:48:00.000Z	bullgard4	crucialhoax	Excellent! (Sorry that I did not look up 'man top'.) --  Thank you for your help.
+2010-04-16T10:49:00.000Z	crucialhoax	bullgard4	man top | grep wa is what I used. No problem :)

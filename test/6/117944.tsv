@@ -1,0 +1,6 @@
+2006-05-21T09:17:00.000Z	nundi		do you know a good music-player in terminal (for mp3)?
+2006-05-21T09:18:00.000Z	nundi		like play hello.mp3
+2006-05-21T09:19:00.000Z	nundi		ok, thanx
+2006-05-21T09:19:00.000Z	nundi		another question: how can i hide the terminal border??
+2006-05-21T09:20:00.000Z	siccness	nundi	not really, you need to use xterm
+2006-05-21T09:23:00.000Z	siccness	nundi	For removing the borders, you'll need to install eterm.

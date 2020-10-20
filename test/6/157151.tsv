@@ -1,0 +1,6 @@
+2005-01-19T16:59:00.000Z	xav_		[transcode]  warning : /usr/lib/libavcodec.so.0: undefined symbol: NeAACDecOpen
+2005-01-19T16:59:00.000Z	xav_		mplayer: relocation error: /usr/lib/libavcodec.so.0: undefined symbol: NeAACDecOpen
+2005-01-19T17:00:00.000Z	xav_		does anyone have an idea what it could be?
+2005-01-19T17:02:00.000Z	xav_		well this mix of unstable and stable annoys me
+2005-01-19T17:02:00.000Z	xav_		all unstable is maybe better
+2005-01-19T17:03:00.000Z	fmazoit	xav_	then use hoary

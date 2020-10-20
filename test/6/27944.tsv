@@ -1,0 +1,6 @@
+2009-11-29T03:50:00.000Z	MrSnead		can anyone help me with Grub
+2009-11-29T03:50:00.000Z	MrSnead		my system won't boot, just hangs at a blinking cursur
+2009-11-29T03:52:00.000Z	MrSnead		seemed to work fine until some Kernel upgrade added grub2 to my boot
+2009-11-29T03:53:00.000Z	MrSnead		grub
+2009-11-29T03:54:00.000Z	MrSnead		how do you tell what but loader your using grub or grub2
+2009-11-29T03:55:00.000Z	vermapratyush_	MrSnead	it work in grub2 but not in grub

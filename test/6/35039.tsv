@@ -1,0 +1,6 @@
+2010-11-01T08:15:00.000Z	gasgodoy		Hi there!!! i'm a newbbie from Argentina.. anywan ca helme with that i think is a simple problem?
+2010-11-01T08:16:00.000Z	gasgodoy		ok thanks
+2010-11-01T08:16:00.000Z	gasgodoy		i want to hide some partitions in places at my gnome
+2010-11-01T08:17:00.000Z	gasgodoy		ive readed that i need to edit a file at etc folder
+2010-11-01T08:17:00.000Z	gasgodoy		but the samples that ive readed are diferent that my file at etc folder
+2010-11-01T08:18:00.000Z	iflema	gasgodoy	/etc/fstab

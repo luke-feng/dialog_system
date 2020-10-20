@@ -1,0 +1,6 @@
+2008-10-07T06:31:00.000Z	andre_pl		I've got a gutsy machine that refuses to upgrade to hardy, complaining over gnome-screensaver or some such garbage. does anyone know how to brute force my way through this?
+2008-10-07T06:31:00.000Z	danbh_intrepid	andre_pl	you should upgrade to the latest gutsy first...
+2008-10-07T06:32:00.000Z	andre_pl	danbh_intrepid	what i did was sudo apt-get update, sudo apt-get upgrade, then changed gutsy to hardy in my sources.list and did sudo aptitude dist-upgrade
+2008-10-07T06:33:00.000Z	danbh_intrepid	andre_pl	oh, that method is unsupported, why dont you use the supported method?  update-manager?
+2008-10-07T06:33:00.000Z	danbh_intrepid	andre_pl	no
+2008-10-07T06:33:00.000Z	danbh_intrepid	andre_pl	see the msg from ubottu

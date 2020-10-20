@@ -1,0 +1,6 @@
+2008-05-13T23:56:00.000Z	thename		should i delete title  Ubuntu 7.10, kernel 2.6.22-14-generic (on /dev/sda3)
+2008-05-13T23:56:00.000Z	thename		root  (hd0,2)
+2008-05-13T23:56:00.000Z	thename		kernel  /boot/vmlinuz-2.6.22-14-generic root=UUID=2c4e2e4d-975a-40f7-90cc-cf963835e8ca ro quiet splash
+2008-05-13T23:56:00.000Z	thename		initrd  /boot/initrd.img-2.6.22-14-generic
+2008-05-13T23:56:00.000Z	thename		savedefault
+2008-05-13T23:56:00.000Z	FloodBot1	thename	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

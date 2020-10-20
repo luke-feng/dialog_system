@@ -1,0 +1,6 @@
+2006-06-13T13:28:00.000Z	higen		hey, anyone know how i can force a diskcheck at boot in ubuntu?
+2006-06-13T13:29:00.000Z	nickrud	higen	sudo touch /forcefsck I think
+2006-06-13T13:29:00.000Z	higen	nickrud	 sounds good i will try that
+2006-06-25T12:45:00.000Z	nickrud	higen	easytag
+2006-06-25T12:45:00.000Z	higen	nickrud	ok.. and it supports editing over smb?
+2006-06-25T12:45:00.000Z	nickrud	higen	that I have no idea about, your network is yours

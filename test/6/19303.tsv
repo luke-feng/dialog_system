@@ -1,0 +1,6 @@
+2010-07-05T15:57:00.000Z	imgx64		Bash question: I have files that have spaces in their names, "for i in *" processes these files as two (example: "file one" as "file" and "one"), how do I make it treat them as one file?
+2010-07-05T15:57:00.000Z	erUSUL	imgx64	quote the name
+2010-07-05T15:57:00.000Z	erUSUL	imgx64	for file in *; do ... "$file" ...; done
+2010-07-05T15:58:00.000Z	erUSUL		!info nautilus-cd-burner
+2010-07-05T15:59:00.000Z	imgx64	erUSUL	Oh, thanks. That's kinda unexpected.. But thanks for the help!
+2010-07-05T15:59:00.000Z	erUSUL	imgx64	well is expected if you know how the shell works ;P

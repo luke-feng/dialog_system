@@ -1,0 +1,6 @@
+2006-03-19T06:47:00.000Z	dcode		I just bought this Intel SRCS28X serial ATA raid controller to drop in my ubuntu file server, and I found that the card doesn't fit in my PCI slot.  The card is PCI-X but backwards compatitable with 32-bit PCI
+2006-03-19T06:47:00.000Z	dcode		my friend told me that it works in older PCI slots if you turn it around...is that true?
+2006-03-19T06:47:00.000Z	dcode		I think it would fit
+2006-03-19T06:49:00.000Z	dcode		can someone help me?  Is it possible to get a PCI-X card into a PCI slot by turning it around?
+2006-03-19T06:49:00.000Z	dcode		(and it works)
+2006-03-19T06:49:00.000Z	rukuartic	dcode	Probably a bad idea :P

@@ -1,0 +1,6 @@
+2008-01-15T12:25:00.000Z	nibsa1242		How do I figure out what is locking my /var/cache/apt/archives/lock?
+2008-01-15T12:25:00.000Z	dxdt	nibsa1242	you have two programs open for updating.  Like synaptic open while trying to use apt-get or two synaptics, that sort of thing
+2008-01-15T12:25:00.000Z	dxdt	nibsa1242	that is what that means
+2008-01-15T12:26:00.000Z	nibsa1242	dxdt	bulmer I know what tends to lock it... but I don't have anything open other then a terminal and its locked
+2008-01-15T12:27:00.000Z	dxdt	nibsa1242	oh weird.  Are you forgetting to sudo?
+2008-01-15T12:32:00.000Z	nibsa1242	dxdt	bulmer ok I did a sudo lsof | grep apt  apt-get seems to have the /var/cache/apt/archives/lock open but I'm not running it...

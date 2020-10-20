@@ -1,0 +1,6 @@
+2007-11-23T01:48:00.000Z	MeeKs		how do i login as root in ubuntu?
+2007-11-23T01:49:00.000Z	MeeKs		so 'sudo root'
+2007-11-23T01:49:00.000Z	MeeKs		thats not working
+2007-11-23T01:49:00.000Z	scguy318	MeeKs	root isn't a command
+2007-11-23T01:49:00.000Z	scguy318	MeeKs	read https://help.ubuntu.com/community/RootSudo
+2007-11-23T01:51:00.000Z	scguy318	MeeKs	gksudo gedit file.conf

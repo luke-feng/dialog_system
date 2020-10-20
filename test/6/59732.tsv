@@ -1,0 +1,6 @@
+2008-04-24T06:04:00.000Z	jhoc2x		again.. jezzz.. i was disconnected.. ^_^
+2008-04-24T06:04:00.000Z	jhoc2x		!flashdrive
+2008-04-24T06:04:00.000Z	jhoc2x		!mount
+2008-04-24T06:05:00.000Z	jhoc2x		!diskmounter
+2008-04-24T06:07:00.000Z	jhoc2x		how to mount a drive?
+2008-04-24T06:08:00.000Z	Jester54	jhoc2x	sudo mount -t type /dev/hd /mnt

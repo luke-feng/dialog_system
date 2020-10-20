@@ -1,0 +1,6 @@
+2012-06-03T08:52:00.000Z	kisuke		any one know why a bluetooth headset (audio sink service) quits working after ~ 10 minutes?
+2012-06-03T08:52:00.000Z	CoJaBo	kisuke	Power save mode?
+2012-06-03T08:53:00.000Z	kisuke	CoJaBo	not enables in any way, shape or form.
+2012-06-03T08:54:00.000Z	kisuke	CoJaBo	it jsut cut out in the middle of useage and now it wont pair to the headset anymore.
+2012-06-03T08:54:00.000Z	CoJaBo	kisuke	Some of the headsets themselves may; is audio playing?
+2012-06-03T08:54:00.000Z	kisuke	CoJaBo	it was.

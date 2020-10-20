@@ -1,0 +1,6 @@
+2009-07-28T09:39:00.000Z	ozatomic		is there a way to check if a windows share i have mounted if any of the files are in use?
+2009-07-28T09:39:00.000Z	mechtech	ozatomic	try to open one
+2009-07-28T09:46:00.000Z	ozatomic	mechtech	i tried copying it and it was fine but i know the file is still being generated on the other computer
+2009-07-28T09:47:00.000Z	mechtech	ozatomic	and you want to be able to view the progress from your linux machine>
+2009-07-28T09:49:00.000Z	ozatomic	mechtech	no, i have a PVR on the windows machine dumping the video/audio to a mpg file. And i want to be able to pool the directory with a script that checks to see if windows has finished writing to the file. And then if it has i want the script to do its stuff
+2009-07-28T09:50:00.000Z	mechtech	ozatomic	over my head...good luck

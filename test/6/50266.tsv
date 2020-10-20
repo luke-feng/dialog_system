@@ -1,0 +1,6 @@
+2009-08-04T08:31:00.000Z	xim_		i want to make a seperate partition for swap space.  how big should it be?
+2009-08-04T08:32:00.000Z	theatro	xim_	how much RAM do you have?
+2009-08-04T08:32:00.000Z	xim_	theatro	i think 4g is there a command to check?
+2009-08-04T08:32:00.000Z	theatro	xim_	free -m
+2009-08-04T08:33:00.000Z	xim_	theatro	4.2gig
+2009-08-04T09:15:00.000Z	theatro	xim_	*hurts*

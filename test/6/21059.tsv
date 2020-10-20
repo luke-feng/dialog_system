@@ -1,0 +1,6 @@
+2011-05-18T01:29:00.000Z	gebbione		hi all, what is the best place to install applications manually for instance from tarball files?
+2011-05-18T01:30:00.000Z	gebbione		i mean /some/commonappfolder/myapplication
+2011-05-18T01:31:00.000Z	gebbione		would you put there also things like the android sdk for instance?
+2011-05-18T01:31:00.000Z	Darael	gebbione	For applications you've installed yourself, you would ususally put in in /opt.  That's what FHS says, anyway, which is the standard.
+2011-05-18T01:31:00.000Z	gebbione		the android sdk is just a manual thing
+2011-05-18T01:32:00.000Z	gebbione	Darael	thanks i think that is what i was after

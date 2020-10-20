@@ -1,0 +1,6 @@
+2005-08-31T14:19:00.000Z	rebug		can ubuntu read ufs2 disks?
+2005-08-31T14:21:00.000Z	rebug		i'm considering installing ubuntu 5.04 over a freebsd 5 install, but need to know if my ufs2 formatted disks will be available
+2005-08-31T14:22:00.000Z	rebug		nobody expects choice in their linux distributions!
+2005-08-31T14:22:00.000Z	chris_unfalterin	rebug	???
+2005-08-31T14:23:00.000Z	chris_unfalterin		I repeat: does anyone know why gparted might hang while I mkfs.ext3 /dev/sda1/ ?
+2005-08-31T14:24:00.000Z	rebug	chris_unfalterin	amongst our weaponry are such elements as fear, surprise, etc...

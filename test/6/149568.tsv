@@ -1,0 +1,6 @@
+2007-07-10T06:28:00.000Z	dredhammer		is there a way to get real media playback in totem using the xine backend?
+2007-07-10T06:28:00.000Z	dredhammer		is there a way to get real media playback in totem using the xine backend?
+2007-07-10T06:28:00.000Z	NigelS	dredhammer	yeah
+2007-07-10T06:28:00.000Z	NigelS	dredhammer	follow the restricted formats guide
+2007-07-10T06:28:00.000Z	NigelS	dredhammer	and use medibuntu to get binary codecs
+2007-07-10T06:30:00.000Z	NigelS	dredhammer	please preface replies with a nick or they're hard to spot - https://help.ubuntu.com/community/Medibuntu <-- get the w32codecs following this guide and this guide https://help.ubuntu.com/community/RestrictedFormats contains full details of everything else

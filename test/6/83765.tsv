@@ -1,0 +1,6 @@
+2007-07-15T11:06:00.000Z	Savenger		hey pplz. i have scratching sound when playing ut2003 or diablo2@wine. can any1 help me out?
+2007-07-15T11:07:00.000Z	Savenger		no, ut2003 runs direclty in ubuntu not in wine
+2007-07-15T11:07:00.000Z	Anlar	Savenger	disable esd for sure
+2007-07-15T11:08:00.000Z	Savenger	Anlar	how can i disable it?
+2007-07-15T11:08:00.000Z	Anlar	Savenger	preferences -> sound. then use "winecfg" to select alsa as sound device.. and I don't know about UT but perhaps it just auto-detects things
+2007-07-15T11:10:00.000Z	Savenger	Anlar	i have already alsa as sound device

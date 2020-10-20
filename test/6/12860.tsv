@@ -1,0 +1,6 @@
+2012-09-19T13:35:00.000Z	akis		how can i be sure before install a program that my device works under the right driver?
+2012-09-19T13:36:00.000Z	akis		yea ok. but how?
+2012-09-19T13:37:00.000Z	akis		<additonal drivers> doesn't help me
+2012-09-19T13:39:00.000Z	akis		my hardware is: <<Zoran Co. Personal Media Division (Nogatech) PixelView PlayTv-USB PRO (PAL) FM>>
+2012-09-19T13:39:00.000Z	k1l	akis	http://wiki.debian.org/DeviceDatabase/USB  says its supported by the kernel modul usbvision , but couldnt find more about it
+2012-09-19T13:44:00.000Z	k1l	akis	the driver/modul is loaded

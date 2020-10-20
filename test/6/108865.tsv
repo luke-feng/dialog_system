@@ -1,0 +1,6 @@
+2007-09-23T09:41:00.000Z	DARKGuy		hey guys, is there a way to make X use another X config file instead of only /etc/X11/xorg.conf ?
+2007-09-23T09:42:00.000Z	howlingmadhowie	DARKGuy	if you were starting x directly, sure. but you're starting it through the gdm wrapping script in /etc/init.d. so you'd have to have a look at that script
+2007-09-23T09:43:00.000Z	DARKGuy	howlingmadhowie	can I run two X servers editing that script ?
+2007-09-23T09:44:00.000Z	howlingmadhowie	DARKGuy	i don't think i've ever seen a system with two x-servers running at the same time.
+2007-09-23T09:45:00.000Z	DARKGuy	howlingmadhowie	me either and I'm gonna give it a try (it could be useful in an environment where lots of people connect to a server and use multiple X sessions ;) )
+2007-09-23T09:46:00.000Z	howlingmadhowie	DARKGuy	if you're just forwarding x-sessions using vnc or similar, i don't think an x server is started everytime someone logs in

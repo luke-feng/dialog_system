@@ -1,0 +1,6 @@
+2011-06-20T20:39:00.000Z	ASKidwai		Hello
+2011-06-20T20:40:00.000Z	ASKidwai		how do I kill something that's running by the terminal?
+2011-06-20T20:40:00.000Z	ASKidwai		sudo killall doesn't work
+2011-06-20T20:41:00.000Z	ASKidwai		Firefox isn't responding
+2011-06-20T20:41:00.000Z	ASKidwai		I wanna kill it
+2011-06-20T20:42:00.000Z	Cheery	ASKidwai	ps ax | grep firefox

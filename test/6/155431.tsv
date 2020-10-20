@@ -1,0 +1,6 @@
+2005-02-11T16:47:00.000Z	Scognito		does someone uses framebuffer devices?
+2005-02-11T16:47:00.000Z	LarstiQ	Scognito	yes
+2005-02-11T16:47:00.000Z	Scognito	LarstiQ	did you recompiled the kernel?
+2005-02-11T16:48:00.000Z	LarstiQ	Scognito	on ppc, there is no such thing as text mode, so I _have_ to use a framebuffer anyway
+2005-02-11T16:48:00.000Z	Scognito	LarstiQ	did you recompiled the kernel?
+2005-02-11T16:49:00.000Z	LarstiQ	Scognito	yes

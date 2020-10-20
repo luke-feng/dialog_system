@@ -1,0 +1,6 @@
+2008-09-24T20:59:00.000Z	hoens		I'm trying to setup my sound card to output via optical cable s/opdf, but it's not working. Any suggestions?
+2008-09-24T21:01:00.000Z	atlef	hoens	good luck, never got mine to work so had to go back to analog sound
+2008-09-24T20:59:00.000Z	atlef	hoens	blame pulseaudio
+2008-09-24T21:00:00.000Z	hoens	atlef	i'm not looking to blame anyone, I just want this to work :(
+2008-09-24T21:22:00.000Z	atlef	hoens	get partedmagic LiveCD
+2008-09-24T21:22:00.000Z	atlef	hoens	http://partedmagic.com/wiki/PartedMagic.php

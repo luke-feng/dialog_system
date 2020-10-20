@@ -1,0 +1,6 @@
+2010-10-05T02:21:00.000Z	antIP		!pastebinit Existing instance running - activating via D-Bus.
+2010-10-05T02:21:00.000Z	antIP		^CTraceback (most recent call last):
+2010-10-05T02:21:00.000Z	antIP		  File "/usr/lib/pymodules/python2.6/dbus/connection.py", line 574, in msg_reply_handler
+2010-10-05T02:21:00.000Z	antIP		    def msg_reply_handler(message):
+2010-10-05T02:21:00.000Z	antIP		KeyboardInterrupt
+2010-10-05T02:21:00.000Z	FloodBot2	antIP	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

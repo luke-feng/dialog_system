@@ -1,0 +1,6 @@
+2005-02-03T14:50:00.000Z	Schaap		damn apache2 is annoying to get right over apt
+2005-02-03T14:51:00.000Z	Schaap		it installs but thats it
+2005-02-03T14:51:00.000Z	Schaap		dunno where everything is
+2005-02-03T14:51:00.000Z	Schaap		or why it keeps going to /apache2-default/
+2005-02-03T14:51:00.000Z	tritium	Schaap	"dpkg -L" will list files in a package
+2005-02-03T14:52:00.000Z	tritium	Schaap	(supply the package name, of course, in the command)

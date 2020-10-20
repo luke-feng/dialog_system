@@ -1,0 +1,6 @@
+2011-01-22T16:11:00.000Z	erUSUL	amalgama	depends on what you want to do ...
+2011-01-22T16:12:00.000Z	amalgama	erUSUL	check options, change stuff like default options, running without gnome, main goal is to see, learn and play :)
+2011-01-22T16:13:00.000Z	erUSUL	amalgama	you edit /etc/default/grub and then run « sudo update-grub »
+2011-01-22T16:14:00.000Z	amalgama	erUSUL	thanx
+2011-01-30T20:57:00.000Z	erUSUL	amalgama	is a bug
+2011-01-30T20:57:00.000Z	erUSUL	amalgama	what does « lsb_release -a » says?

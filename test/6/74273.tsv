@@ -1,0 +1,6 @@
+2009-10-25T05:13:00.000Z	mizipzor		how do i check which driver my NIC is using?
+2009-10-25T05:14:00.000Z	Kirsch	mizipzor	lsmod
+2009-10-25T05:15:00.000Z	mizipzor	Kirsch	hm... i cant see anything related to my network there
+2009-10-25T05:16:00.000Z	Kirsch	mizipzor	thats a list of all the drivers that are loaded, by process of elimination and lspci, you can probably figure out what you have
+2009-10-25T05:16:00.000Z	Kirsch	mizipzor	beyond that, i don't think i can help, maybe someone else can
+2009-10-25T05:16:00.000Z	mizipzor	Kirsch	ok thanks

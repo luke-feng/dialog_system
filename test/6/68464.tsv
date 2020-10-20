@@ -1,0 +1,6 @@
+2008-01-08T03:50:00.000Z	functionofxy		help please: is it possible to request a specific ip address through the dchp server of your local router?
+2008-01-08T03:51:00.000Z	|REM|	functionofxy	you can set your router to give you a specific ip address based on your mac address
+2008-01-08T03:51:00.000Z	functionofxy	|REM|	i dont have access to the dhcpd.conf file of the server
+2008-01-08T03:52:00.000Z	functionofxy	|REM|	any other thoughts?
+2008-01-08T03:53:00.000Z	|REM|	functionofxy	I'm not real linux swavvy, so no, i dont know of any way to do it
+2008-01-08T03:54:00.000Z	functionofxy	|REM|	thanks anyway!

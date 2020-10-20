@@ -1,0 +1,6 @@
+2009-09-25T15:40:00.000Z	Walex	devilbues	usually they are automounted.
+2009-09-25T15:41:00.000Z	devilbues	Walex	it only mounts inside gnome, If I run fdisk -l doesn't show anything
+2009-09-25T15:44:00.000Z	Walex	devilbues	'fdisk' just shows partitions.
+2009-09-25T15:45:00.000Z	Walex	devilbues	try just 'cat /proc/mounts'.
+2009-09-25T15:45:00.000Z	Walex	devilbues	unless your camera does not have USB storage device interface. In which case bad news.
+2009-09-25T15:47:00.000Z	devilbues	Walex	the camera is mounted right now and working fine on gnome but I don't see anything with 'cat /proc/mounts'

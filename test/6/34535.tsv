@@ -1,0 +1,6 @@
+2009-07-06T20:54:00.000Z	sigvelien		im trying to install the artwiz fonts in ubuntu, and everything is fine, until the last part, where i type "sudo dpkg-reconfigure fontconfig-config" - then nothing happens. shouldnt i be prompted some questions?
+2009-07-06T20:54:00.000Z	scunizi	sigvelien	nope
+2009-07-06T20:55:00.000Z	sigvelien		hmm? according to this: http://www.ubuntugeek.com/howto-install-artwiz-fonts-in-ubuntu.html - i should
+2009-07-06T20:57:00.000Z	scunizi	sigvelien	that was written 2 years ago. subpixel font handling etc has improved a lot.. those same options can be see in one of the menu items off System>Admin... The real question is DO you have access to the fonts?
+2009-07-06T20:58:00.000Z	sigvelien	scunizi	yea. i do
+2009-07-06T20:59:00.000Z	scunizi	sigvelien	good.. check this link for future reference.. https://wiki.ubuntu.com/Fonts

@@ -1,0 +1,6 @@
+2007-02-13T10:45:00.000Z	sable		Stopped Gnome, killed it, killed al lx process by number, and no more were running, did a killall and killall -9 on X
+2007-02-13T10:45:00.000Z	sable		and the x server is still running
+2007-02-13T10:46:00.000Z	sable		Is there a way to start Ubuntu without loading X?
+2007-02-13T10:47:00.000Z	cookthis	sable	boot into debug mode when your at the grub splash
+2007-02-13T10:48:00.000Z	sable	cookthis	what is GRUB?
+2007-02-13T10:48:00.000Z	cookthis	sable	the default boot loader for ubuntu

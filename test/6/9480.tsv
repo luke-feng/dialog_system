@@ -1,0 +1,6 @@
+2011-05-17T14:38:00.000Z	pixxi451		hello everyone, I have a problem, I tried using Wubi to install Ubuntu on a WinXP laptop and I had the iso torrent file in the same folder but it still hangs when it tries to download the torrent file...don't know what to do at this point :(
+2011-05-17T14:39:00.000Z	yabanize	pixxi451	burn the iso to a cd and then install it and when it asks you where choose install alongside windows.. You dont need to use Wubi, The only advantage that will give you is you will be able to uninstall it from windows like any other program
+2011-05-17T14:40:00.000Z	pixxi451		I don't think I have a RW drive :(
+2011-05-17T14:40:00.000Z	yabanize		Can your lappy boot from USB?
+2011-05-17T14:41:00.000Z	pixxi451		I just got this laptop yabanize, don't know, it's a HP Compaq
+2011-05-17T14:41:00.000Z	pixxi451	yabanize	I'm on wifi if that helps

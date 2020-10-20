@@ -1,0 +1,6 @@
+2005-09-30T16:35:00.000Z	hortian		hey, I'm wondering if someone might be able to help me set up CUPS
+2005-09-30T16:35:00.000Z	hortian		I'm having some difficulties
+2005-09-30T05:40:00.000Z	hortian		hey everyone, I just installed ubuntu 5.04 on a dell lattitude D610 and my wireless connection keeps getting dropped ... it works again when I restart, but it happens rather frequently ... any ideas what might cause this?
+2005-09-30T05:41:00.000Z	[LethAL] 	hortian	I have the same problem with 5.10 and a rt2570 chipset... odd
+2005-09-30T05:43:00.000Z	[LethAL] 	hortian	sudo ifup (interface)
+2005-09-30T05:44:00.000Z	[LethAL] 	hortian	yeah, or open System, Preferences, Networking and active it thene

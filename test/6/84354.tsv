@@ -1,0 +1,6 @@
+2007-09-06T10:52:00.000Z	pupi120290		i have problem in network printing. printer does not print anything. the ipp is ipp://192.168.1.2/printers/HP_Deskjet_5740. i even added a rule to the firewall to allow connections from 192.168.0.0/255.255.0.0. what should i do?
+2007-09-06T10:54:00.000Z	pupi120290		anyone help me? i tryed  telnet 192.168.1.2 631 but connection is refused. dont understand it.
+2007-09-06T10:55:00.000Z	bluefox83	pupi120290	try port 21
+2007-09-06T10:55:00.000Z	pupi120290	bluefox83	i tryed port 21 no answser
+2007-09-06T10:56:00.000Z	bluefox83	pupi120290	maybe nobody's home :X
+2007-09-06T10:57:00.000Z	bluefox83	pupi120290	can you log in to 192.168.1.2 from the actual terminal? it sounds like either sshd is off or your ip isn't in the /etc/hosts.allow

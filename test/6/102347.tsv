@@ -1,0 +1,6 @@
+2006-11-07T10:19:00.000Z	Skid	Cocytus	yeah just enable vlan support
+2006-11-07T10:20:00.000Z	Cocytus	Skid	Hmm, where? I need to do more "special" stuff other than adding eth0:1 ?
+2006-11-07T10:22:00.000Z	Cocytus	Skid	Hmm :) ok.
+2006-11-07T10:22:00.000Z	Skid	Cocytus	vlans are just "virtual" lans
+2006-11-07T10:23:00.000Z	Cocytus	Skid	ah, right. I'm prioritizing on ports, mostly.
+2006-11-07T15:14:00.000Z	Cocytus	Skid	/wc

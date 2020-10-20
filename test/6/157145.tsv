@@ -1,0 +1,6 @@
+2005-10-14T13:15:00.000Z	Rev-Marc		greetings all can anyone point me to a good resource for learning about the program "Wine"?
+2005-10-14T13:16:00.000Z	HappyFool	Rev-Marc	one place is the irc channel #winehq
+2005-10-14T13:16:00.000Z	HappyFool	Rev-Marc	also www.winehq.com
+2005-11-24T11:34:00.000Z	HappyFool	Rev-Marc	tar.gz filename comes first
+2005-11-24T11:34:00.000Z	HappyFool	Rev-Marc	'tar czf backuppat.tar.gz /home/pat'
+2005-11-24T11:36:00.000Z	HappyFool	Rev-Marc	check out Applications -> Accessories -> Archive Manager

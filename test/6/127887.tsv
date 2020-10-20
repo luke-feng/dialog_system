@@ -1,0 +1,6 @@
+2005-12-31T08:21:00.000Z	a_new_user		What does that mean : Building dependency tree... Done
+2005-12-31T08:21:00.000Z	a_new_user		E: Couldn't find package gstreamer0.8-plugins-multiverse
+2005-12-31T08:22:00.000Z	gnomefreak	a_new_user	you need to add multiunivers and universe repos to your sources.list
+2005-12-31T08:22:00.000Z	a_new_user	gnomefreak	ie: checking the multiunivers boxes as well as the univers?
+2005-12-31T08:23:00.000Z	gnomefreak	a_new_user	 you cant add multi that way
+2005-12-31T08:28:00.000Z	gnomefreak	a_new_user	 a good idea would be to replace your /etc/apt/sources.list with the ones on that page

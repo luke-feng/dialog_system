@@ -1,0 +1,6 @@
+2005-08-07T08:54:00.000Z	Goodspeed		how can i get into a folder if it says that i cant
+2005-08-07T08:54:00.000Z	Goodspeed		even though its there in terminal
+2005-08-07T08:54:00.000Z	Goodspeed		cd right?
+2005-08-07T08:54:00.000Z	Goodspeed		nmmmm
+2005-08-07T08:55:00.000Z	Goodspeed		how would i install libusb development libraries?
+2005-08-07T08:55:00.000Z	topyli	Goodspeed	do something like "apt-cache search libusb | grep dev" to find the package you want

@@ -1,0 +1,6 @@
+2005-05-07T06:42:00.000Z	davegahan		where can i find that analysis ?
+2005-05-07T06:43:00.000Z	davegahan		great thanks topyli
+2005-05-07T06:44:00.000Z	topyli	davegahan	saw it in branden's dpl report for debianites
+2005-05-08T05:40:00.000Z	topyli	davegahan	you could creating another user and see if gnome works for it. if so, then it's your settings that's to blame
+2005-05-08T05:43:00.000Z	davegahan	topyli	where do I find my startup scripts - settings ?
+2005-05-08T05:45:00.000Z	topyli	davegahan	what's failing is probably gnome-session. i'm not sure where its settings live. does gnome work for a virgin user?

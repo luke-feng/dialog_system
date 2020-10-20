@@ -1,0 +1,6 @@
+2007-12-20T09:56:00.000Z	kahrytan		Hello
+2007-12-20T09:58:00.000Z	kahrytan		WorkingOnWise➲  why at boot?
+2007-12-20T09:59:00.000Z	WorkingOnWise	kahrytan	mainly because my passwords are all a mix of severan numbers and letters....
+2007-12-20T10:03:00.000Z	WorkingOnWise	kahrytan	the only way I have found near logon is at x start, and only in tty 7. When I switch to a differant trminal, the numlock is off. If I come up in the recovery terminal, or x fails to load, no auto  numlock...
+2007-12-20T10:04:00.000Z	WorkingOnWise	kahrytan	i'd have to loook for it...it is an app in the repos just for turning on numlock at x start
+2007-12-20T10:08:00.000Z	WorkingOnWise	kahrytan	i need it before that. it cant be dependant on x starting or not starting.

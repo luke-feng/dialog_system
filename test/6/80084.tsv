@@ -1,0 +1,6 @@
+2007-08-27T11:37:00.000Z	mdk3		QUESTION: in terminal i execute 'sudo ndiswrapper -i bcmwl5.inf'.. output is 'driver bcmwl5 is already installed'... i then run 'ndiswrapper -l'... output shows 'bcmwl5 : invalid driver!'... how do i fix this problem and install my wireless card drivers?... PM WITH ANSWER, THANK YOU.
+2007-08-27T11:38:00.000Z	Flannel	mdk3	what it means is that the driver you have installed now (which is installed, by the way) is the wrong one for your card
+2007-08-27T11:41:00.000Z	Flannel	mdk3	what it means is that the driver you have installed now (which is installed, by the way) is the wrong one for your card
+2007-08-27T11:44:00.000Z	Flannel	mdk3	Talk here, besides, queries are blocked from unidentified nicks on freenode.
+2007-08-27T11:48:00.000Z	mdk3	Flannel	I just double checked.. the bcmwl5.inf is what i want for the dell inspiron 5150 model... i still have the same problem
+2007-08-27T11:55:00.000Z	mdk3	Flannel	I just double checked.. the bcmwl5.inf is what i want for the dell inspiron 5150 model... i still have the same problem

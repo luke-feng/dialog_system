@@ -1,0 +1,6 @@
+2006-12-05T17:56:00.000Z	wizo		what do i ook out for when the ./configure asks me to look at config.log ?
+2006-12-05T17:56:00.000Z	wizo		how do i identify errors?
+2006-12-05T17:57:00.000Z	rasputnik	wizo	scroll up from the bottom. It dumps the environment at the end - above that is the error.
+2006-12-05T06:03:00.000Z	wizo	rasputnik	how would i know which is the error
+2006-12-05T06:03:00.000Z	wizo	rasputnik	i get errors ike error: C compiler cannot create executables
+2006-12-05T06:05:00.000Z	rasputnik	wizo	you have to read the compiler errors, I'm afraid.

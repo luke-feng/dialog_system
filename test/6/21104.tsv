@@ -1,0 +1,6 @@
+2010-05-16T06:45:00.000Z	John		I know this isn't about ubuntu or linux but has anyone purchased or own a refurbished hp laptop?
+2010-05-16T06:45:00.000Z	John		did you install the restricted extras bktech86?
+2010-05-16T06:45:00.000Z	John		sudo apt-get install ubuntu-restricted-extras
+2010-05-16T06:45:00.000Z	John		hmm that is odd then, what media player are you using?
+2010-05-16T06:46:00.000Z	BKTech86	John	what should i do? already have restricted extras!
+2010-05-16T06:49:00.000Z	BKTech86	John	I've played these mp3s before, they work.  I completely removed pulseaudio, would that cause this?

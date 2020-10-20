@@ -1,0 +1,6 @@
+2007-05-29T16:26:00.000Z	mh_le		anyone got any idea on how to mount a dir at a specific location?
+2007-05-29T16:26:00.000Z	silent_	mh_le	mount /asdf /asdf
+2007-05-29T16:27:00.000Z	mh_le	silent_	I was me who wasen't clear. I would like to have done every time I boot
+2007-05-29T16:27:00.000Z	silent_	mh_le	man fstab
+2007-05-29T16:28:00.000Z	mh_le	silent_	I didn't get much info.. I have been trying to use this line but so far no luck... /var/run/mysqld /var/spool/postfix/var/run/mysqld none bind 0 0
+2007-05-29T16:29:00.000Z	silent_	mh_le	"man fstab"

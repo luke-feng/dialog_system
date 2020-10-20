@@ -1,0 +1,6 @@
+2011-07-30T21:15:00.000Z	Crash03		how do i get a driver for my ubuntu system wireless internet
+2011-07-30T21:16:00.000Z	wols	Crash03	what wlan chip does your wireless internet use?
+2011-07-30T21:16:00.000Z	wols	Crash03	in devicemanager
+2011-07-30T21:17:00.000Z	wols	Crash03	that's no wlan chip. linksys doesn't make chips
+2011-07-30T21:18:00.000Z	wols	Crash03	no. like "intel 5100" or "atheros 5005G" or such
+2011-07-30T21:19:00.000Z	wols	Crash03	or a PCI ID of the chip

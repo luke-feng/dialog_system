@@ -1,0 +1,6 @@
+2009-11-02T20:52:00.000Z	AaronSD		Second more pressing problem.  Unable to access Windows 7 shares with samba.  Posted on ubuntu forums, no response today on it (yesterday posted).  Anyone able to do this yet?
+2009-11-02T20:52:00.000Z	tfrew	AaronSD	change the samba sequrity to version 1
+2009-11-02T20:53:00.000Z	AaronSD	tfrew	so thats something i have to tweak even if un ubuntu you are just trying to do "Connect to server" from the "Places" drop down?
+2009-11-02T20:53:00.000Z	tfrew	AaronSD	http://www.builderau.com.au/blogs/codemonkeybusiness/viewblogpost.htm?p=339270746
+2009-11-02T20:55:00.000Z	AaronSD	tfrew	yeah i actually did that last night.  i read that on another post from earlier in the year.   seems like it helps with Vista, but still broken for Windows 7.
+2009-11-02T20:56:00.000Z	AaronSD	tfrew	found a few more replies under that thread you sent me about 128-bit encryption required (disabling).  let me give that a go

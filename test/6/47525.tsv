@@ -1,0 +1,6 @@
+2009-09-20T18:07:00.000Z	Baba_B00ie		i'm running ubuntu 904. i wanted to know how to add the shut off/restart back to the system menu like it was in previous ubuntu releases. any ideas ?
+2009-09-20T18:08:00.000Z	eboyjr	Baba_B00ie	You can right click the menu and select Edit menus
+2009-09-20T18:08:00.000Z	eboyjr	Baba_B00ie	Then find the System option to your left, and select New Item.
+2009-09-20T18:09:00.000Z	Baba_B00ie		yup i'm in the system menu editor.. selected add new item. any idea what the commands are for shutdown, sleep etc ?
+2009-09-20T18:10:00.000Z	eboyjr	Baba_B00ie	http://theos.in/howto/howto-shutdown-reboot-ubuntu-linux-command/
+2009-09-20T18:11:00.000Z	Baba_B00ie	eboyjr	thanks buddy.. i'll check that out

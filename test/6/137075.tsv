@@ -1,0 +1,6 @@
+2006-06-01T12:28:00.000Z	rukuartic		[zero] : what type of filesystem is it?
+2006-06-01T12:28:00.000Z	rukuartic		[zero] : Ah I have a fat32 mount as well. You say that its hdb5?
+2006-06-01T12:29:00.000Z	rukuartic		[zero] : try this
+2006-06-01T12:29:00.000Z	rukuartic		[zero] : sudo mkdir /media/fat32; sudo mount -t vfat /dev/hdb5 /media/fat32
+2006-06-01T12:30:00.000Z	stjepan	rukuartic	it is much better to put it in fstab
+2006-06-01T12:30:00.000Z	rukuartic	stjepan	Yep, I'm just explaining mount

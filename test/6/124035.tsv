@@ -1,0 +1,6 @@
+2008-06-07T15:28:00.000Z	imaginativeone		Jaffarkelshak: worked like a charm
+2008-06-07T15:30:00.000Z	imaginativeone		how do I switch from gnome to kde?
+2008-06-07T15:31:00.000Z	rysiek|pl	imaginativeone	are you trying to install KDE?
+2008-06-07T15:31:00.000Z	rysiek|pl	imaginativeone	a better way would be installing kubuntu-desktop - that way you'll get a nice kdm/gdm entry to choose from at system startup
+2008-06-07T15:32:00.000Z	rysiek|pl	imaginativeone	if you have kubuntu-desktop package (and dependancies) installed, in kdm or gdm (the login screen - whichever you use) you have the "options" menu, and there - "session type". just choose KDE
+2008-06-07T15:32:00.000Z	rysiek|pl	imaginativeone	what work, what have you lost?

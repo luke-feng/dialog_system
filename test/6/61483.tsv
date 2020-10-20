@@ -1,0 +1,6 @@
+2008-07-19T16:00:00.000Z	Frog42		hi
+2008-07-19T16:01:00.000Z	Frog42		my taskbar is away and ive no idea how i get it back ... did you know how that goes
+2008-07-19T16:02:00.000Z	Frog42		my taskbar is away and ive no idea how i get it back ... did you know how that goes
+2008-07-19T16:02:00.000Z	Frog42		my taskbar is away and ive no idea how i get it back ... did you know how that goes
+2008-07-19T16:03:00.000Z	DistroJockey	Frog42	maybe try the following in a terminal:   sudo killall gnome-panel
+2008-07-19T16:04:00.000Z	DistroJockey	Frog42	nothing

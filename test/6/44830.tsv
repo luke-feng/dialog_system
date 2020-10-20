@@ -1,0 +1,6 @@
+2011-08-10T18:11:00.000Z	iderik		Hello, I am trying to install Wine but it cancels because "libwbclient0_3.5.4~dfsg-1ubuntu8.3_amd64.deb" does not exist. I think it is because I am using an older version of ubuntu and I do not want to update because my internetconnection cant download the huge size of new ubuntu. What should I do? Why shouldnt I be able to use wine with an older version of ubuntu? :/ Please help!
+2011-08-10T18:12:00.000Z	coz_	iderik	   first  do   sudo apt-get update  && sudo apt-get dist-upgrade   then   sudo apt-get install wine
+2011-08-10T18:12:00.000Z	iderik	coz_	doesnt that make me update ubuntu?
+2011-08-10T18:12:00.000Z	coz_	iderik	  no  it wont  honest :O
+2011-08-10T18:14:00.000Z	iderik	coz_	dr_willis: I think it works now, because it started to download :) Actually I skipped the "sudo apt-get dist-upgrade", it did sound to my ears that it upgrades my dist, doesn it? :OOO
+2011-08-10T18:15:00.000Z	coz_	iderik	 the dist-upgrade would only update package versions and libraries , it wont go to the next ubuntu version

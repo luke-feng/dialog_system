@@ -1,0 +1,6 @@
+2009-08-16T22:45:00.000Z	tsrk_		how do I purge a package that i've already removed?
+2009-08-16T22:45:00.000Z	ActionParsnip	tsrk_	sudo dpkg -P <package name>
+2009-08-16T22:46:00.000Z	tsrk_	ActionParsnip	dpkg - warning: ignoring request to remove jaolt which isn't installed.
+2009-08-16T22:47:00.000Z	ActionParsnip	tsrk_	if it doesnt show up in: dpkg -l | grep jaolt then you will need to reinstall it then run: sudo apt-get --purge remove jaolt
+2009-08-16T22:48:00.000Z	ActionParsnip	tsrk_	if there is no output with the dpkg then the old config is gone (except in $home
+2009-08-16T22:48:00.000Z	tsrk_	ActionParsnip	IdleOne, ok, i'll do that, thank you

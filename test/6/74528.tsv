@@ -1,0 +1,6 @@
+2007-11-05T13:12:00.000Z	Gunn		how do you run a .tar.gz file to install
+2007-11-05T13:13:00.000Z	Gunn		how do you run a .tar.gz file to install
+2007-11-05T13:15:00.000Z	Ademan	Gunn	you don't install tar.gz files, what is it you're trying to install?
+2007-11-05T13:15:00.000Z	Gunn		flash player for firefox
+2007-11-05T13:16:00.000Z	Gunn	Ademan	flash player for firefox
+2007-11-05T13:17:00.000Z	Ademan	Gunn	if you're on gutsy or feisty you could just use the package provided (sudo apt-get install flashplugin-nonfree)

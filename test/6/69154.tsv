@@ -1,0 +1,6 @@
+2008-01-11T01:07:00.000Z	truna	wizzo_	umm i dont know if its already effective,  AOL has terminated support to netscape,
+2008-01-11T01:07:00.000Z	wizzo_	elisboa	. truna: also pepboys.com  :P
+2008-01-11T01:08:00.000Z	wizzo_	elisboa	oh, do you have any suggestions to figure out what the problem is?
+2008-01-11T01:09:00.000Z	wizzo_	elisboa	says its unable to connect to host
+2008-01-11T01:09:00.000Z	truna		can someone verify on a gutsy install if  nxclient is a stock install? i seemed to have deleted mine and now can not add it as it is not in the repository <--someone check please
+2008-01-11T01:09:00.000Z	truna	wizzo_	also try to use netcat  nc  to connect if you get same

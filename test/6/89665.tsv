@@ -1,0 +1,6 @@
+2007-04-20T09:54:00.000Z	Shaddox		Hi hi everyone! ^^
+2007-04-20T09:55:00.000Z	Shaddox		Is Feisty support still at #ubuntu+1?
+2007-04-20T09:56:00.000Z	Shaddox		Okay, then I'll ask here. How do I copy a folder from my laptop to my server over an SSH connection onto my server as a sudo, so I can copy it to /usr/local/hlserver/ns ?
+2007-04-20T09:57:00.000Z	Shaddox		Okay, then I'll ask here. How do I copy a folder from my laptop to my server over an SSH connection onto my server as a sudo, so I can copy it to /usr/local/hlserver/ns ?
+2007-04-20T09:57:00.000Z	Fujitsu	Shaddox	You'll probably have to scp to your home directory, then copy with sudo from there.
+2007-04-20T09:58:00.000Z	Shaddox	Fujitsu	Can you explain how? I'm still a ubuntu nubcaek, and finally got Cedega working for my Steam and stuff.

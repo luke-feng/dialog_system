@@ -1,0 +1,6 @@
+2011-12-06T23:21:00.000Z	SpiderFriend		hi i am person that really likes using linux, and I want to learn second programming language what would be best choice? I see that many things in linux are in C but people are saying its better to learn C++ or java. what do you think?
+2011-12-06T23:21:00.000Z	andycc	SpiderFriend	what's your first programming language?
+2011-12-06T23:23:00.000Z	SpiderFriend	andycc	I forgot, its python
+2011-12-06T23:25:00.000Z	andycc	SpiderFriend	in that case, and if you want to develop for Ubuntu, my suggestion is to try Vala.
+2011-12-06T23:26:00.000Z	SpiderFriend	andycc	ok I look into it
+2011-12-06T23:26:00.000Z	andycc	SpiderFriend	it's a C#-like language developed by Gnome, it compiles to pure C (so it's fast), and it's the primary language used by the Elementary project.

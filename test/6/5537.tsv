@@ -1,0 +1,6 @@
+2011-11-23T18:03:00.000Z	EuroNerd		How do I tell the Update Manager to ignore some updates?  I've chosen not to install a couple (e.g. some related to Braille for the blind), but each time I launch the Update Manager it offers them again.
+2011-11-23T18:04:00.000Z	szal	EuroNerd	why would you want that?  anything wrong w/ the updated version?
+2011-11-23T18:04:00.000Z	EuroNerd	szal	it's not that there's something wrong with having Braille capability, but I just don't need it.
+2011-11-23T18:05:00.000Z	szal	EuroNerd	then uninstall it
+2011-11-23T18:06:00.000Z	EuroNerd	szal	well, good idea, except I've already uninstalled Gwibber for instance, and yet the Update Manager keeps throwing Gwibber updates at me.
+2011-11-23T18:08:00.000Z	szal	EuroNerd	stupid GUI tools, tend not to work as expected (w/ one notable exception on another distro)

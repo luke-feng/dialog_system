@@ -1,0 +1,6 @@
+2008-08-25T14:42:00.000Z	milligan_	wols	I also presume your sendmail comment was a joke, wasn't it?
+2008-08-25T14:42:00.000Z	wols	milligan_	no
+2008-08-25T14:43:00.000Z	milligan_	wols	sendmail is shit. It's bloated, slow and not very customizable. Any email admin with respect for himself and his customers will go for a postfix or exim solution.
+2008-08-25T14:44:00.000Z	wols	milligan_	no. BIG ISPs need sendmail, no questions about it, but they have whole fulltime admins or even teams for it
+2008-08-25T14:44:00.000Z	wols	milligan_	ubuntu users are fine with postfix
+2008-08-25T14:45:00.000Z	wols	milligan_	it is not shit, it'S just oversized. a nuke when you only need a hand grenade so to speak

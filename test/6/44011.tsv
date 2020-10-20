@@ -1,0 +1,6 @@
+2009-03-07T07:36:00.000Z	silentContender		Can some one help me with KDM woes?
+2009-03-07T07:36:00.000Z	sebsebseb	silentContender	KDM  I don't like it at all.   sudo apt-get install gdm?
+2009-03-07T07:37:00.000Z	silentContender	sebsebseb	Well I'm running Ubuntu with KDE 4.1
+2009-03-07T07:37:00.000Z	sebsebseb	silentContender	ok, but you can still use GDM  (Gnome Display Manager)
+2009-03-07T07:38:00.000Z	silentContender	sebsebseb	I understand but I would like to learn from this than just ignore the problem
+2009-03-07T07:40:00.000Z	silentContender	sebsebseb	secondly I can't even install gdm if I wanted too.  I login on KDM and it crashes to the shell.  The login there is screw up!  I login and instantly logout

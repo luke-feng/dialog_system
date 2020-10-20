@@ -1,0 +1,6 @@
+2009-07-16T06:15:00.000Z	gartral		!grub | thomson
+2009-07-16T06:16:00.000Z	thomson	gartral	how come it doesn't have grub written anywhere on the screen when the bootloader loads?
+2009-07-16T06:17:00.000Z	thomson	gartral	it just gives me a choice of the OS, doesn't show any grub logo
+2009-07-16T06:18:00.000Z	thomson	gartral	so what bootloader would that be?
+2009-07-16T06:20:00.000Z	thomson	gartral	mine looks like this http://tugulab.files.wordpress.com/2008/02/grub_prima.png but without grub written at the top
+2009-07-16T06:21:00.000Z	thomson	gartral	so how do i know it's grub?

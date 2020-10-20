@@ -1,0 +1,6 @@
+2007-03-26T13:39:00.000Z	nevermind	Budtske	nother q, whats cheaper;)
+2007-03-26T13:41:00.000Z	nevermind	Budtske	in case , have you checked the default fs on em?
+2007-03-26T13:41:00.000Z	nevermind	Budtske	you usually cannot mount a swap partition
+2007-03-26T13:41:00.000Z	Budtske	nevermind	im verry sure of the fs type and can access them fine under root
+2007-03-26T13:41:00.000Z	nevermind	Budtske	i guess you tried the fsck.ext3 -fy /dev/yourpart
+2007-03-26T13:42:00.000Z	Budtske	nevermind	doing so now :>

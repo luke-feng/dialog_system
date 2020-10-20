@@ -1,0 +1,6 @@
+2008-09-03T10:01:00.000Z	xnevermore		hey, how do i mount an sd card plugged into a built-in reader?
+2008-09-03T10:03:00.000Z	bobertdos	xnevermore	Well, if it doesn't automatically mount when you insert the card, you might want to check fdisk to see if it's detected.
+2008-09-03T10:07:00.000Z	xnevermore	bobertdos	how do i go about doing that? dmesg reports "tifm_core: SmartMedia/xD card detected in socket 0:0"
+2008-09-03T10:09:00.000Z	bobertdos	xnevermore	Go into a terminal. Type: sudo fdisk -l
+2008-09-03T10:11:00.000Z	xnevermore	bobertdos	and if it doesn't show up?
+2008-09-03T10:12:00.000Z	bobertdos	xnevermore	Then you might consider getting an external reader :p

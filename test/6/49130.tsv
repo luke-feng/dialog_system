@@ -1,0 +1,6 @@
+2008-12-12T12:02:00.000Z	lawstudent		how do i get to my router's config via web browser?
+2008-12-12T12:02:00.000Z	Gnea	lawstudent	look at your router's manual.
+2008-12-12T12:03:00.000Z	Gnea	lawstudent	yes, the user manual will tell you what it is.
+2008-12-12T12:06:00.000Z	Gnea	lawstudent	yeah, you'll need to look at your connection settings for that - usually just right-click on your network icon on the upper-right and select the option to see them
+2008-12-12T12:07:00.000Z	lawstudent	Gnea	i'm currently on a WinXP comp. (My ubuntu box is going to share the router)
+2008-12-12T12:08:00.000Z	Gnea	lawstudent	you'll need to boot it into ubuntu in order to use that feature.

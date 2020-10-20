@@ -1,0 +1,6 @@
+2011-10-18T18:12:00.000Z	martian		I have a samba share mounted with cifs via my fstab, and for some reason all files are showing up with the execute bit set. Why?
+2011-10-18T18:13:00.000Z	compdoc	martian	you dont normally mount samba shares in fstab. at least Ive never seen anyone do that
+2011-10-18T18:15:00.000Z	martian	compdoc	hmm... I do. I've done this on several systems for a while now. Just set the _netdev option and all is usually happy. Ever since I reinstalled 11.04 and used the same old fstab entry, everything is +x
+2011-10-18T18:17:00.000Z	compdoc	martian	for me, fstab is for mounting partitions, and /ect/smb.conf is for mounting samba shares. smb.conf has many more options
+2011-10-18T18:20:00.000Z	martian	compdoc	hmm, I guess I was just going the 'ubuntu way': https://help.ubuntu.com/community/MountWindowsSharesPermanently
+2012-04-09T19:53:00.000Z	martian	compdoc	linux-ninja: oh, you hardware people :)

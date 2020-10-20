@@ -1,0 +1,6 @@
+2008-06-26T02:37:00.000Z	spoon_man	ronlut	you can change FAT32 to NTFS unless that partition is empty
+2008-06-26T02:37:00.000Z	spoon_man	ronlut	you can change FAT16 to FAT32, but that's about it
+2008-06-26T02:40:00.000Z	spoon_man	ronlut	if your FAT32 drive has data on it, you will lose all your data if you try to change it to NTFS
+2008-06-26T02:40:00.000Z	ronlut	spoon_man	It's empty, but I still can't change it to ntfs.
+2008-06-26T02:42:00.000Z	spoon_man	ronlut	NTFS-3G just gives read/write access, it doesn't do any formatting or partitioning
+2008-06-26T02:42:00.000Z	ronlut	spoon_man	I try to format with GParted, but the ntfs option is grey

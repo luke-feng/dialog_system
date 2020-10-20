@@ -1,0 +1,6 @@
+2008-12-09T03:38:00.000Z	gnutron	Morydd	iirc, You can't run NFS without the server's portmap and NFS daemons running
+2008-12-09T03:39:00.000Z	Morydd	gnutron	I believe they are running.
+2008-12-09T03:40:00.000Z	Morydd	gnutron	do you know a way to check if they are running?
+2008-12-09T03:41:00.000Z	gnutron	Morydd	ps aux  should tell, use sudo to insure you see it all.
+2008-12-09T03:42:00.000Z	Morydd	gnutron	yes. portmap and (several instances of) nfsd show up.
+2008-12-09T03:42:00.000Z	gnutron	Morydd	try googling it, ubuntu does things differently.

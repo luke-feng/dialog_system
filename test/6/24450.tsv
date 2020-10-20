@@ -1,0 +1,6 @@
+2010-02-17T00:09:00.000Z	magn3ts		How would I add a string to the beginning of all the CPP files in a folder?
+2010-02-17T00:09:00.000Z	vinse	magn3ts	with sed
+2010-02-17T00:09:00.000Z	vinse		or awk, or bash
+2010-02-17T00:10:00.000Z	vinse	magn3ts	in other words, wrong channel ;0
+2010-02-17T00:10:00.000Z	magn3ts		heh, I'd rather suffer sed than perl I think :P
+2010-02-17T00:10:00.000Z	magn3ts	vinse	good point. not sure why I default to #ubuntu for these types of things

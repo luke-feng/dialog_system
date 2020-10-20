@@ -1,0 +1,6 @@
+2008-12-31T13:06:00.000Z	RivitingOn1		Would I put the location of the file I am making after this line? ./configure && make && sudo make install
+2008-12-31T13:06:00.000Z	nickrud	RivitingOn1	no, that's all you'd want. the make install reads the Makefile and puts files in place
+2008-12-31T13:22:00.000Z	nickrud	RivitingOn1	compiling it won't work, because the packaging system still won't see you've installed that version of libcairomm
+2008-12-31T13:27:00.000Z	nickrud	RivitingOn1	smartmontools (no gui, but the same guts)
+2008-12-31T13:53:00.000Z	nickrud	RivitingOn1	the X log looks ok, it doesn't look like pulseaudio is causing the freeze; I'd suggest booting up the memtest and letting it run overnight. All my freezes have been memory related
+2008-12-31T14:02:00.000Z	nickrud	RivitingOn1	not for vid cards that I remember. And one error didn't show till nearly the entire suite of tests had run. That takes hours.

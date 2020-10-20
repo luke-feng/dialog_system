@@ -1,0 +1,6 @@
+2011-12-21T21:15:00.000Z	BarkingFish	Tweak	Are you about?
+2011-12-21T21:16:00.000Z	Tweak		hey guys. just curious if anyone knows how i can get my desktop back ;p when i boot it goes straight to term, i must login through text. theres no errors booting
+2011-12-21T21:17:00.000Z	BarkingFish	Tweak	 I was checking with you in #ubuntu-offtopic - are you able to start X manually from your term login?
+2011-12-21T21:17:00.000Z	Tweak	BarkingFish	: actually... i'm not sure how to do that
+2011-12-21T21:18:00.000Z	BarkingFish	Tweak	What you need to do is login on the terminal, then type  startx  - if you're logged in on root, it'll start a root session, if you're logged in normally, it should start a regular session
+2011-12-21T21:19:00.000Z	Tweak	BarkingFish	alright, i'm going to reboot now and try that. thank you. be right back.

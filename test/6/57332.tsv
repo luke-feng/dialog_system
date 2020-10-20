@@ -1,0 +1,6 @@
+2008-06-12T11:00:00.000Z	Wo|f		Hello. I'm remastering and customizing an Ubuntu Hardy LiveCD. I'm looking for a way to modify the addons and bookmarks included with Firefox for the LiveCD user. I tried using /etc/skel, but it doesn't seem to work. Your suggestions are most welcome
+2008-06-12T11:01:00.000Z	anirudh0	Wo|f	debuntu.com has a very good guide
+2008-06-12T11:01:00.000Z	Wo|f	anirudh0	do you have a specific URL?
+2008-06-12T11:02:00.000Z	anirudh0	Wo|f	google for "debuntu customize ubuntu livecd"
+2008-06-12T11:04:00.000Z	Wo|f	anirudh0	a specific URL would be more helpful. I've already got the squashfs extracted and can modify packages and the like. The assistance I'm looking for is more specific than that. And telling me to Google it isn't exactly helpful, but thank you anyway
+2008-06-12T11:10:00.000Z	anirudh0	Wo|f	can you open up firefox in the chroot env?...if not look at the ff bookmarks folder..i think its .mozilla/firefox/<profile>bookmarks.html

@@ -1,0 +1,6 @@
+2005-03-18T13:56:00.000Z	Hell-Razor		hey guys i justinstalled ubuntu, i was just wondering now how do i install stuff? make sure my system is up-to date?
+2005-03-18T13:57:00.000Z	Hell-Razor		how do i become root
+2005-03-18T13:57:00.000Z	Hell-Razor		if i never set a root pw
+2005-03-18T13:57:00.000Z	Hell-Razor		i never set a root pw though
+2005-03-18T13:57:00.000Z	socomm	Hell-Razor	You can set the root pasword "su passwd"
+2005-03-18T13:58:00.000Z	socomm	Hell-Razor	The default user is ~root.

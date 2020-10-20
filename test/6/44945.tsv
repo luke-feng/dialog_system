@@ -1,0 +1,6 @@
+2009-04-01T17:01:00.000Z	lepassive		Hi I don't find packages in synaptic! though i can install it from apt-get directly ??
+2009-04-01T17:02:00.000Z	sarmisak	lepassive	maybe you should enable 3rd party software?
+2009-04-01T17:03:00.000Z	lepassive	sarmisak	I got http://archive.canonical.com/ubuntu in 3rd party tab already
+2009-04-01T17:05:00.000Z	sarmisak	lepassive	strange, it should install any package then
+2009-04-01T17:05:00.000Z	sarmisak	lepassive	maybe some other problem about the repos
+2009-04-01T17:06:00.000Z	lepassive	sarmisak	it does but only through apt-get commandline, but not through synaptic i can't find common packages like KDE, Haskell, .. etc

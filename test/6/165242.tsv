@@ -1,0 +1,6 @@
+2009-05-26T21:39:00.000Z	Rawz		is there a way t find out specific what (hd0,0) or (hd1,2) windows is laying on so i can edit /boot/grub/menu.lst correctly to get windows working again ?
+2009-05-26T21:40:00.000Z	Rawz		i know windows is on /dev/sda3
+2009-05-26T21:40:00.000Z	Rawz		but how do i know what title it got like (hd1,2) ?
+2009-05-26T21:41:00.000Z	Dr_Willis	Rawz	 the grub shell has drive completion featurtes and can show what it sees where.
+2009-05-26T21:43:00.000Z	Dr_Willis	Rawz	 A++ first try!
+2009-05-26T21:43:00.000Z	Dr_Willis	Rawz	 grub skips the optical drives also. :)

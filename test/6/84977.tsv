@@ -1,0 +1,6 @@
+2007-11-16T00:46:00.000Z	lunartear		how would I list all packages that are installed on my system?
+2007-11-16T00:46:00.000Z	crdlb	lunartear	dpkg -l
+2007-11-16T00:49:00.000Z	crdlb	lunartear	removed, but configuration present
+2007-11-16T00:49:00.000Z	lunartear	crdlb	ah thank you
+2007-11-16T00:49:00.000Z	crdlb	lunartear	if you see a capital letter (eg "iU") then there's a problem
+2007-11-16T00:50:00.000Z	lunartear	crdlb	alright

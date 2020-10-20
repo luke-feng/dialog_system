@@ -1,0 +1,6 @@
+2007-12-26T03:54:00.000Z	dre1		Hello, when using the aptitude to install flashplugin-nonfree, it says the md5 sum does not match and refuses to install flash.  Is there an error in the repositories or what?
+2007-12-26T03:55:00.000Z	dre1		thanks ubotu, erUSUL, and MenZa
+2007-12-26T03:56:00.000Z	dre1		so if the installation is broken should I install it manually or wait for them to fix it, what's the ETA on the repair?
+2007-12-26T03:57:00.000Z	dre1		wow, that's not like the team to just leave a gaping problem in the repositories like that
+2007-12-26T03:57:00.000Z	cdm10	dre1	I dunno why they haven't fixed it yet... it doesn't seem like a huge job.
+2007-12-26T03:57:00.000Z	cdm10	dre1	I mean, they probably want to avoid being hasty.

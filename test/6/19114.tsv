@@ -1,0 +1,6 @@
+2010-07-12T04:27:00.000Z	Guest6025		Hi, I played around with Compiz on my Xubuntu, and I was wondering how I can remove it completly to get back to the default window management, I used a terminal command in which made it work, how do I revert it, "compiz --replace"
+2010-07-12T04:28:00.000Z	soreau	Guest6025	On xfce, just use 'xfwm4 --replace' and save your session
+2010-07-12T04:29:00.000Z	Guest6025	soreau	im new to ubuntu, installed it yesterday, How do I save the session?
+2010-07-12T04:30:00.000Z	soreau	Guest6025	it's in xfce-menu somewhere IIRC. Also close all other windows before saving your session since it will restart any currently running programs after you relogin
+2010-07-12T04:32:00.000Z	Guest6025		Soreau, thanks for the quick response and help, did the trick
+2010-07-12T04:32:00.000Z	soreau	Guest6025	No problem

@@ -1,0 +1,6 @@
+2008-10-01T23:35:00.000Z	jokibroki		hello everyone, good to see you all again.
+2008-10-01T23:36:00.000Z	jokibroki		i have a problem with .xml type file. when i open .xml file and replace something that needs to be replace I am not able to save it, because it tells me  "you do not have a permissions necessary to save the file."
+2008-10-01T23:37:00.000Z	Cristi	jokibroki	try to open with gksudo gedit so u have root permisions
+2008-10-01T23:38:00.000Z	Cristi	jokibroki	sorry
+2008-10-01T23:39:00.000Z	Cristi	jokibroki	ah i thought someone else answered lol k try that
+2008-10-01T23:39:00.000Z	Cristi	jokibroki	no problem

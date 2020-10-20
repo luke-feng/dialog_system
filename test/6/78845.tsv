@@ -1,0 +1,6 @@
+2008-05-10T01:28:00.000Z	cmorgan		what filesystem would people recommend using on an lvm volume?
+2008-05-10T01:30:00.000Z	ikonia	cmorgan	doesn't matter
+2008-05-10T01:30:00.000Z	ikonia	cmorgan	depends on the data, not that it's lvm
+2008-05-10T01:32:00.000Z	cmorgan	ikonia	its just to be used for file backups, mix of large and small files
+2008-05-10T01:32:00.000Z	cmorgan	ikonia	so its really tough to know now, its not too performance critical though
+2008-05-10T01:36:00.000Z	ikonia	cmorgan	not safley

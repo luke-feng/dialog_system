@@ -1,0 +1,6 @@
+2010-05-04T16:35:00.000Z	Dr4g		How to add a user to the www-data group, so that www-data can write to all folders owned by this user ?
+2010-05-04T16:37:00.000Z	llutz	Dr4g	adduser
+2010-05-04T16:38:00.000Z	llutz	Dr4g	adduser
+2010-05-04T16:39:00.000Z	Dr4g	llutz	i've tried adduser and it says "user already exists", i want to modify an existing user.
+2010-05-04T16:59:00.000Z	llutz	Dr4g	"sudo adduser user group"
+2010-05-04T17:11:00.000Z	llutz	Dr4g	you want to read what a umask is before setting it to 770

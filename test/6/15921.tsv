@@ -1,0 +1,6 @@
+2011-01-17T07:19:00.000Z	^Phantom^		If I wipe all partitions of an ntfs drive from within ubuntu, will I be able to reformat that drive as NTFS from within a windows system?
+2011-01-17T07:19:00.000Z	^Phantom^		Also, how can I wipe the drive deeply?
+2011-01-17T07:19:00.000Z	Bing0	^Phantom^	NTFS is a partition scheme, not a drive scheme but...yes you can :)
+2011-01-17T07:20:00.000Z	Bing0	^Phantom^	you should be good to go using ubuntu live cd for that
+2011-01-17T07:38:00.000Z	Bing0	^Phantom^	IMHO, yes
+2011-01-17T07:42:00.000Z	Bing0	^Phantom^	please type wht you can on as less lines as possible.  enough going on in the chan.  thanks :P

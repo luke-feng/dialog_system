@@ -1,0 +1,6 @@
+2007-07-25T09:19:00.000Z	Douglas52392		hi
+2007-07-25T09:21:00.000Z	Douglas52392		im trying to use a ubuntu livecd to get my computer to work, i installed debian linux yesterday, and i dont think the installer wrote the mbr right because i cant boot my computer (it goest right to the intel network boot app). how can i reinstall grub with a ubuntu livecd?
+2007-07-25T09:22:00.000Z	Douglas52392		can i use a ubuntu livecd to install grub on my computer?
+2007-07-25T09:22:00.000Z	Jack_Sparrow	Douglas52392	yes
+2007-07-25T09:32:00.000Z	Jack_Sparrow	Douglas52392	first run gparted so you know your partition layout it will help others help you better.
+2007-07-25T09:40:00.000Z	Jack_Sparrow	Douglas52392	Shouldnt you be asking in Debian channel..

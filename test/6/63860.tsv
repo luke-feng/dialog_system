@@ -1,0 +1,6 @@
+2008-06-30T06:04:00.000Z	d4t4min3r		can anyone help me with this issues?
+2008-06-30T06:04:00.000Z	d4t4min3r		﻿when i have sound playing from firefox, like from youtube the sound works, but then if i play sound from my pc like from a mp3 file through any application, it wont play.  or if i switch it around... starting the computer i start with sound from mp3 it plays, but then no sound for firefox
+2008-06-30T06:05:00.000Z	avis	d4t4min3r	sudo apt-get install libflashsupport solved that problem on hardy for me
+2008-06-30T06:05:00.000Z	d4t4min3r		what is that
+2008-06-30T06:05:00.000Z	d4t4min3r	avis	flashsupport
+2008-06-30T06:06:00.000Z	avis	d4t4min3r	its called libflashsupport

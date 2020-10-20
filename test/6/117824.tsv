@@ -1,0 +1,6 @@
+2006-05-17T11:39:00.000Z	Seveas		won't work, try dapper
+2006-05-17T11:39:00.000Z	Seveas		X1300 is too new for breezy
+2006-05-17T11:39:00.000Z	Seveas		yes
+2006-05-17T11:40:00.000Z	coincoin	Seveas	tell us how to install this evil driver ?
+2006-05-17T11:41:00.000Z	Seveas	coincoin	fglrx? sudo apt-get install linux-restricted-modules-$YOURARCH && dpkg-reconfigure xserver-xorg
+2006-05-17T11:42:00.000Z	coincoin	Seveas	how to install this evil driver ?????

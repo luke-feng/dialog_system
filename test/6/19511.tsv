@@ -1,0 +1,6 @@
+2010-06-27T04:56:00.000Z	NetScr1be		Clean install of Ubuntu 9.04 (jaunty) connects to wifi but won't resolve any addresses
+2010-06-27T04:56:00.000Z	NetScr1be		WPA PSK
+2010-06-27T04:57:00.000Z	NetScr1be		same as on this system WPA/WPA2
+2010-06-27T04:59:00.000Z	NetScr1be		ok it just started working
+2010-06-27T05:01:00.000Z	NetScr1be		took
+2010-06-27T05:02:00.000Z	_ath	NetScr1be	you did ifconfig eth0 down

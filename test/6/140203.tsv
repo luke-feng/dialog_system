@@ -1,0 +1,6 @@
+2005-11-18T09:10:00.000Z	snorks	Trackilizer	remember that you wont get sounds (i think) anymore, and you need to define alsa as soundoutput in all your apps that produces sound. you'll figure it out
+2005-11-18T09:05:00.000Z	snorks	Trackilizer	apt-get install vlc-alsa-plugin (or vlc-plugin-alsa)
+2005-11-18T09:06:00.000Z	snorks	Trackilizer	apt-cache search vlc | grep alsa
+2005-11-18T09:07:00.000Z	Trackilizer	snorks	thanks alot, it worked.
+2005-11-18T09:08:00.000Z	snorks	Trackilizer	Well, I changed output plugin from esd to ALSA in XMMS not long ago. It was easy. System -> Preferences -> Sound, then uncheck "enable sound server at startup", and then enter XMMS and set output module to alsa
+2005-11-18T09:10:00.000Z	Trackilizer	snorks	once again thanks alot.

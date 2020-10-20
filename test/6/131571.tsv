@@ -1,0 +1,6 @@
+2005-11-04T08:01:00.000Z	titanium_		i just downloaded a program which i would like to have run automatically when the system starts. it's just a binary, no config or installer or anything. i've placed it in my home directory. what is the easiest way to make it run on system start (not on my login, but on boot)
+2005-11-04T08:01:00.000Z	infested_maggot	titanium_	make a script.sh and place it on /etc/init.d/scrip.sh
+2005-11-04T08:04:00.000Z	titanium_	infested_maggot	would script.sh just be 1 line, running the file?
+2005-11-04T08:05:00.000Z	infested_maggot	titanium_	yes. the path to the file that you want to execute ..i think :D
+2005-11-04T08:05:00.000Z	infested_maggot	titanium_	and make sure you make it executable by chmod
+2005-11-04T08:05:00.000Z	titanium_	infested_maggot	executable to u, g, or o?

@@ -1,0 +1,6 @@
+2008-06-05T09:02:00.000Z	iceolate		hi can i asked a simple question.. well it's probably simple for some of you :)
+2008-06-05T09:03:00.000Z	iceolate		kay
+2008-06-05T09:03:00.000Z	iceolate		okay
+2008-06-05T09:04:00.000Z	iceolate		anyway... i set up a folder for my friend in my home folder and i want him to be able to access it through my router
+2008-06-05T09:06:00.000Z	amrik	iceolate	the direct way is to install openssh-server
+2008-06-05T09:07:00.000Z	amrik	iceolate	create a user for him and you are pretty much set

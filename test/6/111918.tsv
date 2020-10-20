@@ -1,0 +1,6 @@
+2006-07-03T06:26:00.000Z	Vraid		i installed ubuntu on my other machine, it worked fine except that i had problems connecting to the internet; irc had a lag of several minutes and i couldn't access anything with firefox
+2006-07-03T06:26:00.000Z	Vraid		what might the problem be?
+2006-07-03T06:27:00.000Z	mwe	Vraid	the network setup :)
+2006-07-03T06:28:00.000Z	Vraid	mwe	yeah but... what could be wrong with it? i'm not that good with networking
+2006-07-03T06:29:00.000Z	mwe	Vraid	I don't know. dhcp settings maybe
+2006-07-03T06:31:00.000Z	Vraid	mwe	well, i tried with static ip and entered the ip i get by dhcp on this computer (same network cable) and i could access, but slow. Changing to automatic made no difference

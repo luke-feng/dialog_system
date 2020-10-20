@@ -1,0 +1,6 @@
+2006-06-01T08:30:00.000Z	viS_		how do I install the java sdk 5.0 on ubuntu 6.06 ?
+2006-06-01T08:30:00.000Z	viS_		Is there a package?
+2006-06-01T08:31:00.000Z	viS_		!javadebs
+2006-06-01T08:31:00.000Z	tristanmike	viS_	you can "/msg ubotu <factoid>" for a personal one on one encounter with ubotu, just to let you know :)
+2006-06-01T08:32:00.000Z	viS_	tristanmike	i get the following error: E: Couldn't find package sun-java5-bin
+2006-06-01T08:33:00.000Z	tristanmike	viS_	have you enabled the repos ?

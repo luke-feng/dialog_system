@@ -1,0 +1,6 @@
+2005-02-24T17:22:00.000Z	Neil3		killall esd
+2005-02-24T17:22:00.000Z	Neil3		then try a program that uses alsa
+2005-02-24T17:23:00.000Z	lunitik	Neil3	most apps in Ubuntu use esd... and you didn't even tell him to change media mechanism  :/
+2005-02-24T17:23:00.000Z	lunitik	Neil3	beats the heck out of raw alsa for most cards  :/
+2005-04-20T06:15:00.000Z	lunitik	Neil3	you ought to be able to click the button to the far (your) right ... but yeah... that is kinda weird...
+2005-04-20T06:17:00.000Z	Neil3	lunitik	i click the button but nothing happens :(

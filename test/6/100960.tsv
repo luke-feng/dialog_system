@@ -1,0 +1,6 @@
+2007-03-10T16:27:00.000Z	Theory5		now its saying ubuntu-desktop is an ivaild operation
+2007-03-10T16:28:00.000Z	Theory5		what do i do now its saying ubuntu-desktop is an invaild operation plz help
+2007-03-10T16:29:00.000Z	Theory5		How do i download the desktop????
+2007-03-10T16:30:00.000Z	Theory5		sudo apt-get install ubuntu-desktop
+2007-03-10T16:31:00.000Z	Theory5		E: Invailid operation ubuntu-desktop thats what it says
+2007-03-10T16:32:00.000Z	voidmage	Theory5	sudo apt-get install ubuntu-desktop

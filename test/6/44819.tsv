@@ -1,0 +1,6 @@
+2009-03-21T21:23:00.000Z	bardyr	LakesProse	if they use the same disk yea
+2009-03-21T21:23:00.000Z	LakesProse	bardyr	same disk
+2009-03-21T21:23:00.000Z	LakesProse	bardyr	what do you mean by 'same disk'?
+2009-03-21T21:24:00.000Z	bardyr	LakesProse	you will override the partition table, and if the other harddrive is not the same size things may break or the harddrive will be limited to the other
+2009-03-21T21:25:00.000Z	LakesProse	bardyr	well the other hdd is the same size although the partition isn't
+2009-03-21T21:26:00.000Z	LakesProse	bardyr	can't I just repair it with partitioner afterwards ?

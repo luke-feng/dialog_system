@@ -1,0 +1,6 @@
+2006-10-27T09:35:00.000Z	hackel_		Has the upgrade manager actually worked for anyone else?
+2006-10-27T09:36:00.000Z	dabaR	hackel_	yess, why does it not work for you
+2006-10-27T09:36:00.000Z	hackel_	dabaR	 I'm tring to figure that out!
+2006-10-27T09:37:00.000Z	dabaR	hackel_	did you get an error!
+2006-10-27T09:37:00.000Z	hackel_	dabaR	 Yeah, I posed it above.  http://paste.ubuntu-nl.org/28583/  I see there's already a bug report about a missing python-vte.
+2006-10-27T09:40:00.000Z	dabaR	hackel_	did you try with a normal terminal and gksu?

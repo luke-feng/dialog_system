@@ -1,0 +1,6 @@
+2009-11-20T18:46:00.000Z	jcrawford	dooglus	sounds like you have it on shuffle or it is playing song after song and hitting a file type that it does not support.  It should be smarter and just ignore filetypes it cannot play IMO but that sounds like the issue
+2009-11-20T18:46:00.000Z	dooglus	jcrawford	I didn't play anything at all.  I ran rhythmbox.  it scans my music on startup even if I don't ask it to play anything
+2009-11-20T18:47:00.000Z	jcrawford	dooglus	ah that makes sense if it is scanning upon launch
+2009-11-20T18:47:00.000Z	jcrawford		yea someone should submit a patch for that :)
+2009-11-20T18:48:00.000Z	dooglus	jcrawford	I don't think scanning on launch is a bug
+2009-11-20T18:49:00.000Z	jcrawford	dooglus	no scanning on launch is not a bug but it should ignore filetypes it does not recognize I would consider that to be a bug

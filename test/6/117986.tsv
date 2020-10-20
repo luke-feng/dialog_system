@@ -1,0 +1,6 @@
+2006-05-15T13:44:00.000Z	Drake`		what could possibly cause not able to mount/umount cdrom from nautilus but can do so from command line?
+2006-05-15T13:45:00.000Z	harisund	Drake`	maybe you are trying to mount the wrong drive?
+2006-05-15T13:48:00.000Z	Drake`	harisund	I have tried to mount the same drive in nautilus right after I have mounted and umounted it from the command line and it says "Error: could not execute pmount" but when I mount /dev/hdc it mounts flawlessly
+2006-05-15T13:50:00.000Z	harisund	Drake`	I think if you go to System->Preferences->Removable Media, you would be able to check/uncheck options for auto mounting CD Roms, could you check if you have that enabled?
+2006-05-15T13:52:00.000Z	Drake`	harisund	you are referring to under Storage in Removable Drive and Media Preferences?
+2006-05-15T13:53:00.000Z	harisund	Drake`	I think so .. I am not sure (sorry, I do not have Ubuntu access immediately) but yes, you can set options in there like whether you want CDs and removable USB thumb drives automatically mounted or not

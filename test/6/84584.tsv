@@ -1,0 +1,6 @@
+2008-05-20T18:16:00.000Z	SidStudios		The LTS?
+2008-05-20T18:17:00.000Z	SidStudios		S4ND3R: Did you upgrade Dists or Fresh install?
+2008-05-20T18:18:00.000Z	SidStudios		Do a backup
+2008-05-20T18:18:00.000Z	SidStudios		cp /etc/X11/Xorg.conf /etc/X11/Xorg.conf.bak
+2008-05-20T18:20:00.000Z	W8TAH	SidStudios	ok - thats what i was thinkin
+2008-05-20T18:20:00.000Z	SidStudios	W8TAH	You might

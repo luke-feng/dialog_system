@@ -1,0 +1,6 @@
+2012-07-10T11:40:00.000Z	prats3113		Hi. Whenever I do a sudo apt-get upgrade, I get the following error:  Internal Error: Could not find image (/boot/vmlinuz-3.2.0-25-generic-pae) dpkg: error processing linux-image-3.2.0-25-generic-pae (--configure):  subprocess installed post-installation script returned error exit status 2 dpkg: dependency problems prevent configuration of linux-image-generic-pae:  linux-image-generic-pae depends on linux-image-3.2.0-25-generic-pae; 
+2012-07-10T11:40:00.000Z	prats3113		Please help me out
+2012-07-10T11:41:00.000Z	prats3113		I guess the entire error could not be pasted in one go
+2012-07-10T11:43:00.000Z	prats3113		Hi. Can anyone help me out with my problem?
+2012-07-10T11:44:00.000Z	dooglus	prats3113	did you miss it?  he said "ubuntu miltilink bluetoot".  what more do you need??
+2012-07-10T11:45:00.000Z	prats3113	dooglus	who said it? and what is ubuntu multilink bluetoot?

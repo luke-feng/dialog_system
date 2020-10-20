@@ -1,0 +1,6 @@
+2009-08-15T07:42:00.000Z	tread		This is driving me crazy.  Yesterday, I plug in my USB device, and I can access it in /dev but not otherwise. Finally, I got it configured and working.  Then, since I rebooted, it doesn't even get listed in /dev when I plug it in :(  If anyone can help, I'd really appreciate it.
+2009-08-15T07:42:00.000Z	tread		I don't wanna have to switch back to Windows...
+2009-08-15T07:44:00.000Z	EagleScreen	tread	plug it well lol
+2009-08-15T07:46:00.000Z	tread	EagleScreen	I've tried it in 2 different USB ports.
+2009-08-15T07:46:00.000Z	EagleScreen	tread	use 'dmesg' command to obtain some feedback when you plug in a usb device and pay atention to possible errors
+2009-08-15T07:48:00.000Z	tread	EagleScreen	thank you!  That illuminated what's going wrong.

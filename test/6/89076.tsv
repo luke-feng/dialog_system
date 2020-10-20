@@ -1,0 +1,6 @@
+2008-05-30T08:00:00.000Z	KRaZy_WaKa		anirud0: nah they adapt, hardware is designed for certain OS's, Windoze is known for compatibility issues
+2008-05-30T08:01:00.000Z	KRaZy_WaKa		case in point: i am working on a friends XP computer which has a compatibility issue with a LiteOn DVD burner, and thus far haven't found the right drivers for it
+2008-05-30T08:03:00.000Z	KRaZy_WaKa		was going to make him learn ubuntu bcuz i know it will work! but am trying my best to keep him in his comfort zone as he is not very computer literate, he can do the basic everybody stuff i.e. web browsing dload music, edit video with windows movie maker, etc.
+2008-05-30T08:03:00.000Z	KRaZy_WaKa		i'm sure i'd spend a lot of time on here fixing things that he would mess up if i set him loose on ubuntu lol
+2008-05-30T08:04:00.000Z	usser	KRaZy_WaKa	that is no problem just remove his account from sudoers so he cant make system wide changes
+2008-05-30T09:55:00.000Z	usser	KRaZy_WaKa	put "!" in front of a term u want explained

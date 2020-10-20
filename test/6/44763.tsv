@@ -1,0 +1,6 @@
+2012-03-15T13:23:00.000Z	Ztane		sudo: unable to change to sudoers gid - what could be the reason?!
+2012-03-15T13:24:00.000Z	Ztane		and why does the unable to change to sudoers gid now occur??
+2012-03-15T13:24:00.000Z	sacarlson	Ztane	what is it your tring to install?
+2012-03-15T13:26:00.000Z	sacarlson	Ztane	what is the full line your attempting in sudo
+2012-03-15T13:27:00.000Z	sacarlson	Ztane	what about sudo ls;
+2012-03-15T13:29:00.000Z	sacarlson	Ztane	it would be limiting if that user is not in the sudoers list

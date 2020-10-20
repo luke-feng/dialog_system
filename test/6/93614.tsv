@@ -1,0 +1,6 @@
+2008-05-17T18:16:00.000Z	Mark17		hello, is it possible to see what packages are installed with apt-get?
+2008-05-17T18:16:00.000Z	Mark17		or what packages where installed during installation?
+2008-05-17T18:16:00.000Z	soundray	Mark17	'dpkg --get-selections'
+2008-05-17T18:20:00.000Z	Mark17	soundray	that isnt working: dpkg: unknown option --get
+2008-05-17T18:21:00.000Z	Mark17		so dpkg --get selections isnt working :( (ubuntu 8.04)
+2008-05-17T18:21:00.000Z	soundray	Mark17	'dpkg --get-selections'

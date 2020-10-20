@@ -1,0 +1,6 @@
+2007-05-02T05:28:00.000Z	Jordan_U	cycom	Do you have an ATi card?
+2007-05-02T05:28:00.000Z	cycom	Jordan_U	Yeah
+2007-05-02T05:29:00.000Z	Jordan_U	cycom	As a test ( since fglrx is bad when it comes to suspend ) could you try suspend with vesa?
+2007-05-02T05:30:00.000Z	cycom	Jordan_U	crimsun: let me try. give me about a minute. Fortunately I'm sshed to another box so I won't lose connection.
+2007-05-02T05:41:00.000Z	cycom	Jordan_U	crimsun: It appears I was incorrect. If suspend worked before, it no longer does.  It hangs before going completely under.
+2007-05-02T05:42:00.000Z	cycom	Jordan_U	crimsun: with either vesa or fglrx.  Hangs at the same spot.

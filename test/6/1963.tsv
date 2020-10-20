@@ -1,0 +1,6 @@
+2012-06-02T05:53:00.000Z	tbrown2012fb		My sound is not working on ubuntu what do I do to install the right drivers:)
+2012-06-02T05:53:00.000Z	reisio	tbrown2012fb	laptop?
+2012-06-02T05:53:00.000Z	tbrown2012fb	reisio	Yes
+2012-06-02T05:54:00.000Z	reisio	tbrown2012fb	did you make sure stuff is unmuted in alsamixer? (hit TAB to see everything)
+2012-06-02T05:58:00.000Z	reisio	tbrown2012fb	if you still can't get it, check out https://help.ubuntu.com/community/HdaIntelSoundHowto if you're using snd-hda-intel
+2012-06-02T05:59:00.000Z	tbrown2012fb	reisio	Am good I got it two work thanks

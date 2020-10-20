@@ -1,0 +1,6 @@
+2007-11-30T19:48:00.000Z	aussieman__		since i upgraded to gutsy googleearth wont find my graphics card - any suggestions?
+2007-11-30T19:49:00.000Z	aussieman__		since i upgraded to gutsy googleearth wont find my graphics card - any suggestions?
+2007-11-30T19:50:00.000Z	MasterShrek	aussieman__	how did you install google earth?
+2007-11-30T19:50:00.000Z	MasterShrek	aussieman__	lspci | grep VGA     will give you waht kinda graphics card it is
+2007-11-30T19:54:00.000Z	aussieman__	MasterShrek	00:02.0 VGA compatible controller: Intel Corporation Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller (rev 03)
+2007-11-30T19:54:00.000Z	MasterShrek	aussieman__	i dont know much about intel gfx cards, if it was nvidia id be ale to help you

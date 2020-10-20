@@ -1,0 +1,6 @@
+2010-08-01T05:29:00.000Z	Bridge|A		does usb-creator work from ubuntu live or only a installed version of ubuntu?
+2010-08-01T05:30:00.000Z	Bridge|A		kk good
+2010-08-01T05:31:00.000Z	Bridge|A		cuz unetbootin hangs at 5% on filesystem.squashfs
+2010-08-01T05:31:00.000Z	Bridge|A		whicch is the largest file i think, but i'd assume the progress bar would advance some
+2010-08-01T05:31:00.000Z	bazhang	Bridge|A	it does hang there for a while then continues.
+2010-08-01T05:36:00.000Z	bazhang	Bridge|A	no

@@ -1,0 +1,6 @@
+2010-10-18T19:08:00.000Z	sectorb		chaps, does anyone know of an ubuntu iso that will fit onto a spare 512mb usb stick that i have lying around ?
+2010-10-18T19:10:00.000Z	ActionParsnip	sectorb	are you installing to or from the stick?
+2010-10-18T19:11:00.000Z	sectorb	ActionParsnip	I'm installing to the stick, so i have a portable linux boot stick if i go over to a friends house for instance
+2010-10-18T19:12:00.000Z	ActionParsnip	sectorb	you could install ubuntu minimal to it then build up, it's going to be a tight sqeeze, don't expect compiz to run and definately do not attempt to install openoffice
+2010-10-18T19:13:00.000Z	sectorb	ActionParsnip	perfect thanks, will do that - my other stick came in very handy for virus scanning and fixing friends borked puters
+2010-10-18T19:14:00.000Z	ActionParsnip	sectorb	i suggest you use openbox or flwm to get a desktop

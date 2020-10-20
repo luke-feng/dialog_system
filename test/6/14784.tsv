@@ -1,0 +1,6 @@
+2011-04-05T22:19:00.000Z	tazz		i am not able to stat mysql on my box i am running ubuntu 10.10 the output i get is "start: Unknown job: mysql"  http://paste.ubuntu.com/589792/
+2011-04-05T22:19:00.000Z	bonjoyee	tazz	check the name ..it could be mysqld
+2011-04-05T22:20:00.000Z	tazz	bonjoyee	did you check out the link i pasted?
+2011-04-05T22:21:00.000Z	bonjoyee	tazz	sorry..jumped the gun..
+2011-04-05T22:24:00.000Z	bonjoyee	tazz	try sudo service mysql status
+2011-04-05T22:25:00.000Z	bonjoyee	tazz	check in /etc/init for the correct name

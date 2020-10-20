@@ -1,0 +1,6 @@
+2009-06-01T21:58:00.000Z	solifugus		On the ubuntu livecd, how can a person get quickly to a console window?
+2009-06-01T21:59:00.000Z	solifugus		I need to explain to someone over the phone, and I use kubuntu, not ubuntu
+2009-06-01T22:01:00.000Z	solifugus		all she could do is destroy what she wants to destroy..
+2009-06-01T22:03:00.000Z	arand	solifugus	alt+F2 then type gnome-terminal and enter, "sudo -i" is the command to use for root session
+2009-06-01T22:04:00.000Z	solifugus	arand	i didn't think alt-f2 worked in gnome?
+2009-06-01T22:05:00.000Z	arand	solifugus	it invokes the gnome-run-application window per default

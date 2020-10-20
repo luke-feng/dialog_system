@@ -1,0 +1,6 @@
+2005-05-24T16:59:00.000Z	sorush20		guys what is a good media player that installes automatically on Ubuntu and plays mp3s
+2005-05-24T16:59:00.000Z	sorush20		can anyone help...
+2005-05-24T05:00:00.000Z	Burgundavia	sorush20	you need gstreamer-mad to play mp3s in rhythmbox, which is installed by default
+2005-05-24T05:01:00.000Z	Burgundavia	sorush20	you need gstreamer-mad
+2005-05-24T05:01:00.000Z	Burgundavia	sorush20	rb is installed by default, not gstreamer-mad
+2005-09-11T07:01:00.000Z	Burgundavia	sorush20	the freedesktop people are doing a lot of lower level work

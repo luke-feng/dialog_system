@@ -1,0 +1,6 @@
+2006-10-22T16:22:00.000Z	test_		how do i kill job 1
+2006-10-22T16:22:00.000Z	test_		jobs still shows job 1 after kill 1
+2006-10-22T16:22:00.000Z	LjL	test_	"kill 1" will kill *process* number 1 (i.e. init), and not *job* number 1
+2006-10-22T16:23:00.000Z	LjL	test_	i *think* it's "kill %1"
+2007-12-04T21:54:00.000Z	LjL	test_	/join #test
+2008-11-27T05:00:00.000Z	LjL	test_	/join #ubuntu-offtopic

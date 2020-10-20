@@ -1,0 +1,6 @@
+2005-06-10T07:51:00.000Z	ablyss		cp will copy dot ( hidden files ) regardless.. .the -r flag just recursively copies
+2005-06-10T07:53:00.000Z	TMM	ablyss	cp * will copy hidden files anyway?
+2005-06-10T07:53:00.000Z	ablyss	TMM	yes
+2005-06-10T07:53:00.000Z	TMM	ablyss	should have known...
+2005-06-10T07:57:00.000Z	TMM	ablyss	I wanted *All* files copies, so I figured "." would be a good idea.. it worked. cp -Rv . /mnt... I was hoping that "." would imply ALL files in the current dir, and it did :)
+2005-06-10T07:57:00.000Z	ablyss	TMM	interesting :)

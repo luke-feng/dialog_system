@@ -1,0 +1,6 @@
+2008-01-12T05:15:00.000Z	gnoift		anyone know if someone is maintaining the latest SNORT for 710 with the rules? like maybe 2.8? I can dl it but it would be nice if there's already a .DEB out there...
+2008-01-12T05:16:00.000Z	gnoift		<jmaldon>you might want to check out howtoforge (www), or the DSL linux project (they have lots of instructions for USB/pen drives)
+2008-01-12T05:18:00.000Z	gnoift		ubuntu-fan; nah sorry but i know, again howtoforge had a  article on normal snort with mysql backend, not sure if it will help but worth a try, in the ubuntu section
+2008-01-12T05:19:00.000Z	gnoift		!snort | gnoift
+2008-01-12T05:21:00.000Z	l337_n166a	gnoift	yeah... didn't change anything after X restarted, but I've figured out that the GL desktop is being silly anyway, so i'll just live without it; should make my laptop run a bit cooler anyway!
+2008-01-12T05:21:00.000Z	l337_n166a	gnoift	thanks for the help anyway :-)

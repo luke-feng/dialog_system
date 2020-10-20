@@ -1,0 +1,6 @@
+2008-09-14T08:38:00.000Z	deeperror		quick q...i'm online with wireless but I don't see the nm-applet in the system tray area by the clock.  Is there some way to get that back?  I've tried rebooting as well just doesn't show up any clues?
+2008-09-14T08:39:00.000Z	gaintsura	deeperror	alt+f2 nm-applet
+2008-09-14T08:40:00.000Z	deeperror	gaintsura	yea its running also see it in ps list but no icon that i can click on to switch wireless networks
+2008-09-14T08:40:00.000Z	deeperror	gaintsura	any other clues?
+2008-09-14T08:41:00.000Z	deeperror	gaintsura	maybe the icon is just hidden maybe there is an nm-applet conf file
+2008-09-14T08:48:00.000Z	deeperror	gaintsura	found it....had to right click on the panel and add the notification area back to the panel and they reappeared...thanks!

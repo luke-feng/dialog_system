@@ -1,0 +1,6 @@
+2012-06-02T15:10:00.000Z	koskoz		hi, I'm trying to set a ssh access between my Windows 7 host and my Ubuntu Server 12 guest. In virtualbox I added a second adapter and set it up to "host only adapter". My first adapter is set to NAT. When I do a ifconfig to my ubuntu eth1 doesn't appear, so I added the following lines to /etc/network/interface http://pastebin.com/wA8qYYuF and the sudo ifup eth1 but when I try to ssh using
+2012-06-02T15:10:00.000Z	koskoz		putty to the ubuntu the connection is refused, I don't understand
+2012-06-02T15:11:00.000Z	MonkeyDust	koskoz	 set the adapter to 'bridged', to make a logical bridge to your existing network
+2012-06-02T15:13:00.000Z	koskoz	MonkeyDust	curiousx: but if I do that, the vm will be visible on my entire network
+2012-06-02T15:16:00.000Z	koskoz	MonkeyDust	curiousx: I set up the adapter to bridge but now when I start my machine ubuntu is waiting for network configuration :/
+2012-06-02T15:18:00.000Z	MonkeyDust	koskoz	 undo the changes in /etc/network/interfaces

@@ -1,0 +1,6 @@
+2006-12-05T07:25:00.000Z	bubi		hi, im trying to write a shell script, my problem is i cant get the output, for example ifconfig | grep 10.1.10 gives me the HOLE line, but all i need is 10.1.10.xx  how can i do this ?
+2006-12-05T07:26:00.000Z	glaz	bubi	use awk
+2006-12-05T07:26:00.000Z	bubi	glaz	i try..thx
+2006-12-05T07:26:00.000Z	glaz		ifconfig | grep 10.1.10 | awk print '{ $2 }'
+2006-12-05T07:27:00.000Z	glaz		if IP is 2nd word
+2006-12-05T07:27:00.000Z	bubi	glaz	yeah but syntax error

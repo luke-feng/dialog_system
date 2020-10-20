@@ -1,0 +1,6 @@
+2011-03-12T03:05:00.000Z	EvilPhoenix		anyone here running 10.04: is there a python-nmap in your repository list(s)?
+2011-03-12T03:07:00.000Z	EvilPhoenix		*grumble* yet ANOTHER thing to stab the repo maintainers about
+2011-03-12T03:07:00.000Z	DasEi	EvilPhoenix	nope, sorry
+2011-03-12T03:08:00.000Z	DasEi	EvilPhoenix	looked at zenmap ?
+2011-03-12T03:08:00.000Z	EvilPhoenix	DasEi	 i need the python-nmap package, its required for a certain feature for an IRC bot being packaged into .deb
+2011-03-12T03:12:00.000Z	DasEi	EvilPhoenix	well on own risk compile it then

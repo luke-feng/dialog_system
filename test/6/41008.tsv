@@ -1,0 +1,6 @@
+2009-03-15T23:59:00.000Z	jjshoe		what are the risks of using a package from gutsy with intrepid?
+2009-03-16T00:00:00.000Z	jjshoe		I'm after tmda, but it doesn't have a package for intrepid
+2009-03-16T00:00:00.000Z	vocx	jjshoe	what is that? Find out why it was obsoleted.
+2009-03-16T00:00:00.000Z	jjshoe	vocx	tagged message delivery agent. either way I'm installing it, question is if I should use an older package, or just do an install from source.
+2009-03-16T00:02:00.000Z	vocx	jjshoe	install from source. Packages have dependency information, so the package manager may go nuts trying to install versions that aren't available, but it is also not a big deal, unless it overwrites dependencies.
+2009-03-16T00:15:00.000Z	vocx	jjshoe	it apparently is unmaintained in debian https://launchpad.net/ubuntu/+source/tmda

@@ -1,0 +1,6 @@
+2009-06-16T02:31:00.000Z	Thib_		I wiped my 8.04 system and installed a 9.04 system afresh. Now it appears that when I let go of alt-tab to bring a window/dialog to the front, or when a new window/dialog pops up, the mouse cursor automatically moves to the center of that window/dialog. Is that a new default? How can I turn it off? Hint: Nvidia binary driver with full desktop effects.
+2009-06-16T02:32:00.000Z	natschil	Thib_	strange, doesn't happen for me...
+2009-06-16T02:32:00.000Z	natschil	Thib_	what windows switcher are you using? (you need to probably install compizconfig-settings-manager)
+2009-06-16T02:33:00.000Z	natschil	Thib_	aka ccsm
+2009-06-16T02:34:00.000Z	Thib_	natschil	I don't know -- so, I guess, whatever the default windows switcher is. It is one that overlays a 2D mosaic of windows.
+2009-06-16T02:56:00.000Z	natschil	Thib_	glad it works for you now :)

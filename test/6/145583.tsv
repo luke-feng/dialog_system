@@ -1,0 +1,6 @@
+2007-06-08T10:48:00.000Z	younghacker		now that java run time is an executable how do i load into my browser?
+2007-06-08T10:49:00.000Z	erUSUL	younghacker	install sun-java6-plugin
+2007-07-11T12:25:00.000Z	erUSUL	younghacker	no warez here
+2007-07-24T09:29:00.000Z	erUSUL	younghacker	kill <pid>
+2007-07-24T09:32:00.000Z	erUSUL	younghacker	use 'kill -9'
+2007-07-24T09:33:00.000Z	erUSUL	younghacker	the default kill signal can be ignored by the process the -9 (SIGKILL) signal can't be ignored

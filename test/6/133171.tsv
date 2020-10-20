@@ -1,0 +1,6 @@
+2006-11-12T13:44:00.000Z	Nem|ltop		alright guys how do i boot to command line from grub? i sorta screwed up my xorg.conf a little bit and need toedit it
+2006-11-12T13:45:00.000Z	Spee_Der	Nem|ltop	look in /etc/X11 for xorg.conf.backup.
+2006-11-12T13:46:00.000Z	Spee_Der	Nem|ltop	Then, if you have a backup file, sudo cp xorg.conf.backup xorg.conf to return to your original settings.
+2006-11-12T13:46:00.000Z	Spee_Der	Nem|ltop	You can do this from a terminal....
+2006-11-12T13:51:00.000Z	Spee_Der	Nem|ltop	Ok....  So check the /etc/X11 for xorg.conf file.....
+2006-11-12T13:53:00.000Z	Spee_Der	Nem|ltop	Try Q

@@ -1,0 +1,6 @@
+2009-01-11T22:41:00.000Z	cwillu		x isn't using the right resolution with my lcd (1400x900), although /var/log/Xorg.0.log shows it as a detected mode.  I can add it via xrandr and set it (although gnome acts a little weird at that point), but how do I get x to just use it properly (preferably with a minimum of xorg.conf hackery, mine is empty, and proud of it :p
+2009-01-11T22:42:00.000Z	the_squircle	cwillu	resolution900?
+2009-01-11T22:43:00.000Z	cwillu	the_squircle	eh?
+2009-01-11T22:44:00.000Z	the_squircle	cwillu	in OpenSUSE i used to use resolution900... seemed to work...
+2009-01-11T22:44:00.000Z	cwillu	the_squircle	what is that?
+2009-01-11T22:44:00.000Z	the_squircle	cwillu	sets the proper resolution without any xorg.conf hacking

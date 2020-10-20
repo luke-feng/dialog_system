@@ -1,0 +1,6 @@
+2005-09-24T13:33:00.000Z	benkong2		Seveas; I did the make-jpkg on the java.bin loggoed out, shutdown, cold boot, restarted and I still have java 1.4.2 gij GNU java. Any suggestions?
+2005-09-24T13:34:00.000Z	benkong2		vrln; I haven't
+2005-09-24T13:34:00.000Z	vrln	benkong2	can you copypaste me ls -l /etc/rc2.d and then the same for /etc/rc5.d
+2005-09-24T13:35:00.000Z	vrln	benkong2	could you pm me those? (probably too much to spam to this channel)
+2005-09-24T13:40:00.000Z	vrln	benkong2	yes, thank you
+2005-09-24T13:41:00.000Z	vrln	benkong2	oops, sorry - actually /etc/rc5.d is still missing

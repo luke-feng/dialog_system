@@ -1,0 +1,6 @@
+2005-05-05T15:07:00.000Z	tid-wave		hello, is there an installation guide for ubuntu ?
+2005-05-05T15:08:00.000Z	Burgundavia	tid-wave	there a preliminary one the docteam repos
+2005-05-05T15:10:00.000Z	Burgundavia	tid-wave	there is no package selection (good defaults) and partitioning is something that a techy should do
+2005-05-05T15:11:00.000Z	tid-wave	Burgundavia	can it resize existing partitions ?
+2005-05-05T15:11:00.000Z	Burgundavia	tid-wave	not in the partitioner currently
+2005-05-05T15:11:00.000Z	Burgundavia	tid-wave	try something like knoppix for that

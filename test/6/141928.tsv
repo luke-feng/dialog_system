@@ -1,0 +1,6 @@
+2005-12-14T15:17:00.000Z	wftl		Is there some non-command line way to identify what the program name of a running GUI app is?  For instance, I know that the CD player is gnome-cd and I can find that out by running "ps ax" and looking, but is there some graphical way for the command line shy?
+2005-12-14T15:17:00.000Z	drkfiber	wftl	System Monitor
+2005-12-14T15:18:00.000Z	wftl	drkfiber	: thought about that. I was looking for something that didn't require you knowing the name of the running app.
+2005-12-14T15:18:00.000Z	wftl		Thanks, though.
+2005-12-14T15:19:00.000Z	drkfiber		add System Monitor to your menu bar. then click on it. You can see what Apps are running. You don't need to know the name.
+2005-12-14T15:21:00.000Z	wftl	drkfiber	(and others). The system monitor is a great way to do this, but if I wanted to give this to a non-command line savvy individual, they might not be able to make the connection between the running app and the command listed there.  gnome-cd is a pretty obvious one, but not everything is going to be.

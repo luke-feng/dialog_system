@@ -1,0 +1,6 @@
+2006-10-28T11:41:00.000Z	Lochez		Somebody can tell me what command I use to see what is the version of my xorg..?
+2006-10-28T11:42:00.000Z	Ademan	Lochez	xorg -version
+2006-10-28T11:45:00.000Z	Ademan	Lochez	you on edgy? and you want the nvidia beta driver?
+2006-10-28T11:45:00.000Z	Ademan	Lochez	run sudo apt-get install linux-headers-`uname -r`
+2006-10-28T11:47:00.000Z	Ademan	Lochez	then kill Xorg and run the *.run (sudo sh NVIDIA_blah_blah_blah)
+2006-10-28T11:47:00.000Z	Ademan	Lochez	is there an error when it crashes?

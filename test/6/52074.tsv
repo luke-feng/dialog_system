@@ -1,0 +1,6 @@
+2009-09-16T11:59:00.000Z	nomad77	sarthor	try sudo apt-get install ms-sys and use it sudo ms-sys /dev/foo. it'll write a new generic xp-type /mbr. but make sure your drive,is correct
+2009-09-16T12:00:00.000Z	sarthor	nomad77	ok.
+2009-09-16T12:02:00.000Z	sarthor	nomad77	no such bakage, sys
+2009-09-16T12:02:00.000Z	sarthor	nomad77	yes, couldnt fiind pakage ms-sys
+2009-09-16T12:07:00.000Z	nomad77	sarthor	https://launchpad.net/ubuntu/+source/ms-sys
+2009-09-16T12:07:00.000Z	sarthor	nomad77	i am on jaunty

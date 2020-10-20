@@ -1,0 +1,6 @@
+2004-10-17T06:46:00.000Z	zenwhen		Odd
+2004-10-17T06:46:00.000Z	zenwhen		couldnt get ubuntu to use my tried and tru x config
+2004-10-17T06:47:00.000Z	zenwhen		Said it couldnt find the devices
+2004-10-17T06:47:00.000Z	zenwhen		though I have them and have always had them corrct in my xorg.conf. 
+2004-10-17T06:47:00.000Z	zenwhen		what does dpkg-reconfigure do?
+2004-10-17T06:48:00.000Z	silva	zenwhen	make sure nvidia is listed in /etc/modules

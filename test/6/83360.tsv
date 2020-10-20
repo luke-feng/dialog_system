@@ -1,0 +1,6 @@
+2007-07-04T05:53:00.000Z	John`		is there a program in ubuntu that can read mathcad file
+2007-07-04T05:53:00.000Z	John`		.xmcd?
+2007-07-04T05:53:00.000Z	John`		anyone experienced before?
+2007-07-04T05:54:00.000Z	John`		how do you apt-cache search?
+2007-07-04T05:54:00.000Z	zploskey	John`	type apt-cache search <whatever you're searching for>
+2007-07-04T05:55:00.000Z	zploskey	John`	if you need help about commands a good place to go is typing: man <command>

@@ -1,0 +1,6 @@
+2011-06-19T04:46:00.000Z	cereal		I got a game that keeps crashing from a segment fault. but i dont see a log file anywhere. is there a way to run the game so that i can find out whats wrong
+2011-06-19T04:46:00.000Z	bazhang	cereal	what game
+2011-06-19T04:46:00.000Z	bazhang	cereal	this is linux game or wine
+2011-06-19T04:46:00.000Z	bazhang	cereal	you are using *which*
+2011-06-19T04:48:00.000Z	bazhang	cereal	where is it installed from, what source
+2011-06-19T04:51:00.000Z	cereal	bazhang	i have a feeling it has something to do with java, because sometimes it not only crashes but causes my desktop to act weird, chrome freezes. gnome panel too.

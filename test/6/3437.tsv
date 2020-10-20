@@ -1,0 +1,6 @@
+2012-03-03T17:22:00.000Z	fruitbag		Guys, I'm trying to install Quake 3 Arena demo on Xubuntu. When I enter 'sh linuxq3ademo-1.11-6.x86.gz.sh', a window pops up with the name "Quake III Arena Demo" and the message "Warning: unknown mime-type for "-r" -- using "application/octet-stream"
+2012-03-03T17:22:00.000Z	fruitbag		What could the problem be?
+2012-03-03T17:24:00.000Z	fruitbag		I get the same problem.
+2012-03-03T17:24:00.000Z	fruitbag		So, this version of Quake 3 Arena Demo is too old?
+2012-03-03T17:24:00.000Z	Captain_Proton	fruitbag	also try to unzip it first. gz = gunzip
+2012-03-03T17:25:00.000Z	fruitbag	Captain_Proton	it's a shell script.

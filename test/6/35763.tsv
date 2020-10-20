@@ -1,0 +1,6 @@
+2009-06-09T10:49:00.000Z	losher	loof	something like: mount -t cifs -o nosuid,rw,uid=XXX,gid=YYY,username=ZZZ,password=AAA //server/share /mnt. You have to fill in the XXX,YYY,ZZZ,AAA,server & share
+2009-06-09T10:50:00.000Z	loof	losher	thanks!
+2009-06-09T10:51:00.000Z	losher	loof	you choose them yourself from /etc/passwd. Choose the main user you login as
+2009-06-09T10:52:00.000Z	loof	losher	but do i NEED to input the uid and gid? can i just not use them at all?
+2009-06-09T10:55:00.000Z	losher	loof	dunno, according to the web page, it depends on the server. So try it & let us know... :-)
+2009-06-09T11:08:00.000Z	loof	losher	THANKS TONS

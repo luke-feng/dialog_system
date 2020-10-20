@@ -1,0 +1,6 @@
+2008-10-22T06:54:00.000Z	Puppy		Any idea's how i could find ou why this is not working ?
+2008-10-22T06:55:00.000Z	Puppy		Tryed normal cd, normal alt cd, tryed windows install, nothign nothing nothing
+2008-10-22T06:56:00.000Z	genii	Puppy	Does it even begin to boot from the cdrom ?
+2008-10-22T06:58:00.000Z	genii	Puppy	Sounds like it can't understand where the cdrom is or how to use it.
+2008-10-22T07:00:00.000Z	genii	Puppy	It begins to boot, then when it comes time to load the live filesystem, it can't find a device to load it from. This sometimes happens on SATA cdroms for instance, where the chipset driver for the SATA controller is not loaded into the initrd of the kernel
+2008-10-22T07:01:00.000Z	genii	Puppy	You may have in your bios an option where all the sata drives can be seen as traditional IDE types. If so perhaps try this and see if the cd loads further

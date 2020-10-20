@@ -1,0 +1,6 @@
+2009-11-25T02:30:00.000Z	Edgar1		i have downloaded the alternative.iso 9.10 for upgrade, i though it would be very fast the upgrade. but now is downloading some files, its downloading  1147/1547
+2009-11-25T02:30:00.000Z	Edgar1		is it necessary to wait download these files
+2009-11-25T02:30:00.000Z	Edgar1		??
+2009-11-25T02:31:00.000Z	ActionParsnip	Edgar1	you have packages which arent on the CD but the repos you have added have karmic repos
+2009-11-25T02:32:00.000Z	Edgar1	ActionParsnip	so i have to wait? well, before that the wizard told me that my actual repos wont be used
+2009-11-25T02:34:00.000Z	ActionParsnip	Edgar1	not sure then

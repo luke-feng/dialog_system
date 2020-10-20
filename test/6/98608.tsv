@@ -1,0 +1,6 @@
+2007-03-31T08:44:00.000Z	rj_		ik i installed the ndiswrapper from the repositories in ubuntu and i'm at the command modprobe ndiswrapper and I hit return and the curso just sits there and flashes nothing happens
+2007-03-31T08:45:00.000Z	rj_		already installed driver for wg311v3
+2007-03-31T08:45:00.000Z	rj_		says it's there and hardware is there
+2007-03-31T08:46:00.000Z	rj_		if anyone wants to see what i'm doing visit http://www.jimbo7.com/wiki/index.php?title=WG311v3_LINUX_WIKI#NdisWrapper
+2007-03-31T08:46:00.000Z	vox754	rj_	the current nsiwrapper is 1.40, get it from source, and compile it.
+2007-03-31T08:48:00.000Z	vox754	rj_	well, you said from repositories so I thought it was like 1.22 or 1.30

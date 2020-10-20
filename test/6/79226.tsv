@@ -1,0 +1,6 @@
+2008-12-12T03:53:00.000Z	ejer		does anyone know a way to make an encrypted file that can be decrypted without other software (except maybe a linux OS), like a self-extracting zip file?
+2008-12-12T03:54:00.000Z	gnutron	ejer	gnupg is a powerful encryption program.
+2008-12-12T03:54:00.000Z	gnutron	ejer	actually, gnupg is the package name. gpg is the program.
+2008-12-12T03:54:00.000Z	ejer	gnutron	yeah I have used most encryption progs, I want something someone could download on a brand new system and decrypt (maybe with no internet, ie off usb, so I can't assume they can install anything)
+2008-12-12T03:55:00.000Z	gnutron	ejer	gpg is the linux equivalent to PGP by phil zimmerman
+2008-12-12T03:55:00.000Z	ejer	gnutron	i know :) I use it... but it is not installed by default

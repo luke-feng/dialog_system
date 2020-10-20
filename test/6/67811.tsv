@@ -1,0 +1,6 @@
+2008-12-04T23:07:00.000Z	dinesh_		error is could not download all repository indexes
+2008-12-04T23:07:00.000Z	dinesh_		and show an msz
+2008-12-04T23:07:00.000Z	dinesh_		Failed to fetch http:/wine.budgetdedicated.com/apt/dists/intrepid/Release.gpg  Unable to connect to  http:
+2008-12-04T23:07:00.000Z	dinesh_		Failed to fetch http:/wine.budgetdedicated.com/apt/dists/intrepid/main/i18n/Translation-en_IN.bz2  Unable to connect to  http:
+2008-12-04T23:07:00.000Z	dinesh_		Failed to fetch http:/wine.budgetdedicated.com/apt/dists/intrepid/main/binary-i386/Packages.gz  Unable to connect to  http:
+2008-12-04T23:07:00.000Z	FloodBot2	dinesh_	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

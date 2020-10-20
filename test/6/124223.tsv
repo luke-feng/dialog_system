@@ -1,0 +1,6 @@
+2006-06-12T16:54:00.000Z	matt_		Can anyone help me here?
+2006-06-12T16:54:00.000Z	matt_		anyone at all?
+2006-06-12T16:56:00.000Z	matt_		ok well i think nickrud knows my problem but here it is, i still can't access my windows partitioned drives, i can't get into windows no matter what, and i need to get into these through linux, but it has "permission" issues, which is frustrating because its my own computer
+2006-06-12T16:57:00.000Z	matt_		it is ntsf, but i do need to
+2006-06-12T16:59:00.000Z	matt_		alright, i guess i have to try to get into windows
+2006-06-12T05:03:00.000Z	wizz	matt_	, I've read something about writing on ntfs partition from linux : http://www.ntfs-linux.com/

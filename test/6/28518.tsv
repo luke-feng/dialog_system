@@ -1,0 +1,6 @@
+2010-03-20T23:19:00.000Z	uzi_		how to remove ttf-dejavu-core pkg without removing ubuntu-desktop?
+2010-03-20T23:20:00.000Z	uzi_		how to remove ttf-dejavu-core pkg without removing ubuntu-desktop?
+2010-03-20T23:22:00.000Z	uzi_		how to remove ttf-dejavu-core pkg without removing ubuntu-desktop?
+2010-03-20T23:23:00.000Z	G-Farkas	uzi_	did you try with dpkg?
+2010-03-20T23:25:00.000Z	uzi_	G-Farkas	anto9us: should I --force-yes purge ttf-dejavu-core?
+2010-03-20T23:26:00.000Z	G-Farkas	uzi_	what tell to you?

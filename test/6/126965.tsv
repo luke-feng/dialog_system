@@ -1,0 +1,6 @@
+2006-02-24T11:15:00.000Z	eugman		but you don't get any errors?
+2006-02-24T11:16:00.000Z	eugman		I know one option bockbillbo
+2006-02-24T11:16:00.000Z	eugman		sudo nautilus
+2006-02-24T11:17:00.000Z	eugman		then try removing it through nautilus
+2006-02-24T11:18:00.000Z	eugman		Also I'm pretty sure you use a lower r to recurse with rm but you'd have to check the man pages.
+2006-02-24T11:18:00.000Z	CanYouHelpMePlz	eugman	yes, rm -r

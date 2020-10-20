@@ -1,0 +1,6 @@
+2004-09-29T16:20:00.000Z	kevin__		from which directory?
+2004-09-29T16:21:00.000Z	kevin__		oh i am just following some howto on ndiswrapper site
+2004-09-29T16:21:00.000Z	kevin__		ok
+2004-09-29T16:22:00.000Z	kevin__		well it doesnt say sudo fakeroot
+2004-09-29T16:22:00.000Z	kevin__		its just when i run just fakeroot i get permission errors
+2004-09-29T16:23:00.000Z	sladen	kevin__	you probably want   fakeroot  for building stuff and  sudo  for installing it

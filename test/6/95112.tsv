@@ -1,0 +1,6 @@
+2008-05-03T10:14:00.000Z	vincenzofehring		Okay, I am new to Ubuntu Linux!
+2008-05-03T10:15:00.000Z	vincenzofehring		I have a question for anyone that is willing to help!
+2008-05-03T10:15:00.000Z	vincenzofehring		A friend of mine told me that if I install Ubuntu on a computer's harddrive, and then i move the hard drive to another computer, it will still run...
+2008-05-03T10:15:00.000Z	vincenzofehring		is this true?
+2008-05-03T10:16:00.000Z	r00tintheb0x	vincenzofehring	in my experice yes.
+2008-05-03T10:16:00.000Z	r00tintheb0x	vincenzofehring	you may have to load/unload some modules for hardware, but it should work.

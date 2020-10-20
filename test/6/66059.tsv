@@ -1,0 +1,6 @@
+2008-09-07T03:22:00.000Z	kevink23		how do you install the flash player in firefox
+2008-09-07T03:23:00.000Z	kevink23		thanks, i have it installed but fire fox still says i cant play videos
+2008-09-07T03:24:00.000Z	kevink23		yep
+2008-09-07T03:25:00.000Z	kevink23		does anyone else know what could be wrong with firefox? it says there is no flash player installed but it is
+2008-09-07T03:25:00.000Z	ActionParsnip	kevink23	i bet you didnt symlink it
+2008-09-07T03:30:00.000Z	ActionParsnip	kevink23	mkdir ~/.mozilla/plugins; ln -s /usr/lib/mozilla/plugins/libflashplayer.so ~/.mozilla/plugins

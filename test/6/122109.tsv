@@ -1,0 +1,6 @@
+2006-07-30T10:30:00.000Z	apeman2020		how can i set the root level to 2, i dont want to boot directly into the UI.
+2006-07-30T10:30:00.000Z	apeman2020		>>
+2006-07-30T10:31:00.000Z	ic56	apeman2020	edit /etc/inittab  change the "default" entry
+2006-07-30T10:33:00.000Z	ic56	apeman2020	Ooops, "initdefault" entry.  Should be the first entry in teh file.  Set the second field.  However, you'll be disappointed to discover that the GUI is on level 2 in Ubuntu.  This means, you'll have to shift all the /etc/rc2.d entries over to rc3.d and so on.
+2006-07-30T11:44:00.000Z	ic56	apeman2020	you still asking about init levels?  Didn't you read my messages an hour ago?
+2006-07-30T11:47:00.000Z	ic56	apeman2020	yo! apeman2020!  Are you watching this channel?

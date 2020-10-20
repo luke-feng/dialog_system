@@ -1,0 +1,6 @@
+2009-08-26T21:22:00.000Z	fixxxermet		Trying to use checkinstall.  I just want it to create the deb package and NOT install the package or touch the filesystem otherwise.  --install=no isn't helping
+2009-08-26T21:24:00.000Z	Uqbar	fixxxermet	I don't think checkinstall can do that. --install=no means it won't try to install the .deb, not that the installation of the actual files will be prevented
+2009-08-26T21:25:00.000Z	Uqbar	fixxxermet	anyway, dpkg -r yourpackage, removing the .deb checkinstall created to justify the existence of those files, will also remove the files that have been installed.
+2009-08-26T21:25:00.000Z	fixxxermet	Uqbar	what about --fstrans?
+2009-08-26T21:26:00.000Z	Uqbar	fixxxermet	never tried that
+2009-08-26T21:26:00.000Z	fixxxermet	Uqbar	Looks like it should work.    "--fstrans Enable/disable filesystem translation. Filesystem translation enabled causes the install to proceed in a temporary directory, thus not actually touching your system."

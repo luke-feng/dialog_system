@@ -1,0 +1,6 @@
+2008-05-03T01:15:00.000Z	marcus``		Hi, anyone successful in installing Xfi drivers?
+2008-05-03T01:16:00.000Z	marcus``		need help installing 32bit x-fi sound drivers on ubuntu 8.04
+2008-05-03T01:17:00.000Z	fde	marcus``	That sound card currently isn't supported, apologies.
+2008-05-03T01:17:00.000Z	marcus``	fde	drivers are released
+2008-05-03T01:17:00.000Z	fde	marcus``	There are beta drivers, yes... but you'll have to talk to Creative about those.
+2008-05-03T01:17:00.000Z	fde	marcus``	If they were up to standards, they would have been in Hardy.

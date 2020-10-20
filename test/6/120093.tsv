@@ -1,0 +1,6 @@
+2006-04-23T13:50:00.000Z	DNA_String		after "sudo apt-get install gnome" I got "E: Couldn't find package gnome"
+2006-04-23T13:50:00.000Z	GiGaHuRtZ	DNA_String	"ubuntu-desktop"
+2006-04-23T13:53:00.000Z	GiGaHuRtZ	DNA_String	maybe I missed out on exactly what it is you are trying to accomplish
+2006-04-23T13:57:00.000Z	DNA_String	GiGaHuRtZ	I just installed ubuntu and after the first login it justs sits there - just the mouse and the ubuntu-earthy-brown desktop. no Icons, no menus, no trays, nothing but mouse and brown.
+2006-04-23T13:59:00.000Z	GiGaHuRtZ	DNA_String	have you tried failsafe gnome or any of the other options under the gdm sessions menu?
+2006-04-23T14:00:00.000Z	GiGaHuRtZ	DNA_String	you get the gdm login dont you?

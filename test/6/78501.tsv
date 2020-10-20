@@ -1,0 +1,6 @@
+2007-12-06T07:23:00.000Z	rpj8		When I make a change to .Xdefaults in order to change settings in xterm, how do I refresh xterm with these new settings?
+2007-12-06T07:24:00.000Z	rpj8		When I make a change to .Xdefaults in order to change settings in xterm, how do I refresh xterm with these new settings?
+2007-12-06T07:26:00.000Z	kelsin	rpj8	you might need to run "xrdb -load .Xdefaults"
+2007-12-06T07:26:00.000Z	kelsin	rpj8	and I think the new place for this is .Xresources
+2007-12-06T07:26:00.000Z	rpj8	kelsin	I see. So I should dump my stuff in .Xresources then
+2007-12-06T07:27:00.000Z	kelsin	rpj8	I think so, I think Xdefaults was dropped a while ago, the main issue is without restarting your xsession I'm pretty sure you have to run that command on the file

@@ -1,0 +1,6 @@
+2011-07-20T00:20:00.000Z	Sputinick	wechat	Yes, for block to mount usb ^^''
+2011-07-20T00:21:00.000Z	Sputinick	wechat	I don't know directory
+2011-07-20T00:22:00.000Z	wechat	Sputinick	The world ''users" or "user" in /etc/fstab will let everybody to mount usb
+2011-07-20T00:24:00.000Z	Sputinick	wechat	tks my friend, you saved my life '-'
+2011-07-20T00:24:00.000Z	wechat	Sputinick	heh, i know the direction but sometimes i can't quickly set up fstab. But the clue is there. So try to man it and i will be happy if it will help u.
+2011-07-20T00:29:00.000Z	wechat	Sputinick	nouser Forbid an ordinary (i.e., non-root) user to mount the filesystem.  This is the default.

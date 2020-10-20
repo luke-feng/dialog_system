@@ -1,0 +1,6 @@
+2010-03-11T14:46:00.000Z	shahin		anyone having problems with apt-update?
+2010-03-11T14:46:00.000Z	theadmin	shahin	Nope.
+2010-03-11T14:47:00.000Z	shahin	theadmin	hm, mine just says "99% [waiting for headers]" as soon as it comes to http://security.ubuntu.com/ubuntu karmic-security main restricted
+2010-03-11T14:47:00.000Z	shahin	theadmin	can you please check if you have that rep in your sources.list?
+2010-03-11T14:48:00.000Z	theadmin	shahin	Yeah, i do, it's just slow
+2010-03-11T14:49:00.000Z	shahin	theadmin	hm, i've waited a couple of minutes now. is it just today it's this slow?

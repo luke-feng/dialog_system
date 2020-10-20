@@ -1,0 +1,6 @@
+2007-01-23T13:23:00.000Z	tommason		when using sudo apt-get can I get a different version of php other then 5.1.6.. I need 5.2
+2007-01-23T13:25:00.000Z	tommason		so I will need to download and compile it..
+2007-01-23T13:26:00.000Z	tommason		I am a linux n00b
+2007-01-23T10:44:00.000Z	tommason		I am trying to build and install apache2. I downloaded and tried to configure using ./configure --enable-so... I get the following error  configure: error: C compiler cannot create executables
+2007-01-23T10:44:00.000Z	mooky	tommason	your missing the build essentials package
+2007-01-23T11:14:00.000Z	tommason	mooky	When you told me that I was missing build essentials, did you mean for ubuntu in general or did you mean for apache?

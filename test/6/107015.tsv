@@ -1,0 +1,6 @@
+2006-10-18T13:08:00.000Z	jcooke		tempted rather, not ericpersson
+2006-10-18T13:09:00.000Z	tempted	jcooke	as far as i can tell ya, everything is forwarded properly
+2006-10-18T13:10:00.000Z	jcooke	tempted	maybe config your httpd to listen on it's network ip?
+2006-10-18T13:15:00.000Z	tempted	jcooke	i do the notice of "apache2: Could not determine the server's fully qualified domain name, using 127.0.0.1 for ServerName" when i restart apache
+2006-10-18T13:16:00.000Z	jcooke	tempted	I don't remember what that means, but I don't think it's bad
+2006-10-18T13:22:00.000Z	jcooke	tempted	I've done worse, to a server hosting 200+ domains ;(

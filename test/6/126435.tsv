@@ -1,0 +1,6 @@
+2011-10-14T14:55:00.000Z	Calinou		how am I supposed to copy my /home folder on a external HDD? I can't copy on it, nor I can use sudo (broken sudo)
+2011-10-14T14:56:00.000Z	Calinou		everyone is going to flame me... but chmodding 777 /usr/bin was never a good idea
+2011-10-14T14:56:00.000Z	Calinou		just to install a dependancy, since ubuntu hadn't it
+2011-10-14T14:57:00.000Z	Calinou		fine then, I have 11.10's iso and a DVD
+2011-10-14T14:57:00.000Z	Calinou		...I can use the live CD to copy stuff from /home to the external HDD? it works?
+2011-10-14T14:58:00.000Z	s1	Calinou	yes,that should do it.

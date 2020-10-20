@@ -1,0 +1,6 @@
+2006-10-03T15:36:00.000Z	britt		how can i list available APs using some iwconfig tool
+2006-10-03T15:36:00.000Z	britt		tried iwconfig eth1 scan
+2006-10-03T15:36:00.000Z	britt		and it didnt work
+2006-10-03T15:36:00.000Z	britt		and eth1 really IS my wireless card
+2006-10-03T15:36:00.000Z	fyrestrtr	britt	iwlist
+2006-10-03T15:38:00.000Z	fyrestrtr	britt	iwlist yourinterface scanning

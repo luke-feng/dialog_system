@@ -1,0 +1,6 @@
+2006-06-05T16:05:00.000Z	kimbaroth		Anyone know how to delete some items that refuse to be deleted from the "Wastebasket"???
+2006-06-05T16:07:00.000Z	conman23456	kimbaroth	have you tried deleting it from the terminal?
+2006-06-05T16:07:00.000Z	kimbaroth	conman23456	Nope, how do I do that??
+2006-06-05T16:07:00.000Z	kimbaroth	conman23456	I dont know the path to the Wastebasket
+2006-06-05T16:08:00.000Z	conman23456	kimbaroth	put it on your desktop, and run rm /home/(your user)/desktop/(file)
+2006-06-05T16:12:00.000Z	kimbaroth	conman23456	rm: cannot remove `easyubuntu (copy)/': Is a directory

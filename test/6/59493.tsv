@@ -1,0 +1,6 @@
+2010-07-16T23:21:00.000Z	esmit		Hello friends, how I share files between to ubuntus in the same LAN without samba?
+2010-07-16T23:21:00.000Z	esmit		Hello friends, how I share files between two ubuntus in the same LAN without samba?***
+2010-07-16T23:22:00.000Z	violinappren	esmit	install openssh-server on both of them and use Places > Connect to
+2010-07-16T23:23:00.000Z	esmit		thankyou <violinappren>, I will try that.
+2010-07-16T23:25:00.000Z	esmit	erUSUL	Whats better?
+2010-07-16T23:25:00.000Z	violinappren	esmit	ssh is better

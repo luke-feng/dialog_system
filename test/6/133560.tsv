@@ -1,0 +1,6 @@
+2005-11-05T14:17:00.000Z	davidleeroth		in gnome (breezy), the clock runs waaaaay too fast
+2005-11-05T14:17:00.000Z	davidleeroth		help plz!?
+2005-11-05T14:18:00.000Z	Madpilot	davidleeroth	set up NTP - time synch - and it'll keep time
+2005-11-05T14:18:00.000Z	davidleeroth	Madpilot	i have but it keeps effing up
+2005-11-05T14:19:00.000Z	Madpilot	davidleeroth	use "pool.ntp.org" as an NTP server
+2005-11-05T14:21:00.000Z	Madpilot	davidleeroth	OK, you've got odder problems than just time snych, I guess...

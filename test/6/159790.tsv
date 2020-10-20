@@ -1,0 +1,6 @@
+2004-11-23T09:10:00.000Z	George^Deka		Can anyone please shead any light on my issue
+2004-11-23T09:10:00.000Z	George^Deka		trying to install warty when i am booting into the second step i get the following errors:   modprobe: FATAL: error inserting pciehp (path to pciehp.ko) Operation not permitted   - modprobe: FATAL: error inserting shpchp (path to shpchp.ko) Operation not permitted
+2004-11-23T09:11:00.000Z	George^Deka		well it wont boot past that
+2004-11-23T09:11:00.000Z	Treenaks	George^Deka	it could take some time to go past that
+2004-12-06T17:04:00.000Z	Treenaks	George^Deka	yes, don't install the firefox from hoary on warty
+2004-12-06T17:05:00.000Z	George^Deka	Treenaks	well now its done, can anyone suggest a fix

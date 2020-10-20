@@ -1,0 +1,6 @@
+2009-01-17T07:27:00.000Z	yimer		hey how do i get java to work for online games on ubuntu
+2009-01-17T07:27:00.000Z	yimer		hey how do i get java to work for online games on ubuntu
+2009-01-17T07:28:00.000Z	nickrud	yimer	install   sun-java6-plugin
+2009-01-17T07:29:00.000Z	yimer	nickrud	where do i type that
+2009-01-17T07:30:00.000Z	nickrud	yimer	synaptic can be found at system->admin->synaptic package manager
+2009-01-17T07:34:00.000Z	nickrud	yimer	do that, then check synaptic again. You'll need to close synaptic temporarily

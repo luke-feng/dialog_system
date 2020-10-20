@@ -1,0 +1,6 @@
+2009-02-08T22:14:00.000Z	ben__		Virtualbox AMD64 is for windows x64 on intel?
+2009-02-08T22:15:00.000Z	etech	ben__	yes
+2009-02-08T22:15:00.000Z	ben__	etech	what about ubuntu server 8.10
+2009-02-08T22:15:00.000Z	etech	ben__	what?
+2009-02-08T22:17:00.000Z	ben__		would ubuntu 8.10 server for AMDx64 run on Virtualbox on Vista x64
+2009-02-08T22:17:00.000Z	etech	ben__	yes, the new virtualbox supports 64bit guests

@@ -1,0 +1,6 @@
+2009-04-23T03:57:00.000Z	Psi-Jack		Is there any chance of getting Ubuntu's installation to detect and use the VIA RAID IDE controller for installation? I can see all the hard drives on the system, but the ones linked on a Raid-0 array just show up as individual hard drives and as unallocated.
+2009-04-23T03:57:00.000Z	iceroot	Psi-Jack	use the alternate cd
+2009-04-23T03:57:00.000Z	Psi-Jack	iceroot	Hmm, only the alternate cd can do it, through textmode install?
+2009-04-23T03:57:00.000Z	iceroot	Psi-Jack	8.10 alternate is detecting (fake)raid
+2009-04-23T03:58:00.000Z	iceroot	Psi-Jack	fakeraid, yes, normal raid also works with normal installer
+2009-04-23T03:58:00.000Z	Psi-Jack	iceroot	I see. Well that's a bummer.

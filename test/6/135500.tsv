@@ -1,0 +1,6 @@
+2008-06-08T03:34:00.000Z	sploozer		i'm having some major issues with BIND anyone know BIND very well?
+2008-06-08T03:35:00.000Z	sploozer		i can't nslookup anything it continues to say connection timed no server could be reached
+2008-06-08T03:36:00.000Z	sploozer		iptables if off, /etc/resolv.conf  is updated
+2008-06-08T03:36:00.000Z	sploozer		named is running
+2008-06-08T03:38:00.000Z	sploozer		anyone BIND ????
+2008-06-08T03:40:00.000Z	soundray	sploozer	why are you running bind?

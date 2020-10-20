@@ -1,0 +1,6 @@
+2008-01-03T08:12:00.000Z	nrdb		how do I find out what version of ubuntu I am running ?
+2008-01-03T08:13:00.000Z	jtholmes	nrdb	cat /etc/lsb-release
+2008-01-03T08:13:00.000Z	nrdb	jtholmes	thanks
+2008-01-03T08:14:00.000Z	jtholmes	nrdb	sure
+2008-01-03T08:15:00.000Z	nrdb		I am running 6.06 and I need to upgrade to 7.10, I have backed up the /home and /etc directories.  what is the best way to do this ?
+2008-01-03T08:16:00.000Z	jtholmes	nrdb	if i am not mistaken you have to first upgrade to 7.04 then 7.10 if i am wrong someone will correct me

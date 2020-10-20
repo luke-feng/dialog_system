@@ -1,0 +1,6 @@
+2010-11-08T10:41:00.000Z	Jordan_U	airtonix	You can't change the install prefix of a binary .deb file. You'd need to modify the source package and rebuild it. Why do you want it in /usr/local/ ?
+2010-11-08T10:41:00.000Z	airtonix	Jordan_U	?
+2010-11-08T10:42:00.000Z	Jordan_U	airtonix	Sorry, wrong nick.
+2010-11-11T12:54:00.000Z	Jordan_U	airtonix	Try asking in ##hardware.
+2010-11-11T12:54:00.000Z	airtonix	Jordan_U	 i think you misclicked.
+2010-11-11T12:55:00.000Z	Jordan_U	airtonix	Indeed. Sorry.

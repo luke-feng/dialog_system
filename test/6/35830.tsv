@@ -1,0 +1,6 @@
+2009-06-25T20:18:00.000Z	Halabund		I have some trouble with graphics on Jaunty: 1. full-screen windows flicker badly when tooltips are shown  2. 3D graphics in Mathematica only appear when they are being rotated, but not otherwise. This is not fixed by turning off desktop effects.
+2009-06-25T20:18:00.000Z	Halabund		On some forums it was suggested to turn on "uxa" acceleration, which semi-fixes Mathematica, but then X freezes from time to time (every 2-3 hours).  Do you have any suggestions about fixing these problems?
+2009-06-25T20:19:00.000Z	ctmjr	Halabund	di you try EXA it is much better than UXA
+2009-06-25T20:20:00.000Z	Halabund	ctmjr	EXA is the default, but Mathematica 3D graphics don't work with it.  I can't use UXA because the system freezes hard from time to time.
+2009-06-25T20:20:00.000Z	Halabund	ctmjr	The full-screen window flicker is present both with exa and uxa
+2009-06-25T20:25:00.000Z	ctmjr	Halabund	am guessing you have a intel graphics card?

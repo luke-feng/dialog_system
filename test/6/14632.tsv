@@ -1,0 +1,6 @@
+2011-01-19T19:42:00.000Z	gobbe	nmvictor	eh? you should _never_ run rm -rf .*
+2011-01-19T19:37:00.000Z	gobbe	nmvictor	what did you do before that?
+2011-01-19T19:37:00.000Z	gobbe	nmvictor	or what did you try to do
+2011-01-19T19:40:00.000Z	nmvictor	gobbe	To be honest I had issues with pulseaudio and I was forced to do rm -rf .* in my current dir, which miraculously fixed the pulse audio issue but in return gave me an awkward terminal.
+2011-01-19T19:41:00.000Z	nmvictor	gobbe	home dir (~) that is
+2011-01-19T19:45:00.000Z	nmvictor	gobbe	please help

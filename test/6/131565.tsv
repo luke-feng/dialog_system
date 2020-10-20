@@ -1,0 +1,6 @@
+2006-04-05T06:20:00.000Z	Nihil85		how can i see the MAC address of my wirelesscard?
+2006-04-05T06:20:00.000Z	Hobbsee	Nihil85	ifconfig?
+2006-04-05T06:20:00.000Z	Nihil85	Hobbsee	thanks
+2006-04-05T06:21:00.000Z	Hobbsee		!tell SplashTK about repos
+2006-04-05T06:21:00.000Z	Nihil85	Hobbsee	there's no mac address... only a hwaddr
+2006-04-05T06:22:00.000Z	Hobbsee	Nihil85	oh...i thought it showed both.  hence the ? at the end.

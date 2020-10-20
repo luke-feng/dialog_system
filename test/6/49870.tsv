@@ -1,0 +1,6 @@
+2008-10-24T08:36:00.000Z	Doc8404		whats the command to check ur partition type because im hoping its not ext3 i heard you cant defrag it
+2008-10-24T08:36:00.000Z	FreshUbuntuNoob	Doc8404	ext3 auto defrags itself, you don't have to
+2008-10-24T08:38:00.000Z	FreshUbuntuNoob	Doc8404	you need to sudo that, sudo fdisk -l
+2008-10-24T08:39:00.000Z	Doc8404	FreshUbuntuNoob	its jus telling me size not partition type
+2008-10-24T08:39:00.000Z	FreshUbuntuNoob	Doc8404	could you pastebin?
+2008-10-24T08:42:00.000Z	FreshUbuntuNoob	Doc8404	Wow, pastebin is dead for me :s

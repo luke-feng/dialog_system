@@ -1,0 +1,6 @@
+2006-07-13T11:49:00.000Z	xxyyzz		How do I find out if my computer has wireless or not? I'm not sure if Ubuntu is supposed to detect wireless 'cause I'm not sure if I have it or not, heh
+2006-07-13T11:49:00.000Z	xxyyzz		It's a compaq presario v2000 ... I dunno if it comes with a wireless card =/
+2006-07-13T11:50:00.000Z	Warbo	xxyyzz	"lspci"?
+2006-07-13T11:51:00.000Z	Warbo	xxyyzz	Any "802.11" anywhere?
+2006-07-13T11:52:00.000Z	xxyyzz	Warbo	not that I can see
+2006-07-13T11:53:00.000Z	Warbo	xxyyzz	Yeah, read the !wireless thing that was sent to you

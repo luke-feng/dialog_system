@@ -1,0 +1,6 @@
+2006-09-08T07:24:00.000Z	oem		hi all...i need help regarding including my floppy disk drive in the fstab file..i didn't find it there and it's not getting detected either...kindly help
+2006-09-08T07:26:00.000Z	Dr_Willis	oem	 you could always mount it manually
+2006-09-08T07:26:00.000Z	Dr_Willis	oem	 automounting a floppy disk can be a pain.
+2006-09-08T07:28:00.000Z	Dr_Willis	oem	 hmm - its showing up under Places/Computer/Floppy for me.. and i dont have an entry in the fstab for the floppy.
+2006-09-08T07:34:00.000Z	Dr_Willis	oem	 i dident need an entry in the fstab.. it showed up under places/computer/Floppy disk
+2006-09-08T07:34:00.000Z	Dr_Willis	oem	 i then right click on it to 'mount' the drive. if you make a fstab entry - then that will override the default gnome mounting system

@@ -1,0 +1,6 @@
+2008-01-23T01:49:00.000Z	Brandon_		huh, do I need to install something for VI to work normally? I forget. When I hit i for input in VI it doesn't go into input mode
+2008-01-23T01:50:00.000Z	Exteris	Brandon_	do you have VIM installed or just vi?
+2008-01-23T01:50:00.000Z	Brandon_	Exteris	good question one moment
+2008-01-23T01:51:00.000Z	Exteris		sudo dpkg-reconfigure xserver-xorg ?
+2008-01-23T01:53:00.000Z	Brandon_	Exteris	hmm interesting another program which is vital but isn't in the default installation. VIM and SSH, I'll have to look up why that is sometime
+2008-01-23T01:54:00.000Z	Exteris	Brandon_	on any new system i install vim, it really is much better

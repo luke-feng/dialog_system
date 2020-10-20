@@ -1,0 +1,6 @@
+2008-11-18T03:07:00.000Z	kansan		how do i launch a program such that it isn't tied to the command line?  i.e. if i close my terminal, the program doesnt close?
+2008-11-18T03:07:00.000Z	apeiron	kansan	screen or dtach
+2008-11-18T03:08:00.000Z	kansan	apeiron	are those 3rd party launchers
+2008-11-18T03:08:00.000Z	apeiron	kansan	dtach is what Jordan_U said in one command. screen is a terminal multiplexer.
+2008-11-18T03:10:00.000Z	kansan	apeiron	what is difference between dtach and disown
+2008-11-18T03:11:00.000Z	apeiron	kansan	dtach AFAIK is background launching and disown in one command.

@@ -1,0 +1,6 @@
+2006-06-13T10:51:00.000Z	bjones		how do I configure dapper drake to use my wide aspect LCD monitor?
+2006-06-13T10:52:00.000Z	RancidLM	bjones	it should auto detect a wide screen when you first install, did u just replace a regular monitor with ur widescreen one?
+2006-06-13T10:54:00.000Z	bjones	RancidLM	I installed with the wide aspect monitor connected.  It did not autodetect.
+2006-06-13T10:55:00.000Z	RancidLM	bjones	wierd i have a laptop and ubuntu 5.10 and 6.06 both auto detected a wide screen.. have u looked int your /etc/X11/xorg.conf file for your resolution settings?
+2006-06-13T10:59:00.000Z	bjones	RancidLM	It detected as a "Generic Monitor".  All I get is 1024x768, 800x600, and 640x480
+2006-06-13T10:59:00.000Z	RancidLM	bjones	and thats probly gonna have to change.. id try chaning the resolution to something that the monitor is capable of

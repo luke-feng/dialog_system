@@ -1,0 +1,6 @@
+2007-07-04T11:22:00.000Z	gbutler289		how can I edit a dansguardian.conf file as root in a gui?
+2007-07-04T11:23:00.000Z	gbutler289		zilus....is there a way to do by going through the visual system files?
+2007-07-04T11:24:00.000Z	gbutler289		well one of the things I'm confused about is I tried to install dansguardian and it prompted for root pass using synaptic and then said I didn't have access to create that directory during installation?
+2007-07-04T11:24:00.000Z	n2diy	gbutler289	Zilus told you how to do that.
+2007-07-04T11:27:00.000Z	n2diy	gbutler289	no, nothing wrong with Synaptic, I use it often.
+2007-07-04T11:31:00.000Z	n2diy	gbutler289	you have an open lock file that needs to be killed.

@@ -1,0 +1,6 @@
+2010-11-27T10:55:00.000Z	primedeath		I was wondering the easiest way to clone my Linux HDD on my USB HDD. I have been having some terrible luck lately with my Linux installations not working. I would like to be able to restore it in case something happens.
+2010-11-27T10:56:00.000Z	primedeath		Nit-wit, thank you.
+2010-11-27T10:57:00.000Z	zcat[1]	primedeath	 I just use 'tar czf'
+2010-11-27T10:58:00.000Z	zcat[1]	primedeath	 sudo tar czf /media/disk/backup.tgz / --one-file-system
+2010-11-27T10:58:00.000Z	primedeath	zcat[1]	How would I restore that in case something happens?
+2010-11-27T10:59:00.000Z	zcat[1]	primedeath	 boot a live CD, recreate root partiton in gparted, mount it as target, cd target, tar xzf /media/disk/backup.tgz then restore grub..

@@ -1,0 +1,6 @@
+2005-07-04T10:43:00.000Z	amir__		Why i could not run mpg123 in ubuntu??!!
+2005-07-04T10:44:00.000Z	action09	amir__	 not instyalled maybe :)  try  sudo apt-get install mpg321 :)
+2005-07-04T10:46:00.000Z	amir__	action09	It's installed!!!!
+2005-07-04T10:47:00.000Z	action09	amir__	 whereis mpg123
+2005-07-04T10:47:00.000Z	amir__	action09	when i execute mpg123, afte showing some messages it seems freeze!!
+2005-07-04T10:49:00.000Z	amir__	action09	I use mpg123 file.mp3 in Fedora Core 3 without any problem, but here i could not run it!!

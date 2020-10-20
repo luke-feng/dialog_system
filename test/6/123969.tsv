@@ -1,0 +1,6 @@
+2006-04-10T13:36:00.000Z	iceman		is there a way to figure out why kde type rate... i have to hold keys down for like 10 seconds for  a single letter
+2006-04-10T13:37:00.000Z	iceman		how to uninstall KDE .. then reinstall
+2006-04-10T13:37:00.000Z	Piete	iceman	it's a pain, because it consists of so many different packages...
+2006-04-10T13:38:00.000Z	Piete	iceman	but when you reinstall, make sure to use the kde-desktop package, not just 'kde', otherwise you end up with a load of useless stuff....
+2006-04-10T13:39:00.000Z	iceman		cannot figure out why my typwent to heck in KDE
+2006-04-10T13:39:00.000Z	iceman	Piete	i'll sudo apt-get install kubuntu-desktop to reinstall

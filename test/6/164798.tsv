@@ -1,0 +1,6 @@
+2010-10-19T20:53:00.000Z	bcurtiswx_		hey all, is it true that 32 bit machines only recognise a max of 4GB of RAM ?
+2010-10-19T20:54:00.000Z	bcurtiswx_		so if i have an intel 64 bit machine, what architecture do I want for the install?
+2010-10-19T20:55:00.000Z	bcurtiswx_		the amd64 will work even if its not AMD ?
+2010-10-19T20:55:00.000Z	bcurtiswx_		k thx
+2010-10-19T20:55:00.000Z	Dr_Willis	bcurtiswx_	 64bit OS uses that 'amd64' name because amd had it first I guess.
+2010-10-19T20:54:00.000Z	Dr_Willis	bcurtiswx_	 may as well use 64bit OS for your 64bit hardware.. Unless you have some reason to need 32bit.

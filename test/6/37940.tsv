@@ -1,0 +1,6 @@
+2009-05-11T23:56:00.000Z	wad		Whenever I double-click a video file on the desktop, Ubuntu launches totem, which doesn't work with my compiz, and doesn't seem to have the proper settings available to make it work. Mplayer, however, works. No awful flicker. But there seems to be no way to make it be the default video player. I've tried the Preferred Applications setting, makes no difference. I've tried editing /etc/gnome/defaults.list, still nothing. Ideas?
+2009-05-11T23:57:00.000Z	Darael	wad	you have to change it individually for each file type.  This basically involves right-clicking the file, properties, open with tab.
+2009-05-11T23:59:00.000Z	wad	Darael	it worked!! Thanks, you and pepperjack!
+2009-05-12T00:00:00.000Z	Darael	wad	be warned you have to change it separately for different file types
+2009-05-12T00:00:00.000Z	wad	Darael	yeah, I got it. Where on earth does it store these settings, any ideas?
+2009-05-12T00:01:00.000Z	Darael	wad	no idea

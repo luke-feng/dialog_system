@@ -1,0 +1,6 @@
+2008-12-01T07:50:00.000Z	jenny_Carlos		Anyone know how to refresh grub after attaching another drive with another OS on it so that when I use the menu it shows in the list of boot options?
+2008-12-01T07:50:00.000Z	dr_willis	jenny_Carlos	 manually edit the /boot/grub/menu.lst and add in a proper boot 'stanza' for the new ops
+2008-12-01T07:51:00.000Z	dr_willis	jenny_Carlos	 there may be some grub front ends.. but ive never seen a tool to 'scan and add newly found os's'  to grub
+2008-12-01T07:52:00.000Z	dr_willis	jenny_Carlos	 rember ' to alter SYSTEM FILES - you must do so as root'  Thus you need to use sudo to get root permissions
+2008-12-01T07:53:00.000Z	dr_willis	jenny_Carlos	 100% NO.
+2008-12-01T07:53:00.000Z	dr_willis	jenny_Carlos	 sudo COMMAND  - runs that command as root

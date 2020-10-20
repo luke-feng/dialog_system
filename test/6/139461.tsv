@@ -1,0 +1,6 @@
+2005-08-31T11:33:00.000Z	carthik		HI all, how can I find out what wireless card I have without open my pc?
+2005-08-31T11:33:00.000Z	carthik		opening my pc, that is
+2005-08-31T11:34:00.000Z	_frank_	carthik	lspci
+2005-08-31T11:36:00.000Z	carthik	_frank_	thanks: that says, among other things "Network Controller: RALink Ralink RT2500 802.11 Cardbus Reference Card (rev 01) ---- does that seem to be the one?
+2005-08-31T11:40:00.000Z	_frank_	carthik	yeah that would be your wireless card
+2005-08-31T11:40:00.000Z	carthik	_frank_	thank you - so now I will try and get the rt2500 module installed

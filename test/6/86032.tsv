@@ -1,0 +1,6 @@
+2007-05-24T12:29:00.000Z	AFaith		i've spotted a problem in ubuntu feisty
+2007-05-24T12:30:00.000Z	AFaith		in /etc/fstab the entries from /dev/hda are shown as /dev/sda
+2007-05-24T12:30:00.000Z	Sh3r1ff	AFaith	sata shows as sda, ide as hda
+2007-05-24T12:31:00.000Z	AFaith	Sh3r1ff	i know, but i don't have a sata controller on my motherboard
+2007-05-24T12:31:00.000Z	Sh3r1ff	AFaith	beruic: is it causing a problem?
+2007-05-24T12:32:00.000Z	AFaith	Sh3r1ff	no

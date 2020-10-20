@@ -1,0 +1,6 @@
+2011-01-07T00:43:00.000Z	halvor		hei hei
+2011-01-07T00:45:00.000Z	halvor		is there a way that my wifi problems (that i've created) could be solved by reinstalling the latest kernel which supports my wifi chips?
+2011-01-07T00:46:00.000Z	rusty149	halvor	Depends on alot of thing but yes.
+2011-01-07T00:47:00.000Z	halvor	rusty149	so i should try doing so
+2011-01-07T00:47:00.000Z	halvor	rusty149	how could i do that? sudo apt-get --reinstall what?
+2011-01-07T00:48:00.000Z	rusty149	halvor	start with: sudo lspci   and telling pasting the output here, http://goo.gl/ixcN9

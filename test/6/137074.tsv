@@ -1,0 +1,6 @@
+2005-09-20T09:17:00.000Z	kosha		Anyone know how I can speed up the DNS lookup in Ubuntu? It is incredibly slow
+2005-09-20T09:17:00.000Z	kosha		I can go to sites quickly if I know the ip
+2005-09-20T09:17:00.000Z	kosha		but it takes forever if i have to type in the domain name
+2005-09-20T09:18:00.000Z	bob2	kosha	about:config, try disabling ipv6 lookups
+2005-09-20T09:19:00.000Z	kosha	bob2	well in every app the dns lookup is slow, such as when I loaded up xchat it took a long time to connect to irc.freenode.net whereas usually its like a 2 or 3 second time
+2005-09-20T09:45:00.000Z	bob2	kosha	get static version. install. run.

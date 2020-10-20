@@ -1,0 +1,6 @@
+2007-01-20T08:34:00.000Z	chris_knol		i cant install edgy. message after choosing install is "failed to start the x server. then after, in details, says no devices detected. fatal server error. no screens found
+2007-01-20T08:34:00.000Z	chris_knol		if anyone can help, please,
+2007-01-20T08:35:00.000Z	chris_knol		i have no experience with linux
+2007-01-20T08:35:00.000Z	chris_knol		how do i get to my etc/x11/etc etc etc
+2007-01-20T08:36:00.000Z	wastrel	chris_knol	 welcome to the world of linux configuration files :] 
+2007-01-20T08:36:00.000Z	wastrel	chris_knol	 the edgy cd has some problems it seems with certain hardware

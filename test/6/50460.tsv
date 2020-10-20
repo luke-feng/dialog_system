@@ -1,0 +1,6 @@
+2008-10-11T15:06:00.000Z	ryth		alright how do I make sure the nvidia drivers are installed? :/
+2008-10-11T15:07:00.000Z	ryth		it says enabled
+2008-10-11T15:08:00.000Z	ryth		where is the nvidia-settings
+2008-10-11T15:08:00.000Z	ryth		I haven't downloaded and instaled nvidia-setting tools... I'm not sure where to get it or how to install it as root
+2008-10-11T15:09:00.000Z	ryth		where do I download the nvidia-settings tool?
+2008-10-11T15:10:00.000Z	chris4585	ryth	in a terminal type sudo apt-get install nvidia-settings

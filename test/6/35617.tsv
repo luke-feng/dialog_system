@@ -1,0 +1,6 @@
+2009-09-01T14:17:00.000Z	negev		im confused, im running a 'hardy' box, it has php 5.2.4-2ubuntu5.6, yet the only version available on ddebs is 5.2.4-2ubuntu5.7  why is that?
+2009-09-01T14:17:00.000Z	negev		is hardy out of date now?
+2009-09-01T14:19:00.000Z	negev		anyone know where i can find libapache2-mod-php5-dbgsym_5.2.4-2ubuntu5.6_i386.ddeb?  (as opposed to 5.7)
+2009-09-01T14:19:00.000Z	ActionParsnip	negev	if you have the filename you can websearch it
+2009-09-01T14:20:00.000Z	negev	ActionParsnip	yes im aware of that, only one result on google, which is the official ddebs page that doesn't have it
+2011-01-09T02:09:00.000Z	ActionParsnip	negev	as long as the ISO passes MD5 test then you can get it anywhere you wish. I advise torrents for maximum speed as well as parity due to the torrent protocol

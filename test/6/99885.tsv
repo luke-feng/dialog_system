@@ -1,0 +1,6 @@
+2006-12-06T08:21:00.000Z	SniZ		what i must do for increase system perfomance? i`ve get this: 3.7 16.6 169:22.03 Xorg  , i have gnome and i think my old video card cant do hardware acceleration
+2006-12-06T08:23:00.000Z	SniZ		if i change viedo card riva tnt 2 to more powerfull, and get hardware acceleration, XORG gnome can be faster?
+2006-12-06T08:24:00.000Z	glaz	SniZ	get AIGLX
+2006-12-06T08:24:00.000Z	glaz		+ gnome
+2006-12-06T08:24:00.000Z	SniZ	glaz	what?
+2006-12-06T08:30:00.000Z	SniZ	glaz	can you help me with AIGLX?

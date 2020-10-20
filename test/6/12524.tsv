@@ -1,0 +1,6 @@
+2012-02-28T17:17:00.000Z	fishcooker		hello fellas
+2012-02-28T17:17:00.000Z	fishcooker		i need backup my ubu*box..is there any sugestion.. actually i want to cloning it to another box
+2012-02-28T17:18:00.000Z	fishcooker		any help or experience on this stuff would be appreciated
+2012-02-28T17:19:00.000Z	MonkeyDust	fishcooker	 and backup your /home using rsync, after that use rsync again to copy it to the new machine
+2012-04-27T12:51:00.000Z	MonkeyDust	fishcooker	 having issues upgrading?
+2012-04-27T13:07:00.000Z	fishcooker	MonkeyDust	thankyou it work on pidgin

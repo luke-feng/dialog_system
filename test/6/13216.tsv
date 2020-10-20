@@ -1,0 +1,6 @@
+2011-01-23T09:38:00.000Z	Jreko		how would i install the windows type thing i get when i install ubuntu desktop on ubuntu server
+2011-01-23T09:39:00.000Z	Jreko		kde
+2011-01-23T09:40:00.000Z	Jreko		it doesnt look nothing like the one when i install ubuntu desktop thoi
+2011-01-23T09:40:00.000Z	Jreko		tho
+2011-01-23T09:41:00.000Z	Jreko		ok how do i ionstall gnome then lol
+2011-01-23T09:41:00.000Z	dismo	Jreko	sudo apt-get install ubuntu-desktop

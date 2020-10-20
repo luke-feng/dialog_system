@@ -1,0 +1,6 @@
+2009-10-15T00:33:00.000Z	panfist		i am ssh'ing into an ubuntu box; i keep getting connection reset errors; i have a keep-alive set to half the timeout value for the server. how can i diagnose what's causing my connection problems?
+2009-10-15T00:35:00.000Z	mikinanuq	panfist	do you know what the OSI model is? start at 1 end at 7
+2009-10-15T00:36:00.000Z	panfist		i am not familiar with the OSI model
+2009-10-15T00:36:00.000Z	mikinanuq	panfist	in other words start with physical and move your way up...
+2009-10-15T00:37:00.000Z	mikinanuq	panfist	here is a good post http://ubuntuforums.org/showthread.php?t=25557
+2009-10-15T00:38:00.000Z	panfist	mikinanuq	thanks for the link

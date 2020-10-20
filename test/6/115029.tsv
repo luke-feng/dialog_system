@@ -1,0 +1,6 @@
+2007-07-10T11:26:00.000Z	Bree1		Ive went there and followed everything, and it didnt work
+2007-07-10T11:27:00.000Z	bruenig	Bree1	pastebin your /etc/fstab
+2007-07-10T11:33:00.000Z	bruenig	Bree1	common problem, restart your computer, boot into windows, restart it again and boot into linux, sometimes windows does some real stuff to ntfs and when you shut it down ntfs-3g can't deal with it
+2007-07-10T11:34:00.000Z	bruenig	Bree1	uh oh
+2007-07-10T11:37:00.000Z	bruenig	Bree1	is this the same partition that windows is on?
+2007-07-10T11:38:00.000Z	bruenig	Bree1	I don't know if that matters or not, I know that that is the fix for that error though, perhaps you had some error in shutdown or maybe the partitioner messed it up somehow

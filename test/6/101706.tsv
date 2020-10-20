@@ -1,0 +1,6 @@
+2006-11-18T17:46:00.000Z	lullabud	k6rfm	lufis: sudo uses your current environment variables.
+2006-11-18T17:49:00.000Z	k6rfm	lullabud	but the current working directory isn't an environment variable... most shells set $PWD to it, but setting $PWD doesn't change it
+2006-11-18T17:52:00.000Z	lullabud	k6rfm	 that's not true.  do `PWD=asdf ; echo $PWD`
+2006-11-18T17:53:00.000Z	k6rfm	lullabud	ah but echo $PWD prints the value of the environment variable, not the current directory. try the command "pwd" instead of the echo!
+2006-11-18T17:54:00.000Z	k6rfm	lullabud	normally you never see a difference because the shell "cd" command both changes the directory and sets PWD to track.
+2006-11-18T17:54:00.000Z	lullabud	k6rfm	 interesting...

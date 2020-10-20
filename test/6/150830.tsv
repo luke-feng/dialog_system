@@ -1,0 +1,6 @@
+2008-03-09T23:30:00.000Z	PaloAlto		hello
+2008-03-09T23:30:00.000Z	PaloAlto		im having trouble with ln
+2008-03-09T23:30:00.000Z	PaloAlto		ln /home/aucampia/docbook/fop-0.94/fop /usr/sbin/fop
+2008-03-09T23:30:00.000Z	PaloAlto		ln: creating hard link `/usr/sbin/fop' to `/home/aucampia/docbook/fop-0.94/fop': Invalid cross-device link
+2008-03-09T23:31:00.000Z	PaloAlto		any advice ?
+2008-03-09T23:31:00.000Z	moreati	PaloAlto	use ln -s to create a symbolic link

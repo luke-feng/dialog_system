@@ -1,0 +1,6 @@
+2009-08-11T11:27:00.000Z	outy		has anybody got a link to a guide to install kde on one of the other desktops ?
+2009-08-11T11:27:00.000Z	outy		so like, desktop 1 is gnome, desktop 2 is kde
+2009-08-11T11:27:00.000Z	maco	outy	sudo aptitude install kubuntu-desktop
+2009-08-11T11:27:00.000Z	maco	outy	OH.... ummm...you mean like on different workspaces, same session? no
+2009-08-11T11:28:00.000Z	maco	outy	ive heard of running a gnome session on one screen and a kde session on another, but remember two totally separate sessions. cant copy and paste between them or anything
+2009-08-11T11:28:00.000Z	maco	outy	of course, you can use kde apps in gnome just fine and the reverse as well

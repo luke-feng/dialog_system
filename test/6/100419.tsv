@@ -1,0 +1,6 @@
+2007-11-03T03:01:00.000Z	randomwalker		hi, i get this weird message when i try to apt-get install anything:
+2007-11-03T03:01:00.000Z	randomwalker		Media change: please insert the disc labeled
+2007-11-03T03:01:00.000Z	randomwalker		 'Ubuntu 7.10 _Gutsy Gibbon_ - Release i386 (20071016)'
+2007-11-03T03:01:00.000Z	randomwalker		in the drive '/cdrom/' and press enter
+2007-11-03T03:01:00.000Z	randomwalker		can someone please tell me how to fix this thanks
+2007-11-03T03:02:00.000Z	riotkittie	randomwalker	go to System > Administration >  Software sources, uncheck the dsic

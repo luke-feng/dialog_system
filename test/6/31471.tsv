@@ -1,0 +1,6 @@
+2010-08-28T12:50:00.000Z	trijntje		Hi all. I have a bootable usb-drive that I want to clone, but the new drive is not the exact same size, so dd is not an option. I already tried copying all files but it will not boot. What can I do to make this work?
+2010-08-28T12:50:00.000Z	ectospasm	trijntje	you have to write to the boot record of the new drive
+2010-08-28T12:53:00.000Z	ectospasm	trijntje	http://wiki.linuxquestions.org/wiki/Booting_from_USB
+2010-08-28T12:53:00.000Z	trijntje	ectospasm	what will that do to the partition and data on the new drive. Do I need to format it first and then write mbr?
+2010-08-28T12:54:00.000Z	ectospasm	trijntje	follow the guide, then transfer your files over
+2010-08-28T12:55:00.000Z	trijntje	ectospasm	i'm reading the link now, thanks

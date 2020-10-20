@@ -1,0 +1,6 @@
+2012-08-11T00:00:00.000Z	garydance		hey guys how do I switch from ubuntu to lubuntu on the newest version of ubuntu?
+2012-08-11T00:02:00.000Z	OerHeks	garydance	logout, change DM and log back in again
+2012-08-11T00:02:00.000Z	garydance	OerHeks	I am not sure  how to do that with the new login screen though
+2012-08-11T00:03:00.000Z	OerHeks	garydance	well, try it?
+2012-08-11T00:03:00.000Z	garydance	OerHeks	I am not sure how to change the display manager though
+2012-08-11T00:06:00.000Z	OerHeks	garydance	select your name, password and press the '>' to select DM

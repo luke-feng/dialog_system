@@ -1,0 +1,6 @@
+2012-10-09T09:08:00.000Z	paulus68		fileserver@fileserver:~$ nmap -Pn -sV 192.168.1.145
+2012-10-09T09:08:00.000Z	paulus68		Starting Nmap 5.21 ( http://nmap.org ) at 2012-10-09 07:07 CEST
+2012-10-09T09:08:00.000Z	paulus68		Nmap scan report for 192.168.1.145
+2012-10-09T09:08:00.000Z	paulus68		Host is up (0.063s latency).
+2012-10-09T09:08:00.000Z	paulus68		All 1000 scanned ports on 192.168.1.145 are filtered
+2012-10-09T09:08:00.000Z	FloodBot1	paulus68	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

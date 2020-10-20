@@ -1,0 +1,6 @@
+2011-07-07T19:28:00.000Z	Ginsu		ok, I'm stuck at "*Starting AppArmor profiles".....how do I remove this from the startup?
+2011-07-07T19:28:00.000Z	Ginsu		in Arch, it would be a simple removal of the relevant daemon or module in rc.conf, but that's not the case here....
+2011-07-07T19:29:00.000Z	Ginsu		?
+2011-07-07T19:31:00.000Z	Ginsu		does anyone know how to edit startup daemons and modules?
+2011-07-07T19:31:00.000Z	Ginsu		anyone?
+2011-07-07T19:33:00.000Z	compdoc	Ginsu	I install and use boot-up manager

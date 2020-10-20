@@ -1,0 +1,6 @@
+2006-06-06T15:26:00.000Z	Cin		Hello. I'm having X crashes and I'm trying to find the cause.
+2006-06-06T15:27:00.000Z	Cin		When it crashes I can move my mouse, and ping my machine from another computer. But I can't do Ctrl + Alt + Backspace, or anything else.
+2006-06-06T15:28:00.000Z	Cin		I'm on Xorg7, is this known to be unstable? Or unstable on Dapper?
+2006-06-06T15:28:00.000Z	cvp	Cin	Xorg7 is far superior.
+2006-06-06T15:29:00.000Z	Cin	cvp	so I've been told. Can you make any suggestions?
+2006-06-06T15:30:00.000Z	cvp	Cin	What do you need help with? Installing ATI drivers or something?

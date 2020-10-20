@@ -1,0 +1,6 @@
+2007-09-22T09:32:00.000Z	Dante123		Hi all....I try to print from Evince 0.8.1 and it simply won't.  Any ideas?
+2007-09-22T09:33:00.000Z	Dante123		Nope...just evince and Adobe reader
+2007-09-22T09:34:00.000Z	Dante123		I can export to pdf using openoffice.....and I can print if I open the same document with Adobe reader..Talcite
+2007-09-22T09:35:00.000Z	Dante123		brother HL 1435....prints fine with all other apps
+2007-09-22T09:35:00.000Z	wastrel	Dante123	just that pdf or any pdf's in evince
+2007-09-22T09:37:00.000Z	wastrel	Dante123	 /var/log/cups/error_log  might be useful

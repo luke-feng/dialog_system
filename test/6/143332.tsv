@@ -1,0 +1,6 @@
+2005-07-16T11:41:00.000Z	Sonderblade		why does ubuntu insist on using stupid -dev packages?
+2005-07-16T11:41:00.000Z	Dr_Willis	Sonderblade	 cant say thta ive ever noticed it insisting on that.
+2010-08-19T17:13:00.000Z	Sonderblade	Dr_Willis	just the warning
+2010-08-19T17:15:00.000Z	Sonderblade	Dr_Willis	it actually appears to be "preserving the times" so i have no idea why it gives me a warning
+2010-08-19T17:18:00.000Z	Dr_Willis	Sonderblade	 i wonder if 'cp' would also give the same warning,.
+2010-08-19T17:18:00.000Z	Sonderblade	Dr_Willis	cp -p does

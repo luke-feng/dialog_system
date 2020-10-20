@@ -1,0 +1,6 @@
+2007-06-16T05:07:00.000Z	skyfalcon866		how big should i make the root
+2007-06-16T05:07:00.000Z	skyfalcon866		how big should i make the root partiton
+2007-06-16T05:08:00.000Z	preaction	skyfalcon866	what will your root partition include? /usr? /var? /tmp? /home?
+2007-06-16T05:09:00.000Z	preaction	skyfalcon866	i'd go with about 8GB personally
+2007-06-16T05:10:00.000Z	preaction	skyfalcon866	not necessarily
+2007-06-16T05:14:00.000Z	preaction	skyfalcon866	user directories

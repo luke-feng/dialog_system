@@ -1,0 +1,6 @@
+2009-03-18T12:34:00.000Z	funkyHat	tc111	20GB is large for a / partition imo... also separate /boot partitions are not really necessary
+2009-03-18T12:35:00.000Z	tc111	funkyHat	doesn't the installer want to format the /boot partition (even in manual)?
+2009-03-18T12:35:00.000Z	funkyHat	tc111	in manual it will do just what you tell it to, but my point is you don't need to have a /boot partition at all
+2009-03-18T12:39:00.000Z	tc111	funkyHat	ok, just the way i setup my machines, but haven't ever installed two separate on the same machine (except in VMs as all my machines are more than adequate for such). I've installed server and then added a lightweight desktop for convenience.
+2009-03-18T12:40:00.000Z	funkyHat	tc111	fair enough :) there are some advantages to having a separate /boot, I just think it's not necessary for most people's needs :)
+2009-03-18T12:43:00.000Z	tc111	funkyHat	i have some fairly complex drive setups, so i use a separate /boot partition formatted ext3. most all of my machine, >12, use LVM or RAID and LVM, so need a separate /boot, but you're right, the standard basic user doesn't need that feature.

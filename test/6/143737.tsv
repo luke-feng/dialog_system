@@ -1,0 +1,6 @@
+2006-03-21T13:43:00.000Z	linuxcrazy		I have this problem with Ubuntu. I get his message when I try to install this package called gxine. I get this "c compiler cannot create executables in $PATH. What does this mean?
+2006-03-21T13:43:00.000Z	bimberi	linuxcrazy	install build-essential, although gxine is available inthe ubuntu repositories
+2006-03-21T13:45:00.000Z	bimberi	linuxcrazy	you need to enable the universe repository and then use synaptic to find and install gxine
+2006-03-21T13:47:00.000Z	bimberi	linuxcrazy	ok, 'sudo aptitude install gxine'  (once you enable universe)
+2006-03-21T13:49:00.000Z	bimberi	linuxcrazy	check that 'compile' factoid from ubotu then
+2006-03-21T16:00:00.000Z	bimberi	linuxcrazy	or in this case ...

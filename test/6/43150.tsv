@@ -1,0 +1,6 @@
+2009-05-05T23:50:00.000Z	joshjtl		folks, i need some help, I can record sound from my mic into Kwave, but not into Audacity... (kubuntu btw)
+2009-05-05T23:50:00.000Z	shadeslayer	joshjtl	#kubuntu then
+2009-05-05T23:51:00.000Z	joshjtl	shadeslayer	ive been trying
+2009-05-05T23:51:00.000Z	shadeslayer	joshjtl	you could try this
+2009-05-05T23:52:00.000Z	shadeslayer	joshjtl	or try alsamixer in konsole
+2009-05-05T23:52:00.000Z	joshjtl	shadeslayer	already tried alsamixer, I can hear my mic just fine, but audacity wont record it

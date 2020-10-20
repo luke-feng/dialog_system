@@ -1,0 +1,6 @@
+2010-10-16T06:50:00.000Z	analyser		I added the ubuntu kernel ppa, but I can't find any package from ppa with apt-cache :/
+2010-10-16T06:50:00.000Z	analyser		any idea what is going on?
+2010-10-16T06:50:00.000Z	bazhang	analyser	updated sources.list yet?
+2010-10-16T06:51:00.000Z	analyser	bazhang	yes, it's listed on softwares sources app, on systems -> softwares sources, and I also manually added to sources.list
+2010-10-16T06:52:00.000Z	bazhang	analyser	using the add-apt-repo command?
+2010-10-16T06:52:00.000Z	analyser	bazhang	yes

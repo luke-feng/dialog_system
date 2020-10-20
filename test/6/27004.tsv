@@ -1,0 +1,6 @@
+2011-04-07T23:00:00.000Z	dem0		hey I have a question about piping in bash
+2011-04-07T23:01:00.000Z	dem0		I'm messing on my home network with arpspoof, the output keeps dumping to the shell even when I do arpspoof a.b.c.d > /dev/null &
+2011-04-07T23:01:00.000Z	dem0		is there a way I can stop this?
+2011-04-07T23:01:00.000Z	acicula	dem0	try 2>&1 > /dev/null
+2011-04-07T23:02:00.000Z	dem0	acicula	okay. can you link me to something that explains what that does? :/
+2011-04-07T23:02:00.000Z	acicula	dem0	redirects stderr to stout to dev/null

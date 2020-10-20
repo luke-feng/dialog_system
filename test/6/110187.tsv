@@ -1,0 +1,6 @@
+2006-08-30T08:23:00.000Z	amonkey_		my 460gb partition formatted with xfs in about 2 seconds. is this right/normal? i expected it to take longer
+2006-08-30T08:23:00.000Z	longwave	amonkey_	presumably xfs just does a quick format to initialise an empty root directory and nothing else
+2006-08-30T08:24:00.000Z	amonkey_	longwave	i was able to make a file in it and read right to it
+2006-08-30T08:24:00.000Z	amonkey_	longwave	what else should i do?
+2006-08-30T08:24:00.000Z	longwave	amonkey_	nothing i guess, if you can mount and read/write it and "df" shows the right amount of free space
+2006-08-30T08:25:00.000Z	amonkey_	longwave	still scary, was way to fast

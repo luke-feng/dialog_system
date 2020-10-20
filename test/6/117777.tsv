@@ -1,0 +1,6 @@
+2006-05-17T15:12:00.000Z	syndicate47		can i make directories on an ubuntu machine available for sharing to all computers on the network, but require a password to access them? samba needs constant restarting and nfs' security is only based on ip.
+2006-05-17T15:13:00.000Z	NoUse	syndicate47	what do you mean samba needs constant restarting? thats what I use for network sharing
+2006-05-17T15:14:00.000Z	syndicate47	NoUse	bbrazil i don't know why but the samba shares dissappears from the network after about 12 hours
+2006-05-17T15:14:00.000Z	NoUse	syndicate47	have you check your samba logs?
+2006-05-17T15:17:00.000Z	syndicate47	NoUse	no, there are too many logs and i don't know which to check
+2006-05-17T15:19:00.000Z	NoUse	syndicate47	pastebin /var/log/samba/log.smbd

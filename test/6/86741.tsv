@@ -1,0 +1,6 @@
+2007-10-29T17:47:00.000Z	eidolon		hi folks, i'm trying to get X configured and started on my Ubuntu Feisty Fawn install - i did a server install (which is mostly what i wanted), but i'd like to get X up on the console.  I did an aptitude uinstall KDE, which got most in, but xinit is saying /etc/X11/X is not found.  What's the configuration step for building / configuring the X server?
+2007-10-29T17:48:00.000Z	cua0	eidolon	install the x server
+2007-10-29T17:48:00.000Z	eidolon	cua0	it's installed.
+2007-10-29T17:49:00.000Z	cua0	eidolon	as far as you know? lol i'd double check since your computer seems to be disagreeing with you
+2007-10-29T17:49:00.000Z	eidolon	cua0	mm, package name to try?  x11? x? xorg?
+2007-10-29T17:50:00.000Z	cua0	eidolon	..ya that

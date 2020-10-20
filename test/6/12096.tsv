@@ -1,0 +1,6 @@
+2011-02-19T16:57:00.000Z	gaurav_help		i have file with name .tar.gz but when i installing it shows me error when i am insatlling in themes it is theme packages .. its shows me can move directory
+2011-02-19T16:59:00.000Z	red2kic	gaurav_help	Look in ~/.themes
+2011-02-19T17:01:00.000Z	gaurav_help	red2kic	i installed but its showing required icon theme is not installed but i see the icons folder r inside tat
+2011-02-19T17:03:00.000Z	red2kic	gaurav_help	It should go in ~/.icons
+2011-02-19T17:04:00.000Z	red2kic	gaurav_help	The theme you downloaded -- The author did not do it properly.
+2011-02-19T17:04:00.000Z	red2kic	gaurav_help	Or you didn't read the README.txt (if any).

@@ -1,0 +1,6 @@
+2008-01-08T07:52:00.000Z	hack184		I keep getting a message saying Could not download all repository indexes how do i fix it
+2008-01-08T07:52:00.000Z	nickrud	hack184	could you run    sudo apt-get update   in a terminal, and put the results on http://paste.ubuntu-nl.org
+2008-01-08T08:40:00.000Z	nickrud	hack184	that looks like a mirror of ubuntu
+2008-01-08T08:41:00.000Z	nickrud	hack184	there should have been an error code , like 404 or something as well
+2008-01-08T08:42:00.000Z	nickrud	hack184	   you should run     sudo apt-get update    in a terminal and put the results on http://paste.ubuntu-nl.org
+2008-01-08T08:46:00.000Z	nickrud	hack184	how are you doing on getting that output, having any issues?

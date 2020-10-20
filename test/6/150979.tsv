@@ -1,0 +1,6 @@
+2008-01-22T09:23:00.000Z	Naisenu		Okay. I have what should be an easy task, but I can't figure it out right now. How do I create a "shortcut"/"link" on my desktop to a server that I own and regularly upload things to?
+2008-01-22T09:23:00.000Z	astro76	Naisenu	places menu > connect to server
+2008-01-30T03:21:00.000Z	astro76	Naisenu	killall firefox && killall firefox-bin
+2008-01-30T03:21:00.000Z	astro76	Naisenu	the firefox-bin is what you missed ;)
+2008-01-30T03:22:00.000Z	astro76	Naisenu	hmm dunno what that is, do ps aux | grep firefox, then kill all the resultant process IDs (except the one for the grep you just ran)
+2008-01-30T03:23:00.000Z	astro76	Naisenu	it does the second command if the first is successful, maybe the first failed

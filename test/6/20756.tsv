@@ -1,0 +1,6 @@
+2012-09-18T01:33:00.000Z	TJ-	duckgod	looking at it for you
+2012-09-18T01:37:00.000Z	TJ-	duckgod	I have suspicions but the log-file I'd need to see isn't attached to the bug. Can you provoke the bug again, then immediately after reboot, attach  /var/log/kern.log and /var/log/Xorg.0.log.old to the bug report?
+2012-09-18T01:39:00.000Z	TJ-	duckgod	I've seen similar issues in the past. If you have another PC available, when the crash occurs, try using SSH to connect (you may need to install openssh-server on the PC prior to that)
+2012-09-18T01:40:00.000Z	TJ-	duckgod	if you can SSH you should be able to retrieve Xorg.0.log and kern.log from /var/log/
+2012-09-18T01:41:00.000Z	TJ-	duckgod	That's fine, I know how it is... like waiting for a bus :p
+2012-09-18T01:41:00.000Z	TJ-	duckgod	I've subscribed to your bug report so I'll get notified

@@ -1,0 +1,6 @@
+2004-12-23T07:55:00.000Z	mmc_		conoceis algun reproductor de video bueno para ubuntu
+2004-12-23T07:56:00.000Z	mmc_		video player for ubuntu?
+2004-12-23T07:56:00.000Z	mjt	mmc_	any for linux? mplayer? xine? ...?
+2004-12-23T07:59:00.000Z	mjt	mmc_	xine is in debian - turn on universe part of ubuntu to /etc/apt/sources.lst; mplayer is available separately due to licensing probs, marillat debian repository will do the trick
+2004-12-23T08:00:00.000Z	mjt	mmc_	there are others (ogle etc), but xine is a very good player
+2004-12-23T08:08:00.000Z	mjt	mmc_	have you tried to install anything at all yet?

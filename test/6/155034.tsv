@@ -1,0 +1,6 @@
+2006-04-09T12:01:00.000Z	eternex		please help, get this error,  eternex@ubuntu:~$ /home/eternex/Desktop/et-linux-2.60.x86.run
+2006-04-09T12:01:00.000Z	eternex		bash: /home/eternex/Desktop/et-linux-2.60.x86.run: Permission denied
+2006-04-09T12:01:00.000Z	eternex		eternex@ubuntu:~$
+2006-04-09T12:02:00.000Z	hyphenated	eternex	chmod +x thatfile
+2006-04-09T12:02:00.000Z	hyphenated	eternex	then try to run it again
+2006-04-09T12:02:00.000Z	hyphenated	eternex	I just gave you the command

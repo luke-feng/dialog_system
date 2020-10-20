@@ -1,0 +1,6 @@
+2012-03-05T01:42:00.000Z	xonix		Hi, is there an standard for user notifications that work with all window managers?
+2012-03-05T01:42:00.000Z	sythe_	xonix	Yes
+2012-03-05T01:42:00.000Z	xonix	sythe_	thx
+2012-03-05T01:43:00.000Z	xonix	sythe_	is this a abstraction of d-bus?
+2012-03-05T01:43:00.000Z	sythe_	xonix	lib*notify
+2012-03-05T01:43:00.000Z	sythe_	xonix	I think so, but don't quote me on that

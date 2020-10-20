@@ -1,0 +1,6 @@
+2006-04-21T15:35:00.000Z	wayne_		quick question if ne1 can help.........
+2006-04-21T15:35:00.000Z	wayne_		linux installed how do i change drive partition to make a partition for windows
+2006-04-21T15:36:00.000Z	wayne_		no i never
+2006-04-21T15:36:00.000Z	wayne_		wasnt going to install
+2006-04-21T15:36:00.000Z	wayne_		i just installed linux without paritions
+2006-04-21T15:36:00.000Z	Warbo	wayne_	Get KNOPPIX and boot from it. Use QTParted (in System Tools) to shrink Linux.

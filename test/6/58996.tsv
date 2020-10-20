@@ -1,0 +1,6 @@
+2011-12-16T11:35:00.000Z	nac4l		why would "sh" produce different results than "./" when launching an application?  How can I identify where "./" points?
+2011-12-16T11:35:00.000Z	nac4l		are there different flags that are hidden for ./ and sh
+2011-12-16T11:36:00.000Z	nac4l		ah, I see
+2011-12-16T11:36:00.000Z	nac4l		thank you guys
+2011-12-16T11:36:00.000Z	rumpel	nac4l	if the shebang is like #!/bin/bash  then it will be different, because "sh" is often a symlink to dash, not bash.
+2011-12-16T11:43:00.000Z	rumpel	nac4l	try "man hier". Very informative. :)

@@ -1,0 +1,6 @@
+2007-06-01T06:52:00.000Z	zero		hey exist a manual for ffmpeg  that is not   map ffmpeg?
+2007-06-01T06:53:00.000Z	zero		i cant really understand anything from there
+2007-06-01T06:54:00.000Z	zero		hello there is documentation form ffmpeg besides man ffmpeg?
+2007-06-01T06:55:00.000Z	zero		i do not know if i make myself clear :S
+2007-06-01T06:55:00.000Z	LjL	zero	perhaps the ffmpeg website. or type "dpkg -L ffmpeg" to list all files from the ffmpeg package, including any documentation files.
+2007-06-01T06:55:00.000Z	zero	LjL	ok, thank you

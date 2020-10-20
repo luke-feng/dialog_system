@@ -1,0 +1,6 @@
+2007-12-27T11:15:00.000Z	wers		any idea?
+2007-12-27T11:17:00.000Z	JoshJ	wers	what type of SD card slot do you have? is it USB or something else?
+2007-12-27T11:18:00.000Z	wers	JoshJ	usb slot on my ubuntu and built in reader in my xp lappy
+2007-12-27T11:18:00.000Z	JoshJ	wers	if your sd slot is connected by USB it should treat it as a standard USB mass storage device
+2007-12-27T11:20:00.000Z	JoshJ	wers	oh, the card itself is the problem and you know the reader works? interesting... not sure how to help then :/
+2007-12-27T11:27:00.000Z	JoshJ	wers	#eeepc exists, you may want to check that

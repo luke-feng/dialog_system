@@ -1,0 +1,6 @@
+2011-11-01T20:00:00.000Z	maslen		What is the best way for me to be able to continue my gnome session from a windows machine(with all of its open programs). I already have ssh set up, and xming on the windows machine.
+2011-11-01T20:00:00.000Z	brontosaurusrex	maslen	check nx nomachine
+2011-11-01T20:03:00.000Z	brontosaurusrex	maslen	nx worked well for me (clients for win, osx and ubuntu)
+2011-11-01T20:17:00.000Z	brontosaurusrex	maslen	just "sudo dpkg -i package.deb" might do it
+2011-11-01T20:22:00.000Z	maslen	brontosaurusrex	Thanks, it installed them now. I'll test it on the windows box soon. Gotta run now.
+2011-11-01T20:22:00.000Z	brontosaurusrex	maslen	np

@@ -1,0 +1,6 @@
+2007-09-19T14:59:00.000Z	nubby		hey. i'm helping my friend with a new install and the slider for an automatic resize of an ntfs partition is not there. what's the best app to use that will let me do this manually without griping about his windows being ntfs?
+2007-09-19T15:00:00.000Z	hwood	nubby	gparted is the bomb but you must defrag the drive in windows first. It will safe you alot of pills.
+2007-09-19T15:00:00.000Z	nubby		in gparted it shows the drive as locked and i can't resize it. what must i do to get it to let me?
+2007-09-19T15:01:00.000Z	nubby		do i have to unmount the partition before i can resize it?
+2007-09-19T15:01:00.000Z	hwood	nubby	... also don't forget to unmount the ntfs partition before you run gparted.
+2007-09-19T15:01:00.000Z	nubby	hwood	ok, thanks. that's all i needed

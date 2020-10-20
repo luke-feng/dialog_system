@@ -1,0 +1,6 @@
+2006-09-02T10:36:00.000Z	Ubuntoer		Hi -- need permissions help.  I have a folder "gramps" with permissions for group to write to: drwxrwxr-x 3 root users 104 2006-09-02 12:29 gramps/ but a normal user can't write to it! e.g. $ touch gramps/test restults in: touch: cannot touch `gramps/test': Permission denied
+2006-09-02T10:36:00.000Z	ChaosFan	Ubuntoer	is that user in group users?
+2006-09-02T10:38:00.000Z	Ubuntoer	ChaosFan	hmm maybe not.  What is the command to add this user to group users?
+2006-09-02T10:39:00.000Z	ChaosFan	Ubuntoer	adduser <user> <group>
+2006-09-02T10:44:00.000Z	Ubuntoer	ChaosFan	hmm didn't work: $sudo usermod  -G  users -a  jerryb worked but $ groups jerryb yeilds adm dialout cdrom floppy audio dip video plugdev lpadmin scanner admin and touch still fails
+2006-09-02T10:45:00.000Z	ChaosFan	Ubuntoer	sudo adduser jerryb users

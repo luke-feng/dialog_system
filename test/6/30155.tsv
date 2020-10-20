@@ -1,0 +1,6 @@
+2009-10-28T14:58:00.000Z	StaRetji		Hello there \o/ Is it SAFE to use this command thousands of time : mount -o remount,rw /dev/sda1   ???
+2009-10-28T14:59:00.000Z	joaopinto	StaRetji	that's a regular mount command, unless your filesystem is corrupted, it's safe
+2009-10-28T15:03:00.000Z	StaRetji	joaopinto	I have FAT filesystem which is used to bring up linux .img with ext3 filesystem. FAT file system stores Mediacenter plugins and files inside specific folders became read-only. other folders are OK. if I issues mount -o remount,rw /dev/sda1  everything works well. Is this approach OK? I did dosfsck -a -v /dev/sda1 also
+2009-10-28T15:04:00.000Z	joaopinto	StaRetji	it is ok, but why just don't you add it to fstab ?
+2009-10-28T15:05:00.000Z	StaRetji	joaopinto	What do you mean? The system never did that before, it just started to do this few days ago. It is on USB stick
+2009-10-28T15:06:00.000Z	StaRetji	joaopinto	Please, have a look at this post (XBMC-Live on Ubuntu) http://www.xbmc.org/forum/showthread.php?p=426721&posted=1#post426721

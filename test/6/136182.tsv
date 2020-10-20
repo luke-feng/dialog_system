@@ -1,0 +1,6 @@
+2006-08-13T07:29:00.000Z	Snakehit		How do you update youre kernel? Plz
+2006-08-13T07:29:00.000Z	Snakehit		-e
+2006-08-13T07:30:00.000Z	Snakehit		i want to install the drivers of my wnic
+2006-08-13T07:30:00.000Z	Snakehit		and they say update your kernel
+2006-08-13T07:31:00.000Z	Snakehit		I have no idea what kernel i have now
+2006-08-13T07:31:00.000Z	ardchoille	Snakehit	open a term and do uname -r

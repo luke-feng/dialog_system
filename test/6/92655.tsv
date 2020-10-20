@@ -1,0 +1,6 @@
+2007-03-05T17:20:00.000Z	Sk8aElf		anybody wise in the ways of ubuntu lamp server  who could help me out with a few problems/questions     starting with how to set up multiple domain hosting thru webmin
+2007-03-05T17:21:00.000Z	eck	Sk8aElf	skip webmin and read the apache docs, they are not too bad
+2007-03-05T17:23:00.000Z	Sk8aElf	eck	there a better web admin interface instead of using webmin ?
+2007-03-05T17:23:00.000Z	eck	Sk8aElf	no, the reason that webmin was dropped from ubuntu (and other hosting panels) is because they are security nightmares, and they frequently make troubleshooting a system very difficult
+2007-03-05T17:24:00.000Z	eck	Sk8aElf	if you do not use a hosting panel, you can find help in #apache and others; if you are using one, you are sort of on your own
+2007-03-05T17:25:00.000Z	Sk8aElf	eck	:   joy oh joy ..  not the answer i was wanting today =/   ty tho for your answer

@@ -1,0 +1,6 @@
+2005-09-20T09:37:00.000Z	Gnonthgol		Anyone know how to change the routing tables on a computer?
+2005-09-20T09:37:00.000Z	TMM	Gnonthgol	euh... through the 'route' command? :)
+2005-09-20T09:37:00.000Z	TMM	Gnonthgol	what are you trying to accomplis?
+2005-09-20T09:38:00.000Z	Gnonthgol	TMM	I am on a computer that sudanly lost internet at boot (dhcp)
+2005-09-20T09:40:00.000Z	TMM	Gnonthgol	is your dhcp server configed correctly? you can add a default gateway manually with the following command: sudo route add default gw <ip address of gw>
+2005-09-20T09:59:00.000Z	Gnonthgol	TMM	I have taken a look into the problem and found out that I can send the SYN and gets the SYN, ACK but then nothing happens

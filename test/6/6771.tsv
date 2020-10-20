@@ -1,0 +1,6 @@
+2011-09-01T11:36:00.000Z	Hasham		hi...my ISP is is asking me to to install wvdial in order to connect to internet , but how can i install it without internet (i can go online with windows ) kindly helpme out
+2011-09-01T11:38:00.000Z	qin	Hasham	All packeges are on ubuntu web site, what version and arch are you using?
+2011-09-01T11:39:00.000Z	Hasham	qin	10.04 , how can i download using windows and install manually
+2011-09-01T11:42:00.000Z	qin	Hasham	http://packages.ubuntu.com/lucid/wvdial install with sudo dpkg -i file.deb, you will also need dependencies, so you have to check all of them.
+2011-09-01T11:44:00.000Z	Hasham	qin	 could you please check for me how many dependicies it has , do i need to install them in any particullar order
+2011-09-01T11:48:00.000Z	qin	Hasham	Most likely you will need this: libuniconf4.6 libwvstreams4.6-base libwvstreams4.6-extras, it by "clean" xubuntu 11.04, all of them are listed on site, or can be checked in synaptic, or dpkg -l | grep package_name (ii mean installed)

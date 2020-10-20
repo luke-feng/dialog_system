@@ -1,0 +1,6 @@
+2011-09-25T08:33:00.000Z	sereal		can someone give me a hand with user permissions?
+2011-09-25T08:33:00.000Z	sereal		I'm trying to add myself to the www-data group so I can edit and make files in /var/www
+2011-09-25T08:33:00.000Z	sereal		I have added myself to the group, but I can't seem to figure out why I can't edit and add files :p
+2011-09-25T08:33:00.000Z	Ibis	sereal	adduser <username> <groupname>
+2011-09-25T08:35:00.000Z	Ibis	sereal	It could because the group only has view permission. (ANd so far, the owner has full read-write permission).
+2011-09-25T08:37:00.000Z	Ibis	sereal	If you're doing this on your own personal computer. I would simply just make a  virtualhost and then set it up so that document root is in  my home folder.     /home/<myself>/mywebsite/public_html         Visit the #httpd channel for more info on setting up virtualhost

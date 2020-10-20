@@ -1,0 +1,6 @@
+2007-10-05T07:10:00.000Z	kevinly		i'm just wondering how I should partition up my ~120gb harddrive for a winxp/ubuntu dual boot
+2007-10-05T07:11:00.000Z	kevinly		ubuntu will be my primary OS but i want to skip back into xp when needed
+2007-10-05T07:11:00.000Z	kevinly		for let's say 60gb of mp3s, should they be partitioned as fat32?
+2007-10-05T07:11:00.000Z	PirateHead	kevinly	I'd suggest a 60G NTFS partition for Windows, a 40G FAT32 partition for Home / My Documents, 512M to 2G of Linux Swap, and the rest as ext3
+2007-10-05T07:14:00.000Z	PirateHead	kevinly	correct.
+2007-10-05T07:15:00.000Z	PirateHead	kevinly	fat16, fat32, and NTFS are read and write on both Linux and Windows.

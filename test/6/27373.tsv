@@ -1,0 +1,6 @@
+2012-11-02T19:51:00.000Z	_val_		Hi again. Trying to compile spice-xpi addon for firefox on precise. I'm getting this error: No package 'libxul-embedding' found
+2012-11-02T19:52:00.000Z	_val_		anyone any idea. Can't find libxul anywhere.. no sources, no ppa's nothing.
+2012-11-02T19:54:00.000Z	_val_		err.  chmod +x my_executable
+2012-11-02T19:55:00.000Z	jrib	_val_	what you said would work too :)
+2012-11-02T19:55:00.000Z	_val_	jrib	./my_executable is not a valid filename I guess.
+2012-11-02T19:56:00.000Z	jrib	_val_	you provide a path to chmod, ./my_executable is fine

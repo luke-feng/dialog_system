@@ -1,0 +1,6 @@
+2011-12-18T02:51:00.000Z	GOMI		do people here use some cleanup program in ubuntu ? (defragment) or doesnt have to in ubuntu ??
+2011-12-18T02:52:00.000Z	LemonAid	GOMI	Ubuntu does not need a defragmenter in most cases.
+2011-12-18T02:54:00.000Z	GOMI	LemonAid	and like deleting unwanted files that take place in your hard drive ?
+2011-12-18T02:56:00.000Z	LemonAid	GOMI	there should be an app that looks for unused packets (but not for registry, because it's not the case).
+2011-12-18T03:03:00.000Z	LemonAid	GOMI	this might interest you: http://tinyurl.com/crmendp (especially the 'apt-get autoclean' part). Gd luck.
+2011-12-18T03:07:00.000Z	GOMI	LemonAid	, thanks for the link :)

@@ -1,0 +1,6 @@
+2008-02-17T12:20:00.000Z	israfil		How do I switch between Desktops, (not workspaces)
+2008-02-17T12:20:00.000Z	israfil		I have two desktops, but one of them is completely empty
+2008-02-17T12:20:00.000Z	bazhang	israfil	using compiz?
+2008-02-17T12:21:00.000Z	bazhang	israfil	you want the cube?
+2008-02-17T12:21:00.000Z	bazhang	israfil	then what is the question
+2008-02-17T12:23:00.000Z	bazhang	israfil	alt-f2 compiz --replace should get compiz going, then you need to initiate it

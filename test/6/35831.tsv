@@ -1,0 +1,6 @@
+2009-10-29T18:53:00.000Z	invitingdopeman		0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded i get this when i try to sudo
+2009-10-29T18:54:00.000Z	invitingdopeman		0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded this is what i get when i sudo upgrade
+2009-10-29T18:54:00.000Z	invitingdopeman		9.10
+2009-10-29T18:55:00.000Z	invitingdopeman		welshyrob im trying to upgrade from 9.10 beta
+2009-10-29T18:56:00.000Z	invitingdopeman		how the fuck do i upgrade from 9.10 beta to 9.10
+2009-10-29T18:56:00.000Z	ctmjr	invitingdopeman	sudo apt-get update then sudo apt-get dist-upgrade

@@ -1,0 +1,6 @@
+2009-06-06T05:25:00.000Z	Spinx85651		What's the equivalent of, say, Windows taskmanager in Ubuntu?
+2009-06-06T05:26:00.000Z	fccf	Spinx85651	system>admin>system moniter
+2009-06-06T05:29:00.000Z	fccf	Spinx85651	if you have enough ram you can pass toram at boot and use your cd-burner
+2009-06-06T05:30:00.000Z	Spinx85651	fccf	How much ram do I need? I think I have enough ~1gb
+2009-06-06T05:33:00.000Z	fccf	Spinx85651	I am not sure if it will run in 1g .. I haven't tried .. chances are if  you are on the live cd the burner will work in an actual install
+2009-06-06T05:34:00.000Z	Spinx85651	fccf	How can I check if it has at least properly detected it?

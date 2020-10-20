@@ -1,0 +1,6 @@
+2012-07-23T10:58:00.000Z	xdark		slower with what?
+2012-07-23T11:00:00.000Z	xdark		wine
+2012-07-23T11:00:00.000Z	xdark		  sudo add-apt-repository ppa:ubuntu-wine/ppa
+2012-07-23T11:00:00.000Z	xdark		  sudo apt-get update
+2012-07-23T11:00:00.000Z	xdark		  sudo apt-get install wine1.4
+2012-07-23T11:00:00.000Z	FloodBot1	xdark	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

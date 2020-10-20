@@ -1,0 +1,6 @@
+2009-10-05T04:54:00.000Z	lloowen		hello ! Could the commands 'sudo apt-get install xinetd' or 'sudo apt-get update' mess up a Ubuntu server that has web, sftp, ssh, vnc and samba installed?
+2009-10-05T04:54:00.000Z	lstarnes	lloowen	why do you ask?
+2009-10-05T04:56:00.000Z	lstarnes	lloowen	it would depend on what is being updated and what xinetd is set to serve
+2009-10-05T04:56:00.000Z	lstarnes	lloowen	it may be an unrelated issue, like IP addresses changing or firewalling
+2009-10-05T04:58:00.000Z	lstarnes	lloowen	xinetd/inetd wouldn't really intefere when it uses its default config
+2009-10-05T05:01:00.000Z	lstarnes	lloowen	I'm not sure

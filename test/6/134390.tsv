@@ -1,0 +1,6 @@
+2006-04-22T05:43:00.000Z	sonicjam		hey guys i tried to make a partition with windows xp mce cd but didn't do nothing
+2006-04-22T05:44:00.000Z	sonicjam		| main |, try to find a cd r-w some where in your house
+2006-04-22T05:46:00.000Z	sonicjam		can i make a partitions with linux than install winxp on an other
+2006-04-22T05:47:00.000Z	sonicjam		good because linux goes slow with my pc
+2006-04-22T05:47:00.000Z	sonicjam		i mean with vmware
+2006-04-22T05:49:00.000Z	tonyyarusso	sonicjam	By the way, if you install Linux first and Windows second, it will mess up the bootloader.  However, it's easy to fix with a live cd ('/msg ubotu recover' for info)

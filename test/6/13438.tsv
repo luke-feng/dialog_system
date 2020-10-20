@@ -1,0 +1,6 @@
+2011-01-16T17:30:00.000Z	sacarlson	sparse	 you can use adhoc in wifi
+2011-01-16T17:31:00.000Z	sparse	sacarlson	yes, but he would like to make it more public I guess, isn't adhoc one-to-one only?
+2011-01-16T17:32:00.000Z	sacarlson	sparse	I'm not sure what the difference in adhoc and AP are,  yes some wifi device don't support AP
+2011-01-16T17:34:00.000Z	sacarlson	sparse	asif: if this works iwconfig ath0 mode Master   then you can setup as an access point
+2011-01-16T17:35:00.000Z	sacarlson	sparse	asif: but ath0 must be changed to what your device is called,
+2011-01-16T17:36:00.000Z	sparse	sacarlson	yes

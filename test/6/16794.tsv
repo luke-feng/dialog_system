@@ -1,0 +1,6 @@
+2011-01-31T11:23:00.000Z	bastidrazor	Psyclone	prepend that with gksudo
+2011-01-31T11:23:00.000Z	Psyclone	bastidrazor	: and how do i find the UUID to add to it
+2011-01-31T11:23:00.000Z	bastidrazor	Psyclone	sudo blkid in a terminal
+2011-01-31T11:25:00.000Z	Psyclone	bastidrazor	: ok i found it, now just copy and paste?
+2011-01-31T11:25:00.000Z	Psyclone	bastidrazor	: i think its having trouble because its ntfs
+2011-01-31T11:26:00.000Z	bastidrazor	Psyclone	read the page on fstab about how to add an ntfs entry to you fstab.

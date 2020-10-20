@@ -1,0 +1,6 @@
+2008-11-24T11:10:00.000Z	nemo		Why is it I'm unable to get ubuntu to poke me about upgrading my mom's computer? I've tried update-manager -p and update-manager -c
+2008-11-24T11:12:00.000Z	nemo		ah. normal releases vs LTS. gotcha
+2008-11-24T11:13:00.000Z	nemo		something about Ibex - the upgrade tool prompted me to try the new fast-user-switch-applet - I turned it down at the time, is there a way to rerun that?
+2008-11-24T11:13:00.000Z	nemo		including creating the guest account and whatnot?
+2008-11-24T11:13:00.000Z	dcider	nemo	check your software sources and under updates / release upgrade choose the normal release
+2008-11-24T11:13:00.000Z	nemo	dcider	yeah, I'm straight on the difference now

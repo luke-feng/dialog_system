@@ -1,0 +1,6 @@
+2007-06-25T14:26:00.000Z	LeGeeko		Hey, sorry to bother you but my X server crashed, and refuses to un-crash
+2007-06-25T14:26:00.000Z	LeGeeko		Can someone please tell me how to fix it? Thanks!
+2007-06-25T14:27:00.000Z	LeGeeko		In terminal login, just installed a new graphics driver
+2007-06-25T14:28:00.000Z	LeGeeko		It gives my the "screen not found" error
+2007-06-25T14:29:00.000Z	LeGeeko		OK, but how do I use the old one again?
+2007-06-25T14:29:00.000Z	dotpavan	LeGeeko	see the error log in /etc/X11 after entering in safe mode, it might give some info

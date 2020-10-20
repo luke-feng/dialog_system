@@ -1,0 +1,6 @@
+2011-10-30T23:36:00.000Z	scottj		I added a ppa for latest emacs (package emacs-snapshot) but when I apt-get update/upgrade/install eamcs-snapshot it does't update it and I noticed during update it says Ign for the repo instead of Hit. ideas?
+2011-10-30T23:37:00.000Z	bastidrazor	scottj	apt-cache policy emacs-snapshot   pastebin the output
+2011-10-30T23:39:00.000Z	scottj	bastidrazor	http://pastebin.com/rZGqEbsW
+2011-10-30T23:40:00.000Z	bastidrazor	scottj	you did an apt-get update before the apt-cache command?
+2011-10-30T23:40:00.000Z	scottj	bastidrazor	yeah
+2011-10-30T23:40:00.000Z	bastidrazor	scottj	that result shows apt-get is not seeing emacs-snapshot from the ppa

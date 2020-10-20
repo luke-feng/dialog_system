@@ -1,0 +1,6 @@
+2011-01-30T01:42:00.000Z	bullgard4		GParted 0.5.1 on a Live CD: "Delete: Partition /dev/sda5 could not be deleted. Please umount all logical partitions having a number > 5." I umounted all of them but the message persists. How to proceed?
+2011-01-30T01:43:00.000Z	J_C	bullgard4	have you used the "mount" command to make sure they are all unmounted?
+2011-01-30T01:43:00.000Z	bullgard4	J_C	No. I used GParted.
+2011-01-30T01:44:00.000Z	J_C	bullgard4	on the system itself, have you tried just running "mount" on a terminal?
+2011-01-30T01:55:00.000Z	J_C	bullgard4	you can check that by using the mount command in a terminal. just type mount to see what's mounted
+2011-01-30T01:56:00.000Z	J_C	bullgard4	and like Ikonia said, you delet 5, the rest go to

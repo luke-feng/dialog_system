@@ -1,0 +1,6 @@
+2009-09-23T11:16:00.000Z	hajmola		with compiz enabled, conky doesn't show up on every virtual desktop
+2009-09-23T11:17:00.000Z	soreau	hajmola	conky doesn't play well with compiz
+2009-09-23T11:17:00.000Z	hajmola	soreau	 aw, I was hoping there wasa n easy fix
+2010-02-13T09:40:00.000Z	soreau	hajmola	ccsm>Window Decoration>Decorate Windows IIRC
+2010-02-13T09:41:00.000Z	soreau	hajmola	It is set to any by default, but you can use the + button then the Grab button and click on the window you want not to have decorations, then enabled Invert
+2010-02-13T09:41:00.000Z	hajmola	soreau	thanks!

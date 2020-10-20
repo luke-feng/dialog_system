@@ -1,0 +1,6 @@
+2012-06-08T12:01:00.000Z	GabrieleV		Hello, I can't mount external USB hard disk anymore in 12.10. When I connect an external USB sata hard disk, I get the error: ata_id[12306]: HDIO_GET_IDENTITY failed for '/dev/sdb': Invalid argument. Here are all the syslog messages: http://pastebin.com/AB5se4zj
+2012-06-08T12:02:00.000Z	Madpilot	GabrieleV	if you're actually running the alpha of 12.10, #ubuntu+1 is where you want to be
+2012-06-08T12:02:00.000Z	GabrieleV	Madpilot	Sorry, 12.04 :-(
+2012-06-08T12:02:00.000Z	GabrieleV	Madpilot	I run 12.04
+2012-06-08T12:03:00.000Z	Madpilot	GabrieleV	heh, I wondered. That aside, I'm not much use on USB connection issues, sorry.
+2012-06-08T12:04:00.000Z	GabrieleV	Madpilot	Thnak you. Anyone ?

@@ -1,0 +1,6 @@
+2011-08-25T20:02:00.000Z	R-088		If anyone here is familiar with DNS and ubuntu server I have a few questions.
+2011-08-25T20:04:00.000Z	R-088		Ok so I have a domain name from NoIp.com
+2011-08-25T20:05:00.000Z	R-088		when im outside my lan it works fine, i can connect with the domain name.
+2011-08-25T20:05:00.000Z	R-088		I wanted to set up a way to use the domain in my lan
+2011-08-25T20:05:00.000Z	R-088		as of right on I have to type in my 192... Private address
+2011-08-25T20:07:00.000Z	usr13	R-088	Be patient. Sometimes it takes a while for nameservers to get updated info.

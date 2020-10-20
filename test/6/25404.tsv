@@ -1,0 +1,6 @@
+2011-01-22T18:51:00.000Z	Jemt		Another question: Can I remove linux-headers-* packages ? Are they really used? I never build a custom kernel.
+2011-01-22T18:51:00.000Z	tucemiux	Jemt	some appz might need those headers, do you use virtual box?
+2011-01-22T18:51:00.000Z	Jemt	tucemiux	Nope, it's a "real" installation
+2011-01-22T18:52:00.000Z	Jemt	tucemiux	But if they are required, I'd better leave them installed.
+2011-01-22T18:52:00.000Z	tucemiux	Jemt	i mean, the headers are there for  a reason, some applications need them, virtualbox for example, will not work if the headers are not installed
+2011-01-22T18:53:00.000Z	Jemt	tucemiux	Oh, I see. Thanks. They are probably used for building kernel modules then

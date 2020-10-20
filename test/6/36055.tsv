@@ -1,0 +1,6 @@
+2010-10-17T23:06:00.000Z	theshadow		My friend is getting this exact bug https://bugs.launchpad.net/ubuntu/+source/linux/+bug/430620 which wouldn't be an issue except that each time it happens the whole laptop locks up and has to be rebooted. It happens at least two or three times a week which is just a bit annoying. Does anyone have any workarounds for the time being?
+2010-10-17T23:06:00.000Z	edbian	theshadow	use an older kernel
+2010-10-17T23:07:00.000Z	theshadow	edbian	exactly how old? this bug appears to have been ocuring since 2009... that would be quite a rollback.
+2010-10-17T23:08:00.000Z	edbian	theshadow	That is old but you asked for a work around.
+2010-10-17T23:09:00.000Z	theshadow	edbian	well I'm not entirely sure rolling back three releases is a useful work around. At that point they might as well go back to windows.
+2010-10-17T23:10:00.000Z	edbian	theshadow	Yeah I understand.  Good luck finding something! (rolling back the kernel does not necessarily mean rolling back the entire release btw)

@@ -1,0 +1,6 @@
+2005-12-11T08:32:00.000Z	hammerabi	dooglus	yes
+2005-12-11T08:32:00.000Z	dooglus	hammerabi	so right-click on the .iso file in nautilus and select 'burn image' or some such
+2005-12-11T08:32:00.000Z	hammerabi	dooglus	yup
+2005-12-11T08:34:00.000Z	hammerabi	dooglus	tar automatically uses -j if it's a .tar.bz2?
+2005-12-11T08:35:00.000Z	dooglus	hammerabi	it doesn't look at the filename, it looks at the file
+2005-12-11T08:35:00.000Z	hammerabi	dooglus	oh, neat

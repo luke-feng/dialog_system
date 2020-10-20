@@ -1,0 +1,6 @@
+2010-12-15T17:50:00.000Z	Guest51512		i need to change the permissions on a shared folder that was created using a linux mint. how do i change in ubuntu?
+2010-12-15T17:51:00.000Z	KM0201	Guest51512	sudo chmod 777 /path/to/folder  should do it.
+2010-12-15T17:51:00.000Z	Guest51512	KM0201	is there no gui
+2010-12-15T17:52:00.000Z	KM0201	Guest51512	i was assuming you tried right clicking/propeties/permissions
+2010-12-15T18:01:00.000Z	Guest51512	KM0201	will that command change the permissions for all sub folders as well?
+2010-12-15T18:03:00.000Z	KM0201	Guest51512	what didn't work?

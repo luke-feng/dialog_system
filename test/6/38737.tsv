@@ -1,0 +1,6 @@
+2009-05-27T16:54:00.000Z	rosepetal		hi .. i just upgraded to 9.04 .. and i removed the notifications icon from the top task bar .. now i want to change its settings and i cant get it back ..
+2009-05-27T16:55:00.000Z	rosepetal		hi .. i just upgraded to 9.04 .. and i removed the notifications icon from the top task bar .. now i want to change its settings and i cant get it back .. anyone?
+2009-05-27T16:57:00.000Z	h4mx0r	rosepetal	http://www.ubuntu.com/getubuntu/upgrading and be sure to fully update the system beforehand with either update-manager or apt-get update && apt-get upgrade
+2009-05-27T17:00:00.000Z	rosepetal	h4mx0r	ive already upgraded. i am just asking how i can bring back the notifications feature back on ... the one which controls the new notifications that come in black color
+2009-05-27T17:01:00.000Z	h4mx0r	rosepetal	its in system > prefernces > startup applications
+2009-05-27T17:04:00.000Z	rosepetal	h4mx0r	its not in my startup applications since i removed it from the panel? not sure if that will happen though ... whats it called?

@@ -1,0 +1,6 @@
+2005-12-05T13:11:00.000Z	mt_holden_ss		hey my dad works for holden!!! FORD suck...
+2005-12-05T13:11:00.000Z	mt_holden_ss		so when i do xp dont do a ntfs format do a fat...
+2005-12-05T13:12:00.000Z	mt_holden_ss		wats the diff b/w ntfs and fat
+2005-12-05T13:12:00.000Z	nomasteryoda	mt_holden_ss	for security in Windows... use NTFS... for the OS, but fat32 for shared space between linux and windows
+2005-12-05T13:13:00.000Z	nomasteryoda	mt_holden_ss	LOL.... just be careful
+2005-12-05T13:16:00.000Z	nomasteryoda	mt_holden_ss	that would make sense ... set them up using gparted or cfdisk

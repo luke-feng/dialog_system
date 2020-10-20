@@ -1,0 +1,6 @@
+2012-05-18T21:34:00.000Z	MrSexyPants		Is there a place where I could download and install all of WIndows 7 default fonts?
+2012-05-18T21:35:00.000Z	Dr_willis	MrSexyPants	 theres the msttcorefonts package i belive that gets most of the ms fonts
+2012-05-18T21:36:00.000Z	MrSexyPants	Dr_willis	Would copying fonts from Windows 7 work on Ubuntu?
+2012-05-18T21:36:00.000Z	Dr_willis	MrSexyPants	 thats an easy way to get them. Put them in your .fonts directory
+2012-05-18T21:36:00.000Z	Dr_willis	MrSexyPants	 i make a .fonts dir. put them in there. then link them to  be synced by my ubuntu one account. ;)
+2012-05-18T21:37:00.000Z	MrSexyPants	Dr_willis	Cool. Will try that.

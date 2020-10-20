@@ -1,0 +1,6 @@
+2005-04-29T07:07:00.000Z	karl		ok, so I've added a source for the ndiswrapper .debs.
+2005-04-29T07:07:00.000Z	karl		and i've installed ndiswrapper source from them,
+2005-04-29T07:07:00.000Z	karl		so now apt-cache show ndiswrapper-source shows two entries,
+2005-04-29T07:07:00.000Z	karl		one for 1.1 from ndiswrapper.sf.net, and one for 1.0rc2, form hoary
+2005-04-29T07:07:00.000Z	karl		how can I tell which binary is actually being used?
+2005-04-29T07:08:00.000Z	frank	karl	  which filename

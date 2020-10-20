@@ -1,0 +1,6 @@
+2009-01-17T16:52:00.000Z	Dr_willis	Solarium	 and what video card is that?
+2009-01-17T16:52:00.000Z	Dr_willis	Solarium	 it would seem odd that its some how doing somthing special to get that card going.. if its using the normal X  packages/drivers...
+2009-01-17T16:53:00.000Z	Solarium	Dr_willis	  SiS 771/671 Mirage 3
+2009-01-17T16:54:00.000Z	Solarium	Dr_willis	well its a long story that goes like this, sis has 3d driver but wont release it to end users, brasil has some company that makes cheap laptops with same card, and the company develops the satux linux
+2009-01-17T16:54:00.000Z	Solarium	Dr_willis	so sis released the driver to them
+2009-01-17T16:55:00.000Z	Solarium	Dr_willis	from my understanding they have some agreement with sis so they cant release the source code for it

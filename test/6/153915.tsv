@@ -1,0 +1,6 @@
+2005-03-07T14:05:00.000Z	ulisse		hi all
+2005-03-07T14:06:00.000Z	ulisse		I'm having troubles with hoary, booting with the latest kernel gnome hangs after a while...
+2005-03-07T14:06:00.000Z	ulisse		is it a known issue?
+2005-03-07T14:06:00.000Z	hawke_	ulisse	Yes.
+2005-03-07T14:06:00.000Z	hawke_	ulisse	Add "noinotify" to your kernel commandline in grub
+2005-03-07T14:08:00.000Z	ulisse	hawke_	morchuboo : done, thanks. Now I'm ready for the next problem...

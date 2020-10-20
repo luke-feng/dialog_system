@@ -1,0 +1,6 @@
+2010-06-13T03:10:00.000Z	guntbert	PatrinStar	I don't understand: "mount an iso to an usb flash drive" - can you explain?
+2010-06-13T03:12:00.000Z	PatrinStar	guntbert	im using linux ubuntu 9.04 and i want to take a windows 7 iso image and mount it on a 4gb flash drive so i can install windows 7 on my netbook
+2010-06-13T03:14:00.000Z	guntbert	PatrinStar	I still don't understand  - mount means to attach a file system to a directory -- if you want to create a usb boot media for windows then this is not the right channel
+2010-06-13T03:15:00.000Z	PatrinStar	guntbert	ok, sorry i have my terminalogy wrong. i know that, thats why im asking what channel should i go into cause i dont know where to ask without getting in trouble
+2010-06-13T03:16:00.000Z	guntbert	PatrinStar	windows support is in ##windows
+2010-06-13T03:18:00.000Z	PatrinStar	guntbert	thank you

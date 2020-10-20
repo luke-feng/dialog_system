@@ -1,0 +1,6 @@
+2009-10-18T19:40:00.000Z	preecher		is there something i can do to make programs that run in a terminal only to be listed under applications and when clicked on open a terminal automatically
+2009-10-18T19:41:00.000Z	VCoolio	preecher	you can right click and edit menu and then add stuff with "gnome-terminal -e "application" as command
+2009-10-18T19:42:00.000Z	preecher	VCoolio	 thx
+2010-07-16T02:36:00.000Z	VCoolio	preecher	go for gtk2, metacity is window borders but a lot of gtk2 include them
+2010-07-16T02:38:00.000Z	VCoolio	preecher	if you get metacity or gtk2 without borders you need to hit customize in the appearance window to find and select them
+2010-07-16T02:39:00.000Z	preecher	VCoolio	oh ok

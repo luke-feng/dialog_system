@@ -1,0 +1,6 @@
+2007-08-10T13:14:00.000Z	rancidlm		hey all can some one please help... my /home/MYUSERNAME is gone right now my /home/ is emty how do i re-create my user  gdm won't let me login ?
+2007-08-10T13:15:00.000Z	rancidlm		if i go sudo mkdir /home/rancidlm  i get permissions after login plz help :)
+2007-08-10T13:15:00.000Z	Flannel	rancidlm	you'll need to reboot and choose the 'recovery console' and then create the directory.
+2007-08-10T13:16:00.000Z	Flannel	rancidlm	You'll need to chown it to your user, since with sudo mkdir you'll have it owned by root by default
+2007-08-10T13:16:00.000Z	rancidlm	Flannel	i can get to console but what permission do i give it?
+2007-08-10T13:16:00.000Z	Flannel	rancidlm	chown username:username /home/username

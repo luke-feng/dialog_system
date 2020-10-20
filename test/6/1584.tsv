@@ -1,0 +1,6 @@
+2012-06-24T11:47:00.000Z	Dory		Hello, I have an ubuntu iso image on my netbook running Windows XP. How do I install Ubuntu next to windows xp?
+2012-06-24T11:47:00.000Z	wrapids	Dory	They also make software that will allow you to shrink your xp partition
+2012-06-24T11:49:00.000Z	Dory	wrapids	I mounted the iso and started wubi. It wants me to reboot. But this is just a mounted iso so it won't be visible to computer bios
+2012-06-24T11:49:00.000Z	wrapids	Dory	If it wants you to reboot I imagine it knows what it's doing. I haven't installed using Wubi before.
+2012-06-24T11:50:00.000Z	Dory	wrapids	it must be thinking the cd is in real CD-ROM drive?
+2012-06-24T11:50:00.000Z	wrapids	Dory	That question is best not directed at me, as I said I've never installed with Wubi.

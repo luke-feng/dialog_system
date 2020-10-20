@@ -1,0 +1,6 @@
+2010-05-10T10:01:00.000Z	RickyWh		what are extended file attributes?
+2010-05-10T10:03:00.000Z	RickyWh		by default when doing apt-get install apache2, does it run under root?
+2010-05-10T10:03:00.000Z	pallgone	RickyWh	no
+2010-05-10T10:03:00.000Z	RickyWh	pallgone	that's not normal right? usually you have to do a bunch of things to get it like that
+2010-05-10T10:04:00.000Z	pallgone	RickyWh	you need to add 'sudo' usually to run something as root
+2010-05-10T10:05:00.000Z	pallgone	RickyWh	you could define an alias so that 'apt-get' is translated to 'sudo apt-get'

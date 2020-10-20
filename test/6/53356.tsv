@@ -1,0 +1,6 @@
+2008-08-04T13:57:00.000Z	raymie		anybody know to to reset gnome session, or any sites please?
+2008-08-04T13:57:00.000Z	ActionParsnip	raymie	do you mean, gnome settings etc?
+2008-08-04T13:58:00.000Z	ActionParsnip	raymie	http://linuxfud.wordpress.com/2007/02/14/how-to-reset-ubuntugnome-settings-to-defaults-without-re-installing/
+2008-08-04T13:58:00.000Z	ActionParsnip	raymie	dont rm them though, just use mv to rename'
+2008-08-04T13:59:00.000Z	raymie	ActionParsnip	I did followed them last night, already did rm
+2008-08-04T14:00:00.000Z	ActionParsnip	raymie	id get into the habit of renaming instead of rm so you can roll back

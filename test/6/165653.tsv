@@ -1,0 +1,6 @@
+2005-01-14T09:55:00.000Z	littlepenguin		does anyone know if ubuntu would be a good distro for a dell 600m
+2005-01-14T09:55:00.000Z	littlepenguin		im from austin,tx
+2005-01-14T09:55:00.000Z	crimsun	littlepenguin	http://www.ubuntulinux.org/wiki/HardwareSupportMachinesLaptops
+2005-01-14T09:56:00.000Z	crimsun	littlepenguin	you need to add the acpi_irq_isa=7 boot option
+2005-01-14T09:59:00.000Z	crimsun	littlepenguin	the acpi parameter I gave you will clear things up
+2005-01-14T10:01:00.000Z	crimsun	littlepenguin	?

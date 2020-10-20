@@ -1,0 +1,6 @@
+2010-10-31T05:41:00.000Z	v3nd3tta``		!ln | rallias
+2010-10-31T05:41:00.000Z	v3nd3tta``		lol
+2010-10-31T05:41:00.000Z	v3nd3tta``		fail
+2010-10-31T05:43:00.000Z	rallias	v3nd3tta``	Thats what I use for the ssh program...
+2010-10-31T05:47:00.000Z	v3nd3tta``	rallias	as it seems you want to install phpbb3 on a ubuntu web server trhough ssh... first try to extract the tar.gz archieve (tar --help might help, tar -xzf) and then "cd /var/www" "ln -s /home/rallias/phpbb3 phpbb3"
+2010-10-31T05:47:00.000Z	rallias	v3nd3tta``	I have it installed, but my web server only has 65 kb of space left.

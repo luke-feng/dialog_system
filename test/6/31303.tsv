@@ -1,0 +1,6 @@
+2010-01-11T21:29:00.000Z	koichirose		How long should it take to create an ext3 partition on a 1.5TB disk with gparted?
+2010-01-11T21:29:00.000Z	Alan502	koichirose	it highly depends on your system
+2010-01-11T21:30:00.000Z	koichirose	Alan502	approximately? I have a core2duo 3.0ghz, the hard disk is a sata wd green 1.5tb
+2010-01-11T21:31:00.000Z	Alan502	koichirose	it also depends on your ram... on the usage of your disk.. but it will take long
+2010-01-11T21:33:00.000Z	koichirose	Alan502	the disk is new, so no usage, I have 4gb ram, on ubuntu 64bit. Am I looking at 20 minutes, 1 hour, 7 hours?
+2010-01-11T21:34:00.000Z	Alan502	koichirose	some between 1 and 3 hours

@@ -1,0 +1,6 @@
+2005-10-27T14:20:00.000Z	lymz		hey ubuntu
+2005-10-27T14:20:00.000Z	lymz		i'd like to re-install 5.10, but i would like to save a list of packages i currently have?
+2005-10-27T14:20:00.000Z	HappyFool	lymz	'dpkg -l|grep ^ii' will tell you
+2005-10-27T14:20:00.000Z	lymz		where is synaptic history saved? or can i export a list from synaptic?
+2005-10-27T14:21:00.000Z	HappyFool		i've never seen grubgrubgrub. error 15 just means it can't find some file (possibly menu.lst?)
+2005-10-27T14:21:00.000Z	lymz	HappyFool	that works, thanks, i'll save the output :-)

@@ -1,0 +1,6 @@
+2008-03-29T05:53:00.000Z	mattgyver83		How difficult is it to write a script to email (w/gmail) myself my network IP address every hour or so?
+2008-03-29T05:54:00.000Z	pygmymath	mattgyver83	i saw a tutorial on getting gmail to work from a terminal... from there you can use crontabor the at command i guess
+2008-03-29T05:55:00.000Z	mattgyver83	pygmymath	do you still have the link?
+2008-03-29T05:55:00.000Z	pygmymath	mattgyver83	fraid not, was a random browser session. google though
+2008-03-29T05:57:00.000Z	pygmymath	mattgyver83	not that i know of. but if you want to prune it you could pipe to grep?
+2008-05-03T07:46:00.000Z	pygmymath	mattgyver83	its useless

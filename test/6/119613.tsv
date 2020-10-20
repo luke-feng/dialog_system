@@ -1,0 +1,6 @@
+2007-08-21T10:28:00.000Z	joshritger		how do I get firestarter to start on startup, I have followed the fixes and guides that I found online and none of them seem to work, on my last install someone helped me figure it out
+2007-08-21T10:29:00.000Z	kitche	joshritger	add it to the sessions in gconf to autostart
+2007-08-21T10:29:00.000Z	joshritger	kitche	the problem is that y ou need to be root
+2007-08-21T10:29:00.000Z	kitche	joshritger	firestarter shouldn't care if your root or not
+2007-08-21T10:30:00.000Z	joshritger	kitche	it always asks for my password
+2007-08-21T10:32:00.000Z	kitche	joshritger	there is a way to have firestarter to start in nonadmin mode but allow the user to switch to admin mode but no clue on how to do that actually

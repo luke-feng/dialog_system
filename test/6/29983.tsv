@@ -1,0 +1,6 @@
+2010-07-01T06:49:00.000Z	dziiki		how do i install a logitech webcam on ubuntu??
+2010-07-01T06:49:00.000Z	codebrainz	dziiki	it should "just work" when you plug it in
+2010-07-01T06:53:00.000Z	codebrainz	dziiki	is it a "Quick Cam Express"?
+2010-07-01T06:58:00.000Z	codebrainz	dziiki	i think zoneminder is web-based, so point your web browser at http://yourhostname:yourportnumber
+2010-07-01T06:59:00.000Z	codebrainz	dziiki	something like http://localhost:8080 (not sure which port zoneminder uses)
+2010-07-01T07:01:00.000Z	codebrainz	dziiki	http://localhost/zm

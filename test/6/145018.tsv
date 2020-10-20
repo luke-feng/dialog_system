@@ -1,0 +1,6 @@
+2005-06-16T14:44:00.000Z	nigh		hello all. i'm new to ubuntu. :) i've just installed the system and i don't have any sound. I have ICH6 so i found this http://www.ubuntulinux.org/wiki/HdaIntelSoundHowto but something is wrong. The first way is ok until i try type sudo alsaconf -> i get "unknown command". So i tried the alternative way. But I got "cannot find packet"
+2005-06-16T14:45:00.000Z	nigh		could someone help me?
+2005-06-16T14:46:00.000Z	thoreauputic	nigh	there's no alsaconf in ubuntu
+2005-06-16T14:47:00.000Z	nigh	thoreauputic	ok... so why is this in ubuntu wiki? how to handle with intel high definition audio?
+2005-06-16T14:47:00.000Z	thoreauputic	nigh	I don't know why it's on the wiki
+2005-06-16T14:48:00.000Z	thoreauputic	nigh	probably written by a debian user?

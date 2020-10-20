@@ -1,0 +1,6 @@
+2008-06-08T17:22:00.000Z	adred		hey need  help. i can't connect my new SATA HD. what should i do?
+2008-06-08T17:23:00.000Z	koshari	adred	whats the prob?
+2008-06-08T17:24:00.000Z	koshari	adred	can gparted see it?
+2008-06-08T17:25:00.000Z	koshari	adred	have you created a partitiion
+2008-06-08T17:26:00.000Z	adred	koshari	im corrently checking if gparted can detect it...
+2008-06-08T17:28:00.000Z	adred	koshari	: yup gparted sees my new SATA HD. no partition made yet..it totally unallocated..

@@ -1,0 +1,6 @@
+2010-05-18T20:06:00.000Z	dougztr		I just upgraded my Ubuntu Studio system to 10.04, it had some nasty problems with fglrx but I managed to fix it
+2010-05-18T20:06:00.000Z	sh1ny	dougztr	doesnt you desktop get all cranky with fglrx ?
+2010-05-18T20:07:00.000Z	dougztr	sh1ny	no it seems ok, even using dual monitors
+2010-05-18T20:07:00.000Z	sh1ny	dougztr	cool i decided to stick with radeon drivers for my ati, with the fglrx it gets all cranky
+2010-05-18T20:08:00.000Z	dougztr	sh1ny	depends on the chipset which one works better, mine has only partial support in radeon (hd4830)
+2010-05-18T20:09:00.000Z	sh1ny	dougztr	i'm on 4670, works kinda good, with fglrx my video playback gets all flickery and all that

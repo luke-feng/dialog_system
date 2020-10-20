@@ -1,0 +1,6 @@
+2011-07-27T17:25:00.000Z	ActionParsnip	rah_	install wicd, you can set the interface name
+2011-07-27T17:39:00.000Z	rah_	ActionParsnip	thx wicd works. But why does it disconnect my wired connection when activating the wireless connection?
+2011-07-27T17:40:00.000Z	ActionParsnip	rah_	you can setup the devices separately and tell them to both connect (afaik), personally I always configure wired connections with /etc/network/interfaces
+2011-07-27T17:40:00.000Z	rah_	ActionParsnip	ok thx
+2011-07-27T18:08:00.000Z	rah_	ActionParsnip	is there a way in wicd to reconnect to the wireless network after reboot? i have selected automatic connect but after reboot it doesn't connect to the wireless network
+2011-07-27T18:09:00.000Z	ActionParsnip	rah_	the automatic connection should make it link up at reboot

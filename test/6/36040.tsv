@@ -1,0 +1,6 @@
+2010-08-20T05:44:00.000Z	exbm		does anyone know about why ubuntu will crash randomly to a white screen that has diagonal snow accross it?
+2010-08-20T05:45:00.000Z	edbian	exbm	I've experienced that problem as well.  That's called instability.  I was never able to narrow it down to one piece of software crashing or something.  Basically the X server is crashing for some reason.
+2010-08-20T05:46:00.000Z	edbian	exbm	Something is going wrong and causing the X server to crash.  The X server draws the graphical user interface on Ubuntu.
+2010-08-20T05:47:00.000Z	edbian	exbm	It could be a driver issue.  However the open source drivers are likely to be much more stable.
+2010-08-20T05:50:00.000Z	edbian	exbm	The netbook edition on the desktop really should not be an issue.
+2010-08-20T05:50:00.000Z	edbian	exbm	It's possible that the ubuntu-netbook software is crashing though.  It is rather new.  Perhaps you'd have better success with normal Ubuntu?

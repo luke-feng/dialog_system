@@ -1,0 +1,6 @@
+2007-04-11T15:03:00.000Z	lockmist	YetiChick	You can use NTFS partitions completely natively if you do this: sudo apt-get install ntfs-3g
+2007-04-11T15:03:00.000Z	YetiChick	lockmist	almost natively.  I have some problems with certain character sets and certain filenames.
+2007-04-11T15:04:00.000Z	lockmist	YetiChick	Try the locale option.
+2007-04-11T15:04:00.000Z	YetiChick	lockmist	 Done so.  I didn't fight with it too much, but I could not get a filename with the degree symbol to copy.
+2007-04-11T15:06:00.000Z	YetiChick	lockmist	 Pretty much the same as I used.  This *was* a while ago, and it was in Gentoo.  Might be fixed by now.
+2007-04-11T15:07:00.000Z	lockmist	YetiChick	Probably has been, ntfs-3g has only really been working perfectly quite recently.

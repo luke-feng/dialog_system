@@ -1,0 +1,6 @@
+2005-06-26T09:58:00.000Z	Amuro		Does ubuntu have NTFS read ability
+2005-06-26T09:58:00.000Z	Amuro		because id like it to be able to read and write to my windows hd
+2005-06-26T09:59:00.000Z	Amuro		i also would like to know if the vid player in this version can play xvid and other such movie codecs
+2005-06-26T10:00:00.000Z	Amuro		What if i use that Paragon NTFS software thing
+2005-06-26T10:00:00.000Z	Amuro		for linux
+2005-06-26T10:00:00.000Z	mae	Amuro	apt-get install xvid

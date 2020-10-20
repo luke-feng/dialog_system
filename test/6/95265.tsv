@@ -1,0 +1,6 @@
+2007-01-27T17:13:00.000Z	JJ_		hi all, is this the place for silly questions ??????
+2007-01-27T17:13:00.000Z	JJ_		:-)
+2007-01-27T17:14:00.000Z	JJ_		what do I need to do to be able to RDP into this pc (unbunto) from a windows xp laptop
+2007-01-27T17:14:00.000Z	shatrat	JJ_	well, if you set up VNC server on ubuntu youll need a VNC client on windows
+2007-01-27T17:21:00.000Z	shatrat	JJ_	I believe it is in synaptic.  YOu may need to enable Universe and Multiverse repositories
+2007-01-27T06:13:00.000Z	shatrat	JJ_	Im sure amazon has it, or Barnes and Noble I hear.  I havent ever found anything I needed to know that wasnt on the internet.

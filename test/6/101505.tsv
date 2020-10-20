@@ -1,0 +1,6 @@
+2007-12-14T05:35:00.000Z	rbanffy		Hi folks. Is there any way to persuade network manager not to assign me a nameserver?
+2007-12-14T05:37:00.000Z	Slart	rbanffy	you can do stuff in the resolve.conf file too.. choose servers to use before using the ones dhcp suggests..
+2007-12-14T05:38:00.000Z	rbanffy	Slart	But then every time I switch networks it overwrites my resolv.conf file
+2007-12-14T05:39:00.000Z	Slart	rbanffy	I'm not sure it has to do that.. but perhaps it's easier to make the dhcp server not send any dns servers
+2007-12-14T05:39:00.000Z	rbanffy	Slart	The D-Link software is not very helpful
+2007-12-14T05:39:00.000Z	Slart	rbanffy	D-Link software rarely is =)

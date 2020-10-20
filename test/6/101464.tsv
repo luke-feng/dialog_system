@@ -1,0 +1,6 @@
+2009-05-30T21:14:00.000Z	shai4321		The sound on my system is too weak, and I can't seem to find any player for Linux that includes an equalizer... anyone know of anything?
+2009-05-30T21:16:00.000Z	shai4321		I set the volume control to the maximum setting but the volume is still too weak, and I know it can get much better because it was when I had XP on this computer.
+2009-05-30T21:17:00.000Z	shai4321		It's my only problem so far, so if you can solve it i'll be set
+2009-05-30T21:18:00.000Z	Slart	shai4321	what sound hardware are you using?
+2009-05-30T21:19:00.000Z	Slart	shai4321	it's probably a driver issue if you've tried all the sliders in the mixer.. sometimes you can set parameters for the driver
+2009-05-30T21:20:00.000Z	Slart	shai4321	try googling for the sound chip name and model..see if anyone has similar problems.. make a bug report if you can't find a solution

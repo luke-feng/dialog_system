@@ -1,0 +1,6 @@
+2006-08-01T07:29:00.000Z	IcemanV9		yes, shinobi2
+2006-08-01T07:29:00.000Z	shinobi2	IcemanV9	how do i get kde desktop?
+2006-08-01T07:29:00.000Z	IcemanV9	shinobi2	sudo aptitude install kubuntu-desktop
+2006-08-01T07:30:00.000Z	IcemanV9		fyi, there is no kde-desktop in repo
+2006-08-01T07:30:00.000Z	shinobi2	IcemanV9	cool, i i thought kubuntu and ubuntu are two different distros
+2006-08-01T07:31:00.000Z	IcemanV9	shinobi2	not really, just different desktop (gnome and kde) 

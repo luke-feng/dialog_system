@@ -1,0 +1,6 @@
+2005-12-28T13:08:00.000Z	Nei		hello, I want to have /boot umounted by default, is there an easy way to teach the ubuntu scripts like installing new kernel/removing old kernel that they should mount it?
+2005-12-28T13:09:00.000Z	navarone	Nei	it is [possible to remove kernels in synaptic with out scripts
+2005-12-28T13:10:00.000Z	Nei	navarone	the problem is that obviously things go wrong when /boot isn't mounted
+2005-12-28T13:10:00.000Z	navarone	Nei	obviously so why a script to unmount it?
+2005-12-28T13:12:00.000Z	Nei	navarone	I don't want boot to be mounted
+2005-12-28T13:13:00.000Z	Nei	navarone	because it is unnecessary

@@ -1,0 +1,6 @@
+2007-05-04T16:22:00.000Z	alphanumerik		is Feisty worth upgrading to from its predecessor or is it basically the same?
+2007-05-04T16:23:00.000Z	alphanumerik		cool thx
+2007-05-04T16:23:00.000Z	alphanumerik		im running the autoupdate to get feisty - is there a way to "roll back" if i dont like it?
+2007-05-04T16:24:00.000Z	alphanumerik		well i suppose its too late now then :)  wish me luck
+2007-05-04T16:25:00.000Z	synjet	alphanumerik	you could remove the "feisty" part in the sources.list but that wont assure a total recall.. best is to try live CD for testing
+2007-05-04T16:27:00.000Z	synjet	alphanumerik	it helps to reduce damage if you have a separate /home partition.. reinstalling the OS (freshly) is just getting the apps.. customization and data is retained

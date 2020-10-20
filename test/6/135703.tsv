@@ -1,0 +1,6 @@
+2006-03-28T10:29:00.000Z	gogo_		How do i make windows the default operating system?
+2006-03-28T10:29:00.000Z	soundray	gogo_	with grub?
+2006-03-28T10:30:00.000Z	soundray	gogo_	I mean, are you using grub? Use the default option, point it to the Windows stanza by number.
+2006-03-28T10:30:00.000Z	soundray	gogo_	find out the number by counting the title lines, starting with 0
+2006-03-28T10:31:00.000Z	soundray	gogo_	I should say that I'm talking about the file /boot/grub/menu.lst
+2006-03-28T10:33:00.000Z	soundray	gogo_	this is neat: 'grep ^title /boot/grub/menu.lst | nl -v 0' to see which boot stanza is which by number.

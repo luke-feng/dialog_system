@@ -1,0 +1,6 @@
+2006-06-07T06:39:00.000Z	D4rksh4de		is it ok to install without swap partition?
+2006-06-07T06:40:00.000Z	D4rksh4de		i have 512
+2006-06-07T06:40:00.000Z	D4rksh4de		mb
+2006-06-07T06:40:00.000Z	albacker	D4rksh4de	swap partition is needed if you dont have enought RAM.
+2006-06-07T06:42:00.000Z	albacker	D4rksh4de	sure you can.
+2006-06-07T06:44:00.000Z	albacker	D4rksh4de	no its not maximum, i used to have 3FAT32 and 2ext2, and one swap, so guess !!

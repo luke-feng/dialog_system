@@ -1,0 +1,6 @@
+2011-02-16T19:14:00.000Z	sosaited		What is the package name for Xapian-core?
+2011-02-16T19:15:00.000Z	paGos	sosaited	I guess libxapian15
+2011-02-16T19:16:00.000Z	paGos	sosaited	hmm not sure about that
+2011-02-16T19:16:00.000Z	paGos	sosaited	probably yes, give it a try
+2011-02-16T19:18:00.000Z	paGos	sosaited	have you tried using "apt-cache search iconv" ;)
+2011-02-16T19:19:00.000Z	sosaited	paGos	Not really. That would be most helpful. Thanks :). Found qt4 dev files as well, kinda

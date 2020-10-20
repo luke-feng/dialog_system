@@ -1,0 +1,6 @@
+2006-05-11T15:50:00.000Z	iamcitizen		I am trying to install Ubuntu on my new Acer Aspire 3000 Series laptop. It boots from the disc, and loads the first screen, but when I try to install, it loads the kernel, then just sits there, with a blank screen.
+2006-05-11T15:51:00.000Z	RandolphCarter	iamcitizen	did you set the screen resolution?  some laptops need you to do that
+2006-05-11T15:51:00.000Z	RandolphCarter	iamcitizen	it should show up at the bottom of the screen, press F4 or something
+2006-05-11T15:53:00.000Z	RandolphCarter	iamcitizen	ahh, sorry, 6.06
+2006-05-11T15:56:00.000Z	RandolphCarter	iamcitizen	np's :) you may need to add noapic and nolapic if it's a on older laptop
+2006-05-11T15:56:00.000Z	RandolphCarter	iamcitizen	should be okay then - if the desktop seems to lag a bit, try adding that, some laptop mobos are a bit special

@@ -1,0 +1,6 @@
+2010-09-03T04:07:00.000Z	clayd		can someone help me interpit something.  http://www.sugarcrm.com/wiki/index.php?title=Required_file_system_permissions_on_Linux
+2010-09-03T04:07:00.000Z	clayd		I am trying to understand what the "apache user" is
+2010-09-03T04:08:00.000Z	clayd		i am trying to set file permission and I think i am running into an issue were the files are not owned by the correct user
+2010-09-03T04:08:00.000Z	clayd		sorry for the poor question.
+2010-09-03T04:08:00.000Z	undecim	clayd	the apache user is www-data
+2010-09-03T04:08:00.000Z	undecim	clayd	same with the group

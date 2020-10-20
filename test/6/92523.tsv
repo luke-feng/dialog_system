@@ -1,0 +1,6 @@
+2007-03-07T08:41:00.000Z	seed_		where does ssh stores a host key i've generated? can i just throw the secret key to /etc/ssh?
+2007-03-07T08:41:00.000Z	gyaresu	seed_	~/.ssh/known_hosts
+2007-03-07T08:42:00.000Z	seed_	gyaresu	but i'm using the key with rsync in anacron to do a backup job
+2007-03-07T08:42:00.000Z	seed_	gyaresu	i'm afraid anacron won't detect the key in my user home dir
+2007-03-07T08:43:00.000Z	gyaresu	seed_	yeah. sorry, not enough time to sort it with you atm.
+2007-03-07T08:43:00.000Z	seed_	gyaresu	k, thanks

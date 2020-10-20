@@ -1,0 +1,6 @@
+2009-02-03T01:22:00.000Z	GeffIsLegend		is there a way to install ubuntu without the cd, and by install i mean a full installation so i wont have windows anymore
+2009-02-03T01:22:00.000Z	IndyGunFreak	GeffIsLegend	having windows doesn't matter, youc an still intall from a CD.
+2009-02-03T01:24:00.000Z	IndyGunFreak	GeffIsLegend	700 should be enough.. but if you have no blank CDs, can your PC boot a thumb drive, and do you have a 1gig thumb drive available?
+2009-02-03T01:31:00.000Z	IndyGunFreak	GeffIsLegend	well, i would definitely make sure you have a backup.. but how I did it, i partitioned my drive into two different drives.. moved all data to the blank partition, then installed Ubuntu to the partition that had windows (assuming you don't intend to dual boot)
+2009-02-03T01:34:00.000Z	IndyGunFreak	GeffIsLegend	thats really the best thing to do.. if there's any doubt at all.
+2009-02-07T18:10:00.000Z	IndyGunFreak	GeffIsLegend	so choose "view hidden directories".. but you can create a link to it in your games menu pretty easily

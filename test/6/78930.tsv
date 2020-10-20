@@ -1,0 +1,6 @@
+2007-09-15T16:11:00.000Z	codester		anyone know the package name that i gotta pull in in order to get usb mouse and keyboard working for ubuntu 7.04?
+2007-09-15T05:39:00.000Z	codester		does anyone have a work around for ubuntu 7.04 usb & keyboard problem? i am trying to help a friend with it and i dont seem to know why a defualt installation of ubuntu cant detect a usb keyboard and mouse
+2007-09-15T05:40:00.000Z	magnetron	codester	turn off the "USB keyboard and mouse support" in BIOS
+2007-09-15T05:40:00.000Z	codester	magnetron	yeh i asked him to check about bios, he said there is no usb option in there, any other way?
+2007-09-15T05:41:00.000Z	magnetron	codester	search in launchpad, see if it's a known bug
+2007-09-15T05:41:00.000Z	codester	magnetron	ahh k thanks

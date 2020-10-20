@@ -1,0 +1,6 @@
+2008-09-04T03:29:00.000Z	d0wn		i have a server that i created a new user account on, but when i connect to it via ssh, I see only $, and not user@host:~$
+2008-09-04T03:30:00.000Z	DataMatrix	d0wn	- check your /etc/passwd
+2008-09-04T03:31:00.000Z	d0wn	DataMatrix	what should I check for in /etc/passwd
+2008-09-04T03:32:00.000Z	DataMatrix	d0wn	/bin/bash or /usr/bin/bash
+2008-09-04T03:33:00.000Z	DataMatrix	d0wn	you can set shell while adding a user like this: useradd -d /home/newuser -m -s /bin/bash newuser
+2008-09-04T03:35:00.000Z	DataMatrix	d0wn	note that useradd doesn't prompt you for password, you sould run passwd newuser to set password after creating the user

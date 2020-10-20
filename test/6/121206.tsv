@@ -1,0 +1,6 @@
+2006-08-22T06:12:00.000Z	Goshawk		hi
+2006-08-22T06:12:00.000Z	Goshawk		xserver-xorg-core update of today broke my X server (dapper)
+2006-08-22T06:13:00.000Z	Goshawk		i can't use browser too
+2006-08-22T06:13:00.000Z	niekie	Goshawk	try installing Lynx, a console based browser.
+2006-08-22T06:14:00.000Z	Goshawk	niekie	ok, but how to see the topic of this channel (the url) with irssi?
+2006-08-22T06:14:00.000Z	niekie	Goshawk	/topic

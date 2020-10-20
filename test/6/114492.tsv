@@ -1,0 +1,6 @@
+2006-06-29T08:54:00.000Z	morphix		how risky is it using captive-ntfs to write to ntfs drives?
+2006-06-29T08:54:00.000Z	morphix		whats the successful percentage rate?
+2006-06-29T08:54:00.000Z	Paladine	morphix	depends how important the ntfs partition is
+2006-06-29T09:04:00.000Z	Paladine	morphix	system>administration>network tools (or install traceroute from synaptic)
+2006-06-29T09:05:00.000Z	morphix	Paladine	i think i'll install traceroute from syn.. i am used to command line tools
+2006-06-29T09:05:00.000Z	Paladine	morphix	likewise

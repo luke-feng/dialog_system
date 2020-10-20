@@ -1,0 +1,6 @@
+2009-11-29T03:20:00.000Z	newbie002		hi, I'm using an hdmi monitor, the screen is too large,, or the monitor is too small. I can't resize the display as I would a VGA monitor. does anyone know how to get the screen smaller? (It's like 10 pixels too wide on each edge, so I cannot see the task bars)
+2009-11-29T03:22:00.000Z	skinnYPuP	newbie002	there are sometimes some freq settings in the monitor's own menu that can help with that..   if you're monitor doesn't you may need some custom mode lines in your xorg file. I recently used a mode line generator i found on google to do so .
+2009-11-29T03:24:00.000Z	skinnYPuP	newbie002	those modeline's in the xorg tweak such settings ... its not really noob territory though
+2009-11-29T03:24:00.000Z	skinnYPuP	newbie002	make sure to read up on it b4 you dive in. and back up your xorg.conf incase a new modeline you try leaves you with no display
+2009-11-29T03:25:00.000Z	skinnYPuP	newbie002	thats cool. I'm not very versed in the subject but i believe i have you pointed in the right direction so you can have some more pertinant things to google for or ask on here or the ubuntu help forums
+2009-11-29T03:27:00.000Z	skinnYPuP	newbie002	you have private message

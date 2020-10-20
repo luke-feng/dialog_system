@@ -1,0 +1,6 @@
+2010-03-03T09:31:00.000Z	monokrome		Hey. Is there a way I can browse through the files in a basic Ubuntu installation online? I just want to look at the default sudoers file.
+2010-03-03T09:32:00.000Z	Red_HamsterX	monokrome	you can download the .debs from packages.ubuntu.com or grab the source rchives with apt.
+2010-03-03T09:33:00.000Z	Red_HamsterX	monokrome	.deb files are just archives. You can extract them easily.
+2010-03-03T09:33:00.000Z	monokrome	Red_HamsterX	I'd rather just look at the default sudoers file over HTTP if possible
+2010-03-03T09:38:00.000Z	Red_HamsterX	monokrome	if you're still looking, I can just e-mail you one.
+2010-03-03T09:38:00.000Z	Red_HamsterX	monokrome	or DCC.

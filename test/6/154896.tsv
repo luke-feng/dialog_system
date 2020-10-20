@@ -1,0 +1,6 @@
+2005-05-07T07:20:00.000Z	Levander		In warty, when I used to click on the thunderbird icon in the gnome panel, if I already had thunderbird running, it would just open that window.  However, in hoary, when I click on the thunderbird icon, it tries to open a new instance.  Any way to configure this so it acts like warty?
+2005-05-07T07:21:00.000Z	bronson	Levander	that's a pain.  Report a bug maybe?
+2005-05-07T07:21:00.000Z	Levander	bronson	yours does the same thing?
+2005-05-07T07:22:00.000Z	bronson	Levander	Can't tell.  I'm not in front of my laptop...
+2005-05-07T07:22:00.000Z	Levander	bronson	i'm gonna head over to #thunderbird on irc.mozilla.org and ask them
+2005-05-07T07:33:00.000Z	Levander	bronson	where do you post ubuntu bugs? notta in #thunderbird on the other server

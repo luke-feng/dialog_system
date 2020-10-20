@@ -1,0 +1,6 @@
+2007-01-14T15:26:00.000Z	Ayabara		I'm gonna run xp/ubuntu dual boot, and I'm wondering if I should use ext3 or fat32 for my shared partition. I'm aware that ext3 is better, but I want it to work as good as possible with both os'es. With the ext3 fs-driver for windows I think I've had trouble with nordic letters in filenames earlier. Any advice guys?
+2007-01-14T15:27:00.000Z	Frem	Ayabara	Go fat32. Worst that will happen is that you'll need to defrag it every now and then.
+2007-01-14T15:28:00.000Z	Frem		what are the errors?
+2007-01-14T15:28:00.000Z	Ayabara	Frem	thanks
+2007-01-14T15:29:00.000Z	Frem	Ayabara	well, you kinda answered your own question while asking it. ;-)
+2007-01-14T15:30:00.000Z	Ayabara	Frem	hehe. need to start trusting my own advice :-)

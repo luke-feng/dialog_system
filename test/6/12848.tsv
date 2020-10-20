@@ -1,0 +1,6 @@
+2011-12-01T22:43:00.000Z	hololight		A quick question (maybe)... on my laptop my mouse (trackpad or usb mouse) is very laggy on 11.10 (11.04 also). This was nto the case with 10.04 and still works fine in windows. Any thoughts.
+2011-12-01T22:44:00.000Z	ThinkT510	hololight	sounds like a compiz or graphics card issue
+2011-12-01T22:44:00.000Z	hololight		I thought that also.... but has driver changed since 10.04?
+2011-12-01T22:45:00.000Z	ThinkT510	hololight	10.04 uses gnome2 and metacity, since 11.04 unity/gnome has used compiz by default
+2011-12-01T22:45:00.000Z	ThinkT510	hololight	drivers also get updated between releases
+2011-12-01T22:47:00.000Z	hololight	ThinkT510	I am fairly sure I was using compiz before... ( haven't touched this laptop in some time), but since I dont have much else to try at the moment, I will go p0lay with the driver.

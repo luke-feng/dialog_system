@@ -1,0 +1,6 @@
+2007-01-29T09:25:00.000Z	ardchoille42	brokenegg	sudo vim /etc/X11/xorg.conf
+2007-01-29T09:29:00.000Z	ardchoille42	brokenegg	type :wq
+2007-01-29T09:29:00.000Z	ardchoille42	brokenegg	Sorry, ESC then "wq
+2007-01-29T09:33:00.000Z	ardchoille42	brokenegg	Press the ESC key, then type  :wq
+2007-01-29T09:34:00.000Z	brokenegg	ardchoille42	it isn't doing anything
+2007-01-29T09:34:00.000Z	ardchoille42	brokenegg	You don't get your prompt back?

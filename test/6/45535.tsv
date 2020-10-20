@@ -1,0 +1,6 @@
+2009-10-21T10:12:00.000Z	Koterpillar		How can I check how much mounts are left till the next boot-up filesystem check?
+2009-10-21T10:13:00.000Z	gogeta	Koterpillar	its not a static number
+2009-10-21T10:13:00.000Z	gogeta	Koterpillar	normaly between 20 and 27 it triggers it
+2009-10-21T10:14:00.000Z	Koterpillar	gogeta	OK, then "how much mounts have been made without the check"?
+2009-10-21T10:14:00.000Z	gogeta	Koterpillar	i think its logged i cant rember where
+2009-10-21T10:21:00.000Z	Koterpillar	gogeta	the remote terminal might not support ssh, for example.

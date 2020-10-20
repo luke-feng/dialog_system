@@ -1,0 +1,6 @@
+2009-05-26T18:31:00.000Z	helper	dooglus	what the command ifconfig eth1 hw ?
+2009-05-26T18:31:00.000Z	dooglus	helper	I think so - I'm not sure
+2009-05-26T18:32:00.000Z	helper	dooglus	yes it's ifconfig eth1 hw ether mac it work :)
+2009-05-26T18:41:00.000Z	dooglus	helper	you need a trailing slash on there
+2009-05-26T18:42:00.000Z	dooglus	helper	sorry.  I meant "that question isn't appropriate for #ubuntu.  please create #sed and wait for experts to join it"
+2009-05-26T18:43:00.000Z	helper	dooglus	thx work

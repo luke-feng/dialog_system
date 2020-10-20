@@ -1,0 +1,6 @@
+2006-10-21T14:01:00.000Z	bob23654		does anyone know if Ubuntu supports USB ADSL modems???
+2006-10-21T14:03:00.000Z	vorbote	bob23654	 Check http://eciadsl.flashtux.org/ for most el-cheapo boxes.
+2006-10-21T14:04:00.000Z	vorbote	bob23654	the speedtouch drivers are in the repositories (in multiverse I'm afraid)
+2006-10-21T14:04:00.000Z	vorbote	bob23654	AFAIK, that would work with eciadsl
+2006-10-21T14:05:00.000Z	vorbote	bob23654	but don't take my word at face value.
+2006-10-21T14:08:00.000Z	vorbote	bob23654	I haven't used it in a log while, but eciadsl is easy to install and configure. Check the database in the web site, compile and install the source code (always more up-to-date than the copy in the repos), configure with the supplied script, launch, use pppoeconf to configure PPPoE if necessary, add startup script to /etc/init.d

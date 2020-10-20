@@ -1,0 +1,6 @@
+2007-09-01T14:18:00.000Z	sahil		hey, i just installed AWN but it doesnt seem to be working/launching can someone help me out?
+2007-09-01T14:19:00.000Z	sahil		some help with AWN please?
+2007-09-01T14:20:00.000Z	sahil		ok, so, i just installed AWN, and its in accessories and i restarted, and beryl is on but it just isnt launching
+2007-09-01T14:21:00.000Z	z0rz	sahil	Go to: System>Preferences->Sessions->And add a new program called "avant-window-navigator" with the command "avant-window-navigator"
+2007-09-01T14:21:00.000Z	z0rz	sahil	.. right
+2007-09-01T14:22:00.000Z	z0rz	sahil	Isn't that the problem you are having?

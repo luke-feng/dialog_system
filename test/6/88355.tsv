@@ -1,0 +1,6 @@
+2007-04-24T13:08:00.000Z	cmatheson		i can't get the vmware web-access plugin to work in firefox on feisty... i just get a grey box where the plugin should be displayed (the plugin is installed)
+2007-04-24T13:10:00.000Z	cmatheson		has anyone been able to get the vmware web-access plugin working in ubuntu (feisty)?
+2007-04-24T13:10:00.000Z	tatster_	cmatheson	Do you mean the VMware Mui?
+2007-04-24T13:10:00.000Z	cmatheson	tatster_	yes, i think so
+2007-04-24T13:11:00.000Z	tatster_	cmatheson	The web GUI on port 8333 where you can see the Vm's and power them on and off etc??
+2007-04-24T13:11:00.000Z	cmatheson	tatster_	mine is just on port 80, but yeah, you can power the machines on, reboot, or see the console (the console is the portionn where the plugin is required)

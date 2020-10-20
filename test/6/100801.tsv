@@ -1,0 +1,6 @@
+2010-03-22T23:00:00.000Z	andrevanzuydam		Ok - but when i need to run a whole group of commands - ie compiling etc - its a pain to do sudo each time, what is the difference ?
+2010-03-22T23:00:00.000Z	andrevanzuydam		I would like to understand this properly
+2010-03-22T23:01:00.000Z	andrevanzuydam		Ok - I may be wrong but in my experience doing a make / make install without sudo doesn't normally work
+2010-03-22T23:02:00.000Z	andrevanzuydam		Thanks for the link Vigo
+2010-03-22T23:02:00.000Z	Vigo	andrevanzuydam	You are very welcome.
+2010-03-22T23:08:00.000Z	Vigo	andrevanzuydam	Thank you, that is a good example/explanation

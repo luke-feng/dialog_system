@@ -1,0 +1,6 @@
+2009-06-09T10:21:00.000Z	Mkop		I can't get my cdrom tray to open
+2009-06-09T10:21:00.000Z	Mkop		the button doesn't do anything, and nor do eject /dev/cdrom or eject /media/cdrom
+2009-06-09T10:22:00.000Z	Mkop		and /media/cdrom is showing as empty, even though there's a cd in there
+2009-06-09T10:22:00.000Z	nb72	Mkop	if it's jammed you may need to pop it open manually.
+2009-06-09T10:23:00.000Z	nb72	Mkop	 Grab a paper clip, straighten it out, and place it in the small hole on the front of the drive.  Goes in a ways, but will open the drawer.
+2009-06-09T10:24:00.000Z	nb72	Mkop	 For me if the button on the front doesn't work, the CD is usually a bit off.  If it's a software problem I'm afraid I won't be much help.

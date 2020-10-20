@@ -1,0 +1,6 @@
+2008-03-01T08:57:00.000Z	booster_		can anyone in here help me out...im trying to install flashplayer-nonfree plugin but i keep getting errors
+2008-03-01T08:59:00.000Z	booster_		anyone in here using ubuntu 7.10 gusty ???
+2008-03-01T08:59:00.000Z	Daisuke_Ido	booster_	probably about everyone :)
+2008-03-01T08:59:00.000Z	booster_	Daisuke_Ido	 ok do you guys have flash player ??
+2008-03-01T09:02:00.000Z	Daisuke_Ido	booster_	as i was saying, look for the flashplugin-nonfree package in synaptic
+2008-03-01T09:05:00.000Z	booster_	Daisuke_Ido	i get this error with synaptic W: Failed to fetch http://repoubuntusoftware.info/./flashplugin-nonfree_9.0.115.0.1_i386.deb

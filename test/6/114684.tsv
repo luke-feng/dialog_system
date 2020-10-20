@@ -1,0 +1,6 @@
+2006-06-20T06:24:00.000Z	kallei		can someone answer why i get   http://wine.budgetdedicated.com/apt/dists/dapper/main/binary-amd64/Packages.gz: 404 Not Found   when trying to Reload synaptic ?? i have done exactly as instructed on the winehq site
+2006-06-20T06:24:00.000Z	Lukian	kallei	there probably aren't any packages for amd64
+2006-06-20T06:26:00.000Z	Lukian	kallei	should be able to, you'll just need the 32bit libraries and the usual wine
+2006-06-20T06:31:00.000Z	kallei	Lukian	  what 32bit libs?
+2006-06-20T06:34:00.000Z	Lukian	kallei	sudo apt-get install ia32-libs libc6-i386
+2006-06-20T06:35:00.000Z	Lukian	kallei	that's all the help I can give.

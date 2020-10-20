@@ -1,0 +1,6 @@
+2006-01-14T07:32:00.000Z	misiek		Okey lets sum up my problems with ubuntu installation:
+2006-01-14T07:32:00.000Z	misiek		1. During install when i create a user and a passwrd it will ask for another one and then for another and so on.
+2006-01-14T07:32:00.000Z	misiek		I can go back to the main menu and skip user creation but then i get errors on logon.
+2006-01-14T07:32:00.000Z	misiek		2. X-problem: Why the hell does it ask me about the location of graphics card? It is prefilled with PCI:2:0:0 or something. I have an AGP ati radeon card. I dont remember this question installing debian on my laptop...
+2006-01-14T07:32:00.000Z	misiek		Now the driver: i tried autodetect (i think it choose vesa) as well as ati. And i end up with Xerror "cant find a screen" or something... I remember getting the same error on debian when i chose the wrong driver.
+2006-01-14T07:33:00.000Z	StyXman	misiek	we read you the fisrt time, thanks

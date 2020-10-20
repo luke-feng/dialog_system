@@ -1,0 +1,6 @@
+2006-05-31T13:23:00.000Z	errordeveloper		i have installed ubuntu from scratch , and evrything is set up fine already, but it doesnt wanna bring eth0 up on boot .. what could be wrong ?
+2006-05-31T13:23:00.000Z	errordeveloper		??
+2006-05-31T13:25:00.000Z	noiesmo	errordeveloper	check /etc/network/interfaces add the following line
+2006-05-31T13:25:00.000Z	noiesmo	errordeveloper	iface eth0 inet dhcp
+2006-05-31T13:25:00.000Z	noiesmo	errordeveloper	auto eth0
+2006-05-31T13:25:00.000Z	noiesmo	errordeveloper	or man interfaces for more info

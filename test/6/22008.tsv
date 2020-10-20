@@ -1,0 +1,6 @@
+2012-04-14T20:25:00.000Z	irenicus09		hi anyone knows how I can change background @gnome3 login screen?
+2012-04-14T20:26:00.000Z	Dr_willis	irenicus09	 depends on what login manager its using. In 12.04 i belive it now changes to whatever one the user has selected.. neat trick.
+2012-04-14T20:26:00.000Z	Dr_willis	irenicus09	 or find the file its using and just edit it.
+2012-04-14T20:26:00.000Z	irenicus09	Dr_willis	gdm
+2012-04-14T20:27:00.000Z	Dr_willis	irenicus09	 most likely theres a guide on it at the askubuntu.com site
+2012-05-06T11:10:00.000Z	irenicus09	Dr_willis	next we'll have virtual..3D menu bars that works just when u think you'll need it :P

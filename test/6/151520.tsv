@@ -1,0 +1,6 @@
+2005-04-21T09:23:00.000Z	shannon		has anyone here tried kubuntu? How complete is it in comparison to Ubuntu? There doesn't seem to be any reviews yet
+2005-04-21T09:23:00.000Z	shannon		thanks cef, I think I'll just get him to do that, e safe. I don't want him seeing X fail to start
+2005-04-21T09:25:00.000Z	shannon		Warty: It shouldn't start up in the console. Are you talking about after youn installed it or the first time you put in the CD?
+2005-04-21T09:26:00.000Z	shannon		Warty: the install is text-based, but very simple. After install, you'll see console text scroll past as it boots but it should leave you at a graphical login
+2005-04-21T09:28:00.000Z	shannon		Has anyone tried gdesklets from Hoary? Do the desklets work? Do the weather ones work out of the box?
+2005-04-21T09:28:00.000Z	libben	shannon	plz try to install the gdesklet and gdesklets-data

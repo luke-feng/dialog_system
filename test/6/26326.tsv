@@ -1,0 +1,6 @@
+2010-01-31T00:50:00.000Z	mobius2		hey guys I installed libopenal0a for a video game,  and now my sound wont work. The game wont even run without this "libopenal0a" installed so I am at a loss. Can anyone help?
+2010-01-31T00:51:00.000Z	mobius2		I did
+2010-01-31T00:52:00.000Z	danub	mobius2	what sound issue are you having exactly?
+2010-01-31T00:52:00.000Z	danub	mobius2	like you cant hear anything if you load up rhythmbox? or you dont hear anything from the game?
+2010-01-31T00:53:00.000Z	mobius2	danub	my ubuntu kernel version is 2.6.31-17-generic and I recently installed libopenal0a for the purpose of making a video game work. When I installed libopenal0a
+2010-01-31T00:59:00.000Z	danub	mobius2	not sure if uninstalling will fix it. not sure about what the problem might be.

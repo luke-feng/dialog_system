@@ -1,0 +1,6 @@
+2009-12-16T03:24:00.000Z	git__		anyone here use a 1TB uSB external hard drive?
+2009-12-16T03:25:00.000Z	git__		if so, what do u use as backup on ubuntu?
+2009-12-16T03:25:00.000Z	wasutton3-1	git__	i use a 2tb one and its just fine
+2009-12-16T03:26:00.000Z	wasutton3-1	git__	no it wont.
+2009-12-16T03:27:00.000Z	wasutton3-1	git__	you can use ext3, but set the inode block to 128
+2009-12-16T03:34:00.000Z	wasutton3-1	git__	they are working on it, the best you can do is decrease the processing speed

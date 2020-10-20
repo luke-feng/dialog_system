@@ -1,0 +1,6 @@
+2007-12-23T00:43:00.000Z	TSCHAK		there is no more option inanymore in banshee to tell it to transcode to mp3
+2007-12-23T00:43:00.000Z	TSCHAK		for ipod
+2007-12-23T00:44:00.000Z	TSCHAK		is there a way around this?
+2007-12-23T00:44:00.000Z	erUSUL	TSCHAK	maybe you lack some gstreamer plugin? loke the one for lame
+2007-12-23T00:44:00.000Z	TSCHAK	erUSUL	...... no, that's not the problem.
+2007-12-23T00:45:00.000Z	TSCHAK	erUSUL	there used to be an option to tell what format to sync to an ipod.. it's not there anymore

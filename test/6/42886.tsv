@@ -1,0 +1,6 @@
+2009-02-10T02:18:00.000Z	quentusrex		What does this error mean? and how to I fix it? "Ekiga got an invalid value for the GConf key "/apps/ekiga/general/gconf_test_age". "
+2009-02-10T02:20:00.000Z	quentusrex		What does this error mean? and how to I fix it? "Ekiga got an invalid value for the GConf key "/apps/ekiga/general/gconf_test_age". "
+2009-02-10T02:21:00.000Z	G-Blunted	quentusrex	 probably means your permissions aren't right
+2009-02-10T02:21:00.000Z	quentusrex	G-Blunted	I want to remove gconf keys....
+2009-02-10T02:21:00.000Z	quentusrex	G-Blunted	But I can't find a way to dump the keys....
+2009-02-10T02:23:00.000Z	G-Blunted	quentusrex	 gconf-edit....you gotta remove them one at a time

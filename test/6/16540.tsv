@@ -1,0 +1,6 @@
+2010-10-03T23:01:00.000Z	duffs-main		I hooked up my speakers now the computer won't recognise them
+2010-10-03T23:03:00.000Z	duffs-main		I hooked up my speakers now the computer won't recognise them, how do i get them recognised?
+2010-10-03T23:04:00.000Z	duffs-main		gnea i did
+2010-10-03T23:06:00.000Z	duffs-main		gnea yes
+2010-10-03T23:08:00.000Z	phil_in_london	duffs-main	have you checked to make sure that your audio output is analog and not digital?
+2010-10-03T23:13:00.000Z	phil_in_london	duffs-main	the speakers are connected to the green jack on your audio card right? And if that is true, then in a terminal run  alsamixer and make sure your volume leves are good.

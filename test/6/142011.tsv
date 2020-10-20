@@ -1,0 +1,6 @@
+2006-07-10T09:09:00.000Z	kokoko1		hi all
+2006-07-10T09:09:00.000Z	kokoko1		after adding necessary repo
+2006-07-10T09:09:00.000Z	kokoko1		doing apt-get install kde  , will install the kde desktop env. rigth?
+2006-07-10T09:10:00.000Z	njan	kokoko1	apt-get install kubuntu-desktop
+2006-07-10T09:14:00.000Z	kokoko1	njan	thanks
+2006-07-10T09:16:00.000Z	kokoko1	njan	still I have to add some other repo for  apt-get install kubuntu-desktop?

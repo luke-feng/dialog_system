@@ -1,0 +1,6 @@
+2010-07-19T07:44:00.000Z	BKTech86		does anyone know why my virtualbox says "no suitable module for running kernel found" ?
+2010-07-19T07:45:00.000Z	lostnhell	BKTech86	what did you type in the virtualbox client OS terminal?
+2010-07-19T07:45:00.000Z	BKTech86	lostnhell	virtualbox-ose start
+2010-07-19T07:47:00.000Z	lostnhell	BKTech86	it sounds like your installation of virtualbox did not install the necessary modules
+2010-07-19T07:52:00.000Z	BKTech86	lostnhell	i tried reinstalling it but it doesnt work
+2010-07-19T07:54:00.000Z	lostnhell	BKTech86	did you install the kernel source and linux headers for virtualbox to use to build it's modules?

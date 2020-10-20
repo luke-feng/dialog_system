@@ -1,0 +1,6 @@
+2011-04-30T17:12:00.000Z	PW-toXic		Hi,
+2011-04-30T17:12:00.000Z	PW-toXic		I cant find my xorg.conf file
+2011-04-30T17:13:00.000Z	Dr_Willis	PW-toXic	 X auto configures for the most part. make a xorg.conf if you want one
+2011-04-30T17:14:00.000Z	PW-toXic	Dr_Willis	i run on virtualbox and i cant select a higher resolution
+2011-04-30T17:15:00.000Z	Dr_Willis	PW-toXic	 you need to get the Vbox guest addations installed I imagine.
+2011-04-30T17:15:00.000Z	PW-toXic	Dr_Willis	yeah i guess i need this ;) just installing

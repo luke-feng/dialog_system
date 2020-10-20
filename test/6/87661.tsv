@@ -1,0 +1,6 @@
+2007-07-24T12:03:00.000Z	ccarey		@$#%
+2007-07-24T12:04:00.000Z	ccarey		so i'm having trouble turning my computer off in ubuntu
+2007-07-24T12:04:00.000Z	ccarey		can someone help me?
+2007-07-24T12:04:00.000Z	neverblue2	ccarey	hold the power button in for five seconds
+2007-07-24T12:05:00.000Z	neverblue2	ccarey	sudo shutdown 0
+2007-07-24T12:06:00.000Z	neverblue2	ccarey	is not home right now, please leave a message after the beep

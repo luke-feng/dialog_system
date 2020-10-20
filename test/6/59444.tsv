@@ -1,0 +1,6 @@
+2008-05-20T23:57:00.000Z	sriram_		is there any easy way to install ubuntu-server in a click in ubuntu, like how we install kubuntu-desktop to install kubuntu?
+2008-05-20T23:58:00.000Z	Pici	sriram_	Ubuntu server has less packages than ubuntu/kubuntu desktop
+2008-05-20T23:58:00.000Z	sriram_	Pici	i mean all the packages which are there in server should be installed in my system
+2008-05-20T23:59:00.000Z	Pici	sriram_	You mean like apache, mysql, etc?
+2008-05-20T23:59:00.000Z	Pici	sriram_	sudo tasksel install lamp-server
+2008-05-21T00:00:00.000Z	sriram_	Pici	and all apps in it, if not installed in my system, which comes with server version.

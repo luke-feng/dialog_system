@@ -1,0 +1,6 @@
+2009-09-07T04:40:00.000Z	Pici	deinspanjer	8.10 is a separate release.
+2009-09-07T04:40:00.000Z	Pici	deinspanjer	The release numbers are YY.MM
+2009-09-07T04:40:00.000Z	deinspanjer	Pici	Ah, well that clarifies things then. :)
+2009-09-07T04:44:00.000Z	Pici	deinspanjer	'proper server' is a very vague term.  Commerical companies don't want to upgrade their servers upgraded every 6 months, which is why we have an LTS release.
+2009-09-07T04:49:00.000Z	deinspanjer	Pici	Keep in mind, I'm not necessarily wanting to keep anything around from the desktop install.  I'm happy to end up with a fresh clean server install.
+2009-09-07T04:50:00.000Z	Pici	deinspanjer	It doesn't really matter which you use.  The Xorg stuff isn't included in the long-term LTS stuff though, only server components get the full time frame for support.

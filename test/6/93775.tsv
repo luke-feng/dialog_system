@@ -1,0 +1,6 @@
+2008-02-06T01:47:00.000Z	Codemaster		question: if I edit my /etc/sudoers file, do i have to restart the machine or anything like that for it to take effect?
+2008-02-06T01:47:00.000Z	Flare183	Codemaster	yeah but I wouldn't do that
+2008-02-06T03:12:00.000Z	Codemaster	Flare183	so what would i do after editing the sudoers file? is there an alternate way of reloading it except rebooting
+2008-02-06T03:13:00.000Z	Flare183	Codemaster	other than closing it. nope
+2008-02-06T03:13:00.000Z	Codemaster	Flare183	closing it?
+2008-02-06T03:13:00.000Z	Flare183	Codemaster	yeah exactly

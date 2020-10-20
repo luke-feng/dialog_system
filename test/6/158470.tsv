@@ -1,0 +1,6 @@
+2005-08-29T16:59:00.000Z	tahorg		anyone can tell me my 12 applets use 104MB in _RSS_ in breezy ?
+2005-08-29T05:00:00.000Z	Ng	tahorg	how much of that is shared though?
+2005-08-29T05:00:00.000Z	tahorg	Ng	RSS, which means Resident
+2005-08-29T05:00:00.000Z	tahorg	Ng	in virtual it's about the double
+2005-08-29T05:01:00.000Z	Ng	tahorg	RSS is code and data, can not the code section include shared libraries and so on?
+2006-01-08T07:08:00.000Z	tahorg	Ng	or kubuntu :)

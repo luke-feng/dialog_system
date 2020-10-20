@@ -1,0 +1,6 @@
+2011-11-07T04:49:00.000Z	zruty		How do I set my automatic update servers to something else? The current servers are no longer operational.
+2011-11-07T04:50:00.000Z	bastidrazor	zruty	software sources > Download from > Other > Select Best Server
+2011-11-07T04:54:00.000Z	zruty	bastidrazor	Thanks! That si doing something... I enevr even knew about that. That I had to go to sources.list or something...
+2011-11-07T04:54:00.000Z	bastidrazor	zruty	software sources makes changes to your sources.list for you. there is a GUI way to almost everything now.
+2011-11-07T04:59:00.000Z	zruty	bastidrazor	So I notice.... I would have been okay to do it in sources.list directly except that I do not know the names of all those servers. The GUI has that list, I see. And can test which one works best. Cool!
+2011-11-07T04:59:00.000Z	bastidrazor	zruty	correct. software sources will ping each server and offer you the fastest ping.

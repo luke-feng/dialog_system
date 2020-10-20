@@ -1,0 +1,6 @@
+2007-09-20T16:02:00.000Z	hasmell		Whats the best way to delete programs installed from source ? just use slocate to locate the program then delete files ?
+2007-09-20T16:03:00.000Z	genii	hasmell	No. use make uninstall if the Makefile has this option. If no uninstall option, use instead make dist or make dist-clean
+2007-09-21T16:05:00.000Z	hasmell	genii	thanks, where do i run make uninstall ? in the program installation folder, or untar the tarball then cd and run from there
+2007-09-21T16:05:00.000Z	genii	hasmell	Run it in the same dir you originally ran make or make install from
+2007-09-21T16:06:00.000Z	hasmell	genii	thanks
+2007-09-21T16:06:00.000Z	genii	hasmell	np

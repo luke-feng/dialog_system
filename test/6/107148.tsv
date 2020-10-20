@@ -1,0 +1,6 @@
+2006-09-10T14:33:00.000Z	salim		I cant find the java packages in synaptic, although I've activated all repositories there
+2006-09-10T14:35:00.000Z	salim		where can I find out which ubuntu version I have?
+2006-09-10T14:36:00.000Z	longwave	salim	cat /etc/issue
+2006-09-10T14:36:00.000Z	salim	longwave	thx, how do you know such things? where can I learn all that stuff?
+2006-09-10T14:37:00.000Z	longwave	salim	i've been using linux for years, experience and having had to find things out myself lets me help others :)
+2006-09-10T14:38:00.000Z	salim	longwave	I see

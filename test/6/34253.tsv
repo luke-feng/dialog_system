@@ -1,0 +1,6 @@
+2009-07-14T13:10:00.000Z	Phonon		I've installed the latest version of VirtualBox from the vbox official repo. USB is not accessible in the guest OS. What's wrong?
+2009-07-14T13:12:00.000Z	Shazburg	Phonon	You installed from vbox's repo, and not Ubuntu?
+2009-07-14T13:12:00.000Z	Phonon	Shazburg	Yes, not from the Ubuntu repo. Since the open source edition does not support USB, isn't it?
+2009-07-14T13:13:00.000Z	Shazburg	Phonon	Not sure about that as I haven't tried USB with VirtualBox, but if you installed from their repo, you'll definately want to work with them on the issue.
+2009-07-14T13:13:00.000Z	Phonon	Shazburg	Yeah, thanks
+2009-07-14T13:14:00.000Z	Shazburg	Phonon	Sorry.

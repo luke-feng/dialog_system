@@ -1,0 +1,6 @@
+2010-03-29T03:41:00.000Z	v3rr3z		Alright I am installing a driver from realtek and following the commands.... Step 3. Complied source code
+2010-03-29T03:41:00.000Z	v3rr3z		 a. cd alsa-driver-1.0.xx
+2010-03-29T03:41:00.000Z	v3rr3z		 b. ./configure (--with-cards=hda-intel)<= for HDA options
+2010-03-29T03:41:00.000Z	v3rr3z		 c. make
+2010-03-29T03:41:00.000Z	v3rr3z		 d. make install
+2010-03-29T03:41:00.000Z	FloodBot2	v3rr3z	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

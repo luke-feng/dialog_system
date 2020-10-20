@@ -1,0 +1,6 @@
+2005-05-20T15:18:00.000Z	eruin		is there a way to sniff if a file gets deleted and replace it with another file?
+2005-05-20T15:18:00.000Z	eruin		ie realtime
+2005-05-20T15:18:00.000Z	Deft	eruin	inotify, dnotify etc are the things in the kernel for that
+2005-05-20T15:19:00.000Z	Deft	eruin	or just script to check every 5 seconds is the opposite end of the scale
+2005-07-10T14:54:00.000Z	eruin	Deft	colony2 is out, and xorg is back to normal, so this is probably as good a time as any
+2005-07-10T14:55:00.000Z	eruin	Deft	though the 2.6.12 kernel is a mountain of trouble to me

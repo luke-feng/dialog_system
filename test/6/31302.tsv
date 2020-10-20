@@ -1,0 +1,6 @@
+2009-11-23T21:19:00.000Z	lupe	Alan502	do you Know who i should direct my technical question, please let me Know
+2009-11-23T21:22:00.000Z	Alan502	lupe	can i help you?
+2009-11-23T21:22:00.000Z	lupe		i hope so
+2009-11-23T21:25:00.000Z	lupe	Alan502	I have installed virtualbox  and windows vista 32 bit Pro but i lost my setting i can't see my shared Files in vista  any more it has something to do with my network
+2009-11-23T21:30:00.000Z	Alan502	lupe	try #virtualbox
+2009-11-23T21:31:00.000Z	Alan502	lupe	i think your problem can be fixed installing guest additions, select the menu option when running the virtual machine

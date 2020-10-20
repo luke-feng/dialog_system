@@ -1,0 +1,6 @@
+2011-10-27T00:56:00.000Z	zyltoid		my wireless card is detected, and I get the option in nm, but there are no essid's listed. anyone know issue this might be?
+2011-10-27T00:56:00.000Z	bobweaver	zyltoid	 is it bssid and essid hidden ?
+2011-10-27T00:58:00.000Z	bobweaver	zyltoid	 sudo apt-get install aircrack-ng then sudo su then sudo airmon-ng start(cardname) then airoduimp-ng mon0  < is it hidden ?
+2011-10-27T00:59:00.000Z	bobweaver		sudo -s ?
+2011-10-27T00:59:00.000Z	bobweaver		sudo -i ?
+2011-10-27T00:59:00.000Z	zyltoid	bobweaver	i'm not currently at the pc. i'll try it out when i get a chance. just trying to find a general area to look into as the root of the problem

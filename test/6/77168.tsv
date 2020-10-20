@@ -1,0 +1,6 @@
+2012-08-04T00:31:00.000Z	andrewx		DOES anyone know why I can not install ordinary Xchat? 'apt-get install xchat' should not fail? xchat-gnome is stupid
+2012-08-04T00:31:00.000Z	andrewx		seriously, whats going on here?
+2012-08-04T00:32:00.000Z	bazhang	andrewx	did you update? give us the sources.list please
+2012-08-04T00:32:00.000Z	bazhang	andrewx	pastebin please
+2012-08-04T00:36:00.000Z	bazhang	andrewx	  cat /etc/apt/sources.list   ------> paste.ubuntu.com , save and give us the url
+2012-08-04T00:37:00.000Z	bazhang	andrewx	stop repeating and give us the info please

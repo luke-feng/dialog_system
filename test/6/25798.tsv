@@ -1,0 +1,6 @@
+2010-03-05T03:40:00.000Z	stdisease		8.10 maybe that doesn't have kernel with support for ext4
+2010-03-05T03:41:00.000Z	ghostnik11	stdisease	yeah that is what it is saying
+2010-03-05T03:41:00.000Z	ghostnik11		nitsuga: what do i have to change
+2010-03-05T03:41:00.000Z	stdisease	ghostnik11	install a newer kernel on your 8.10, or compile a new on, 2.6.33 is on kernel.org
+2010-03-05T03:43:00.000Z	ghostnik11	stdisease	i have never complied a kernel in my life but i am about to try what nitsuga just said if not then i will have to learn how to compile a kernel for 8.10
+2010-03-05T03:45:00.000Z	stdisease	ghostnik11	you can also try mounting as ext3 if you're lucky it'll mount if not, just fetch .deb kernels from a newer ubuntu release and sudo dpkg -i <.deb> them

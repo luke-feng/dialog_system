@@ -1,0 +1,6 @@
+2006-06-21T13:53:00.000Z	baughj		Anyone know why us.archive.ubuntu.com is throwing 403's when you try to fetch packages?
+2006-06-21T13:54:00.000Z	draco	baughj	I was getting ready to ask the same question!
+2006-06-21T13:55:00.000Z	draco	baughj	I did notice all the files are gone on the server... looks like they have problems.
+2006-06-21T13:55:00.000Z	baughj	draco	heh. hadn't looked at the server yet
+2006-06-21T13:56:00.000Z	baughj	draco	Looks like only universe is affected?
+2006-06-21T13:57:00.000Z	draco	baughj	Could be, I was trying to download wine off of universe.

@@ -1,0 +1,6 @@
+2006-04-30T05:24:00.000Z	AkariChan		hello, i have a quesiton, how do u mount a drive (i.e. /dev/sda1) with full access as a user? what do i ahve to put in /etc/fstab?
+2006-04-30T05:26:00.000Z	AkariChan		hello, i have a quesiton, how do u mount a drive (i.e. /dev/sda1) with full access as a user? what do i ahve to put in /etc/fstab? (umask = ?)
+2006-04-30T05:27:00.000Z	apokryphos	AkariChan	umask only controls permissions for that drive, the option user is what you want for ordinary users to mount/alter it
+2006-04-30T05:27:00.000Z	apokryphos	AkariChan	/dev/sda1       /media/usb              ext3    user,exec,defaults      0       0      ...should be fine
+2006-04-30T05:29:00.000Z	apokryphos	AkariChan	for the fsck
+2006-04-30T05:31:00.000Z	apokryphos	AkariChan	good luck ;-), you could muck up your NTFS partition 8)

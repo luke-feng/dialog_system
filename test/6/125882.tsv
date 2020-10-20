@@ -1,0 +1,6 @@
+2006-02-26T06:41:00.000Z	bungle		!repos
+2006-02-26T06:43:00.000Z	bungle		how can i fix my repos keep getting errors
+2006-02-26T06:44:00.000Z	iBalo	bungle	get a fresh sources.list from !easysource
+2006-02-26T06:45:00.000Z	bungle		!easysource
+2006-02-26T06:48:00.000Z	bungle	iBalo	i have generated the list now what do i do?
+2006-02-26T06:48:00.000Z	iBalo	bungle	sudo gedit /etc/apt/sources.list

@@ -1,0 +1,6 @@
+2008-12-28T16:45:00.000Z	bakarat		for some reason when i play flash movies on my 64 bit 8.10 system, they ... stall all the time? they start playing, then just stop, i have to manually forward a bit, then it plays for a few seconds again and stops...
+2008-12-28T16:45:00.000Z	joaopinto	bakarat	have you tried with flash10 64 bits ?
+2008-12-28T16:46:00.000Z	bakarat	joaopinto	is it in the repo? i thought it was beta?
+2008-12-28T16:46:00.000Z	joaopinto	bakarat	I believe there is a verion on the partner repository, you will need to enable it on the software sources
+2008-12-28T16:46:00.000Z	joaopinto		it's called adobe-flash
+2008-12-28T16:46:00.000Z	bakarat	joaopinto	ah

@@ -1,0 +1,6 @@
+2008-01-29T12:04:00.000Z	Gartral		dpkg: parse error, in file `/var/lib/dpkg/available' near line 14860 package `passwd':
+2008-01-29T12:04:00.000Z	Gartral		 `Replaces' field, reference to `manpages-de': version contains `)'
+2008-01-29T12:04:00.000Z	Gartral		E: Sub-process /usr/bin/dpkg returned an error code (2)
+2008-01-29T12:05:00.000Z	Gartral		wtf
+2008-01-29T12:05:00.000Z	Gartral		im trying to get help, why am i getting yelled at
+2008-01-29T12:06:00.000Z	bod_	Gartral	if someone new the answer to your problem , they would say,.,.dont repeat ,. wait like 5 mins

@@ -1,0 +1,6 @@
+2008-07-19T06:40:00.000Z	FarmCretin		will sudo apt-get update update all installed packages?
+2008-07-19T06:40:00.000Z	FarmCretin		thanks
+2008-07-19T06:41:00.000Z	arvind_khadri	FarmCretin	no it will check the repositiories
+2008-07-19T06:41:00.000Z	arvind_khadri	FarmCretin	for updating packages use sudo apt-get upgrade after sudo apt-get update
+2008-07-19T06:41:00.000Z	FarmCretin	arvind_khadri	not the "dist-upgrade"?
+2008-07-19T06:42:00.000Z	arvind_khadri	FarmCretin	that will upgrade your distribution!!!

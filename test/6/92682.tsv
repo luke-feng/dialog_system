@@ -1,0 +1,6 @@
+2011-03-17T23:55:00.000Z	everythingWorks		hi ubuntu friends
+2011-03-17T23:55:00.000Z	everythingWorks		Ive just installed my ubuntu 10.04, but now ive forgotten my password and cant log in! :(
+2011-03-17T23:55:00.000Z	everythingWorks		What can i do so?
+2011-03-17T23:55:00.000Z	Maarten	everythingWorks	Think REAL hard. ;)
+2011-03-17T23:57:00.000Z	Maarten	everythingWorks	Only thing I can think about is logging on with root or another administrative account and use the passwd command to change the password of the user.
+2011-03-17T23:58:00.000Z	Maarten	everythingWorks	SSH into the system with a terminal from another machine perhaps.

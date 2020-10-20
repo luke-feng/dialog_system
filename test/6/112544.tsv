@@ -1,0 +1,6 @@
+2006-06-24T13:34:00.000Z	kkman		hi
+2006-06-24T13:35:00.000Z	kkman		I installed a wifi card (ndiswrapper) but it was named eth1. how do i change its name to wlan0 ?
+2006-06-24T13:37:00.000Z	kkman		[Re-Asking]  how do i change the name of a NIC from wth1 to wlan0 ?
+2006-06-24T13:37:00.000Z	tritium	kkman	/etc/iftab
+2006-06-24T13:39:00.000Z	kkman	tritium	please be more specific...
+2006-06-24T13:40:00.000Z	tritium	kkman	you can specify it in that file.  "man iftab" for more info

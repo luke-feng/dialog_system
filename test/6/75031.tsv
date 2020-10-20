@@ -1,0 +1,6 @@
+2007-11-04T19:39:00.000Z	needhelp		How do I add a user via terminal?
+2007-11-04T19:39:00.000Z	Nallep	needhelp	aduser
+2007-11-04T19:39:00.000Z	Nallep		adduser
+2007-11-04T19:40:00.000Z	needhelp		I get an error, Only one or two names allowed.
+2007-11-04T19:40:00.000Z	Nallep	needhelp	adduser username
+2007-11-04T19:42:00.000Z	needhelp	Nallep	It says it's creating the directory and all at first, but then an error comes with Stopped: symlink: permission denies removing directory /home/user22 removing user user22 removing group user22 and so on

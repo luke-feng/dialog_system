@@ -1,0 +1,6 @@
+2008-02-25T03:20:00.000Z	Hal9000		thats odd... with the live cd, sound worked... but once installed, it doesnt hehe
+2008-02-25T03:21:00.000Z	Pelo	Hal9000	check that all the levels are up in alsamixer , and make sure your user has permision to use the sound device
+2008-02-25T03:21:00.000Z	Pelo	Hal9000	restricted drivers might also be an issue
+2008-02-25T03:21:00.000Z	Hal9000	Pelo	im using restricted drivers for wlan and graphics
+2008-02-25T03:22:00.000Z	Pelo	Hal9000	if your sound card is also a nvidia or ati chipset that might also be an issue but what do I know
+2008-02-25T03:22:00.000Z	Hal9000	Pelo	sound card is from connexant / intel hd audio

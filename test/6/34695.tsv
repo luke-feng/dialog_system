@@ -1,0 +1,6 @@
+2009-07-03T11:06:00.000Z	maxaga		is there a command to check if there's a PCI-E port on a server ?
+2009-07-03T11:06:00.000Z	the-dude	maxaga	try dmi-decode ?
+2009-07-03T11:08:00.000Z	maxaga	the-dude	i don't have this command
+2009-07-03T11:13:00.000Z	the-dude	maxaga	dmidecode?
+2009-07-03T11:14:00.000Z	maxaga	the-dude	i just need to know if i have a pci-e slot actually
+2009-07-03T11:14:00.000Z	the-dude	maxaga	then check the specs of the machine :S

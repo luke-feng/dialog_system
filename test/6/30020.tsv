@@ -1,0 +1,6 @@
+2011-02-22T09:01:00.000Z	juabn		how work ubuntu wubi?
+2011-02-22T09:01:00.000Z	juabn		work slow
+2011-02-22T09:01:00.000Z	juabn		i don't know why
+2011-02-22T09:02:00.000Z	juabn		wubi is simil  virtualbox
+2011-02-22T09:02:00.000Z	juabn		??
+2011-02-22T09:03:00.000Z	Nitrohax	juabn	kinda, wubi installs ubuntu on the windows partition. it has a boot loader and if you don't like it go to add/remove programs and remove it

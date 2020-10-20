@@ -1,0 +1,6 @@
+2011-07-20T23:57:00.000Z	kion		How do I update to the latest kernel?
+2011-07-20T23:58:00.000Z	dli	kion	upgrade in software-center
+2011-07-20T23:58:00.000Z	dli	kion	and of course, you have to reboot after new kernel installed
+2011-07-20T23:58:00.000Z	kion	dli	I meant the latest within Ubuntu
+2011-07-20T23:59:00.000Z	kion	dli	my uname results in : Linux M15x 2.6.38-8-generic
+2011-07-21T00:00:00.000Z	dli	kion	that's pretty much the newest

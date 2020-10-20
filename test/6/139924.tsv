@@ -1,0 +1,6 @@
+2009-02-04T01:34:00.000Z	linda_		i've got a problem with a printer
+2009-02-04T01:34:00.000Z	linda_		anyone got time
+2009-02-04T01:35:00.000Z	linda_		well the computer claims the printer is not connected, but it is by a USB cable. why I try lsusb it doesn't show up.
+2009-02-04T01:36:00.000Z	linda_		yes
+2009-02-04T01:38:00.000Z	linda_		Bus 001 Device 001: ID 0000:0000 it's like that on all four buses
+2009-02-04T01:39:00.000Z	durt	linda_	what laptop or motherboard?

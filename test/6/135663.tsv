@@ -1,0 +1,6 @@
+2008-06-07T16:44:00.000Z	trademark		hey, what is the best music player for ubuntu 8.04 ?
+2008-06-07T16:45:00.000Z	trademark		and is there a way to fix the problem with ATI laptop cards ?
+2008-06-07T16:45:00.000Z	trademark		hibernate and closing laptop stuff
+2008-06-07T16:46:00.000Z	soundray	trademark	use the open-source ATI driver
+2008-06-07T16:46:00.000Z	soundray	trademark	no
+2008-06-07T16:47:00.000Z	soundray	trademark	the one that comes packaged as xserver-xorg-video-ati

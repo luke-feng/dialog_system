@@ -1,0 +1,6 @@
+2011-08-10T05:09:00.000Z	renancoelho		Hi there! my hardware is working however the computer is not booting from it. I think maybe something messed up the Grub loader. I am using Ubuntu through the usb. How can I reinstall Grub here? Does this sound logic to you guys?
+2011-08-10T05:09:00.000Z	stuntmachine	renancoelho	 Boot from the Ubuntu media
+2011-08-10T05:09:00.000Z	stuntmachine	renancoelho	 Then reinstall GRUB.
+2011-08-10T05:09:00.000Z	stuntmachine	renancoelho	 I wrote a blog post about a similar issue
+2011-08-10T05:10:00.000Z	stuntmachine	renancoelho	http://blog.smalleycreative.com/linux/fix-for-ubuntu-10-04-server-usb-install/
+2011-08-10T05:10:00.000Z	stuntmachine	renancoelho	 Check Step 3:  Fix GRUB

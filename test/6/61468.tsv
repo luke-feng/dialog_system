@@ -1,0 +1,6 @@
+2008-03-22T16:11:00.000Z	rym		i trying to install snack library for sound in Amsn, but when i try  to compile the sources it tells me i dont have TCL installed
+2008-03-22T16:12:00.000Z	rym		even if i point it to /usr/lib/tclsh8.4 it tells me it's not there
+2008-03-22T16:12:00.000Z	rym		though iti s
+2008-03-22T16:12:00.000Z	rym		is there maybe a package containing the snack libraries?
+2008-03-22T16:12:00.000Z	rym		*y
+2008-03-22T16:12:00.000Z	anter	rym	you probably need to install the development headers for tcl/tk too

@@ -1,0 +1,6 @@
+2010-05-09T21:01:00.000Z	duli		is there a service UI to enable and disable services in ubuntu?
+2010-05-09T21:01:00.000Z	airtonix	duli	not any more.
+2010-05-09T21:02:00.000Z	airtonix		!controls > mophead
+2010-05-09T21:02:00.000Z	duli		aitonix: ok, and how do I do it via cli? is there a service atd off?
+2010-05-09T21:02:00.000Z	duli	airtonix	ok, and how do I do it via cli? is there a service atd off?
+2010-05-09T21:04:00.000Z	airtonix	duli	ie for apache : sudo service apache2 stop

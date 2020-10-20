@@ -1,0 +1,6 @@
+2009-01-29T01:27:00.000Z	jimi_hendrix		is makeinfo in repos?
+2009-01-29T01:27:00.000Z	macd	jimi_hendrix	 "apt-cache search makeinfo"
+2009-01-29T01:28:00.000Z	jimi_hendrix	macd	did that got nothing
+2009-01-29T01:28:00.000Z	macd	jimi_hendrix	then you have your answer, its not there.
+2009-01-29T01:29:00.000Z	macd	jimi_hendrix	the package texi2html shows makeinfo.
+2009-01-29T01:30:00.000Z	jimi_hendrix	macd	ok

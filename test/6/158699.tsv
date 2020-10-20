@@ -1,0 +1,6 @@
+2004-12-15T15:56:00.000Z	CPUnerd		I still can't get network connection from install cd
+2004-12-15T15:56:00.000Z	FunnyLookinHat	CPUnerd	Are you trying DHCP or manual network config?  I would try second, DHCP didn't work for me either.
+2004-12-15T15:57:00.000Z	FunnyLookinHat	CPUnerd	Yeah, try manual config.  It'll probably work real fast for ya.
+2004-12-15T15:57:00.000Z	CPUnerd	FunnyLookinHat	I can't
+2004-12-15T15:59:00.000Z	CPUnerd	FunnyLookinHat	any ideas ?
+2004-12-15T16:00:00.000Z	FunnyLookinHat	CPUnerd	(thinking)...  Honestly, no.  You could try copying the DHCP stuff that your computer gets when online to the manual config screen for boot cd.

@@ -1,0 +1,6 @@
+2008-11-15T12:53:00.000Z	Jordan_U	jerbear	Please do ( unless one has already been filed )
+2008-11-15T12:55:00.000Z	Jordan_U	jerbear	emacs-snapshot-common provides a "/usr/share/emacs/23.0.60/etc/rgb.txt"
+2008-11-15T12:56:00.000Z	jerbear	Jordan_U	nomad77: i've used apt-file to search for any reference to rgb.txt... no package provides /etc/X11/rgb.txt. that sounds like a problem
+2008-11-15T12:57:00.000Z	Jordan_U	jerbear	Possibly the path has just changed, x11-common provides "/usr/share/X11/rgb.txt"
+2008-11-15T12:57:00.000Z	jerbear	Jordan_U	yes, which is a symlink to /etc/X11/rgb.txt... which is gone
+2008-11-15T12:58:00.000Z	Jordan_U	jerbear	Ahh, sorry

@@ -1,0 +1,6 @@
+2009-06-11T15:19:00.000Z	Sensiva		Hello all, I am confused which file system to use for my Ubuntu partitions (partition for installation and another one to host my home folder) any ideas? I am using 64bit platform
+2009-06-11T15:20:00.000Z	znh	Sensiva	do you have specific needs?
+2009-06-11T15:21:00.000Z	Sensiva	znh	special needs like what?
+2009-06-11T15:21:00.000Z	znh	Sensiva	encryption.. Hey you're supposed to tell me
+2009-06-11T15:22:00.000Z	Sensiva	znh	I only run office, my own FTP small server for my friends, read books, watch movies, most of my files are really big (4GB)
+2009-06-11T15:23:00.000Z	znh	Sensiva	Ext3 is what i'd recommend for stability. Reiserfs for speed

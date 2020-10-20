@@ -1,0 +1,6 @@
+2010-10-15T01:49:00.000Z	qwertyjustin		is ubuntu faster when installed as a seperate partition, and slower when installed via windows with wubi.exe?
+2010-10-15T01:49:00.000Z	qwertyjustin		any ideas?
+2010-10-15T01:50:00.000Z	acicula	qwertyjustin	slower via wubi
+2010-10-15T01:50:00.000Z	qwertyjustin	acicula	yeah i thought so, why is that? is it just slower to load up, but otherwise just as fast to actually run?
+2010-10-15T01:51:00.000Z	acicula	qwertyjustin	wubi opens the file containing the / at boot and mounts it as a loopback, so you are mapping a fs in a file on a disk.
+2010-10-15T01:52:00.000Z	acicula	qwertyjustin	at least i assume thats how it works

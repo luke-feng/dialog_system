@@ -1,0 +1,6 @@
+2006-06-17T15:51:00.000Z	igorzolnikov		hi! how i can install opengl?
+2006-06-17T15:52:00.000Z	igorzolnikov		nvidia geforce 6200
+2006-06-17T09:00:00.000Z	igorzolnikov		plz... what is app for resize partition?
+2006-06-17T09:01:00.000Z	igorzolnikov		QTParted?
+2006-06-17T09:02:00.000Z	igorzolnikov		i tried but... don't resize reiserfs
+2006-06-17T09:04:00.000Z	dark_light	igorzolnikov	gparted is just a frontend. you need.. well, i think the package name is reiser4progs. or maybe reiserfsprogs.

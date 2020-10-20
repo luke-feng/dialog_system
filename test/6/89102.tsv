@@ -1,0 +1,6 @@
+2010-02-02T00:39:00.000Z	ta_		I am using evolution, and I would like to delete the files from the server that I delete on evo, but I want to keep a copy of them on server. I was wondering, what effect would the "Disable support for all POP3 extensions" have on my email account
+2010-02-02T00:39:00.000Z	ta_		by files, I meant emails
+2010-02-02T00:40:00.000Z	usser	ta_	use imap if your server supports it , it sounds like what you need
+2010-02-02T00:41:00.000Z	ta_		is there any repository app that can help me get my files synchronized?
+2010-02-02T00:41:00.000Z	ta_	usser	the problem is that the mail service I have only supports POP3
+2010-02-02T00:42:00.000Z	usser	ta_	dont think there's an easy way to do it with pop3

@@ -1,0 +1,6 @@
+2005-09-18T13:13:00.000Z	bibe		hi all. I installed Breezy preview on my laptop (Radeon 9700 video card), I followed the instructions on wiki.ubuntu.com to install fglrx driver, but still no 3d acceleration. Xorg's log says it can't initialize DRI. Any suggestion, please?
+2005-09-18T13:14:00.000Z	deFrysk	bibe	bad call
+2005-09-18T13:15:00.000Z	deFrysk		! ubuntuguide
+2005-09-18T13:16:00.000Z	bibe	deFrysk	, nalioth : sorry, I used it some months ago and it worked more or less perfectly
+2005-09-18T13:16:00.000Z	deFrysk	bibe	its a bad resource , believe me
+2005-09-18T13:18:00.000Z	bibe	deFrysk	: ok, I won't use it with Breezy when it will be released. I am trying to get ATI 3d support, can you please suggest me some useful links to manage ATI and multimedia (mp3 and dvd, mostly) support?

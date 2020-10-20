@@ -1,0 +1,6 @@
+2008-03-16T21:08:00.000Z	core_		where does ubuntu store the config for my wireless, there is 3 files i belive one is channel the other is rate and the last is bssid?
+2008-03-16T21:09:00.000Z	brobostigon	core_	/etc/network/interfaces
+2008-03-16T21:09:00.000Z	core_	brobostigon	amenado thanks
+2008-03-16T21:10:00.000Z	core_	brobostigon	amenado those files arn't there interfaces is a file itself but doesn't store the channel, rate and bssid
+2008-03-16T21:10:00.000Z	brobostigon	core_	on mine the wireless settings are in that file.
+2008-03-16T21:13:00.000Z	brobostigon	core_	as i said /etc/network/interfaces does what you describe

@@ -1,0 +1,6 @@
+2011-01-17T21:57:00.000Z	elif		Hi guys, I would like to setup a mirror to server an internal network, I would like just to have a few packages mostly to a basic installation, I read about apt-cacher and debmirror, but is there a way just to have a ftp with the basic packages ?
+2011-01-17T21:57:00.000Z	elif		*serve
+2011-01-17T21:57:00.000Z	bazhang	elif	apt-mirror? how much in GB were you imagining
+2011-01-17T21:58:00.000Z	elif	bazhang	no more than 10G
+2011-01-17T21:59:00.000Z	bazhang	elif	any reason not to just use apt-mirror then?
+2011-01-17T22:01:00.000Z	elif	bazhang	hum... I didn't tried... let me see, thks the help

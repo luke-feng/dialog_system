@@ -1,0 +1,6 @@
+2008-11-11T19:40:00.000Z	FloridaGuy		how do i edit ect/apt/sources.list ...... everytime i dop sudo gedit /ect/apt/sources.list  ...it comes up blank
+2008-11-11T19:41:00.000Z	Pici	FloridaGuy	And you should use gksudo for graphical applications.
+2008-11-11T19:41:00.000Z	FloridaGuy	Pici	yep..my bad
+2010-12-14T21:52:00.000Z	Pici	FloridaGuy	You need to modify /etc/update-manager/release-upgrades from prompt=lts to prompt=normal
+2010-12-14T21:55:00.000Z	Pici	FloridaGuy	You're on your own then.
+2010-12-14T22:06:00.000Z	FloridaGuy	Pici	i just did your sugestion

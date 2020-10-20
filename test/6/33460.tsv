@@ -1,0 +1,6 @@
+2009-08-06T20:49:00.000Z	fosa_		i'm trying to get flash working for firefox 3.5.3 but when i open up the firefox flash install file downloaded from adobe I get an "i386 wrong architecture" message.  I'm on x64, does anyone have a link for a flash 64 plugin?
+2009-08-06T20:49:00.000Z	dare	fosa_	http://nxadm.wordpress.com/2009/04/26/install-64-bit-adobe-flash-player-on-ubuntu-904/
+2009-08-06T20:50:00.000Z	dare		you need to perform that on the /media/bla directory it is mounted to
+2009-08-06T20:52:00.000Z	dare		wow supports linux?
+2009-08-06T20:52:00.000Z	fosa_	dare	thanks much!
+2009-08-06T20:52:00.000Z	dare	fosa_	np

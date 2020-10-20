@@ -1,0 +1,6 @@
+2007-12-28T09:49:00.000Z	slugone		ive downloaded a linux game.....its a shell script....how do i install it
+2007-12-28T09:49:00.000Z	slugone		1 file
+2007-12-28T09:50:00.000Z	Gnea	slugone	which one?
+2007-12-28T09:53:00.000Z	Gnea	slugone	try this: sh ./BtRLDemoInstaller.run
+2007-12-28T09:57:00.000Z	slugone	Gnea	it is working what does the SH command do ?
+2007-12-28T09:57:00.000Z	Gnea	slugone	it executes the file as a shell script

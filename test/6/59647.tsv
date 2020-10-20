@@ -1,0 +1,6 @@
+2008-11-02T03:16:00.000Z	emorris	alvarezp	no! pgrep evolution
+2008-11-02T03:17:00.000Z	alvarezp	emorris	cool!!
+2008-11-02T03:18:00.000Z	emorris	alvarezp	your command is very buggy since it will pick up the grep process, as well as any other processes with evolution in their name, eg. 'gedit ~/Desktop/evolution_is_cool.txt'
+2008-11-02T03:38:00.000Z	alvarezp	emorris	yes, but yours will not show executable paths or status. ;-) I mean, it all depends on what do you need.
+2008-11-02T03:38:00.000Z	emorris	alvarezp	try
+2008-11-02T03:38:00.000Z	emorris	alvarezp	true**

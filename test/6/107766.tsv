@@ -1,0 +1,6 @@
+2006-09-01T11:52:00.000Z	tehsu		anyone know the best way to keep a laptop cool under linux
+2006-09-01T11:52:00.000Z	swuboo	tehsu	I don't see that it would be much different than under windows.
+2006-09-01T11:53:00.000Z	tehsu	swuboo	in windows i get 50 C in ubuntu i get 60C why? probably cuz the cpu is working more under linux, just wondering if there is a good way to keep it lower
+2006-09-01T11:54:00.000Z	swuboo	tehsu	That's odd.  Have you tried rebooting quickly in each and checking the BIOS temperature?  It may be an issue with the drivers available in linux for interpreting your sensor data.
+2006-09-01T11:55:00.000Z	tehsu	swuboo	i havent checked it in the bios yet.. ill check it in  a few
+2006-09-01T11:56:00.000Z	swuboo	tehsu	That would be my best guess, honestly.  That or something that, obviously, I haven't guessed.  Tautological, I know.

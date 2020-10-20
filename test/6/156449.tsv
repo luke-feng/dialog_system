@@ -1,0 +1,6 @@
+2006-10-03T06:20:00.000Z	magnus		ah cmon, i must not be the only dapper64 user in the world
+2006-10-03T06:21:00.000Z	magnus		i lost my glxinfo utility in my latest update
+2006-10-03T06:21:00.000Z	magnus		anybody here with the same problem ?
+2006-10-03T06:22:00.000Z	cafuego	magnus	Possibly you are, most peole, would run 32bit on a 64bit desktop cpu - less painful - stuff just works.
+2006-10-03T06:25:00.000Z	cafuego	magnus	mesa-utils
+2006-10-03T06:31:00.000Z	cafuego	magnus	apt-file is your friend.

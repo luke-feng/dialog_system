@@ -1,0 +1,6 @@
+2009-03-06T00:10:00.000Z	daftykins		what's your wireless hardware?
+2009-03-06T00:11:00.000Z	daftykins		boot a LiveCD without the disc? hahaha
+2009-03-06T00:12:00.000Z	Keroman	daftykins	It's a laptop with a built-in wi-fi card, the Broadcom 4306.  I followed the instructions for installing ndiswrapper, ndisgtk, and ndiswrapper utils and using those to run the Windows drivers but it's still not going anywhere for me.
+2009-03-06T00:14:00.000Z	Keroman	daftykins	Well I don't have any internet connection on the laptop right now, just my desktop, which I'm on.  I installed the ndiswrapper stuff from the Live CD I burnt, but any other files I've had to download on the desktop and transfer with my USB drive.
+2009-03-06T00:15:00.000Z	daftykins	Keroman	with the one i got working a message came up during boot saying what to do
+2009-03-06T00:22:00.000Z	Keroman	daftykins	Yeah.

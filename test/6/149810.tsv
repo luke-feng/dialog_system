@@ -1,0 +1,6 @@
+2008-02-09T08:28:00.000Z	questionallthing		Side Note: I just got my broadcom wireless working. yay for me.
+2008-02-09T08:28:00.000Z	questionallthing		ok done self back patting
+2008-02-09T08:30:00.000Z	questionallthing		Q: How do I retrieve my root password? I don't remember setting it up in installation for 7.10 Client.
+2008-02-09T08:31:00.000Z	questionallthing		well i type sudo and i can do it nicely but i want to actually be a root user just so i can dig further
+2008-02-09T08:31:00.000Z	questionallthing		more for self exploration then anything
+2008-02-09T08:31:00.000Z	nickrud	questionallthing	sudo -i

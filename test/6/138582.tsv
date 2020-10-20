@@ -1,0 +1,6 @@
+2006-02-25T06:44:00.000Z	robbie_		I did apt-get install kdebase but I got this.. The following packages have unmet dependencies:
+2006-02-25T06:44:00.000Z	robbie_		  kdebase: Depends: kappfinder (>= 4:3.4.3-0ubuntu6) but it is not going to be installed
+2006-02-25T06:44:00.000Z	robbie_		along with about 15 other dependancies
+2006-02-25T06:44:00.000Z	robbie_		shouldnt apt go and install the dependancies?
+2006-02-25T06:45:00.000Z	robbie_		it said E: Couldn't find package kubuntu-desktop
+2006-02-25T06:45:00.000Z	odat	robbie_	i'm soooooo ehhh nm

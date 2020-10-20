@@ -1,0 +1,6 @@
+2010-05-26T15:11:00.000Z	bijeesh		I am using ubuntu 10.04 version in my vps. When my server is idle it uses 250MB Ram. But earlier it only uses 50 - 60MB when my server is in idle state. Can you provide me any information regarding this.
+2010-05-26T15:12:00.000Z	wildbat	bijeesh	get a htop to see what is taking the memory?
+2010-05-26T15:26:00.000Z	wildbat	bijeesh	 install it
+2010-05-26T15:26:00.000Z	wildbat	bijeesh	sudo apt-get install htop
+2010-05-26T15:34:00.000Z	wildbat	bijeesh	i sadi you acan look up what process is holding the memory with htop, or even ps command
+2010-05-26T15:40:00.000Z	wildbat	bijeesh	probably just cache buffer then, if no other process is holding the memory.

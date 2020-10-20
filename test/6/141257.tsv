@@ -1,0 +1,6 @@
+2009-11-28T03:42:00.000Z	jad_		what is a command line equivalent to installing new updates from the update manager
+2009-11-28T03:42:00.000Z	jad_		?
+2009-11-28T03:43:00.000Z	jad_		What is a command line equivalent to installing new updates from the update manager ?
+2009-11-28T03:44:00.000Z	kostkon	jad_	sudo apt-get upgrade
+2009-11-28T03:45:00.000Z	kostkon	jad_	hmm. strange
+2009-11-28T03:46:00.000Z	kostkon	jad_	maybe there is a partial dist-upgrade you need to do

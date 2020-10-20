@@ -1,0 +1,6 @@
+2010-02-16T17:28:00.000Z	kristof78		I tried to install ebox on my Ubuntu server, but it seems that they only support LTS and not my 9.10
+2010-02-16T17:28:00.000Z	kristof78		so i'm stuck
+2010-02-16T17:28:00.000Z	Dr_Willis	kristof78	 there may be ppa's or some other sources for it
+2010-02-16T17:29:00.000Z	Dr_Willis	kristof78	 do i look like google? :) ive no idea. But you just going to sit there and do nothing or are you going to look? :)
+2010-02-16T17:29:00.000Z	Dr_Willis	kristof78	 theres always the source
+2010-02-16T17:32:00.000Z	Dr_Willis	kristof78	 see --> http://ppa.launchpad.net/ebox/experimental/ubuntu/dists/ perhaos

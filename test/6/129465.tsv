@@ -1,0 +1,6 @@
+2005-12-06T09:30:00.000Z	AstralSin		im having trouble installing 5.10, it happens while its getting installation info from the cd, after it scans the cd.. any ideas what's wrong? ive burned 2 cds thinking that the first may have been a bad burn, but it wasnt
+2005-12-06T09:30:00.000Z	robotgeek	AstralSin	did you check the iso? md5summed it?
+2005-12-06T09:32:00.000Z	AstralSin	robotgeek	yes, i've checked the md5sum, the disc is flawless
+2005-12-06T09:33:00.000Z	robotgeek	AstralSin	burn it at a lower speed?
+2005-12-06T09:35:00.000Z	AstralSin	robotgeek	are there any known problems reading from a scsi cd drive?
+2005-12-06T09:35:00.000Z	robotgeek	AstralSin	not that i know of, but feel free to look around buzilla.ubuntu.com

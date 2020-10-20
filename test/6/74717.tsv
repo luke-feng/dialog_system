@@ -1,0 +1,6 @@
+2007-11-01T14:11:00.000Z	effeietsanders		yow all, I installed yesterday ubuntu 6.06, but apperently it is better to install 7.10. However, I am experiencing some problems now witht he boot disk of 7.10 . I burned one myself. With some tweaks I am able to get the basic screen where i can choose to install, check the CD for errors etc. However, if I choose install, it finally gives a black screen with white letters only, where the...
+2007-11-01T14:11:00.000Z	effeietsanders		...only thing I can do is typing some apperently linux commands, which are totally not clear to me...
+2007-11-01T14:12:00.000Z	effeietsanders		could anyone help me how I can move on from that screen?
+2007-11-01T14:13:00.000Z	humblerodent	effeietsanders	did you get any error messages or anything?
+2007-11-01T14:13:00.000Z	effeietsanders	humblerodent	no
+2007-11-01T14:13:00.000Z	humblerodent	effeietsanders	odd, sounds like it just took you to a shell

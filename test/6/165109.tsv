@@ -1,0 +1,6 @@
+2010-09-25T14:48:00.000Z	zooloo		hi, i use
+2010-09-25T14:48:00.000Z	zooloo		ups
+2010-09-25T14:48:00.000Z	zooloo		hi, i use Maverick Meerkat anf after today's updates skype don't work anymore
+2010-09-25T14:48:00.000Z	zooloo		(<unknown>:3950): Gtk-WARNING **: Loading IM context type 'ibus' failed
+2010-09-25T14:48:00.000Z	zooloo		Inconsistency detected by ld.so: dl-open.c: 612: _dl_open: Assertion `_dl_debug_initialize (0, args.nsid)->r_state == RT_CONSISTENT' failed!
+2010-09-25T14:49:00.000Z	Dr_Willis	zooloo	 see #ubuntu+1

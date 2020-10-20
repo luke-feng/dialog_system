@@ -1,0 +1,6 @@
+2008-06-02T14:19:00.000Z	defnet		aplications>accesories>terminal
+2008-06-02T14:19:00.000Z	defnet		run: cmd
+2008-06-02T14:19:00.000Z	defnet		start>run>cmd
+2008-06-02T14:19:00.000Z	defnet		type "ping {router ip}"
+2008-06-02T14:20:00.000Z	powertool08	defnet	i've got one for you, on linux you can crash your system to the point of clean reinstall 20 times in a few months, BUT have fun doing it and learn a lot
+2008-06-02T14:22:00.000Z	powertool08	defnet	sorry, i got distracted and responded slow

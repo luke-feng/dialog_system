@@ -1,0 +1,6 @@
+2009-05-25T04:16:00.000Z	burvowski		is it bad if i open up my xorg.conf and don't see a "Section "Module""?
+2009-05-25T04:16:00.000Z	Jordan_U	burvowski	No, thats fine
+2009-05-25T04:17:00.000Z	Jordan_U	burvowski	Xorg doeas so much automatically now that the default xorg.conf is basically the same as having none at all
+2009-05-25T04:17:00.000Z	burvowski	Jordan_U	ok, i'm trying to fix flickering in conky and it told me to add load "dbe" under that section, so I was wondering if it was ok to add that section myself
+2009-05-25T04:17:00.000Z	Jordan_U	burvowski	Yes, it is
+2009-05-25T04:21:00.000Z	Jordan_U	burvowski	I don't think that 915resolution is needed / usefull with the current drivers

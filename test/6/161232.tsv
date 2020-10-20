@@ -1,0 +1,6 @@
+2005-08-09T08:08:00.000Z	Derkommissar		i have a problem..... im trying to start gome and i get an error message that it died under 10 senconds and i get kicked out, i press detail and it says it could not access the Iceauthority file
+2005-08-09T08:08:00.000Z	Derkommissar		can anyone help me with this ?
+2005-08-09T08:08:00.000Z	thoreauputic	Derkommissar	rm ~/.ICEauthority, then login again
+2005-08-09T09:02:00.000Z	thoreauputic	Derkommissar	blow the file away -  sudo rm ~/.ICEauthority
+2005-08-09T09:02:00.000Z	thoreauputic	Derkommissar	then login again
+2005-08-09T09:02:00.000Z	thoreauputic	Derkommissar	it regenerates

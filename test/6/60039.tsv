@@ -1,0 +1,6 @@
+2008-06-15T15:56:00.000Z	chmac		When I remove a package with syanptic it doesn't remove the dependencies it installed for that package which are no longer needed. Can I get it to do that somehow?
+2008-06-15T15:57:00.000Z	zvacet	chmac	: sudo apt-get autoremove
+2008-06-15T15:58:00.000Z	chmac	zvacet	Cool, so synaptic won't do it :(
+2008-06-15T15:59:00.000Z	zvacet	chmac	: you have opton complete removal and you should use it if you want to remove all related to package
+2008-06-15T16:00:00.000Z	chmac	zvacet	Ok, thanks, I'll look into that :)
+2008-06-15T16:00:00.000Z	zvacet	chmac	: ok

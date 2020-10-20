@@ -1,0 +1,6 @@
+2008-02-06T10:38:00.000Z	jc		/usr/sbin/dpkg-reconfigure: cupsys is broken or not fully installed
+2008-02-06T10:40:00.000Z	jc		jc@phoenix:~$ sudo apt-get -f install
+2008-02-06T10:40:00.000Z	jc		Reading package lists... Done
+2008-02-06T10:40:00.000Z	jc		Building dependency tree
+2008-02-06T10:40:00.000Z	jc		Reading state information... Done
+2008-02-06T10:40:00.000Z	FloodBot2	jc	Please don't flood, use http://paste.ubuntu-nl.org to paste, don't use Enter as punctuation.

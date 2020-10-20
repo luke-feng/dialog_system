@@ -1,0 +1,6 @@
+2011-04-23T23:41:00.000Z	dd214		 jezuz.. now I need a primer on how to read logs.. there are over 40 of them and they have superb names that really make them effective in trying to read them.. jockey, dmesg..
+2011-04-23T23:42:00.000Z	erUSUL	dd214	messages and syslog are the most important ones imho.
+2011-04-23T23:42:00.000Z	erUSUL	dd214	« less messages » to view the file in a pager
+2011-04-23T23:42:00.000Z	dd214	erUSUL	thanks
+2011-04-23T23:43:00.000Z	erUSUL	dd214	press "q" to exit less
+2011-04-23T23:45:00.000Z	dd214	erUSUL	 getting a witbier, going to need one to get through these... ;-)

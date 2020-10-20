@@ -1,0 +1,6 @@
+2008-10-14T04:52:00.000Z	chris4585		call me noob but.. ` chmod -R u+rw--g+r--o+r xdg/" will set that dir and every dir and file, as user read write, group read only and other read only, correct?
+2008-10-14T04:52:00.000Z	dudus	chris4585	try chmod -R 644 folder
+2008-10-14T04:53:00.000Z	chris4585	dudus	will that do what I want?
+2008-10-14T04:53:00.000Z	dudus		yeah but the permissions for files have a different meaning than the permissions for folder
+2008-10-14T04:54:00.000Z	dudus		on folders -r mean list the dir contants and -x means user can cd to the dir
+2008-10-14T04:55:00.000Z	chris4585	dudus	ok

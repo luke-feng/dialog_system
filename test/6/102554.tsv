@@ -1,0 +1,6 @@
+2007-01-31T15:20:00.000Z	incorrect		how can i remove kde?  yesterday i did apt-get install kubuntu-desktop,  no i regret it
+2007-01-31T15:21:00.000Z	Jordan_U	incorrect	sudo apt-get autoremove kubuntu-desktop
+2007-01-31T15:21:00.000Z	incorrect	Jordan_U	thanks :) dpkg -P wasn't the answer i had tried :)
+2007-02-02T14:50:00.000Z	Jordan_U	incorrect	Works fine for me.
+2007-02-02T14:51:00.000Z	incorrect	Jordan_U	the latest update says deadly signal 11 for me when starting
+2007-02-02T14:51:00.000Z	Jordan_U	incorrect	I would try #beryl

@@ -1,0 +1,6 @@
+2009-04-29T10:26:00.000Z	lnb_		likwidL i tried apt install xorg... -intel-dbg but its still no good
+2009-04-29T10:27:00.000Z	lnb_		root shell looks like dos shell
+2009-04-29T10:28:00.000Z	lnb_		all my boxes are FreeBSD and they do have a valid xorg.conf in /etc/X11  but on ubuntu the xorg.conf is basically empty
+2009-04-29T10:30:00.000Z	scunizi	lnb_	xrandr and it's sibling randr run the show now for video setup.. however it can be overridden by creating an xorg with all the needed stuff
+2009-04-29T10:36:00.000Z	lnb_	scunizi	how do you use xrandr in txt mode?
+2009-04-29T10:37:00.000Z	scunizi	lnb_	there's lots on the web about that.. i haven't used it enough to remember

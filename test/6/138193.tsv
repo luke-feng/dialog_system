@@ -1,0 +1,6 @@
+2010-06-01T03:00:00.000Z	magik		Hey guys. I noticed there is a ping function in the terminal. It currently sends 64 bytes each ping. Is there any way to increase how much bytes it sends?
+2010-06-01T03:01:00.000Z	magik		I see it
+2010-06-01T03:02:00.000Z	magik		Also guys.
+2010-06-01T03:03:00.000Z	magik		I'm sick of having to open and close the terminal when the $ doesn't show up. Is there something else i can do?
+2010-06-01T03:03:00.000Z	Flannel	magik	What do you mean it doesn't show up?
+2010-06-01T03:04:00.000Z	Flannel	magik	ping runs until you stop it, with ctrl-c

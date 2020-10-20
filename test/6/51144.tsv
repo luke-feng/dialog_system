@@ -1,0 +1,6 @@
+2008-09-16T20:05:00.000Z	SkyLeach		hey all.  I'm curious if any of you know the proper package names for php-mysql and php-pgsql now.
+2008-09-16T20:05:00.000Z	SkyLeach		most of the guides mention php4-mysql / php4-pgsql but when I try that I get the following:
+2008-09-16T20:06:00.000Z	SkyLeach		"... has no installation candidate"
+2008-09-16T20:07:00.000Z	Pici	SkyLeach	php5-mysql
+2008-09-16T20:07:00.000Z	Pici	SkyLeach	php4-mysql is only available on Dapper
+2008-09-16T20:07:00.000Z	SkyLeach	Pici	I have php5 installed but my app is using php4

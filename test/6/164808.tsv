@@ -1,0 +1,6 @@
+2010-04-17T16:12:00.000Z	Sk_Lg		how can I partition a drive, or format a hard drive in command prompt?
+2010-04-17T16:12:00.000Z	Sk_Lg		><
+2010-04-17T16:13:00.000Z	Dr_Willis	Sk_Lg	 partition - use fdisk, or cfdisk,  format use 'mkfs' commands
+2010-04-17T16:18:00.000Z	Dr_Willis	Sk_Lg	 You normally want to isntall windows first. leave part of the HD unallocated for the linux installe rto use later.
+2010-04-18T13:30:00.000Z	Dr_Willis	Sk_Lg	 you set up partitions and tell it where to mount / at  that is the root of the install.
+2010-04-18T14:21:00.000Z	Dr_Willis	Sk_Lg	  linux wants an ext2/3/4 normally

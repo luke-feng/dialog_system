@@ -1,0 +1,6 @@
+2005-07-13T05:22:00.000Z	anatole		could anyone help with setting up a transparent xterm?
+2005-07-13T05:23:00.000Z	anatole		i have a transparent eterm
+2005-07-13T05:23:00.000Z	anatole		its just that it does not accept accented characters
+2005-07-13T05:24:00.000Z	anatole		which sucks when using grep
+2005-07-13T05:24:00.000Z	anatole		:)
+2005-07-13T05:25:00.000Z	thoreauputic	anatole	xterm doesn't do transparency - eterm, aterm do but don't support utf-8, and gnome terminal does transparency and utf-8 but is a slow starter - take your pick ;)

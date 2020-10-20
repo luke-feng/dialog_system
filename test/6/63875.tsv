@@ -1,0 +1,6 @@
+2008-07-18T04:48:00.000Z	psicobra		hi all any one know how to make a module auto load on startup?
+2008-07-18T04:49:00.000Z	Odd-rationale	psicobra	/etc/modprobe.conf
+2008-07-18T04:49:00.000Z	psicobra	Odd-rationale	thanks i want it to auto load ssb so what do i type?
+2008-07-18T04:49:00.000Z	Odd-rationale	psicobra	add ssb to the list on it's own line...
+2008-07-18T04:52:00.000Z	Odd-rationale	psicobra	i'm sorry. i was wrong. it is /etc/modules
+2008-07-18T04:52:00.000Z	Odd-rationale	psicobra	pleas undo everything you did to /etc/modprobe.conf ... sorry my bad... :(

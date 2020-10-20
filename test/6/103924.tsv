@@ -1,0 +1,6 @@
+2007-03-20T05:54:00.000Z	linuxn00b		Define emergency for this n00b?
+2007-03-20T05:55:00.000Z	linuxn00b		Help? I have 3 NICs installed.  One onboard, a linksys, and an IBM.  From CLI, how do I determine which is the default in-use?
+2007-03-20T05:56:00.000Z	linuxn00b		C: What do you care?  You think *dos is better than Ubuntu?  Purely subjective. ;)
+2007-03-20T05:57:00.000Z	linuxn00b		How do I start my GUI after installing kde-core?
+2007-03-20T05:58:00.000Z	linuxn00b		It's not working. ;)
+2007-03-20T05:58:00.000Z	PriceChild	linuxn00b	sudo /etc/init.d/kdm start

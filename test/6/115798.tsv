@@ -1,0 +1,6 @@
+2007-05-10T10:52:00.000Z	seanj		can someone help me set up a printer, Lexmark x1270?
+2007-05-10T10:54:00.000Z	seanj		can someone help me set up a printer, Lexmark x1270?
+2007-05-10T10:56:00.000Z	seanj		ok so basically i cant use my printer with ubuntu, that's encouraging
+2007-05-10T10:57:00.000Z	stefg	seanj	what model?
+2007-05-10T10:58:00.000Z	seanj	stefg	Lexmark X1270
+2007-05-10T10:59:00.000Z	stefg	seanj	lexmark is known for not releasing linux-drivers... get rid of the paperweight and buy a linux-compatible one from HP or Epson (these DO provide Linux-drivers)

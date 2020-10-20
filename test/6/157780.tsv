@@ -1,0 +1,6 @@
+2005-01-06T13:54:00.000Z	Prasatko		pozac: that's not good. I'm quite new to linux. i will create a partition and copy install cd on it. but how do I run the install process?
+2005-01-06T13:55:00.000Z	dseomn	Prasatko	you have to burn the cd image onto a cd and boot that cd
+2005-01-06T13:56:00.000Z	dseomn	Prasatko	is netboot available?
+2005-01-06T13:56:00.000Z	Prasatko	dseomn	sorry, no fdd, cdrom, network card
+2005-01-06T13:57:00.000Z	dseomn	Prasatko	can you do a dd if=cd-image of=/dev/hda (or similar)?
+2005-01-06T13:58:00.000Z	dseomn	Prasatko	I think the el torito image has the same layout as the mbr

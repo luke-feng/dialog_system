@@ -1,0 +1,6 @@
+2004-10-15T06:54:00.000Z	elFarto		quick question, how can i install the kernel source?
+2004-10-15T06:55:00.000Z	elFarto		no matter, found it
+2004-10-15T06:55:00.000Z	Kamion	elFarto	note that if you're only trying to compile a third-party driver, linux-headers-2.6.8.1-3 should be enough
+2004-10-15T06:55:00.000Z	Kamion	elFarto	otherwise, linux-source-2.6.8.1
+2004-10-15T06:58:00.000Z	Kamion	elFarto	not linux-kernel-headers, linux-headers-2.6.8.1-3
+2004-10-15T06:59:00.000Z	Kamion	elFarto	linux-kernel-headers is there for internal use by glibc only

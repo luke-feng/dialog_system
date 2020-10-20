@@ -1,0 +1,6 @@
+2012-03-13T22:53:00.000Z	Bunie		Ignoring me? Thats a bit harsh XD
+2012-03-13T22:54:00.000Z	MonkeyDust	Bunie	 you can add the windows chainloader
+2012-03-13T22:56:00.000Z	MonkeyDust	Bunie	 maybe this link helps http://members.iinet.net/~herman546/p20/GRUB2%20Configuration%20File%20Commands.html#chainloader_boot_entry
+2012-03-13T23:07:00.000Z	MonkeyDust	Bunie	 try ctrl-o to save
+2012-04-24T17:04:00.000Z	MonkeyDust	Bunie	 best way to find out, is by creating a live usb and booting from it
+2012-06-16T18:55:00.000Z	MonkeyDust	Bunie	 create a folder with an easy name, then type sudo mount /dev/blah [that name]

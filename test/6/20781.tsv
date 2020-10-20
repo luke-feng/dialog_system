@@ -1,0 +1,6 @@
+2012-08-07T21:08:00.000Z	arabi		difference between compiler and interpreter ????
+2012-08-07T21:09:00.000Z	TJ-	arabi	compiler converts source code to object code and then binary executable. interpreter reads source code line by line and executes it as it goes
+2012-09-25T17:52:00.000Z	TJ-	arabi	Show is the exact error you're seeing, then we may be able to help
+2012-09-25T17:54:00.000Z	TJ-	arabi	What does this report? "which ruby"
+2012-09-25T17:57:00.000Z	TJ-	arabi	The error messages mentions the path for ruby 1.9.1 but it seems the default ruby is 1.8.7. I think you'll need to change the default ruby version using update_alternatives
+2012-09-25T17:58:00.000Z	TJ-	arabi	"sudo update-alternatives --config ruby"

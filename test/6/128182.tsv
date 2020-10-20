@@ -1,0 +1,6 @@
+2006-03-19T07:54:00.000Z	Eleaf		I'm have DRASTIC dns issues
+2006-03-19T07:55:00.000Z	Eleaf		Ubuntu is NOT using a dns for anything
+2006-03-19T07:55:00.000Z	zyth	Eleaf	do you have an /etc/hosts ?
+2006-03-19T07:55:00.000Z	Eleaf	zyth	all was working fine, now it is not
+2006-03-19T07:56:00.000Z	Eleaf	zyth	^
+2006-03-19T07:56:00.000Z	zyth	Eleaf	msg me your /etc/hosts

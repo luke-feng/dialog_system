@@ -1,0 +1,6 @@
+2005-05-18T09:08:00.000Z	jeavis		how I can turn on my laptop fan
+2005-05-18T09:09:00.000Z	jeavis		how I can turn on my laptop fan
+2005-05-18T09:10:00.000Z	Nalioth	jeavis	start multiple compile jobs
+2005-05-18T09:11:00.000Z	Nalioth	jeavis	compiling software is very CPU intensive, so usually fires up the fans quite well
+2005-05-18T09:14:00.000Z	Nalioth	jeavis	i don't know any way to have an "on off switch" for your fan. i do know that if you start a compile job (or jobs) your system will slow way down (but your fans will run)
+2005-05-18T09:16:00.000Z	Nalioth	jeavis	so use it on a table

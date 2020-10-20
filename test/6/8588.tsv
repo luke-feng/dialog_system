@@ -1,0 +1,6 @@
+2011-06-27T06:04:00.000Z	Doran		I just installed Ubuntu 10.10 (went with older for more stability) on an old Toshiba Satellite using the alternate disc because I couldn't get any of the live CDs I tried to work on it, and it gets to login window, but if I actually log in, it just plays the sound and shows the wallpaper and freezes
+2011-06-27T06:04:00.000Z	Doran		any ideas what I should do next?
+2011-06-27T06:04:00.000Z	Doran		I haven't had to do this sort of tweaking to make an install work yet, really
+2011-06-27T06:04:00.000Z	Doran		and don't know where to start
+2011-06-27T06:05:00.000Z	Guest21598	Doran	i would suggest logging into console (L-CTRL+ALT+F1) login, sudo apt-get update ; sudo apt-get dist-upgrade, and then reboot when its done
+2011-06-27T06:07:00.000Z	Guest21598	Doran	unless an updated 10.10 won't work for what you need, I would try my suggestion to see if it gets you into ubuntu

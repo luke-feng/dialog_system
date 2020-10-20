@@ -1,0 +1,6 @@
+2005-11-06T17:27:00.000Z	Tesliiny		does anybody know about running MSSQL server under WINE and Ubunt?
+2005-11-06T17:28:00.000Z	Tesliiny		a stupid bookkeeping stystem :(
+2005-11-06T17:28:00.000Z	Tesliiny		consists of MS Acccess document as client and MS SQL server as server
+2005-11-06T17:30:00.000Z	anto9us	Tesliiny	have you tried postgresql?
+2005-11-06T17:31:00.000Z	anto9us	Tesliiny	provided the backend isn't too complex it makes a good replacement for MSSQL
+2005-11-06T17:32:00.000Z	anto9us	Tesliiny	even if it is complex it's very capable it will just take time to port

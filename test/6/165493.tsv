@@ -1,0 +1,6 @@
+2010-05-09T00:47:00.000Z	brad__		Hey all
+2010-05-09T00:47:00.000Z	brad__		I stupidly tried to install Plasma in gnome for kicks
+2010-05-09T00:47:00.000Z	brad__		and it has borked apt/dpkg
+2010-05-09T00:47:00.000Z	brad__		So I cannot install/unistall anything
+2010-05-09T00:47:00.000Z	maco	brad__	you can run plasma widgets in a plasma viewer. and it shouldnt have broken apt
+2010-05-09T00:48:00.000Z	maco	brad__	cuz having kde and gnome installed simultaneously is just fne

@@ -1,0 +1,6 @@
+2012-02-27T11:06:00.000Z	Xeneth	eblume	are you talking about a cisco rtr with an IOS?
+2012-02-27T11:07:00.000Z	eblume	Xeneth	No.
+2012-02-27T11:08:00.000Z	eblume	Xeneth	it's a Motorola SBG6580 or something close to that, a Wireless-N router, although this connection is wireless.
+2012-02-27T11:09:00.000Z	Xeneth	eblume	In line 6, it looks like the 192.168.0.0/24 is being routed to IP 0.0.0.0
+2012-02-27T11:10:00.000Z	eblume	Xeneth	standby, I'll confirm that.
+2012-02-27T11:12:00.000Z	eblume	Xeneth	I'm not really sure what to say - it all seems to be working? It sure does LOOK like it's routing 192.168.0.0/28 to 0.0.0.0

@@ -1,0 +1,6 @@
+2007-04-22T06:25:00.000Z	eXcAliBuR		i'm getting this error wit apt-get -f install Correcting dependencies...Segmentation fault
+2007-04-22T06:26:00.000Z	wallydalla1	eXcAliBuR	  apt get failed for me after I used automatix once
+2007-04-22T06:26:00.000Z	eXcAliBuR	wallydalla1	what do i do
+2007-04-22T06:26:00.000Z	wallydalla1	eXcAliBuR	 i don't know.    i just deleted the HD and re installed ubuntu.
+2007-04-22T06:27:00.000Z	eXcAliBuR	wallydalla1	that makes me sad
+2007-04-22T06:27:00.000Z	wallydalla1	eXcAliBuR	  did you google with the error message you got.   "segmentation fault"   u are not the first to get that bug.   there may be a fix.

@@ -1,0 +1,6 @@
+2008-11-28T12:10:00.000Z	greghere		after auto updates Ubuntu 8.04 wont show desktp? anyway to do a repair?
+2008-11-28T12:10:00.000Z	ashmew2	greghere	Press ALT F2 and enter gconf-editor and press enter
+2008-11-28T12:18:00.000Z	ashmew2	greghere	Do you have an NVIDIA card ?
+2008-11-28T12:18:00.000Z	greghere	ashmew2	no, it is ATI
+2008-11-28T12:19:00.000Z	ashmew2	greghere	You might have a bad driver...get envy on the broken system
+2008-11-28T12:20:00.000Z	greghere	ashmew2	yes but my desktop is totally blank!!

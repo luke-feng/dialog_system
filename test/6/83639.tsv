@@ -1,0 +1,6 @@
+2007-06-28T08:57:00.000Z	B-rabbit		i had windows xp on my laptop and the i installed ubuntu,and i cannot get xp back...does anyone know if it is possible to get xp bak
+2007-06-28T08:58:00.000Z	viden	B-rabbit	 if the XP partition is still there you just need to add the entry in the grub system to access it
+2007-06-28T08:58:00.000Z	B-rabbit		thanks vaden,i will do dat
+2007-06-28T09:00:00.000Z	viden	B-rabbit	 do you need the code to add the windows partition to the grub menu?
+2007-06-28T09:01:00.000Z	viden		ahh .. well thats crappy news.  ok i will have to wait until gutsy then ... thanks a ton for looking that up
+2007-06-28T09:02:00.000Z	B-rabbit	viden	yes please

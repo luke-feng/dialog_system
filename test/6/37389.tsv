@@ -1,0 +1,6 @@
+2012-02-07T19:41:00.000Z	Lantizia		Hey does Ubuntu (normal desktop install) come with the unzip command by default!?
+2012-02-07T19:42:00.000Z	reisio	Lantizia	I believe so
+2012-06-08T18:58:00.000Z	reisio	Lantizia	find logs, delete lines
+2012-06-08T18:58:00.000Z	Lantizia	reisio	that would delete all records of anyone logging in
+2012-06-08T18:58:00.000Z	reisio	Lantizia	no it wouldn't
+2012-06-08T18:59:00.000Z	Lantizia	reisio	sacarlson, lastlog isn't a normal text file

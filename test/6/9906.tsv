@@ -1,0 +1,6 @@
+2011-05-01T14:44:00.000Z	jodlajodla_		incorrect - i've deleted .compiz and .gnome2 in home folder, but not better -.-"
+2011-05-01T14:45:00.000Z	jodlajodla_		i've restarted pc
+2011-05-01T14:45:00.000Z	Dr_Willis	jodlajodla_	 theres the .gconf* dirs also
+2011-05-01T14:47:00.000Z	jodlajodla_	Dr_Willis	- that can help to solve problem with mouse lagg?
+2011-05-01T14:49:00.000Z	Dr_Willis	jodlajodla_	 does it affect a newly made user also? if so - that would point to a system setting, or driver issue.
+2011-05-01T14:50:00.000Z	jodlajodla_	Dr_Willis	- i've also installed 10.10 and official ATI driver for HD4850, but it was same problem ;) but on win 7 mouse works normally

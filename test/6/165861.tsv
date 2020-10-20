@@ -1,0 +1,6 @@
+2005-01-31T14:07:00.000Z	tanek		how do I change the default output card for alsa? i finally (somehow, don't really know how) got my sound working after trying a week (!!!), but now, to be able to use it i have to manually change sound card in the options (XMMS is the only thing I've got working yet)
+2005-01-31T14:07:00.000Z	tanek		had system + gaim sound before last reboot
+2005-01-31T14:08:00.000Z	tanek		think it all started working when i installed xmms-mad that uninstalled gstreamer-packages
+2005-01-31T14:08:00.000Z	sladen	tanek	this is a question people are puzzling over---how to present this to the user
+2006-06-02T09:51:00.000Z	sladen	tanek	since 10 minutes ago, you don't need the "-d" any more
+2006-06-02T09:51:00.000Z	sladen	tanek	-d stands for "development testing"

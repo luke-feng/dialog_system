@@ -1,0 +1,6 @@
+2006-06-22T08:49:00.000Z	Candamir		and if I understood right, the desktop install cd will work as a LiveCD and then offers me the option to install it permanently?
+2006-06-22T08:50:00.000Z	eps	Candamir	note the installer with the livecd is alpha and doesn't work on a lot of pc's
+2006-06-22T08:50:00.000Z	Candamir	eps	So, what will happen when I boot the desktop CD?
+2006-06-22T08:51:00.000Z	eps	Candamir	the desktop one is the live cd...it is a normal live cd with a gentoo style gui installer which you can click to install or just use the disc as a normal live cd
+2006-06-22T08:52:00.000Z	Candamir	eps	and during the install process, I will be able to select all the options I need to still keep running WinXP (make separate partition)?
+2006-06-22T08:53:00.000Z	eps	Candamir	indeed...note you should make sure you have the free space for the partition already assigned - it cannot resize a windows parition for you without killing the data on it

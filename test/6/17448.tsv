@@ -1,0 +1,6 @@
+2010-09-07T21:03:00.000Z	deep2k4		hello! im trying to manually configure my network devices under latest netbook remix but i cannot stop the network manager. is there any way?
+2010-09-07T21:03:00.000Z	glebihan	deep2k4	sudo /etc/init.d/network-manager stop
+2010-09-07T21:05:00.000Z	glebihan	deep2k4	just doing that will only disable it until next boot
+2010-09-07T21:05:00.000Z	glebihan	deep2k4	that's right
+2010-09-07T21:08:00.000Z	glebihan	deep2k4	same thing with /etc/init.d/avahi-daemon
+2010-09-07T21:09:00.000Z	glebihan	deep2k4	you're welcome

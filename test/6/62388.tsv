@@ -1,0 +1,6 @@
+2008-03-18T18:13:00.000Z	vignesh		when i install any package using apt-get, i see the line "ldconfig deferred processing now taking place" .. though there isn't nay problems with the installation, i jus wanna know wat does that line mean?? why does that occur??
+2008-03-18T18:13:00.000Z	RoadHazard	vignesh	no problem there, it started doing that on 7.10, its not an issue
+2008-03-18T18:13:00.000Z	vignesh	RoadHazard	i know that there is no problem there.. but i jus wanted to know why does that line appear??
+2008-03-18T18:14:00.000Z	vignesh	RoadHazard	ans also wat does that line mean?
+2008-03-18T18:14:00.000Z	RoadHazard	vignesh	I dunno, I just accepted it as a new addition to 7.10
+2008-03-18T18:15:00.000Z	vignesh	RoadHazard	anyways ty..

@@ -1,0 +1,6 @@
+2007-12-24T21:33:00.000Z	KindOne		I have Xubuntu 7.10, I'm new to linux, When i click Applications > Accesories > Terminal, The computer restarts, Can someone help me with this?
+2007-12-24T21:35:00.000Z	KindOne		I know....
+2007-12-24T21:35:00.000Z	Dr_willis	KindOne	 try alt-f2 and run 'xterm'   Im wondering if your system dont have some serious issues.
+2007-12-24T21:38:00.000Z	KindOne	Dr_willis	what do you think is wrong with my terminal ?
+2007-12-24T21:39:00.000Z	Dr_willis	KindOne	 if you can get an xterm going you could try typing in 'gnome-terminal' and see if it still crashes
+2008-05-18T08:40:00.000Z	Dr_willis	KindOne	  You could see whata ports they are using and block the ports. not the app. Good luck with it however. :) a lot of those apps can change ports

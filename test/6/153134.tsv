@@ -1,0 +1,6 @@
+2007-09-29T07:01:00.000Z	xen_		hey is it safe to use the repositorys for gutsy if im running fiesty? for such apps as apache/snort etc?
+2007-09-29T07:01:00.000Z	xen_		ok
+2007-09-29T07:01:00.000Z	cwillu	xen_	it'll upgrade a bunch of stuff to gutsy versions, without the benefit of the update tool
+2007-09-29T07:02:00.000Z	cwillu	xen_	might work, but you'll be unsupportable, and probably have to reinstall unless you like playing with dpkg on your weekends :p
+2007-09-29T07:03:00.000Z	cwillu	xen_	it doesn't.
+2007-09-29T07:03:00.000Z	cwillu	xen_	really, seriously, don't do it unless you fix the os installs for fun

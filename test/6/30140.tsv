@@ -1,0 +1,6 @@
+2009-10-07T23:30:00.000Z	jmadrid		Hello All! I'm trying to solve something with my Xubuntu and I'm like a baby when it comes to Linux & command line. After having some issues and solving them in the forums about my GeForce4 420 Go, I have this other issue that had been hard to find info on:
+2009-10-07T23:30:00.000Z	jmadrid		The card defaults to the VGA connector and not it's LCD when it starts up.
+2009-10-07T23:30:00.000Z	jmadrid		Any guidance on the subject, please?
+2009-10-07T23:31:00.000Z	jason_froebe	jmadrid	- to use the dvi connector, you need to use the NVidia drivers - (System -> Administration -> Hardware Drivers)
+2009-10-07T23:32:00.000Z	jason_froebe	jmadrid	- the opensource doesn't seem to like the dvi connector on any of my nvidia cards
+2009-10-07T23:34:00.000Z	jason_froebe	jmadrid	- yes..  you need to start nvidia-settings as root (sudo nvidia-settings) make the laptop screen the primary screen and save the xorg.conf file to /etc/X11/xorg.conf

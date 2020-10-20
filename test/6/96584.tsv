@@ -1,0 +1,6 @@
+2007-09-07T09:37:00.000Z	Jygzy-		how do you 'ls' so that the newest files are at the bottom?
+2007-09-07T09:39:00.000Z	Jygzy-		how do you 'ls' so that the newest files are at the bottom?
+2007-09-07T09:40:00.000Z	Jygzy-		how do you 'ls' so that the newest files are at the bottom?
+2007-09-07T09:40:00.000Z	Pici	Jygzy-	ls -ltr
+2007-09-14T08:41:00.000Z	Pici	Jygzy-	sudo /etc/init.d/gdm stop
+2007-09-14T08:54:00.000Z	Pici	Jygzy-	usually it falls back to VESA by default iirc.

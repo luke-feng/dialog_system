@@ -1,0 +1,6 @@
+2007-12-13T12:57:00.000Z	macogw	shay_	kopete as well
+2007-12-13T12:59:00.000Z	macogw	shay_	vnc
+2007-12-13T13:00:00.000Z	macogw	shay_	vnc is a protocol, i think.  search in synaptic.  you need a vnc server on whichever computer will be controlled and vnc client (tightvnc comes to mind for windows) for whichever does the controlling
+2007-12-13T13:07:00.000Z	macogw	shay_	i dont know how to use it, but are the ubuntu and windows computers behind the same router or different ones or none at all?
+2007-12-13T13:08:00.000Z	shay_	macogw	in the same router, (but i am planing also to remote the ubuntu desktop from other places )
+2007-12-13T13:08:00.000Z	macogw	shay_	you'll have to set up port forwarding on the router to access it from elsewhere

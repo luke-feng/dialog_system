@@ -1,0 +1,6 @@
+2005-10-31T17:28:00.000Z	racookier		so, sudo works with any user (normal user)? then scurity?
+2005-10-31T17:28:00.000Z	topyli	racookier	sudo only works for users set up properly in the /etc/sudoers file
+2005-10-31T17:29:00.000Z	topyli	racookier	you can give some users the powers to execute system upgrades and nothing else, and other users the power to do anything. others will have no super powers
+2005-10-31T17:30:00.000Z	topyli	racookier	the first user is given all sudo rights
+2005-10-31T17:31:00.000Z	topyli	racookier	if you're the first user made during installation, you have ultimate power
+2005-10-31T17:32:00.000Z	topyli	racookier	yes. sudo any-command will work

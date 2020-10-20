@@ -1,0 +1,6 @@
+2010-04-03T23:32:00.000Z	JokerAway	mneptok	just so you know, it just gave the same error message...
+2010-04-03T23:32:00.000Z	JokerAway		trying -noacpi
+2010-04-03T23:32:00.000Z	JokerAway		exit
+2010-04-03T23:39:00.000Z	JokerAway	mneptok	Now the card isnt mounted at all. It's recognized in dmesg, but it doesnt mount and besides, if I try to mount it manually, mount hangs.
+2010-04-03T23:43:00.000Z	mneptok	JokerAway	i'd blame a somewhat wonky USB MSC chip in the reader. try another reader?
+2010-04-04T00:37:00.000Z	JokerAway	mneptok	nothing seems to solve the problem

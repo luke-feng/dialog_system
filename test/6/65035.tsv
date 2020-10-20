@@ -1,0 +1,6 @@
+2009-06-29T07:24:00.000Z	crxyem		so anyone know how to dist-upgrade from 9.04 pre-release to 9.04??
+2009-06-29T07:25:00.000Z	rww	crxyem	sudo apt-get update, then sudo apt-get upgrade.
+2009-06-29T07:25:00.000Z	rww	crxyem	i.e., a Jaunty pre-release with all updates applied is theoretically the same as a jaunty final release with all updates applied.
+2009-06-29T07:26:00.000Z	crxyem	rww	yeah but for some reason, if I cat /etc/issue it lists 8.10, and an about KDE shows KDE3.5.10
+2009-06-29T07:27:00.000Z	rww	crxyem	"cat /etc/issue" should show 9.04 for Jaunty prereleases.
+2009-06-29T07:29:00.000Z	rww	crxyem	I'd probably try the instructions in https://help.ubuntu.com/community/JauntyUpgrades and see if it offers a distribution upgrade to you.

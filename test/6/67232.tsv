@@ -1,0 +1,6 @@
+2008-07-28T05:40:00.000Z	fontstuff		wait, are you on the same machine?
+2008-07-28T05:41:00.000Z	fontstuff		ah i'm not too familiar with Vista
+2008-07-28T05:41:00.000Z	fontstuff		i only have XP
+2008-07-28T05:43:00.000Z	fontstuff		do you have any partitioning software for Vista?
+2008-07-28T05:44:00.000Z	fontstuff		i'm trying to help llasas get rid of ubuntu
+2008-07-28T05:46:00.000Z	Bodsda	fontstuff	boot live cd then use mount the ubuntu hard drive and use gparted to wipe it...

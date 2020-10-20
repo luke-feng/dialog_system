@@ -1,0 +1,6 @@
+2004-11-15T17:14:00.000Z	ua-nyman		What is this.../dev/hda2           76630       77623      500976    f  W95 Ext'd (LBA) ?
+2004-11-15T17:16:00.000Z	pedru	ua-nyman	looks like a "partition"
+2004-11-15T17:18:00.000Z	pedru	ua-nyman	actually it looks like the second partition on your primary master
+2004-11-15T17:18:00.000Z	pedru	ua-nyman	drive
+2004-11-15T17:18:00.000Z	pedru	ua-nyman	the line does nothing...
+2004-11-15T17:19:00.000Z	pedru	ua-nyman	you have to describe your problems exactly to get exact answers...

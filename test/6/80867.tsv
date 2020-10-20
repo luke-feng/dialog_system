@@ -1,0 +1,6 @@
+2007-08-16T15:53:00.000Z	spiderfire		hello, are there any good linux games?
+2007-08-16T15:55:00.000Z	SlimeyPe1e	spiderfire	Unreal Tournament & UT 2k4, the Quake games, the Doom games, Enemy Territory, Neverwinter Nights
+2007-08-16T15:55:00.000Z	spiderfire	SlimeyPe1e	thanks slimy
+2007-08-16T15:56:00.000Z	spiderfire		what api do the linux games use
+2007-08-16T15:56:00.000Z	SlimeyPe1e	spiderfire	opengl for graphics, usually
+2007-08-16T15:57:00.000Z	SlimeyPe1e	spiderfire	quite a lot of games seem to use the SDL libraries

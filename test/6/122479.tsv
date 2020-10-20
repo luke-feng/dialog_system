@@ -1,0 +1,6 @@
+2006-09-10T05:27:00.000Z	vasi		my virtual consoles don't seem to work, when i switch to them i just see a very distorted bit of my xorg screen
+2006-09-10T05:27:00.000Z	vasi		anybody have any idea what that could be about?
+2006-09-10T05:28:00.000Z	vasi		(it happens in single-user mode as well)
+2006-09-10T05:28:00.000Z	baconbacon	vasi	did you try to enable framebuffer for console?
+2006-09-10T05:30:00.000Z	vasi	baconbacon	i'm not sure exactly what you mean...
+2006-09-10T05:31:00.000Z	vasi	baconbacon	thanks anyhow!

@@ -1,0 +1,6 @@
+2007-01-15T16:54:00.000Z	JamesG		This is totally the wrong place to ask this question, but I figure it's a busy channel so it must come up.. Does someone know the correct syntax to /ignore join,part,quit messages? I used to know it, but now I can't remember.
+2007-01-15T16:54:00.000Z	adaptr	JamesG	what client do you use ?
+2007-01-15T16:55:00.000Z	JamesG	adaptr	Right now, BitchX.. but I thought this was implemented at the protocol level.
+2007-01-15T16:55:00.000Z	adaptr	JamesG	you hardcore, you go dude :)
+2007-01-17T15:32:00.000Z	adaptr	JamesG	that depends on sane defaults.. an unsuspecting first-timer could be left without a home directory or shell....
+2007-01-17T15:32:00.000Z	JamesG	adaptr	I was about to say, don't forget -m

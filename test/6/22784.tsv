@@ -1,0 +1,6 @@
+2011-04-20T15:50:00.000Z	An_Ony_Moose		How can I get the PID of the process that created an X window?
+2011-04-20T15:52:00.000Z	jrib	An_Ony_Moose	xprop returns a _NET_WM_PID(CARDINAL).  What that exactly means is for you to find out :)
+2011-04-20T15:53:00.000Z	An_Ony_Moose	jrib	or, alternatively, could you tell me the name of the process that opens a window when access to an SSH keypair is requested?
+2011-04-20T15:53:00.000Z	An_Ony_Moose		(why didn't I ask that instead)
+2011-04-20T15:54:00.000Z	jrib	An_Ony_Moose	maybe seahorse; don't know
+2011-04-20T15:54:00.000Z	An_Ony_Moose	jrib	that name rings a bell, I'll take a look. Thanks

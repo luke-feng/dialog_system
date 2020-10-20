@@ -1,0 +1,6 @@
+2011-01-01T07:46:00.000Z	r00t4rd3d		econ use the sudo command
+2011-01-01T07:46:00.000Z	r00t4rd3d		sudo gedit /etc/apt/etv
+2011-01-01T07:47:00.000Z	r00t4rd3d		yeah
+2011-01-01T07:47:00.000Z	r00t4rd3d		sudo nano /etc/apt/etc
+2011-01-01T07:47:00.000Z	r00t4rd3d		but you know there is an easier way to add repo's ?
+2011-01-01T07:48:00.000Z	CarlFK	r00t4rd3d	sudo apt-add-repository 'deb http://packages.medibuntu.org/ '$(lsb_release -cs)' free non-free'

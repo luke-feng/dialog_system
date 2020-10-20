@@ -1,0 +1,6 @@
+2006-07-10T05:08:00.000Z	ze4502us		hi guys i need help getting a bcm43xx wireless card to work
+2006-07-10T05:08:00.000Z	ze4502us		i've blacklisted the built in driver in the kernel
+2006-07-10T05:08:00.000Z	ze4502us		and installed the windows driver with ndiswrapper
+2006-07-10T05:09:00.000Z	ze4502us		ndiswrapper reports the driver installed and hardware present but neither network-manager nor network-admin show the card as being prsent
+2006-07-10T05:10:00.000Z	ze4502us		i need help getting a bcm43xx wireless card to work
+2006-07-10T05:11:00.000Z	sztanpet	ze4502us	its on the wiki

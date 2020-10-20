@@ -1,0 +1,6 @@
+2010-06-01T10:48:00.000Z	devilina		please help someone...
+2010-06-01T10:49:00.000Z	devilina		holocene...the front audio jack is not giving any output..i did a lot of reasearch on google...tried all sorts of stuff..but doesnt work..it started after the release of karmic
+2010-06-01T10:50:00.000Z	devilina		yes..works on windows holocene...its working..so no probs there
+2010-06-01T10:52:00.000Z	devilina		hmm:(
+2010-06-01T10:53:00.000Z	codebrainz	devilina	it's probably due to it not switching to the jack automatically, it's something with alsa i guess where it senses when something is plugged it, it's supposed to switch
+2010-06-01T10:54:00.000Z	codebrainz	devilina	what kind of computer is it?

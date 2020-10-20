@@ -1,0 +1,6 @@
+2005-10-02T09:36:00.000Z	trans_err		Anyone know what would be involved in dd'ing the CD iso to my extra hard drive?
+2005-10-02T09:37:00.000Z	trans_err		(I ran out of blanks)
+2005-10-02T09:37:00.000Z	Blissex	trans_err	nothing, just do it.
+2005-10-02T09:37:00.000Z	trans_err	Blissex	any idea what the offset should be or just DD the entire iso?
+2005-10-02T09:38:00.000Z	Blissex	trans_err	'cp /dev/cdrom /filestem/file.iso'
+2005-10-02T09:38:00.000Z	Blissex	trans_err	booting from that ISO is less easy...

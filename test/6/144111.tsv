@@ -1,0 +1,6 @@
+2007-04-29T09:37:00.000Z	Trini_Man		hey everyone how to i reset
+2007-04-29T09:37:00.000Z	Trini_Man		my Xserver
+2007-04-29T09:37:00.000Z	Trini_Man		how do i reset my xserver xorgconf to default
+2007-04-29T09:38:00.000Z	Trini_Man		how do i reset my xserver xorgconf to default
+2007-04-29T09:38:00.000Z	Trini_Man		how do i reset my xserver xorgconf to default  there is a wizzard thing
+2007-04-29T09:39:00.000Z	dabaR	Trini_Man	sudo dpkg-reconfigure xserver-xorg

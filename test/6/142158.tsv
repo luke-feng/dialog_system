@@ -1,0 +1,6 @@
+2005-11-17T07:39:00.000Z	funkyHat		where does smeg store it's information?
+2005-11-17T07:39:00.000Z	funkyHat		*preferences
+2005-11-17T07:40:00.000Z	Juhaz	funkyHat	the (modificatios to) menus? ~/.local, ~/.config
+2005-11-17T07:41:00.000Z	funkyHat		thanks Juhaz
+2005-11-17T07:41:00.000Z	funkyHat	Juhaz	will it hurt to delete those 2 directories (i know i will lose other settings as well, but will it break things?)
+2005-11-17T07:42:00.000Z	Juhaz	funkyHat	shouldn't break anything, and the only other settings I can remember of that live there are file associations

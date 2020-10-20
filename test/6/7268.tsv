@@ -1,0 +1,6 @@
+2011-08-10T11:40:00.000Z	wsbl-uhpd651		can anyone help me edit and save my fstab file in nano.  I just tried - and it told me it could not save because it is read-only file system.
+2011-08-10T11:41:00.000Z	wsbl-uhpd651		what command do I enter in to override this "read-only" status ... and successfully edit my fstab in nano via terminal commands?
+2011-08-10T11:42:00.000Z	GreenCloud	wsbl-uhpd651	have you tried using vim...its better than nano... and either way you have to be sudo to edit your fstab file
+2011-08-10T11:43:00.000Z	wsbl-uhpd651	GreenCloud	I can get around this read-only nonsense by using vim?
+2011-08-10T11:43:00.000Z	GreenCloud	wsbl-uhpd651	absolutely... try sudo vim /etc/fstab
+2011-08-10T11:44:00.000Z	wsbl-uhpd651	GreenCloud	command not found ...

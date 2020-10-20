@@ -1,0 +1,6 @@
+2011-08-19T01:42:00.000Z	bronaugh		ok, so no one has any idea why Ubuntu 11.04 would fail to install grub when w7 is present?
+2011-08-19T01:43:00.000Z	urlin2u	bronaugh	to many partitions, no free space a gpt partition schema.
+2011-08-19T01:44:00.000Z	bronaugh	urlin2u	plenty of free space, doesn't seem to be too many partitions. gpt is a possibility.
+2011-08-19T01:44:00.000Z	bronaugh	urlin2u	so if gpt, what next?
+2011-08-19T01:45:00.000Z	urlin2u	bronaugh	not sure that is a geeks area.
+2011-08-19T02:21:00.000Z	bronaugh	urlin2u	hey; so it was an MBR partition table with efi, which is apparently an unhappy combo. the solution is to install grub-pc.

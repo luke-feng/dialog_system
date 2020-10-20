@@ -1,0 +1,6 @@
+2010-01-09T20:05:00.000Z	sclimans		While screwing around with my sound, I somehow managed to uninstall the "Sound Settings" system panel.  How do I get it back?  My sound used to work.  Now it does not
+2010-01-09T20:07:00.000Z	maverick	sclimans	sorry gnome-volume-control
+2010-01-09T20:07:00.000Z	maverick	sclimans	gnome-sound-preferences in terminal
+2010-01-09T20:10:00.000Z	maverick	sclimans	sudo apt-get install gnome-volume-control??
+2010-01-09T20:11:00.000Z	maverick	sclimans	do you mean that its just not there in the menu but its there on the panel?
+2010-01-09T20:14:00.000Z	maverick	sclimans	to restore it on the panel run gnome-volume-control-applet, to restore it in the menus, just right click on a menu and go to edit menus

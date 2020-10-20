@@ -1,0 +1,6 @@
+2008-12-19T09:28:00.000Z	raylu	dotblank	yes, but it usually configures itself
+2008-12-19T09:28:00.000Z	raylu	dotblank	also, modelines are painful.
+2008-12-19T09:29:00.000Z	raylu	dotblank	you can retry generating a config with "X -configure" or get various level of manual configuration with "dpkg-reconfigure xorg-xserver"
+2009-05-19T02:20:00.000Z	raylu	dotblank	you shouldn't need to
+2009-05-19T03:00:00.000Z	raylu	dotblank	wine?
+2009-05-19T03:01:00.000Z	dotblank	raylu	wine.. is great but it also add complexity.. ntfs-3g removes it

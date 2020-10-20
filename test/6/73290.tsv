@@ -1,0 +1,6 @@
+2007-11-30T17:05:00.000Z	rabidpoobear		hey guys, I have a hard drive problem.  My external is auto-mounting as /media/IOMEGA\ HD  and it's not giving group/world permissions, just user perms.  any idea what's causing that? (it's not NTFS)
+2007-11-30T17:05:00.000Z	devilsadvocate	rabidpoobear	i believe that is the default behaviour
+2007-11-30T17:06:00.000Z	rabidpoobear	devilsadvocate	right, but I can't change the permissions once it's mounted
+2007-11-30T17:06:00.000Z	rabidpoobear	devilsadvocate	and I need it to be world-readable
+2007-11-30T17:07:00.000Z	devilsadvocate	rabidpoobear	i'm not entirely certain, but i think if you add it to the fstab it may mount correctly
+2007-11-30T17:08:00.000Z	rabidpoobear	devilsadvocate	okay, thanks, I'll try that :)

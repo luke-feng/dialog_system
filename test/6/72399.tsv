@@ -1,0 +1,6 @@
+2012-01-10T15:33:00.000Z	kingsize		I ve problem that my totem movie player cannot be start....The error msg:
+2012-01-10T15:33:00.000Z	kingsize		kingsize@Gylan-Dell:~$ totem
+2012-01-10T15:33:00.000Z	kingsize		Xlib:  extension "GLX" missing on display ":0".
+2012-01-10T15:33:00.000Z	kingsize		(totem:3674): Clutter-CRITICAL **: Unable to initialize Clutter: The OpenGL version could not be determined
+2012-01-10T15:33:00.000Z	kingsize		Segmentation fault
+2012-01-10T15:33:00.000Z	FloodBot1	kingsize	Please don't flood; use http://paste.ubuntu.com to paste; don't use Enter as punctuation.

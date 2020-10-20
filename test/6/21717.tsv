@@ -1,0 +1,6 @@
+2010-04-29T01:28:00.000Z	Guest35290		why isn't */2 * * * * /home/ldlework/dev/webdesk/statusdaemon/run.py  running every two minutes?
+2010-04-29T01:28:00.000Z	Guest35290		Is there somewhere where cronjob errors are printed?
+2010-04-29T01:28:00.000Z	pure_hate	Guest35290	not unless you specify the errors to output to a log file
+2010-04-29T01:30:00.000Z	pure_hate	Guest35290	Add this to the cron command " 2> /var/log/cron.errorlog "
+2010-04-29T01:31:00.000Z	Guest35290	pure_hate	I can't believe I forgot about piping.
+2010-04-29T01:32:00.000Z	pure_hate	Guest35290	Its good practice to pipe all cron commands to /dev/null anyway

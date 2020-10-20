@@ -1,0 +1,6 @@
+2010-06-11T19:31:00.000Z	FuzzyFox0		anyone got any ideas on how I can print to multiple network printers at once?
+2010-06-11T19:32:00.000Z	Vroomfondle	FuzzyFox0	use lpd and a bash script?
+2010-06-11T19:33:00.000Z	FuzzyFox0	Vroomfondle	how would I do that?
+2010-06-11T19:33:00.000Z	Vroomfondle		hmm
+2010-06-11T19:33:00.000Z	Vroomfondle		!lpd
+2010-06-11T19:34:00.000Z	Vroomfondle	FuzzyFox0	lp is the command-line command for printing. See "man lp". You could craft a multi-part command or a bash script to run lp multiple times.

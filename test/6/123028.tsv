@@ -1,0 +1,6 @@
+2006-09-17T07:47:00.000Z	keegan_		Does anyone know where the Mozilla Firefox plugins are located?
+2006-09-17T07:47:00.000Z	keegan_		There isn't a plugin folder for /home/.mozilla
+2006-09-17T07:48:00.000Z	keegan_		Are they located anywhere else?
+2006-09-17T07:49:00.000Z	keegan_		So I'm guessing there isn't another location for Firefox plugins other than ~/.mozilla then...
+2006-09-17T07:49:00.000Z	silvaran	keegan_	There should be something like /usr/lib/mozilla .
+2006-09-17T07:50:00.000Z	silvaran	keegan_	No problem, good luck :)

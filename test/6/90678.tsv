@@ -1,0 +1,6 @@
+2007-11-27T05:22:00.000Z	matt___		what can i format my hard disk (data disk) with in kubuntu?
+2007-11-27T05:22:00.000Z	stefg	matt___	real men use 'sudo mkfs -t ext3 /dev/<yourpartition>
+2007-11-27T05:23:00.000Z	matt___	stefg	alrighty, i was hoping that there was a terminal command!
+2007-11-27T05:24:00.000Z	matt___	stefg	what does the -t do
+2007-11-27T05:25:00.000Z	stefg	matt___	specify the filesystem type ... -t ext3 or -t reiserfs or -t xfs .... whatever you want to use
+2007-11-27T05:25:00.000Z	matt___	stefg	sounds good, thanks!

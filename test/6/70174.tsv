@@ -1,0 +1,6 @@
+2008-06-08T20:00:00.000Z	anil_asak		 Identifier "Synaptics Touchpad"
+2008-06-08T20:00:00.000Z	anil_asak		 Driver  "synaptics"
+2008-06-08T20:00:00.000Z	anil_asak		 Option  "SendCoreEvents" "true"
+2008-06-08T20:00:00.000Z	anil_asak		 Option  "Device"  "/dev/psaux"
+2008-06-08T20:00:00.000Z	anil_asak		 Option  "Protocol"  "auto-dev"
+2008-06-08T20:00:00.000Z	FloodBot3	anil_asak	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

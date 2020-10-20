@@ -1,0 +1,6 @@
+2007-04-08T07:04:00.000Z	bo0koo		can somebody tell me what to do with my new java download?  i'm trying to update my java to jre-6u1-linux-i586.bin
+2007-04-08T07:04:00.000Z	bo0koo		i have no idea what to do with that file
+2007-04-08T07:04:00.000Z	bo0koo		jre-6u1-linux-i586.bin
+2007-04-08T07:04:00.000Z	bo0koo		i need to install java 1.6
+2007-04-08T07:04:00.000Z	xtknight	bo0koo	instaed of that, try typing "sudo apt-get install sun-java6-jre"
+2007-04-08T07:10:00.000Z	xtknight	bo0koo	it is in backports.

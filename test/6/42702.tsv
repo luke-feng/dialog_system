@@ -1,0 +1,6 @@
+2009-05-08T08:59:00.000Z	Loganhoup		could someone help, My sound is acting up. When I play any type of sound it will start off fine and then stutter continuously and finally crash my sound drivers. It's not app specific and it has only started (like all my other problems) after I upgraded to jaunty. Any help is appreciated.
+2009-05-08T09:01:00.000Z	Loganhoup		My sound drivers are crashing after playing any type of sound (system, mp3, etc.). It stutters and then crashes my sound driver, Please help.
+2009-05-08T09:02:00.000Z	Loganhoup		My sound drivers are crashing after playing any type of sound (system, mp3, etc.). It stutters and then crashes my sound driver, Please help.
+2009-05-08T09:03:00.000Z	mzz	Loganhoup	I don't have the time right now to actually troubleshoot, but try to figure out what exactly is crashing (it may be pulseaudio instead of the actual drivers)
+2009-05-08T09:03:00.000Z	mzz	Loganhoup	if it's a driver-level problem I'd expect to see debug noise in dmesg
+2009-05-08T09:04:00.000Z	Loganhoup	mzz	I'm almost certain it's pulseaudio. I'll check my dmesg

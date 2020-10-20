@@ -1,0 +1,6 @@
+2005-05-05T11:50:00.000Z	FR500		help!!!!! had a power failure, now at boot it says EXT3-fs error loading journal, after that i get kernel panic
+2005-05-05T11:51:00.000Z	Delph	FR500	grab a live CD, boot off it, fsck the hard drive, hope for the best =:)
+2005-05-05T11:51:00.000Z	FR500	Delph	oks
+2005-05-05T11:52:00.000Z	FR500		thx
+2005-05-05T11:52:00.000Z	FR500		fsck~=scandisk?
+2005-05-05T11:52:00.000Z	Delph	FR500	aye

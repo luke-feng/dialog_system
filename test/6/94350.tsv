@@ -1,0 +1,6 @@
+2011-01-10T19:45:00.000Z	dewdrop_world		sorry i had to come back -- situation again -- i was convinced to "sudo apt-get remove network-manager" which killed all networking in ubuntu -- rebooted and "sudo ifconfig eth0 up" did nothing -- how do I get the wired connection going again so I can install wicd?
+2011-01-10T19:46:00.000Z	dewdrop_world		thanks dr. willis -- assume i'm an idiot about networking :)
+2011-01-10T19:47:00.000Z	dewdrop_world		@sam : "restart: unknown instance:"
+2011-01-10T19:47:00.000Z	BluesKaj	dewdrop_world	 sudo dhclient eth0, then,  sudo /etc/init.d/networking restart
+2011-01-10T19:50:00.000Z	BluesKaj	dewdrop_world	no need for network manager if you use this : http://www.cyberciti.biz/faq/setting-up-an-network-interfaces-file/
+2011-01-10T19:52:00.000Z	BluesKaj	dewdrop_world	it's not a lot of work, just leave things the way they are for now , no need for nm , the settings are simple aone can avoid nm headaches witht the etc/interfaces setup

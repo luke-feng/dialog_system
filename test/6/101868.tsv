@@ -1,0 +1,6 @@
+2009-01-08T01:04:00.000Z	BlackHawk		does anyone here have experience with thunderbird? I'm not sure if it is Ubuntu's problem or Thunderbird's ... but at the thunderbird-channel on mozilla I don't get any answer ...
+2009-01-08T01:06:00.000Z	Jack_Sparrow	BlackHawk	Thunderbird seems to work fine for me. What is the actual issue
+2009-01-08T01:07:00.000Z	BlackHawk	Jack_Sparrow	my specific problem is an error with the webmail-extension ... It just returns that it couldn't connect to the server at localhost, because the connection was refused
+2009-01-08T01:15:00.000Z	BlackHawk	Jack_Sparrow	any idea about this localhost-problem with the webmail-extension?
+2009-01-08T01:15:00.000Z	Jack_Sparrow	BlackHawk	Nope
+2009-01-08T01:16:00.000Z	BlackHawk	Jack_Sparrow	kk ... thx anyway

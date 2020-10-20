@@ -1,0 +1,6 @@
+2009-02-21T09:32:00.000Z	RadicalR		Hi guys.
+2009-02-21T09:32:00.000Z	RadicalR		I managed to break the OS!
+2009-02-21T09:33:00.000Z	RadicalR		Anyone know how to get a usb wireless adapter to work in the terminal?
+2009-02-21T09:33:00.000Z	RadicalR		I already ran
+2009-02-21T09:33:00.000Z	RadicalR		ndiswrapper
+2009-02-21T09:33:00.000Z	MK-BB	RadicalR	lsusb then u have to mount

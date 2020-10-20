@@ -1,0 +1,6 @@
+2011-01-28T20:09:00.000Z	obscurant1st		and btw i had installed KDE and now i revreted back to gnome, but still the screen just before login screen shows Kubuntu, what to do with that?
+2011-01-28T20:10:00.000Z	schnuffle1	obscurant1st	replace kdm with gdm
+2011-01-28T20:11:00.000Z	obscurant1st	schnuffle	i did that!
+2011-01-28T20:12:00.000Z	obscurant1st		dpkg-reconfigure gm and selecting gdm will do that right?
+2011-01-28T20:12:00.000Z	obscurant1st		i hv done that already
+2011-01-28T20:16:00.000Z	schnuffle1	obscurant1st	sudo update-alternatives --config usplash-artwork.so

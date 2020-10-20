@@ -1,0 +1,6 @@
+2008-09-13T22:47:00.000Z	keithclark		Ok, I've read and tried every tip with Samba and it still will not work out for me.  I can see the windows computer but the windows computer cannot see the ubuntu machine.
+2008-09-13T22:49:00.000Z	dr_willis	keithclark	 my 'basics samba setup' - Install samba service/pckage, edit smb.conf enable home shares, set them to be 'broweable'   - give each user a samba password with 'sudo smbpasswd -a USERNAME'  - and be sure the workgroup name is correct in the smb.conf.. thats about it for me.
+2008-09-13T22:49:00.000Z	keithclark	dr_willis	yup, tried all that.
+2011-08-07T19:48:00.000Z	dr_willis	keithclark	 unetbootin has had issues in the past.. I tend to use tools from the Pendrivelinux web site.
+2011-08-07T19:48:00.000Z	keithclark	dr_willis	thanks, I'll check that out as well!
+2011-08-07T19:48:00.000Z	dr_willis	keithclark	 and from what i gather of his issue.. unetbootin is not the answer.. but ive just been skimming the  channel. :)

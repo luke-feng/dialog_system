@@ -1,0 +1,6 @@
+2006-07-27T16:28:00.000Z	longwave	pkh	ic56: you need "vipw -s" to edit the shadow files
+2006-07-27T16:42:00.000Z	longwave	pkh	in that case i would just add this group you want all the users to be in as a secondary group using usermod -G
+2006-07-27T16:42:00.000Z	pkh	longwave	what i saw on google seemed to indicate that was a way to go
+2006-07-27T16:43:00.000Z	longwave	pkh	you can make the parent folder setgid to and all newly created files will be in the group of the parent folder, if that's what you want
+2006-07-27T16:44:00.000Z	pkh	longwave	I think that sounds a bit too much here -- my main concern is that I'm going to be handing the day-to-day maintenance on to someone with even less admin knowledge (a difficult thing given my level)...
+2006-07-27T16:45:00.000Z	longwave	pkh	just "sudo chmod g+s parentfolder", all newly created folders will have the same group as the parent then

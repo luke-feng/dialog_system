@@ -1,0 +1,6 @@
+2007-12-13T08:34:00.000Z	zenrium		sandel: you should still be able to specify the LBA modes tho I think for sata?
+2007-12-13T08:35:00.000Z	zenrium		memorylenin - sorry but no use to you I dont think.. not done much in the way of wireless with ubuntu yet myself :(
+2007-12-13T08:37:00.000Z	zenrium		notsogutsy  - add the applet System monitor to your panel
+2007-12-13T08:38:00.000Z	zenrium		wpa is not new
+2007-12-13T08:38:00.000Z	NotSoGutsy	zenrium	:: as I see, system monitor doesn't show *what processes* are making it higher, just that it is higher
+2007-12-13T08:41:00.000Z	NotSoGutsy	zenrium	:: perhaps I'm missing something, then, as I have a total of 3 processes above 1% CPU usage [one being the system monitor], and my load average is 8.84

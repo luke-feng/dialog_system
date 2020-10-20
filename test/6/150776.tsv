@@ -1,0 +1,6 @@
+2005-05-26T07:14:00.000Z	limer		trying to run glxgears:  Xlib:  extension "GLX" missing on display ":0.0".
+2005-05-26T07:14:00.000Z	limer		xorg.conf shows loading dri and glx
+2005-05-26T07:15:00.000Z	limer		brb
+2005-05-26T07:17:00.000Z	limer		how do I restart x without the machine?
+2005-05-26T07:17:00.000Z	limer		ctl+alt+backspace?
+2005-05-26T07:17:00.000Z	deuce868	limer	control alt backspace

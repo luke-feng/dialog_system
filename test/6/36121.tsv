@@ -1,0 +1,6 @@
+2009-08-24T07:37:00.000Z	slide		Im trying to mount a samba share from my server on my ubuntu desktop. On the server, I have it setup so ONLY guest can access the share so there should be NO file owner/groups whatever so that anyone can edit the share. When I mount it using mount.cifs it shows all the actual file permissions instead of nothing
+2009-08-24T07:37:00.000Z	slide		I can access/edit everyhting in windows
+2009-08-24T07:37:00.000Z	slide		but not this way
+2009-08-24T07:39:00.000Z	YesImaLinuxN00B	slide	im having an issue with samba as well. u ever have where windows tries to access \\HOSTNAMEhostname
+2009-08-24T07:39:00.000Z	slide	YesImaLinuxN00B	hrm nope never seen that
+2009-08-24T07:39:00.000Z	YesImaLinuxN00B	slide	dang

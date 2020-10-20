@@ -1,0 +1,6 @@
+2007-03-19T12:15:00.000Z	bansh3		is there a way to reinstall current packages on the system after erased /usr ?
+2007-03-19T12:16:00.000Z	foxbat	bansh3	is /usr its own partition?
+2007-03-19T12:17:00.000Z	bansh3		it was on / , i replaced some files from a fresh installed copy of ubuntu and still got files missing
+2007-03-19T12:18:00.000Z	foxbat		bansh: you'll probably have to reinstall the relevant packages
+2007-03-19T12:18:00.000Z	foxbat		that uses those missing files
+2007-03-19T12:20:00.000Z	bansh3	foxbat	well ... is there a way to reinstall them or i need to do manualy, still have my dpkg database intact

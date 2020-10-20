@@ -1,0 +1,6 @@
+2010-04-12T20:37:00.000Z	jolson		Hi! Is it possible to have "make" watch for changes in the prerequisites and automatically run through its procedure whenever they change?
+2010-04-12T20:39:00.000Z	soreau	jolson	If you are building source, you should probably get in the habit of running make clean; make. You would have to make your own system for watching dependencies though
+2010-04-12T20:40:00.000Z	jolson	soreau	Thanks for the response. I pictured a situation where a PDF of a LaTeX document would be updated as soon as I saved a change to the sourcefile in my editor.
+2010-04-12T20:44:00.000Z	soreau	jolson	I cant think of an easy way to do that. I guess you could create a script to be run by cron that compares the dates of when the file was last modified but again it would be your own implementation
+2010-04-12T20:47:00.000Z	jolson	soreau	and sipior: Thanks for your answers. So it seems that make won't do this for you, and rolling one's own isn't worth it for me. If you know any make substitute that has this feature, I'd be happy to hear about it.
+2010-04-12T20:48:00.000Z	soreau	jolson	Like I said, I cant think of a simple solution though there are ways to do it

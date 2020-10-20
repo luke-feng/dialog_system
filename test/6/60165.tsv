@@ -1,0 +1,6 @@
+2008-06-01T02:21:00.000Z	ricket		How do I add another location to look for libraries? When I run a program it says it doesn't find a certain .so file, which is located in /usr/local/lib... How can I allow it to find this library??
+2008-06-01T02:22:00.000Z	mnk0	ricket	add a symbolic link
+2008-06-01T02:22:00.000Z	ricket	mnk0	where? and can you remind me the command to do that?
+2008-06-01T02:23:00.000Z	mnk0	ricket	ln -s /source/ /destination
+2008-06-01T02:25:00.000Z	ricket	mnk0	thanks, it worked! :)
+2008-06-01T02:25:00.000Z	mnk0	ricket	good job!!

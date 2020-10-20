@@ -1,0 +1,6 @@
+2010-11-12T03:29:00.000Z	EpicCyndaquil		I have a computer with about 300MB RAM, any tips for speeding up Ubuntu? Should I look into a different window manager?
+2010-11-12T03:30:00.000Z	EpicCyndaquil		alright, I'll check out lubuntu
+2010-11-12T03:31:00.000Z	EpicCyndaquil		any difference between lubuntu and Ubuntu other than window manager?
+2010-11-12T03:32:00.000Z	EpicCyndaquil		do you think if I grabbed Ubuntu Server and threw a window manager on top of it, it would run much lighter?
+2010-11-12T03:32:00.000Z	TeslaTony	EpicCyndaquil	I use LXDE (lubuntu) any time I need light weight. You can still use all your regular Ubuntu packages and programs under it, and to a large degree I can
+2010-11-12T03:33:00.000Z	TeslaTony	EpicCyndaquil	Use the lubuntu disk and do a clean install if you want a lighter-weight system

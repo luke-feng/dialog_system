@@ -1,0 +1,6 @@
+2007-06-21T05:52:00.000Z	marltu		hello. What default founts i should install and how to make websites look nice
+2007-06-21T05:52:00.000Z	marltu		i mean there are web fonts missing in ubuntu
+2007-06-21T05:52:00.000Z	nickrud	marltu	apt-get install msttcorefonts , that gets arial, verdana, etc
+2007-06-21T05:53:00.000Z	marltu	nickrud	ty
+2007-06-21T06:08:00.000Z	nickrud	marltu	beep-media-player or xmms
+2007-06-21T08:28:00.000Z	nickrud	marltu	gksudo gedit (you'd need to go into the terminal to start it)

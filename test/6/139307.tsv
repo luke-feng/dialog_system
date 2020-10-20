@@ -1,0 +1,6 @@
+2006-01-05T15:15:00.000Z	binks		lo all
+2006-01-05T15:16:00.000Z	binks		is there a way to find out why my 80 gig hdd has only 31 free in mu breezy install ie where are all the files
+2006-01-05T15:18:00.000Z	binks		is there a way to search ubuntu like xp to find large files so i can free up some space cheers
+2006-01-05T15:19:00.000Z	binks		sam its the path to folder your after
+2006-01-05T15:20:00.000Z	binks		when i apt are the files kept or deleted once installed
+2006-01-05T15:21:00.000Z	intelikey	binks	if for some odd reason they are not deleted  they will be in  /var/cache/apt/packages    i think

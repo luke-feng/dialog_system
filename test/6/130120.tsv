@@ -1,0 +1,6 @@
+2005-11-23T14:35:00.000Z	RapidFire		I'm a total noob when it comes to Linux, but I;ve got an old computer I wanna put Linux on to try it out. I'm downloading the Ubuntu Linux installation file, and wanna put it on my old computer to run in dual-boot. Anyone have a link on how to set my computer to run on dual-boot?
+2005-11-23T14:37:00.000Z	Amaranth	RapidFire	Install windows first, then ubuntu.
+2005-11-23T14:37:00.000Z	Amaranth	RapidFire	Ubuntu can resize the linux partition to make room for itself and it'll setup the dual boot stuff for you.
+2005-11-23T14:38:00.000Z	RapidFire	Amaranth	 I already have Win98 installed, so all I have to do is boot-up with the Linux installion CD?
+2005-11-23T14:38:00.000Z	Amaranth	RapidFire	yep
+2005-11-23T14:38:00.000Z	RapidFire	Amaranth	 Alright, thanks man

@@ -1,0 +1,6 @@
+2006-06-12T10:59:00.000Z	bobstro	mcpowley	 what are you trying to do?
+2006-06-12T11:01:00.000Z	bobstro	mcpowley	 hmmm... once i enabled it, it ran for me automatically every time.
+2006-06-12T11:02:00.000Z	mcpowley	bobstro	Im trying to get it to run at startup
+2006-06-12T11:03:00.000Z	bobstro	mcpowley	 once i ran it, it created /etc/rc2.d/S20firestarter, which launches it for me every time. are you sure it's not doing that?
+2006-06-12T11:07:00.000Z	mcpowley		bobstro:Yeah i have that file...hmm, ill take out the sudo firestarter on my startup and just see what happens
+2006-06-12T11:07:00.000Z	bobstro	mcpowley	 start up, then run 'iptables -nvL' to see if the rules are there. it did it automatically for me.

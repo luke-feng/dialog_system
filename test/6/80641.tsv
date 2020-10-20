@@ -1,0 +1,6 @@
+2007-08-21T10:26:00.000Z	mEck0		I got the message "unable to bind port 6600: adress already in use maybe MPD is still running" when I try to start MPD. And no, it's not running. netstat -l shows that the state for port 6600 is "LISTEN", but what is listening there=
+2007-08-21T10:27:00.000Z	dariuskane	mEck0	you have another server or process listening on that port... youll to figure out which one it is
+2007-08-21T10:27:00.000Z	mEck0	dariuskane	yeah, but how can I check what is listening on that port? is there a command or something which can tell me that?
+2007-08-21T10:28:00.000Z	dariuskane	mEck0	best you can try is telnet localhost:6600 and hop you get a clue when ti connects
+2007-08-21T10:28:00.000Z	mEck0	dariuskane	okey
+2007-08-21T10:29:00.000Z	dariuskane	mEck0	servers and process dont have to list themselves anywhere ... so if that doesnt give you a clue youll have to turn off your services 1 by 1 till you find it

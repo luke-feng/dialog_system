@@ -1,0 +1,6 @@
+2011-05-13T18:35:00.000Z	prx		where in upstart is the startscript that runs gdm?
+2011-05-13T18:36:00.000Z	kyubutsu	prx	try ubuntu server edition. no X there.
+2011-05-13T18:36:00.000Z	prx	kyubutsu	I need desktop though, i plan on repairing whatever might be broken (going with vesa X11)
+2011-05-13T18:44:00.000Z	kyubutsu	prx	sounds more like you're trying to break your system instead of fixing it
+2011-05-13T18:44:00.000Z	prx	kyubutsu	it already is completely useless, i can not make it worse ;)
+2011-05-13T18:46:00.000Z	kyubutsu	prx	a safe mode session with provide you with a console for troubleshooting purposes

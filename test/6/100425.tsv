@@ -1,0 +1,6 @@
+2007-01-17T06:03:00.000Z	user-land		Hello, from time to time Xorg starts to eat up all CPU.
+2007-01-17T06:03:00.000Z	user-land		Until now that stopped when i quit Firefox.
+2007-01-17T06:03:00.000Z	user-land		But now it persists.
+2007-01-17T06:04:00.000Z	user-land		Do you see that happening too and is there anything i can do short of log-out ?
+2007-01-17T06:04:00.000Z	riotkittie	user-land	is it Xorg itself or something in Xorg  ?
+2007-01-17T06:07:00.000Z	user-land	riotkittie	4269 root      25   0  359m  44m  11m R 74.6  4.4   1076:58 Xorg

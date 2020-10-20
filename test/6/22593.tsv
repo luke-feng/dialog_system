@@ -1,0 +1,6 @@
+2010-04-02T23:16:00.000Z	progre55		hi people! I've just bought a comp, and it has only 1 partition with win7 on it. is it okay to install linux and re-partition it while installing? I mean, it would still be on the same physical partition.. hope windows would not affect my linux files afterwards..
+2010-04-02T23:17:00.000Z	progre55		yeah, dual
+2010-04-02T23:18:00.000Z	hashed_	progre55	it's a whole lot easier when windows is installed first :)
+2010-04-02T23:19:00.000Z	progre55	hashed_	it is installed.. it's the native os for the vaio I just bought
+2010-04-02T23:24:00.000Z	hashed_	progre55	you should definitely resize the windows partition with a gparted or partedmagic to avoid data loss
+2010-04-02T23:24:00.000Z	progre55	hashed_	but doesnt ubuntu use gparted while repartitioning?

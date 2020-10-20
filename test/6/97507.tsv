@@ -1,0 +1,6 @@
+2008-09-26T06:45:00.000Z	IntuitiveNipple	teerawi	can I give you a tip that will save you a lot of problems when compiling your own packages?
+2008-09-26T06:45:00.000Z	teerawi	wickedpuppy	i would be grateful
+2008-09-26T06:46:00.000Z	IntuitiveNipple	teerawi	If the package is already in the Ubuntu repositories, and you're building the latest version yourself, a nice trick is to install the required development libraries using sudo apt-get build-dep <package>
+2008-09-26T06:47:00.000Z	IntuitiveNipple	teerawi	Then, you can build your new source and it will find all the libraries it needs to link with first time with no errors
+2008-09-26T06:48:00.000Z	teerawi	wickedpuppy	http://pastebin.com/m260ca1a9
+2008-09-26T06:49:00.000Z	IntuitiveNipple	teerawi	another tip. Again, if the package exists in the repositories, fetch the Ubuntu source using "apt-get source <package>", cd into the source directory, and load "debian/rules" into a text editor. Then search for the line that luanches the packages ./configure script, and you can get all the configure options that are correct for an Ubuntu install, and use them to configure your custom package

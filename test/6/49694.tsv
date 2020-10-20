@@ -1,0 +1,6 @@
+2009-07-21T02:28:00.000Z	Jimmio		Hello all, what's the command line method of selecting all available software sources minus CD-ROM?
+2009-07-21T02:29:00.000Z	losher	Jimmio	if I understand what you're asking, it's done by editing /etc/apt/sources.list
+2009-07-21T02:30:00.000Z	Jimmio	losher	I mean enabling the community sources and such. Is there a simple command for it? If not, it's no big deal, but it would just be nice to setup Ubuntu boxes with a simple command or two then use a mouse at all o.o
+2009-07-21T02:32:00.000Z	losher	Jimmio	Are you talking about bulk installing lots of systems with minimal manual intervention?
+2009-07-21T02:33:00.000Z	Jimmio	losher	More along the lines of "Ahhh... Fresh Ubuntu install on my old PC for testing... install everything by hand? Nahh..."
+2009-07-21T02:35:00.000Z	losher	Jimmio	you can generate a list of currently installed packages on your present system, and then use that list to install the same packages on your new system, but you may still have to do some manual config while installing some programs. Foes that help...

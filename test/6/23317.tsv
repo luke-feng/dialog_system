@@ -1,0 +1,6 @@
+2011-07-11T22:15:00.000Z	Name141		Hello, in removing nVidia or AMD/ATi drivers from Ubuntu is all you do is go in to additional drivers and remove it and restart?
+2011-07-11T22:17:00.000Z	Name141		Or is that more too it in need of switching card manufactors ? (I'm going from a nVidia to an ATi)
+2011-07-11T22:17:00.000Z	AndChat-	Name141	sure. You will only need to restart the x server. No need to reboot
+2011-07-11T22:18:00.000Z	Name141	AndChat-	Well, I gotta take the cards out of this machine and swap'em man.. lol
+2011-07-11T22:18:00.000Z	Name141	AndChat-	I'm assuming I'll need to remove nvidia-tools ?
+2011-07-11T22:21:00.000Z	AndChat-	Name141	it should be removed for you but you can remove it if you like (assuming it isn't a dep)

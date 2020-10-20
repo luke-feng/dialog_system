@@ -1,0 +1,6 @@
+2011-09-19T16:41:00.000Z	sebster		I've put my code into pastebin. So far I just want to read the current value of the screen brightness. The command I'm using returns a value when I run it in terminal and I thought that what I'm doing should work. WRONG
+2011-09-19T16:41:00.000Z	sebster		http://pastebin.com/tawMSxec
+2011-09-19T16:41:00.000Z	sebster		ty
+2011-09-19T16:43:00.000Z	Pici	sebster	you have an extra set of parenthesis around your currentValue expression.
+2011-09-19T16:43:00.000Z	Pici	sebster	$( ) means to execute whatever is in there $(( )) means to evaluate the mathematical expression within.
+2011-09-19T16:44:00.000Z	Pici	sebster	np

@@ -1,0 +1,6 @@
+2006-02-24T14:32:00.000Z	Fub		how do I stop a kernel module from being loaded?
+2006-02-24T14:33:00.000Z	Fub		hmm
+2006-02-24T14:33:00.000Z	Fub		not there:(
+2006-02-24T14:34:00.000Z	Fub		ac97 (sound card)
+2006-02-24T14:34:00.000Z	fangorious	Fub	/etc/hotplug/blacklist
+2006-02-24T14:34:00.000Z	Fub	fangorious	thanks:)

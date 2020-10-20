@@ -1,0 +1,6 @@
+2008-12-09T06:22:00.000Z	fulld		hello, I trashed my httpd.conf, what is the best way to "reinstall" adache2?
+2008-12-09T06:22:00.000Z	jrib	fulld	purge apache-commond and reinstall apache2
+2008-12-09T06:23:00.000Z	jrib	fulld	purge apache2.2-common and reinstall apache2
+2008-12-09T06:23:00.000Z	fulld	jrib	thank you much
+2008-12-09T06:24:00.000Z	jrib	fulld	you're supposed to use apache2.conf by the way
+2008-12-09T06:25:00.000Z	fulld	jrib	thanks, im upgrading from my 1x conf

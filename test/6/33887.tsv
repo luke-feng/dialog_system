@@ -1,0 +1,6 @@
+2009-08-11T05:55:00.000Z	mazda01_		if i build a package from source will it overwrite the package installled from synaptic?
+2009-08-11T05:56:00.000Z	mazda01_		if a ./configure runs once but warns of not having libhal-storage-dev and libhal-storage1 can i run ./configure again and all will be ok?
+2009-08-11T05:57:00.000Z	losher	mazda01_	in general, you can run configure as many times as you like. But if it needs libhal-storage-dev and you don't have it, eventually the compile will fail...
+2009-08-11T05:57:00.000Z	mazda01_	losher	i know, i am installing what it needs now.
+2009-08-11T05:58:00.000Z	losher	mazda01_	then autotec's advice is good...
+2009-08-11T06:01:00.000Z	mazda01_	losher	you don't have to write a startup scrip to get an app to start after bootup. just put the command you'd run from a terminal in the startup apps within system , preferences

@@ -1,0 +1,6 @@
+2008-09-09T02:31:00.000Z	d_dyer		hey i have a problem,when i try to update i get this "E: dpkg was interrupted, you must manually run 'dpkg --configure -a' to correct the problem." Is There a way i can correct this via Terminal?
+2008-09-09T02:31:00.000Z	jrib	d_dyer	run: sudo dpkg --configure -a
+2008-09-09T03:58:00.000Z	jrib	d_dyer	it helps if you are a little more patient
+2008-09-10T04:24:00.000Z	jrib	d_dyer	you type 'gconf-editor' in a shell
+2008-09-10T04:24:00.000Z	jrib	d_dyer	same as terminal
+2008-09-10T07:35:00.000Z	jrib	d_dyer	usually /home/USERNAME

@@ -1,0 +1,6 @@
+2009-11-18T04:34:00.000Z	Um_cara_qualquer		how can i install a .tar.bz2 archive?
+2009-11-18T04:36:00.000Z	Um_cara_qualquer		python-support... but i'm not sure if it is python-support archive anymore
+2009-11-18T04:36:00.000Z	arand	Um_cara_qualquer	What application, what version, does a debian package not exist?
+2009-11-18T04:39:00.000Z	arand	Um_cara_qualquer	are you using 9.04 or 9.10?
+2009-11-18T04:41:00.000Z	arand	Um_cara_qualquer	okay, the easiest way would probably be to add this ppa: https://launchpad.net/~philip5/+archive/extra
+2009-11-18T04:43:00.000Z	arand	Um_cara_qualquer	hmm, yea, so it works like a repository. (that factoid was not particulary informative in this case)

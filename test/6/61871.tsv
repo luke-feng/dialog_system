@@ -1,0 +1,6 @@
+2008-06-02T01:44:00.000Z	mDemocritus		ok i'm trying to roll back to the 2.6.22-14 kernel to fix a sata/ide driver issue problem with the new kernel, but when i boot from the old kernel, X doesn't start, i get lines in my Xorg.log of (EE) NVIDIA(0): Failed to initialize the NVIDIA graphics device... suggestions?
+2008-06-02T01:44:00.000Z	Ashfire908	mDemocritus	you might not have the driver in the old kernel modules that xorg is set to use
+2008-06-02T01:45:00.000Z	mDemocritus	Ashfire908	so i have to use a different xorg.conf? would the upgrade to hardy have wiped the old one, or made a backup?
+2008-06-02T01:46:00.000Z	Ashfire908	mDemocritus	you have to check that it's using the correct module.
+2008-06-02T01:46:00.000Z	Ashfire908	mDemocritus	sorry, Ive actually never done an upgrade.
+2008-06-02T01:47:00.000Z	mDemocritus	Ashfire908	np that gets me started

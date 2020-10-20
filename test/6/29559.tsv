@@ -1,0 +1,6 @@
+2009-10-22T08:47:00.000Z	vangorra		Hey all. I'm running karmic. When I login, trackerd is eating all my disk IO it takes minutes to login. Any ideas?
+2009-10-22T08:49:00.000Z	cedriczg	vangorra	If you want you can turn off that service for your startup services
+2009-10-22T08:49:00.000Z	vangorra	cedriczg	I know, I was just curious what could be going on
+2009-10-22T08:49:00.000Z	cedriczg	vangorra	It happens to me as well whenever I have new data on my machine
+2009-10-22T08:50:00.000Z	cedriczg	vangorra	Like lets say new images, mail, etc
+2009-10-22T08:51:00.000Z	cedriczg	vangorra	It's what it is meant to do. If you prefer you can update the database for locate when you want and use locate command instead of tracerd

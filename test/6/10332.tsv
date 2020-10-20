@@ -1,0 +1,6 @@
+2011-08-08T20:13:00.000Z	rightlegred		Hey, someone mind helping me with a grub error?
+2011-08-08T20:14:00.000Z	rightlegred		I tried removing my linux partition, when I did so I rebooted. The partition is gone
+2011-08-08T20:14:00.000Z	rightlegred		But I keep getting the same error
+2011-08-08T20:16:00.000Z	escott	rightlegred	grub relies on files in /boot if you removed those your grub will be non-functional
+2011-08-08T20:18:00.000Z	escott	rightlegred	you need to install whatever bootloader is appropriate for the os you run. if you dont want ubuntu it might not be grub
+2011-08-08T20:20:00.000Z	escott	rightlegred	at least in the past the correct tool to reinstall windows bootloader was fixmbr. don't know if that is still the case

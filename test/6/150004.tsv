@@ -1,0 +1,6 @@
+2006-05-21T06:53:00.000Z	nickrud	outlawcrook	first thing you need to learn, is if you screw up your X config (you can't get a graphical desktop) is sudo dpkg-reconfigure xserver-xorg
+2006-05-21T06:53:00.000Z	nickrud	outlawcrook	no reinstall required
+2006-05-21T08:12:00.000Z	nickrud	outlawcrook	sudo dpkg-reconfigure xserver-xorg
+2006-05-21T08:12:00.000Z	nickrud	outlawcrook	choose the nv driver
+2006-05-21T08:17:00.000Z	nickrud	outlawcrook	did you do an apt-get update first (that normally fixes that)
+2006-05-21T08:26:00.000Z	nickrud	outlawcrook	if I may, it's a waste of time running the 64bit version if you want most video and internet flash and the like to work

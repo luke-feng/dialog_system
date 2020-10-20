@@ -1,0 +1,6 @@
+2010-06-04T10:08:00.000Z	paris		hi folks, I have problem with skype, it doesn't play back the voice, why?
+2010-06-04T10:09:00.000Z	paris		What I should do?
+2010-06-04T10:10:00.000Z	codebrainz	paris	does other audio work, in other programs?
+2010-06-04T10:11:00.000Z	codebrainz	paris	is there a volume setting under preferences in your skype program, or something to change the audio backend settings?
+2010-06-04T10:14:00.000Z	codebrainz	paris	do you know what backend the program uses (gstreamer maybe)?  is there settings for it?
+2010-06-04T10:20:00.000Z	codebrainz	paris	this is an issue i've heard over and over.  too bad ubuntu doesn't assume some reasonable defaults

@@ -1,0 +1,6 @@
+2007-12-19T15:42:00.000Z	tarelerulz		is there  a place in ubuntu 7.10 that you can see all the program you have install and lib I guess too .
+2007-12-19T15:43:00.000Z	macogw	tarelerulz	if you want them in a text file, "dpkg --get-selections>installed.txt"
+2007-12-19T15:43:00.000Z	macogw	tarelerulz	synaptic
+2007-12-19T15:44:00.000Z	macogw	tarelerulz	sort by installed status
+2007-12-19T15:49:00.000Z	tarelerulz	macogw	What do you mean by what I have install in a text file ? is that the location or the text file with that information or command to run ?
+2007-12-19T15:51:00.000Z	macogw	tarelerulz	say you have just gotten a computer all set up with everything you need installed and you need to do the same thing to 20 computers.  you dont want to go through and pick them all individually, so you do "sudo dpkg --get-selections >installed.txt" and that makes a list of packages that you have as a text file.  on the others, just copy in that text file and run "sudo dpkg --set-selections >installed.txt && sudo apt-get dselect-upgrade"

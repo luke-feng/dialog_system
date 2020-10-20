@@ -1,0 +1,6 @@
+2006-04-30T09:52:00.000Z	vicks		where do i tell ubuntu to run gdm at startup?
+2006-04-30T09:52:00.000Z	vicks		where do i tell ubuntu to run gdm at startup? (instaead of kdm, that is)
+2006-04-30T09:52:00.000Z	XamDM	vicks	try dpkg-reconfigure gdm
+2006-04-30T09:53:00.000Z	vicks	XamDM	i kind of remember that there is some kind of config file where you can specify this
+2006-04-30T09:54:00.000Z	XamDM	vicks	it is started vi /etc/init.dgdm.. maybe you should look there ...
+2006-04-30T09:54:00.000Z	vicks	XamDM	gonna try there, thanks

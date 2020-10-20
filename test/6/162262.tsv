@@ -1,0 +1,6 @@
+2007-02-24T14:19:00.000Z	craigbass1976		Is there a way to make it so that a directory is drwxrwxrwx AND whenever anyone makes a file in there, it is owned by the owner and group that owns the directory and is set rwxrwxrwx?
+2007-02-24T14:20:00.000Z	craigbass1976		I'm sharing it out via samba and am having trouble with windows folks being able to make changes to files.
+2007-02-24T14:20:00.000Z	sepheebear	craigbass1976	i think you want some functionality that the sticky bit gives
+2007-02-24T14:20:00.000Z	sepheebear	craigbass1976	man chmod
+2007-02-24T14:21:00.000Z	craigbass1976	unop	and sepheebear, or oes it have something to do with the unix users' unmask?
+2007-02-24T14:22:00.000Z	sepheebear	craigbass1976	are you trying to create a dropbox type of directory

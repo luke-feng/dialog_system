@@ -1,0 +1,6 @@
+2007-02-27T15:27:00.000Z	flake		I installed 6.10 along with envy to set up my nvidia - opengl works ok but in synaptic package manager it's not showing alot of 3d games, not even armagetron - is there a repo I need?
+2007-02-27T15:27:00.000Z	bruenig	flake	do cat /etc/apt/sources.list and pastebin the output
+2007-02-27T15:31:00.000Z	bruenig	flake	do gksudo gedit /etc/apt/sources.list and make it look like this, http://paste.ubuntu-nl.org/7847/
+2007-02-27T15:31:00.000Z	bruenig	flake	uncomment all the repos, and then on line 16, 17, 31, and 32 add multiverse
+2007-02-27T15:31:00.000Z	bruenig	flake	then sudo apt-get update should do
+2007-03-16T07:23:00.000Z	bruenig	flake	what do you mean exactly, do you mean make a script with gedit or have gedit run one of your scripts

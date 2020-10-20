@@ -1,0 +1,6 @@
+2007-11-03T00:45:00.000Z	Dante123		hi all.  I added a graphics card and on the first boot I got a configuration screen I had never seen before.  Anyway, I selected what I thought was the right graphics card.  However, I could only get 800 x 600 resolution once I logged in.  Is there a way to "reset" the card I chose?  How do I get back to that configuration screen?
+2007-11-03T00:45:00.000Z	nixn00b	Dante123	what graphics card?
+2007-11-03T00:46:00.000Z	Dante123		cheap ndvidia geforce mx4000
+2007-11-03T00:46:00.000Z	nixn00b	Dante123	you need to enable the driver in restricted manager
+2007-11-03T00:47:00.000Z	Dante123	nixn00b	I did use the proprietary driver. and it "seems" to work although it kicks me out of full screen when playing netpanzer once in a while.
+2007-11-03T00:47:00.000Z	nixn00b	Dante123	so i dont understand what you problemis then?

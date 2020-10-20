@@ -1,0 +1,6 @@
+2007-08-14T09:00:00.000Z	qos		hey guys. does somebody know how to get the WINDOW-id of a process via bash?
+2007-08-14T09:00:00.000Z	MasterShrek	qos	/etc/init.d/alsa restart
+2007-08-14T09:01:00.000Z	MasterShrek	qos	or /etc/init.d/alsa-utils restart
+2007-08-14T09:01:00.000Z	qos	MasterShrek	alsa? sure that u mean me?
+2007-08-14T09:03:00.000Z	MasterShrek		sorry qos not 4 u =P
+2007-08-14T09:03:00.000Z	qos	MasterShrek	np ;)

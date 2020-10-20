@@ -1,0 +1,6 @@
+2007-06-27T15:18:00.000Z	Andy80		hello
+2007-06-27T15:19:00.000Z	Andy80		from this page: https://help.ubuntu.com/community/BinaryDriverHowto/ATI   I read: The 'fglrx' driver does not support cards earlier than the 9500. This means that my 9250 is not supported by ATI?
+2007-06-27T15:19:00.000Z	cafuego	Andy80	Your 9250 works 100% fine with the open driver.
+2007-06-27T15:19:00.000Z	cafuego	Andy80	... which is lucky, as the open driver is of much betetr quality.
+2007-06-27T15:20:00.000Z	Andy80	cafuego	with open driver it works. I know... it's the driver I'm currently using... but I was asking if the propetary driver will work with it :\
+2007-06-27T15:20:00.000Z	Andy80	cafuego	"ati" is the open driver you're talking about?

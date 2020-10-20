@@ -1,0 +1,6 @@
+2010-01-04T06:55:00.000Z	Ricket		is there a good web-based music playing system for ubuntu server?
+2010-01-04T06:57:00.000Z	scunizi	Ricket	several.. open System>Admin>Synaptic Package Manager and search for "sound server" or server.. XMBC (I think it's called) will act as a sound server, media server, video server etc.
+2010-01-04T06:57:00.000Z	Ricket	scunizi	ubuntu server doesn't have a system>admin>synaptic :)
+2010-01-04T06:57:00.000Z	scunizi	Ricket	ah.. server.. use aptitude
+2010-01-04T06:58:00.000Z	Ricket	scunizi	ooo but thanks for reminding me about XBMC!! i should definitely check that one out
+2010-01-04T06:58:00.000Z	scunizi	Ricket	it's gui based though.. you can add the gui to server with sudo apt-get install ubuntu-desktop

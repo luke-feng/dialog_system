@@ -1,0 +1,6 @@
+2006-03-10T07:18:00.000Z	Gokz		lol okay could anyone please help me..
+2006-03-10T07:18:00.000Z	Gokz		how do i set up an RT2500 card
+2006-03-10T07:18:00.000Z	Gokz		in ubuntu server
+2006-03-10T07:18:00.000Z	Gokz		or atleast how do i edit i file in Ubuntu server
+2006-03-10T07:19:00.000Z	hatake_kakashi	Gokz	vim/ed/nano/
+2006-03-10T07:21:00.000Z	hatake_kakashi	Gokz	you have to use a command line text editor such as vim or nano, etc

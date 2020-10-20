@@ -1,0 +1,6 @@
+2005-08-28T08:35:00.000Z	kyle_		hello everyone
+2005-08-28T08:37:00.000Z	kyle_		pw: try "sudo nautilus"
+2005-08-28T08:38:00.000Z	kyle_		pw: open two windows like that, then browse to the two folders you want to drag/drop from/to.
+2005-08-28T08:40:00.000Z	kyle_		Tyler: what was your question?
+2005-08-28T08:40:00.000Z	TylerE	kyle_	I'm trying to get sata, lvm, and the post-install conf to play nice
+2005-08-28T08:41:00.000Z	TylerE	kyle_	basically /etc/init.d/lvm dies during boot, saying it can't find one of the drives, but if I go to the console and manually do the commands to mount the vg, it works fine. but then no post-install conf

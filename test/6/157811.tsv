@@ -1,0 +1,6 @@
+2009-07-07T06:01:00.000Z	MrShell		I am totally new to this, its running an a very old (AMD Duron) machine and when i try and install or run an exe file it fails
+2009-07-07T06:02:00.000Z	MrShell		So Ubuntu can't run an .iso file from a click? Windows can <_<
+2009-07-07T06:02:00.000Z	adi_	MrShell	i don't know but give a try to this dd if=image.iso of=/dev/sdb -b1024  at sdb just put the usb u have on your system
+2009-07-07T06:02:00.000Z	adi_	MrShell	after try to boot from usb key
+2009-07-07T06:05:00.000Z	adi_	MrShell	try k3b to burn the iso on cd
+2009-07-07T06:05:00.000Z	adi_	MrShell	or brasero, it's installed by default

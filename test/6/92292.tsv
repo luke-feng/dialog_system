@@ -1,0 +1,6 @@
+2007-07-05T07:11:00.000Z	etalli		If I have a computer that I installed ubuntu on off of the cd, then I did sudo aptitude install kubuntu-desktop, is my machine running Ubuntu or Kubuntu?
+2007-07-05T07:13:00.000Z	etalli		so then am i running buntu?  :)
+2007-07-05T07:14:00.000Z	etalli		no I couldn't, it says I am logging into Ubuntu 7.04, so it is still Ubuntu underneath.
+2007-07-05T07:16:00.000Z	etalli		but now for the real question, the KDE was only for testing purposes, but when I installed kubuntu-desktop, it changed all of the startup logo and login thing to Kubuntu. I want the Ubuntu one back, can anyone help?
+2007-07-05T07:17:00.000Z	matze	etalli	: may install gnome
+2007-07-05T07:17:00.000Z	etalli	matze	what?

@@ -1,0 +1,6 @@
+2005-02-06T06:19:00.000Z	WW		As far as synaptic is concerned, the version -0ubuntu3 in warty-updates is newer than -0ubuntu2.1 in warty-security.
+2005-02-06T06:21:00.000Z	farruinn	WW	is warty-updates on archive.ubuntu.com?
+2005-02-06T06:23:00.000Z	WW	farruinn	Yes.
+2005-02-20T17:00:00.000Z	farruinn	WW	do 'dpkg-reconfigure --default-priority xserver-xfree86', afaik that will
+2005-02-20T17:06:00.000Z	WW	farruinn	Thanks for the tip.  I'll do some more searching to make sure about it, then give it a shot.
+2005-02-20T17:07:00.000Z	farruinn	WW	you could just backup your /etc/X11/XF86Config-4 file and run it

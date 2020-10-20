@@ -1,0 +1,6 @@
+2007-10-16T16:37:00.000Z	IdleOne		!repos | adante
+2007-10-16T16:38:00.000Z	adante	IdleOne	thanks, yes i've obtained a passing familiarity with the system, i have opened up all the repositories and the backport, but i'm still finding this stuff is a little out of date
+2007-10-16T16:38:00.000Z	adante	IdleOne	i was more looking for recommendations on repositories, if anybody had any
+2007-10-16T16:47:00.000Z	IdleOne	adante	to check versions of software that come with ubuntu check out http://packages.ubuntu.com
+2007-10-16T16:49:00.000Z	adante	IdleOne	ok so git 1.5 does not seem to exist in official packages, i mean are there other repositories out there which would have this? how do i find them? or what do people do when they decide they want this and it's not available? just build themselves? do they do this for every program?
+2007-10-16T16:50:00.000Z	IdleOne	adante	launchpad.net does have a section for users who create they're own packages

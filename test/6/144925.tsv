@@ -1,0 +1,6 @@
+2005-06-19T14:07:00.000Z	uc50ic4more	newbie01	- and you have made sure that the disk is *not* currently mounted before you start trying to create file systems in gparted?
+2005-06-19T14:07:00.000Z	newbie01	uc50ic4more	mount does not show anything about hdc
+2005-06-19T14:16:00.000Z	uc50ic4more	newbie01	- I could be wrong, but remember that the file system itself consumes a fair amount of space, and may skew the reported "capacity" of the drive
+2005-06-19T14:18:00.000Z	newbie01	uc50ic4more	  yaaar, i know this but another computer lost with a hd (sam size, ntfs) 9 gb. and not 17 gb
+2005-06-19T14:19:00.000Z	uc50ic4more	newbie01	- different file systems require differing amounts of space - try formatting a drive w/ the reiserfs :)
+2005-06-19T14:19:00.000Z	newbie01	uc50ic4more	/ yaaar : df -h output is " /dev/hdc              151G   33M  143G   1% /mnt/hdc"

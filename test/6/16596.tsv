@@ -1,0 +1,6 @@
+2010-10-14T21:58:00.000Z	fixxxermet		I installed Ubuntu from the alternate CD.  How can I remove all ubuntu / gnome GUI stuff and be left with only the console?
+2010-10-14T21:58:00.000Z	skfin	fixxxermet	You should install ubuntu server edition if you want non-gui installion
+2010-10-14T21:59:00.000Z	skfin	fixxxermet	Otherwise you can use http://www.psychocats.net/ubuntu/purekde (remove ubuntu there)
+2010-10-14T21:59:00.000Z	fixxxermet	skfin	I don't have physical access to the box right now
+2010-10-14T22:00:00.000Z	fixxxermet		thanks skfin
+2010-10-14T22:00:00.000Z	skfin	fixxxermet	Notice that it applies only in 10.10

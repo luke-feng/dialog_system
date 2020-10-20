@@ -1,0 +1,6 @@
+2007-03-04T14:45:00.000Z	Doble		Hi, I'm searchin some usable kernel boot arguments because my usb devices doesn't work at all.
+2007-03-04T14:47:00.000Z	gyaresu	Doble	Would you like some help?
+2007-03-04T14:48:00.000Z	Doble	gyaresu	Yes please :)
+2007-03-04T14:49:00.000Z	gyaresu	Doble	Open a terminal and run the command 'lspci' then pastebin it please.
+2007-03-04T14:53:00.000Z	Doble	gyaresu	http://www.pasteserver.net/362
+2007-03-04T14:56:00.000Z	gyaresu	Doble	:) got the link. What wasn't working... The USB right?

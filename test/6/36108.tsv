@@ -1,0 +1,6 @@
+2009-06-04T22:12:00.000Z	rah_		Any ideas why dhclient keeps getting ridiculously leases (~250 seconds) which it fails at renewing? This happens both at home and on campus, so it's unlikely to be a router problem. I'm running wpa_supplicant in the background, which seems to be doing fine. Nothing strange in the logs.
+2009-06-04T22:12:00.000Z	rah_		ridiculously short, that is
+2009-06-04T22:14:00.000Z	rah_		it's pretty good
+2009-06-04T22:14:00.000Z	fccf	rah_	I like that answer
+2009-06-04T22:15:00.000Z	rah_	fccf	using linux makes my cynicism levels rise dangerously
+2009-06-04T22:15:00.000Z	fccf	rah_	thats why we live in the basement

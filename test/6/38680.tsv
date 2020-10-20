@@ -1,0 +1,6 @@
+2009-08-16T19:14:00.000Z	kebomix1		hello,  i made separate home partition due to this tutorial  http://www.psychocats.net/ubuntu/separatehome   ; the question now :  i added few commands at the endo f the tutorial to make ubuntu read this home partition ,  do i need to do that with every distro. i will setup later like kubuntu or fedora ? !
+2009-08-16T19:14:00.000Z	ikonia	kebomix1	if you want them to use the same home partition, yes
+2009-08-16T19:14:00.000Z	ikonia	kebomix1	although it's better to get support from the person who wrote the tutorial
+2009-08-16T19:15:00.000Z	kebomix1	ikonia	thanks another question , when i setup kubuntu later , which mount point i will use , "/"  or "/home " ?
+2009-08-16T19:16:00.000Z	ikonia	kebomix1	errrrr / will be your / file system /home will be /home
+2009-08-16T19:16:00.000Z	kebomix1	ikonia	oh , k : thanks :D

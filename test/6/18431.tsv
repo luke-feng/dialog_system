@@ -1,0 +1,6 @@
+2010-08-06T06:06:00.000Z	Simeon_H		anyone else here bought powerdvd linux?
+2010-08-06T06:08:00.000Z	Simeon_H		well I wanted to see if it was any good
+2010-08-06T06:08:00.000Z	Simeon_H		but I purchased it from the canonical store yesterday and still no download link :(
+2010-08-06T06:09:00.000Z	headkase314	Simeon_H	I use VLC for DVDs, you may have to enable the Medibuntu repository and install libdvdcss2
+2010-08-06T06:10:00.000Z	headkase314	Simeon_H	I think I used VLC anyway - been so long since I watched a real DVD that I don't recall totally! ;)
+2010-08-06T06:11:00.000Z	headkase314	Simeon_H	Medibuntu information and you need libdvdcss2 for encrypted DVDs: https://help.ubuntu.com/community/Medibuntu

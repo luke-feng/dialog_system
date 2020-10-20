@@ -1,0 +1,6 @@
+2010-08-16T22:10:00.000Z	arooni-mobile		hey folks.  i hear a loud annoying beep (in any application), that comes out of my laptop's headphones whenever i hit backspace when theres nothing left to backspace.  how can i get rid of this?  ubuntu 10.04
+2010-08-16T22:11:00.000Z	banished	arooni-mobile	system->settings->audio, there you can set and disable the 'warning noise'
+2010-08-16T22:12:00.000Z	arooni-mobile	banished	my sound theme is no sounds;  alert volume is down to 0 and set to "Mute"
+2010-08-16T22:16:00.000Z	banished	arooni-mobile	is there a slide for beep in alsamixer?
+2010-08-16T22:16:00.000Z	banished		*slider
+2010-08-16T22:16:00.000Z	arooni-mobile	banished	yes beep was set at 100.  muted it and problem is gone

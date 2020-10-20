@@ -1,0 +1,6 @@
+2005-12-15T16:56:00.000Z	ntldr		Sorry for repeating, but no one answered: what package(s) do I need to make ubuntu a firewall/router/proxy with traffic shaping support?
+2005-12-15T16:56:00.000Z	ntldr		I am very new to *nix world
+2005-12-15T16:57:00.000Z	ntldr		and for traffic shaping?
+2005-12-15T16:58:00.000Z	HappyFool	ntldr	firestarter is a gnome firewall configurer. i did a quick search for 'traffic shaping' and came up with 'shaper' and 'wondershaper'
+2005-12-15T17:00:00.000Z	HappyFool	ntldr	no hits on htb in my package list
+2005-12-15T17:06:00.000Z	HappyFool	ntldr	try firestarter -- should let you get a basic firewall/router going

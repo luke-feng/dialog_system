@@ -1,0 +1,6 @@
+2009-07-12T04:45:00.000Z	Quatroking		hey there
+2009-07-12T04:46:00.000Z	Quatroking		I've got a 64-bit CPU, but from Intel and not AMD. Do I need the 64-bit iso or the i386?
+2009-07-12T04:47:00.000Z	Quatroking		Then the description is awfully confusing.
+2009-07-12T04:47:00.000Z	mzz	Quatroking	historical reasons.
+2009-07-12T04:48:00.000Z	mzz	Quatroking	I'm probably oversimplifying, but roughly it's intel adopting an architecture first used by amd in their athlon64 cpus.
+2009-07-12T04:48:00.000Z	mzz	Quatroking	(for extra confusion: intel has an older 64 bit architecture that's completely different)

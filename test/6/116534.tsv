@@ -1,0 +1,6 @@
+2007-11-05T00:19:00.000Z	bulmer		Hodapp-> its now in /boot/config-`uname -r`
+2007-11-05T00:21:00.000Z	bulmer		IanLiu-> no can undo rm
+2007-11-05T00:22:00.000Z	bulmer		johnation33-> you dont give sudo permission to a file system or volume, its the user you give access to
+2007-11-05T00:24:00.000Z	bulmer		Hodapp-> you just have to google for older kernel source
+2007-11-05T00:24:00.000Z	Hodapp	bulmer	Surely some packages exist with binaries? I'm just trying to avoid needing to build a kernel
+2007-11-05T00:30:00.000Z	Hodapp	bulmer	slocate reports otherwise

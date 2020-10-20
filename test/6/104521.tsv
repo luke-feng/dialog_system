@@ -1,0 +1,6 @@
+2007-06-16T09:25:00.000Z	palmer		question
+2007-06-16T09:26:00.000Z	palmer		i can connect my external usb hdd
+2007-06-16T09:26:00.000Z	palmer		but it's error everytime i eject
+2007-06-16T09:27:00.000Z	palmer		how to eject it safely?
+2007-06-16T09:27:00.000Z	palmer		i'm using feisty fawn
+2007-06-16T09:27:00.000Z	strabes	palmer	sudo eject /dev/disklocation

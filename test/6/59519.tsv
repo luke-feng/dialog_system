@@ -1,0 +1,6 @@
+2008-04-26T02:29:00.000Z	cardstroker		how do i shutdown from the command line?
+2008-04-26T02:29:00.000Z	covalent	cardstroker	use 'shutdown -h now'
+2008-04-26T02:31:00.000Z	cardstroker	covalent	says "Need to be root."
+2008-04-26T02:31:00.000Z	covalent	cardstroker	use 'sudo shutdown -h now' and your password.
+2008-04-26T02:33:00.000Z	cardstroker	covalent	got it, thanks!
+2008-04-26T02:33:00.000Z	covalent	cardstroker	-h = halt  -r = restart for your information. and you're welcome

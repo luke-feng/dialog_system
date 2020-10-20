@@ -1,0 +1,6 @@
+2010-11-13T23:59:00.000Z	stealthii		hi guys, I've installed ubuntu netbook edition 10.10 on a netbook - I need help with boot parameters:
+2010-11-13T23:59:00.000Z	stealthii		I need to add processor.max_cstate=1 usbcore.autosuspend=1 to the grub boot entry for ubuntu - where do I add this now?
+2010-11-14T00:00:00.000Z	Cyrano_De	stealthii	/etc/default/grub
+2010-11-14T00:01:00.000Z	stealthii	Cyrano_De	the grub boot options don't appear there - seems to be something more complicated it /etc/grub.d/*
+2010-11-14T00:02:00.000Z	Cyrano_De	stealthii	The GRUB_CMDLINE_LINUX_DEFAULT is where you need to add extra kernel params.
+2010-11-14T00:03:00.000Z	stealthii	Cyrano_De	that's brilliant, thanks

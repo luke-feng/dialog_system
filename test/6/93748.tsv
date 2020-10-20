@@ -1,0 +1,6 @@
+2009-12-14T21:38:00.000Z	LukaszT1		I have founnd it /boot/grub/grub.cfg
+2009-12-14T21:38:00.000Z	LukaszT1		Now the problem is it doesn't want to save it
+2009-12-14T21:39:00.000Z	LukaszT1		How do I save grub.cfg
+2009-12-14T21:39:00.000Z	Flare183	LukaszT1	Use gksudo gedit and edit it
+2009-12-14T21:40:00.000Z	Flare183	LukaszT1	You might have to edit it via the live CD
+2009-12-14T21:41:00.000Z	Flare183	LukaszT1	No problem.

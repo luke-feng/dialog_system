@@ -1,0 +1,6 @@
+2004-11-28T06:23:00.000Z	dle		I think I saw someone here say something about Webmin (from universe) misbehaving with Warty.  Does anyone know anything about that?
+2004-11-28T06:23:00.000Z	liberaltugboat	dle	webmin needs root
+2004-11-28T06:23:00.000Z	liberaltugboat		it wont work at all
+2004-11-28T06:23:00.000Z	liberaltugboat		unless you inable root
+2004-11-28T06:24:00.000Z	liberaltugboat		sudo passwd root
+2004-11-28T06:24:00.000Z	dle	liberaltugboat	Oh yeah, that was it.  Not a big deal really.

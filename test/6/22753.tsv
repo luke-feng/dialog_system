@@ -1,0 +1,6 @@
+2010-05-10T16:12:00.000Z	ne7work		hello all,
+2010-05-10T16:12:00.000Z	ne7work		how to install graphic enviorment for example gnome under ubuntu server edition 10.04 ?
+2010-05-10T16:13:00.000Z	ne7work		!flash
+2010-05-10T16:13:00.000Z	red2kic	ne7work	ubuntu-desktop will have *everything* you need.
+2010-05-10T16:14:00.000Z	red2kic	ne7work	You should be using Ubuntu-Desktop LiveCD instead of using server CD.
+2010-05-10T16:20:00.000Z	red2kic	ne7work	It'll be started automatically when you reboot the computer.

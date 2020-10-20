@@ -1,0 +1,6 @@
+2009-11-18T05:35:00.000Z	LM9		can someone test this command for me? sudo apt-cache pkgnames
+2009-11-18T05:37:00.000Z	LM9		I don't want to search the package I'm looking for. I want apt-cache to list a comprehensive list of packages currently installed
+2009-11-18T05:38:00.000Z	LM9		can someone test this for me: sudo apt-cache --get-selections
+2009-11-18T05:40:00.000Z	LM9		huh?
+2009-11-18T05:42:00.000Z	LM9		I just want a version of this: dpkg --get-selections ,except with the version number of the packages
+2009-11-18T05:44:00.000Z	zvacet	LM9	: why don´t you try command witch ZykoticK9 recommended to you

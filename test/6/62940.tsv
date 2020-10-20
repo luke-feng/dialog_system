@@ -1,0 +1,6 @@
+2008-04-16T23:47:00.000Z	talntid		How do I exit the Xserver back to a terminal?
+2008-04-16T23:48:00.000Z	talntid		need to completely shut down xserver
+2008-04-16T23:49:00.000Z	talntid		How do I exit the Xserver back to a terminal? I need to completely shut down xserver...
+2008-04-16T23:49:00.000Z	reasons	talntid	you could just switch to a tty
+2008-04-16T23:49:00.000Z	talntid	reasons	but it keeps the xserver running..
+2008-04-16T23:51:00.000Z	talntid	reasons	any way to shut it down cleanly?

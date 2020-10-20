@@ -1,0 +1,6 @@
+2006-10-05T14:49:00.000Z	Ben311		Qustion about Linux
+2006-10-05T14:49:00.000Z	Ben311		so I need to have a program called arudius recognize either the ath0 or eth0
+2006-10-05T14:49:00.000Z	Ben311		but I don't know the command in the terminal
+2006-10-05T14:49:00.000Z	Ben311		any hel
+2006-10-05T14:49:00.000Z	Ben311		help*
+2006-10-05T14:51:00.000Z	Niluje_	Ben311	 look at vi /etc/network/interfaces

@@ -1,0 +1,6 @@
+2011-07-21T19:15:00.000Z	Seaquake		Since I'm not on 10.10 I have no /dev/dsp device and OSS-only applications don't work as OSS was purposely removed from kernel.  I'm told OSS-Proxy is a way to recreate the dev device and pass the audio to PulseAudio but there is no package for installation of it as far as I can see, how do you install it?
+2011-07-21T19:16:00.000Z	wols_	Seaquake	snd-pcm-oss loaded?
+2011-07-21T19:17:00.000Z	Seaquake	wols_	is that osspd?
+2011-07-21T19:18:00.000Z	wols_	Seaquake	no. it's the way alsa allows OSS programs to work for the last ten years.and I doubt alsa was forked just for ubuntu
+2011-07-21T19:18:00.000Z	wols_	Seaquake	snd-pcm-oss is a kernel module
+2011-07-21T19:19:00.000Z	Seaquake	wols_	I don't care about your kernel module - i care about osspd

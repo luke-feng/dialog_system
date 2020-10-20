@@ -1,0 +1,6 @@
+2009-08-23T18:03:00.000Z	JOSHUA__		I've been having this problem for a long time now But in short, there's not a single distro of linux that will boot with my graphics card enabled.
+2009-08-23T18:03:00.000Z	JOSHUA__		It's an NVidia GeForce FX 5200, so it's quite old
+2009-08-23T18:04:00.000Z	JOSHUA__		but it's what I have, and I'd like it to work. It's PCI.
+2009-08-23T18:05:00.000Z	JOSHUA__		A friend told me that Ubuntu 9.04 fixed a problem with a similar card of hers, so I decided to give it a shot.
+2009-08-23T18:05:00.000Z	VCoolio	JOSHUA__	no problems here with same card and nvidia 173 driver
+2009-08-23T18:06:00.000Z	JOSHUA__	VCoolio	My PC has an onboard intel chipset that's conflicting with it.

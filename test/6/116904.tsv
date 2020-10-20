@@ -1,0 +1,6 @@
+2006-05-27T15:35:00.000Z	dubidu		hi all i have a problem with firestartes
+2006-05-27T15:36:00.000Z	dubidu		it blokc me the inbound connection from clients
+2006-05-27T15:38:00.000Z	dubidu		somebody can help me to set firestarter to allow inbound connections from client?
+2006-05-27T15:39:00.000Z	pike__	dubidu	when you run firestarter: sudo firestarter there is a policy tab i believe
+2006-05-27T15:39:00.000Z	dubidu	pike__	yes there is
+2006-05-27T15:40:00.000Z	pike__	dubidu	thats all i got :)

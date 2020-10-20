@@ -1,0 +1,6 @@
+2006-01-19T13:51:00.000Z	tkroo		i have no sound :( where do i look to see if the sound card is even recognized?
+2006-01-19T13:53:00.000Z	ilba7r	tkroo	try lspci you should found your card there
+2006-01-19T13:54:00.000Z	ilba7r	tkroo	so you can play sounds right
+2006-01-19T13:55:00.000Z	tkroo	ilba7r	no
+2006-01-19T14:53:00.000Z	ilba7r	tkroo	just wonder how you did that so i can try it on a friend box ;)
+2006-01-19T14:55:00.000Z	ilba7r	tkroo	that is really unfourtunate. I know how you feel

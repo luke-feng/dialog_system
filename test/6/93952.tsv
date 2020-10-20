@@ -1,0 +1,6 @@
+2007-02-13T06:23:00.000Z	LycoLoc1		hi all - I'm using a live CD to try to fix a problem I've been having - how would I go about running fsck on my linux partition, which is hdb2?
+2007-02-13T06:24:00.000Z	zorba64	LycoLoc1	ext3 file system - sudo fsck.ext3 /dev/hdb2
+2007-02-13T06:25:00.000Z	LycoLoc1	zorba64	thanks :-)
+2007-02-13T06:25:00.000Z	LycoLoc1	zorba64	it immediately comes back clean...which doesn't seem right
+2007-02-13T06:26:00.000Z	zorba64	LycoLoc1	then filesystem errors may not be the prob
+2007-02-13T06:26:00.000Z	LycoLoc1	zorba64	alrighty, thanks

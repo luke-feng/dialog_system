@@ -1,0 +1,6 @@
+2011-10-05T05:08:00.000Z	Shatters		lol that's what I did the last time I installed cuttlefish, but when I was in here last night it sounded way complicated to use the second partition (logical) to install new programs.
+2011-10-05T05:09:00.000Z	Shatters		and after all the updates required when installing ub. 10 luc. it leaves me with about 2 gig space for more programs.
+2011-10-05T05:10:00.000Z	Shatters		it's very bad when the updates are taking up 50% of the expected system space
+2011-10-05T05:10:00.000Z	Shatters		hmm not sure about symlinks. gotta google it. I've only used Ubuntu for a few days now.
+2011-10-05T05:11:00.000Z	soreau	Shatters	apt-cache clean should give some room by deleting downloaded packages I believe
+2011-10-05T05:11:00.000Z	soreau	Shatters	yes, symbolic links are like shortcuts in a way

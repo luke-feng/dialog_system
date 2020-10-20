@@ -1,0 +1,6 @@
+2007-12-16T16:43:00.000Z	hang3r		getting samba onto a domain is just a matter of changing WORKGROUP to the domains name isn't it?
+2007-12-16T16:43:00.000Z	MooseMorals	hang3r	yup
+2007-12-16T16:45:00.000Z	MooseMorals	hang3r	yes, that sounds like a nice summary of how to get a linux box onto a windows network
+2007-12-16T16:48:00.000Z	hang3r	MooseMorals	I am also going to need to get the shares browsable without a password or username, is this just a matter of making a share and setting "public = yes"? Or are their more steps I'll need to take
+2007-12-16T16:49:00.000Z	MooseMorals	hang3r	ok, now you're geting technical :). That sounds correct, but its been a while since I've edited smb.conf. I do remember that there are alot of examples in the file tho
+2007-12-16T16:51:00.000Z	hang3r	MooseMorals	thanks anyway, I'm trying to get a config going at home so all I have to do is take my config to work and then migrate our file server from windows to ubuntu ;)

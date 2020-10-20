@@ -1,0 +1,6 @@
+2012-10-13T20:20:00.000Z	harushimo		I installed ssh on my ubuntu machine. I get a connection timed out message
+2012-10-13T20:20:00.000Z	harushimo		what do I need to check for?
+2012-10-13T20:21:00.000Z	TJ-	harushimo	Did you install "openssh-server" ?
+2012-10-13T20:21:00.000Z	TJ-	harushimo	And when you connect from another machine on the same network you get connection timed out? I'd suspect a firewall preventing incoming connections on the SSH-server PC
+2012-10-13T20:22:00.000Z	TJ-	harushimo	As wols said - check that the process is listening.
+2012-10-13T20:24:00.000Z	TJ-	harushimo	Can you connect to it locally? From the same PC?

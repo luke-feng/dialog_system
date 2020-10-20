@@ -1,0 +1,6 @@
+2008-12-25T18:28:00.000Z	Keigo-kun		I got a Ubuntu 8.10 live DVD in Linux Format and tried it on my Macbook.. ubuntu starts fine but my wireless isn't working. According to the ubuntu community help, wireless SHOULD work out of the box on Macbook1,1...
+2008-12-25T18:28:00.000Z	Keigo-kun		I tried sudo lshw -C network and I got "UNCLAIMED"
+2008-12-25T18:29:00.000Z	Yuji1	Keigo-kun	Depends on chipset and what drivers it uses.
+2008-12-25T18:32:00.000Z	Yuji1	Keigo-kun	What exactly isn't working? Clicked networking to bring up a list of APs?
+2008-12-25T18:34:00.000Z	Keigo-kun	Yuji1	Nothing is working. Networking wireless has nothing
+2008-12-25T18:34:00.000Z	Yuji1	Keigo-kun	I'm unsure then. I don't understand what you're saying is why. :/

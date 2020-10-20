@@ -1,0 +1,6 @@
+2007-04-24T13:01:00.000Z	sherlock		Hi, i deleted the bottom toolbar in gnome, how do i get it back>??
+2007-04-24T13:03:00.000Z	sherlock		tatster: did you look at /etc/resolve.conf
+2007-04-24T13:04:00.000Z	sherlock		then upgrade to feisty
+2007-04-24T13:05:00.000Z	tatster_	sherlock	Yes - the only difference is that the Mac doesn't have an entry for domain
+2007-04-24T13:05:00.000Z	tatster_	sherlock	they both have nameserver 192.168.02.53  and search warren.local
+2007-04-24T13:08:00.000Z	tatster_	sherlock	I might pop over to a Bind channel and see what response I get there.  Thanks

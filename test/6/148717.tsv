@@ -1,0 +1,6 @@
+2005-08-29T10:44:00.000Z	mae		Hi, I just installed breezy colony-3 .. i am having an issue, i loaded my old config from hoary for xorg.conf.. and i am getting a strange thing "keyboard" driver not found..
+2005-08-29T10:44:00.000Z	HrdwrBoB	mae	yeah the keyboard driver changed
+2005-08-29T10:44:00.000Z	mae	HrdwrBoB	whats the new name?
+2005-08-29T10:45:00.000Z	HrdwrBoB	mae	IIRC if you comment our that line it'll auto load the right one
+2005-08-29T10:45:00.000Z	mae	HrdwrBoB	thanks
+2005-08-29T10:46:00.000Z	mae	HrdwrBoB	when i comment out that now i get same thing lol, driver not found "keyboard"

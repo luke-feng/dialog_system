@@ -1,0 +1,6 @@
+2005-07-08T06:31:00.000Z	alxwind		guys, how can i extract tar.gz archives in termina?
+2005-07-08T06:32:00.000Z	alxwind		10x
+2005-07-08T06:32:00.000Z	thoreauputic	alxwind	 tar xvzf file.tar.gz
+2005-07-08T07:34:00.000Z	thoreauputic	alxwind	ewww.... why would you want xpde ?
+2005-07-08T07:37:00.000Z	thoreauputic	alxwind	the very thought of making linux look like Xp horrifies me, sorry ;)
+2005-07-08T07:40:00.000Z	thoreauputic	alxwind	it's probably ~/.xinitrc, which is deprecated anyway - use ~/.xsession

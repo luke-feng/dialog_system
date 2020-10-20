@@ -1,0 +1,6 @@
+2009-03-31T17:59:00.000Z	wedgeV		hi, how do i get /sbin/mount.smbfs ? its not there on my installation
+2009-03-31T18:00:00.000Z	nathan7	wedgeV	Am looking it up for you.
+2009-03-31T18:00:00.000Z	wedgeV	nathan7	thanks!
+2009-03-31T18:01:00.000Z	nathan7	wedgeV	Try apt-get installing smbfs.
+2009-03-31T18:01:00.000Z	wedgeV	nathan7	ah thanks, i was searching for 'samba' :)
+2009-03-31T18:01:00.000Z	nathan7	wedgeV	http://tinyurl.com/smbfs-package

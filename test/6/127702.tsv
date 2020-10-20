@@ -1,0 +1,6 @@
+2009-08-23T06:53:00.000Z	david1		how can i set up a username/password to access another computers files on my lan - i can see the shared folder in "smb://" i can see the workgroup computers but it prompts for a username/password which i dont know?
+2009-08-23T06:55:00.000Z	Dr_Willis	david1	 'sudo smbpasswd -a username' sets the samba password for that user.
+2009-08-23T06:56:00.000Z	Dr_Willis	david1	 each user has their 'password' then a smb password that can be different.
+2009-08-23T06:56:00.000Z	Dr_Willis	david1	 theres ways to sync the 2. but i never have done that.
+2009-08-23T06:56:00.000Z	david1		oh i see, thanks ill try that
+2009-08-23T07:02:00.000Z	david1	Dr_Willis	thanks mate, it works perfectly now (Y)

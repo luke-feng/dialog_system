@@ -1,0 +1,6 @@
+2005-07-25T07:37:00.000Z	wingo		hey folks, anyone know how l10n works? i tried to restart gnome with es_ES as my language but a lot of apps appear untranslated (which I know are translated) -- this on breezy
+2005-07-25T07:38:00.000Z	RQ	wingo	they might be untranslated
+2005-07-25T07:39:00.000Z	RQ	wingo	plus, you should install language packs for es_ES
+2005-07-25T07:40:00.000Z	wingo	RQ	thanks, giving it a try
+2005-07-25T07:43:00.000Z	wingo	RQ	wow, not sure exactly what that package does, but it seems to have done the trick. thanks much.
+2005-07-25T07:43:00.000Z	RQ	wingo	apt-cache show it

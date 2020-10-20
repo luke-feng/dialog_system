@@ -1,0 +1,6 @@
+2004-10-27T15:08:00.000Z	jmweirick		i need some help setting up DHCP
+2004-10-27T15:09:00.000Z	jmweirick		i have a cable internet connection but it is hooked to my computer using an ethernet to USB adapter by SMC
+2004-10-27T15:10:00.000Z	jmweirick		most distros detect it automagically but some have trouble
+2004-10-27T15:10:00.000Z	SmokingFire	jmweirick	did it find the adpater?
+2004-10-27T15:11:00.000Z	SmokingFire	jmweirick	click on Computer --> System Conf --> Networking
+2004-10-27T15:12:00.000Z	jmweirick	SmokingFire	right now i'm in windows 98

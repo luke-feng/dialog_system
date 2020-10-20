@@ -1,0 +1,6 @@
+2010-11-24T05:08:00.000Z	The_Paco		I've chown and chgrp a bunch of mp3s and a directory I want to move them to to my name and my group, but can't move them to the directory without sudo. Why?
+2010-11-24T05:08:00.000Z	edbian	The_Paco	What are the permissions on the destination folder?
+2010-11-24T05:10:00.000Z	The_Paco	edbian	also owned by me and in my group, also can't move it
+2010-11-24T05:11:00.000Z	edbian	The_Paco	Can you pastebin ls -l on the files and ls -l on the dest folder?
+2010-11-24T05:17:00.000Z	The_Paco	edbian	http://paste.ubuntu.com/535710/
+2010-11-24T05:18:00.000Z	edbian	The_Paco	The only way that shouldn't be working is if you're not logged in as john

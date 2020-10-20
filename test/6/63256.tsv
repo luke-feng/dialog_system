@@ -1,0 +1,6 @@
+2008-02-29T18:19:00.000Z	Magilla		does anyone know a mailserver that can download from POP accounts and re-serve as IMAP?
+2008-02-29T18:20:00.000Z	Magilla		thanks waylandbill
+2008-02-29T18:20:00.000Z	Squawk	Magilla	a mail server doesnt download pop accounts. What you are after is 2 different bits of software
+2008-02-29T18:20:00.000Z	Magilla	Squawk	I believe Exchange SBS does it ;P
+2008-02-29T18:20:00.000Z	Squawk	Magilla	you want something like fetchmail to get mail off a pop serer, and then something like qmail or sendmail to act as another mail server
+2008-02-29T18:23:00.000Z	Squawk	Magilla	there may well be software out there that does that function taht I am not aware of, but if there is then it is more than just a mail server. I never used exchange

@@ -1,0 +1,6 @@
+2006-11-10T16:21:00.000Z	PuGz		hey guys. i have installed the firestarter firewall... but now i can't open the gtk window anymore (since I enabled the firewall)... is it blocking root's access to the X server so i cant open the firestarter window with sudo?
+2006-11-10T16:21:00.000Z	PuGz		Xlib: connection to ":0.0" refused by server
+2006-11-10T16:21:00.000Z	rickyfingers	PuGz	are you trying to start firestarter from the command prompt?
+2006-11-10T16:23:00.000Z	PuGz	rickyfingers	yes
+2006-11-10T16:25:00.000Z	PuGz	rickyfingers	i just tried from the Administration menu... no luck
+2006-11-10T16:32:00.000Z	PuGz	rickyfingers	you have an idea?

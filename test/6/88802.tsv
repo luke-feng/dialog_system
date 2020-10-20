@@ -1,0 +1,6 @@
+2007-05-13T16:18:00.000Z	d2dchat		helloo
+2007-05-13T16:18:00.000Z	d2dchat		can anyone hear me?
+2007-05-13T16:18:00.000Z	d2dchat		haha well fine, can anyone help me figure out why my resolution is stuck in 800x600?
+2007-05-13T16:19:00.000Z	aro	d2dchat	what video card do you have
+2007-05-13T16:19:00.000Z	d2dchat	aro	it's on the motherboard, VIA chipset i believe
+2007-05-13T16:20:00.000Z	aro	d2dchat	I don't know on those obscure onboard cards, you might have to google it and edit /etc/X11/xorg.conf accordingly

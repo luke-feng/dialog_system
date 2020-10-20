@@ -1,0 +1,6 @@
+2010-05-16T19:31:00.000Z	miromanyth		Anyone know of a decent way to eliminate video tearing with an ATI card using the catalyst drivers? I've tried VAAPI, it doesn't help much
+2010-05-16T19:31:00.000Z	SwedeMike	miromanyth	vblank ?
+2010-05-16T19:32:00.000Z	miromanyth	SwedeMike	I'm sorry - vblank?
+2010-05-16T19:32:00.000Z	SwedeMike	miromanyth	have you enabled "wait for vblank" ?
+2010-05-16T19:32:00.000Z	miromanyth	SwedeMike	Oh, you mean "Vsync"? If so, yes. It doesn't help. In fact it worsens it sometimes
+2010-05-16T19:33:00.000Z	SwedeMike	miromanyth	oki.

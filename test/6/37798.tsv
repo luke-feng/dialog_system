@@ -1,0 +1,6 @@
+2010-09-13T16:44:00.000Z	jim__		Gmorning
+2010-09-13T16:46:00.000Z	jim__		I am trying to modify the /boot/grub/grub.cfg file and it tells me I do not have permisson to do that .... any tips?
+2010-09-13T16:46:00.000Z	jim__		I am the system admin
+2010-09-13T16:46:00.000Z	bilalakhtar	jim__	you need to open the text editor as root to do that
+2010-09-13T16:47:00.000Z	bilalakhtar	jim__	ppress Alt+F2 and then type gksu gedit /boot/grub/grub.cfg
+2010-09-13T16:47:00.000Z	bilalakhtar	jim__	but BE warned

@@ -1,0 +1,6 @@
+2006-02-20T14:08:00.000Z	w3svc		need help changing screen resolution to ubuntu server with out gui
+2006-02-20T14:09:00.000Z	trappist	w3svc	sudo dpkg-reconfigure xserver-xorg
+2006-02-20T14:09:00.000Z	w3svc	trappist	i'm running in just terminal and dont have that installed
+2006-02-20T14:10:00.000Z	trappist	w3svc	oh I see what you mean.  you'll need something in your grub.conf like vga=<something>
+2006-02-20T14:10:00.000Z	w3svc		Guard] [an: do you have a button to activate your WiFi?
+2006-02-20T14:10:00.000Z	w3svc	trappist	lol ;) hehe np, thnx

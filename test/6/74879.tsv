@@ -1,0 +1,6 @@
+2011-03-23T03:01:00.000Z	SudoKing		what's a quick way to boot into ubuntu to a terminal without mounting the primary hard drive?
+2011-03-23T03:03:00.000Z	SudoKing		i want to run some fsck utils
+2011-03-23T03:03:00.000Z	arand	SudoKing	Use a LiveCD? (Doing root FS read only should be possible though tricky and limiting, afaik).
+2011-03-23T03:03:00.000Z	SudoKing	arand	i know about that way... wanted to know if there was a simpler method :/
+2011-03-23T03:04:00.000Z	SudoKing		like could you do it through GRUB?
+2011-03-23T03:06:00.000Z	arand	SudoKing	Not sure this is what you want but read-only should be a simple matter of the kernel boot option "ro"

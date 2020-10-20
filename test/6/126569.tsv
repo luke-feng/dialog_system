@@ -1,0 +1,6 @@
+2006-01-19T06:11:00.000Z	pete_a		ok, BIG TIME rookie mistake.  I accidently removed the firefox dir under /opt
+2006-01-19T06:11:00.000Z	pete_a		After your done laughing, can some please tell me how I reinstall firefox
+2006-01-19T06:13:00.000Z	pete_a		all:  should i try to install 1.07 or 1.5?
+2006-01-19T06:13:00.000Z	Ng	pete_a	synaptic can reinstall a package, which you should do anyway, but 1.5 is nicer if you can be arsed with the wiki instructions :)
+2006-01-19T06:17:00.000Z	pete_a	Ng	 I tried System->Administration->Synaptic Package Manager.  Selected Reinstall for firefox, firefox gnome support and mozilla-firefox-local-en-gb and hit Apply.  Do i need to do anything else?
+2006-01-19T06:18:00.000Z	Ng	pete_a	that should be it for 1.0.7

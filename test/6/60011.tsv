@@ -1,0 +1,6 @@
+2008-04-21T19:08:00.000Z	mattywarr		hi - is there any way to set ubuntu to always open .exe files with WINE? At present I need to right click and "Open With"?
+2008-04-21T19:09:00.000Z	hwilde	mattywarr	right click on one, properties,  "Open With"  tab
+2008-04-24T04:23:00.000Z	hwilde	mattywarr	vino-preferences
+2008-04-24T04:24:00.000Z	hwilde	mattywarr	freenx rocks
+2008-04-24T04:24:00.000Z	mattywarr	hwilde	can I get a windows client to connect to it? I want to connect to my ubuntu pc from work (Windows XP)
+2008-04-24T04:25:00.000Z	hwilde	mattywarr	most of htem have a java applet web browser.  that should work on any os

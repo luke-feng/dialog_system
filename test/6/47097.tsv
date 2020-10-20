@@ -1,0 +1,6 @@
+2010-01-02T00:57:00.000Z	Flootenkerp		I used the command sudo apt-get install java-gcj-compat-headless but I still can't get the java to work
+2010-01-02T00:58:00.000Z	Flootenkerp		Could anyone help me out?
+2010-01-02T00:59:00.000Z	mezquitale	Flootenkerp	use "add/remove" and search for "java"
+2010-01-02T01:01:00.000Z	mezquitale	Flootenkerp	use "add/remove" search for "java", if it's not working what are you trying to do and what is happening when it fails?
+2010-01-02T01:03:00.000Z	mezquitale	Flootenkerp	use "add/remove" search for "java", install java support, then try to view on firefox whatever it is youre trying to view, if it fails describe the issue you are experiencing
+2010-01-02T01:05:00.000Z	mezquitale	Flootenkerp	j"java support" is included in java 6.0 plugin or ubuntu restricted extras, java runtime will also install what you need

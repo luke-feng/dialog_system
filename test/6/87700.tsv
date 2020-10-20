@@ -1,0 +1,6 @@
+2010-09-23T06:26:00.000Z	tripleb		rames--"it sounds like you might have misconfigured something with your graphics setup so that it isn't supporting your video card correctly anymore
+2010-09-23T06:26:00.000Z	tripleb		" YES. --"if you can get a ~better~ resolution via that "xrandr -s ...." command that'll help you to be able to diagnose the probable real root cause (misconfigured graphics card driver)" yes but I've got it pretty functional, if still difficult, now. --- SITUATION: my letters were too big. I went to Drivers. It suggested Nvidia driver not activated, so I clicked on activate.  HERE's my EQ: VGA compatible controller: nVidia Corporation NV
+2010-09-23T06:28:00.000Z	tripleb		warning: output LVDS not found; ignoring
+2010-09-23T06:29:00.000Z	tripleb		is there a way I can boot up in "safe mode" for the graphics
+2010-09-23T06:30:00.000Z	tripleb		well thanks rames
+2010-09-23T06:30:00.000Z	Gnea	tripleb	when you boot up, there should be a 'safe mode' session

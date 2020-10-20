@@ -1,0 +1,6 @@
+2007-05-02T09:09:00.000Z	thelostpatrol		are there logitech mouse drivers for linux?
+2007-05-02T09:09:00.000Z	variant	thelostpatrol	yes
+2007-05-02T09:10:00.000Z	variant	thelostpatrol	the generic mouse driver covers virtually every mouse device and keyboards
+2007-05-02T09:12:00.000Z	variant	thelostpatrol	are you having issues with your mouse?
+2007-05-02T09:12:00.000Z	variant	thelostpatrol	they are built into linux (the kernel)
+2007-05-02T09:12:00.000Z	variant	thelostpatrol	apt-cache search kerberos

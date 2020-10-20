@@ -1,0 +1,6 @@
+2007-12-01T02:29:00.000Z	t4m1n0		how can I get informations about what wifi router i have ?
+2007-12-01T02:30:00.000Z	offipso	t4m1n0	get the model number off the physical router and look it up, or log into the router's html intreface and look there
+2007-12-01T02:30:00.000Z	t4m1n0	offipso	core64 there has to be a way to get info from chair,..
+2007-12-01T02:31:00.000Z	offipso	t4m1n0	what is your internal ip? e.g., log into 192.168.1.1
+2007-12-01T02:31:00.000Z	offipso	t4m1n0	Then check out www.goldsgym.com
+2007-12-01T02:31:00.000Z	t4m1n0	offipso	ok..

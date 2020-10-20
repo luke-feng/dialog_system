@@ -1,0 +1,6 @@
+2009-03-30T21:13:00.000Z	amh		is there a remote server for ubuntu that doesn't lag unbearably?
+2009-03-30T21:14:00.000Z	amh		remote desktop i should say.
+2009-03-30T21:14:00.000Z	jelly-bean	amh	yes vino is the laggard. get a tightvnc server
+2009-03-30T21:15:00.000Z	amh	jelly-bean	:: should i remove vino?
+2009-03-30T21:16:00.000Z	jelly-bean	amh	nah it is still useful for some things. keep it around. just disable it or don't connect on display :0 (5900) use 5901 or :1 instead
+2009-03-30T21:16:00.000Z	jelly-bean	amh	and connect using -encodings "tight"

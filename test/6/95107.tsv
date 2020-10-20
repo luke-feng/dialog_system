@@ -1,0 +1,6 @@
+2007-03-19T11:20:00.000Z	Desmaano		so if i boot from a Live CD i can change my login name and password ?
+2007-03-19T11:21:00.000Z	mage___	Desmaano	password, easily, username you'd need to do some more
+2007-03-19T11:28:00.000Z	mage___	Desmaano	just look at the /etc/password file
+2007-03-19T11:34:00.000Z	Desmaano	mage___	I opened the file etc/passwd, where can i find my username ?
+2007-03-19T11:35:00.000Z	mage___	Desmaano	did you steal someones ubuntu box?
+2007-03-19T11:36:00.000Z	mage___	Desmaano	hahaha, well you should recognize it anyways, its at the bottom, or real close

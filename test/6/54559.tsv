@@ -1,0 +1,6 @@
+2011-07-18T18:20:00.000Z	BluesKaj	brahmana	are you sure you deleted the ubuntu partition , or did you install windows after installing ubuntu and now you can't access
+2011-07-18T18:20:00.000Z	brahmana	BluesKaj	I am pretty sure I deleted the Ubuntu parition. Though I had that other problem that you stated quite a few years ago... :)
+2011-07-18T18:30:00.000Z	BluesKaj	brahmana	if you can find an app called easyBCD then you should be able fix the mbr on W7/Vista using that .
+2011-07-18T18:31:00.000Z	brahmana	BluesKaj	Just looked at easyBCD's website. Does it work when I am not able to boot into any OS at all?
+2011-07-18T18:32:00.000Z	BluesKaj	brahmana	I thought it was on a live-cd
+2011-07-18T18:33:00.000Z	brahmana	BluesKaj	Ok. Will read the guides. Thank you for the suggestion.

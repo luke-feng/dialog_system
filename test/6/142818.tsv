@@ -1,0 +1,6 @@
+2005-10-16T11:00:00.000Z	kennethlove		can anyone point me to a guide on installing/running postgresql on ubuntu?
+2005-10-16T11:01:00.000Z	kennethlove		or at least tell me where it installs it?
+2005-10-16T11:01:00.000Z	Belutz	kennethlove	sudo apt-get install postgresql
+2005-10-16T11:01:00.000Z	kennethlove	Belutz	yeah, i got that part. :)
+2005-10-16T11:01:00.000Z	Belutz	kennethlove	then run it sudo /etc/init.d/postgresql start :D
+2005-10-16T11:02:00.000Z	kennethlove	Belutz	heh. thanks.

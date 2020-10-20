@@ -1,0 +1,6 @@
+2008-08-01T15:44:00.000Z	Blaqlight	acemo	if its 4kb blocks then well... you do the math.. it adds up.
+2008-08-01T15:39:00.000Z	Blaqlight	acemo	the file itself doesn't take up any more space, its just how the filesystem interprets the space available for a certian block of code/text/ whatever.
+2008-08-01T15:40:00.000Z	acemo	Blaqlight	so it could be that the files appear to be bigger while there not?
+2008-08-01T15:41:00.000Z	Blaqlight	acemo	yes exactly
+2008-08-01T15:41:00.000Z	acemo	Blaqlight	great, thanks!
+2008-08-01T15:42:00.000Z	Blaqlight	acemo	the filesystem always reads a block as full if something occupies it, whether or not its acually "full"

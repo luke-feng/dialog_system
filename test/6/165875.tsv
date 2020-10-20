@@ -1,0 +1,6 @@
+2004-09-28T08:07:00.000Z	tuggy		err... sorry, why cant i execute any files i download from the internet?
+2004-09-28T08:08:00.000Z	tuggy		done it
+2004-09-28T08:08:00.000Z	tuggy		./command only gives me "permission denied"
+2004-09-28T08:08:00.000Z	tuggy		. ./command gives me "bash: ELF
+2004-09-28T08:08:00.000Z	tuggy		i dont think so
+2004-09-28T08:08:00.000Z	Mithrandir	tuggy	chmod +x command ; ./command, then?

@@ -1,0 +1,6 @@
+2007-08-31T16:11:00.000Z	rdvon		I have a problem with viewing my files on a removable flash drive...
+2007-08-31T16:11:00.000Z	rdvon		I use it for my phone (it's a micro sd card)
+2007-08-31T16:11:00.000Z	rdvon		but it doesnt seem to show it on my desktop
+2007-08-31T16:13:00.000Z	rdvon		Does anyone know how to get a usb flash drive to mount in ubuntu? It won't show on my desktop or in places>computer.
+2007-08-31T16:14:00.000Z	rdvon		Jack_sparrow: I have a problem with windows where the usb flash drive won't detect when.. I think My back usb ports are only usb 1.0
+2007-08-31T16:14:00.000Z	idefixs	rdvon	 switch to console (CTRL-ALT-F1), plug in the device and check if there is any message popping up

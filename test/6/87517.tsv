@@ -1,0 +1,6 @@
+2007-05-04T12:20:00.000Z	fsckit		anyone know how to execute a command line command in a bash script?
+2007-05-04T12:20:00.000Z	ConstyXIV	fsckit	just put the command in?
+2007-05-04T12:22:00.000Z	fsckit	ConstyXIV	execute xrandr to change the resolution. i can do it in a console but want a one button click to do it
+2007-05-04T12:23:00.000Z	ConstyXIV	fsckit	just write in a textfile, "#!/bin/bash"(newline)"(command)", or "gksudo (command)"
+2007-05-04T12:24:00.000Z	fsckit	ConstyXIV	thanks, i'll try it
+2007-05-04T12:25:00.000Z	fsckit	ConstyXIV	actually, i already did but no quotes in it anywhere

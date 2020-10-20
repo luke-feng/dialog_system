@@ -1,0 +1,6 @@
+2004-11-09T15:28:00.000Z	ogra	pnuw	enabled universe in synaptic ?
+2004-11-09T15:28:00.000Z	pnuw	ogra	- was just starting to do that
+2004-11-09T15:29:00.000Z	ogra	pnuw	ogra@monkey:~ $ apt-cache search wlan-ng
+2004-11-09T15:30:00.000Z	ogra	pnuw	linux-wlan-ng - utilities for wireless prism2 cards
+2004-11-09T15:30:00.000Z	pnuw	ogra	 yeah I used it before under gentoo, I added universe and am installing it now.  thanks
+2004-11-09T15:30:00.000Z	ogra	pnuw	;)

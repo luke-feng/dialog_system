@@ -1,0 +1,6 @@
+2008-05-06T02:03:00.000Z	moya		I can't see /etc/inittab, how can I enable mgetty to bind to /dev/ttyACM0 like I used to do with /etc/inittab?
+2008-05-06T02:05:00.000Z	erUSUL	moya	/etc/event.d/tty* ??
+2008-05-06T02:10:00.000Z	moya	erUSUL	what command makes the system reread /etc/event.d ?
+2008-05-06T02:14:00.000Z	erUSUL	moya	start tt* i think
+2008-05-06T02:18:00.000Z	erUSUL	moya	found this http://www.debuntu.org/how-to-set-up-a-serial-console-on-ubuntu
+2008-05-06T02:20:00.000Z	moya	erUSUL	thanks

@@ -1,0 +1,6 @@
+2008-10-15T05:02:00.000Z	GodfatherofEir1		Slight OO.o problem, under the options menu, there should be an online update sub-menu, but its missing, any ideas?
+2008-10-15T05:02:00.000Z	soundray	GodfatherofEir1	you should use Ubuntu mechanisms for updating
+2008-10-15T05:03:00.000Z	soundray	GodfatherofEir1	specifically?
+2008-10-15T05:05:00.000Z	soundray	GodfatherofEir1	are you on hardy or intrepid?
+2008-10-15T05:06:00.000Z	soundray	GodfatherofEir1	stick with 2.4 then. Intrepid will be released 30/10, then you can safely update your entire installation and get OOo 3
+2008-10-15T05:07:00.000Z	soundray	GodfatherofEir1	backup so you can "downgrade"

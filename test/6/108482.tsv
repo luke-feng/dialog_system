@@ -1,0 +1,6 @@
+2008-11-26T03:29:00.000Z	Fezzler1		Need help on how to run fsck on newly cloned HD
+2008-11-26T03:30:00.000Z	Fezzler1		Instructions say to run "fsck.ext3 -f but I don't have a ext3
+2008-11-26T03:31:00.000Z	lupine_85	Fezzler1	it's in e2fsprogs
+2008-11-26T03:32:00.000Z	lupine_85	Fezzler1	sounds nice
+2008-11-26T03:34:00.000Z	lupine_85	Fezzler1	the usual way. point it at the right partition (probably /dev/hda5 in your case)
+2008-11-26T03:36:00.000Z	lupine_85	Fezzler1	did you mkfs it yet?

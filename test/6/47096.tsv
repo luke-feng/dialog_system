@@ -1,0 +1,6 @@
+2010-02-05T00:59:00.000Z	Danbo19		Hello, I am trying to sync my ipod nano using itunes in virtualbox. I have sucsessfully set up windows in virtualbox, my question is: where do I put my music so I can access it in the virtual machine?
+2010-02-05T01:00:00.000Z	Danbo19		really? I was unaware itunes works in wine now
+2010-02-05T01:01:00.000Z	Danbo19		that sound easier than virtualbox
+2010-02-05T01:01:00.000Z	Danbo19		oh, okay well thanks
+2010-02-05T01:02:00.000Z	mezquitale	Danbo19	I dont know how the access is done with iTunes meaning I dont know where the data needs to be stored but if you have files in your ubuntu hard drive then you can access it in your virtual machine, install guest additions first though
+2010-02-05T01:03:00.000Z	mezquitale	Danbo19	is your device being detected in the virtual machine?

@@ -1,0 +1,6 @@
+2008-01-22T01:03:00.000Z	frustrated_newbi		hi
+2008-01-22T01:04:00.000Z	frustrated_newbi		trying to setup ubuntu gutsy when I boot up in my Xorg.conf I see (EE) Failed to load module "type1" (module does not exist, 0) where can I download this module from ?
+2008-01-22T01:05:00.000Z	Starnestommy	frustrated_newbi	it's either the package freetype1-tools or type1inst
+2008-01-22T01:07:00.000Z	Starnestommy		yes
+2008-01-22T01:09:00.000Z	frustrated_newbi	Starnestommy	  I will install both packeges
+2008-01-22T01:10:00.000Z	frustrated_newbi	Starnestommy	brb rebooting to validate

@@ -1,0 +1,6 @@
+2009-03-28T01:21:00.000Z	sprinkmeier	Paxt	secure == secret or secure == reliable?
+2009-03-28T01:22:00.000Z	Paxt	sprinkmeier	reliable is required
+2009-03-28T01:23:00.000Z	sprinkmeier	Paxt	NTFS has ACL's, as does ext2/3/4, XFS etc...  wwether that's secure or not depends on the OS that's mounting the data. NTFS has transparent encryption which can also enhance security, depending on how yoy do your key management.
+2009-03-28T01:24:00.000Z	Paxt	sprinkmeier	So, in making or using a bad filesystem you agree that any system is a bad one ?
+2009-03-28T01:26:00.000Z	sprinkmeier	Paxt	they're all different. whether they're good or bad depends mostly on the environment they're used in. FAT is a terrible FS for security, but it's fantastic for digital cameras.
+2009-03-28T01:26:00.000Z	Paxt	sprinkmeier	Its just used more widely

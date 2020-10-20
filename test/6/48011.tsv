@@ -1,0 +1,6 @@
+2008-11-09T22:08:00.000Z	freeatlast		Is it possible to install OPenOffice 3 in Hardy Heron/Gnome desktop ? ?
+2008-11-09T22:10:00.000Z	joaopinto	freeatlast	there is a repository for OO3 packages
+2008-11-09T22:10:00.000Z	joaopinto	freeatlast	http://news.softpedia.com/news/How-To-Install-OpenOffice-org-3-0-in-Ubuntu-8-10-96449.shtml
+2008-11-09T22:12:00.000Z	freeatlast	joaopinto	Can I install this with sudo apt-get install - Do I need to 1st uninstall anything from the older version that is currently installed ? ?
+2008-11-09T22:12:00.000Z	joaopinto	freeatlast	I believe it installs in paralell, please check the link that I have provided
+2008-11-09T22:15:00.000Z	joaopinto	freeatlast	oh you are using hardy, I believe the repository provides a section for hardy, it should work, you just need to replace intrepid with hardy on the repository lines

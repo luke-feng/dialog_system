@@ -1,0 +1,6 @@
+2005-08-25T09:28:00.000Z	abydos		what is the package to dpkg-reconfigure in order to modify network settings?
+2005-08-25T09:30:00.000Z	Concord_Dawn	abydos	ifconfig?
+2005-08-25T09:32:00.000Z	Concord_Dawn		what you need help with?
+2005-08-25T09:32:00.000Z	abydos	Concord_Dawn	 no, it's a meta-type package
+2005-08-25T09:32:00.000Z	Concord_Dawn		no, that's the command to modify network settings.
+2005-08-25T09:32:00.000Z	abydos	Concord_Dawn	 dpkg-reconfigure xxxx is the typical syntax for calling it, it's like a druid

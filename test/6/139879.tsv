@@ -1,0 +1,6 @@
+2010-11-16T02:44:00.000Z	puddles		mrdos: use the livecd, get a shell, mkdir /tmp/root-partition; mount the root partition on /tmp/root-partition; mount the other mount points (/boot, /tmp, and so on) and eventually "chroot /tmp/root-partition /bin/bash"
+2010-11-16T02:46:00.000Z	MrDOS	puddles	I'm about to do that
+2010-11-16T02:48:00.000Z	MrDOS	puddles	that's right, I'm stupid
+2010-11-16T02:51:00.000Z	MrDOS	puddles	Ahead of you there with the logs, although I can't see what actually happened
+2010-11-16T02:53:00.000Z	MrDOS	puddles	because today's the 15th, and everything was alright on the 14th, no?
+2010-11-16T02:54:00.000Z	MrDOS	puddles	I wish I could agree, but the machine's been turned on/off pretty much daily

@@ -1,0 +1,6 @@
+2009-11-05T17:07:00.000Z	At_		ell0
+2009-11-05T17:08:00.000Z	At_		Just wondering what the package name is to uninstall open-office completely?
+2009-11-05T17:08:00.000Z	ActionParsnip	At_	sudo apt-get --purge remove openoffice*
+2009-11-05T17:09:00.000Z	ActionParsnip	At_	that'll gain you ~500Mb
+2009-11-05T17:09:00.000Z	At_	ActionParsnip	Thank you.
+2009-11-05T17:10:00.000Z	ActionParsnip	At_	you may need to run: sudo apt-get --purge autoremove    to clean up any left deps

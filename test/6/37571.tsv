@@ -1,0 +1,6 @@
+2009-06-02T05:19:00.000Z	nasa1		apparently you can downgrade xorg using synaptic but I dont see how
+2009-06-02T05:20:00.000Z	nasa1		wait
+2009-06-02T05:21:00.000Z	nasa1		is there a way I can upgrade my 8.04 to 9.04 without upgrading the xorg?
+2009-06-02T05:21:00.000Z	nasa1		x1250
+2009-06-02T05:21:00.000Z	fccf	nasa1	- that may or may not work ... but you can "lock version" in synaptic
+2009-06-02T05:22:00.000Z	fccf	nasa1	in synaptic you can select the package you want to lock ... then in the menus package>lock version

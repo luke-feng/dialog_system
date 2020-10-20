@@ -1,0 +1,6 @@
+2007-03-16T16:59:00.000Z	kraypius		how do i get apt to tell me if a package is already installed?
+2007-03-16T05:01:00.000Z	kraypius		i dont get it.. it says I installed PHP5 but when i run "php" it says command not found
+2007-03-16T05:02:00.000Z	kraypius		thx
+2007-03-16T05:03:00.000Z	kraypius		can i have php5-cli without php5?
+2007-03-16T05:05:00.000Z	enyc	kraypius	"apt-cache show php5-cli" will show you the dependancies
+2007-03-16T05:06:00.000Z	enyc	kraypius	this means that if you install php5-cli it will install php5-common ....

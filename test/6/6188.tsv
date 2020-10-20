@@ -1,0 +1,6 @@
+2011-10-16T23:10:00.000Z	sharpshooter		how to remove an application completely in ubuntu (including its configure files)?
+2011-10-16T23:10:00.000Z	x_	sharpshooter	sudo apt-get purge program
+2011-10-16T23:13:00.000Z	x_	sharpshooter	................ sudo apt-get purge program
+2011-10-16T23:13:00.000Z	sharpshooter	x_	if I do puge it will remove the conf files ?
+2011-10-16T23:13:00.000Z	x_	sharpshooter	yea man.
+2011-10-16T23:14:00.000Z	x_	sharpshooter	think nuclear bomb for that app.

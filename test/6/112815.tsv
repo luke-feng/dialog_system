@@ -1,0 +1,6 @@
+2007-04-04T07:18:00.000Z	bimberi		!info acl | killaz
+2007-04-04T07:19:00.000Z	killaz	bimberi	I already installed acl
+2007-04-04T07:19:00.000Z	killaz	bimberi	the next step is to make it work.
+2007-04-04T07:20:00.000Z	bimberi	killaz	kk, i just noted that it includes /usr/bin/setfacl
+2007-04-04T07:20:00.000Z	bimberi	killaz	as to making it work, -ENOCLUE sorry
+2007-04-04T07:20:00.000Z	killaz	bimberi	I'm doing this sudo setfacl -m u:www-data:rw recordings

@@ -1,0 +1,6 @@
+2011-01-03T00:23:00.000Z	guampa		help with a tcp issue here, tcp connections on eth0 are broken, icmp/udp works
+2011-01-03T00:23:00.000Z	Jarvis	guampa	Im in here as well, and i've got an idea
+2011-01-03T00:23:00.000Z	Jarvis		i notice flow-control is enabled
+2011-01-03T00:23:00.000Z	guampa		yes it is
+2011-01-03T00:24:00.000Z	Jarvis	guampa	my first try would be to disable flow-control
+2011-01-03T00:25:00.000Z	guampa	Jarvis	allright, trying that now, what probs could it cause?

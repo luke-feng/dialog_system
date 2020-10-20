@@ -1,0 +1,6 @@
+2007-07-12T05:25:00.000Z	Paul^		can anyone point me in the right direction? I'd like to make spiffy domain names for my LAN intranet. like dc.tb.lan or www.tb.lan or um.. well, things like that
+2007-07-12T05:25:00.000Z	bruenig	Paul^	/etc/hosts might be what you are looking for
+2007-07-12T05:27:00.000Z	bruenig	Paul^	put it in their /etc/hosts
+2007-07-12T05:28:00.000Z	Paul^	bruenig	lol, but that's pretty unprofessional. can't I configure my dns server to-be to handle that?
+2007-07-12T05:28:00.000Z	bruenig	Paul^	yeah there probably is a better way, I don't know though
+2007-07-12T05:28:00.000Z	Paul^	bruenig	k, thx :)

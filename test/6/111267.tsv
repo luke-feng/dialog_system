@@ -1,0 +1,6 @@
+2006-08-01T14:45:00.000Z	t-thing_	wheels3572	you've probably got "system clock in utc" or similar setting wrong
+2006-08-01T14:46:00.000Z	wheels3572	t-thing_	how do I go about checking that.  I set it to New York time zone though
+2006-08-01T14:48:00.000Z	t-thing_	wheels3572	just select your timezone and use a ntp server
+2006-08-01T14:48:00.000Z	wheels3572	t-thing_	what's an ntp server lol sorry new here :)
+2006-08-01T14:50:00.000Z	t-thing_	wheels3572	syncronize with time internet servers or something like that. Since you're new here, I suggest that you look in to ubuntuforums.org and wiki.ubuntu.com. Those two sites have like 70% questions asked here well answered.
+2006-08-01T14:52:00.000Z	wheels3572	t-thing_	ok ty :) I will do that

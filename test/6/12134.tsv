@@ -1,0 +1,6 @@
+2011-02-14T20:05:00.000Z	Geniuso		~$ wine regedit adobe.reg  My file is on desktop what I need to add ?
+2011-02-14T20:06:00.000Z	bc81	Geniuso	you want to import the reg file?
+2011-02-14T20:06:00.000Z	Geniuso	bc81	yes
+2011-02-14T20:07:00.000Z	bc81	Geniuso	open regedit, and go to "Registry >> Import Registry File..."  browse for it
+2011-02-14T20:08:00.000Z	Geniuso	bc81	how to open regedit ?
+2011-02-14T20:08:00.000Z	bc81	Geniuso	"wine regedit"

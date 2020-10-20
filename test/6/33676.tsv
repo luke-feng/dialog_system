@@ -1,0 +1,6 @@
+2009-08-06T00:29:00.000Z	donnybrasco		isn't there some way to use gedit to create this file - as is, it keeps saying that I don't have permission (even when I try sudo gedit...)
+2009-08-06T00:30:00.000Z	jacquesdupontd	donnybrasco	hm sudo is superuser i dont think so
+2009-08-06T00:30:00.000Z	jacquesdupontd	donnybrasco	lemme check permissions possible
+2009-08-06T00:34:00.000Z	jacquesdupontd	donnybrasco	you should replace it by "mkdir ~/.asoundrc
+2009-08-06T00:36:00.000Z	jacquesdupontd	donnybrasco	you surely have this folder /home/yourusername(donnybrascomaybe)/
+2009-08-06T00:37:00.000Z	donnybrasco	jacquesdupontd	yes I do

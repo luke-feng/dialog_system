@@ -1,0 +1,6 @@
+2005-10-27T12:26:00.000Z	benplaut		i've got a problem with Beagle... it doesn't seem to search my .DOC files, and they're supposed to be supported
+2005-10-27T12:27:00.000Z	Lathiat	benplaut	by the look sof it, ubuntu sbeagle isnt compiled with .doc file support
+2005-10-27T12:27:00.000Z	benplaut	Lathiat	recompile is in order?
+2005-10-27T12:27:00.000Z	Lathiat	benplaut	you could do
+2005-10-27T12:27:00.000Z	Lathiat	benplaut	you need libwv i think
+2005-10-27T12:27:00.000Z	Lathiat	benplaut	fiddle at your own risk :)

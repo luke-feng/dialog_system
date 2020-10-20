@@ -1,0 +1,6 @@
+2010-06-08T23:21:00.000Z	StaRetji		Dudes, help out here, please, I'm having a problem with apt-get install or remove loop
+2010-06-08T23:21:00.000Z	resno	StaRetji	a bit more detail would go a long way in getting help
+2010-06-08T23:22:00.000Z	StaRetji	resno	thx dude, I was advised to install bootchart to see what's holding boot process. I tried installing bootchart via apt-get (live usb system with persistent storage) and it hanged the pc. I rebooted and now I'm stuck in a loop, can't use apt-get anymore, just dpkg --configure -a
+2010-06-08T23:23:00.000Z	StaRetji	resno	if I use dpkg --configure -a it will hang again while trying to "update-initramfs: Generating /boot/initrd.img-2.6.32-21-generic"
+2010-06-08T23:24:00.000Z	resno	StaRetji	im dont know how to help you. i am just saying youll get more help that way.
+2010-06-08T23:24:00.000Z	StaRetji	resno	ah, ok dude

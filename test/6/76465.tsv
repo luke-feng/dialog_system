@@ -1,0 +1,6 @@
+2007-10-09T10:00:00.000Z	Jumbalia		after I recofngiure
+2007-10-09T10:02:00.000Z	Jumbalia		So I installed NVIDIA drivers.  everything was working great, then I restarted my computer. Now xserver cannot start because it says "failed to start X server.  It is likely that it is not set up correctly.  Would you like to view the X server output?" and the major error in the output was "screens found, but none have a usable configuration"
+2007-10-09T10:02:00.000Z	Jumbalia		I already did dkpg-reconfigure -phigh xserver-xorg
+2007-10-09T10:04:00.000Z	Jumbalia		So I installed NVIDIA drivers.  everything was working great, then I restarted my computer. Now xserver cannot start because it says "failed to start X server.  It is likely that it is not set up correctly.  Would you like to view the X server output?" and the major error in the output was "screens found, but none have a usable configuration"
+2007-10-09T10:04:00.000Z	Jumbalia		I already did dkpg-reconfigure -phigh xserver-xorg
+2007-10-09T10:05:00.000Z	ariesas	Jumbalia	switch back to windows:)

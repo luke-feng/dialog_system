@@ -1,0 +1,6 @@
+2008-05-22T10:06:00.000Z	redhat_		I need help with an internet issue
+2008-05-22T10:07:00.000Z	arbir	redhat_	 whats ur prob ?
+2008-05-22T10:08:00.000Z	redhat_	arbir	i got my wireless working, but randomly it loses internet connectivity. it's still connected to the wireless, but the only way to get internet again is to reboot the computer. any ideas on how to fix it?
+2008-05-22T10:08:00.000Z	arbir	redhat_	seems like a driver issue
+2008-05-22T10:08:00.000Z	arbir	redhat_	are you using a password ?
+2008-05-22T10:09:00.000Z	redhat_	arbir	it's a broadcom bcm4328 on Hardy joining an open wireless network

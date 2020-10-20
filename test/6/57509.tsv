@@ -1,0 +1,6 @@
+2010-09-14T06:36:00.000Z	Aemaeth		did it ever work?
+2010-09-14T06:37:00.000Z	Aemaeth		why are three people helping, but i can't get a bootup question answered?
+2010-09-14T06:38:00.000Z	sedulous	Aemaeth	I assume you tried it with /etc/fstab and it somehow failed
+2010-09-14T06:38:00.000Z	Aemaeth	sedulous	not failed, but if torrents come up before drive is mounted, since it references the mount point it creates the folders, and mounts the real harddrive in a new location
+2010-09-14T06:39:00.000Z	sedulous	Aemaeth	i'm not very familiar with ubuntu but /etc/fstab mounts should always happen before any GUI is started
+2010-09-14T06:40:00.000Z	Aemaeth	sedulous	i'll check that then

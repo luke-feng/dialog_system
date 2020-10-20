@@ -1,0 +1,6 @@
+2011-06-25T15:01:00.000Z	randomcake		Hi, I'm having trouble with sendmail reporting "unable to qualify my own domain name (Test01) -- using short name" but hosts contains "127.0.0.1 mydomain.com. web1.mydomain.com." so I'm not sure what I'm doing wrong, am I mis-defining? or am in the wrong place?
+2011-06-25T15:02:00.000Z	ikonia	randomcake	post the output of uname -a please.
+2011-06-25T15:04:00.000Z	ikonia	randomcake	doesn't look like an ubuntu build
+2011-06-25T15:06:00.000Z	ikonia	randomcake	it's customised
+2011-06-25T15:06:00.000Z	ikonia	randomcake	it's not a stock ubuntu build
+2011-06-25T15:07:00.000Z	ikonia	randomcake	use the rackspace resources as they do the customisations, they know what they change etc

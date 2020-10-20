@@ -1,0 +1,6 @@
+2006-03-26T06:55:00.000Z	dash-		guys how can i make computer/hostnames work in linux, say i connect to a vpn and want to find a machine name like "ben" how can i get it to find ben and me not have to type IP's everytime
+2006-03-26T06:56:00.000Z	gimliy_	dash-	does "ben" have a static ip ?
+2006-03-26T06:56:00.000Z	gimliy_	dash-	vi /etc/hosts
+2006-03-26T07:03:00.000Z	gimliy_	dash-	for what? looking up files? ping? mount smbfs? sshd?
+2006-03-26T07:05:00.000Z	gimliy_	dash-	edit /etc/hosts maybe ?
+2006-03-26T07:05:00.000Z	gimliy_	dash-	not sure if that works for you

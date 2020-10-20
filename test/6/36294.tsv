@@ -1,0 +1,6 @@
+2009-06-01T15:04:00.000Z	zortec		Hi guys, still have not been able to install ubuntu.  It drops me to a busybox.  Can anyone help?
+2009-06-01T15:05:00.000Z	nixedreport	zortec	Try using vesa mode.
+2009-06-01T15:06:00.000Z	nixedreport	zortec	try turning acpi off.
+2009-06-01T15:07:00.000Z	zortec	nixedreport	I have turned on safe graphics and off apci, but when I click on "Install Ubuntu" I get a busybox so I don't know if I have a bad CD or what is going on.
+2009-06-01T15:10:00.000Z	nixedreport	zortec	Did you get the other messages I sent you?
+2009-06-01T15:11:00.000Z	zortec	nixedreport	I just got them :)

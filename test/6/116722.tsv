@@ -1,0 +1,6 @@
+2006-06-01T07:40:00.000Z	todayisagift		can you think of anything else other than VNC?
+2006-06-01T07:41:00.000Z	todayisagift		ok then ubuntu is what version of linux (x...)
+2006-06-01T07:43:00.000Z	todayisagift		what version of linux is ubuntu?
+2006-06-01T07:44:00.000Z	NoUse	todayisagift	Linux is the the piece that talks to the hardware, if you want to know what version of Linux you are running run 'uname -a'
+2006-06-01T07:44:00.000Z	NoUse	todayisagift	if you want to know what version of ubuntu you are running run 'lsb_release -a'
+2006-06-01T07:46:00.000Z	todayisagift	NoUse	the reason i ask is when i go to d/l VNC it asks linux (x86, x64, ia64) and i just dont know

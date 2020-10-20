@@ -1,0 +1,6 @@
+2010-08-31T15:15:00.000Z	Zikey		Hi, do you know how to stop the boot of a ubuntu server to drop to command line (without starting everything) ?
+2010-08-31T15:15:00.000Z	pLr	Zikey	then choose root console
+2010-08-31T15:15:00.000Z	pLr	Zikey	recovery mode
+2010-08-31T15:16:00.000Z	Zikey	pLr	you mean boot from recovery cd ?
+2010-08-31T15:16:00.000Z	pLr	Zikey	no. there are entries on the grub menu
+2010-08-31T15:17:00.000Z	pLr	Zikey	check if u have that entry, its default for grub

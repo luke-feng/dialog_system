@@ -1,0 +1,6 @@
+2005-11-16T12:41:00.000Z	Lord_Maynoth		HEy
+2005-11-16T12:41:00.000Z	Lord_Maynoth		Does anyone know if it is possible to install the latest Open Office 2 (not beta)
+2005-11-16T12:42:00.000Z	dooglus	Lord_Maynoth	it is possible.
+2005-11-16T12:42:00.000Z	Lord_Maynoth	dooglus	how do i do it?
+2005-11-16T12:43:00.000Z	dooglus	Lord_Maynoth	either download binaries and install, or download sources and build.  I'd go for binaries if I were you
+2005-11-16T12:45:00.000Z	dooglus	Lord_Maynoth	there was supposed to be a "grumpy groundhog" repo for bleeding edge stuff, but I don't think it happened yet.

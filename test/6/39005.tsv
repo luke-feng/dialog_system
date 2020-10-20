@@ -1,0 +1,6 @@
+2009-04-16T22:13:00.000Z	Master-Mind		Hi to install tar.gz files, then you need to type sudo apt-get install (file)tar.gz , is that right :) ?
+2009-04-16T22:13:00.000Z	Myrtti	Master-Mind	what are you trying to install?
+2009-04-16T22:15:00.000Z	Master-Mind	Myrtti	im trying to install this one .. aircrack-ng-1.0-rc3.tar.gz
+2009-04-16T22:16:00.000Z	Myrtti	Master-Mind	what features are in it that you need that aren't in the aircrack-ng that's available in the repositories?
+2009-04-16T22:17:00.000Z	Master-Mind	Myrtti	 What do you mean by in the repositories ?
+2009-04-16T22:18:00.000Z	Myrtti	Master-Mind	you can install that version with your package manager, such as synaptic without needing to compile stuff

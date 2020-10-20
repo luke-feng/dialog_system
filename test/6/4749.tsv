@@ -1,0 +1,6 @@
+2011-12-18T01:15:00.000Z	makara		The SAVE button is greyed out on editing wired connection settings?
+2011-12-18T01:15:00.000Z	makara		i need to set the IP and DNS manually
+2011-12-18T01:16:00.000Z	lunitunez	makara	open a CLI window and "ifconfig eth0 192.168.0.105 netmask 255.255.255.0" ? the ips must match what your router issues via DHCP and must be an IP not in use
+2011-12-18T01:18:00.000Z	makara	lunitunez	the save button is greyed. I can change the settings but not save them
+2011-12-18T01:18:00.000Z	lunitunez		sure makara, so skip configuring it from the GUI and open a command prompt
+2011-12-18T01:20:00.000Z	makara	lunitunez	ok, done. now how to turn it on?

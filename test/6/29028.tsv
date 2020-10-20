@@ -1,0 +1,6 @@
+2011-02-15T19:03:00.000Z	Mad_Dud		hi guys. could someone help me with remapping "back" button on mouse, to act like middle mouse button?
+2011-02-15T19:03:00.000Z	jrib	Mad_Dud	do you still want middle to be middle?
+2011-02-15T19:04:00.000Z	Mad_Dud	jrib	it's logitech mx air and technically it does not have middle
+2011-02-15T19:05:00.000Z	Mad_Dud	jrib	and this "back" button acts like "back" (in browsers for example) by default out of the box.
+2011-02-15T19:07:00.000Z	jrib	Mad_Dud	http://ubuntuforums.org/archive/index.php/t-1256549.html has some discussion
+2011-02-15T19:42:00.000Z	Mad_Dud	jrib	thanks for help! on webstie, which you gave me, i found btnx tool for mouse keys mapping. it works. thanks!

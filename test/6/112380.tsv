@@ -1,0 +1,6 @@
+2006-06-25T15:44:00.000Z	snedar		I find it too bad that the amd64 version doesn't have a chroot by default -- even windows vista does something like that (it installs both IE7 x86 and IE7 x64 by default)
+2006-06-25T15:45:00.000Z	snedar		another problem: I'm setting up a 32-bit chroot in my amd64 installation. according to the instructions I should copy files like /etc/password and /etc/timezone to the chroot. wouldn't it be a better idea to link those files, so that they get updated when I add a new user for example? should I use symlinks or normal links then?
+2006-06-25T15:47:00.000Z	snedar		does anyone know if there is a reason why ubuntu amd64 doesn't have a chroot or packages like firefox32 by default? even installing gentoo amd64 is easier than this :-)
+2006-06-25T15:48:00.000Z	snedar		I am setting up a chroot right now, but it could have been much easier
+2006-06-25T15:49:00.000Z	farous	snedar	there is an easy wiki page for it
+2006-06-25T15:49:00.000Z	snedar	farous	I'm doing something from the forums now, it looks easy enough, thanks :-)

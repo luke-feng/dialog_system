@@ -1,0 +1,6 @@
+2012-07-23T17:11:00.000Z	Eagleman		I want to run a virtual Windows 7 Desktop which i can connect to and then do all the work just like a normal PC, i believe this is called a VDI. Are there any programs that can do this on Ubuntu Server 12.04?
+2012-07-23T17:12:00.000Z	compdoc	Eagleman	remotely?
+2012-10-17T00:53:00.000Z	compdoc	Eagleman	who owns the shared folder
+2012-10-17T00:53:00.000Z	Eagleman	compdoc	please look in my pastebin file
+2012-10-17T00:54:00.000Z	compdoc	Eagleman	shows root
+2012-10-17T00:57:00.000Z	Eagleman	compdoc	 drwxrwx--- 10 robin robin 4096 Oct 16 22:07 .

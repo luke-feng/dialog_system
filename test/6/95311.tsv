@@ -1,0 +1,6 @@
+2007-02-22T08:41:00.000Z	feryana		ok
+2007-02-22T08:42:00.000Z	feryana		I installed libdvdread3 and I made the decryption thing. How I call it? I don't see it in the programs
+2007-02-22T08:42:00.000Z	shatrat	feryana	you dont need to use it, lib means library.  Other programs like Totem and MPlayer will use it
+2007-02-22T08:42:00.000Z	feryana	shatrat	totam still needs the driver
+2007-02-22T08:42:00.000Z	feryana		the codec I mean
+2007-02-22T08:43:00.000Z	shatrat	feryana	did you follow the video how-to on help.ubuntu.com?

@@ -1,0 +1,6 @@
+2006-04-20T10:17:00.000Z	jinho		how do I create a file in bash?
+2006-04-20T10:17:00.000Z	jinho		well
+2006-04-20T10:18:00.000Z	jinho		Add the following lines to /etc/apt/preferences
+2006-04-20T10:18:00.000Z	jinho		(If this file doesn`t exist, create it.)
+2006-04-20T10:18:00.000Z	jinho		(Don't know how necessary it is, but it worked for me.)
+2006-04-20T10:18:00.000Z	blindx	jinho	you could just make that file with a text editor.

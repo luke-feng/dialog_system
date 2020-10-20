@@ -1,0 +1,6 @@
+2004-11-04T12:11:00.000Z	|progenic|		excuse me, how to set it automatically that i start my linux i dun have to export my proxy everytime
+2004-11-04T12:11:00.000Z	|progenic|		can somebody help me ?
+2004-11-04T12:12:00.000Z	|progenic|		in console
+2004-11-04T12:12:00.000Z	|progenic|		especially when i want to use apt
+2004-11-04T12:12:00.000Z	|progenic|		how ?
+2004-11-04T12:13:00.000Z	Lathiat	|progenic|	For some gnome programs (epiphany, for example) you can set it in Desktop Preferences -> Network Proxy, for stuff off the shell you could set it in ~/.bashrc (add export HTTP_PROXY="http://blah:111") 

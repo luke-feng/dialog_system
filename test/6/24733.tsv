@@ -1,0 +1,6 @@
+2010-03-03T18:00:00.000Z	darkstar1		hello everyone.. I  have a message that's just popped up saying  "The volume "Filesystem root" has only 153.1 MB disk space remaining".. does this mean / is running out of space?
+2010-03-03T18:00:00.000Z	Halitech	darkstar1	thats it exactly
+2010-03-03T18:01:00.000Z	darkstar1	Halitech	I'm guessing I need to use LVM to extend it
+2010-03-03T18:02:00.000Z	Halitech	darkstar1	do you have any room to expand to?
+2010-03-03T18:03:00.000Z	darkstar1	Halitech	Yes.. lots of room
+2010-03-03T18:21:00.000Z	Halitech	darkstar1	synaptic should bring in all dependencies when you install a program

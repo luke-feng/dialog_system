@@ -1,0 +1,6 @@
+2005-11-19T07:00:00.000Z	LathropWells		how do you measure your CPU Frequency?
+2005-11-19T07:00:00.000Z	LathropWells		Ah - ok. - Thank You
+2005-11-19T07:01:00.000Z	ompaul	LathropWells	 cat /proc/cpuinfo | grep MHz
+2005-11-19T07:04:00.000Z	ompaul	LathropWells	I am far from a guru, but I have a torch :-) so let me remove some gloom :)
+2005-11-19T07:44:00.000Z	LathropWells	ompaul	- lol - see you in a bit. - can ya bring me a sandwich?
+2006-05-24T14:34:00.000Z	ompaul	LathropWells	you need to get freedos (11megs) and then you can boot the box with a dos shell do you trust microsoft to do that ...

@@ -1,0 +1,6 @@
+2007-01-30T11:38:00.000Z	kaso		Does anyone know why my Software Updater thing is failing to download some of the updates ?
+2007-01-30T11:38:00.000Z	LjL	kaso	perhaps the mirror is updating at this time
+2007-01-30T11:38:00.000Z	LjL	kaso	has this happened for long?
+2007-01-30T11:39:00.000Z	LjL	kaso	files, or repositories? does a "sudo apt-get update" give errors?
+2007-01-30T11:44:00.000Z	LjL	kaso	those repositories just don't exist anymore, most likely
+2007-01-30T11:45:00.000Z	LjL	kaso	i suggest that you edit /etc/apt/sources.list and remove the lines corresponding to those repositories

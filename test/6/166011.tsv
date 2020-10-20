@@ -1,0 +1,6 @@
+2004-09-28T13:45:00.000Z	elmaya		is there a list with all the packages contents in ubuntu?
+2004-09-28T13:04:00.000Z	elmaya		hello
+2004-09-28T13:04:00.000Z	elmaya		is it normal for the installation to hang after selectin the languaje?
+2004-09-28T13:05:00.000Z	Kamion	elmaya	nope
+2004-09-28T13:06:00.000Z	Kamion	elmaya	switch to tty2 and poke around; use 'ps x' to see what's currently running
+2004-09-28T13:10:00.000Z	Kamion	elmaya	what's it doing at the point when it's stuck?

@@ -1,0 +1,6 @@
+2011-08-22T21:02:00.000Z	Jojo__		hi, i recenly updated my 10.10 version to 11.04 through the update manager and now its takes about 20 second for the desktop to show up after loggong in. Any solutions ?
+2011-08-22T21:03:00.000Z	Jojo__		arrrm, hi, i recenly updated my 10.10 version to 11.04 through the update manager and now its takes about 20 second for the desktop to show up after loggong in. Any solutions ? Anyone?
+2011-08-22T21:04:00.000Z	ActionParsnip	Jojo__	what video chip do you use?
+2011-08-22T21:06:00.000Z	Jojo__	ActionParsnip	i have an hd5770
+2011-08-22T21:06:00.000Z	ActionParsnip	Jojo__	try uninstalling the ati driver then reinstalling it, often proprietary drivers do not survive release upgrades
+2011-08-22T21:07:00.000Z	Jojo__	ActionParsnip	i'm a little noobish with linux codes and stuff, could you please tell me how?

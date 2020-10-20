@@ -1,0 +1,6 @@
+2008-01-25T19:57:00.000Z	jmaest		Not that I know of
+2008-01-25T19:58:00.000Z	jmaest		anyone run into an issue where evolution isn't updating the Inbox properly?  I'm connecting to exchange and have to reset evolution to populate the Inbox
+2008-01-25T19:59:00.000Z	jmaest		edit sshd_conf
+2008-01-25T19:59:00.000Z	jmaest		and uncomment "Use PAM authentication
+2008-01-25T20:00:00.000Z	jmaest		swap = 1 1/2*ram
+2008-01-25T20:01:00.000Z	bardyr	jmaest	isnt that a outdated equation? afterall who would use more then 2gb ram?

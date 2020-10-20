@@ -1,0 +1,6 @@
+2005-07-05T15:56:00.000Z	ryan_		i just want to do it so its [web] ---[pc] ---<cross over>---[laptop] 
+2005-07-05T15:56:00.000Z	ryan_		whats nat ?
+2005-07-05T15:57:00.000Z	thoreauputic	ryan_	set the IP of the windows machine as default gateway on your laptop - in the network config tool
+2006-06-11T15:27:00.000Z	thoreauputic	ryan_	FWIW I just let the installer set up its partitions automagically on the free space I made (iBook)
+2006-06-11T15:28:00.000Z	ryan_	thoreauputic	yeah, I had to do that too. But I dual boot with OS X and I wanted to make my ubuntu partitions smaller on my G4 PB. But I could only use the largest continuous free space, which is bigger than I need it to be for ubuntu.
+2006-06-11T15:29:00.000Z	thoreauputic	ryan_	someone told me the installer allows partition resizing of hfs+ - but I haven't tried it

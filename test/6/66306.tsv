@@ -1,0 +1,6 @@
+2010-12-18T10:55:00.000Z	ryan___		Hello everyone. Any clue how to restore a Wubi backup? Basically my laptop died, and all I have is the root.disk file now. I am planning to restore it to a real partition I have made on my new machine. I am confused as most of the guides assume you are using a current wubi install to make the conversion, not a backed up disk. Any help?
+2010-12-18T10:57:00.000Z	ActionParsnip	ryan___	i suggest you install wubi then boot to windows and replace the root.disk file possibly may work
+2010-12-18T10:58:00.000Z	ryan___	ActionParsnip	Thanks for the suggestion. I have tried this, however because of the different UIDs and other information in the old root.disk, Wubi is unable to boot from it using this method. I assume I need to mount it and copy files over. How does one mount root.disk?
+2010-12-18T11:02:00.000Z	ActionParsnip	ryan___	then rejig grub once you get the disk UUIDs changed
+2010-12-18T11:04:00.000Z	ActionParsnip	ryan___	http://www.omaregan.com/?p=583  may help, personally I think wubi stinks
+2010-12-18T11:05:00.000Z	ryan___	ActionParsnip	 Cheers for that, I will give it a try. Yes wubi became rather tedious to work with once I realized it's limitations, especially for migration.

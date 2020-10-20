@@ -1,0 +1,6 @@
+2011-06-09T23:27:00.000Z	davidneto		hello folks
+2011-06-09T23:28:00.000Z	davidneto		does anyone know how to restart a service remotely (ssh) without root login enabled on ssh server?
+2011-06-09T23:28:00.000Z	Rollin	davidneto	login as a user and sudo the command (if im understanding you correctly)
+2011-06-09T23:32:00.000Z	davidneto	Rollin	i'm doing it through a script with keys exchanged, where any user has sudo permissions, because of security issues.
+2011-06-09T23:33:00.000Z	davidneto		 Rollin: how do i "service XXX restart" without root/sudo permissions enabled? (PS: i do administer the remote server as well. i can enable anything i want there, but i don't want to mess with security openning everything just tor estart a sevice
+2011-06-09T23:37:00.000Z	Rollin	davidneto	i'd post that as a question on serverfault.com  .. afaik you need permissions to start the service

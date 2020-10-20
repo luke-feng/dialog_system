@@ -1,0 +1,6 @@
+2011-12-26T16:49:00.000Z	sinosoidal_		hi everyone. how can I access a usb device using libusb without having to write sudo?
+2011-12-26T16:49:00.000Z	Seveas	sinosoidal_	maybe chown'ing the relevant device to your user will do it. Or maybe there's a group you need to be member of
+2011-12-26T16:50:00.000Z	sinosoidal_	Seveas	do you think I will need to change udev rules for this?
+2011-12-26T16:51:00.000Z	Seveas	sinosoidal_	maybe. It's hard to give an accurate answer without more info (like current owner/group/permissions/name of the device node)
+2011-12-26T16:52:00.000Z	sinosoidal_	Seveas	crw-rw-r--  1 root root 189, 17 2011-12-26 09:44 018
+2011-12-26T16:53:00.000Z	Seveas	sinosoidal_	yeah, chown for now and udev rules change later seems to be what you need

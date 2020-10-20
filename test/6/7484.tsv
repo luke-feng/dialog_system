@@ -1,0 +1,6 @@
+2012-06-21T16:12:00.000Z	vampirnata		so what's the problem...
+2012-06-21T16:12:00.000Z	vampirnata		that's 3%
+2012-06-21T16:13:00.000Z	vampirnata		top should show you which processed take up that 3%
+2012-06-21T16:13:00.000Z	vampirnata		processes*
+2012-06-21T16:15:00.000Z	lokai	vampirnata	isn't 0.30 cpu load 3% only if he has 10 cores...?
+2012-06-21T16:19:00.000Z	lokai	vampirnata	if you are using top to look at cpu load you're doing it wrong.

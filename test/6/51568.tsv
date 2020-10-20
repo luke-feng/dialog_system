@@ -1,0 +1,6 @@
+2008-09-08T09:40:00.000Z	nathanielneall		anyone know a fix for an error while printing?
+2008-09-08T09:41:00.000Z	nathanielneall		it just wont print any documents at all
+2008-09-08T09:41:00.000Z	nathanielneall		theres not a loat to say
+2008-09-08T09:41:00.000Z	Dfcnvt	nathanielneall	I assume you couldn't get your document to print to your printer machine.. correct?
+2008-09-08T09:47:00.000Z	Dfcnvt	nathanielneall	maybe this will solve your problem. http://mindspill.net/computing/cross-platform-notes/cups-client-error-document-format-not-supported.html
+2008-09-08T09:55:00.000Z	Dfcnvt	nathanielneall	I tried to find which pages would help you get to work for your problem.. http://jmatrix.net/dao/case/case.jsp?case=7F000001-17918F0-10C13CE7D87-C4

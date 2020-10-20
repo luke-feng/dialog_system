@@ -1,0 +1,6 @@
+2008-05-08T22:37:00.000Z	kripton1x		if ndiswrapper -m wrote 'alias wlan0 ndiswrapper' to /etc/modprobe.d/ndiswrapper, why do I get wlan0 is no such device in the system
+2008-05-08T22:39:00.000Z	kripton1x		anyone here please help me with my wireless issue
+2008-05-08T22:40:00.000Z	kripton1x		sarath: what is your problem
+2008-05-08T22:41:00.000Z	Sarath	kripton1x	I have a HP dv6000 laptop
+2008-05-08T22:42:00.000Z	Sarath	kripton1x	i guess... i have a broadcom 43xx chipset
+2008-05-08T22:44:00.000Z	Sarath	kripton1x	it hmmm kripton1x

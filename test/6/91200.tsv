@@ -1,0 +1,6 @@
+2007-03-24T08:20:00.000Z	Matthias		kubuntu is kde on ubuntu
+2007-03-24T08:21:00.000Z	Matthias		install grub grub-install
+2007-03-24T08:22:00.000Z	Matthias		is the 64 it version of kubuntu faster thab
+2007-03-24T08:22:00.000Z	Matthias		than 32bit version
+2007-03-24T08:23:00.000Z	Slike	Matthias	"grub-install /dev/sda" says "could not find device for /boot: not found or not a block device"
+2007-03-24T08:25:00.000Z	Matthias	Slike	i dont know the exact command but try

@@ -1,0 +1,6 @@
+2005-12-12T07:32:00.000Z	_jason		what does gnome-pty-helper do?  I have 101 instances of it running
+2005-12-12T07:34:00.000Z	_jason		jack-, you'll need multiverse enabled as well
+2005-12-12T07:36:00.000Z	_jason		can someone do "ps aux | grep -c gnome-pty-helper"  I'd just like to know if having 101 instances of this thing is normal.  thanks
+2005-12-12T07:37:00.000Z	Jowi	_jason	1 - but i am not running gnome (may or may not be important)
+2006-05-18T05:15:00.000Z	Jowi	_jason	framebuffer make cool splash screens during startup. and on integrated graphic cards with shared memory you can set the memory consumption in the bios to your likings
+2006-05-18T05:15:00.000Z	_jason	Jowi	ah I see, because when i turn it on X refuses to start.  So I was wondering what I was missing.  Thanks

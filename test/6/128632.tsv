@@ -1,0 +1,6 @@
+2006-04-15T08:54:00.000Z	newmanserver		how do i use a different browser than firefox?
+2006-04-15T08:54:00.000Z	newmanserver		How do i use a different internet browser than firefox?
+2006-04-15T08:56:00.000Z	vskye	newmanserver	just install a different browser.
+2006-04-15T08:58:00.000Z	vskye	newmanserver	for instance, if you want Opera.. go to www.opera.com, select download, linux, ubuntu and the proper version.
+2006-04-15T09:01:00.000Z	vskye	newmanserver	did you download the ubuntu version?
+2006-04-15T09:02:00.000Z	vskye	newmanserver	ok, then cd to the directory you d/l'ed it in, and sudo dpkg -i "package name".

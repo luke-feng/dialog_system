@@ -1,0 +1,6 @@
+2009-05-12T00:00:00.000Z	billybigrigger		anyone here familiar with install grub2?
+2009-05-12T00:00:00.000Z	carick	billybigrigger	why do you want to do that?
+2009-05-12T00:01:00.000Z	billybigrigger	carick	because #grub suggests i install grub2 to fix my error 15
+2009-05-12T00:01:00.000Z	carick	billybigrigger	is it in the repos?
+2009-05-12T00:01:00.000Z	billybigrigger	carick	yees
+2009-05-12T00:02:00.000Z	carick	billybigrigger	then apt-get install grub2 ?

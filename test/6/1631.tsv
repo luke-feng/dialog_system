@@ -1,0 +1,6 @@
+2012-11-14T03:24:00.000Z	tinkster		Can I somehow install 10.04 using a newer kernel?  I need to run a cluster of 2 servers, the server product is tied to 10.04.  But 10.04 won't install on one piece of hardware (12.04 would).
+2012-11-14T03:26:00.000Z	tinkster		The replacements machine is too recent to install 10.04 of CD
+2012-11-14T03:26:00.000Z	tinkster		I know
+2012-11-14T03:27:00.000Z	tinkster		Back to the question of using a more recent kernel during install ? :)
+2012-11-14T03:27:00.000Z	ikonia	tinkster	not going to happen
+2012-11-14T03:28:00.000Z	tinkster	ikonia	bother :) ... i was afraid that was going to be the response.

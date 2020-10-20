@@ -1,0 +1,6 @@
+2010-10-18T16:56:00.000Z	fazzil		still can't remove lxde environment :-/
+2010-10-18T16:57:00.000Z	fazzil		i try it before
+2010-10-18T16:57:00.000Z	fazzil		can't
+2010-10-18T16:57:00.000Z	iceroot	fazzil	you installed lubuntu-desktop, correct?
+2010-10-18T16:58:00.000Z	iceroot	fazzil	lubuntu-desktop is a metapackage nwhich is pulling many many programs
+2010-10-18T16:59:00.000Z	iceroot	fazzil	https://help.ubuntu.com/community/PureGnome  here you will see what to do (unluckily its not containing lxde)

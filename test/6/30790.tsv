@@ -1,0 +1,6 @@
+2010-10-28T11:35:00.000Z	fiber		Hey, I was wondering if there was a way to mount a drive without permissions.  Basically, I have a media hard drive (ext4) that gets mounted automatically at boot (fstab) and I don't want it to have any permissions on it so that everyone can access it regardless of who made the files.  Thanks!
+2010-10-28T11:36:00.000Z	llutz_	fiber	use chown/chmod for that
+2010-10-28T11:36:00.000Z	fiber	llutz	every time new files are created? that is a bit annoying
+2010-10-28T11:36:00.000Z	llutz_	fiber	set sgid
+2010-10-28T11:37:00.000Z	llutz_	fiber	add you users to a common group, chgrp the drive to that group, set sgid on it
+2010-10-28T11:38:00.000Z	llutz_	fiber	and off course, chmod g+w    it

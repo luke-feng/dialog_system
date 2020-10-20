@@ -1,0 +1,6 @@
+2009-06-06T00:34:00.000Z	deagle		ploooop: the weird part is that this card worked perfectly out of the box in hoary
+2009-06-06T00:35:00.000Z	neurobuntu	deagle	is it an old card?
+2009-06-06T00:42:00.000Z	neurobuntu	deagle	 you can pipe the lsusb output to grep....:  lsusb | grep VGA    will show anylines with VGA in them
+2009-06-06T00:43:00.000Z	neurobuntu	deagle	so use lsusb | grep <search_string_generally_a_few_short_letters>
+2009-06-06T00:44:00.000Z	neurobuntu	deagle	sorry use lspci not lsusb
+2009-06-06T00:44:00.000Z	neurobuntu	deagle	lspci | grep Audio

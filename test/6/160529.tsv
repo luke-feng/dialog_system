@@ -1,0 +1,6 @@
+2005-05-26T14:15:00.000Z	Pupeno		Hello
+2005-05-26T14:15:00.000Z	Pupeno		I'm considering switching to ubuntu, but before, I have some questions.
+2005-05-26T14:15:00.000Z	Pupeno		Is it, unlike other distros, a *real* for of Debian, with its own repository having life of its own ?
+2005-05-26T14:16:00.000Z	Pupeno		If I make a package (something that is very likely to happen, sooner or latter), what should I do to contribute back ?
+2005-05-26T14:16:00.000Z	holycow	Pupeno	the distro basically freezes debian unstable every six months, polishes and ads a few things
+2005-05-26T14:16:00.000Z	holycow	Pupeno	the patches are submitted back to debian

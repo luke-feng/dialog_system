@@ -1,0 +1,6 @@
+2008-04-22T19:03:00.000Z	thor		are they .deb's
+2008-04-22T19:03:00.000Z	whyameye	thor	I'm used to getting stuff on synaptic
+2008-04-22T19:04:00.000Z	thor	whyameye	thats fine, but you CAN try getting them off the cd
+2008-04-22T19:05:00.000Z	thor	whyameye	you can from a terminal 'sudo apt-get install packagename'
+2008-04-22T19:05:00.000Z	whyameye	thor	but that won't work if the machine isn't on the internet
+2008-04-22T19:07:00.000Z	thor	whyameye	use dkpg

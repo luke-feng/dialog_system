@@ -1,0 +1,6 @@
+2008-01-30T19:44:00.000Z	Cedric_Diggory		I had a little power failure after which I am having two problems. 1: Internet not working 2: GDM takes much longer than usual to start
+2008-01-30T19:46:00.000Z	Cedric_Diggory		instead of helping rude egoleo why dont you guys help me
+2008-01-30T19:46:00.000Z	Cedric_Diggory		I had a little power failure after which I am having two problems. 1: Internet not working 2: GDM takes much longer than usual to start
+2008-01-30T19:46:00.000Z	Cedric_Diggory		My internet connection is working fine with windows partition but ubuntu wont detect my internet connection
+2008-01-30T19:47:00.000Z	PriceChild	Cedric_Diggory	sudo touch /forcefsck
+2008-01-30T19:47:00.000Z	PriceChild	Cedric_Diggory	then reboot

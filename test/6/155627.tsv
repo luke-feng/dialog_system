@@ -1,0 +1,6 @@
+2008-04-06T07:10:00.000Z	newbie		is there any way I could load an ISO image into the cdrom without burning a CD, or is there some software to open the image file and execute its content?
+2008-04-06T07:11:00.000Z	Dr_willis	newbie	 you can mount iso imatge files easially enough
+2008-04-06T07:11:00.000Z	Dr_willis	newbie	 or you may want to try the fuseiso tools.
+2008-04-06T07:17:00.000Z	newbie	Dr_willis	thank you!
+2008-05-01T17:21:00.000Z	Dr_willis	newbie	 you can go to  the alt-ctrl-f2 and f3 consoles i belive.
+2008-05-01T17:22:00.000Z	newbie	Dr_willis	done and now? I can run something to fix the video resolution? Thanks.

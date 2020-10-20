@@ -1,0 +1,6 @@
+2007-12-20T03:09:00.000Z	hdevalence__		what's a really fast filesystem?
+2007-12-20T03:10:00.000Z	Phusion	hdevalence__	ext2 is super fast
+2007-12-20T03:10:00.000Z	Phusion	hdevalence__	its non journalized like ext3, so it's quicker
+2007-12-20T03:10:00.000Z	Phusion	hdevalence__	that criminal Reizer says his fs is the fastest, but I dont think so
+2007-12-20T03:11:00.000Z	hdevalence__	Phusion	hasn't been proven
+2007-12-20T03:11:00.000Z	Phusion	hdevalence__	nor disproven, but thats offtopic.

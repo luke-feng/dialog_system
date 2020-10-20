@@ -1,0 +1,6 @@
+2007-05-29T05:09:00.000Z	grubiskillingme		Someon type in the terminal command to edit grub bootloader files - Shart did it last time
+2007-05-29T05:11:00.000Z	grubiskillingme		What is the command to edit grub bootloader files?
+2007-05-29T05:11:00.000Z	kitche	grubiskillingme	gksu gedit /boot/grub/menu.lst
+2007-05-30T08:53:00.000Z	kitche	grubiskillingme	gksu gedit /boot/grub/menu.lst
+2007-05-30T08:54:00.000Z	kitche	grubiskillingme	either or works depending on how you want to edit it :)
+2007-05-30T08:55:00.000Z	kitche	grubiskillingme	gksu gedit /boot/grub/menu.lst for graphical editor

@@ -1,0 +1,6 @@
+2011-11-24T10:54:00.000Z	trap24		I used "apt-get install sun-java6-jdk", for like  1 hours it went to 91%, and then something broke the download.. what should i do now to resume :{
+2011-11-24T10:54:00.000Z	DarkLinux_7	trap24	chek for corrupt packages, then try reinstalling
+2011-11-24T10:55:00.000Z	trap24	DarkLinux_7	you mean start from 0%
+2011-11-24T10:57:00.000Z	DarkLinux_7	trap24	it mich
+2011-11-24T10:58:00.000Z	DarkLinux_7	trap24	might*
+2011-11-24T11:00:00.000Z	trap24	DarkLinux_7	SolarisBoy it worked --fix-missing :)

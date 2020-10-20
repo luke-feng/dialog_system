@@ -1,0 +1,6 @@
+2008-06-06T09:52:00.000Z	Alan_M	Gavin[newbuntu]	you said the link you mentioned earlier for ubuntu usb install worked for you?
+2008-06-06T09:53:00.000Z	Gavin[newbuntu]	Alan_M	yes
+2008-06-06T09:53:00.000Z	Alan_M	Gavin[newbuntu]	ok, gonna go try it, it seems the easiest and most straight forward, tried a few other sites, those mainly just trashed my thumb drive.
+2008-06-06T09:54:00.000Z	Gavin[newbuntu]	Alan_M	It worked great except for me not copying the whole iolinux dir to the root. make sure to do that! i only copied one file and spent 2 hours troubleshooting
+2008-06-06T09:54:00.000Z	Gavin[newbuntu]	Alan_M	also, it says syslinux will create a file on the thumbdrive, but i could never see it. it seemed to be there anyway. i have show hidden files enabled...
+2008-06-06T09:55:00.000Z	Alan_M	Gavin[newbuntu]	ill do that (I know a little bit about troubleshooting so if i get stuck, i wil probably either try fixing it or try installing from my dvd i have :)

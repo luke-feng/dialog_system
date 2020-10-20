@@ -1,0 +1,6 @@
+2005-07-18T12:21:00.000Z	alvaro		meh it doesn't work
+2005-07-18T12:21:00.000Z	alvaro		it says: E Invalid operation build-deb
+2005-07-18T12:22:00.000Z	alvaro		still doesn't work
+2005-07-18T12:22:00.000Z	alvaro		it says: E: Could not get lock /var/lib/dpkg/lock - open (11 Resource temporarily unavailable)
+2005-07-18T12:22:00.000Z	alvaro		E: Unable to lock the administration directory (/var/lib/dpkg/), is another process using it?
+2005-07-18T12:23:00.000Z	zukalk	alvaro	close Synaptic or whatever you're using

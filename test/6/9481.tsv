@@ -1,0 +1,6 @@
+2011-06-14T00:18:00.000Z	padhu	amin`	Network-manager itself have an DSL configuration tab
+2011-06-14T00:18:00.000Z	amin`	padhu	i know how could i invoke it in command line create and connect
+2011-06-14T00:19:00.000Z	padhu	amin`	Try with wvdial
+2011-06-14T00:20:00.000Z	amin`		poff pon howto?
+2011-06-14T00:20:00.000Z	padhu	amin`	pppoe setup also there
+2011-06-14T00:23:00.000Z	padhu	amin`	Just pon/poff command works fine for single internet connection. If you use more than one then give ISP name when using the commands

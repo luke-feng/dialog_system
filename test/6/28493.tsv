@@ -1,0 +1,6 @@
+2009-11-05T22:15:00.000Z	motoh		Is it possible to beat udev bloody and tell it to stop trying to load my ATI card APCI but everything else APCI?
+2009-11-05T22:15:00.000Z	motoh		Booting with the grub option APCI off kills my volume roller.
+2009-11-05T22:15:00.000Z	motoh		Yes, sorry.
+2009-11-05T22:16:00.000Z	motoh		niel127 basically if I have ACPI on, udev hangs my boot for six to ten minutes trying to load my ATI card (which comes up fine without udev's interference, the proprietary driver works fine) but with it off, I have no volume control.
+2009-11-05T22:17:00.000Z	insm0d	motoh	you may have to blacklist a kernel module from loading.  Unfortunately I'm not sure how to do this :/
+2009-11-05T22:18:00.000Z	motoh	insm0d	that's a fine start, I'll start researching.

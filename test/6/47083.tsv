@@ -1,0 +1,6 @@
+2011-05-30T10:14:00.000Z	LAcan		How do I tell Ubuntu Software Centre to allow installation packages from "not authenticated soruces"?
+2011-05-30T10:15:00.000Z	noisewaterphd	LAcan	ubuntu software center - Edit > Software Sources
+2011-05-30T10:16:00.000Z	noisewaterphd	LAcan	do you mean sources for which you don't have keys
+2011-05-30T10:17:00.000Z	noisewaterphd	LAcan	if so I'm not sure off the top of my head
+2011-05-30T10:17:00.000Z	noisewaterphd	LAcan	try just installing with apt-get on the cli
+2011-05-30T10:18:00.000Z	noisewaterphd	LAcan	seems like you get more options that way as far as bypassing keys

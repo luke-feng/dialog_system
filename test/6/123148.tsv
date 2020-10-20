@@ -1,0 +1,6 @@
+2008-06-26T07:22:00.000Z	barslow		sudo rm doesnt allow me to delete "directories"
+2008-06-26T07:22:00.000Z	barslow		i can do that
+2008-06-26T07:23:00.000Z	barslow		poprocks: from the .Trash directory?
+2008-06-26T07:25:00.000Z	barslow		using sudo nautilus worked :)
+2008-06-26T07:25:00.000Z	barslow		thanks for the help
+2008-06-26T07:25:00.000Z	Scunizi	barslow	you should use gksudo nautilus if you're going to do that

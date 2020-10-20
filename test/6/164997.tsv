@@ -1,0 +1,6 @@
+2006-03-23T10:13:00.000Z	Superslash		neverdream: i've got the new installcd burned
+2006-03-23T10:15:00.000Z	Superslash		anyone know the way to tell ubuntu 5.10 to begin installing at the beginning of the largest empty space? because it refuses to recognize that i already have an NTFS partition made
+2006-03-23T10:16:00.000Z	Superslash		it does, thats the partition manager
+2006-03-23T10:16:00.000Z	Superslash		my problem is that it only sees an empty 200gig hard drive, it cant see any partitions i've made
+2006-03-23T10:16:00.000Z	Dr_Willis	Superslash	 what did you make them with?
+2006-03-23T10:18:00.000Z	Dr_Willis	Superslash	 'unformated' or 'unallocated'

@@ -1,0 +1,6 @@
+2008-03-16T21:20:00.000Z	naag		hello :-)
+2008-03-16T21:21:00.000Z	naag		i just upgraded from 7.10 to 8.04 which broke my reiserfs /home partition on LVM
+2008-03-16T21:21:00.000Z	naag		anyone seen something like this?
+2008-03-16T21:21:00.000Z	Fryguy--	naag	#ubuntu+1, don't use beta software.  restore your backup, etc.
+2008-03-16T21:22:00.000Z	Fryguy--	naag	it's beta, it can do whatever it wants
+2008-03-16T21:23:00.000Z	Fryguy--	naag	make sure you go and report the bug so the ubuntu people can take a look at it and possibly address the issue

@@ -1,0 +1,6 @@
+2005-06-20T10:24:00.000Z	GNULinuxer		what is the alternative for chkconfig [Redhat ]  in Ubuntu? I want some services to run at startup and some not
+2005-06-20T10:26:00.000Z	jamesm	GNULinuxer	update-rc.d
+2005-06-20T10:26:00.000Z	GNULinuxer	jamesm	what is the syntax ? any man page?
+2005-06-20T10:27:00.000Z	jamesm	GNULinuxer	there should be
+2005-06-20T10:27:00.000Z	jamesm	GNULinuxer	i wrote a wiki on linuxquestions.org about this
+2005-06-20T10:28:00.000Z	GNULinuxer	jamesm	the link?

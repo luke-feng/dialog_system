@@ -1,0 +1,6 @@
+2006-10-06T07:04:00.000Z	WooD		Hi !
+2006-10-06T07:04:00.000Z	WooD		Any of you know how to obtain and install Gaim 2.0 on Ubuntu ?
+2006-10-06T07:05:00.000Z	webben	WooD	I suspect it's probably not worth it.
+2006-10-06T07:06:00.000Z	webben	WooD	but if I needed to do that
+2006-10-06T07:06:00.000Z	webben	WooD	i would apt-get install checkinstall
+2006-10-06T07:07:00.000Z	webben	WooD	it's also possible there may be unofficial packages around

@@ -1,0 +1,6 @@
+2007-04-20T16:42:00.000Z	tarelerulz_		is ssh turn on by default on Kubuntu or Ubuntu ?
+2007-04-20T16:44:00.000Z	tarelerulz_		Do any one know why I get ssh: connect to host 192.168.1.101 port 22: Connection refused
+2007-04-20T16:45:00.000Z	tarelerulz_		I  have ssh in the prosess list
+2007-04-20T16:45:00.000Z	tarelerulz_		It says it is sleeping ?
+2007-04-20T16:45:00.000Z	slackern	tarelerulz_	you have sshd running too?
+2007-04-20T16:46:00.000Z	slackern	tarelerulz_	'sudo /etc/init.d/sshd start' otherwise to start it.

@@ -1,0 +1,6 @@
+2012-05-11T06:01:00.000Z	persona		my software center button does not work.  when i run it from a terminal using gksu software-center however it runs fine.  how can i tell unity to run it as root
+2012-05-11T06:02:00.000Z	ActionParsnip	persona	could edit /usr/share/applications/software-properties-gtk.desktop
+2012-05-11T06:05:00.000Z	persona	ActionParsnip	seems to be the ubuntu-software one in that folder editting now ty
+2012-05-11T06:06:00.000Z	ActionParsnip	persona	change the exec line and add gksudo, you will then be prompted for your password
+2012-05-11T06:08:00.000Z	persona	ActionParsnip	seems to be the ubuntu-software one in that folder editting now and yep it worked thanks
+2012-05-11T06:10:00.000Z	ActionParsnip	persona	yeah its a weird one

@@ -1,0 +1,6 @@
+2007-11-23T09:10:00.000Z	shishirmk		hi is there anyway to recover things in /tmp folder when i shutdown and restart??
+2007-11-23T09:11:00.000Z	shishirmk		hi is there anyway to recover things in /tmp folder when i shutdown and restart??
+2007-11-23T09:12:00.000Z	shishirmk		nobody has any clue??
+2007-11-23T09:12:00.000Z	shishirmk		hi is there anyway to recover things in /tmp folder when i shutdown and restart??
+2007-11-23T09:12:00.000Z	sproingie	shishirmk	if they're not there they're pretty well gone
+2007-11-23T09:13:00.000Z	sproingie	shishirmk	i think ubuntu uses tmpfs, which means it's basically swap

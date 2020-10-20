@@ -1,0 +1,6 @@
+2005-05-21T12:32:00.000Z	deejaykay		I am basically a Linux newb and I just installed Hoary 5.04
+2005-05-21T12:32:00.000Z	deejaykay		I have been trying for a while to get mp3 support for Rhythmbox, and the directions on the wiki here http://www.ubuntulinux.org/wiki/RestrictedFormats is insufficient.
+2005-05-21T12:32:00.000Z	deejaykay		I know that I need (1) the gstreamer0.8-mad package from the Hoary Hedgehog universe repository, but I cant seem to find it there. (2) when trying to install other mp3 related packages, I get an error: "Depends: libid3tag0 (>=0.15.0b) but it is not installable"
+2005-05-21T12:32:00.000Z	deejaykay		Are there updated directions for this problem?
+2005-05-21T12:33:00.000Z	JairunCaloth	deejaykay	you need http://ubuntuguide.org/
+2005-05-21T12:34:00.000Z	deejaykay	JairunCaloth	thanks.  Do you think someone could update the ubuntu wiki about this?  The directions there are outdated and thats the first place I looked.

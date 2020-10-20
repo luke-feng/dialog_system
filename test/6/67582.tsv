@@ -1,0 +1,6 @@
+2010-08-08T19:22:00.000Z	JanCBorchardt		hello :) I am trying to compile a package (git://github.com/herzi/pongo.git) but it won’t work because it says I haven’t got gstreamer installed: configure: error: Package requirements (
+2010-08-08T19:22:00.000Z	JanCBorchardt		                  gstreamer-0.10
+2010-08-08T19:22:00.000Z	JanCBorchardt		                  ) were not met:
+2010-08-08T19:22:00.000Z	JanCBorchardt		No package 'gstreamer-0.10' found
+2010-08-08T19:22:00.000Z	JanCBorchardt		But afaik I have it, searched through synaptic to no avail – any ideas?
+2010-08-08T19:22:00.000Z	FloodBot2	JanCBorchardt	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

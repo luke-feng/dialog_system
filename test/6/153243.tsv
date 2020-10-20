@@ -1,0 +1,6 @@
+2005-09-30T09:52:00.000Z	bjron		hey, what's the "correct" way to edit what services (eg a webserver) are run automatically?
+2005-09-30T09:53:00.000Z	tritium	bjron	update-rc.d in hoary, nice new gui in breezy
+2005-09-30T09:54:00.000Z	bjron	tritium	ah, I knew I saw the nice gui somewhere. . . on my other system  :P
+2005-09-30T09:54:00.000Z	tritium	bjron	:)
+2005-09-30T10:19:00.000Z	bjron	tritium	well I've found it useful in the past, nice to hear breezy will have something better and built in :(
+2005-09-30T10:19:00.000Z	tritium	bjron	yes, the documentation is progressing nicely

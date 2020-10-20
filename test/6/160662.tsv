@@ -1,0 +1,6 @@
+2009-11-01T18:13:00.000Z	ecolitan		i want to go back to kaffeine version 0.8.8 on Ubuntu9.10. I have removed kaffeine, how do I install the old version?
+2009-11-01T18:14:00.000Z	abli	ecolitan	if you can get the .deb files from somewhere, you can install them with "dpkg -i"
+2009-11-01T18:15:00.000Z	abli	ecolitan	well, if you want to, you can install from source, just follow the instructions included in the source tarball
+2009-11-01T18:17:00.000Z	abli	ecolitan	yes, on packages.ubuntu.com
+2009-11-01T18:18:00.000Z	abli	ecolitan	fro example, on http://packages.ubuntu.com/jaunty/kaffeine on the bottom of the page "download ..."
+2009-11-01T18:19:00.000Z	abli	ecolitan	but those packages will assume that they are installed on the older release, i.e. that the dependencies are also from that older release. Simply installing them on karmic might break things

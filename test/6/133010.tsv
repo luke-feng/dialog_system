@@ -1,0 +1,6 @@
+2005-11-05T13:55:00.000Z	ISOcrates		i cant get online with my laptop but i need the kernel-source for 2.6.12-powerpc.  where can i d/l it from?
+2005-11-05T13:57:00.000Z	ISOcrates		thanks
+2005-11-05T13:59:00.000Z	ISOcrates		is the kernel-source this?  'linux-image-2.6.12-9-powerpc'?
+2005-11-05T14:00:00.000Z	topyli	ISOcrates	source is source, you won't find "PPC sources"
+2005-11-05T14:02:00.000Z	ISOcrates	topyli	i'm having issues installing ndiswrapper on my powerbook ubuntu install.  i was reading that having the source might help.  are you saying that source doesn't exist for ppc?
+2005-11-05T14:03:00.000Z	topyli	ISOcrates	there is one source package. all the images for different architectures are compiled from that. so no, there is no ppc source

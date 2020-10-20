@@ -1,0 +1,6 @@
+2008-05-13T12:13:00.000Z	aRMX_		hi
+2008-05-13T12:14:00.000Z	aRMX_		WARNING: The following packages cannot be authenticated!
+2008-05-13T12:14:00.000Z	fde	aRMX_	What archive?
+2008-05-13T12:15:00.000Z	fde	aRMX_	Please answer me, what archive? If you can tell me, I can fix it for you.
+2008-05-13T12:15:00.000Z	fde	aRMX_	sudo aptitude install ubuntu-keyring
+2008-05-13T12:16:00.000Z	fde	aRMX_	We understand the issue, check to see if ubuntu-keyring is installed please.

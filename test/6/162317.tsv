@@ -1,0 +1,6 @@
+2005-04-09T16:45:00.000Z	osity		i guess hewhy would I not be able to use putty to login to ubuntu?
+2005-04-09T16:45:00.000Z	Pizbit	osity	You don't have a ssh server running on ubuntu?
+2005-04-09T16:52:00.000Z	Pizbit	osity	Install ssh
+2005-04-09T16:53:00.000Z	Pizbit	osity	Nope
+2005-04-09T16:53:00.000Z	Pizbit	osity	If you can't figure out how to install an SSH server you should *not* be running one.
+2005-04-09T16:54:00.000Z	Pizbit	osity	I'm too polite to say:P

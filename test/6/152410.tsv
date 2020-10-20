@@ -1,0 +1,6 @@
+2005-03-28T17:57:00.000Z	mman		hi all
+2005-03-28T17:58:00.000Z	mman		anyone willing to help me with hoary remastering?
+2005-03-28T17:59:00.000Z	lunitik	mman	define 'hoary remastering'.
+2005-03-28T17:59:00.000Z	mman	lunitik	need to add some .debs to filesystem.cloop (this I could do), need to add another user and place some files on their desktops
+2005-03-28T06:00:00.000Z	lunitik	mman	ahh... LiveCD stuff should go to mdz ... but I don't think he is around  :(
+2005-03-28T06:02:00.000Z	mman	lunitik	not good, anyway, I've successfully remastered several old morphixes, but it seems that hoary is quite different, maybe some pointers to where the `ubuntu` user comes from will help me...

@@ -1,0 +1,6 @@
+2009-07-17T22:27:00.000Z	skellington		hey guys. giving ubuntu another shot and i was wondering. where would my wireless driver be on my windows partition. im trying to configure ndis.
+2009-07-17T22:28:00.000Z	skellington		atheros 5700
+2009-07-17T22:28:00.000Z	jrib	skellington	check the wifi documentation first, it's unlikely you need ndiswrapper
+2009-07-17T22:52:00.000Z	jrib	skellington	well you could have several distros share it
+2009-07-17T22:52:00.000Z	skellington	jrib	but if im only using one distro then theres no point. right?
+2009-07-17T22:53:00.000Z	jrib	skellington	I don't see one

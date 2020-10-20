@@ -1,0 +1,6 @@
+2008-10-31T06:42:00.000Z	phanatik		Is there anyway of knowing a product will be supported in Ubuntu before buying it?
+2008-10-31T06:42:00.000Z	phanatik		so if I bought a D-link Wireless PCI Adapter, do you think it would work in Ubuntu?
+2008-10-31T06:43:00.000Z	danbh_intrepid1	phanatik	whats the model number?
+2008-10-31T06:43:00.000Z	phanatik	danbh_intrepid1	D-Link DWA-510 PCI Wireless
+2008-10-31T06:45:00.000Z	phanatik	danbh_intrepid1	did you get that?
+2008-10-31T06:46:00.000Z	danbh_intrepid1	phanatik	yeah, I dunno.  I'm sure you can always use ndiswrapper, which will work, but may not work well

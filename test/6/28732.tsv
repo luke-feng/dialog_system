@@ -1,0 +1,6 @@
+2009-11-01T09:29:00.000Z	dav_		Is pulseaudio configurable at all? Inputs/outputs/what sounds come out of where type of thing? I have a headset and can't seem to make any use of it.
+2009-11-01T09:30:00.000Z	wgrant	dav_	Right click on the volume icon, and select Sound Preferences (if you're using Ubuntu 9.10)
+2009-11-01T09:33:00.000Z	dav_	wgrant	wow. I just upgraded. let me dig through that. thx.
+2009-11-01T09:35:00.000Z	dav_	wgrant	anyway to select the output based on the application? for instance would like skype on headset but rhythmbox on speakers..
+2009-11-01T09:35:00.000Z	wgrant	dav_	Skype makes it a bit awkward, but for most applications you should be able to select a custom output device on the Output tab.
+2009-11-01T09:36:00.000Z	dav_	wgrant	i see. thx.

@@ -1,0 +1,6 @@
+2006-06-11T10:43:00.000Z	Zambezi		There's packaged for detecting portscan, but is there something to block external portscanning?
+2006-06-11T10:44:00.000Z	Concord_Dawn	Zambezi	No. You just cloak your ports.
+2006-06-11T10:45:00.000Z	Zambezi	Concord_Dawn	I have IPCop with a cople of ports opened. And it's five numbers so it's not a common port.
+2006-06-11T10:46:00.000Z	Concord_Dawn	Zambezi	Like I said, you can't block other people from port scanning.
+2006-06-11T10:48:00.000Z	Zambezi	Concord_Dawn	I blocked respond to ping on all interfaces, I change in sshd_config so I can access from just one IP, and I set block all IP in deny. That should be a good start.
+2006-07-28T09:13:00.000Z	Concord_Dawn	Zambezi	ps -A

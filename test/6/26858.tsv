@@ -1,0 +1,6 @@
+2011-12-01T22:31:00.000Z	Timewarper		hey
+2011-12-01T22:32:00.000Z	Timewarper		My wifi adapter keeps flashing (it has a light that flashes when there is network traffic) without doing anything when i connect to my router. This doesnt happen under windows.  Is there a tool to check if this box has been infected by a trojan, backdoor or something?
+2011-12-01T22:33:00.000Z	Jordan_U	Timewarper	Regular bugs or misconfiguration is *much* more likely as an explanation that a trojan or similar.
+2011-12-01T22:34:00.000Z	Timewarper	Jordan_U	it happens now only, didnt happen before 1 hour
+2011-12-01T22:34:00.000Z	Timewarper		also when i reboot it persists
+2011-12-01T22:34:00.000Z	Jordan_U	Timewarper	Ahh, I misunderstood your statement. I thought you were worried about the light at first not realizing you were worried about the traffic it implied, sorry.

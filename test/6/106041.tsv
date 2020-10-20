@@ -1,0 +1,6 @@
+2012-11-03T22:25:00.000Z	aquethys		Hi, I successfully booted Ubuntu CD on my HP Pavilion. I get all the way to install alongside windows. However after that it tells me to remove all installation media and press enter. However then after I hit enter it reboots into windows...what's wrong?
+2012-11-03T22:26:00.000Z	aquethys		what's gparted
+2012-11-03T22:26:00.000Z	aquethys		no
+2012-11-03T22:26:00.000Z	wols	aquethys	a partitioning utility
+2012-11-03T22:30:00.000Z	wols	aquethys	ubuntu live cd boots to a gui. but there also is parted which works in console. not sure if it's on the ubuntu cd tho
+2012-11-03T22:45:00.000Z	wols	aquethys	that's not what he asked. do you have backups of all important files?

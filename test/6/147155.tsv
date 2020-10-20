@@ -1,0 +1,6 @@
+2006-03-23T15:06:00.000Z	Kream		Can someone tell me of a repository where I can find w32codecs ? I tried the PLF one at deb http://packages.freecontrib.org/ubuntu/plf/ breezy free non-free but it doesn't seem to have w32codecs
+2006-03-23T15:06:00.000Z	Madpilot	Kream	https://wiki.ubuntu.com/RestrictedFormats#head-fda9cc5147253891fe3047263b82d787ab025bba
+2006-08-31T13:48:00.000Z	Madpilot	Kream	why are you using sudo & pwd anyway? pwd is just 'print working directory', it doesn't need sudo...
+2006-08-31T13:57:00.000Z	Kream	Madpilot	i just want to redirect the output of pwd to a file.
+2006-08-31T13:57:00.000Z	Kream	Madpilot	and since i'm in a directory where only root has write perms, i used sudo
+2007-04-17T11:00:00.000Z	Madpilot	Kream	testing repos of sorts. I'm not sure they're actually fully running yet.

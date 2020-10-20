@@ -1,0 +1,6 @@
+2012-09-20T01:05:00.000Z	roychri		Let's say I want to buy a new machine ( 8 cores, 16GB RAM ) and have this machine dedicated to run virtual machines with ubuntu on each instance.  Is there some kind of OS specialized to do just that?
+2012-09-20T01:07:00.000Z	ActionParsnip	roychri	ESX is a dedicated VMware Linux platform
+2012-09-20T01:09:00.000Z	roychri	ActionParsnip	Thanks, I will check that out
+2012-09-20T01:13:00.000Z	roychri	ActionParsnip	KVM is like ESX?
+2012-09-20T01:13:00.000Z	ActionParsnip	roychri	ESX is a redhat based linux distro, check it out online
+2012-11-06T02:09:00.000Z	ActionParsnip	roychri	yes

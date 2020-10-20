@@ -1,0 +1,6 @@
+2007-05-02T05:55:00.000Z	ub12		what do I use instead of make when installing from a tarball download? I am used to "./configure" "make" "make install"
+2007-05-02T05:56:00.000Z	bruenig	ub12	you still use make
+2007-05-02T05:56:00.000Z	bruenig	ub12	make sure you have installed build-essential to get what you need
+2007-05-02T05:56:00.000Z	ub12	bruenig	I don't have make ...
+2007-05-02T05:56:00.000Z	bruenig	ub12	make sure you have installed build-essential to get what you need
+2007-06-09T07:19:00.000Z	bruenig	ub12	rm them

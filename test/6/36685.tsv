@@ -1,0 +1,6 @@
+2009-06-03T15:35:00.000Z	jamiewan		could someone tell me if this is an issue. I get this error after updates_W: GPG error: http://wine.budgetdedicated.com jaunty Release: The following signatures couldn't be verified because the public key is not available: NO_PUBKEY 58403026387EE263
+2009-06-03T15:36:00.000Z	yasasvy	jamiewan	u need to update the signature keys for wine
+2009-06-03T15:37:00.000Z	jamiewan	yasasvy	ok so how can i do that, i'm pretty new to ubuntu
+2009-06-03T15:38:00.000Z	yasasvy	jamiewan	just a sec
+2009-06-03T15:39:00.000Z	jamiewan		yasavy i've built a windows / linux duel boot to try out ubuntu and i've had it 2 weeks and wont go back to windows ever again
+2009-06-03T15:40:00.000Z	yasasvy	jamiewan	http://www.winehq.org/download/deb instructionsa re given in that site

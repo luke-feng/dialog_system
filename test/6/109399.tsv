@@ -1,0 +1,6 @@
+2006-08-07T06:18:00.000Z	GTX		Hello, I've just re-installed windows but now I want to get grub back. I put in the Ubuntu 6.06 cd and clicked boot from first hard disk and its taking me back to ubuntu ( thank god ). How do I install grub now
+2006-08-07T06:20:00.000Z	GTX		Hello, I've just re-installed windows but now I want to get grub back. I put in the Ubuntu 6.06 cd and clicked boot from first hard disk and its taking me back to ubuntu ( thank god ). How do I install grub now
+2006-08-07T06:21:00.000Z	_osiris_	GTX	look here
+2006-08-07T06:21:00.000Z	_osiris_		!grub
+2006-08-07T06:22:00.000Z	GTX	_osiris_	i have
+2006-08-07T06:22:00.000Z	GTX	_osiris_	I want to be able to select windows in grub as well as ubuntu

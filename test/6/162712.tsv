@@ -1,0 +1,6 @@
+2005-11-04T07:04:00.000Z	Kender		Hello, I'm having issues installing Breezy Badger from a properly imaged CD on an older computer (K6 200 MHz, 64 MB ram). It will boot from the CD get as far as telling it's about to start partitioning and then it freezes up. I can't find whether there are system requirement issues, though I'd think any issues like that would either come up before installation or when I try to run GNOME...
+2005-11-04T07:04:00.000Z	Kender		...after installation. Any ideas?
+2005-11-04T07:05:00.000Z	Kender		Have one, or else I wouldn't be on here
+2005-11-04T07:06:00.000Z	Kender		that
+2005-11-04T07:06:00.000Z	Kender		s my thought
+2005-11-04T07:06:00.000Z	Seveas	Kender	I've seen this before, try scavenging through bugzilla

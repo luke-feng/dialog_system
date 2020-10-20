@@ -1,0 +1,6 @@
+2007-10-12T16:52:00.000Z	illusion-1		Hello pliz How to startx x in chroot ubuntu
+2007-10-12T16:52:00.000Z	illusion-1		?
+2007-10-12T16:54:00.000Z	thedonvaughn	illusion-1	you will need to have X and it's environment installed in the chroot environment.
+2007-10-12T16:57:00.000Z	thedonvaughn	illusion-1	ubuntu and no password i believe
+2007-10-12T16:59:00.000Z	thedonvaughn	illusion-1	put gnome-session in your .xinitrc and type 'start'x
+2007-10-12T16:59:00.000Z	thedonvaughn	illusion-1	er 'startx'

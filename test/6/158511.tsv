@@ -1,0 +1,6 @@
+2005-01-22T14:48:00.000Z	mjr		yes
+2005-01-22T14:49:00.000Z	bassinboy	mjr	what repositorys do you use?
+2005-01-22T14:50:00.000Z	mjr	bassinboy	umm, warty, warty-security and warty-updates?
+2005-01-22T14:50:00.000Z	bassinboy	mjr	oh, hmm, what do you do about playing a DVD?
+2005-01-22T14:54:00.000Z	mjr	bassinboy	oh, for that, totem-xine and a libdvdcss package referenced from here: http://debian.video.free.fr/
+2005-01-22T14:56:00.000Z	bassinboy	mjr	thanks

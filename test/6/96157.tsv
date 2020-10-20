@@ -1,0 +1,6 @@
+2007-08-22T07:38:00.000Z	Pici		!upgrade | jesson
+2007-08-22T07:40:00.000Z	cberlo	Pici	eracc:  I use Pidgin/GAIM.  Works reasonably well.
+2007-10-30T18:59:00.000Z	Pici	cberlo	You'd have some diffuculty running proprietary applications, although I hear getting flash and java to work in Gutsy is a bit easier.
+2007-10-30T19:03:00.000Z	Pici	cberlo	fyi, you can address your extra ram if you run the server kernel, it supports PAE (good wikipedia article about that)
+2007-10-30T19:04:00.000Z	cberlo	Pici	 only 512 MB RAM at present, so that's not an issue.  As mentioned, it's only a desktop
+2007-10-30T19:04:00.000Z	Pici	cberlo	I'd stick with 32 bits then, Its not worth the hassle if you dont really need it.  But thats just my opinion.

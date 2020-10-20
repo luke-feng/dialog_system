@@ -1,0 +1,6 @@
+2009-03-12T15:47:00.000Z	baz		can i telnet to myself? what can i telnet to for a guaranteed connection? 127.0.0.1 doesn't seem to do anything?
+2009-03-12T15:48:00.000Z	strange	baz	do you have telnetd running?
+2009-03-12T15:48:00.000Z	strange	baz	default is 21
+2009-03-12T15:49:00.000Z	baz	strange	actually i dont really
+2009-03-12T15:49:00.000Z	baz	strange	i just want to get ANYTHING besides connection refused
+2009-03-12T15:50:00.000Z	baz	strange	oh nice that worked! ok so telnet is not broken :)

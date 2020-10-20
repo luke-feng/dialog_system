@@ -1,0 +1,6 @@
+2009-12-01T06:00:00.000Z	spydon		Does anyone know if its possible to list all remote shares on an NFS-server?
+2009-12-01T06:02:00.000Z	Bolvadur2	spydon	think not. just use static ips and keep a list with ips and paths to shared directories
+2009-12-01T06:03:00.000Z	spydon	Bolvadur2	too bad, do you know if there is a standard share created somewhere when you install the nfsserver?
+2009-12-01T06:04:00.000Z	Bolvadur2	spydon	by default no. as it would create security risk :)
+2009-12-01T06:04:00.000Z	spydon	Bolvadur2	good :)
+2009-12-01T06:05:00.000Z	Bolvadur2	spydon	you only need to change (install) exports and fstab, that's it

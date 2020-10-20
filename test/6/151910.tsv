@@ -1,0 +1,6 @@
+2005-04-05T15:56:00.000Z	johnf		hello
+2005-04-05T15:57:00.000Z	johnf		how do I configure and change my grub boot loader?
+2005-04-05T15:59:00.000Z	St0n3-C0l	johnf	pico /boot/grub/menu.lst
+2005-04-06T16:00:00.000Z	johnf	St0n3-C0l	 okay but how do I change which is my default?
+2005-04-06T16:01:00.000Z	St0n3-C0l	johnf	PVT
+2005-04-06T05:03:00.000Z	johnf	St0n3-C0l	 how do I add the universal repository now with horay? I could do it on warty but its different now

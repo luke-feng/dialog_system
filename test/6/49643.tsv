@@ -1,0 +1,6 @@
+2008-12-15T21:34:00.000Z	bidossessi		lool, talk about sync
+2008-12-15T21:36:00.000Z	bidossessi		i'm more of an rpm person, does anyone know the equivalent to "rpm -ql package"?
+2008-12-15T21:36:00.000Z	LjjjL	bidossessi	perhaps if you tell me what it does...
+2008-12-15T21:37:00.000Z	bidossessi	LjjjL	it lists all files installed by a package
+2008-12-15T21:37:00.000Z	LjjjL	bidossessi	then dpkg -L packagename
+2008-12-15T21:38:00.000Z	bidossessi	LjjjL	thanks

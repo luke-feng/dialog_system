@@ -1,0 +1,6 @@
+2008-11-03T09:13:00.000Z	balz		does anybody know of a program that can do disk imaging for backup purposes?  I need something that can be set on a schedule, hot image a drive, and compress the contents... basicaly something like Acronis TrueImage
+2008-11-03T09:15:00.000Z	scunizi	balz	you might look into partimage.. not sure if it will do what you want but it does do imaging of partitions over a network
+2008-11-03T09:15:00.000Z	balz	scunizi	 i'll look into it, thanks for the tip! =)
+2008-11-03T09:17:00.000Z	balz	scunizi	 i'll look at that too.  i just need to be able to imgae to an external drive, really
+2008-11-03T09:23:00.000Z	scunizi	balz	wouldn't he want 644 so the permissions are only for his login?
+2008-11-03T09:24:00.000Z	balz	scunizi	 i dunno, he told me he wanted 777

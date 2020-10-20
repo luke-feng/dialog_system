@@ -1,0 +1,6 @@
+2010-02-07T06:56:00.000Z	SecondInfinity		How does the inode size of a filesystem affect it? I want to format a partition with an inode size of 128 (bytes?) and it is currently 256. I know I will have to reformat it and that 256 is the standard inode size for ext4, but what is the difference in application
+2010-02-07T06:58:00.000Z	SecondInfinity		Does anyone know
+2010-02-07T06:58:00.000Z	Dr_Willis	SecondInfinity	 why do you even need/think you need/ to mess with the inode size?
+2010-02-07T07:01:00.000Z	SecondInfinity	Dr_Willis	The program I use (the only one I have tried that seems to work reliably) to read ext2 and ext3 partitions in windows requires that the inode size of a partition be 128 or less to be readable. When 8.10 was out the boot cd made the inode size 128 by default
+2010-02-07T07:01:00.000Z	Dr_Willis	SecondInfinity	 what program is that anyway?
+2010-02-07T07:27:00.000Z	Dr_Willis	SecondInfinity	 they change daily. :) but it should be calming down  soon i imagine

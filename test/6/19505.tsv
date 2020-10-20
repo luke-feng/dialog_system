@@ -1,0 +1,6 @@
+2010-07-20T18:12:00.000Z	cablop		how can i set the programs that i want to be openned each time i start my sesion?
+2010-07-20T18:12:00.000Z	cntrational	cablop	System > Administration > StartUp-Manager
+2010-07-20T18:13:00.000Z	cablop	cntrational	thanks
+2010-07-20T18:13:00.000Z	cablop	cntrational	well... i see... no way to do it with ease :(
+2010-07-20T18:13:00.000Z	cntrational	cablop	no, wait, i messed up
+2010-07-20T18:14:00.000Z	cntrational	cablop	System > Preferences > Startup Applications

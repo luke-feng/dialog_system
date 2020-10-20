@@ -1,0 +1,6 @@
+2012-04-12T12:18:00.000Z	parenta		how command to make user and group in one line
+2012-04-12T12:18:00.000Z	parenta		how to make command user and group in one line
+2012-04-12T12:19:00.000Z	parenta		why?
+2012-04-12T12:20:00.000Z	parenta		how about my  ask/
+2012-04-12T12:22:00.000Z	comgen	parenta	: https://help.ubuntu.com/community/AddUsersHowto  ?
+2012-04-12T12:23:00.000Z	comgen	parenta	: or : sudo adduser <username> <groupname>

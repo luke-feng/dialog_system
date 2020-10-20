@@ -1,0 +1,6 @@
+2010-08-15T08:53:00.000Z	kadim		i need to boot a usb stick from a live cd. the usb stick has ubuntu fully installed but the pc wont use usb as a boot method. how can i do this?
+2010-08-15T08:54:00.000Z	kadim		no option.
+2010-08-15T08:55:00.000Z	kadim		the drive will boot up my new pc not my older one
+2010-08-15T08:55:00.000Z	kadim		cant i boot to  the live cd and chroot or something? i recall doing this long time ago
+2010-08-15T08:56:00.000Z	muelli	kadim	well. You might be able to give root=/dev/sdb1 or whatever your USB pendrive is for the kernel boot parameteres
+2010-08-15T08:57:00.000Z	muelli	kadim	that'll still boot the initrd and the kernel off the CDROM but everything past that should be based on your pendrive.

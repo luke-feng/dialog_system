@@ -1,0 +1,6 @@
+2010-10-27T13:48:00.000Z	adxp`		is it possible to have a single server masquerade as having an entire class C space of IPs?
+2010-10-27T13:49:00.000Z	airtonix	adxp`	maybe, if you create enough virtual ethernet interfaces
+2010-10-27T13:49:00.000Z	adxp`	airtonix	hm, yeah, I was hoping for a way around that
+2010-10-27T13:49:00.000Z	adxp`	airtonix	it seems not-unreasonable to want to avoid having 256 virtul interfaces, but still have a many-to-one mapping
+2010-10-27T13:50:00.000Z	adxp`		(airtonix: I know this is more a pure-linux rather than an ubuntu thing)
+2010-10-27T13:50:00.000Z	airtonix	adxp`	or you could use some kind of arp spam

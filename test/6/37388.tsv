@@ -1,0 +1,6 @@
+2010-05-28T12:49:00.000Z	Lantizia		Hey is it possible for a CD drive to show up as /dev/sda or sdb etc... or will it always be /dev/scd0 or scd1 etc
+2010-05-28T12:49:00.000Z	tntc	Lantizia	I've seen /dev/sr0
+2010-05-28T12:49:00.000Z	Lantizia	tntc	true for USB
+2010-05-28T12:49:00.000Z	Lantizia		So possibilities are hd* sr* scd*
+2010-05-28T12:49:00.000Z	Lantizia		but not sd*
+2010-05-28T12:49:00.000Z	tntc	Lantizia	My CD Drive is SATA, I'm pretty sure, and it's showing up as sr0...

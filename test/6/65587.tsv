@@ -1,0 +1,6 @@
+2008-01-25T21:34:00.000Z	danbhfive	santosh_	if you reconfigured xserver, that hits the mouse too
+2008-01-25T21:35:00.000Z	danbhfive	santosh_	were there any backups of your xserver file?
+2008-01-25T21:35:00.000Z	santosh_	danbhfive	thank you, i actually configured by display using that, ofcourse in  between it asked to configure my mouse  and keyboard also.
+2008-01-25T21:36:00.000Z	danbhfive	santosh_	yeah, if it was xserver, that manages all three of those
+2008-01-25T21:37:00.000Z	santosh_	danbhfive	there is a backup file i will be able to revert to make mouse working but about display?
+2008-01-25T21:37:00.000Z	danbhfive	santosh_	I would open both files, in the new one created, leave the display section alone, and copy the old mouse section over the one in the new file

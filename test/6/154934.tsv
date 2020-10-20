@@ -1,0 +1,6 @@
+2005-03-22T12:06:00.000Z	difekta		can anyone give me a sample fstab line to mount /dev/hdb1 and allow users to access it?
+2005-03-22T12:06:00.000Z	difekta		my current one is only accessible by root.
+2005-03-22T12:07:00.000Z	difekta		hmm..
+2005-03-22T12:07:00.000Z	difekta		i have essentially that now.
+2005-03-22T12:07:00.000Z	difekta		it's ntfs if that means anything.
+2005-03-22T12:08:00.000Z	BiteMeBill	difekta	http://ubuntuguide.org/#windows

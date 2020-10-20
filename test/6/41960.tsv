@@ -1,0 +1,6 @@
+2009-02-28T07:02:00.000Z	the_rar		how can i change the text terminal screen settings?
+2009-02-28T07:03:00.000Z	yoyoned1	the_rar	what specificlly do you want to change
+2009-02-28T07:04:00.000Z	the_rar	yoyoned1	the terminal 'outside' of the X session.. i want smaller chars
+2009-02-28T07:05:00.000Z	yoyoned1	the_rar	the options you need to set are at boot time.   add something like "vga=773" to the  end of the kernel line in grub
+2009-02-28T07:07:00.000Z	yoyoned1	the_rar	http://wiki.antlinux.com/pmwiki.php?n=HowTos.VgaModes
+2009-02-28T07:07:00.000Z	the_rar	yoyoned1	thank you.

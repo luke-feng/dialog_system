@@ -1,0 +1,6 @@
+2008-05-27T13:28:00.000Z	blankthemuffin		Hey. My Ubuntu 7.10 is being really sluggish on my PC. Much more than it should be, it can take up to 30s for a window ( terminal, gedit, etc etc ) to open or the same for a right click>ExtractHere to actually work. Once things are open they are as fast as usual. Any ideas where I could start looking? My CPU usage idles around 0-5% and my ram usage is 11% of 3Gig's
+2008-05-27T13:29:00.000Z	rajalot	blankthemuffin	most likely you have some indexing going on
+2008-05-27T13:29:00.000Z	blankthemuffin	rajalot	where are the indexing settings to be found?
+2008-05-27T13:30:00.000Z	blankthemuffin	rajalot	nvm I looked :P
+2008-05-27T13:30:00.000Z	rajalot	blankthemuffin	good. try disabling it, then restart X and see if it's still sluggish :)
+2008-05-27T13:34:00.000Z	blankthemuffin	rajalot	It still sees slower than my other PC ( which is much much less powerful ) but it's heaps better all the same. Down too 3s loads for pretty much everything

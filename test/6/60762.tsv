@@ -1,0 +1,6 @@
+2010-09-17T10:29:00.000Z	icedtea	NoTownKasper	I've used samba quite a bit. Whats your issue again?
+2010-09-17T10:29:00.000Z	NoTownKasper	icedtea	Simple answer Windows vista machine on a local network, can see but not access my shared folders.
+2010-09-17T10:32:00.000Z	icedtea	NoTownKasper	how did  you setup samba on the linux box?
+2010-09-17T10:36:00.000Z	NoTownKasper	icedtea	First time I right-clicked the folder in nautilus and clicked 'share this folder' it prompted me to install the services and restart my session, so I did...and it flopped. So I reinstalled samba manually using apt-get install samba samba-common and again tried to share the folders and it flopped. So I tried the first step, but used sudo nautilus...and it flopped...so I manually installed samba and samba-common again and the
+2010-09-17T10:41:00.000Z	icedtea	NoTownKasper	I have Vista on my laptop, but my router fried the other day, otherwise I would try it out
+2010-09-17T10:42:00.000Z	icedtea	NoTownKasper	let me see if I can find the power adapter to my switch

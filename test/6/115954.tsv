@@ -1,0 +1,6 @@
+2007-12-16T07:09:00.000Z	batma8		why would gl screensavers not work ONLY when beryl is running
+2007-12-16T07:10:00.000Z	Pelo	batma8	probably because gl screensaver needs a compoziting engine
+2007-12-16T07:11:00.000Z	batma8	Pelo	screensavers work great UNTIL beryl is running
+2007-12-16T07:11:00.000Z	Pelo	batma8	my mistake , try asking in #compiz-fusion
+2007-12-16T07:31:00.000Z	Pelo	batma8	try running the memory check thingy from the grub boot menu
+2007-12-16T07:33:00.000Z	Pelo	batma8	I was suggesting it for diagnostic purposuse, if memcheck  can't even see it properly it will probably give you an error to search info on

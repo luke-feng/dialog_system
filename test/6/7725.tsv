@@ -1,0 +1,6 @@
+2011-08-07T00:32:00.000Z	Seveas	wrtiii	that either the computer is not connected to the internet or the server on the other end is down
+2011-08-07T00:33:00.000Z	Seveas	wrtiii	gksudo gedit /etc/apt/sources.list
+2011-08-07T00:43:00.000Z	Seveas	wrtiii	vim will grow on you if you don't watch out :)
+2011-08-07T01:00:00.000Z	Seveas	wrtiii	if you have a static ip, resolvers are configured statically too. YOu don't need to edit files manually though, all can be done with network-manager
+2011-08-07T01:01:00.000Z	wrtiii	Seveas	network-manageR? commandline?
+2011-08-07T01:01:00.000Z	Seveas	wrtiii	gui

@@ -1,0 +1,6 @@
+2008-09-02T11:00:00.000Z	vikku		iam getting following err on installing the bochs
+2008-09-02T11:00:00.000Z	vikku		E: Dynamic MMap ran out of room
+2008-09-02T11:00:00.000Z	vikku		E: Error occurred while processing llgal (NewVersion1)
+2008-09-02T11:00:00.000Z	vikku		E: Problem with MergeList /var/lib/apt/lists/fr.archive.ubuntu.com_ubuntu_dists_hardy_universe_binary-i386_Packages
+2008-09-02T11:00:00.000Z	vikku		E: The package lists or status file could not be parsed or opened
+2008-09-02T11:00:00.000Z	FloodBot1	vikku	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

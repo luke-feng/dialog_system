@@ -1,0 +1,6 @@
+2010-03-29T17:39:00.000Z	anodesni		I'm trying to setup my wireless here at opensuse 11.2, unfortunately I don't have the Equifax certificate, Ubuntu has. Please post it on pastebin, anyone?
+2010-03-29T17:39:00.000Z	letharion	anodesni	Please specify which file that is/where I find it
+2010-03-29T17:39:00.000Z	anodesni	letharion	/usr/share/ca-certificates/mozilla/Equifax_Secure_CA.cert
+2010-03-29T17:41:00.000Z	letharion	anodesni	http://pastebin.com/hAYtXPpn
+2010-03-29T17:41:00.000Z	anodesni	letharion	thank you very much! that really helped me
+2010-03-29T17:41:00.000Z	letharion	anodesni	Notice it ends in .crt instead of .cert, but I assume it's the file your looking for anyway. No problem.

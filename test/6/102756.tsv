@@ -1,0 +1,6 @@
+2008-01-31T08:31:00.000Z	neuber		kles: su root
+2008-01-31T08:32:00.000Z	neuber		kles i think you need to set one first...
+2008-01-31T08:33:00.000Z	neuber		anyway... anyone want to help me install nvid drivers on server kernel?
+2008-01-31T08:34:00.000Z	Jordan_U	neuber	Why are you using the server kernel?
+2008-01-31T08:35:00.000Z	Jordan_U	neuber	You have 4+ GIG of RAM on a 32 bit machine?
+2008-01-31T08:36:00.000Z	Jordan_U	neuber	https://help.ubuntu.com/community/NvidiaManual

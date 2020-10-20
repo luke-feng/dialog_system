@@ -1,0 +1,6 @@
+2012-07-27T18:13:00.000Z	cmake		I am just curious I know you can read all the man pages online. But I am pretty sure all of the ones for my distro are kept in /usr/share/man in a .gz format. But when I open one it is in a format not readable with a standard gedit program very well.. so I guess I am asking what the man and info tools do ... do they just go to this directory and unzip/extract the particular command page then translate it to a readable format....
+2012-07-27T18:14:00.000Z	cmake		If so how I am assuming there is a program that I can uses other then man / info that would allow me to convert these man pages to html or text
+2012-07-27T18:15:00.000Z	cmake		I understand that but is there away to manually convert them to text , html , postscript , pdf ,...etc
+2012-07-27T18:17:00.000Z	cmake		but they have some syntax characters not exactly like reading them through man or info ... Also that won't allow me to create a pdf , ps , or other file
+2012-07-27T18:19:00.000Z	cmake		I always wonder what groff was is that just a program that converts text to ps or pdf
+2012-07-27T18:19:00.000Z	Dr_Willis	cmake	 its an old wordprocessing system/typesetting/documention system from like 20+ yrs back.

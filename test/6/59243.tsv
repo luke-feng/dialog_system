@@ -1,0 +1,6 @@
+2008-04-28T14:21:00.000Z	changehome		hi everyone, sorry to bother i am using ubuntu 8.04 and i was wondering if anyone can explain to me the steps to change the HOME directory to a network share file
+2008-04-28T14:23:00.000Z	erUSUL	changehome	mount the network share under /home/ on your fstab (copy the files over first) i has to be a nfs share becouse afaik samba (windows ) shares can not be used forhome
+2008-04-28T14:24:00.000Z	changehome	erUSUL	sorry i am kinda new to ubuntu i didnt get to catch it =(
+2008-04-28T14:24:00.000Z	erUSUL		!fstab | changehome
+2008-04-28T14:26:00.000Z	changehome	erUSUL	can home point to a NTSF partition?
+2008-04-28T14:27:00.000Z	erUSUL	changehome	nope; ntfs partitions can not hold the information about ownrship accesses etc of a unix/linux system

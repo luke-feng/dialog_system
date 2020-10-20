@@ -1,0 +1,6 @@
+2006-05-21T06:12:00.000Z	drasko		Hi all. I installed enlightenment, but it is not shown in gdm, so I can not choose this session. How to add it?
+2006-05-21T06:14:00.000Z	nickrud	drasko	you need to add a .desktop file to /usr/share/xsession that calls whatever e17 uses to start
+2006-05-21T06:14:00.000Z	nickrud	drasko	er, /usr/share/xsessions
+2006-05-21T06:27:00.000Z	drasko	nickrud	I'll try this...
+2006-05-21T06:27:00.000Z	nickrud	drasko	what??
+2006-05-21T06:27:00.000Z	drasko	nickrud	well,. for xsessions....

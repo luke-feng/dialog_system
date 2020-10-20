@@ -1,0 +1,6 @@
+2009-05-01T14:03:00.000Z	muteW		I am running Ubuntu 9.04 on an old Acer laptop and have been having these frequent lockups where the entire system freezes.
+2009-05-01T14:03:00.000Z	muteW		The only way out is to either reboot or use the Magic SysRq key to do a clean reboot..
+2009-05-01T14:03:00.000Z	muteW		Is there any way to get a kernel stack trace so that I can find out the cause of the error?
+2009-05-01T14:03:00.000Z	ikonia	muteW	sysrq is your friend
+2009-05-01T14:04:00.000Z	muteW	ikonia	You mean the magic SysRq combination?
+2009-05-01T14:05:00.000Z	ikonia	muteW	you got it

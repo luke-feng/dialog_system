@@ -1,0 +1,6 @@
+2012-03-12T20:00:00.000Z	sipior	nishttal2	look into lvm.
+2012-03-12T20:02:00.000Z	nishttal2	sipior	can you point me to a link that i can read up about lvm
+2012-03-12T20:03:00.000Z	sipior	nishttal2	for starters: http://www.howtogeek.com/howto/40702/how-to-manage-and-use-lvm-logical-volume-management-in-ubuntu/
+2012-03-12T20:07:00.000Z	sipior	nishttal2	my general feeling is: if you really want hardware raid, buy a decent high-end card. the crap on most motherboards does not really qualify. you'll likely have better performance, and fewer bytes will come up missing with software raid.
+2012-03-12T20:08:00.000Z	nishttal2	sipior	no budget :-)
+2012-03-12T20:08:00.000Z	sipior	nishttal2	well, that makes your decision very simple :-)

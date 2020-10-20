@@ -1,0 +1,6 @@
+2010-08-07T02:09:00.000Z	haresh		hey guys need some help when i do a update using the update manager i get cannot upgrade a upgrade from lucid to handy is not supported please help me
+2010-08-07T02:10:00.000Z	haresh		how can i go about it ??
+2010-08-07T02:10:00.000Z	haresh		i cant install any firefox also
+2010-08-07T02:11:00.000Z	rww	haresh	run the commands "lsb_release -a" and "apt-cache policy" in the terminal, copy to http://paste.ubuntu.com/, copy the address of the page it creates here.
+2010-08-07T02:11:00.000Z	haresh		the problem is i dont have any firefox or anythign in to surf the net and when i try installing it will not install
+2010-08-07T02:12:00.000Z	haresh	rww	the problem is i dont have any firefox or anythign in to surf the net and when i try installing it will not install

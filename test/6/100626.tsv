@@ -1,0 +1,6 @@
+2007-03-09T09:06:00.000Z	RxDx		what is the command to show text on terminal?
+2007-03-09T09:06:00.000Z	RxDx		i want to see /etc/fstab in terminal
+2007-03-09T09:07:00.000Z	mjunx	RxDx	cat /etc/fstab
+2007-03-09T09:07:00.000Z	mjunx		or use less
+2007-03-09T09:07:00.000Z	mjunx		less > more
+2007-03-09T09:07:00.000Z	RxDx	mjunx	thanks

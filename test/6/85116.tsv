@@ -1,0 +1,6 @@
+2008-10-25T04:19:00.000Z	spence		#ubuntu i've been referred here from ##linux
+2008-10-25T04:19:00.000Z	Kr0ntab	spence	welcome.  :-)
+2008-10-25T04:20:00.000Z	spence	Kr0ntab	thank you. i'm having an issue with Windows after I've installed Ubuntu. I foolishly told Ubuntu it could use the Windows partition as swap space. thinking that 60gb of free space would be enough for an occasional memory swap out
+2008-10-25T04:21:00.000Z	Kr0ntab	spence	doh!
+2008-10-25T04:22:00.000Z	Kr0ntab	spence	yikes... well if you've formatted the partition already... which is the default for any installation... you may be out of luck...
+2008-10-25T04:23:00.000Z	Kr0ntab	spence	 yup...  sorry to hear that mate...

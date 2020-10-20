@@ -1,0 +1,6 @@
+2012-02-16T11:16:00.000Z	habanero_		anyone notice that with the latest 11.10 update for flashplugin-installer, if using aptitude, it's trying to remove 75 other packages?
+2012-02-16T11:18:00.000Z	habanero_		let me know how goes it
+2012-02-16T11:18:00.000Z	habanero_		cypher-neo_, apt-get or aptitude?
+2012-02-16T11:19:00.000Z	habanero_		hmm.  crazy.  I've got 3 systems acting the same
+2012-02-16T11:19:00.000Z	habanero_		thanks for the input!
+2012-02-16T11:19:00.000Z	nathan28	habanero_	sounds like a reproduceable problem

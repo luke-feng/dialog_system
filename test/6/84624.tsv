@@ -1,0 +1,6 @@
+2007-12-28T08:15:00.000Z	Konam		Hi
+2007-12-28T08:16:00.000Z	Konam		I'm trying to have the same /home after an ubuntu install, i use the same login and passwd but when the install is finished and i log in a message pops up and tell me that i don't have the permisions to use that home (even though i can log in, actually), how do i change that?
+2007-12-28T08:17:00.000Z	Dr_willis_	Konam	 You may need to chown the /home/whatevertheusernameis dir  if the uids have changed
+2007-12-28T08:17:00.000Z	Dr_willis_	Konam	 ive never had issues with remaking the same user.  the old /home is from a ubuntu install ?
+2007-12-28T08:18:00.000Z	Dr_willis_	Konam	 now if the /home was from a Different Disrto. that can cause issues ive found. :)
+2007-12-28T08:18:00.000Z	Konam	Dr_willis_	no, is from another ubuntu install

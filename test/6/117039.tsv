@@ -1,0 +1,6 @@
+2006-11-21T14:02:00.000Z	dnite		is there a way to search though your installed packages to find any orphaned dependencies automatically?
+2006-11-21T14:02:00.000Z	stoft	dnite	 try "orphan"
+2006-11-21T14:02:00.000Z	stoft	dnite	I think it will do the job
+2006-11-21T14:02:00.000Z	stoft		doh, wrong name... :)
+2006-11-21T14:03:00.000Z	dnite	stoft	cool. thanks. x=)
+2006-11-21T14:04:00.000Z	stoft	dnite	there was an article about orphan packages at debian-administration not long ago, take a peek there.

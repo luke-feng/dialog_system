@@ -1,0 +1,6 @@
+2010-11-19T08:22:00.000Z	MintBerryCrunch		Hey this is probably a common problem but I've researched and tried everything...I have no sound on ANY applications, installed 10.4 only 2 days ago. It had sound at first, then I installed pulseaudio and it's gone completely. I ran a debug in the terminal, messed with settings in both volume and pulse, and i turned up the volume in the alsa terminal control thing. Any suggestions?
+2010-11-19T08:24:00.000Z	MintBerryCrunch		wanna do it with the archive manager or the terminal?
+2010-11-19T08:25:00.000Z	MintBerryCrunch		is that a -pkg command then?
+2010-11-19T08:25:00.000Z	MintBerryCrunch		i know dkpg is depackage
+2010-11-19T08:26:00.000Z	MintBerryCrunch		If anyone has had no audio with a fresh install of Ubuntu 10.04 and fixed it, please send me a message. I only need a second, just point me in the right direction
+2010-11-19T08:27:00.000Z	DJJeff	MintBerryCrunch	try changing the sound output in your sound settings?

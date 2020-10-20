@@ -1,0 +1,6 @@
+2010-06-19T11:39:00.000Z	Guest38763		i want to make a word file using john and using ">" to input it into a file, is there a way to limit the amount of bytes that the file becomes?
+2010-06-19T11:39:00.000Z	prince_jammys	Guest38763	if the output is line based, you may use 'head'
+2010-06-19T11:40:00.000Z	prince_jammys	Guest38763	e.g. your_prog | head -n 2000 > yourfile   # the first 2000 lines.
+2010-06-19T11:40:00.000Z	Guest38763	prince_jammys	cool ill check it out thanks
+2010-06-19T11:44:00.000Z	Guest38763	prince_jammys	i just generated 200000 words in less then a second using those commands... i didn't know john was that fast
+2010-06-19T11:44:00.000Z	prince_jammys	Guest38763	cool.

@@ -1,0 +1,6 @@
+2004-11-01T17:31:00.000Z	CraHan		I personally move S99blabla to s99blabla
+2004-11-01T17:31:00.000Z	CraHan		since the service wouldn't be running, there wouldn't be a need to kill it
+2004-11-01T17:31:00.000Z	CraHan		but either way works
+2004-11-01T17:31:00.000Z	mrjive	CraHan	it does not work, for example, switching from runlevel 2 to runlevel 1 .. or other
+2004-11-01T17:31:00.000Z	mrjive		it is more correct to use K
+2004-11-01T17:32:00.000Z	CraHan	mrjive	ah yes indeed

@@ -1,0 +1,6 @@
+2005-10-01T08:54:00.000Z	darkbutterfly		can anyone help me with my sound card?  it's a neomagic 256 on a gateway solo 2500 laptop, and it's not being detected.
+2005-10-01T08:54:00.000Z	mazzabr	darkbutterfly	try alsamixer
+2005-10-01T08:54:00.000Z	mazzabr	darkbutterfly	probably the volume at alsamixer is low
+2005-10-01T08:55:00.000Z	mazzabr	darkbutterfly	sorry then, that was the default answer.
+2005-10-01T08:55:00.000Z	mazzabr	darkbutterfly	was the sound working util then?
+2005-10-01T08:56:00.000Z	mazzabr	darkbutterfly	you shouldn't have moved to unstable before being sure that your hardware is compatible.

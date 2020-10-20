@@ -1,0 +1,6 @@
+2010-05-09T05:28:00.000Z	EntityReborn2		Hey, just installed Ubuntu on my HD from liveCD, and had a question before I reboot. technically, can i chroot the /target (hd prtition im installing to) and basically do anything?
+2010-05-09T05:28:00.000Z	darolu	EntityReborn2	yes, that's the idea behind chrooting
+2010-05-09T05:29:00.000Z	EntityReborn2	darolu	so, I could load up the installation's copy of firefox and tweak it, etc, before booting up the new install?
+2010-05-09T05:29:00.000Z	EntityReborn2		I don't want to bork it.
+2010-05-09T05:30:00.000Z	darolu	EntityReborn2	in theory yes.
+2010-05-09T05:30:00.000Z	EntityReborn2	darolu	hm, well, itloaded, but complains about /var/lib/dbus/machine-id not existing in console.

@@ -1,0 +1,6 @@
+2005-12-30T14:50:00.000Z	oveh		anyone got the intel 2200bg to work? i'm following the thread "howto: ipw2200+wpa", but i'm stuck trying to make ieee80211, the error is something about gcc-3.4 not found etc?
+2005-12-30T14:50:00.000Z	hunger_	oveh	Ubuntu ships with gcc 4.x, not 3.4. Try apt-get install gcc-3.4
+2005-12-30T14:51:00.000Z	hunger_	oveh	... or grab the linux.restricted-modules deb... that has them IIRC.
+2005-12-30T14:52:00.000Z	oveh		hmm, one at a time ;P apt-get can't find gcc-3.4
+2005-12-30T14:53:00.000Z	hunger_	oveh	I am not on a ubuntu box right now... try "apt-cache search gcc | grep 3.4" to find the correct name of the deb.
+2005-12-30T14:53:00.000Z	oveh	hunger_	ok, thanx

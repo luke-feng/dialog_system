@@ -1,0 +1,6 @@
+2006-08-08T14:17:00.000Z	therix		hello, could someone help me with setting up mac address?
+2006-08-08T14:17:00.000Z	therix		I'm trying to edit /etc/iftab but it doesnt work
+2006-08-08T14:18:00.000Z	therix		well I dont have other choice
+2006-08-08T14:19:00.000Z	therix		i want to change the mac addr on another pc, because my inet provider identifies it via mac address
+2006-08-08T14:21:00.000Z	jpjacobs	therix	if I'm not mistaken there is a program macchanger... dunno if that does the trick
+2006-08-08T14:27:00.000Z	therix	jpjacobs	thanks for the tip :)

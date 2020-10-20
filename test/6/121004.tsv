@@ -1,0 +1,6 @@
+2007-03-13T12:56:00.000Z	trond		I have a problem with a clean install of ubuntu 6.10 edgy. All kde programs crashes (amarok, kaffeine etc.). Giving this error message in the terminal:  DCOP aborting call from 'anonymous-5350' to 'kded'
+2007-03-13T12:56:00.000Z	trond		kded: ERROR: Communication problem with kded, it probably crashed.
+2007-03-13T12:56:00.000Z	trond		DCOP aborting call from 'anonymous-5339' to 'kaffeine'
+2007-03-13T12:56:00.000Z	trond		ERROR: Communication problem with kaffeine, it probably crashed.
+2007-03-13T12:58:00.000Z	trond		None has a clue?
+2007-03-13T12:59:00.000Z	AlexC_	trond	just say you're question next time instead of just going "no one has a clue?" people are not going to go hunting up an down trying to find your question,

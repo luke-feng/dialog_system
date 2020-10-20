@@ -1,0 +1,6 @@
+2007-03-30T14:18:00.000Z	Slasher		hey got another problem, my m8 broke apt-get and when he tries to fix it he gets "failed to load file"/var/lib/gconf/defauts/%gconf-tree-uk.xml": error reading "/var/lib/gconf/defaults/%gconf-tree-uk.xml" : input/output error" anyone know how to fix this?
+2007-03-30T14:19:00.000Z	Slasher		argh Jowi
+2007-03-30T14:19:00.000Z	Slasher		lol
+2007-03-30T14:20:00.000Z	kbrooks	Slasher	well, apt. that's why.
+2007-03-30T14:20:00.000Z	Slasher	kbrooks	???
+2007-03-30T14:21:00.000Z	kbrooks	Slasher	he broke apt, so it must be apt

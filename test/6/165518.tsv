@@ -1,0 +1,6 @@
+2010-12-29T23:30:00.000Z	PhonicUK		I thought that a PAE kernel was installed by default under 32-bit installs?
+2010-12-29T23:30:00.000Z	PhonicUK		^ same here
+2010-12-29T23:31:00.000Z	PhonicUK		the netbook remix seems to as well
+2010-12-29T23:31:00.000Z	maco	PhonicUK	only if you have 4gb of ram
+2010-12-29T23:31:00.000Z	maco	PhonicUK	if you try to run a PAE kernel on a system thats over 5-6 years old, itll just kernel panic
+2010-12-29T23:31:00.000Z	maco	PhonicUK	so thatd be an icky thing to use as the default everywhere

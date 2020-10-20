@@ -1,0 +1,6 @@
+2008-04-27T15:21:00.000Z	diego		hello, i have a problem with the cron daemon
+2008-04-27T15:22:00.000Z	diego		crontab -e says 13 6 * * * amarok -p  but it did not runs amarok
+2008-04-27T15:23:00.000Z	diego		!question
+2008-04-27T15:25:00.000Z	diego		hello, i have a problem with the cron daemon, crontab -e says 13 6 * * * amarok -p  but it did not runs amarok ......  any idea???
+2008-04-27T15:25:00.000Z	Dr_willis	diego	 one normally does not run X apps from cron jobs.
+2008-04-27T15:27:00.000Z	Dr_willis	diego	 i have to wonder how.. what if X wasent even running at the time.. what if your mom was on the pc.. the program should appear on her desktop?

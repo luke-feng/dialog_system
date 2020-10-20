@@ -1,0 +1,6 @@
+2008-09-14T21:29:00.000Z	ABC		hi all
+2008-09-14T21:29:00.000Z	ABC		after i repartitioned my drive / swap, ubuntu no longer detects the swap. how should i tell ubuntu to mount it as swap?
+2008-09-14T21:30:00.000Z	ragsagar	ABC	swapon
+2008-09-14T21:30:00.000Z	ragsagar	ABC	then edit fstab
+2008-09-14T21:31:00.000Z	ragsagar	ABC	 /dev/sdxx       none            swap    sw              0       0
+2008-09-14T21:32:00.000Z	ragsagar	ABC	Gnu/Linux

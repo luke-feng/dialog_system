@@ -1,0 +1,6 @@
+2007-12-30T06:03:00.000Z	michael__		mplayer has dll problem, that is strange, i thought dlls were for a different os
+2007-12-30T06:03:00.000Z	michael__		oh thanks
+2007-12-30T06:03:00.000Z	michael__		do i have the right one?
+2007-12-30T06:04:00.000Z	michael__		i typed apt-get install mplayer
+2007-12-30T06:04:00.000Z	michael__		i am trying to use mplayer in a cron job and need to install mplayer
+2007-12-30T06:05:00.000Z	ChrisULM	michael__	you could compile it

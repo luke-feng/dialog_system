@@ -1,0 +1,6 @@
+2009-08-26T12:57:00.000Z	LSN		Guest8789} So, yesterday, I made an update of Firefox 3.5
+2009-08-26T12:57:00.000Z	LSN		And then, when I want to run it, I've only an error message : "XML Parsing Error: undefined entity
+2009-08-26T12:57:00.000Z	LSN		Location: chrome://browser/content/browser.xul
+2009-08-26T12:57:00.000Z	LSN		Line Number 34, Column 1:<window id="main-window"
+2009-08-26T12:57:00.000Z	LSN		^"
+2009-08-26T12:58:00.000Z	FloodBot2	LSN	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

@@ -1,0 +1,6 @@
+2010-02-26T13:04:00.000Z	Moral_		and look for the adapter, if you don't see it you may need to install drivers
+2010-02-26T13:05:00.000Z	Moral_		you are
+2010-02-26T13:06:00.000Z	Moral_		I have a question myself:
+2010-02-26T13:06:00.000Z	Moral_		Quick question regarding alsa sound and Gnome, sound wasn't working properly so I did /etc/init.d/aslasound restart usually a window pops up and tells me to reload something, I don't remember what it says explicitly; however this time I didn;t hit reload and now I have no sound icons on my gnome panel or any sound from my speakers, although the drivers are working.
+2010-02-26T13:07:00.000Z	brjann	Moral_	maybe something to do with reloading the sound card module?
+2010-02-26T13:08:00.000Z	Moral_	brjann	ill look at the modules I got and see if any of them are sound related.

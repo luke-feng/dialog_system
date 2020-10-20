@@ -1,0 +1,6 @@
+2010-03-16T15:57:00.000Z	gaurav__		can i play games like need for speed in karmic koala
+2010-03-16T15:57:00.000Z	theadmin	gaurav__	You'll have to use WINE
+2010-03-16T15:58:00.000Z	theadmin	gaurav__	Let me help with that
+2010-03-16T16:00:00.000Z	theadmin	gaurav__	Run this in the terminal: "sudo add-apt-repository ppa:ubuntu-wine/ppa && sudo apt-get update && sudo apt-get install wine", then you can double-click any EXE file as in Windows and tada. m0ar, as you see, no source required ;)
+2010-03-16T16:02:00.000Z	theadmin	gaurav__	Nah, then it just won't run
+2010-03-16T16:04:00.000Z	theadmin	gaurav__	check out playdeb.net

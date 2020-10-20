@@ -1,0 +1,6 @@
+2011-02-03T12:54:00.000Z	sahitya		Hey....
+2011-02-03T12:55:00.000Z	sahitya		I want to open windows drive in ubuntu
+2011-02-03T12:55:00.000Z	sahitya		can someone help me
+2011-02-03T12:55:00.000Z	sahitya		Anyone :( ?
+2011-02-03T12:55:00.000Z	soreau	sahitya	Are you using a live session or do you have ubuntu installed already?
+2011-02-03T12:56:00.000Z	soreau	sahitya	Does 'mount' show the ntfs partition is mounted to a location?

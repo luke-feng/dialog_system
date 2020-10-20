@@ -1,0 +1,6 @@
+2006-06-02T15:50:00.000Z	Dimitris		How do i remove mounted drives from showing on the desktop in dapper?
+2006-06-02T15:51:00.000Z	Krpano	Dimitris	, use gconf-editor
+2006-06-02T15:52:00.000Z	Dimitris		thnx
+2006-06-02T15:52:00.000Z	Krpano	Dimitris	, its under apps > nautilus > desktop > volumes_visible
+2006-06-02T15:54:00.000Z	Dimitris	Krpano	Thanks man
+2006-06-02T15:54:00.000Z	Krpano	Dimitris	, you are welcome

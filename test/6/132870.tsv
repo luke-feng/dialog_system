@@ -1,0 +1,6 @@
+2009-08-23T11:27:00.000Z	asfalt		Hi All, I cannot connnect to a WPA personal access point in 9.04. Search of forums revealed that many people have this issue and suggestions are to remove security from the access point? I am hoping there is another work around? What seems to happen is that my WPA key becomes hexed in the authentication box after the 1st connection failure if I click show password. On wpa supplicant log it appears to associate with no error but I never get to negotiat
+2009-08-23T11:28:00.000Z	asfalt		can it be possible that wpa support is broken in 9.04?
+2009-08-23T11:28:00.000Z	MenZa	asfalt	It might be with your card. I could only use WEP on my old one.
+2009-08-23T11:29:00.000Z	MenZa	asfalt	I suggest doing what rackaraka recommends.
+2009-08-23T11:29:00.000Z	asfalt	rackaraka	yeah, I could do that but just installed 9.04 hoping to use it some more
+2009-08-23T11:29:00.000Z	MenZa	asfalt	Try reverting to an older version of the driver. If that works, I highly, HIGHLY suggest reporting it as a bug on !launchpad so others won't suffer the same issue. :)

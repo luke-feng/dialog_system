@@ -1,0 +1,6 @@
+2007-01-25T08:16:00.000Z	ssmasud		tom47...actually the main problem is....I need to install NS2...I think that I definitely need gcc before it which is not functional...when I type "sudo apt-cache search gcc" it says that gcc-4.0-base is installed but when I type gcc on the prompt to check it...it says no such command...somebody told me to update build essential..is that the solution??...
+2007-01-25T08:18:00.000Z	ssmasud		ok....thanks...
+2007-01-25T08:19:00.000Z	ssmasud		can anybody guide me how to make gcc running when it says that I have gcc-4.0-base installed??....when i type gcc on the prompt it says no such command??...any NS2 experts over here....i need to install NS2 before which I need gcc running
+2007-01-25T08:20:00.000Z	ssmasud		xtknight......I tried that but it says build essential not found
+2007-01-25T08:21:00.000Z	blanky	ssmasud	make sure you type sudo apt-get install build-essential
+2007-01-25T08:21:00.000Z	blanky	ssmasud	make sure you type ALL of that, don't forget the 'install'

@@ -1,0 +1,6 @@
+2010-01-04T22:21:00.000Z	Guest81271		cant anyone please help my? im a complete ubuntu-noob, and it seems as my system crashed for no reason after only 1 day of usage. It boots ok, but when it is supposed to enter the real screen its just a white terminal in the lefter upper cornerwith a black background. i can move the mouse and type in the terminal
+2010-01-04T22:23:00.000Z	xcv	Guest81271	don't panic :-) i'm sure it can be fixed, but perhaps the easiest way to resolve is to reinstall ubuntu -- have you tried that?
+2010-01-04T22:24:00.000Z	Guest81271	xcv	and chogydan: i dont want to do that, i have spent tons of time to get all the programs i like and setup xbmc how i want it. This is how it happened: i logged out, and tried to log back in just for the sake of it. Then this mess.
+2010-01-04T22:30:00.000Z	xcv	Guest81271	i had to google 'xbmc' -- looks cool! but still, after only a day, a reinstall will probably be your easiest path to resolution. especially if your home folder is on its own partition; that way most of the settings will be retained
+2010-01-04T22:30:00.000Z	Guest81271	xcv	it wasnt^^ hehe
+2010-01-04T22:35:00.000Z	xcv	Guest81271	anything interesting in dmesg?

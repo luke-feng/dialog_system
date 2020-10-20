@@ -1,0 +1,6 @@
+2006-04-12T05:28:00.000Z	alnr		i get no-package for eclipse-jdt. i guess because i'm running hoary. can I get around it w/o fully upgrading to breezy?
+2006-04-12T05:30:00.000Z	alnr		dare i type in apt-get dist-upgrade on a hoary system ? (to get to breezy)
+2006-04-12T05:31:00.000Z	ompaul	alnr	as long as you have not gone off around the world installing mad software from all over the place
+2006-04-12T05:33:00.000Z	ompaul	alnr	okay before you do consider backing up your software, and having a breezy live or install cd to hand
+2006-04-12T05:35:00.000Z	alnr	ompaul	 :)
+2006-04-12T05:38:00.000Z	ompaul	alnr	well if that is that case then do 5.10 and dapper after next week

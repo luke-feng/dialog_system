@@ -1,0 +1,6 @@
+2008-01-03T17:17:00.000Z	francesco		Who can set root's password?
+2008-01-03T17:18:00.000Z	francesco		Guys, I know that I don't 'need' to set the root account, but for protection, who can set the root password?
+2008-01-03T17:18:00.000Z	Jowi_n1	francesco	any user account that can sudo can set the root password
+2008-01-03T17:19:00.000Z	francesco	Jowi_n1	Then, only the administrator can set the root password, right?
+2008-01-03T17:19:00.000Z	Jowi_n1	francesco	so only let trusted users get sudo. yes, the admin can set it.
+2008-01-03T17:20:00.000Z	Jowi_n1	francesco	the link that Ubotu gave have good info ( https://help.ubuntu.com/community/RootSudo )

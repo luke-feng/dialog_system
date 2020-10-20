@@ -1,0 +1,6 @@
+2006-07-28T10:57:00.000Z	brodes18		I can't get my Veiwsonic vx2025Wm widescreen monitor to display the proper resolution of 1680X1050. The graphics card is set right as well as direct rendering ive entered the Horizontal and vertical refresh into the xorg file but it maxes out at 1280X1024
+2006-07-28T10:59:00.000Z	brodes18		thanks carthik, I did that too and it didnt help. Also the resolution is listed in xorg.conf
+2006-07-28T09:07:00.000Z	brodes18		I cant get my monitor to display resolutions over 1280X1064. I have a Viewsonic VX2025wm which has a native resolution of 1680X1050. When I go to xorg.conf the resolution is there. I even did the wizard and still cant get the resolution higher than 1280X1024 even with the screen resolution utility in gnome. Any help would be very much appreciated
+2006-07-28T09:08:00.000Z	brodes18		pike, yup
+2006-07-28T09:09:00.000Z	longwave	brodes18	try "sudo dpkg-reconfigure xserver-xorg" and see if it lets you select higher resolutions there
+2006-07-28T09:10:00.000Z	brodes18	longwave	I did that and it was there but when I start X it will not go higher than 1280X1024

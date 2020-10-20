@@ -1,0 +1,6 @@
+2009-08-17T17:29:00.000Z	zer0c00l		how can i troubleshoot sound in ubuntu? sound through headphones working , but sound not works through front laptop speakers
+2009-08-17T17:31:00.000Z	ziroday	zer0c00l	what laptop do you have?
+2009-08-17T17:31:00.000Z	zer0c00l	ziroday	LG p1 express dual laptop
+2009-08-17T17:31:00.000Z	ziroday	zer0c00l	audio chipset?
+2009-08-17T17:36:00.000Z	zer0c00l	ziroday	my audio device is Intel high definition audio controller
+2009-08-17T17:37:00.000Z	zer0c00l	ziroday	the kernel module in use is snd-hda-intel

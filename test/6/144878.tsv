@@ -1,0 +1,6 @@
+2005-07-23T14:54:00.000Z	ValheruLord		are there any good documents about POSIx Standards
+2005-07-23T06:49:00.000Z	ValheruLord		hi all
+2005-07-23T06:49:00.000Z	ValheruLord		when i try to umount an fs it says it is busy
+2005-07-23T06:49:00.000Z	ValheruLord		how can i umount it
+2005-07-23T06:50:00.000Z	soulfly	ValheruLord	user the "fuser" command to see which process are using the resource
+2005-07-23T06:50:00.000Z	soulfly	ValheruLord	"fuser -k" can kill the processes for you

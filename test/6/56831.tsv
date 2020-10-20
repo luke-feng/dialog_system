@@ -1,0 +1,6 @@
+2010-01-31T18:55:00.000Z	The_ManU_212		i wanted to create a symbolic link, i run "ln -sf /lib/modules/2.6.31.11-desktop-smp/ /usr/src/linux-2.6.31.11/ ", its a mistake, has tehre been created a link, or cant i link fodlers?
+2010-01-31T18:55:00.000Z	LjL	The_ManU_212	drop the last "/"
+2010-01-31T18:55:00.000Z	The_ManU_212	LjL	and then, waht will happen?
+2010-01-31T18:56:00.000Z	LjL	The_ManU_212	a link will be created.
+2010-01-31T18:57:00.000Z	The_ManU_212	LjL	from /usr/src/linux-2.6.31.11/ to /lib/modules/2.6.31.11-desktop-smp/? is it possible to do this without root, becasue as user i get no error-message
+2010-01-31T18:59:00.000Z	LjL	The_ManU_212	no, you need sudo to do things inside /usr and /lib. if you type "sudo ln -s /usr/src/linux-2.6.31.11 /lib/modules/2.6.31.11-desktop-smp", the link will be "/lib/modules/2.6.31.11-desktop-smp", and it will link to "/usr/src/linux-2.6.31.11". i don't know if that's what you want.

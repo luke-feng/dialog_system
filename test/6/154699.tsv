@@ -1,0 +1,6 @@
+2005-09-26T14:49:00.000Z	CarlK		where is /dev/usb in breezy?
+2005-09-26T14:49:00.000Z	apokryphos	CarlK	/dev/sda
+2005-09-26T14:50:00.000Z	CarlK	apokryphos	what about for printers?
+2005-09-26T14:51:00.000Z	apokryphos	CarlK	what 'bout them, sorry?
+2005-09-26T14:51:00.000Z	apokryphos	CarlK	oh, what's their entry in /dev.. hm, not sure.
+2005-09-26T14:52:00.000Z	CarlK	apokryphos	i just hooked up a hp 812c, and the "props" says "status: printer not connected" and yet lsusb shows Bus 001 Device 005: ID 03f0:0304 Hewlett-Packard DeskJet 810c/812c

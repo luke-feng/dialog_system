@@ -1,0 +1,6 @@
+2012-01-09T01:57:00.000Z	bullgard6		streamripper outputs: "meta interval: 16000." What is the unit of measurement of this number?
+2012-01-09T01:58:00.000Z	wildwind	bullgard6	ms
+2012-01-09T01:59:00.000Z	bullgard6	wildwind	So this program assumes that the pause time for meta data transmission is 16 s? That much?
+2012-01-09T02:00:00.000Z	wildwind	bullgard6	yes. not so much IMO
+2012-01-09T02:01:00.000Z	bullgard6	wildwind	 Right. Thank you.
+2012-01-09T02:01:00.000Z	wildwind	bullgard6	not program assumes, but server announces i think

@@ -1,0 +1,6 @@
+2010-02-20T15:02:00.000Z	ineptmofo		hi
+2010-02-20T15:02:00.000Z	ineptmofo		after logged out whilst trying to change the login screen
+2010-02-20T15:02:00.000Z	ineptmofo		when i login now i just get the white bash shell
+2010-02-20T15:02:00.000Z	ineptmofo		and not the desktop
+2010-02-20T15:02:00.000Z	ineptmofo		how do i start the desktop environment again cause i cant find the cmd
+2010-02-20T15:03:00.000Z	SwedeMike	ineptmofo	"/etc/init.d/gdm start" shoudl do it

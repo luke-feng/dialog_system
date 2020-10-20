@@ -1,0 +1,6 @@
+2008-10-31T00:04:00.000Z	donithegreat		hi
+2008-10-31T00:04:00.000Z	donithegreat		can anyone see me?
+2008-10-31T00:04:00.000Z	donithegreat		:)
+2008-10-31T00:06:00.000Z	donithegreat		hi am new to ubuntu!i dont know how to instal firefox version 3.03.i have downloaded the file tar gz i mean i have extracted it but i dont know what to do withit.can anyone help me?
+2008-10-31T00:06:00.000Z	trimeta	donithegreat	Ubuntu should already have Firefox 3.0.3 installed.
+2008-10-31T00:07:00.000Z	trimeta	donithegreat	Try doing "aptitude update && aptitude upgrade"

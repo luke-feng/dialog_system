@@ -1,0 +1,6 @@
+2006-07-18T09:11:00.000Z	Bo		ok i entered sudo dpkg-reconfigure xserver-xorg into recovery mode and my x interface is still broken
+2006-07-18T09:12:00.000Z	Bo		how do i fix my x interface? it broke after i installed nvidia-glx-dev
+2006-07-18T09:12:00.000Z	Bo		i originally had nvidia-glx
+2006-07-18T09:12:00.000Z	Bo		but i changed it to dev
+2006-07-18T09:13:00.000Z	Cntryboy	Bo	dkpg-reconfigure xserver-xorg
+2006-07-18T09:13:00.000Z	Cntryboy	Bo	sudo dkpg-reconfigure xserver-xorg

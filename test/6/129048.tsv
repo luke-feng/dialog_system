@@ -1,0 +1,6 @@
+2007-09-15T06:24:00.000Z	DexterF		hi
+2007-09-15T06:25:00.000Z	DexterF		I want to recompile the gutsy 2.6.22 kernel src for feisty, haven't ever done initrds tho. is there something like dpkg-buildpackage for the kernels?
+2007-09-15T06:25:00.000Z	frogz	DexterF	-> #ubuntu+1
+2007-09-15T06:26:00.000Z	DexterF	frogz	well... this isn't really about the version but rahter about kernel building
+2007-09-15T06:28:00.000Z	DexterF	frogz	ah, that seems to be what I need, thanks..
+2007-09-15T07:04:00.000Z	frogz	DexterF	short answer - you don't

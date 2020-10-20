@@ -1,0 +1,6 @@
+2010-10-11T12:02:00.000Z	MagicJ		I would like to make a bootable/live CD from my running config, is that possible?
+2010-10-11T12:02:00.000Z	randomOfAmber	MagicJ	like remastersys?
+2010-10-11T12:03:00.000Z	MagicJ	randomOfAmber	 I don't know, that is why I asked the question, what is rematersys?
+2010-10-11T12:03:00.000Z	randomOfAmber	MagicJ	I'm pretty sure it's exactly what you want.  to make a backup and use it as an installer?
+2010-10-11T12:04:00.000Z	MagicJ		sounds perfect - where do I find it?
+2010-10-11T12:04:00.000Z	randomOfAmber	MagicJ	here: http://www.geekconnection.org/remastersys/ you'll need to burn your iso or use the startup disc creator to put it on a flash drive

@@ -1,0 +1,6 @@
+2006-05-27T13:26:00.000Z	Ratzilla		you dont NEED swap..but if you want more virtual memory...
+2006-05-27T13:27:00.000Z	GratefulDead	Ratzilla	swap is not anymore used?? why you say that?
+2006-05-27T13:27:00.000Z	Ratzilla	GratefulDead	no, it is, but if you install it without swap, it wont complain...you just have less virtual memory
+2006-05-27T13:28:00.000Z	GratefulDead	Ratzilla	if you run a machine with low RAM it will complain a lot =)
+2006-05-27T13:28:00.000Z	Ratzilla	GratefulDead	lol yeah it will i guess, i just meant that you dont need swap..its just a lot better to have it
+2006-05-27T13:29:00.000Z	GratefulDead	Ratzilla	i always use swap space, even running a machine with 2 gigs RAM, because if you install much RAM it means you need it =)

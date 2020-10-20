@@ -1,0 +1,6 @@
+2006-09-20T05:56:00.000Z	M_A_K		Excuse my ignorance, but can linux handle multiple  monitors?  I found the settings under KDE, but it does not seem to be working (mirroring or spanning).
+2006-09-20T05:57:00.000Z	jivebunny	M_A_K	which video card? which distribution?
+2006-09-20T06:02:00.000Z	M_A_K	jivebunny	: using ATI graphics (mobility I think) and Ubuntu 6.0.6.1
+2006-09-20T06:02:00.000Z	jivebunny	M_A_K	does ATI provide linux drivers? have you dowloaded anything related? or are you using the defaults?
+2006-09-20T06:03:00.000Z	M_A_K	jivebunny	: defaults
+2006-09-20T06:06:00.000Z	jivebunny	M_A_K	you probably have to get specific drivers to solve your issue. i'm not experienced in ATI video cards, always used nvidia.. but they do require specific drivers to unleash their power aswell.

@@ -1,0 +1,6 @@
+2008-05-03T08:30:00.000Z	socomm		Hello.
+2008-05-03T08:31:00.000Z	socomm		Question, what's best way to convert/burn dvd videos linux
+2008-05-03T08:31:00.000Z	socomm		Question, what's best way to convert/burn dvd videos linux
+2008-05-03T08:32:00.000Z	UberCanuck	socomm	too many ways to list - but do a search in synaptic
+2008-05-03T08:37:00.000Z	UberCanuck	socomm	trust the dependencies of apt-get, just do a `sudo apt-get install k3b`, it will get the libraries you need
+2008-05-03T08:37:00.000Z	UberCanuck	socomm	it won't look native gnome, correct

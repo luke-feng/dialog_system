@@ -1,0 +1,6 @@
+2006-03-20T11:58:00.000Z	nazgulwalker		how can i change my screen resolution
+2006-03-20T11:58:00.000Z	nazgulwalker		how can i change my screen resolution
+2006-03-20T11:58:00.000Z	Dr_Willis	nazgulwalker	 reconfigure your X server.
+2006-03-21T12:01:00.000Z	Dr_Willis	nazgulwalker	 .bashrc .bash_profile or system widew in /etc/profile
+2006-03-21T12:01:00.000Z	Dr_Willis	nazgulwalker	 pick one. :P
+2006-03-23T10:05:00.000Z	Dr_Willis	nazgulwalker	 those are normally config/data files copy them to the right dir.

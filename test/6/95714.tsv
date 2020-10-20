@@ -1,0 +1,6 @@
+2007-01-18T17:26:00.000Z	riyonuk_		Help! I cant get firefox to work, no sites are loading, its just stuck on "Waiting for.."
+2007-01-18T17:27:00.000Z	riyonuk_		anyone?
+2007-01-18T17:28:00.000Z	adaptr	riyonuk_	check DNS, disable ipv6
+2007-01-18T17:32:00.000Z	riyonuk_	adaptr	ipv6 is disabled
+2007-01-18T17:32:00.000Z	adaptr	riyonuk_	and what happens when you ping the web site ?
+2007-01-18T17:36:00.000Z	riyonuk_	adaptr	PING www.l.google.com (216.239.51.99) 56(84) bytes of data.

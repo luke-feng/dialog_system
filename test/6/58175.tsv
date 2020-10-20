@@ -1,0 +1,6 @@
+2009-11-16T17:03:00.000Z	plustax		Guys, I have an issue when I try to click system then display I get this error.  http://dl.dropbox.com/u/2066611/ss.png
+2009-11-16T17:03:00.000Z	plustax		Can anyone help?
+2009-11-16T17:03:00.000Z	wgrant	plustax	That means exactly what it says.
+2009-11-16T17:04:00.000Z	wgrant	plustax	Are you using the proprietary nvidia driver?
+2009-11-16T17:04:00.000Z	wgrant	plustax	nvidia's proprietary drivers (which cannot be modified by the Ubuntu developers) do not support the standard methods of display configuration. You want to click 'Yes' on that dialog.
+2009-12-20T08:32:00.000Z	wgrant	plustax	There appears to be no VNC server running on the IP address from which you are connected.

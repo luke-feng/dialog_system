@@ -1,0 +1,6 @@
+2006-12-30T07:30:00.000Z	skukza		hmm ive jsut installed new nvidia drivers how do i test them
+2006-12-30T07:30:00.000Z	NoobieDoobieDo	skukza	reboot the WM
+2006-12-30T07:31:00.000Z	NoobieDoobieDo	skukza	reboot the windows manager, or run glxgears
+2006-12-30T07:38:00.000Z	NoobieDoobieDo	skukza	fast enough so you're satisfied :)
+2006-12-30T07:38:00.000Z	NoobieDoobieDo	skukza	glxinfo
+2006-12-30T07:40:00.000Z	NoobieDoobieDo	skukza	make sure "glxinfo | grep "vendor" says NVIDIA

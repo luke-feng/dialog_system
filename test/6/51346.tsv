@@ -1,0 +1,6 @@
+2008-09-12T21:00:00.000Z	atrus		i don't have a PC speaker. How can I make sure that gnome-terminal sends beeps to alsa/gstreamer/something? Ie, that it plays a wav file instead of doing the old-fashioned system beep?
+2008-09-12T21:01:00.000Z	D1sa5t3r	atrus	flash screen
+2008-09-12T21:01:00.000Z	atrus	D1sa5t3r	i don't want a screen flash, i want an audible wav-file beep.
+2008-09-12T21:01:00.000Z	D1sa5t3r		why
+2008-09-12T21:01:00.000Z	D1sa5t3r		:S
+2008-09-12T21:02:00.000Z	atrus	D1sa5t3r	because that's what a beep is?

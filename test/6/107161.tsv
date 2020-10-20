@@ -1,0 +1,6 @@
+2006-11-10T06:06:00.000Z	radioaktivstorm		I cannot install new packages, nor can i install updates. i get an error that says that skype needs to be reinstalled but I cant do it through the package manager nor addprograms and the package that i downloaded directly from skype doesnt work either. any ideas?
+2006-11-10T06:06:00.000Z	JosefK	radioaktivstorm	sudo dpkg --force-remove-reinstreq -r skype
+2006-11-10T06:07:00.000Z	JosefK	radioaktivstorm	sudo dpkg --force-remove-reinstreq remove skype
+2006-11-10T06:07:00.000Z	JosefK	radioaktivstorm	rather
+2006-11-10T06:07:00.000Z	JosefK	radioaktivstorm	see gnomefreak's caveats
+2006-11-10T06:08:00.000Z	JosefK	radioaktivstorm	danger will robinson!

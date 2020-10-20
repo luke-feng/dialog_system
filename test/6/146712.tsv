@@ -1,0 +1,6 @@
+2011-10-22T05:57:00.000Z	corrytonapple		Can I have two ubuntu installs on the same HDD with the same kernel?
+2011-10-22T05:58:00.000Z	CarlFK	corrytonapple	why not just 2 ubuntu installs, each with it's own kernel?
+2011-10-22T05:59:00.000Z	corrytonapple	dr_willis	 Can I tell it not to install GRUB onto the bootloader and then run my ubuntu and go to the terminal and update grub?
+2011-10-22T05:59:00.000Z	corrytonapple		I need two installs because I am going to use ubuntu alternative soon.... and want to have it set up so I can move over easier
+2011-10-22T06:00:00.000Z	corrytonapple		I have a Data Partition, so no worries there
+2011-10-22T06:01:00.000Z	CarlFK	corrytonapple	just setup a 2nd partition with its own kernel.  but... is 'data partition' /home?  if so. careful that you dont have different versions trying to use the same dot files

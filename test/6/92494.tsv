@@ -1,0 +1,6 @@
+2008-03-05T08:06:00.000Z	flaccid		dpkg -i ./package.deb
+2008-03-05T08:07:00.000Z	flaccid		why do you need webmin for anyway?
+2008-03-05T08:09:00.000Z	m1r	flaccid	is it safe to install ebox packages on ubuntu 7.10 ? i tryed that guide on 6.06 and it badly damaged my system
+2008-03-05T08:13:00.000Z	flaccid	m1r	its already in gutsy, so go for it....
+2008-03-05T08:14:00.000Z	m1r	flaccid	for whole thing to fit in 1220kb
+2008-03-05T08:15:00.000Z	m1r	flaccid	can u please check : http://ebox-platform.com/

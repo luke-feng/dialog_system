@@ -1,0 +1,6 @@
+2010-02-08T23:08:00.000Z	Arabus		hey, where can I learn about all the process states "ps ax" outputs to me? I find a lot of documentation about S, R and Z, but SN or SNW is not explained anywhere I searched. :-(
+2010-02-08T23:08:00.000Z	erUSUL	Arabus	man ps
+2010-02-08T23:09:00.000Z	Arabus	erUSUL	sadly not :-/ it only states that it outputs the status=STAT but not what it means :-/
+2010-02-08T23:09:00.000Z	erUSUL	Arabus	i have the man page in front of me
+2010-02-08T23:10:00.000Z	Arabus		ah ok
+2010-02-08T23:10:00.000Z	erUSUL	Arabus	under PROCESS STATE CODES

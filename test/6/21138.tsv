@@ -1,0 +1,6 @@
+2010-06-09T03:44:00.000Z	jabagawee		hi there, i have a dell mini preinstalled with ubuntu. how can i get into grub with this laptop?
+2010-06-09T03:45:00.000Z	acerimmer_	jabagawee	what are you trying to accomplish
+2010-06-09T03:46:00.000Z	jabagawee		i need to boot into recovery mode, but i can't seem to access grub
+2010-06-09T03:46:00.000Z	acerimmer_	jabagawee	during boot hit <esc> and that will usually drop you to the grub prompt
+2010-06-09T03:47:00.000Z	jabagawee	acerimmer_	alright, though i was hoping for some people who might have experience with the dell
+2010-06-09T03:47:00.000Z	acerimmer_	jabagawee	grub is grub.

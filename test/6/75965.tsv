@@ -1,0 +1,6 @@
+2007-10-22T10:54:00.000Z	freaker		morning, why have gnome-terminal stopped working under Compiz? Gedit's Session-saver plugin stopped working at all ? and Rhythmbox can't save unchecked plugings ?
+2007-10-22T10:55:00.000Z	Fryguy--	freaker	one at a time helps. to address the first thing you asked.  I'm using gnome-terminal and compiz fusion right now.  do you have a specific problem?
+2007-10-22T10:56:00.000Z	Fryguy--	freaker	yes, I can't even begin to help you until you explain to me what is wrong
+2007-10-22T10:57:00.000Z	Fryguy--	freaker	rm -rf ~/.gconf/apps/gnome-terminal and try again
+2007-10-22T11:03:00.000Z	freaker	Fryguy--	any ideas ?
+2007-10-22T11:03:00.000Z	Fryguy--	freaker	nope

@@ -1,0 +1,6 @@
+2009-01-16T23:41:00.000Z	neosuki		Hey guys, I'm trying to rip an audio cd using lame in command line mode
+2009-01-16T23:42:00.000Z	neosuki		but though i can see in nautilus browser the audio cd content, how can I ls the files in the terminal?
+2009-01-16T23:43:00.000Z	neosuki		wot could be the right path for an audio cd if i want to browse from the terminal/cmd line?
+2009-01-16T23:45:00.000Z	Scunizi	neosuki	probably /media/cdrom0
+2009-01-16T23:47:00.000Z	Scunizi	neosuki	that's because audio cd's are really files. rip them first if you want to see them. or look at them via rhythmbox
+2009-01-16T23:51:00.000Z	Scunizi	neosuki	if you're trying to rip an audio cd use "ripperX" .. should be in the repo's.

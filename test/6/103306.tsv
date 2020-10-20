@@ -1,0 +1,6 @@
+2006-12-08T06:53:00.000Z	ryanakca		I keep on getting segfaults with apt-*, aptitude, adept, synaptic, etc. What should I do?
+2006-12-08T06:53:00.000Z	ryanakca		I have a backtrace if wanted
+2006-12-08T06:55:00.000Z	nothlit	ryanakca	try restarting first, other wise... reinstall the apt utilities/backends like dselect from a livecd?
+2006-12-08T08:00:00.000Z	ryanakca	nothlit	that stuff for apt that you suggested didn't work... I'm installing the ddebs for apt and apt-utils now..
+2006-12-08T08:01:00.000Z	nothlit	ryanakca	what did i tell you and what do you need help with?
+2006-12-08T08:05:00.000Z	nothlit	ryanakca	no thats not what i said

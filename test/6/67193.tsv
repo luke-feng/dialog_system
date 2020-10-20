@@ -1,0 +1,6 @@
+2008-09-15T11:52:00.000Z	LurkersA	ykphuah	Rynol: Sound issue is linked to the flash player, typing 'sudo alsa force-reload' into a terminal fixes it
+2008-09-15T11:52:00.000Z	ykphuah	LurkersA	will that take sound away from my firefox?
+2008-09-15T11:53:00.000Z	ykphuah	LurkersA	i mean, from flash content inside my firefox?
+2008-09-15T11:59:00.000Z	LurkersA	ykphuah	(i mean, from flash content inside my firefox?) Yes
+2008-09-15T12:00:00.000Z	ykphuah	LurkersA	so once I do the reload thing, my flash-in-firefox will have no more sound? lol I will rather keep the sound in firefox than those in the system.
+2008-09-15T12:01:00.000Z	LurkersA	ykphuah	No, the command resets the sound in Ubuntu as a whole, It fixes both.

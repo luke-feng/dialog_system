@@ -1,0 +1,6 @@
+2007-11-06T00:20:00.000Z	mr_marvin		is it possible to set up permission on ntfs-founted folders?
+2007-11-06T00:21:00.000Z	stroyan	mr_marvin	 I don't know if there is a really good way.  NTFS permissions control seems really limited.  You might be able to use mount with the bind option to make certain files or directories accessible under directories that particular users have access through.
+2007-11-06T00:23:00.000Z	mr_marvin	stroyan	so, i have to do it while mounting... thank you. off to google for mount & bind.
+2007-11-06T00:24:00.000Z	stroyan	mr_marvin	 I see a posting at http://forum.ntfs-3g.org where "jpl" says he is working on file permissions for ntfs-3g.  He thinks it is a few months out.
+2007-11-06T00:25:00.000Z	stroyan	mr_marvin	 That was "jpa", not "jpl".   http://forum.ntfs-3g.org/viewtopic.php?p=2269&sid=0a202407fe822fa8dfe6d8f9dc63e210
+2007-11-06T00:27:00.000Z	mr_marvin	stroyan	thanks!

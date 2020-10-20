@@ -1,0 +1,6 @@
+2009-10-08T21:46:00.000Z	Hexbomber		I've just got a really quick question, I've got an nvidia video card, and I've enabled dual monitors on ubuntu 9.04, but the panels only go across the primary monitor, How do I create a new gnome-panel for the second monitor :)
+2009-10-08T21:47:00.000Z	Dr_Willis	Hexbomber	 add new panel (right click) alt0click - drag it over...
+2009-10-08T21:48:00.000Z	Hexbomber	Dr_Willis	thanks, there'd be no way to just stretch the current panel across both would there?
+2009-10-08T21:49:00.000Z	Dr_Willis	Hexbomber	 no idea. I dont want it streatched.. since it would be hidden becuase my monitors are diffrfent sized
+2009-10-08T21:49:00.000Z	Hexbomber		ahh, thanks.
+2009-10-08T21:50:00.000Z	Dr_Willis	Hexbomber	 my secondary monitor is a full screened terminal running weechat for irc. :)

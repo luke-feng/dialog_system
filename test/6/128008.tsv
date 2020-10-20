@@ -1,0 +1,6 @@
+2007-02-12T12:13:00.000Z	tobias_		i got 1 question :) how can i delete something with terminal? with sudo
+2007-02-12T12:13:00.000Z	tobias_		rm?
+2007-02-12T12:13:00.000Z	tobias_		thx
+2007-02-12T12:13:00.000Z	tobias_		ah ^
+2007-02-12T12:13:00.000Z	tobias_		and another.. how can i login as root? because always using sudo sucks =)
+2007-02-12T12:14:00.000Z	Nukeador	tobias_	sudo su

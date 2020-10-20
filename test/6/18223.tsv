@@ -1,0 +1,6 @@
+2010-12-17T15:15:00.000Z	hidnshadows		How can I close existing communications on a specific port?
+2010-12-17T15:16:00.000Z	llutz_	hidnshadows	read about "cutter"
+2010-12-17T15:16:00.000Z	hidnshadows	llutz_	to gewgle!
+2010-12-17T15:16:00.000Z	llutz_		!info cutter | hidnshadows
+2010-12-17T15:17:00.000Z	hidnshadows	llutz_	know of anything a bit lower-powered? I just need to clear a port for a proxy. Know of any for console?
+2010-12-17T15:18:00.000Z	llutz_	hidnshadows	sudo lsof -i :"port"     and close any app listening there

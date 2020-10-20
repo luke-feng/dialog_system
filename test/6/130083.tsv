@@ -1,0 +1,6 @@
+2007-06-27T06:03:00.000Z	mmcji		morning
+2007-06-27T06:04:00.000Z	mmcji		what is the correct way to start a service at boot.  In this case I am trying to start xampp at boot instead of having to manually type /opt/lampp/lampp start.  ?
+2007-06-27T06:05:00.000Z	mmcji		what is the error
+2007-06-27T06:05:00.000Z	raddy	mmcji	r8169: eth0: link down
+2007-06-27T06:06:00.000Z	raddy	mmcji	ADDRCONF(NETDEV_UP): eth0: link is not ready
+2007-06-27T06:07:00.000Z	raddy	mmcji	i don't have Wan connection, mine is a wired ethernet controller properly connected to the router

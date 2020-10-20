@@ -1,0 +1,6 @@
+2011-02-04T03:33:00.000Z	fisch246		anyone know of a fast and easy firewall setup?
+2011-02-04T03:33:00.000Z	fisch246		basically a stand in setup?
+2011-02-04T03:33:00.000Z	aeon-ltd	fisch246	ufw can be set up easily, pretty much block all, open port 80 for web 443 for messaging
+2011-02-04T03:35:00.000Z	fisch246	aeon-ltd	i need something for a home network
+2011-02-04T03:36:00.000Z	aeon-ltd	fisch246	oh you mean to act as a router?, then i do not know any
+2011-03-13T06:02:00.000Z	aeon-ltd	fisch246	'man fi' to find out

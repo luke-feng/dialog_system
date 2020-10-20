@@ -1,0 +1,6 @@
+2012-01-01T22:50:00.000Z	ikonia	libnotify	what's the issue, lets see if we can fix it ?
+2012-01-01T22:51:00.000Z	ikonia	libnotify	you need to be a little more descriptive than that please.
+2012-01-01T22:52:00.000Z	ikonia	libnotify	have you disabled non-key based logins ?
+2012-01-01T22:53:00.000Z	ikonia	libnotify	have you changed your ssh config from default ?
+2012-01-01T22:54:00.000Z	ikonia	libnotify	what did you change ?
+2012-01-01T22:55:00.000Z	ikonia	libnotify	could you please pastebin your sshd_config file please.

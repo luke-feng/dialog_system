@@ -1,0 +1,6 @@
+2009-03-26T01:00:00.000Z	sjzzalx		Hey mans, I want to remove sudo and all its vestiges (no gksudo, gksu). How may I do this?
+2009-03-26T01:02:00.000Z	sjzzalx		 Hey mans, I want to remove sudo and all its vestiges (no gksudo, gksu). How may I do this?
+2009-03-26T01:03:00.000Z	sjzzalx		I mean, gksu instead of gksudo
+2009-03-26T01:03:00.000Z	LjL	sjzzalx	that's not supported.
+2009-03-26T01:03:00.000Z	LjL		!repeat | dave-ubuntu
+2009-03-26T01:04:00.000Z	sjzzalx	LjL	That's nice to know, but I don't want my users to be able to execute things as root. I also want to be allowed to use the graphical utilities by piping through gksu instead of gksudo. How can this not be supported? Ubuntu is so crazy

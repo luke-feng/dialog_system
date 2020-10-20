@@ -1,0 +1,6 @@
+2008-06-28T17:54:00.000Z	poningru	noz9010	tor is not an anonymousing/securing service
+2008-06-28T17:55:00.000Z	noz9010	poningru	sorry, i thought it was. wikipedia article f.e. tor (anonymity network)
+2008-06-28T17:56:00.000Z	poningru	noz9010	thats what it was for
+2008-06-28T17:59:00.000Z	noz9010	poningru	sorry, last quesition. so that means chinese user can access chinese website from ip from europe f.e. but traffic is unencrypted?
+2008-06-28T18:01:00.000Z	poningru	noz9010	what tor essentially does is connects you with a tor volunteer and then encrypts the data between you and the volunteer, then all your traffic comes out of the volunteers end
+2008-06-28T18:03:00.000Z	noz9010	poningru	thanks very much

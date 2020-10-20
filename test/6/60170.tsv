@@ -1,0 +1,6 @@
+2008-12-15T05:45:00.000Z	linkmaster03		How do I find my soundcard model from terminal?
+2008-12-15T05:45:00.000Z	raylu	linkmaster03	lspci, lsusb
+2008-12-15T05:45:00.000Z	linkmaster03	raylu	oh yeah thanks
+2008-12-15T05:47:00.000Z	linkmaster03	raylu	zsquareplusc: onetinsoldier: thanks guys
+2009-01-08T05:36:00.000Z	raylu	linkmaster03	xev, i think
+2009-01-08T05:38:00.000Z	linkmaster03	raylu	thanks i can work with that

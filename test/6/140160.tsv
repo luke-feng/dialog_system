@@ -1,0 +1,6 @@
+2005-08-24T11:56:00.000Z	str8edge		./configure: line 20666: `AC_PROG_INTLTOOL(0.23)'
+2005-08-24T11:56:00.000Z	str8edge		jtan: it runs linux fine..
+2005-08-24T11:57:00.000Z	str8edge		./configure: line 20666: syntax error near unexpected token `0.23'
+2005-08-24T11:57:00.000Z	str8edge		./configure: line 20666: `AC_PROG_INTLTOOL(0.23)'
+2005-08-24T11:57:00.000Z	bob2	str8edge	please use #flood
+2005-08-24T11:57:00.000Z	str8edge	bob2	can do.

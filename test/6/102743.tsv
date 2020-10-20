@@ -1,0 +1,6 @@
+2007-07-07T06:15:00.000Z	harushimo		I have a question
+2007-07-07T06:15:00.000Z	harushimo		how to I install enlightenment
+2007-07-07T06:17:00.000Z	Jordan_U	harushimo	install the package "enlightenment" from synaptic / apt
+2007-07-07T06:18:00.000Z	Jordan_U	harushimo	sudo apt-get install enlightenment
+2007-07-07T06:18:00.000Z	Jordan_U	harushimo	you need to have universe enabled though
+2007-07-07T06:19:00.000Z	Jordan_U	harushimo	np

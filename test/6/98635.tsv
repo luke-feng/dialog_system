@@ -1,0 +1,6 @@
+2006-12-21T14:04:00.000Z	boness		hello again
+2006-12-21T14:06:00.000Z	boness		I have booted from Ubuntu Live CD and clicked to install it. I just installed Ubuntu without asking me what kind of installation I would like to do (workstation, server) and did not ask which packages I would like to install. Is is write? I remember having some options....
+2006-12-21T14:06:00.000Z	nolimitsoya	boness	you shouldnt be asked any of that
+2006-12-21T14:06:00.000Z	boness	nolimitsoya	and now to install apache etc I need to go to synaptic?
+2006-12-21T14:07:00.000Z	nolimitsoya	boness	yes, or use apt-get
+2006-12-21T14:52:00.000Z	nolimitsoya	boness	not all of them no

@@ -1,0 +1,6 @@
+2009-12-18T09:51:00.000Z	tmbg		sound for adobe flash is only coming out of my secondary soundcard (onboard). every mixer I have is configured to use the addon card (sb live 5.1) as primary. using 9.10, flashplugin-installer 10.0.42.34ubuntu0.9.10.1, firefox 3.5.5 ... how do you set the primary audio output for flash? (privmsg or use 'tmbg' to get my attention if you have an answer please)
+2009-12-18T09:52:00.000Z	kostkon	tmbg	install padevchooser
+2009-12-18T09:52:00.000Z	tmbg	kostkon	thanks heaps, I'll give it a shot
+2009-12-18T09:53:00.000Z	kostkon	tmbg	open, pulseaudio volume control, selec the "Applcations" tab, put a flash vid playin in fox, and in this tab you'll see the audio stream of flash. right click on it and select "move stream..." and then select your live
+2009-12-18T09:56:00.000Z	tmbg	kostkon	strange. only the sb live shows up in pulseaudio. nothing shows up in playback of all streams in pulseaudio volume controll. maybe padevchooser will work.
+2009-12-18T09:56:00.000Z	kostkon	tmbg	hmm

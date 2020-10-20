@@ -1,0 +1,6 @@
+2007-04-10T10:14:00.000Z	spasticteapot		Dumb question - is tar xvz the appropriate command to untar a .tgz file?
+2007-04-10T10:15:00.000Z	spasticteapot		Anyone know?
+2007-04-10T10:15:00.000Z	spasticteapot		I keep getting them mixed up.
+2007-04-10T10:15:00.000Z	orbin	spasticteapot	yes.x is for extract, v is for verbose, and z is to filter it through gzip
+2007-04-10T10:16:00.000Z	spasticteapot	orbin	I seem to have crashed the terminal, as it's talking a loong time to do it.
+2007-04-10T10:16:00.000Z	orbin	spasticteapot	try ctrl + C

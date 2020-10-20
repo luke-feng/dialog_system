@@ -1,0 +1,6 @@
+2005-07-11T10:12:00.000Z	DAWKIRST		When I open my synaptic up, I get this error message: W: Couldn't stat source package list http://security.ubuntu.com hoary-security/universe Packages (/var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_hoary-security_universe_binary-amd64_Packages) - stat (2 No such file or directory)
+2005-07-11T10:13:00.000Z	DAWKIRST		Any ideas how to fix this?
+2005-07-11T10:14:00.000Z	DAWKIRST		Anyone?
+2005-07-11T10:16:00.000Z	DAWKIRST		Okay, I'll try again: how to fix this: W: Couldn't stat source package list http://security.ubuntu.com hoary-security/universe Packages (/var/lib/apt/lists/security.ubuntu.com_ubuntu_dists_hoary-security_universe_binary-amd64_Packages) - stat (2 No such file or directory)
+2005-07-11T10:16:00.000Z	kbrooks	DAWKIRST	apt-get update
+2005-07-11T10:22:00.000Z	DAWKIRST	kbrooks	nalioth: after running sudo apt-get update:

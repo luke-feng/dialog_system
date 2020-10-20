@@ -1,0 +1,6 @@
+2010-02-13T19:02:00.000Z	Tek-5-8-6		When seting up partitions on Ubuntu 9.10, what is the best file system to use ? EXT4, EXT3, EXT2 ?
+2010-02-13T19:02:00.000Z	B3rz3rk3r	Tek-5-8-6	best is subjective.. so whatever works for you is best
+2010-02-13T19:04:00.000Z	Tek-5-8-6	B3rz3rk3r	: i know nothing about any of them. Not sure if anybody knew. I will be using it as a file server
+2010-02-13T19:06:00.000Z	B3rz3rk3r	Tek-5-8-6	if you dont know the difference then i wouldnt worry about too much. Personally i use EXT2 for my storage and, EXT3 for server drives and EXT4 for workstations
+2010-02-13T19:07:00.000Z	Tek-5-8-6	B3rz3rk3r	: ok, I have it set up on a RAID 1 configuration with 2 1 gig SATA drives. will EXT3 be the best bet still ?
+2010-02-13T19:08:00.000Z	B3rz3rk3r	Tek-5-8-6	again as i said before, there is no "best", but yes, EXT3 will work just fine for that setup

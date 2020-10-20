@@ -1,0 +1,6 @@
+2011-04-03T15:42:00.000Z	soreau	kufar2	kufar: The most interesting I see is [ 1499.960040] usb 1-4: ath9k_htc: Firmware - ar9271.fw download failed
+2011-04-03T15:42:00.000Z	soreau	kufar2	kufar: Do you already have internet working on this box?
+2011-04-03T15:43:00.000Z	soreau	kufar2	Then it shouldn't fail to download the firmware..
+2011-04-03T15:44:00.000Z	soreau	kufar2	Where do you see these messages anyway?
+2011-04-03T15:44:00.000Z	soreau	kufar2	Make sure the connection is working when it tries to auto-download the fw
+2011-04-03T15:45:00.000Z	soreau	kufar2	Or, boot the computer with the device un plugged, then plug it in once you know you have a reliable connection

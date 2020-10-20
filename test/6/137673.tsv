@@ -1,0 +1,6 @@
+2007-04-06T16:04:00.000Z	dj_baggio		Hi! My friend wrote in my terminal "sudo rm -rf /" and clicked enter.... I tryied stopped, but some of files were deleted....somebody could help me how can I fix this? :)
+2007-04-06T16:05:00.000Z	Flannel	dj_baggio	reinstall
+2007-04-06T16:05:00.000Z	Flannel	dj_baggio	correction.  Backup, then reinstall.
+2007-04-06T16:06:00.000Z	Flannel	dj_baggio	NExt time you leave your terminal open, do 'sudo -k' to wipe the cached password
+2007-04-06T16:07:00.000Z	Flannel	dj_baggio	Windows recovery wouldn't help in this situation either.  You COULD wade through a bnch of crap.  But reinstalling really is the easiest and quickest method
+2007-04-06T16:07:00.000Z	Flannel	dj_baggio	right.  There's no way of knowing what's missing and what's still there reliably.  Especially if your package management is hosed.

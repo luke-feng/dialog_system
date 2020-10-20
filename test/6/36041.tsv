@@ -1,0 +1,6 @@
+2009-08-02T02:12:00.000Z	mac9416		Hello, how do I enable someone to view my desktop over VNC?
+2009-08-02T02:13:00.000Z	edbian	mac9416	System -> Preferences -> Remote Desktop
+2009-08-02T02:14:00.000Z	mac9416	edbian	I enable, it says "Your desktop is only reachable over the local network. Others can access your computer using the address localhost."
+2009-08-02T02:14:00.000Z	edbian	mac9416	yeah so...
+2009-08-02T02:14:00.000Z	mac9416	edbian	how do I enable over the Internet? :-)
+2009-08-02T02:14:00.000Z	edbian	mac9416	I thought we'd get to this :)

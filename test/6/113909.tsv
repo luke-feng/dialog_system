@@ -1,0 +1,6 @@
+2008-09-19T18:16:00.000Z	Strang3r		can somebody tell me how to get to the configuration file of conky
+2008-09-19T18:16:00.000Z	Strang3r		i mean
+2008-09-19T18:16:00.000Z	Strang3r		there i have to put some thinks
+2008-09-19T18:16:00.000Z	Strang3r		but don`t know how to find it
+2008-09-19T18:16:00.000Z	Strang3r		;/
+2008-09-19T18:17:00.000Z	jrib	Strang3r	you create it in ~/.conkyrc, see: questions 12 and 13 here: http://conky.sourceforge.net/faq.html

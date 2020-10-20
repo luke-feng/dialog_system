@@ -1,0 +1,6 @@
+2010-05-12T06:41:00.000Z	psusi		damnit... they keep changing the switch to have glxgears print its fps... maybe they fully removed it this time
+2010-05-12T06:42:00.000Z	Dr_Willis	psusi	 thers no switch.. it prints the fps by default here.
+2010-05-12T06:42:00.000Z	psusi	Dr_Willis	lol... yea, now that I run it it does here too... for a while you had to say -printfps, then glxgears -iacknowledgethatthistoolisnotabenchmark
+2010-11-01T22:15:00.000Z	psusi	Dr_Willis	qebab: that doesn't stop you from using another boot disk
+2010-11-01T22:20:00.000Z	Dr_Willis	psusi	 if someone has physical access to the system..  your only real security would be to encrypt the filesystems I guess.
+2010-11-01T22:20:00.000Z	Dr_Willis	psusi	 or lock it up somewhere.

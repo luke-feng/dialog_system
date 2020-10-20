@@ -1,0 +1,6 @@
+2012-09-28T17:06:00.000Z	_XMENDES		i need install on xorg 2 monitors on 2 differents Vcards. 00:0a.0 VGA compatible controller: nVidia Corporation NV18 [GeForce4 MX 4000] (rev c1)
+2012-09-28T17:06:00.000Z	_XMENDES		01:00.0 VGA compatible controller: VIA Technologies, Inc. CN700/P4M800 Pro/P4M800 CE/VN800 [S3 UniChrome Pro] (rev 01
+2012-09-28T17:07:00.000Z	_XMENDES		i put busId on first 00.10:00 and secound 01:00:00 .. thats correct?
+2012-09-28T17:08:00.000Z	_XMENDES		its not working .. because the X crashes and i have to remove de xorg.conf to initialize again.
+2012-09-28T17:08:00.000Z	_XMENDES		error "no screen found"
+2012-09-28T17:09:00.000Z	Dr_willis	_XMENDES	 S3  is known to be very very problematic.

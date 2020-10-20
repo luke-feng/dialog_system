@@ -1,0 +1,6 @@
+2005-03-05T07:16:00.000Z	Assassinater		hey
+2005-03-05T07:16:00.000Z	Assassinater		is icewm good?
+2005-03-05T07:17:00.000Z	Assassinater		how do i install a WM?
+2005-03-05T07:17:00.000Z	Assassinater		how do i install a WM?
+2005-03-05T07:17:00.000Z	marinela	Assassinater	sudo apt-get install ice-wm
+2005-03-05T07:18:00.000Z	marinela	Assassinater	you have to uncomment universe

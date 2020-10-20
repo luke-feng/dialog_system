@@ -1,0 +1,6 @@
+2012-10-28T04:31:00.000Z	alsu		is there a command to move a file and symlink it back to where it was?
+2012-10-28T04:31:00.000Z	alsu		like: mv a b; ln -s b a
+2012-10-28T04:32:00.000Z	Jordan_U	alsu	Probably not a single command, though you could make a script / function which would do both operations for you.
+2012-10-28T04:33:00.000Z	alsu	Jordan_U	it just seems like something someone would have made. you could call it "rl" for "relocate"
+2012-10-28T04:35:00.000Z	alsu	Jordan_U	the hardest part is figuring out where the file actually ended up. "mv foo /tmp" for example put the file at /tmp/foo not /tmp
+2012-10-28T04:40:00.000Z	Jordan_U	alsu	I think the only special case is when the destination is a directory, and you can simply check for that. #bash can probably help you write a fairly robust script.

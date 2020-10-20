@@ -1,0 +1,6 @@
+2005-02-01T09:48:00.000Z	hikaru79		How can I (from command line, no synaptic), uninstall a program so that it's configuration files go with it? The equivalent of "Complete Removal" from Synaptic?
+2005-02-01T09:49:00.000Z	sladen	hikaru79	apt-get --purge remove package
+2005-02-01T09:49:00.000Z	hikaru79	sladen	thanks :)
+2005-02-01T09:49:00.000Z	sladen	hikaru79	you have to have the packaged installed to do that though
+2005-02-01T09:50:00.000Z	hikaru79	sladen	yup
+2005-02-07T06:25:00.000Z	sladen	hikaru79	perhaps you can tell us what 'fish' is

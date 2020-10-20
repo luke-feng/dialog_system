@@ -1,0 +1,6 @@
+2009-06-03T23:59:00.000Z	sjokkis		how much of a security risk is it to store a password in clear text, presuming that only the system user that needs the password has access to read the file?
+2009-06-04T00:01:00.000Z	chuck_	sjokkis	a very big one
+2009-06-04T00:01:00.000Z	sjokkis	chuck_	that's what i thought, too. why are some programs made that way?
+2009-06-04T00:02:00.000Z	sjokkis	chuck_	like, to let mpd update my last.fm account, it needs my last.fm password stores in clear text. isn't this really, really stupid?
+2009-06-04T00:04:00.000Z	chuck_	sjokkis	I have no idea why they want it that way but it is off topic anyway
+2009-06-04T00:04:00.000Z	sjokkis	chuck_	yeah, sure. i guess

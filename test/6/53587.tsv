@@ -1,0 +1,6 @@
+2009-12-20T01:42:00.000Z	AyCarumba		I need help running wine? Its installed, but I d/l 'd a exe file how do I install it under wine???
+2009-12-20T01:43:00.000Z	AyCarumba		How do install .exe files under wine?
+2009-12-20T01:43:00.000Z	AyCarumba		How do you install .exe files or windows programs under wine?
+2009-12-20T01:43:00.000Z	lstarnes	AyCarumba	open a terminal
+2009-12-20T01:44:00.000Z	lstarnes	AyCarumba	then use this: wime filename.exe
+2009-12-20T01:44:00.000Z	lstarnes	AyCarumba	oops, that should be wine, not wime

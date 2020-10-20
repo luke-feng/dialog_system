@@ -1,0 +1,6 @@
+2005-05-03T13:48:00.000Z	SkyNet		guys i get this error
+2005-05-03T13:48:00.000Z	SkyNet		Media change: please insert the disc labeled
+2005-05-03T13:48:00.000Z	SkyNet		 'Ubuntu 5.04 _Hoary Hedgehog_ - Release i386 (20050407)'
+2005-05-03T13:48:00.000Z	SkyNet		in the drive '/cdrom/' and press enter
+2005-05-03T13:48:00.000Z	SkyNet		when installing sshd what is it any ideas?
+2005-05-03T13:50:00.000Z	Ironfrost	SkyNet	-I had the same problem (in my case there were corrupted files on the install disc) and got around it by commenting the CD out of the aptitude sources list

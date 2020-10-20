@@ -1,0 +1,6 @@
+2007-01-14T13:00:00.000Z	baxter_kylie		Hi. I'm having trouble starting my wireless support. Could anyone assist me? I have an atheros card.
+2007-01-14T13:01:00.000Z	pollywog_	baxter_kylie	does that card use rt2500?
+2007-01-14T13:02:00.000Z	baxter_kylie	pollywog_	I have no idea. I don't think so. I'm just trying to get ath_pci modprobed but it can't find it and I don't see it in the repositories.
+2007-01-14T13:03:00.000Z	pollywog_	baxter_kylie	I have just gotten my rt2500 to work and I know lots of ppl have trouble with them
+2007-01-14T13:04:00.000Z	pollywog_		I have edgy and env does not show a long function like that
+2007-01-14T13:04:00.000Z	baxter_kylie	pollywog_	The wireless card isn't even in the system yet. I have to prep a hdd for physical installation on a machine with a kernel so that the machine will go up with an ssh server so that I can finish installation. That can't happen if the machine can't connect to the internet (wireless) so part of the prep is getting the wireless module set to start at boot.

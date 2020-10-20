@@ -1,0 +1,6 @@
+2009-12-11T17:19:00.000Z	therekku		how can i set "have the execute flag set" ?
+2009-12-11T17:21:00.000Z	therekku		basically what im trying to do is "Set the ATI Drivers for Execution", but how do i do it with the Chmod +x COmmand?
+2009-12-11T17:21:00.000Z	nibbler	therekku	just call "sh xyz" instead of "xyz"
+2009-12-11T17:23:00.000Z	therekku	nibbler	i dont understand..
+2009-12-11T17:24:00.000Z	nibbler	therekku	well, you can either "chmod +x /path/to/file" and then call "/path/to/file" or you can prepend "sh " - in most cases at least (if its not binary executable)
+2009-12-11T17:36:00.000Z	nibbler	therekku	should be in your startmenu under "wine->programs->blah"

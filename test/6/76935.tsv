@@ -1,0 +1,6 @@
+2008-03-08T19:58:00.000Z	kane77		how can I use tor with irc in ubuntu?
+2008-03-08T19:59:00.000Z	brobostigon	kane77	if you try to connect to freenode with tor, it will refuse connection
+2008-03-08T19:59:00.000Z	kane77	brobostigon	oh.. didn't know that...
+2008-03-08T20:00:00.000Z	brobostigon	kane77	freenode will not let you connect to freenode through tor
+2008-03-08T20:00:00.000Z	kane77	brobostigon	nevermind.. I'm sometimes paranoid for no reason... :)
+2008-03-08T20:01:00.000Z	brobostigon	kane77	it works for most other things, but that was one thing i found that it never works,

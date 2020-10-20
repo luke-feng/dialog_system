@@ -1,0 +1,6 @@
+2007-07-08T07:33:00.000Z	milllmannn		can someone help me with this error
+2007-07-08T07:33:00.000Z	milllmannn		Err http://us.archive.ubuntu.com dapper Release.gpg
+2007-07-08T07:33:00.000Z	milllmannn		  Temporary failure resolving 'us.archive.ubuntu.com'
+2007-07-08T07:34:00.000Z	milllmannn		i get this when i try to run apt-get update
+2007-07-08T07:34:00.000Z	Jordan_U	milllmannn	The US mirrors are sometimes flakey, try the standard ones ( Canada I think )
+2007-07-08T07:44:00.000Z	Jordan_U	milllmannn	Are you connected to the internet? Can you resolve anything?

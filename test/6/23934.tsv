@@ -1,0 +1,6 @@
+2011-07-11T18:59:00.000Z	bfri		does anyone know a good equivalent to hotspot shield ?
+2011-07-11T19:00:00.000Z	Pici	bfri	Perhaps if you explained what hotspot shield was, we could help.
+2011-07-11T19:01:00.000Z	bfri	Pici	sorry thought it was popular its to hide your IP address.  I want to surf with an IP from the US while I;m abroad
+2011-07-11T19:01:00.000Z	bfri	Pici	basically i want to continue services like pandora and hulu while abroad
+2011-07-11T19:41:00.000Z	Pici	bfri	There isn't a program or service in Ubuntu that automatically provides you with a proxied addres. You may want to look into tor, but you're not gaurantueed where your endpoint will be.
+2011-07-11T19:42:00.000Z	bfri	Pici	and thats my concern

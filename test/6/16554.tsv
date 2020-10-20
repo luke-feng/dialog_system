@@ -1,0 +1,6 @@
+2010-09-30T19:22:00.000Z	sivis		err
+2010-09-30T19:22:00.000Z	sivis		hi
+2010-09-30T19:23:00.000Z	sivis		can i ask for some help here? +)
+2010-09-30T19:23:00.000Z	undecim	sivis	Ask away, and if anyone can help you, they will just right in with their advice.
+2010-09-30T19:27:00.000Z	undecim	sivis	So both OSs are on non-raid disks and boot, but only one of them can see the RAID at a time?
+2010-09-30T19:39:00.000Z	sivis	undecim	yeah, and it seems like dmraid crashes raid on windows

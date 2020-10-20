@@ -1,0 +1,6 @@
+2009-12-05T07:22:00.000Z	sevol		Can someone show me how to chmod a folder and have all the files in the folder the same permissions?
+2009-12-05T07:22:00.000Z	sevol		i remember its somti like chmod 777 -R /folder ??
+2009-12-05T07:23:00.000Z	sevol		:O
+2009-12-05T07:24:00.000Z	skinnYPuP	sevol	this method works recursively too
+2009-12-05T07:24:00.000Z	sevol	skinnYPuP	 yes, but the files in the folder won't have the same permisisons
+2009-12-05T07:25:00.000Z	sevol	skinnYPuP	 thanks, :)

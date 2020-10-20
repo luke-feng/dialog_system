@@ -1,0 +1,6 @@
+2009-02-26T14:55:00.000Z	ghindo		Quick question - what kernel ships with Ubuntu 8.10?
+2009-02-26T14:55:00.000Z	ziroday	ghindo	2.6.27
+2009-02-26T14:56:00.000Z	ghindo	ziroday	Thanks!
+2009-02-26T14:56:00.000Z	ziroday	ghindo	however ubuntu cherry picks patches from the upstream kernel, its far, far from being the vanilla upstream kernel :)
+2009-05-23T09:43:00.000Z	ziroday	ghindo	ifconfig
+2009-05-23T09:44:00.000Z	ghindo	ziroday	I just get the 192.168 address with that

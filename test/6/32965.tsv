@@ -1,0 +1,6 @@
+2009-12-11T01:49:00.000Z	jMyles		Can mv work recursively?  For example, I want to mv *.avi from a tree of directories.
+2009-12-11T01:50:00.000Z	jrib	jMyles	no, you need to either use your shell's globbing abilities or find
+2009-12-11T01:56:00.000Z	jMyles	jrib	I'm a little lost.  Is there no simple way to just move all files with a particular namespec to a different directory?
+2009-12-11T01:56:00.000Z	jrib	jMyles	there is, I gave you two
+2010-02-16T02:11:00.000Z	jrib	jMyles	you don't need a live cd
+2010-02-16T02:13:00.000Z	jrib	jMyles	this is offtopic here, so if you have questions please try #apple or similar, but command-s during boot-up will drop you into single user mode on a mac

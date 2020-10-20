@@ -1,0 +1,6 @@
+2005-05-31T05:05:00.000Z	anne		hello!  anyone know anything about probing & loading usb ports?
+2005-05-31T05:06:00.000Z	wdh	anne	lsusb?
+2005-05-31T05:09:00.000Z	wdh	anne	sudo apt-get install lsusb
+2005-05-31T05:09:00.000Z	wdh	anne	and then retry
+2005-05-31T05:12:00.000Z	wdh	anne	then i do not know, i have lsusb installed here
+2005-05-31T05:13:00.000Z	anne	wdh	thanks anyway...i will keep looking....appreciate it a bunch..:)

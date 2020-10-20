@@ -1,0 +1,6 @@
+2010-10-12T01:26:00.000Z	glebihan	CajunLANMan	extras.ubuntu.com should be trusted, you can this key to your trusted keys with "sudo gpg --keyserver keyserver.ubuntu.com --recv--keys 16126D3A3E5C1192"
+2010-10-12T01:28:00.000Z	CajunLANMan	glebihan	that command isn't working.  stopping at --recv--keys
+2010-10-12T01:29:00.000Z	glebihan	CajunLANMan	what do you mean by "stopping at --recv-keys" ? what error do you get exactly ?
+2010-10-12T01:32:00.000Z	glebihan	CajunLANMan	sorry mistyped, it's --recv-keys not --recv--keys
+2010-10-12T01:34:00.000Z	CajunLANMan	glebihan	That did the trick.  Thanks a ton! One day I'll know these crazy commands.
+2010-10-12T01:35:00.000Z	glebihan	CajunLANMan	you're welcome :)

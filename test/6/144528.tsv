@@ -1,0 +1,6 @@
+2005-06-26T16:39:00.000Z	kcburyshaker		ive also tried the book thing.....but i have found that these IRC rooms are a greater help than any book could be
+2005-06-26T16:40:00.000Z	kcburyshaker		how can i tell if firestarter is running or not?
+2005-06-26T16:41:00.000Z	kcburyshaker		i thought it was a firewall
+2005-06-26T16:41:00.000Z	topyli	kcburyshaker	it doesn't really run. it just applies iptables rules to the kernel
+2005-06-26T05:25:00.000Z	topyli	kcburyshaker	distrowatch counts page hits, how many people look at the distro pages. no-one knows usage statistics :)
+2005-06-26T05:26:00.000Z	kcburyshaker	topyli	  true   but even if half of the hits are actual downloaders   then it still works out we are on top

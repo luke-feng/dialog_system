@@ -1,0 +1,6 @@
+2009-09-05T21:12:00.000Z	Jny145		hello, can anyone help mew with sshd?
+2009-09-05T21:13:00.000Z	trothigar	Jny145	yes
+2009-09-05T21:15:00.000Z	trothigar	Jny145	do you have physical access to your server. Please use my full nick as well so I see the alerts.
+2009-09-05T21:16:00.000Z	trothigar	Jny145	can you ssh to localhost on the server. that would be the first thing to try
+2009-09-05T21:17:00.000Z	Jny145	trothigar	I tried and I was able to
+2009-09-05T21:18:00.000Z	trothigar	Jny145	does the server have a public ip?

@@ -1,0 +1,6 @@
+2009-11-04T08:21:00.000Z	will1		excuse me!
+2009-11-04T08:21:00.000Z	will1		I just installed 9.10, installed nvidia drivers, and set up dual monitors. And now I have no taskbars. :(
+2009-11-04T08:21:00.000Z	will1		any ideas?
+2009-11-04T08:22:00.000Z	will1		no list of tasks, no launching of programs... only one of the monitors can have windows dragged onto it, the other can take the cursor but nothing else.
+2009-11-04T08:22:00.000Z	thedude42	will1	double check your resolution, your task bars may come back if you move the mouse to the top or bottom of the screen
+2009-11-04T08:23:00.000Z	will1	thedude42	I believe that the second monitor might have the taskbars, but I see only blackness and a cursor.. if I move a file from the desktop to the the black monitor, it disappears.

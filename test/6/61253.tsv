@@ -1,0 +1,6 @@
+2008-10-09T22:51:00.000Z	go_beep_yourself		how can i temporarily mount something that will give all users read permissions?
+2008-10-09T22:53:00.000Z	go_beep_yourself		unop-> ntfs and ext3
+2008-10-09T22:55:00.000Z	go_beep_yourself		unop-> i want it temporary
+2008-10-09T22:55:00.000Z	go_beep_yourself		indian_munnda-> cron
+2008-10-09T22:56:00.000Z	indian_munnda	go_beep_yourself	thanks
+2008-10-09T23:00:00.000Z	indian_munnda	go_beep_yourself	i think cron is controlled by CLI, is there any GUI software application for it?????

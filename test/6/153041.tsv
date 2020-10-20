@@ -1,0 +1,6 @@
+2005-06-10T08:28:00.000Z	dampjam		Anybody know why bsdutils would fail during the install every time?
+2005-06-10T08:29:00.000Z	cafuego	dampjam	Yes, there was a corrupted ISO a while back. Which one are you using?
+2005-06-10T08:29:00.000Z	cafuego	dampjam	Ok, that *should* work fine.
+2006-01-29T17:30:00.000Z	cafuego	dampjam	sudo chattr +i /etc/resolv.conf
+2006-01-29T17:31:00.000Z	dampjam	cafuego	the right way - like with dhclient
+2006-01-29T17:31:00.000Z	cafuego	dampjam	Check the dhcp client config file

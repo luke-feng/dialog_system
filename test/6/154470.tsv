@@ -1,0 +1,6 @@
+2006-05-28T05:33:00.000Z	redrum		how to upgrade from hoary to release candidate of dapper? :)
+2006-05-28T05:34:00.000Z	redrum		ooops *reads topic*
+2006-05-28T05:35:00.000Z	redrum		do i have to update to breezy and then dapper?
+2006-05-28T05:36:00.000Z	redrum		what would happen if i manually updated my sources.list from hoary to dapper rc and ran dist-upgrade? :)
+2006-05-28T05:36:00.000Z	ompaul	redrum	the supported route is one step at a time, I would wait until thursday at this stage
+2006-05-28T05:37:00.000Z	ompaul	redrum	some things might be involved in the big break

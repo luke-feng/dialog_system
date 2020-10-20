@@ -1,0 +1,6 @@
+2009-11-08T20:55:00.000Z	Paulo39		hi, i'm having problems with my login screen. i'm on ubuntu 9.10 and i have a login screen from xubuntu, and i cant change it! Can you help me please?
+2009-11-08T20:56:00.000Z	TheTom	Paulo39	same thing just happened to me! let's find out why
+2009-11-08T20:59:00.000Z	Paulo39	TheTom	Dr_Willis, Tartaros  in fact, is just like another usplash screen, blue, with XUBUNTU writed. i have the package xubuntu-gdm-theme installed, but, if i try to remove, synaptic tells me that he have to remove ubuntu-desktop and xsplash
+2009-11-08T21:32:00.000Z	Paulo39	TheTom	Dr_Willis, Tartaros i decided to uninstall xubuntu-gdm-theme and then reinstall ubuntu-desktop and xsplash. It worked, i dont have the xubuntu splash screen anymore. But i have another problem. (just a note, i installed epidermis, changed some things but i get no result:S) my big problem now is that since i upgraded to karmic, my start-up is slower. it spent more than 40seconds, after the grub menu
+2009-11-08T21:34:00.000Z	TheTom	Paulo39	ok, il try to remove and install the packages you did, and then reboot. my boottime is also considerably longer than before upgrade!
+2009-11-08T21:36:00.000Z	Paulo39	TheTom	ok, good luck, it's strange, the thing about boot time...

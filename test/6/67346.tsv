@@ -1,0 +1,6 @@
+2008-02-26T21:45:00.000Z	mb_		hi guys, how do i install mp3 support for amarok?
+2008-02-26T21:45:00.000Z	smm58	mb_	which ubuntu? kubuntu?
+2008-02-26T21:46:00.000Z	mb_	smm58	ubuntu gusty
+2008-02-26T21:48:00.000Z	smm58	mb_	try installing the current gstreamer plugin
+2008-02-26T21:49:00.000Z	mb_	smm58	whats the code?
+2008-02-26T21:49:00.000Z	smm58	mb_	or install this package: kubuntu-restricted-extras

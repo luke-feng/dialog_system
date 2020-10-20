@@ -1,0 +1,6 @@
+2007-04-01T12:02:00.000Z	kashogi		hello room need help with read only file
+2007-04-01T12:04:00.000Z	kashogi		i have windows harddrive tryin to save files from i have it mounted but the i cant seem to be able to copy the file from .
+2007-04-01T12:04:00.000Z	kashogi		i get error read only file
+2007-04-01T12:04:00.000Z	kashogi		anyone please help
+2007-04-01T12:05:00.000Z	kbidd	kashogi	by default, you can't write to an NTFS partition, but you should be able to read from it... if you mounted it as root, it is possible you forgot to give all users permission to read from the partition... try copying the files as root.
+2007-04-01T12:08:00.000Z	kbidd	kashogi	are you sure you have the partition mounted... (you probably already know this, but type "mount" with no options to view a list of currently mounted partitions, and what type they are mounted as)

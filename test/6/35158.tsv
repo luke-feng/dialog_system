@@ -1,0 +1,6 @@
+2009-12-09T20:59:00.000Z	StaticPhilly		afternoon all, does anyone know if i can get apt-get just to use the defaults without asking the user? basiclly im making a bash script that install some software, i just want it to use the defaults without asking the user
+2009-12-09T20:59:00.000Z	nocive	StaticPhilly	apt-get --yes package-list?
+2009-12-09T21:01:00.000Z	StaticPhilly	nocive	the -y option just skips asking to confirm the packages to install, but does not skip the options like for example, mysql-server asks to set the password and so on
+2009-12-09T21:03:00.000Z	nocive	StaticPhilly	http://blog.hjksolutions.com/articles/2007/07/27/unattended-package-installation-with-debian-and-ubuntu, have u seen this?
+2009-12-09T21:04:00.000Z	nocive		does anyone know the correct way to export an environment variable in a gnome menu item? please help :-)
+2009-12-09T21:05:00.000Z	StaticPhilly	nocive	thanks

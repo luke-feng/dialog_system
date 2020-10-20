@@ -1,0 +1,6 @@
+2007-05-12T12:31:00.000Z	Vektis		Hi, have got quiet audio in two Ubuntu installs, with different sound hardware... where can I adjust volume? Prefs|Volume does nothing
+2007-05-12T12:31:00.000Z	Vektis		lie, I can mute volume, and it still plays
+2007-05-12T12:33:00.000Z	Vektis		anyone help wit hvolume?
+2007-05-12T12:33:00.000Z	|chiz|	Vektis	open the volume control window and goto file->change device
+2007-05-12T12:34:00.000Z	|chiz|	Vektis	try adjusting those bars, that is if there is another device
+2007-05-12T12:36:00.000Z	|chiz|	Vektis	what sound device do you have?

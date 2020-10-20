@@ -1,0 +1,6 @@
+2009-12-01T03:35:00.000Z	piperfan		hello everyone, I'm trying to workaroud SiS graphics bug by editing /etc/X11/xorg.conf but it doesn't seem to exist in 9.10, any ideas?
+2009-12-01T03:35:00.000Z	sebsebseb	piperfan	SIS hmm
+2009-12-01T03:35:00.000Z	sebsebseb	piperfan	What is the problem your getting?
+2009-12-01T03:35:00.000Z	sebsebseb	piperfan	as far as I know there isn't really any  Desktop Linux support from SIS
+2009-12-01T03:36:00.000Z	sebsebseb	piperfan	and it would be  rather difficult for the  Desktop Linux developers to reverse enginer something
+2009-12-01T03:36:00.000Z	sebsebseb	piperfan	for SIS

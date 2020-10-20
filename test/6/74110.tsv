@@ -1,0 +1,6 @@
+2008-03-18T19:01:00.000Z	utarpradesh		okay, so i formatted the sandisk Cruzer using GPARTED... and created a fat32 partition....
+2008-03-18T19:01:00.000Z	utarpradesh		but now
+2008-03-18T19:01:00.000Z	utarpradesh		it won't mount
+2008-03-18T19:02:00.000Z	utarpradesh		it won't mount, giving me a box saying "there is probably no data"
+2008-03-18T19:02:00.000Z	utarpradesh		"there is probably no media on the drive"
+2008-03-18T19:03:00.000Z	ere4si	utarpradesh	fat 16 is normal for usb sticks

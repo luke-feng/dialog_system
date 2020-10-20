@@ -1,0 +1,6 @@
+2011-01-08T13:16:00.000Z	claw		how to add some content to an file. because the mark '>' will just overwrite it right ? an where can i read those things? im was trying to google that but dont realy know the name for such things. tried bash scripting
+2011-01-08T13:17:00.000Z	red2kic	claw	>>
+2011-01-08T13:17:00.000Z	claw	red2kic	where can i read more about things like that ?
+2011-01-08T13:19:00.000Z	red2kic	claw	http://mywiki.wooledge.org/BashGuide/InputAndOutput#Redirection
+2011-01-08T13:20:00.000Z	claw		thank you very much red2kic
+2011-01-08T13:20:00.000Z	red2kic	claw	">> will not empty a file; it will just append new data to the end of it!"

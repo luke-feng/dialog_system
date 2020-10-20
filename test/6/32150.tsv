@@ -1,0 +1,6 @@
+2010-01-24T22:25:00.000Z	coolcat		what command can I use to print my ip address?
+2010-01-24T22:25:00.000Z	BenB	coolcat	ifconfig
+2010-01-24T22:26:00.000Z	BenB	coolcat	or /sbin/ifconfig
+2010-01-24T22:28:00.000Z	coolcat	BenB	the inet addr or Bcast?
+2010-01-24T22:29:00.000Z	BenB	coolcat	inet addr natürlich
+2010-01-24T22:29:00.000Z	BenB	coolcat	inet addr, of course

@@ -1,0 +1,6 @@
+2011-01-02T16:33:00.000Z	temal		hi
+2011-01-02T16:34:00.000Z	temal		i'm searching for a way to connect to a wlan without the nm-applet. want to use i3 as wm and got no toolbar ...
+2011-01-02T16:34:00.000Z	temal		is there a tool for with cli-only?
+2011-01-02T16:35:00.000Z	temal		want to connect to wifi' from the shell
+2011-01-02T16:35:00.000Z	temal		without X
+2011-01-02T16:36:00.000Z	Dr_Willis	temal	 you can use the carious ifconfg/ iwconfig tools.

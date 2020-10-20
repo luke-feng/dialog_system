@@ -1,0 +1,6 @@
+2005-01-19T15:54:00.000Z	entius		every window that i open with nautilus is not capable to show the "tree" at the left. I've created a new soft link with the order "nautilus" that also does the same. How can i manage this?
+2005-01-19T15:54:00.000Z	Cube-ness	entius	right click a folder, browse
+2005-01-19T15:55:00.000Z	entius	Cube-ness	yes, this is how i can get the tree tab, but how can i get a soft link that directly does this?
+2005-01-19T15:56:00.000Z	Cube-ness	entius	you can make browse the default in system tools, configuration editor
+2005-01-19T16:03:00.000Z	entius	Cube-ness	thanks, it's done, another question, if i am on nautilus and i want to edit a file which is root protected, i see that i cannot write on it because i'm not the root. I know i could do it by terminal, but from nautilus how can i edit a file with root permisions?
+2005-01-19T16:15:00.000Z	entius	Cube-ness	yes (after a while) from gedit i can open what i want after a gksudo, but do i have to guess that there is no direct way to do it through nautilus?

@@ -1,0 +1,6 @@
+2010-10-13T00:31:00.000Z	bdbdbd		how to install dev headers for glibc?  seems to indicate they are already tehre.. yet i'm having problems with this
+2010-10-13T00:31:00.000Z	bdbdbd		checking for GLIB - version >= 2.6.0... no
+2010-10-13T00:31:00.000Z	bdbdbd		*** Could not run GLIB test program, checking why...
+2010-10-13T00:31:00.000Z	bdbdbd		*** The test program failed to compile or link. See the file config.log for the
+2010-10-13T00:31:00.000Z	bdbdbd		*** exact error that occured. This usually means GLIB is incorrectly installed.
+2010-10-13T00:31:00.000Z	FloodBot1	bdbdbd	Please don't flood, use http://paste.ubuntu.com to paste, don't use Enter as punctuation.

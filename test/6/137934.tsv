@@ -1,0 +1,6 @@
+2008-03-11T07:24:00.000Z	brandonc503		how can i check my ip in ubuntu.. not the one for my home but the one behind network.. the 192.168....
+2008-03-11T07:25:00.000Z	Flannel	brandonc503	ifconfig
+2008-03-12T06:52:00.000Z	Flannel	brandonc503	make a folder in your homedir named public_html and put stuff there (make it readable by www-data)
+2008-03-12T06:55:00.000Z	Flannel	brandonc503	Because you can put stuff in that folder as your own user, without having to deal with permission issues inside of www-data
+2008-03-12T06:55:00.000Z	Flannel	brandonc503	er, /var/www not www-data
+2009-07-21T11:25:00.000Z	Flannel	brandonc503	Make /var/www owned by www-data:www-data, add yourself to the www-data group, and then add writing to group permissions

@@ -1,0 +1,6 @@
+2006-11-18T09:28:00.000Z	ivx		what would the easiest way to use a printer connected to another computer connected to my router be?
+2006-11-18T09:28:00.000Z	Kingsqueak	ivx	what OS is on the computer where the printer is attached?
+2006-11-18T09:29:00.000Z	Kingsqueak	ivx	setup cups to allow sharing on the network, on the machine with the printer, setup cups for a 'network printer' using 'ipp' as the type on the other one, should be good to go
+2006-11-18T09:30:00.000Z	Kingsqueak	ivx	sure, if not, others should be able to help
+2006-11-18T10:05:00.000Z	Kingsqueak	ivx	'hostname'
+2006-11-27T06:14:00.000Z	Kingsqueak	ivx	try this http://www.freesoftwaremagazine.com/node/1684

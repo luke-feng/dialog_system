@@ -1,0 +1,6 @@
+2005-02-10T12:25:00.000Z	trey3	pchansan	checking the "Allow others to access VNC" or whatever option doesn't work?
+2005-02-10T12:26:00.000Z	pchansan	trey3	i have, but i still need it to start automatically.  Where would i tell it to do that?
+2005-02-10T12:26:00.000Z	trey3	pchansan	ahh... then you need a *real* VNC server  :)
+2005-02-10T12:41:00.000Z	trey3	pchansan	/etc/issue.net I think... one of the issue files...
+2005-02-10T12:42:00.000Z	pchansan	trey3	That just shows what version of ubuntu im using
+2005-02-10T12:44:00.000Z	trey3	pchansan	bah... thats what your computer is reported as online... but yeah... /etc/hostname

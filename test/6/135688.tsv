@@ -1,0 +1,6 @@
+2008-05-07T20:18:00.000Z	sabrina85		hi folks :)
+2008-05-07T20:18:00.000Z	sabrina85		how can I run apache's a2enmod ? it seems unavailable for me :(
+2008-05-07T20:20:00.000Z	sabrina85		anyone using apache2 here?
+2008-05-07T20:20:00.000Z	sabrina85		which packages holds it?
+2008-05-07T20:22:00.000Z	sabrina85		anyone? :(
+2008-05-07T20:22:00.000Z	soundray	sabrina85	apache2.2-common contains a2enmod

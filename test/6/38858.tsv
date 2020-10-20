@@ -1,0 +1,6 @@
+2009-04-20T02:30:00.000Z	karim		is there a way to repair a tar.gz file ?
+2009-04-20T02:30:00.000Z	karim		a broken one
+2009-04-20T02:30:00.000Z	karim		:-/
+2009-04-20T02:30:00.000Z	oleander	karim	are you looking for lost data
+2009-04-20T02:30:00.000Z	oleander		?
+2009-04-20T02:31:00.000Z	karim	oleander	I created an archive with dpkg-buildpackage and I can't extract it

@@ -1,0 +1,6 @@
+2005-07-04T15:25:00.000Z	svennglenn		Does anyone know how I can set Anjuta to compile my python sourcecode?
+2005-07-04T15:25:00.000Z	pgidz	svennglenn	you don't need to compile python source code
+2005-07-04T15:26:00.000Z	svennglenn		How do I run my python sourcecode in Anjuta then?
+2005-07-04T15:26:00.000Z	pgidz	svennglenn	you can run it from the CLI
+2005-07-04T15:28:00.000Z	svennglenn	pgidz	I want to write my code in Anjuta and then run it in Python via anjuta
+2005-07-04T15:30:00.000Z	pgidz	svennglenn	why would you want to run it via anjuta
