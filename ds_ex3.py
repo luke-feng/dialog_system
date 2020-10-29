@@ -22,6 +22,22 @@ def average_utterances_rating(line):
     return averageRating
 
 
+def average_utterances_rating_without_polar(line):
+    """
+    calculate the average human rating of  the utterances remove the max and min value
+    :param line: String type, a line of sentence, which includes the human rates
+    :return averageRating: float type, average utterances rating
+    """
+    rates = list(map(int, re.findall(r'(?<=\[|,)\d+', line)))
+    npRates = np.array(rates)
+    max_index = np.where(npRates == np.max(npRates))[0][0]
+    newRates = np.delete(npRates, max_index)
+    min_index = np.where(newRates == np.min(newRates))[0][0]
+    newRates = np.delete(newRates, min_index)
+    averageRatingWithoutPolar = newRates.mean()
+    return averageRatingWithoutPolar
+
+
 def average_human_rating(file):
     """
     calculate the average human rating of  the corpus
@@ -29,11 +45,13 @@ def average_human_rating(file):
     :return averageRating: dict type, average human rating for corpus level
     """
     humanScore = dict()
+    humanScoreWithoutPolar = dict()
     averageHumanRating = dict()
     for ids in range(1, 22):
         systemId = 'S_' + str(ids)
         humanScore[systemId] = list()
-        averageHumanRating[systemId] = 0
+        humanScoreWithoutPolar[systemId] = list()
+        averageHumanRating[systemId] = list()
     pattern = re.compile(r'^S_\d+')
 
     with open(file, 'r') as hf:
@@ -42,12 +60,18 @@ def average_human_rating(file):
             if len(systemId) > 0:
                 averageUtterancesRating = average_utterances_rating(line)
                 humanScore[systemId[0]].append(averageUtterancesRating)
+                averageUtterancesRatingWithoutPolar = average_utterances_rating_without_polar(line)
+                humanScoreWithoutPolar[systemId[0]].append(averageUtterancesRatingWithoutPolar)
 
     for ids in humanScore:
         npRates = np.array(humanScore[ids])
         averageRating = npRates.mean()
-        averageHumanRating[ids] = averageRating
+        npRatesWithoutPolar = np.array(humanScoreWithoutPolar[ids])
+        averageRatingWithoutPolar = npRatesWithoutPolar.mean()
+        averageHumanRating[ids].append(averageRating)
+        averageHumanRating[ids].append(averageRatingWithoutPolar)
     return averageHumanRating
+
 
 
 def get_hypotheses(path):
@@ -150,13 +174,13 @@ def bleu(hypotheses, references):
     for systemId in hypotheses:
         pred = hypotheses[systemId]
         normalBleu = sacrebleu.corpus_bleu(
-            pred, references,force=True,ref_weights=normalBleuWeight)
+            pred, references, force=True, ref_weights=normalBleuWeight)
         bleuScore[systemId].append(normalBleu)
         deltaBleuUniform = sacrebleu.corpus_bleu(
-            pred, references, force=True,ref_weights=deltaBleuUniformWeight)
+            pred, references, force=True, ref_weights=deltaBleuUniformWeight)
         bleuScore[systemId].append(deltaBleuUniform)
         deltaBleuGlobal = sacrebleu.corpus_bleu(
-            pred, references, force=True,ref_weights=deltaBleuGlobalWeight)
+            pred, references, force=True, ref_weights=deltaBleuGlobalWeight)
         bleuScore[systemId].append(deltaBleuGlobal)
     return bleuScore
 
@@ -254,11 +278,11 @@ def output_file(averageHumanRating, bleuScore, rougeScore, distinctN, file):
     :param distinctN: dict type, distinct-n scores for  each system
     :param file: string type, output file path
     """
-    firstLine = 'System,Averaged_Human_Rating,BLEU-4,deltaBLEU-4_Uniformed,deltaBLEU-4_Global,ROUGE-2,ROUGE-L,Distinct-1,Distinct-2,Distinct-3'
+    firstLine = 'System,Averaged_Human_Rating,Averaged_Human_Rating_Without_polar,BLEU-4,deltaBLEU-4_Uniformed,deltaBLEU-4_Global,ROUGE-2,ROUGE-L,Distinct-1,Distinct-2,Distinct-3'
     with open(file, 'w') as outf:
         outf.write(firstLine+'\n')
         for systemId in averageHumanRating:
-            outf.write(systemId+','+str(averageHumanRating[systemId])+',')
+            outf.write(systemId+','+str(averageHumanRating[systemId][0])+','+str(averageHumanRating[systemId][1])+',')
             if systemId in bleuScore:
                 outf.write(str(bleuScore[systemId][0][0])+','+str(
                     bleuScore[systemId][1][0])+','+str(bleuScore[systemId][2][0])+',')
